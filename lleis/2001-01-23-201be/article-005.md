@@ -1,0 +1,11 @@
+# Article 5
+Acta de constitució
+1. Per constituir una associació cal l'acord de tres o més persones, que manifestin en una acta fundacional la seva voluntat de constituir-la i es dotin d'uns estatuts on s'expressin les regles d'organització i funcionament de l'associació.
+2. L' acta fundacional ha de contenir:
+a) El nom i cognoms, el domicili, el número de passaport o de qualsevol altre document oficial d'identificació, i la data de naixement dels fundadors, si són persones físiques; i la denominació, la raó social, el número d'inscripció en el registre corresponent, així com les dades personals del representant de l'entitat per a aquest acte i l'acreditació del seu apoderament, si es tracta de persones jurídiques. Els estrangers han d'indicar també el seu número de passaport i, si escau, el seu permís o autorització de residència, si són persones físiques, i l'acreditació de la seva constitució segons la seva llei nacional i de la inscripció en el registre corresponent, si es tracta de persones jurídiques.
+b) La voluntat de constituir l'associació, que s'acredita per la firma de l'acta, en el cas de les persones físiques, i per la firma del representant i l'aportació de la certificació de l'acord de fundar l'associació que hagin pres els òrgans competents, en el cas de les persones jurídiques.
+c) L'aprovació dels estatuts pels quals es regirà l'associació, que han de contenir les dades que s'indiquen en l'article 6.
+d) La designació dels membres que formaran part dels òrgans directius de l'associació. Amb caràcter transitori, en l'acta fundacional es pot fer constar la designació d'una comissió gestora provisional, que, entre les altres funcions
+que se li assignin, ha de proveir per a l'elecció dels òrgans de govern definitius de l'associació en un termini determinat.
+e) El lloc i la data on s'estén el document.
+3. Als efectes de la seva inscripció en el Registre, l'acta fundacional d'una associació s'ha d'elevar a escriptura pública. L'elevació a escriptura pública és gratuïta en el cas de les associacions juvenils.

@@ -1,0 +1,28 @@
+# Article 18
+Assemblea general
+1. L'assemblea general és l'òrgan sobirà de l'associació, i en formen part tots els membres, directament o per representació, segons estableixin els estatuts.
+2. És competència de l'assemblea general, com a mínim:
+a) La modificació dels estatuts, que ha d'aprovar-se per majoria absoluta dels assistents i representats. Els estatuts poden establir quines matèries poden ser modificades per majoria simple. Queden exclosos d'aquesta possibilitat el
+sistema d'elecció de la junta directiva, la distribució de competències entre l'assemblea i la junta i els motius i procediment de cessament de la junta.
+b) L'elecció de la junta directiva i, si escau, del president de l'associació, si els estatuts no disposen que sigui elegit per la junta.
+c) El cessament de la junta i, si escau, del president, pel procediment establert en els estatuts. En tot cas, aquest procediment ha de preveure una votació de l'assemblea específica sobre aquesta qüestió. Si els estatuts no ho disposen altrament, la junta, o qualsevol dels seus membres individualment, pot ser cessada per una votació de l'assemblea general, específica sobre aquesta
+qüestió, que requereix la majoria simple dels assistents i representats.
+d) L'aprovació del pressupost anual, que ha de contenir expressió de les quotes
+o aportacions exigibles als socis, i l'aprovació de la liquidació del pressupost anterior.
+e) La incorporació de l'associació a una altra o a una unió d'associacions, així com la creació d'una altra associació.
+f) La separació definitiva de l'associació, dels membres, després de l'expedient disciplinari corresponent.
+g) La dissolució de l'associació.
+3. L'assemblea general es reuneix almenys una vegada l'any en sessió
+ordinària.
+4. La junta directiva o una desena part dels socis poden convocar una sessió extraordinària de l'assemblea general. En el cas de la convocatòria a instància dels socis, aquests han d'adreçar la sol·licitud a la junta directiva, que ha de fer efectiva la convocatòria en un termini màxim de vint dies.
+5. La constitució vàlida de l'assemblea general requereix que almenys hi siguin presents o representats la meitat dels membres de dret. Si no s'assoleix aquest quòrum, els estatuts poden preveure una segona convocatòria, per a la qual
+basti un quòrum inferior, fixat en els estatuts.
+6. La convocatòria de l'assemblea correspon a la junta directiva, que l'ha de tramitar amb un mínim de quinze dies d'antelació. La convocatòria ha d'incloure l'ordre del dia i el lloc, la data i l'hora de la reunió.
+7. La fixació de l'ordre del dia de les sessions ordinàries de l'assemblea general correspon a la junta directiva. A petició d'una desena part dels membres de dret de l'assemblea, presentada amb una antelació mínima de vuit dies abans de la celebració de la reunió, la junta ha d'incloure en l'ordre del dia les qüestions que demanin aquests membres. Els estatuts poden preveure els casos i les condicions en què la mateixa assemblea general pot acordar tractar qüestions
+no incloses en l'ordre del dia. La presa d'acords sobre aquestes qüestions,
+però, requereix en tot cas que els assistents a la reunió representin almenys la majoria absoluta dels membres de dret de l'assemblea i que aquesta es
+pronunciï per majoria absoluta dels assistents a favor de prendre acords sobre aquestes qüestions. La majoria requerida per adoptar aquests acords és la que correspongui ordinàriament per raó de la matèria.
+8. Els acords de l'assemblea general es prenen per majoria dels assistents i representats, llevat que els estatuts o aquesta Llei ho disposin altrament.
+9. Els membres de dret de l'assemblea poden delegar el seu vot en un altre
+membre de l'associació que els representi. Els estatuts poden fixar límits al nombre de delegacions de vot que pot rebre un soci. Els assistents a una
+sessió de l'assemblea general que disposin d'una delegació de vot de membres absents han de fer constar aquesta circumstància a l'inici de la sessió.

@@ -1,0 +1,4 @@
+# Article 14
+Cancel·lació d'ofici de la inscripció registral
+1. El responsable del Registre cancel·la la inscripció d'una associació en cas que no se sol·liciti la inscripció de cap acte dels enumerats en l'article 12 durant un període de deu anys.
+2. En el supòsit de l'apartat anterior, el responsable del Registre ha de notificar a l'associació, en el darrer domicili social que consti, o bé, si no en consta cap, mitjançant edicte al Butlletí Oficial del Principat d'Andorra, la proposta de cancel·lació de la inscripció. Si en el termini de trenta dies l'associació no realitza al·legacions i no regularitza la seva situació registral, el responsable del Registre dicta la resolució definitiva de cancel·lació. Contra aquesta resolució es pot interposar recurs en els termes de l'article 10 apartats 4 i 5.
