@@ -1,0 +1,2 @@
+# Article 10
+Els pares o tutors tenen dret a optar lliurement per qualsevol dels sistemes educatius implantats a Andorra, i el dret que llurs fills o pupils rebin la formació religiosa i moral d'acord amb llurs pròpies conviccions. Es garanteix als pares o tutors la llibertat d'associació per col.laborar i participar, de conformitat amb les lleis i els reglaments que les desenvolupin, en les activitats educatives i de formació de llurs fills o pupils.
