@@ -1,0 +1,2 @@
+# Article 129
+L'aute de conclusió del sumari es notificarà al querellant particular, malgrat que tingui solament el caràcter d'actor civil, al processat i a les altres persones contra les quals resulti responsabilitat civil, convocant-los a tots perquè compareguin davant del Tribunal de Corts en el termini de 10 dies. També es posarà en coneixement del Ministeri Fiscal, del Tribunal de Corts o del Jutge d'Apel.lacions, segons escaigui.

@@ -1,0 +1,2 @@
+# Article 194
+El judici serà públic i començarà per la lectura de la denúncia o els fonaments que han donat lloc a la seva iniciació, i es procedirà seguidament a l'examen dels testimonis convocats i a la pràctica de les altres proves acordades d'ofici o proposades pel Ministeri Fiscal o per les parts, i que hagin estat acceptades. A continuació farà ús de la paraula el Ministeri Fiscal, la part civil i finalment l'inculpat, el qual exposarà ell mateix o per mitjà del seu Advocat el que cregui convenient per a la seva defensa.

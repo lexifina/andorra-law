@@ -1,0 +1,2 @@
+# Article 211
+Quan el Secretari no trobi la persona a qui va a notificar, lliurarà la còpia de la resolució a qualsevol persona de la casa, començant per la més caracteritzada i en defecte d'aquesta, a qualsevol veí, preferentment al més immediat. Si la persona requerida es negués a signar el rebut, ho faran dos testimonis que es buscaran expressament, els quals no es podran negar a fer-ho sota pena de multa de fins a 15.000 pessetes.

@@ -1,0 +1,2 @@
+# Article 58
+En la primera declaració, el Batlle començarà per assegurar-se de la identitat de l'encausat, interrogant-lo sobre els seus noms, cognoms, renom, edat, lloc i data de naixement, domicili, professió, mitjans de subsistència, nacionalitat, estat civil, si té fills, si ha estat condemnat i, en cas afirmatiu, a quina pena. Posarà després al seu coneixement els fets que se li imputen i rebrà finalment les seves explicacions si accepta de contestar.

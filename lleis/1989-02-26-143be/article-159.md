@@ -1,0 +1,2 @@
+# Article 159
+Una vegada el Tribunal hagi manat que es presenti a declarar un testimoni, li preguntarà el nom, els cognoms, l'estat, l'edat i la professió; si coneix o no els inculpats i si hi té parentiu, amistat o qualsevulla altra relació; si ha estat condemnat i la pena que, si és el cas, li fou imposada. Prestat el jurament o la promesa que se li exigirà, li farà les preguntes que consideri més oportunes i pertinents per depurar els fets sobre els quals declari.

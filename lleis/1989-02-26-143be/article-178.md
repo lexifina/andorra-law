@@ -1,0 +1,3 @@
+## Capítol I. Actuacions Prèvies del Tribunal.
+# Article 178
+Rebuts els autes, el Jutge de Delictes Menors, els posarà de manifest immediatament a la Secretaria del Tribunal, al Fiscal, al querellant, si escau, al defensor o defensors i als tercers responsables per un termini conjunt de quinze dies, per tal que puguin proposar qüestions de previ pronunciament, la pràctica de noves diligències sumarials, el sobreseïment de la causa, l'obertura del judici oral o qualsevol altre pronunciament convenient al seu dret. Quan se sol.liciti pel Fiscal o el querellant particular judici oral, en el mateix escrit es formularà la qualificació provisional dels fets i es proposaran les proves de les quals intentin valer-se.

@@ -1,0 +1,2 @@
+# Article 304
+El Tribunal competent no estarà obligat a seguir la normativa processal establerta per aquest Codi sinó que, de manera informal, sense publicitat, a porta tancada, i sense cap mena de formalitat ni intervenció de Fiscal ni d'Advocat, escoltarà el menor, practicant proves i acordant les mesures de caràcter reeducatiu, correctiu o tutelar, tenint més en compte la personalitat intel.lectiva, psíquica i social del menor que el delicte comès.

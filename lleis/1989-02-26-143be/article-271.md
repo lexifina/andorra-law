@@ -1,0 +1,2 @@
+# Article 271
+Els encausats en els delictes de circulació de vehicles a motor podran, prèvia autorització del Batlle, absentar-se del Principat, àdhuc en el cas d'ésser estrangers, sempre que deixin abastament garantides les responsabilitats pecuniàries derivades del fet i que designin persona o entitat amb domicili al territori de les Valls, per tal de rebre les notificacions, citacions i emplaçaments.

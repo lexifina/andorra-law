@@ -1,0 +1,5 @@
+# Article 25
+En cas de detenció d'una persona i a petició seva es comunicarà telefònicament a algun dels seus familiars més pròxims el fet de la detenció. Aquesta comunicació haurà de fer-se abans de les cinc hores següents a la detenció o tant aviat com sigui possible si per les circumstàncies del temps o altres, la manca de notícies pot produir alarma a la família.
+Quan no sigui possible fer directament la comunicació telefònica, es procurarà fer-la per un altre mitjà o persona, sense imposició de temps, però sense cap demora injustificada.
+Excepcionalment i només en el supòsit de sospita de la comissió d'un delicte greu o que la publicitat de la detenció pugui afectar negativament la marxa de l'enquesta, la comunicació esmentada en els apartats anteriors podrà demorar-se el temps necessari.
+Tampoc no es farà la comunicació de referència quan el detingut així ho demani. Malgrat tot, si el detingut és menor d'edat i la Policia ho creu convenient podrà fer la comunicació als familiars.

@@ -1,0 +1,2 @@
+# Article 192
+Quan la instrucció s'acabi o fins i tot sense instrucció si els fets són suficientment provats per l'enquesta preliminar, el Batlle competent fixarà la data del judici i convocarà els inculpats, les altres parts i els testimonis amb una anticipació mínima de quinze dies, advertint a les parts que hauran de comparèixer a l'acte del judici amb les proves de què intentin valer-se. El Ministeri Fiscal haurà de ser informat amb la mateixa antelació de la relació dels procediments objecte del judici.

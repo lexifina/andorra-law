@@ -1,0 +1,2 @@
+# Article 135
+L'obertura de les sessions de l'any judicial s'efectuarà una vegada per any el primer dia de la sessió del mes d'octubre en presència dels membres del Tribunal de Corts, del Ministeri Fiscal i del Síndic General. Aquest els donarà la benvinguda, a l'ensems que els pregarà que observin els Privilegis, Usos i Costums i que mirin amb interès les causes dels pobres, orfes i desemparats; seguidament es declararan obertes les Corts, fent constar tot això en el Llibre d'Obertura de les Sessions.

@@ -1,0 +1,3 @@
+## Secció cinquena. Dels informes de l'acusació i la defensa.
+# Article 168
+Practicades totes les proves necessàries, el Tribunal demanarà a les parts que manifestin si eleven a definitives o modifiquen les seves conclusions provisionals, i després donarà la paraula perquè puguin informar al Ministeri Fiscal i als Advocats de l'acusador particular, al de l'actor civil, dels processats i de les persones civilment responsables, per aquest ordre. Acabats els informes, el President del Tribunal preguntarà als processats si tenen alguna cosa a manifestar i en cas afirmatiu els escoltarà. Seguidament es declararà conclòs el judici per sentència. El Secretari aixecarà acta de l'actuat amb la major fidelitat possible.

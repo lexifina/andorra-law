@@ -1,0 +1,2 @@
+# Article 210
+Les notificacions s'efectuaran mitjançant el lliurament de còpia o fotocòpia autenticada de la resolució, on ha de constar el dia, l'hora i el lloc en què es practiqui l'esmentada diligència, amb la signatura de la persona que rep la notificació, sota la fe del Secretari. Quan la notificació s'efectuï en el domicili de les parts, el Secretari podrà delegar el Nunci per portar-la a la pràctica.

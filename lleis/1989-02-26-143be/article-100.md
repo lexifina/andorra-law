@@ -1,0 +1,4 @@
+## Secció onzena. Del processament.
+# Article 100
+Quan de les diligències practicades en el sumari resulti algun indici racional de criminalitat contra una persona determinada, es dictarà aute de processament, que serà immediatament notificat al processat en una llengua que aquest comprengui. Així mateix, se l'informarà dels seus drets.
+El processat podrà, des del moment de ser-ho, aconsellar-se per un Lletrat i valer-se'n tant per instar la ràpida terminació del sumari, com per sol.licitar la pràctica de les diligències que li interessin; podrà també formular les pretensions que afectin la seva situació processal. Per donar compliment al que determina aquest article, el Batlle disposarà que el processat menor d'edat sigui dotat d'Advocat i Procurador, llevat que ell mateix o el seu representant legal n'hagin designat.

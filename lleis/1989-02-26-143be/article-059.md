@@ -1,0 +1,2 @@
+# Article 59
+El Batlle preguntarà també a l'encausat particularment on es trobava el dia i hora en què es cometé el delicte, en companyia de quines persones i en què s'ocupava; si sap qui són els seus autors, còmplices o encobridors dels fets; si té coneixement dels motius que determinaren la comissió del delicte i de les mesures que es prengueren per portar-lo a terme, i tot allò que, a més, es cregui necessari o convenient per esbrinar la veritat dels fets.

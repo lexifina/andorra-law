@@ -1,0 +1,3 @@
+## Capítol II. Actuacions prèvies del Tribunal.
+# Article 136
+Rebuts els autes, el Tribunal de Corts els posarà de manifest immediatament a la Secretaria del Tribunal, al Fiscal, a l'actor civil, al querellant, si fos procedent, al defensor o defensors i als tercers responsables, per un termini conjunt de 15 dies, per tal que puguin proposar qüestions de previ pronunciament, la pràctica de noves diligències sumarials, sobreseïment de la causa, obertura del judici oral o qualsevol altre pronunciament convenient al seu dret. Quan se sol.liciti pel Fiscal o pel querellant particular judici oral, en el mateix escrit es formularà la qualificació provisional dels fets i es proposaran les proves de les quals intentin valer-se.
