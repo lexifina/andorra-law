@@ -1,0 +1,4 @@
+# Article 1
+S'afegeix un segon paràgraf a l'article 4.2.5 de la
+## secció 4.2 del capítol 4 del títol IV, relatiu a la construcció, de l'Ordinació número 2 de Serveis Públics, del Consell General, de data 29 de juliol de 1981, amb el contingut següent:
+"La profunditat pot ser superior a la planta baixa quan es destini exclusivament a ús comercial al detall o dotacions d'equipaments públics, i amb la condició expressa que així ho reguli el corresponent pla parcial aprovat pel comú i pel Govern. Per a l'aplicació d'aquest supòsit en el marc d'un pla parcial, és necessària la cessió de terreny o d'altres béns immobles per a ús i gaudiment públics per part dels afectats. Reglamentàriament es determinaran les condicions d'aplicació, les quals tindran en compte els desnivells dels vials continguts a l'edificació i altres condicionants de l'entorn."

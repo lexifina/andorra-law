@@ -1,0 +1,10 @@
+Llei
+de modificació de l'Ordinació número 2 de Serveis Públics del Consell General de 29 de juliol de 1981
+Atès que el Consell General en la seva sessió del dia 30 de juny de 1999 ha aprovat la següent:
+Llei de modificació de l'Ordinació número 2 de Serveis Públics del Consell General de 29 de juliol de 1981
+Exposició de motius
+L'article 4.2.5. de la secció 4.2 del capítol 4 del títol IV relatiu a la construcció, de l'Ordinació número 2 de Serveis Públics del Consell General, de data 29 de juliol de 1981, disposa que en zona urbana la profunditat màxima edificable és de 22 metres, distància presa al centre de les façanes.
+La vocació predominant turística i comercial d'Andorra aconsella modificar el contingut de l'esmentada disposició, permetent, en determinats casos i condicions que la profunditat edificable sigui superior a 22 metres de forma limitada únicament a la planta baixa i amb ús comercial o dotacions d'equipaments públics; sense augmentar, doncs, la densitat urbanística de la zona. Aquest supòsit haurà de ser tingut en compte pel Govern a l'hora de definir per via de reglament les bases, les característiques i els continguts dels plans parcials i especials d'urbanització d'acord amb les facultats que a tal efecte li atorga l'Ordinació General aprovada pel Consell General en la sessió del dia 28 de juny de 1989,
+títol I de Serveis Públics, article 8 referent al desenvolupament urbanístic i urbanització.
+Així mateix és necessari la incentivació de la iniciativa privada per afavorir la cobertura del dèficit de places d'aparcament que existeix a Andorra sense cap cost addicional per a l'erari públic, sempre que es procedeixi prèviament a la declaració d'interès públic.
+La Llei reguladora de les ordinacions dins el marc de la Constitució, de data 3 de setembre de 1993, disposa que totes les ordinacions aprovades pel Consell General que eren vigents al moment d'entrada en vigor de la Constitució han quedat incorporades a l'ordenament jurídic general amb rang de llei, i que la seva modificació s'efectuarà d'acord amb el procediment legislatiu.
