@@ -1,0 +1,9 @@
+Llei
+reguladora de l'exercici dels professionals liberals de l'arquitectura
+Atès que el Consell General en la seva sessió del dia 30 de juny de 1999 ha aprovat la següent:
+Llei reguladora de l'exercici dels professionals liberals de l'arquitectura
+Exposició de motius
+Els professionals universitaris de grau mitjà i superior que fins ara han exercit les seves arts en els camps de l'edificació, els equipaments col.lectius, l'ordenació del territori i l'urbanisme, han contribuït a l'important creixement immobiliari del Principat. Però les exigències de major formació i competència tècnica, que han canviat durant els darrers anys, fan necessari el degut aclariment competencial en la matèria.
+La seguretat i la qualitat de les edificacions, cada dia més complexes, la seguretat jurídica, el respecte a les titulacions universitàries de grau superior i la lluita contra l'intrusisme professional, són valors de primer ordre, pels quals les administracions públiques i els col.legis professionals han de vetllar de manera especial.
+No es pot oblidar el passat ni, pel que fa al cas, menystenir els drets d'aquells professionals de les arts de la construcció que han aportat, al llarg dels anys, la seva col.laboració al creixement immobiliari del país. Tampoc no es pot negligir l'especial atenció que han de merèixer els esforços dels nous titulats universitaris de grau superior que dia a dia s'incorporen, no sense dificultats, al món del treball i que han de poder trobar el suport i la protecció de la societat i de les administracions públiques sota la forma de llei. Conciliar els drets d'uns i altres, protegir els interessos mutus i reforçar la personalitat i la funció dels col.legis professionals, és l'objecte primordial de la present Llei.
+D'acord amb aquestes consideracions, la Llei reguladora de l'exercici dels professionals liberals de l'arquitectura, s'articula com segueix:

@@ -1,0 +1,7 @@
+# Article 8
+Col.legiació obligatòria
+1. Els tècnics de grau superior que, de conformitat amb les disposicions legals vigents que regulen l'exercici de professions liberals al Principat i la present Llei, poden i volen exercir la seva professió d'arquitecte, a més d'obtenir l'autorització d'exercici professional del Govern, han d'estar obligatòriament col.legiats al Col.legi d'Arquitectes d'Andorra.
+2. Els sol.licitants d'autorització d'exercici de la professió d'arquitecte, en presentar la seva petició al Govern, a més de la preceptiva documentació acreditativa del compliment dels requisits legals, han de lliurar un informe previ favorable lliurat pel Col.legi d'Arquitectes d'Andorra.
+3. En lliurar l'informe favorable, el Col.legi d'Arquitectes d'Andorra ha verificat la conformitat de la titulació universitària en els termes de la present Llei i tots els altres requisits exigits per les restants disposicions vigents.
+4. Un cop obtinguda l'autorització del Govern per a l'exercici de la professió, el Col.legi d'Arquitectes d'Andorra dóna l'alta col.legial definitiva a la persona interessada.
+5. En el supòsit que el Col.legi d'Arquitectes d'Andorra es negui a lliurar l'informe, el lliuri desfavorable o de qualsevol altra forma s'oposi a la col.legiació d'un professional, haurà de notificar-ho a la persona interessada mitjançant escrit motivat. La persona interessada pot defensar el seu dret davant la jurisdicció administrativa.
