@@ -1,0 +1,5 @@
+# Article 116
+Els permisos de conducció lliurats pel Consell Executiu són conformes al model de l'annex 6 de la Convenció de Viena de 1968 i al model aprovat pel Consell de les Comunitats Europees.
+Hi han de constar les mencions indicades a continuació: Pàgina núm. 1. Cognoms, nom, data i lloc de naixement, domicili, fotografia i signatura del titular. Així mateix, hi ha d'haver el número del permís, la data d'expedició i la signatura de l'autoritat que l'expedeixi.
+Pàgina núm. 2. Categoria o categories per a les quals és vàlid el permís, segons la descripció continguda en l'article núm. 113.
+Pàgina núm. 3. Data en la qual el titular va obtenir el primer permís de conducció andorrà i la data o les dates de caducitat del permís, en cada categoria. Qualsevol variació en les dades corresponents al domicili del titular del permís de conducció ha d'ésser comunicada al Departament d'Indústria dins dels 15 dies següents a la data en què es produeixi, mitjançant la presentació d'un certificat de residència.
