@@ -1,0 +1,2 @@
+# Article 8
+Queda prohibida l'aportació als comptes electorals de fons provinents de qualsevol Administració pública, entitat parapública o de dret públic o societat pública, així com de les persones físiques o jurídiques, que mitjançant contracte vigent, prestin serveis o realitzin subministraments o obres per a alguna de les administracions públiques. Queda també prohibida l'aportació als esmentats comptes de fons provinents d'entitats o persones estrangeres.
