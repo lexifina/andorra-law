@@ -1,0 +1,23 @@
+Llei
+de l'impost indirecte sobre la prestació de serveis
+Atès que el Consell General en la seva sessió del dia 13 d'abril del 2000 ha aprovat la següent:
+llei de l'impost indirecte sobre la prestació de serveis
+Exposició de motius
+Tots els països moderns necessiten un nivell d'infrastructures mínimes i un conjunt de serveis per als ciutadans, que són sufragats majoritàriament per la despesa pública. Finançar aquesta despesa sense generar dèficits que
+hipotequin el futur i continuar prestant els serveis públics oportuns esdevé difícil quan una part important de les activitats econòmiques no repercuteix
+directament o indirecta en l'erari públic.
+Els canvis estructurals dels últims decennis han afectat les economies dels països desenvolupats, i encara més l'economia andorrana, per les seves especificitats, incrementant el pes dels serveis. Les circumstàncies canviants
+en l'entorn andorrà que s'han anat evidenciant des del principi dels anys 90 han posat en relleu les limitacions del marc fiscal actual, i la necessitat d'aportar les modificacions oportunes per garantir la viabilitat de les finances públiques a mitjà termini.
+La recerca dels recursos necessaris per afrontar les necessitats creixents de finançament de l'Estat porta de manera natural, primerament i abans de crear noves figures impositives, a esgotar les actuals ampliant-ne la base, per posar fi parcialment a la manca de neutralitat econòmica i impositiva que aquesta situació pot comportar.
+Aquest impost s'aplica a la prestació de serveis, independentment de si són prestats per persones físiques o jurídiques, residents o no residents. En el cas que el prestador del servei sigui un no resident, és el mateix destinatari de la prestació del servei qui ha de complir amb tot el conjunt d'obligacions de declaració i ingrés derivades de l'aplicació de l'impost, tot i que qui en resulta contribuent és el prestador del servei. És a dir, l'obligat que suporta la càrrega tributària derivada de l'aplicació de l'impost és el prestador del servei no resident, però l'obligació de declaració i ingrés recau sobre el destinatari resident.
+Aquest tractament hauria de permetre que el cost de l'impost pugui ser deduït
+en el país de residència per part del prestador del servei que no resideix a Andorra, i per tant que s'eviti l'efecte de l'encariment de l'import de l'operació final que ha de satisfer el resident andorrà.
+L'impost indirecte sobre els serveis es fixa d'acord amb un sistema de determinació objectiva com a règim general, atès que les característiques
+pròpies del Principat, el seu nivell de desenvolupament legal i econòmic i la situació actual de l'Administració central provoquen una manca de coneixement suficient del nivell, composició, valor i control de la producció interna de béns i la prestació de serveis.
+Aquesta Llei marc estableix les bases d'una imposició indirecta sobre els
+serveis que, en el termini màxim de dos anys, ha de ser desenvolupada a tots
+els sectors. S'estableix un sistema fiscal àgil, simple pel que fa als tràmits administratius, i econòmic pel que fa a la gestió, en què es poden tenir en compte les característiques de cada sector per establir els mecanismes de determinació de la base més adequats.
+Amb aquest impost es posa fi a la paradoxa que en una economia de serveis
+els impostos només afecten els béns, s'estableix una correlació positiva entre l'activitat econòmica i els ingressos de l'Estat.
+Una vegada acabat el desenvolupament d'aquesta figura a tots els sectors, l'optimització tributària hauria de comportar la refosa de tots els impostos indirectes sobre els béns i els serveis, és a dir l'impost de mercaderies indirecte i el que es fixa en aquesta Llei, en una sola figura impositiva a fi de millorar per una banda l'estructura impositiva indirecta de l'Estat andorrà i per altra banda l'homogeneïtzació de les nostres estructures tributàries amb les dels nostres veïns.
+La Llei que regula aquest impost es desenvolupa a través de vint-i-tres articles, distribuïts en cinc capítols; el primer, que consta de tres articles, estableix les definicions generals de l'impost; el segon, amb un total de vuit articles, desenvolupa el contingut essencial d'aquest impost; el tercer, compost per tres articles, estableix les obligacions dels obligats tributaris; el capítol quart, format per cinc articles, regula la gestió i la liquidació de l'impost; i l'últim capítol es destina a la regulació específica del règim d'infraccions i sancions relatiu a aquest impost. S'hi afegeix, també una disposició transitòria, dos disposicions addicionals i una disposició final.
