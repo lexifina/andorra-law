@@ -1,0 +1,2 @@
+# Article 2
+Podran exercitar el dret de vot en el referèndum els homes i dones de nacionalitat andorrana que, gaudint del dret de sufragi segons la legislació vigent, figurin nominalment inscrits a la llista electoral de la Parròquia de la seva residència o del seu origen, a la data en què la referida llista quedarà completada i publicada. Als efectes d'inscripció en les llistes electorals, no seran d'aplicació les previsions de l'article 14 de la Llei Electoral.
