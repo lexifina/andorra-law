@@ -1,0 +1,2 @@
+# Disposició addicional primera
+Els dipòsits de les reserves en garantia constituïts per les entitats bancàries, segons l'establert per aquesta Llei i per la Llei d'ordenació del sistema financer, de 27 de novembre de 1993, i la Llei de reserves en garantia de dipòsits i d'altres obligacions operacionals a mantenir i dipositar per les entitats enquadrades en el sistema financer, d'11 de maig de 1995, des de l'entrada en vigor d'aquesta Llei fins al 31 de març del 2005, no són remunerats.

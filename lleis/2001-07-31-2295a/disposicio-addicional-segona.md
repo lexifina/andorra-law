@@ -1,0 +1,2 @@
+# Disposició addicional segona
+Aquesta Llei és aplicable a les reserves constituïdes a la data d'entrada en vigor d'aquesta Llei i a aquelles altres que el Govern estableixi en virtut del que disposa l'article 17 de la Llei d'ordenació del sistema financer i la Llei de reserves en garantia de dipòsits i d'altres obligacions operacionals a mantenir i dipositar per les entitats enquadrades en el sistema financer.
