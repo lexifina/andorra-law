@@ -1,0 +1,10 @@
+Llei
+de creació de l'Institut Nacional Andorrà de Finances aprovada pel M.I. Consell General en la seva sessió ordinària del dia 12 de juny de 1989
+Exposició de motius
+La Llei General de les Finances Públiques, de 2 de desembre de 1983, en el seu Capítol VII, regula el règim del Tresor Públic i estableix, en particular, a l'article 60, apartat 3, que "els serveis financers del Tresor Públic podran ser realitzats a través d'una institució financera de caràcter públic o d'entitats de crèdit i d'estalvi del Principat, segons es determini reglamentàriament".
+L'objectiu de la present Llei és de crear aquella institució financera de caràcter públic, que s'anomenarà "Institut Nacional Andorrà de Finances" (abreujadament INAF) i que adoptarà la forma d'una entitat de dret públic amb personalitat jurídica pròpia i organització autònoma.
+La creació d'aquest Institut vindrà a omplir una llacuna en l'estructura administrativa del Principat. Es justifica en primer lloc per la importància dels fons públics a administrar en interès general, tot respectant els criteris d'eficàcia, de rendibilitat i de seguretat. A més a més, en la perspectiva de la creació d'un espai financer europeu, l'Institut estarà cridat a proporcionar a les autoritats un suport tècnic en l'elaboració de mesures eventualment necessàries per a salvaguardar els interessos de l'economia andorrana i en particular del seu sector financer. D'altra banda, el camp d'activitats de l'Institut podrà eixamplar-se a l'esdevenidor, si es creu oportú, per incloure-hi la captació de fons i l'atorgament de crèdit hipotecari.
+La credibilitat de l'Institut, particularment a nivell internacional, restarà assegurada per l'afectació de dotacions financeres i per l'atorgament de la garantia del Govern.
+Les disposicions d'aquesta Llei s'inspiren, d'una banda, en diversos estudis efectuats anteriorment dins aquesta òptica, i d'una altra banda, en els estatuts d'organismes financers públics en d'altres espais econòmics de dimensió comparable.
+Per les raons esmentades, el Consell General ha adoptat la següent,
+Llei
