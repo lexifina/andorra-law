@@ -1,0 +1,8 @@
+# Article 7
+Base de tributació
+1. La base de tributació està constituïda per l'import total de la contraprestació corresponent a la prestació dels serveis determinats anteriorment.
+2. Per als serveis amb contraprestació implícita, la base de tributació correspon a l'import resultant d'aplicar a cada operació de clients, en el cas dels crèdits, la diferència positiva entre el tipus d'interès de l'operació i el tipus d'interès de mercat i, en el cas dels dipòsits, la diferència positiva entre el tipus d'interès de mercat i el tipus d'interès de l'operació.
+Es consideren serveis amb contraprestació implícita aquells serveis prestats a clients en els quals el preu percebut per la realització de la prestació resulta principalment inclòs en el tipus d'interès de les operacions realitzades.
+Per a les operacions referenciades en euros, s'entén per tipus d'interès de mercat el que resulti de l'euríbor calculat en el mateix termini i condicions que els previstos en l'operació. Per a les operacions referenciades en altres monedes, s'entén per tipus d'interès de mercat l'equivalent a l'anterior corresponent a la moneda utilitzada. En el cas que per les característiques de l'operació no hi hagi un tipus de mercat explícit, s'utilitza el més pròxim al període i les condicions de l'operació.
+3. Per als serveis de canvi de moneda, la base de tributació correspon al diferencial entre el preu de compra i el preu de venda d'aquestes operacions.
+4. En les operacions la contraprestació de les quals no consisteixi en diners es considera base de tributació la que s'hagués acordat en condicions normals de mercat entre parts independents.
