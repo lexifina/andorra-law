@@ -1,0 +1,3 @@
+# Article 38
+Els espectacles o esdeveniments esportius públics que no estiguin promoguts o organitzats per entitats esportives legalment reconegudes, i que desenvolupin un esport, una modalitat o una disciplina que estigui assumida per alguna federació esportiva i no disposi del seu suport explícit, han de fer constar i palesar de forma clara, en el mitjà de difusió pública en què es divulguin i en els trofeus i guardons que es puguin atorgar, que l'activitat desenvolupada per les persones o les entitats que hi participen no té caràcter competitiu o bé que és de caràcter afeccionat.
+Aquesta constància és obligatòria, llevat que disposin d'autorització expressa del Ministeri competent en esports.

@@ -1,0 +1,2 @@
+# Segona
+Els centres escolars oficialment reconeguts, i altres entitats, si escau, que sol.licitin o que rebin el suport del Govern han de sotmetre's, en tot cas, a les prescripcions contingudes en aquesta Llei, i en especial a les disposicions relatives a la cessió de la utilització de les seves infraestructures esportives fora de les hores lectives a altres entitats legalment reconegudes o a esportistes, mitjançant els convenis corresponents i d'acord amb les directrius del Pla general d'infraestructures esportives.

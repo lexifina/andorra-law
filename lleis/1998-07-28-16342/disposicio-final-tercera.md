@@ -1,0 +1,3 @@
+# Tercera
+L'adaptació de les disposicions estatutàries i reglamentàries que han de realitzar les entitats esportives s'efectuarà dins els terminis que assenyalin les normes de desplegament d'aquesta Llei.
+Tanmateix, les sol.licituds d'inscripció d'entitats esportives, així com l'aprovació dels seus estatuts o les seves modificacions que es presentin abans de l'aprovació de les normes reglamentàries de desplegament d'aquesta Llei, seran resoltes pel Ministeri competent en esports, d'acord amb les regles i els criteris previstos en aquesta Llei i tenint en compte el bon desenvolupament esportiu de les entitats sol.licitants.

@@ -1,0 +1,3 @@
+## Capítol II. Els clubs esportius, les agrupacions esportives i les seccions d'acció esportiva
+# Article 7
+Es consideren clubs esportius, a l'efecte d'aquesta Llei, les associacions privades sense ànim de lucre, amb personalitat jurídica i capacitat d'obrar, que tenen per objecte la promoció d'una o més modalitats esportives, la seva pràctica esportiva per part dels associats, així com la participació en activitats i competicions esportives. Per atorgar la consideració de club esportiu, a més dels requisits que s'estableixen en aquesta Llei, cal que l'entitat estigui inscrita o afiliada, almenys, en una federació esportiva.

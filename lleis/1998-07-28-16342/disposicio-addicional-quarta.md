@@ -1,0 +1,2 @@
+# Quarta
+Els clubs o les entitats estrangeres que participin o competeixin al Principat d'Andorra dins del programa oficial de competicions de caràcter nacional i que es desenvolupin regularment dins d'una mateixa temporada esportiva, han d'estar afiliats a la federació esportiva andorrana corresponent, llevat que existeixin convenis de reciprocitat entre federacions. Pel que fa a la seva constitució i al seu funcionament, es regeixen per les disposicions vigents en la matèria al seu país, i queden exclosos de la resta d'obligacions.

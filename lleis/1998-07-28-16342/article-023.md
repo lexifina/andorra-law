@@ -1,0 +1,3 @@
+# Article 23
+1. El règim jurídic de les entitats esportives que es regulen en aquesta Llei s'ha de desplegar per via de reglament. A les entitats esportives federades els són aplicables subsidiàriament les normes reguladores de les federacions esportives que siguin compatibles amb cada organització.
+2. Les entitats que sol.licitin la inscripció al Registre d'Entitats Esportives del Govern han d'acreditar una activitat social i una activitat o pràctica esportives continuades, en el nivell o l'àmbit que correspongui, per poder tenir el caràcter d'entitat registrada i reconeguda als efectes esportius.

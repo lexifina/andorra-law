@@ -1,0 +1,3 @@
+# Article 3
+1. La finalitat d'aquesta Llei és la definició dels objectius i els principis rectors de l'esport, i l'ordenació del règim jurídic i de l'organització institucional de l'esport.
+2. Els objectius bàsics d'aquesta Llei són el foment, la divulgació, la planificació i coordinació, l'execució i la implantació de la pràctica de l'activitat física i l'esport, a tots els nivells i estaments socials, a fi de fer realitat el dret de tot ciutadà a desenvolupar o exercitar les seves facultats físiques, intel.lectuals i morals, mitjançant l'accés lliure a una formació física adequada i a la pràctica de l'esport.

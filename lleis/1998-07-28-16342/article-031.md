@@ -1,0 +1,5 @@
+# Article 31
+1. Les sessions del Consell Andorrà de l'Esport poden tenir caràcter ordinari o extraordinari. Es reuneix amb caràcter ordinari, com a mínim una vegada cada trimestre, per tractar els assumptes generals propis del Consell i d'acord amb l'ordre del dia elaborat prèviament pel seu president.
+El Consell Andorrà de l'Esport col.labora en l'elaboració del Pla general d'infraestructures esportives de caràcter plurianual que s'efectua durant el primer trimestre de cada any olímpic.
+2. La convocatòria en sessió extraordinària es fa quan ho estimi oportú el president o li ho sol.licitin per escrit almenys la meitat dels membres. Les convocatòries es fan per escrit del president amb una antelació mínima de set dies per a les ordinàries, i de dos dies per a les extraordinàries. La convocatòria ha d'incloure l'ordre del dia de la sessió corresponent.
+3. El funcionament i el sistema d'elecció dels membres del Consell Andorrà de l'Esport s'establirà reglamentàriament, sense perjudici de les funcions que es fixen en aquesta Llei.

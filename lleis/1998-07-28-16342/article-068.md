@@ -1,0 +1,2 @@
+# Article 68
+L'inventari d'infraestructures esportives ha de contenir entre d'altres dades, el nombre de les infraestructures existents amb la determinació de la modalitat o modalitats esportives que s'hi puguin desenvolupar; la seva localització, amb expressió de la seva titularitat pública o privada; el seu estat; els serveis que té; la seva capacitat i la seva adequació a les normes d'accessibilitat.

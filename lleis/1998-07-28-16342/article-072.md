@@ -1,0 +1,2 @@
+# Article 72
+Els organitzadors dels esdeveniments, els espectacles i les competicions autoritzats, o bé organitzats o promoguts per entitats esportives legalment reconegudes, que estiguin adreçats al públic en general, han de cedir als mitjans de comunicació una quota mínima de drets d'imatge i d'informació per a la seva difusió pública, atès que l'esport és considerat una activitat d'interès general.

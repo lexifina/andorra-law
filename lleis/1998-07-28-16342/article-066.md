@@ -1,0 +1,3 @@
+# Article 66
+1. Les normes de funcionament intern de la Comissió per a la tramitació dels procediments sancionadors, la classificació de les infraccions i el règim de les sancions es determinen per reglament tenint en compte les normes administratives i els principis generals disciplinaris i sancionadors assenyalats en aquest títol.
+2. En tot cas, la Comissió, abans de resoldre, ha d'instruir expedient i concedir audiència a la persona interessada, la qual pot comparèixer en el procediment amb l'assistència de la persona que designi; la Comissió aplica les reglamentacions esportives vigents de cada federació esportiva.
