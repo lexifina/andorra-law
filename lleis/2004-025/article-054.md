@@ -1,0 +1,3 @@
+# Article 54
+Restauració a compte del responsable del dany
+Quan s'ha produït un dany al medi ambient i, especialment, quan hi ha un perill greu per a la salut de les persones o quan existeix un risc de perjudici greu i irreversible per al medi ambient, les administracions públiques han d'exigir al causant del dany que procedeixi a restaurar el medi afectat. En cas d'incompliment d'aquesta obligació, el Govern ha de procedir a efectuar la restauració del medi afectat a càrrec del responsable, sense perjudici de l'aplicació del principi de repercussió econòmica de les despeses de tot tipus que hi han hagut en el procés de restauració.
