@@ -1,0 +1,2 @@
+# Article 26
+Els assentaments dels llibres d'inscripcions i els altres assentaments d'estat civil, a què es refereix l'article 23 i que són els principals, s'estenen sense deixar folis o espais en blanc, i si n'hi ha, s'han d'inutilitzar tant en els textos dels impresos encasellats com en qualsevol altre amb els corresponents ratllats, i només s'hi poden utilitzar les abreviatures o els guarismes legalment permesos. Són nul.les les addicions, les postil.les, els interlineats, les raspadures o les esmenes que no se salvin abans de firmar els assentaments.

@@ -1,0 +1,2 @@
+# Article 21
+Totes les persones adscrites al Registre Civil o que hi prestin servei estan obligades a guardar secret respecte de tot el que coneguin per raó de la tasca que se'ls ha confiat. A més de les responsabilitats penals i civils que corresponguin, la violació del secret és motiu de pèrdua del càrrec, expulsió del cos de funcionaris, i/o ruptura del contracte de treball sense necessitat de preavís i sense dret a indemnització.

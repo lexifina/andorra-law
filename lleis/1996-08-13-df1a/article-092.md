@@ -1,0 +1,2 @@
+# Article 92
+En la inscripció de la limitació de la capacitat s'ha d'expressar l'àmbit de la capacitació afectada per la limitació i el seu abast, i si és el cas, el nomenament de tutor o curador de la incapacitat amb expressió de les facultats i les limitacions que afectin el nomenament, si són diferents de les legals d'aquests càrrecs. S'hi ha de fer constar també l'òrgan jurisdiccional que hagi dictat la resolució i la data d'aquesta resolució.

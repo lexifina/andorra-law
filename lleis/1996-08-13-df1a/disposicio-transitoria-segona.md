@@ -1,0 +1,4 @@
+# Disposició transitòria segona
+Els actes d'estat civil inscrits en els registres eclesiàstics d'Andorra fins a les 24 hores del dia anterior a aquell expressat en la disposició transitòria primera, podran ésser certificats pels encarregats dels dits registres eclesiàstics, segons les normes vigents del dret canònic.
+El Govern, en el termini màxim de sis mesos iniciarà negociacions amb les autoritats eclesiàstiques competents per facilitar la transcripció al Registre Civil dels actes d'estat civil inscrits en els registres eclesiàstics d'Andorra especificats en el paràgraf precedent.
+Quan en virtut de la present llei s'hagin transcrit en el Registre Civil les inscripcions contingudes en els registres eclesiàstics o en els registres civils estrangers, el Registre Civil podrà lliurar certificacions de les transcripcions fent menció expressa que es tracta d'una transcripció i de la seva data.

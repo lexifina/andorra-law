@@ -1,0 +1,2 @@
+# Article 94
+S'ha d'inscriure al marge de la inscripció de naixement, amb expressió del fet o l'acte que la motiva, la pèrdua, la suspensió, la privació, la modificació i, si és el cas, la recuperació de la pàtria potestat que afecti, de forma activa o passiva, persones de nacionalitat andorrana o residents al Principat, així com totes aquelles que, afectant persones estrangeres no residents, siguin declarades pels òrgans jurisdiccionals andorrans.

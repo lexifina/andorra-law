@@ -1,0 +1,2 @@
+# Article 90
+Quan es tracti d'òrgans jurisdiccionals nacionals, el jutge o el tribunal que hagi dictat la resolució n'ha d'enviar, una vegada sigui ferma, al registrador, una còpia autèntica amb menció de la seva fermesa, perquè es procedeixi immediatament a la seva inscripció. La resolució judicial ha de contenir totes les dades d'identificació de la persona o les persones afectades a l'efecte, si és necessari, es pugui procedir a una anotació del naixement que serveixi de suport per a la inscripció de la incapacitació.

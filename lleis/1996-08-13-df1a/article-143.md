@@ -1,0 +1,2 @@
+# Article 143
+L'autoritat eclesiàstica pot requerir lliurament de certificacions integrals de matrimoni i de naixement, fins i tot de fills fora de matrimoni i adoptius després de presentació prèvia d'un certificat emanat de la mateixa autoritat eclesiàstica que provi que s'està instruint un expedient de matrimoni canònic o s'està substanciant una causa sobre nul.litat, dispensa o separació canòniques sempre que n'hagi donat coneixement previ als interessats.

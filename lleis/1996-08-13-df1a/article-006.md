@@ -1,0 +1,2 @@
+# Article 6
+Les inscripcions al Registre Civil constitueixen la prova dels fets o els actes que hi consten inscrits. Unicament poden ésser utilitzats altres mitjans de prova en els casos de manca d'inscripció o bé quan per qualsevol causa no sigui possible certificar un assentament. En aquests casos, perquè siguin admesos altres mitjans de prova, cal que, prèviament o simultàniament, s'insti mitjançant els actes o els procediments corresponents, la inscripció omesa o la reconstrucció de l'assentament.

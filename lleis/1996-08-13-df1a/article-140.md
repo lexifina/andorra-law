@@ -1,0 +1,3 @@
+# Article 140
+En les certificacions literals es transcriu íntegrament l'assentament del punt sobre el qual que se sol.licita certificació i el text de tots els altres assentaments, de qualsevol classe que integrin el foli registral.
+Si les necessitats dels serveis ho aconsellen, els certificats sobre assentaments dels llibres de naixements, matrimonis i defuncions poden efectuar-se mitjançant fotocòpies de la totalitat del foli registral, certificades per diligència estesa i signada sobre les fotocòpies pel registrador. Aquestes fotocòpies així autenticades tenen el caràcter i els efectes de certificacions literals.

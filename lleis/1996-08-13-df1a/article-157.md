@@ -1,0 +1,3 @@
+# Article 157
+1. Si no hi ha hagut un pronunciament en aquest sentit en la causa penal oportuna, i no és possible anul.lar, declarar ineficaç o modificar l'assentament afectat per un dels procediments establerts en la present Llei o en una altra norma processal, el Ministeri Fiscal ha d'instar, en procediment civil, la nul.litat, la ineficàcia o la modificació dels assentaments afectats per un delicte o una falta contra l'estat civil, o per irregularitat registral motivadora de sanció disciplinària.
+2. Estan legitimades per instar en procediment civil la nul.litat, la ineficàcia o la modificació al.ludides en l'apartat anterior, les persones a què es refereix l'assentament afectat, i qualsevol altra persona que acrediti tenir-hi un interès legítim.

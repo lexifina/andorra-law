@@ -1,0 +1,3 @@
+## Capítol III. Abandonats
+# Article 70
+S'inscriu al Registre Civil el naixement dels abandonats dins del territori andorrà, sempre que no en consti la inscripció en un altre registre civil, cosa que ha de comprovar el registrador amb audiència del Ministeri Fiscal, prèviament a la inscripció. A l'efecte de la present Llei, es consideren abandonats tots aquells nounats de pares desconeguts que siguin trobats en estat d'abandonament en qualsevol lloc d'Andorra i, així mateix, els menors de 10 anys, o els deficients els pares dels quals -coneguts o desconeguts- s'hagin absentat, sense que es conegui el lloc on es troben, i els hagin deixat desemparats.

@@ -1,0 +1,2 @@
+# Article 91
+Si es tracta de resolucions dictades per òrgans jurisdiccionals estrangers, estan obligats a promoure la inscripció el tutor o el curador de la incapacitat sense dilació des del moment de prendre possessió del càrrec, salvat que hi hagi convencions internacionals contràries. També poden promoure la inscripció d'aquestes resolucions les persones que en tinguin coneixement i acreditin tenir interès legítim en la inscripció.

@@ -1,0 +1,4 @@
+# Article 76
+1. Quan el naixement ha tingut lloc després dels 300 dies següents a la separació conjugal, sigui de fet, provada documentalment o per testimonis en expedient registral, sigui judicial, provisional o per sentència ferma, sense que hi hagi hagut reconciliació posterior, únicament es pot inscriure la paternitat del marit de la mare si resulta del consentiment o el reconeixement d'aquest sense oposició de l'esposa, a la qual s'ha de notificar, si és el cas, el dit reconeixement.
+2. La constància de la separació dels cònjuges, del reconeixement o del consentiment del marit i de la notificació a l'esposa, mare de l'inscrit, s'efectua per expedient registral.
+A manca del consentiment o el reconeixement del marit, a què es refereix el paràgraf anterior, únicament és inscriptible la paternitat resultant de declaració judicial.

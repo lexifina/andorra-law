@@ -1,0 +1,2 @@
+# Article 63
+En cas de part múltiple s'han d'inscriure els nascuts seguint l'ordre de naixement i s'ha de fer constar l'hora i el minut exacte de naixement de cada un, i qualsevol particularitat física de caràcter permanent que individualitzi els que siguin del mateix sexe. Així mateix, queden arxivades al Registre Civil les còpies de les empremtes de les plantes del peu en cas que s'hagin obtingut.

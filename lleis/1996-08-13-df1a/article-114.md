@@ -1,0 +1,3 @@
+# Article 114
+Les sentències dels tribunals civils o canònics, andorrans o estrangers, que afectin vàlidament matrimonis inscriptibles o inscrits al Registre d'Andorra, es porten al foli registral en què es trobi l'assentament del matrimoni corresponent o ha de practicar-se, si escau, una anotació de suport, i s'inscriu marginalment. Igualment s'inscriuen en el foli de naixement dels fills menors d'edat tinguts en el matrimoni.
+Aquestes inscripcions exigeixen que les sentències reuneixin els requisits generals previstos per la llei per les resolucions nacionals o estrangeres o canòniques segons el cas.

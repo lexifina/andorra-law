@@ -1,0 +1,2 @@
+# Article 44
+A l'efecte del Registre Civil són hàbils tots els dies i totes les hores de l'any. No obstant això, el registrador determina els dies i les hores d'oficina i d'atenció al públic, tenint en compte que fora d'aquests horaris puguin atendre's, si és necessari, les declaracions i les inscripcions de defunció i llicència de sepultura i incineració a Andorra, o altres actes urgents i inajornables.

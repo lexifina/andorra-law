@@ -1,0 +1,2 @@
+# Article 88
+Quan es tracta de l'emancipació d'estrangers residents a Andorra, el naixement dels quals no consta inscrit al Registre Civil, cal aportar, a més de la còpia corresponent de l'escriptura, un certificat literal de naixement, i s'ha de procedir a la inscripció del naixement observant-se el previst en l'article 46 de la present Llei. En el cas que no es pugui aportar certificació literal del naixement, s'ha de practicar una anotació de suport fent constar que és a l'efecte únic de servir de suport a la inscripció d'emancipació.

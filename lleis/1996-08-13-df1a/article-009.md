@@ -1,0 +1,3 @@
+# Article 9
+Les decisions de tribunals estrangers relatives a l'estat o a la capacitat civil dels andorrans només poden ésser inscrites o anotades al Registre Civil després que els òrgans judicials andorrans els hagin reconegut força executòria a Andorra, salvat el cas de tractats i convencions internacionals contraris.
+El mateix requisit, amb la mateixa excepció, és necessari per a les decisions dels tribunals estrangers relatives a l'estat civil o a la capacitat dels estrangers, quan aquests, sense perjudici del compliment de les condicions previstes al present article, pretenguin inscriure-les al Registre Civil d'Andorra.

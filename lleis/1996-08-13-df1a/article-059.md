@@ -1,0 +1,2 @@
+# Article 59
+Transcorregut el termini legal sense haver-se efectuat la declaració de naixement, qualsevol persona que n'hagi tingut coneixement està obligada a comunicar-lo al Ministeri Fiscal, el qual promou expedient del Registre Civil o bé, en el cas a què es refereix el tercer paràgraf de l'article 61, promou judici civil declaratiu ordinari davant del Tribunal dels Batlles. Tant en l'expedient com en el judici s'han de verificar tots els elements necessaris per procedir a la inscripció del naixement.

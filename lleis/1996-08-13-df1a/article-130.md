@@ -1,0 +1,2 @@
+# Article 130
+Abans que hagi recaigut la resolució judicial ferma declarant la mort, els instants, el Ministeri Fiscal o els òrgans jurisdiccionals, poden promoure l'anotació d'una referència del procediment incoat, amb efecte simplement informatiu, aportant una còpia, autenticada per l'òrgan jurisdiccional que l'ha rebut, de l'escrit en el qual s'exercita l'acció. Els desistiments, les prescripcions i la caducitat esdevinguts abans de la resolució judicial han d'ésser comunicats immediatament per l'òrgan jurisdiccional al Registre Civil.

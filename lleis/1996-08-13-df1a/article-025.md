@@ -1,0 +1,3 @@
+# Article 25
+Els llibres del Registre Civil s'obren amb una diligència que redacta i signa el registrador en la primera plana de cada llibre. En aquesta diligència s'ha de fer constar a quina secció del Registre correspon el llibre, la quantitat de planes que conté -les quals han d'ésser segellades, numerades i signades pel registrador- així com la data d'obertura del mateix llibre.
+Una vegada esgotades les pàgines del llibre o sempre que, per qualsevol causa, s'hagi de tancar, el registrador ha d'estendre dins el termini de 3 dies una altra diligència en què ha de fer constar la causa i la data del tancament, i el nombre d'inscripcions.

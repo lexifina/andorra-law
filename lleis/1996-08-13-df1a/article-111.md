@@ -1,0 +1,3 @@
+# Article 111
+Els capítols i les convencions matrimonials entre cònjuges dels quals almenys un és andorrà, i les dels estrangers que hagin contret matrimoni a Andorra, que siguin autoritzades fora d'Andorra, han d'ésser inscrites a diligència d'ambdós cònjuges o d'un d'ells, sense dilació, presentant al registrador un testimoni o una còpia fefaents de l'instrument públic pel qual ha estat atorgat el conveni, expedits en les condicions de fons i de forma exigides al país on hagi tingut lloc l'atorgament.
+La inscripció conté les dades identificatòries del títol d'inscripció i, pel que fa al contingut d'aquest, la seva part essencial i adequada al caràcter i la finalitat de l'assentament.

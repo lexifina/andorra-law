@@ -1,0 +1,6 @@
+# Article 65
+El nom propi pot ésser simple o compost si bé, en aquest darrer cas, no pot contenir més de dos noms simples, units per un guió.
+Els cognoms han d'ésser en primer lloc el patern i, seguidament, el matern. S'entén per cognom patern el primer cognom del pare i per cognom matern, el primer dels personals de la mare. Tanmateix, si els pares conjuntament ho sol.liciten, en el moment de la inscripció, es podrà invertir l'ordre i inscriure en primer lloc el cognom matern i en segon lloc el patern. Quan la filiació sigui determinada legalment tan sols respecte de l'un dels progenitors, la criatura portarà els dos cognoms d'aquest pel mateix ordre.
+Els fills naturals reconeguts únicament pel pare conserven els cognoms del pare. Els reconeguts únicament per la mare conserven els cognoms de la mare. En un cas o en altre, el pare o la mare poden decidir lliurement l'ordre dels cognoms.
+Els cognoms poden ser invertits mitjançant una simple declaració de l'inscrit major d'edat davant el registrador. Aquesta inversió no té efecte fins que no és inscrita.
+El representant legal de l'inscrit pot sol.licitar la inversió dels cognoms quan concorri justa causa que ha d'apreciar el registrador. Contra la decisió negativa d'aquest es pot interposar recurs davant del Tribunal Unipersonal del Batlle.

@@ -1,0 +1,3 @@
+# Article 72
+La inscripció del naixement de l'abandonat es realitza d'acord amb les dades resultants de la resolució judicial corresponent, en què s'han de fer constar totes les dades d'identificació de l'abandonat, així com el lloc, el dia i l'hora en què ha estat trobat, i també les altres que exigeix l'article 62, si són coneguts. A l'efecte registral, es considera lloc i data del naixement el lloc, el dia i l'hora en què ha estat trobat, i per any, aquell que correspongui a la seva edat aparent.
+Si posteriorment a aquesta inscripció són coneguts el lloc i la data de naixement, i altres dades d'identificació de l'abandonat, que s'han de comprovar en l'expedient registral amb audiència del Ministeri Fiscal, s'han de fer constar al marge de la inscripció del naixement.

@@ -1,0 +1,2 @@
+# Article 39
+Les persones relacionades a l'article anterior poden ésser representades en l'actuació registral de què es tracti per aquelles altres que posseeixin la seva representació legal, o per un advocat o un procurador que exerceixin legalment la professió a Andorra i disposin de poder especial per a l'acte registral, llevat del cas que la Llei exigeixi la intervenció personal i directa de la persona interessada.

@@ -1,0 +1,2 @@
+# Article 85
+Quan el naixement de l'adoptat no sigui inscrit al Registre Civil d'Andorra, a més dels documents referits a l'article precedent, cal aportar un certificat literal de naixement del registre estranger on hagi estat inscrit. Prenent per base aquest certificat, es procedeix a transcriure al Registre d'Andorra el seu naixement. En el cas que no es pugui aportar certificació literal del naixement, es practica una anotació de suport fent constar que aquesta s'ha practicat a l'efecte únic de servir de suport a la inscripció d'adopció.

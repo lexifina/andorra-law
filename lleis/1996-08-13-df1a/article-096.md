@@ -1,0 +1,2 @@
+# Article 96
+L'òrgan jurisdiccional que declari la pèrdua, la suspensió, la privació, la modificació o la recuperació de la pàtria potestat està obligat a enviar una còpia autèntica de la resolució ferma al Registre Civil perquè es procedeixi immediatament a la seva inscripció. En aquesta resolució judicial hi han de constar les dades necessàries per procedir, quan calgui, a l'anotació del naixement de les persones afectades.

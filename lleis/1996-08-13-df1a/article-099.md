@@ -1,0 +1,7 @@
+## capítol VIII del títol IV.
+## Capítol IX. Nacionalitat
+# Article 99
+1. S'han de fer constar per anotació marginal, en la inscripció de naixement, les resolucions administratives i judicials andorranes dictades per l'Administració i pels tribunals andorrans relatives a l'adquisició, la pèrdua o la recuperació de la nacionalitat de persones de nacionalitat andorrana o de residents a Andorra, així com les dictades per autoritats o tribunals estrangers relatives a la mateixa matèria i les mateixes persones.
+2. Amb aquesta finalitat, les autoritats i els òrgans jurisdiccionals andorrans que dictin les resolucions a què fa referència l'apartat 1 han de trametre d'ofici al Registre Civil una certificació o una còpia autèntica d'aquestes resolucions i de la seva fermesa, amb expressió de les dades personals de la persona afectada per procedir, si és necessària, a una anotació del naixement que serveixi de suport per a l'anotació marginal relativa a la nacionalitat.
+3. Si es tracta de resolucions dictades per autoritats o tribunals estrangers, estan obligades a promoure l'anotació marginal les persones afectades en la seva nacionalitat o els seus representants legals. Poden promoure l'anotació d'aquestes resolucions les persones que en tinguin coneixement i acreditin tenir interès legítim en l'anotació.
+4. Les mencions de nacionalitat que es facin en virtut del present article i, en general, les que es facin en qualsevol assentament, no tenen caràcter constitutiu i no són, per si mateixes, prova de nacionalitat.
