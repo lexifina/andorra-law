@@ -1,0 +1,7 @@
+# Article 8
+Per obtenir l'autorització de residència passiva la persona sol.licitant, com a titular principal i inicial, ha de reunir els requisits següents:
+a) Ésser major de 18 anys.
+b) Acreditar que disposa de mitjans econòmics suficients que permetin a la persona sol.licitant i a les persones al seu càrrec residir al Principat d'Andorra sense necessitat d'exercir-hi cap activitat laboral o professional per compte d'altri ni per compte propi per tot el temps de vigència de la residència passiva.
+c) Justificar i tenir en vigència per a Andorra una cobertura o assegurança, pública o privada, per malaltia, incapacitat i vellesa per a la persona sol.licitant i per a les persones al seu càrrec per tot el temps de vigència de la residència passiva.
+d) Demostrar documentalment que és propietari o llogater o d'una casa o d'un apartament, o que ha iniciat els tràmits per adquirir o llogar un habitatge al Principat, els quals hauran de concloure en el termini d'un any a comptar de la presentació de la sol.licitud de residència.
+e) La signatura per part de la persona sol.licitant i de les persones al seu càrrec d'un compromís de fixar el seu domicili principal a Andorra, de mantenir en vigència el contracte d'assegurança, l'acreditació de no tenir antecedents penals per infraccions doloses ni a Andorra ni als països de residència anteriors, i no constituir una amenaça per a l'ordre públic i la seguretat de l'Estat.

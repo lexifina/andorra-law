@@ -1,0 +1,2 @@
+# Article 10
+En el cas que una autorització caduqui sense que la persona interessada presenti la corresponent sol.licitud de renovació en el termini de sis mesos i sense causa justificada, el Govern decretarà la seva anul.lació. Tanmateix i dins el període d'un any a comptar des de la data de caducitat de l'autorització, la persona titular pot regularitzar la seva situació si justifica que continua inscrita al Comú on resideix.

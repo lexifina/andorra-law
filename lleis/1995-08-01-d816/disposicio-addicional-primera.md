@@ -1,0 +1,2 @@
+# Disposició addicional primera
+El Govern ha d'establir un sistema de registre i d'inscripció de les persones que visquin temporalment a Andorra per fer-hi estudis o per seguir tractaments mèdics, els quals no es compten als efectes de la quota anyal autoritzada ni dels requisits establerts en els articles 8 i 9. Tanmateix aquestes persones han de fer declaració formal de disposar d'assegurança que els cobreixi el risc de malaltia, d'accident o d'invalidesa.

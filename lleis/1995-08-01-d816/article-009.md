@@ -1,0 +1,4 @@
+# Article 9
+El titular principal d'una residència passiva, amb independència de la seva categoria, en el seu nom i en el de les persones al seu càrrec d'acord amb l'article 4, ha de fer efectiu l'import al Govern d'un milió de pessetes (1.000.000 PTA) no remunerats, que ha de ser dipositat a l'INAF i que els serà retornat en acabar, causar baixa o ser anul.lada l'autorització de residència, amb la reserva de les retencions que es puguin produir per incompliment de les obligacions davant de l'Administració, després de resolució judicial ferma prèvia.
+Queden exceptuats de l'obligació d'establir aquest dipòsit les persones titulars d'una residència passiva per jubilació concedida amb anterioritat a l'entrada en vigor de la present Llei.
+A més el titular principal d'una residència passiva ordinària haurà de fer efectiva una taxa anyal d'un milió de pessetes (1.000.000 PTA).
