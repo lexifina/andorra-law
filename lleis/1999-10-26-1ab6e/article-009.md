@@ -1,0 +1,8 @@
+# Article 9
+Accions de fundador
+1. Les accions subscrites pels socis fundadors, mentre romanguin en possessió d'aquests, i amb la precisa condició que el soci fundador en conservi un paquet d'almenys vint-i-cinc mil donen dret a:
+a) Intervenir en la confecció dels projectes de pla d'inversió de la societat, que hauran d'aprovar després el consell d'administració i la junta general d'accionistes, i en el seguiment i control de l'execució dels plans aprovats.
+b) Ésser representats al Consell d'Administració en la forma que disposa l'article 29 dels presents estatuts.
+c) En el cas de dissolució de la societat, a percebre la quota de liquidació, si n'hi havia, per mitjà de l'atribució dels mateixos actius que cada un dels socis fundadors va aportar a la societat per a desembossar les seves accions, o els que els hagin substituït per subrogació real. I també, durant el procés de liquidació, a l'adquisició preferent dels mateixos actius aportats a la societat en concepte de desembossament de capital social, o els que els hagin substituït per subrogació real, al preu que resulti de la seva taxació.
+d) Que la societat mantingui oberta una oficina comercial en la zona en què el soci fundador de què es tracti la tenia en el moment de la constitució de la societat.
+2. En el moment en què els socis fundadors es desprenguin de les seves accions de fundador, aquestes es converteixen en accions ordinàries, de forma que el nou adquirent únicament té els drets a què fa referència l'article 8, precedent, però no els enumerats en el present article. Igualment, si el paquet d'accions d'un soci fundador esdevé inferior a la xifra prevista a l'apartat 1, totes les seves restants accions de fundador es converteixen en ordinàries.
