@@ -1,0 +1,9 @@
+# Article 14
+Funcionament intern del Govern
+1. El Govern és convocat pel cap de Govern, el qual en fixa l'ordre del dia.
+2. Els ministres i les altres persones convocades estan obligades a assistir a les reunions del Govern, llevat els casos de força major o d'autorització del cap de Govern.
+3. Les decisions del Govern, en els casos que requereixen una votació interna, es prenen per majoria simple. Els empats es dirimeixen pel vot de qualitat del cap de Govern.
+4. Tots els membres del Govern responen solidàriament de les decisions del Govern, amb independència de la posició expressada en la votació interna o de l'eventual inassistència a la reunió corresponent.
+5. En tots els casos, les deliberacions tingudes en les reunions del Govern són secretes. Els membres del Govern i totes les persones que assisteixen a les reunions estan obligats a guardar secret de les deliberacions i de les opinions i els vots que cadascú hi emet. Tampoc no poden divulgar els documents que coneixen per raó del càrrec, mentre no s'han fet públics oficialment.
+6. Els assumptes en relació amb els quals s'ha de pronunciar el Govern han de ser debatuts en la reunió corresponent. No obstant això, en els casos que la Constitució o les lleis no exigeixin una deliberació del Govern, però sí el seu acord, els ministres, a requeriment del cap de Govern i en el termini que aquest fixi, poden fer-li arribar per escrit el seu acord o desacord amb la proposta. L'acord que s'escaigui s'ha de fer constar en una acta datada en el dia que fineix el termini de resposta tot fent constar el caràcter escrit del procediment emprat. La decisió sobre si és exigible o no la deliberació correspon exclusivament al cap de Govern sota la seva responsabilitat.
+7. El funcionament del Govern, en allò que no és previst a la llei, ha de ser regulat mitjançant un reglament intern del Govern, aprovat per decret.

@@ -1,0 +1,11 @@
+Llei
+del Govern
+Atès que el Consell General en la seva sessió del dia 15 de desembre del 2000
+ha aprovat la següent:
+llei del Govern
+Exposició de motius
+Des de 1985, la Llei d'organització de l'Administració general ha regulat la vida administrativa en molts aspectes, però el pas dels darrers 15 anys, i molt especialment la promulgació de la Constitució han fet necessària l'adaptació de gran quantitat de textos legals, dels quals no podem excloure la Llei d'organització de l'Administració general.
+La Constitució dissenya un nou concepte d'Administració sotmesa al dret, en consagra el caràcter instrumental i la posa al servei dels administrats, garanteix la submissió de les administracions públiques al principi de legalitat i a les normes que regeixen la seva pròpia administració.
+Aquesta nova Llei recull la concepció constitucional i regula la composició i les funcions del Govern com a òrgan superior col·legiat que, sota l'autoritat del seu cap, dirigeix la política i l'Administració general de l'Estat, l'organització de suport al Govern i el seu funcionament. Es fixa un nombre màxim de dotze ministres i un mínim de sis, i es regulen les funcions dels ministres i dels alts càrrecs. Es modifica l'organització de suport del Govern pel que fa als alts càrrecs. Desapareix el càrrec de secretari general tècnic i es crea la figura de secretaris d'Estat, el cap del Gabinet del Cap de Govern i el cap de Protocol, i es manté el càrrec de secretari general del Govern.
+També regula el funcionament del Govern, especificant com s'estructuren les reunions, possibilitant la creació de comissions sectorials delegades i concretant el funcionament intern, la documentació de les seves reunions, la formalització dels seus actes i la delegació de funcions.
+Finalment, la present Llei deroga, en aquells aspectes que han mantingut la vigència després de l'entrada en vigor de la Constitució, el Decret dels coprínceps de 15 de gener de 1981 sobre el procés de reforma de les institucions; els articles 14, 15 i el paràgraf 3r de l'article 20 del Codi de l'Administració, de 29 de març de 1989, i el Decret del cap de Govern de 6 d'abril de 1982 de creació de la Secretaria General del Govern i del cos de secretaris generals tècnics.
