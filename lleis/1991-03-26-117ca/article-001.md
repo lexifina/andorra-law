@@ -1,0 +1,4 @@
+# Article primer
+D'acord amb allò que presenta l'article 24 de la Llei General de les Finances Públiques, s'aproven els crèdits extraordinaris i els suplements de crèdit que es detallen en la relació adjunta per un import total de 4.341.269.332 pessetes, amb la finalitat de finançar:
+a) Les despeses corresponents a l'exercici de 1990 o anterior, derivades de compromisos assumits i no pressupostats amb anterioritat a la presa de possessió de l'actual Govern i que no han pogut ser cancel.lats o ajornats durant els mesos transcorreguts. La dotació per a aquest concepte és de 3.357.597.962 pessetes desglossades en les partides referenciades en l'annex 1.
+b) Les despeses pressupostàries no previstes en els pressupostos per a 1990. La dotació per a aquest concepte s'eleva a 983.671.370 pessetes desglossats en les partides referenciades en l'annex 1.
