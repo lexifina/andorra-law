@@ -1,0 +1,2 @@
+# Article 6
+Pot esdevenir andorrana la persona estrangera que contregui matrimoni amb una persona andorrana, si acredita tenir domicili i residència efectiva al Principat, ininterrompudament durant els tres anys anteriors o posteriors a la celebració del matrimoni, prova haver perdut la o les nacionalitats que ostenta, declara la seva voluntat d'adquisició de la nacionalitat andorrana i prova la seva integració a Andorra.

@@ -1,0 +1,2 @@
+# Article 14
+Tota persona que ostenti la nacionalitat andorrana pot renunciar a la mateixa voluntàriament, sempre que provi tenir una altra nacionalitat en el moment en què vol perdre-la i la renúncia no comporti frau a la llei andorrana. La renúncia s'haurà de presentar al Govern el qual verificarà el compliment de les dues condicions esmentades. Si el frau a la llei es descobrís i es posés de manifest després d'haver-se fet efectiva la pèrdua, aquesta no tindrà efectivitat.

@@ -1,0 +1,2 @@
+# Article 21
+El qui per adquirir, conservar, recuperar o veure's reconeguda la nacionalitat andorrana, hagués fet falses declaracions, inclosa l'omissió voluntària de fer conèixer les situacions jurídiques o fàctiques que li haguessin impedit d'adquirir, conservar, recuperar o veure's reconeguda la nacionalitat, perdrà la nacionalitat andorrana des del moment en què el Govern constati la falsa declaració o l'omissió, salvats els drets de tercers, sense perjudici d'incórrer en el delicte tipificat en l'article 148 del Codi Penal.

@@ -1,0 +1,3 @@
+# Article 37
+Ultra les accions civils que pertanyin a tercers a fer valer davant les jurisdiccions competents, tota persona que tingui interès jurídic podrà recórrer els actes publicats en el Butlletí Oficial del Principat d'Andorra en virtut de l'article anterior en el termini de tretze dies hàbils a comptar des de la seva publicació.
+El recurs, que haurà d'ésser motivat en fet i dret, serà de reposició davant del Govern i contra la resolució recaiguda podrà recórrer davant de la jurisdicció administrativa i fiscal o davant de la jurisdicció que en tot moment sigui competent per apreciar la legalitat dels actes administratius del Govern. Les resolucions de Justícia recaiguda seran publicades en el Butlletí Oficial del Principat d'Andorra.

@@ -1,0 +1,3 @@
+# Article 9
+Pot esdevenir andorrana per naturalització donada discrecionalment pel Govern, la persona que acredita tenir domicili i residència efectius, ininterromputs i exclusius al Principat des d'abans de l'1 de gener de 1960, que ho demana, prova la seva integració a Andorra i perd la o les altres nacionalitats que ostenta.
+El Govern elaborarà un reglament que fixarà les condicions que han de reunir els candidats a la naturalització que, tot i aplicant els criteris generals previstos en l'apartat anterior, precisarà les condicions que tindrà en compte en la presa de decisions, respectant, però, els principis d'igualtat i equitat, i evitant l'arbitrarietat.

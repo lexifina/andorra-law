@@ -1,0 +1,3 @@
+# Article 2
+1. Són andorrans els fills, legítims o no legítims, nascuts a Andorra, si almenys un dels progenitors és també nascut a Andorra, i a condició que tant els pares com els fills tinguin domicili i residència permanent al Principat.
+2. Els infants trobats i els nascuts a Andorra de pares desconeguts fins que s'estableixi llur filiació, tindran des d'aquest moment la nacionalitat que els correspongui. La possessió d'estat durant divuit anys els donarà dret, en el cas en què la nacionalitat que els correspongui no sigui l'andorrana, a conservar aquesta, sempre que renunciïn a la que els correspongui.

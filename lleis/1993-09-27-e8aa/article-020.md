@@ -1,0 +1,2 @@
+# Article 20
+Perd la nacionalitat andorrana el qui havent-la adquirit en virtut dels articles 5 en totes les redaccions del Codi de la Nacionalitat Andorrana dels anys 1977 i 1985 i els articles 5, 8, 9 i 11 de la present llei, no conservi ni hagi conservat el domicili i la residència efectives, ininterrompudes i exclusives al Principat durant almenys deu anys, des del moment de l'adquisició, conforme en l'article 3.

@@ -1,0 +1,3 @@
+# Article 7
+1. Els fills d'una persona estrangera esdevinguda andorrana per raó de matrimoni, i que no siguin fruit d'aquest matrimoni, no podran adquirir la nacionalitat andorrana.
+2. En cas de nul.litat del vincle matrimonial i de dissolució per causa diferent de la mort, el cònjuge que hagués adquirit la nacionalitat andorrana en virtut de l'article 6 perd la nacionalitat andorrana des de la data d'efectivitat de la resolució judicial. Això no obstant, per als casos de dissolució del vincle per causa diferent a la mort, sempre que s'hagués posseït la nacionalitat durant més de set anys, es conservarà, salvada voluntat expressada en contra.

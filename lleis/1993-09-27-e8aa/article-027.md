@@ -1,0 +1,2 @@
+# Article 27
+Una vegada rebut pel Govern l'expedient serà instruït pels serveis adscrits al Cap de Govern els quals demanaran al Servei d'Immigració un report sobre la situació del peticionari en matèria de domicili i residència efectius a Andorra. Per a les necessitats de l'enquesta es tramitarà al Servei d'Immigració una còpia dels certificats aportats pel peticionari, previstos en els punts 1c), 1d) i 1f), de l'article 26, i d'altres eventuals relacionats amb el domicili i la residència, amb exclusió de tot altre document que figuri en l'expedient.

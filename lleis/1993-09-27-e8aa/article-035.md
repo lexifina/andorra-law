@@ -1,0 +1,2 @@
+# Article 35
+Els documents amb què els peticionaris fonamentin el seu expedient, així com els informes i documents que el Govern obtingui del Servei d'Immigració, en aplicació dels articles 26 i 27, i de la Comissió de la Nacionalitat, en aplicació dels articles 33 i 34, tindran el caràcter de confidencials. Solament podran ésser comunicats al propi peticionari o a tercers que tinguin interès jurídic per impugnar la petició ella mateixa, la resolució recaiguda o en general l'estatut nacional del peticionari.
