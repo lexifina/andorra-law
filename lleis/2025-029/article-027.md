@@ -1,0 +1,9 @@
+# Article 27. Transmissió de l’objecte assegurat
+1. En cas de transmissió de l’objecte assegurat, llevat de pacte en contrari, l’adquirent se subroga en el moment de l’alienació en els drets i les obligacions que en el contracte d’assegurança corresponien al titular anterior.
+2. L’assegurat està obligat a comunicar per escrit a l’adquirent l’existència del contracte de l’assegurança de la cosa transmesa.
+3. L’assegurat té l’obligació de comunicar la transmissió a l’assegurador en el termini de deu dies naturals després d’haver-ne tingut coneixement. En cas d’incompliment, l’assegurador pot reclamar els danys i perjudicis causats per la manca de comunicació.
+4. Són solidàriament responsables del pagament de les primes vençudes en el moment de la transmissió l’adquirent i el titular anterior o, quan aquest últim hagi mort, els seus hereus.
+5. En matèria de rescissió del contracte per transmissió de l’objecte assegurat, s’apliquen les regles següents:
+a) Les pòlisses a l’ordre o al portador no es poden rescindir per transmissió de l’objecte assegurat.
+b) L’assegurador pot rescindir el contracte dins els quinze dies naturals següents a aquell en què tingui coneixement de la transmissió verificada. Un cop exercit el seu dret i notificat per escrit a l’adquirent, l’assegurador queda obligat durant un termini de trenta dies naturals a partir de la notificació. L’assegurador ha de restituir la part de prima que correspongui a períodes de l’assegurança durant els quals no hagi suportat el risc com a conseqüència de la rescissió.
+c) L’adquirent de la cosa assegurada també pot rescindir el contracte si ho comunica per escrit a l’assegurador en el termini de quinze dies naturals, comptats des que va conèixer l’existència del contracte. En aquest cas, l’assegurador adquireix el dret a la prima corresponent a tot el període que hagi començat a córrer quan tingui efectes la rescissió.

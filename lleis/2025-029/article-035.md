@@ -1,0 +1,4 @@
+## Capítol segon. Assegurança sobre la vida
+# Article 35. Reticència i inexactitud en les declaracions del prenedor
+1. En cas de reticència i inexactitud en les declaracions del prenedor que influeixin en l’estimació del risc, cal atenir-se al que estableixen les disposicions generals d’aquesta Llei.
+2. En el cas específic d’indicació inexacta de l’edat de l’assegurat, l’assegurador només pot impugnar el contracte si la verdadera edat de l’assegurat en el moment de l’entrada en vigor del contracte excedeix els límits d’admissió que hi estableix. Si passa altrament, si com a conseqüència d’una declaració inexacta de l’edat la prima pagada és inferior a la que correspondria pagar, la prestació de l’assegurador es redueix en proporció a la prima percebuda. Si, per contra, la prima pagada és superior a la que s’hauria d’haver abonat, l’assegurador està obligat a restituir l’excés de les primes percebudes sense interessos.

@@ -1,0 +1,3 @@
+# Article 24. Fallida de l’assegurador
+1. En cas de liquidació de l’assegurador en el marc d’un procediment d’insolvència, els contractes d’assegurança vigents en el moment de l’obertura de la liquidació conserven l’eficàcia fins a concloure el procés de liquidació i vencen en aquest moment sense possibilitat de pròrroga, sens perjudici de la facultat dels liquidadors de declarar-ne el venciment anticipat.
+2. En el supòsit d’haver-se dictat la suspensió de pagaments de l’entitat asseguradora, o qualsevol mesura similar contra l’assegurador, el prenedor de l’assegurança pot rescindir el contracte amb efecte immediat.

@@ -1,0 +1,6 @@
+# Article 22. Resolució del contracte
+1. La resolució del contracte es fa per carta certificada o contra rebut al domicili de l’assegurador, o per un altre mitjà que les parts hagin pactat i documentat en el contracte.
+2. Llevat que la Llei estableixi el contrari, la resolució només té efectes a l’expiració d’un termini d’almenys trenta dies naturals a comptar de l’endemà de la notificació o de la data de recepció de la carta. En qualsevol cas, aquest termini s’ha d’indicar en el contracte i s’ha de recordar en l’acte de resolució.
+3. Llevat dels casos previstos per la Llei, o dels pactats en el contracte, l’assegurador no pot resoldre unilateralment el contracte abans que venci.
+4. Quan el contracte s’extingeixi per extinció del risc assegurat o per exercici del dret de desistiment, i sempre que no s’hagi produït un sinistre, les primes pagades relatives al període d’assegurança posterior a la data d’efectivitat de la resolució s’han de reemborsar en el termini de trenta dies naturals següents a la data d’efecte de la resolució. Més enllà d’aquest termini, els interessos legals s’executen automàticament.
+5. En cas d’extinció parcial o de qualsevol altra reducció de les prestacions de l’assegurança (disminució de les garanties o cobertures), l’apartat anterior només s’aplica a aquesta reducció i en la mesura d’aquesta reducció.

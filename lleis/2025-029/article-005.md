@@ -1,0 +1,5 @@
+# Article 5. Llei aplicable als contractes d’assegurança contra danys
+Aquesta Llei és aplicable a l’assegurança contra danys en els casos següents:
+a) Quan es refereixi a riscos localitzats en el territori del Principat d’Andorra, independentment que el prenedor de l’assegurança hi tingui la residència habitual o no, si es tracta d’una persona física, o independentment del seu domicili social o seu de gestió administrativa i direcció dels negocis, si es tracta d’una persona jurídica.
+b) Quan el contracte es conclogui en compliment d’una obligació d’assegurar-se imposada per la legislació del Principat d’Andorra.
+En els casos d’assegurances de grans riscos, tal com estan definits en la legislació vigent al Principat d’Andorra, i en els contractes de reassegurances, les parts tenen la facultat d’escollir la llei aplicable al contracte. També en els casos excepcionals previstos a la legislació vigent al Principat d’Andorra en què es permeti la contractació de l’assegurança amb una entitat asseguradora no autoritzada per operar al Principat d’Andorra.

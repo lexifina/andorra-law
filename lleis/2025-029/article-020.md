@@ -1,0 +1,4 @@
+# Article 20. Pròrroga del contracte
+1. La durada del contracte s’ha de determinar a la pòlissa, la qual, tractant-se d’assegurances contra danys, no pot fixar un termini superior a deu anys. Tanmateix, pot establir-se que el contracte es prorrogui una o més vegades per un període no superior a un any cada vegada. En aquest cas, s’han d’expressar les condicions i els terminis de l’oposició a la pròrroga per part del prenedor i de l’assegurador.
+2. Les parts es poden oposar a la pròrroga del contracte mitjançant una notificació escrita a l’altra part, efectuada amb un termini d’almenys trenta dies naturals d’anticipació a la conclusió del període de l’assegurança en curs quan qui s’oposi a la pròrroga sigui el prenedor, i de seixanta dies naturals quan sigui l’assegurador. Els requisits i els terminis de l’oposició a la pròrroga de cada part s’han de destacar de manera especial a la pòlissa.
+3. Si no s’especifica contractualment, la pròrroga ha de ser d’un any.
