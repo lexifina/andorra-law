@@ -1,0 +1,3 @@
+# Article 71
+1. Efectuada l'elecció, correspondrà directament a la candidatura més votada en cada Parròquia la meitat dels Consellers, sigui quina sigui la diferència amb vots amb la resta de candidatures. L'altra meitat de Consellers es distribuirà proporcionalment entre totes les candidatures, inclosa la més votada, per aplicació del sistema descrit en l'art. 67, adequant-lo al nombre de Consellers a repartir proporcionalment.
+2. En cas d'empat entre dues o més candidatures, correspondria a cadascuna d'elles una part igual de la meitat directa assignada a la llista més votada i, si no fos possible una distribució exacta, l'escó o escons sobrants serien acumulats al nombre de Consellers a repartir proporcionalment.

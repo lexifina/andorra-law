@@ -1,0 +1,2 @@
+# Disposició transitòria sisena
+Per a les eleccions al Consell General a celebrar durant la primera quinzena del mes de desembre de 1993, no serà d'aplicació l'article 14 en allò que fa referència a les revisions semestrals de la llista electoral. En conseqüència, la resolució de qualsevol expedient sobre adquisició de la nacionalitat donarà dret als interessats a fer-se inscriure en la llista electoral per tot el dia 3 de desembre de 1993, data de tancament final de la mateixa.

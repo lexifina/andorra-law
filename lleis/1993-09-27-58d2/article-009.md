@@ -1,0 +1,4 @@
+# Article 9
+1. L'opció prevista en l'article 7 podrà exercitar-se sol.licitant el canvi en les llistes durant els primers tres mesos després de cada publicació de les llistes electorals. L'interessat demanarà al Comú de la seva Parròquia d'origen que l'inscrigui en les seves llistes i aportarà a aquest efecte la documentació que acrediti el seu dret.
+2. Un cop inscrit a la Parròquia d'origen, no podrà demanar una altra vegada el canvi per tornar a la de residència, encara que en fos una altra, fins passades dues consultes electorals com a mínim i, així, successivament.
+3. Cada any, i no més tard dels dies 15 de març i 15 de setembre, els Comuns s'adreçaran mútuament la llista dels electors que hagin demanat i obtingut l'exercici de l'opció contemplada en aquest article, a fi que siguin donats de baixa, només a efectes electorals, en llur Parròquia de residència.
