@@ -1,0 +1,3 @@
+# Article setzè
+El cànon corresponent al consum d'energia elèctrica dels abonats que siguin subministrats per entitats de distribució diferent de FEDA -Mútua Elèctrica de Sant Julià de Lòria, Nord Andorra, S.A., La Molina i SERCENSA-serà satisfet per aquestes entitats directament a FEDA junt amb les liquidacions periòdiques corresponents al subministre d'energia elèctrica. El procediment de liquidació de la part del cànon que correspongui als mínims serà establert reglamentàriament.
+En tots aquells subministraments gratuïts d'energia elèctrica duts a terme per aquestes entitats de distribució diferents de FEDA per a l'enllumenat públic de les corporacions locals, es procedirà a la corresponent deducció del cànon.

@@ -1,0 +1,2 @@
+# Disposició addicional
+La Conselleria de Finances realitzarà les funcions de la gestió, inspecció i recaptació dels cànons sobre electricitat i telèfons i de la taxa sobre el Registre d'Activitats Comercials, Mercantils i de Serveis a què es refereix el títol IV de la present Llei. S'autoritza al Govern a dictar les normes i instruccions oportunes per al seu desenvolupament i aplicació pertinent.
