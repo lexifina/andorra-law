@@ -1,0 +1,2 @@
+# Article 42
+Els terminis determinats a la present Llei per a l'exercici de les diverses actuacions processals són d'obligat compliment per a les parts i per al Tribunal Constitucional. No obstant això, en supòsits de necessitat i sempre que aquests terminis no es trobin determinats per la Constitució, a iniciativa del magistrat ponent adoptada d'ofici o a instància de part, el Tribunal pot acordar reduir o ampliar la seva durada mitjançant aute motivat.

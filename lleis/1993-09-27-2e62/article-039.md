@@ -1,0 +1,4 @@
+# Article 39
+1. El Tribunal en tota mena de procediment o procés dicta decisions en forma de providència, aute o sentència. La providència decideix sobre assumptes de tràmit que no incideixin sobre el fons de l'assumpte; l'aute implica una resolució que n'afecta directament o indirectament el fons; la sentència es dicta exclusivament en els processos constitucionals i té caràcter definitiu.
+2. Les providències i sentències no són recurribles. Contra els autes, llevat el que contingui la resolució del procediment a què es refereix l'art. 67 d'aquesta Llei, es pot interposar el recurs de súplica davant del Ple en el termini de sis dies hàbils.
+3. Si una de les parts entengués que una providència conté una decisió que incideix en el fons de l'assumpte, en el termini assenyalat en l'apartat anterior pot interposar recurs de súplica davant del Ple del Tribunal. Aquest ha de resoldre en forma d'aute i contra aquesta decisió no es pot interposar ulterior recurs.

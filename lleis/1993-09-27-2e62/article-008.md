@@ -1,0 +1,3 @@
+# Article 8
+1. El Tribunal Constitucional, en pronunciar-se sobre la constitucionalitat de l'acte o norma impugnats, aplica la Constitució d'acord amb els mandats i valors que expressament s'hi contenen i decideix sobre llur validesa o nul.litat, sense efectuar judicis d'oportunitat sobre l'actuació dels restants poders públics.
+2. Si, impugnada una norma jurídica general o alguns dels seus preceptes, hi hagués només una interpretació d'acord amb la Constitució i una altra o més contràries, en declara la inaplicabilitat provisional fins que l'òrgan que l'ha dictada en repari els sentits inconstitucionals. La nova norma emesa subsana l'anterior, sens perjudici de seguir sotmesa al règim general de control de constitucionalitat.

@@ -1,0 +1,5 @@
+# Article 47
+1. L'admissió de la demanda no suspèn la vigència de la norma impugnada.
+2. Admesa a tràmit la demanda pel Tribunal Constitucional, el magistrat ponent, mitjançant providència, ha de donar trasllat d'una còpia d'aquella al president de l'òrgan que va dictar la norma impugnada i al Ministeri Fiscal perquè compareguin i la contestin en el termini màxim de quinze dies naturals.
+3. Els escrits de contestació a la demanda han de formular les al.legacions tant en fets com en fonaments jurídics que estimin pertinents; han de proposar, si és el cas, els mitjans provatoris i pràctica de la prova que per al seu interès convingui; i han d'acompanyar la documentació que acrediti les condicions de representació i postulació.
+4. En cas d'aplanament conjunt per part del Ministeri Fiscal i de l'òrgan que va dictar la norma impugnada a totes les pretensions de la part demandant, el Tribunal, mitjançant sentència, declara la inconstitucionalitat de la dita norma sense més tràmits. En cas d'aplanament parcial, continua la causa si bé la sentència ha d'acollir, en els termes indicats, els efectes d'aquell.

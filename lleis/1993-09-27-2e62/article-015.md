@@ -1,0 +1,3 @@
+# Article 15
+1. Els magistrats constitucionals cessen en el càrrec per finalització del temps de mandat, per renúncia voluntària, per defunció, per incórrer en alguna causa d'incapacitació personal o legal, per condemna penal per delicte dolós i per imposició pel mateix Tribunal d'una sanció disciplinària com a conseqüència d'una falta qualificada de molt greu.
+2. Qualsevulla de les causes d'incapacitació a què es refereix l'apartat anterior és apreciada pel Ple del Tribunal i comunicada a l'òrgan designant del magistrat incurs en aquestes a fi que procedeixi a un nou nomenament. En tot cas, s'entén com a causa d'incapacitació física el no exercici de les funcions pròpies durant un termini superior a sis mesos consecutius.

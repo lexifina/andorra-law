@@ -1,0 +1,3 @@
+# Article 71
+1. Llevat del supòsit previst en l'article 69.3 d'aquesta Llei, abans de procedir a la formalització del conflicte davant del Tribunal Constitucional, l'òrgan afectat per l'acte, resolució o disposició ha de requerir al seu titular perquè cessi en l'activitat que reputa invasora o anul.li aital resolució o disposició.
+2. L'esmentat requeriment s'ha d'efectuar en el termini de quinze dies hàbils des que va tenir notificació o coneixement de l'acte, resolució o disposició. Si transcorreguts quinze dies hàbils més l'òrgan requerit no es pronunciés, s'entén que la pretensió és desestimada.

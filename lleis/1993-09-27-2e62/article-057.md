@@ -1,0 +1,3 @@
+# Article 57
+1. La substanciació del procés incidental fins arribar a la sentència segueix els mateixos tràmits que els assenyalats per al recurs directe d'inconstitucionalitat.
+2. El pronunciament contingut en la sentència del Tribunal Constitucional vincula en els seus termes l'òrgan judicial que ha interposat l'acció. Queda exceptuat, però, per al present cas, el principi d'inaplicabilitat provisional de les sentències desestimatòries interpretatives que conté l'article 8.2 de la present Llei, les quals vinculen l'òrgan judicial accionant en el sentit interpretatiu que s'hi conté i a fi que pugui dictar sentència a la causa principal.

@@ -1,0 +1,4 @@
+# Disposició transitòria primera
+1. La sessió constitutiva del Tribunal Constitucional, després del nomenament dels quatre primers magistrats constitucionals en aplicació d'allò que disposa la Constitució i la present Llei, ha de ser convocada pel Síndic General i presidida pel magistrat electe de més edat dins dels quinze dies següents al que s'haguessin publicat els nomenaments de tots ells.
+2. En aquesta sessió es farà un sorteig per determinar el nomenament del president del Tribunal i l'ordre de successió a la presidència, segons allò que estableix la Constitució. A aquests efectes, cada magistrat, mitjançant insaculació, extraurà una de les boles numerades de l'u al quatre. El número obtingut per cadascun d'ells determina l'ordre successiu d'ocupació de la presidència segons l'origen del nomenament.
+3. Seran proclamats president i vice-president els magistrats que hagin obtingut els números u i dos.

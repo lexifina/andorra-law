@@ -1,0 +1,2 @@
+# Article 84
+La substanciació d'aquest procés s'efectua de conformitat amb les disposicions dels articles 69, i 71 a 75 d'aquesta Llei. La sentència del Tribunal Constitucional atribueix la competència a un dels òrgans requerits i obre la via perquè davant d'aquest es tornin a exposar les pretensions que en dret s'escaiguin, sens perjudici de les responsabilitats per danys que han de ser exigides davant la jurisdicció ordinària.

@@ -1,0 +1,2 @@
+# Article 13
+Durant l'exercici de llurs càrrecs, els magistrats constitucionals són independents i inamovibles i no poden ser sancionats si no és per alguna de les causes i en la forma determinades a la present Llei. Si se sentissin menyscabats en llur independència o pertorbats en llurs funcions per l'acció de qualsevol òrgan públic o pels particulars, han de fer avinent el fet al president del Tribunal perquè aquest sol.liciti l'auxili de la jurisdicció ordinària en la reparació del menyscabament o pertorbació.

@@ -1,0 +1,3 @@
+# Article 4
+1. Sens perjudici del que disposin les convencions i tractats internacionals vàlidament ratificats per Andorra, les resolucions i sentències del Tribunal Constitucional no són recurribles davant d'un altre òrgan jurisdiccional.
+2. La jurisdicció del Tribunal Constitucional és preferent. Cap causa de què conegui pot ser substanciada simultàniament davant d'un altre òrgan jurisdiccional; en el supòsit que s'hagués iniciat un litigi davant d'un altre òrgan jurisdiccional ordinari i es plantegés la mateixa causa davant del Tribunal Constitucional, si aquest l'admet a tràmit, aquell cessa de conèixer-la.
