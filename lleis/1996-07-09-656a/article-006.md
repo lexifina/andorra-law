@@ -1,0 +1,2 @@
+# Article 6
+Els centres privats són expressió del principi constitucional de llibertat de creació de centres d'ensenyament. El seu titular pot ésser una persona pública diferent de l'Estat o una persona física o jurídica de caràcter privat i han de seguir el sistema educatiu nacional, segons el programa pedagògic i la tècnica d'esquí establerts per l'Escola de formació de professions esportives i de muntanya.
