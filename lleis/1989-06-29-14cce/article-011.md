@@ -1,0 +1,2 @@
+# Article 11
+Els funcionaris i el personal que intervingui en la recollida, manipulació i tractament de les dades està obligat a guardar-ne secret. Sense perjudici de les responsabilitats civils o penals en què pogués incórrer, la violació del secret serà castigada com a falta molt greu si es tractés de funcionaris, i amb una multa de fins a 100.000 ptes i comiat per al personal en règim contractual.
