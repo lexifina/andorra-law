@@ -1,0 +1,14 @@
+# Article 2
+Estat d'ingressos i despeses
+1. En l'estat de despeses de l'Administració general es concedeixen crèdits per fer front a les despeses ordinàries per un import total de 260.829.556,48 euros i crèdits per fer front a l'exigibilitat dels passius financers per un import de 12.020,24 euros.
+El pressupost de despeses de l'Administració general es finança:
+a) Amb els drets econòmics que es preveuen liquidar durant l'exercici, especificats en l'estat d'ingressos ordinaris, estimats en un total de 242.599.860,13 euros.
+b) Amb l'import de les operacions d'endeutament que s'assenyalen a l'article 20 d'aquesta Llei.
+2. Els pressupostos de les entitats parapúbliques i de dret públic a les quals es refereix l'apartat b) de l'article anterior s'aproven amb el desglossament següent:
+En el pressupost de la Caixa Andorrana de Seguretat Social es concedeixen crèdits per atendre la totalitat de les seves obligacions per un total de 97.772.979,20 euros. Els recursos previstos durant l'exercici se xifren en 139.355.565,33 euros.
+En el pressupost de l'Institut Nacional Andorrà de Finances es concedeixen crèdits per atendre la totalitat de les seves obligacions per un total d'1.729.187,98 euros. Els recursos previstos durant l'exercici se xifren en 1.853.581,44 euros.
+En el pressupost del Servei Andorrà d'Atenció Sanitària es concedeixen crèdits per atendre la totalitat de les seves obligacions per un total de 24.692.588,31 euros. Els recursos previstos durant l'exercici se xifren en 24.692.588,31 euros. En el pressupost del Servei de Telecomunicacions d'Andorra es concedeixen crèdits per atendre la totalitat de les seves obligacions per un total de 81.407.660,00 euros. Els recursos previstos durant l'exercici se xifren en 81.407.660,00 euros.
+En el pressupost de les Forces Elèctriques d'Andorra es concedeixen crèdits per atendre la totalitat de les seves obligacions per un total de 40.910.435,00 euros. Els recursos previstos durant l'exercici se xifren en 40.910.435,00 euros. En el pressupost del Centre Nacional d'Informàtica d'Andorra es concedeixen crèdits per atendre la totalitat de les seves obligacions per un total d'1.616.836,75 euros. Els recursos previstos durant l'exercici se xifren en 1.616.836,75 euros.
+En el pressupost de l'Escola de Formació de Professions Esportives i de Muntanya es concedeixen crèdits per atendre la totalitat de les seves obligacions per un total de 298.000,00 euros. Els recursos previstos durant l'exercici se xifren en 298.000,00 euros.
+En el pressupost de l'Institut d'Estudis Andorrans es concedeixen crèdits per atendre la totalitat de les seves obligacions per un total de 609.876,20 euros. Els recursos previstos durant l'exercici se xifren en 609.876,20 euros.
+En el pressupost de la Residència Solà d'Enclar es concedeixen crèdits per atendre la totalitat de les seves obligacions per un total de 994.817,48 euros. Els recursos previstos durant l'exercici se xifren en 994.817,48 euros.
