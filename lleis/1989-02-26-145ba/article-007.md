@@ -1,0 +1,2 @@
+# Article setè
+Es mantenen en la xifra de cinc-centes mil pessetes (500.000 pessetes), l'import de les despeses per obres de reconeguda urgència exceptuades de les formalitats de subhasta o concurs i que, per consegüent, poden ésser contractades directament per l'administració, i en la xifra de tres-centes mil pessetes (300.000 pessetes), l'import de les despeses per obres ordinàries en els mateixos supòsits d'excepció.
