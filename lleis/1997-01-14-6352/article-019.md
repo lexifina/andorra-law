@@ -1,0 +1,4 @@
+# Article 19
+A petició d'un o dels dos Coprínceps, d'una cinquena part dels membres del Consell General o del Cap de Govern els Tractats internacionals podran ésser objecte de control de constitucionalitat mitjançant una sol.licitud de dictamen previ d'inconstitucionalitat presentada davant el Tribunal Constitucional en els següents terminis:
+a) Els Tractats internacionals regits per l'article 64, núm. 1 de la Constitució entre el vuitè i el quinzè dia que la Constitució atorga als Coprínceps per a manifestar el consentiment de l'Estat.
+b) Els Tractats internacionals regits per l'article 64 núm. 2 de la Constitució en els quinze dies següents al de la comunicació del Govern als Coprínceps i al Consell General del text definitiu d'un Tractat i de la decisió de manifestar-ne el consentiment de l'Estat.

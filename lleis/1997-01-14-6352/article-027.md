@@ -1,0 +1,3 @@
+# Article 27
+1. El Govern, a través del Ministre de Relacions Exteriors, registrarà a la Secretaria General de les Nacions Unides i a qualsevol altra Organització internacional intergovernamental que correspongui els Tractats bilaterals dels quals Andorra sigui part, així com els Tractats bilaterals dels quals Andorra sigui dipositària.
+2. Igualment serà comunicat a la Secretaria de les Nacions Unides i a qualsevol altra Organització intergovernamental que correspongui qualsevol acte posterior que modifiqui, suspengui o posi fi a l'aplicació dels Tractats a que fa referència el paràgraf anterior.

@@ -1,0 +1,7 @@
+# Article 24
+1. Els Tractats vigents seran directament aplicables per tots els òrgans judicials i administratius de l'Estat i crearan drets i obligacions per als particulars, a menys que del text del Tractat o de l'autorització de conclusió resulti que la seva aplicació està condicionada a la promulgació de lleis o a l'aprovació de disposicions reglamentàries.
+2. Si l'execució d'un Tractat necessita desenvolupament legislatiu, el Govern presentarà al Consell General, en el termini més breu possible, el corresponent Projecte de Llei. Aquest Projecte de Llei serà tramès al Consell General al demanar l'aprovació d'un Tractat sempre que aquest ja sigui vigent entre altres Estats o bé disposi que els Estats parts hauran de comptar amb la legislació adequada en el moment de l'entrada en vigor.
+3. El Consell General podrà delegar en el Govern la potestat de dictar les normes necessàries, dins dels límits i en les condicions previstes a l'article 59 de la Constitució.
+4. El Govern, si s'escau, dictarà les disposicions reglamentàries necessàries per a l'execució dels Tractats en el que pertoqui a matèries de la seva competència.
+5. Els efectes jurídics de les reserves, objeccions a les reserves, canvis territorials que afectin als Estats parts en un Tractat o disposicions incompatibles entre dos o més Tractats es determinaran segons les disposicions dels propis Tractats o, en el seu defecte, segons les normes generals del Dret Internacional.
+XII. Modificació, suspensió i denúncia dels Tractats
