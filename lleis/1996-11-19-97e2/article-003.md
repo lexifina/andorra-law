@@ -1,0 +1,3 @@
+# Article 3
+Es modifica l'apartat 3) de l'article 36, que queda redactat com segueix:
+"3) Per derogació de l'article 2.1)a) pot constituir una marca col.lectiva un signe o una indicació que pugui servir en el comerç per designar la procedència geogràfica dels productes o de la prestació dels serveis. Tanmateix, la marca col.lectiva no autoritza el seu titular a prohibir a un tercer l'ús d'aquest signe o aquesta indicació en el comerç, en la mesura que aquest ús es faci de conformitat amb els usos honestos en matèria industrial o comercial; en particular, una marca d'aquest tipus no es pot oposar a un tercer habilitat per utilitzar una denominació geogràfica."
