@@ -1,0 +1,18 @@
+Llei
+d'ajuts a l'estudi
+Atès que el Consell General en la seva sessió del dia 28 de juny del 2002 ha aprovat la següent:
+Llei d'ajuts a l'estudi
+Exposició de motius
+El desenvolupament social i econòmic d'Andorra a l'inici del nou segle es fonamenta en una formació més gran i millor dels ciutadans. La societat de la informació, que és la base del desenvolupament de les societats avançades, i
+els serveis, sector fonamental de l'economia andorrana, demanen també una educació més acurada dels joves.
+Aquest repte no en pot fer ignorar un altre que també és molt important, el manteniment i, en la mesura que sigui possible, l'enfortiment de la cohesió social. Les noves tecnologies i l'increment de les exigències professionals no poden provocar fractures en el cos social andorrà.
+En aquest marc, no hi ha dubte que el sistema educatiu té un paper
+fonamental, ja que proporciona les eines bàsiques a cada individu per desenvolupar-se com a persona, com a ciutadà i com a professional. Dins del sistema educatiu els ajuts a l'estudi han d'assegurar, garantida la gratuïtat dels ensenyaments obligatoris, que qualsevol alumne progressi en l'ensenyament
+tan enllà com li permetin les seves capacitats personals, sense que les limitacions econòmiques puguin ser un obstacle a aquesta progressió.
+Per aquests motius, ha estat necessària una reflexió sobre els resultats del sistema d'ajuts a l'estudi vigent. El sistema introduït l'any 1992 va representar un notable avenç respecte del que hi havia aleshores, però no va respondre
+prou satisfactòriament al principi d'equitat, sobretot en el nivell universitari, per tal com en generalitzar els ajuts no permet atendre més intensament i suficientment els que ho necessiten de forma més acusada.
+Calia, per tant, ajustar millor els mecanismes que permeten actuar més selectivament en la resolució de les situacions que, de forma objectiva, reclamen una ajuda més profunda i prioritària des del poder públic.
+Aquesta Llei, a partir d'uns principis generals comuns, estableix dos tipus bàsics d'ajuts a l'estudi. Preveu les beques, ajuts a fons perdut, com a complement dels ensenyaments preobligatoris, obligatoris i secundaris postobligatoris i, fins i tot, per als ensenyaments professionals i universitaris mitjans. També estableix, un sistema de crèdits per als estudiants de les carreres universitàries superiors i per als ensenyaments de postgrau. Dins d'aquests dos tipus bàsics d'ajuts preveu un conjunt de modalitats que han de permetre una aproximació més precisa a les necessitats reals de les persones
+que demanen l'ajut i, d'aquesta forma, atendre amb més eficàcia les seves peticions.
+En definitiva, aquesta Llei parteix del principi que correspon a la família el sosteniment dels fills, fins que aquests acabin el seu cicle formatiu, inclosos els ensenyaments que han de permetre'ls l'exercici d'una professió, i que
+correspon a l'Estat, en aquests nivells educatius, suplir les mancances econòmiques de les famílies si aquestes limitacions poden pertorbar significativament l'evolució escolar de l'alumne. Al costat d'aquesta concepció i complementant-la, la Llei considera que un jove andorrà o resident, en arribar als estudis superiors, és també una persona que inverteix en el seu propi futur, i que el fet que aquest futur sigui més prometedor, també repercutirà positivament en el conjunt de la societat del Principat; per aquest motiu el sistema de préstecs constitueix un mecanisme que permet articular un ajut des del sector públic a la iniciativa personal de l'estudiant universitari, ja persona adulta, que decideix progressar més profundament en la seva qualificació professional.

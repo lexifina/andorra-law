@@ -1,0 +1,5 @@
+# Article 24
+Devolució del crèdit d'estudis
+1. Els crèdits d'estudi tenen el caràcter de retornables. Una vegada transcorregut un any sencer des de la finalització dels estudis, la persona beneficiària ha d'iniciar el retorn del crèdit. Correspon al Govern, mitjançant Decret en el moment de la convocatòria, regular les modalitats del retorn dels crèdits. El període de retorn no pot excedir els sis anys a comptar de la data d'inici de la devolució. Tanmateix, en el supòsit d'incapacitat transitòria greu de la persona beneficiària, acreditada documentalment, el Govern pot aprovar que
+es posposi l'inici de la devolució, així com les condicions econòmiques d'aquest allargament.
+2. L'incompliment de les condicions de la devolució del crèdit d'estudis generarà un recàrrec del 10% anual sobre l'import total que quedi a retornar. Si en el termini de dos mesos les condicions de devolució continuen no sent aplicades, el Govern ha d'instar la devolució dels crèdits per via judicial mitjançant la competència civil.
