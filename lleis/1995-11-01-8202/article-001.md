@@ -1,0 +1,6 @@
+# Article 1
+L'article 19 queda redactat com segueix:
+"L'import de les taxes aplicades per la importació de mercaderies o béns es reembossa si es demostra, sense possibilitat d'error, que no són conformes a les estipulacions de la comanda i de les convencions acordades entre el proveïdor i l'importador, si no hi ha hagut comanda, o si les mercaderies o els béns estan deteriorats al moment de llur recepció per causa no imputable a la persona importadora.
+2. El reembossament de les taxes, en la totalitat o en part del seu import, només pot fer-se prèvia sollicitud adreçada al ministre de Finances, amb justificació efectiva del retorn de les mercaderies o els béns al proveïdor estranger. En cap cas no es fa efectiu el reembossament de la taxa si abans no ha tingut lloc l'exportació material de la mercaderia o bé que és tracti, o la seva destrucció. Els agents de Duana poden exercitar, amb aquesta finalitat, la comprovació administrativa en els termes establerts als articles 14, 15 i 16 d'aquesta Llei.
+3. No es pot invocar el dret de reembossament en els casos de pagament de la taxa subsegüent a un expedient sancionador, llevat de l'exculpació ferma per la via oportuna.
+4. El dret de reembossament caduca als tres mesos de produir-se el fet generador de la taxa."
