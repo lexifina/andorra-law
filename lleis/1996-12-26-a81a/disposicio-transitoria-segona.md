@@ -1,0 +1,3 @@
+# Disposició transitòria segona
+Participació econòmica de les entitats esportives en el joc del bingo
+Considerant que algunes entitats esportives, seguint la pràctica existent fins ara, tenen establerts acords amb sales que funcionen amb el sistema anterior al que regula la present Llei, es permet a aquestes entitats esportives, dins el termini improrrogable que s'acaba el 30 de juny de 1997, la participació econòmica en el joc del bingo en la mateixa modalitat desenvolupada fins avui, amb el benentès que la responsabilitat del joc durant aquest període és de la persona física o jurídica titular de l'empresa que gestiona la sala de joc.
