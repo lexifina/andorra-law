@@ -1,0 +1,4 @@
+# Article 43
+1. El termini de durada de l'arrendament de vivendes per a residència habitual i permanent no pot ésser inferior a tres anys, llevat que l'arrendatari sigui un estranger amb permís de residència temporal inferior a aquest termini, cas en el qual el termini màxim és el de durada del permís de residència. El termini es compta des de la data de celebració del contracte, o des de la posada a disposició de la vivenda, si és posterior.
+2. Els arrendaments per als quals s'hagi convingut una durada inferior a tres anys, o aquells per als quals no s'hagi fixat cap termini es consideren fets per un termini de tres anys.
+3. Acabat el termini mínim de vigència, el contracte es prorroga tàcitament per períodes d'un any, salvat que una part no avisi l'altra de la seva voluntat de donar-lo per resolt amb una antelació mínima de tres mesos a la fi del termini principal o de qualsevol de les pròrrogues.

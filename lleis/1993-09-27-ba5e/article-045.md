@@ -1,0 +1,4 @@
+# Article 45
+1. En cas de defunció de l'arrendatari, pot subrogar-se en el contracte, per la part que falti del termini pactat, el cònjuge de l'arrendatari que hi convisqui en el moment de la defunció; els descendents i els ascendents que hi convisquessin, essent necessari, en aquest darrer supòsit, que la convivència s'hagi produït amb una antelació mínima d'un any a la data de la defunció.
+2. Quan són diversos els beneficiaris del dret de subrogació, únicament pot exercir-lo un d'entre ells. A manca d'acord entre els interessats, se segueix l'ordre indicat al paràgraf precedent, amb preferència, dins de cada grup, a la proximitat de grau. Els casos d'igualtat es resolen a favor del que tingui majors càrregues familiars.
+3. La subrogació, per ser vàlida, ha de notificar-se a l'arrendador dins dels 60 dies següents a la data de defunció de l'arrendatari. En la notificació s'hi han de fer constar les circumstàncies personals del subrogat.

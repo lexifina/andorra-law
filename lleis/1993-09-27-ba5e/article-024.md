@@ -1,0 +1,5 @@
+# Article 24
+1. En el cas que es pacti el servei de calefacció, o el d'aigua calenta, s'ha d'especificar en el contracte:
+a) El període de l'any, i les hores del dia en què ha de prestar-se. En cas de no fixar-se s'entén que l'aigua calenta es presta durant tot l'any, i les 24 hores del dia, i la calefacció, entre el 1r de novembre i el 30 d'abril, i des de les 6 fins a les 24 hores.
+b) El cost del servei per al primer any, i les bases de l'actualització per als successius, atenent necessàriament al cost de l'energia emprada i als altres factors que influeixen en el cost.
+2. Si algun dels serveis a càrrec de l'arrendador no es presta, o bé es presta de forma notòriament irregular o deficient, sigui quina sigui la causa, fins i tot si era per força major, l'arrendatari no ha de satisfer l'import del servei durant el temps de la prestació deficient. Si la falta de prestació del servei era deguda a dol, culpa o negligència de l'arrendador, l'arrendatari tindrà, a més a més, dret a rebre una indemnització igual al 20% de l'import del servei. El dret a rebre la indemnització no eximeix, en cap cas, de l'obligació de pagar la renda.

@@ -1,0 +1,3 @@
+# Article 28
+1. Si l'arrendador o l'arrendatari incompleixen les obligacions que els imposen els articles anteriors, la part afectada per l'incompliment pot demanar la resolució del contracte i la indemnització dels danys i perjudicis que li hagi ocasionat l'incompliment, o únicament aquesta segona, deixant el contracte subsistent. Perquè es produeixi la rescissió, cal que l'incompliment afecti una condició essencial.
+2. L'arrendatari pot, en tot cas, rescindir el contracte, si l'obra que hagi d'efectuar-se a la finca arrendada la fa inhabitable o inhàbil per a l'activitat que s'hi duu a terme.

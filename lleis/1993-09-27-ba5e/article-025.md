@@ -1,0 +1,5 @@
+# Article 25
+1. La realització per l'arrendador d'obres de millora en la cosa arrendada o en els elements i serveis comuns de la finca, interiors o exteriors, li dóna dret, excepte si hi ha un pacte contrari, a elevar la renda anual en la suma que resulti d'aplicar, al capital invertit en la millora, el tipus d'interès legal del diner en el moment de l'acabament de les obres incrementat en tres punts, però l'augment no pot excedir el 20% de la renda.
+2. En el cas de diversos arrendataris d'una mateixa finca, el repartiment es duu a terme en proporció a la superfície, llevat que estiguin fixades quotes de participació per a cada pis o local, cas en el qual s'apliquen aquestes.
+3. Si en la mateixa finca existeixen vivendes i locals de negoci, l'increment de la renda no s'aplica a aquests darrers quan les millores beneficien únicament els ocupants de les vivendes, i viceversa.
+4. Es consideren obres de millora totes aquelles que no són necessàries per conservar la cosa arrendada en estat de servir per a l'ús convingut.
