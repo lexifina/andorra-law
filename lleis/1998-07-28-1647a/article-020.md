@@ -1,0 +1,2 @@
+# Article 20
+Les inobservances a les disposicions contingudes en la present Llei i en la normativa que la desenvolupi, que no tinguin transcendència directa de caràcter econòmic ni perjudici greu per als usuaris, constituiran infraccions lleus sempre que no estiguin tipificades com a falta greu o molt greu. En tot cas la inexistència de distintius obligatoris o la seva exhibició sense complir els requisits establerts constitueix una infracció lleu.

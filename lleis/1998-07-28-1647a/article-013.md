@@ -1,0 +1,2 @@
+# Article 13
+La classificació d'un establiment d'allotjament turístic i totes les seves altres característiques de categoria, nivells de qualitat, segells d'especificitat i altres elements complementaris, poden ésser revisades en qualsevol moment pel Govern, d'ofici o a instància de la part interessada. En cas de modificació o supressió d'alguna de les característiques de la classificació sense l'autorització prèvia corresponent, s'incoarà l'expedient corresponent.

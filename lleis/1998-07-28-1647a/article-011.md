@@ -1,0 +1,6 @@
+## Capítol III. De la classificació i la inscripció dels allotjaments turístics
+# Article 11
+Tot allotjament turístic, de forma obligatòria, ha d'ésser pertinentment classificat, motiu pel qual ha d'exhibir les plaques identificatives corresponents a la seva modalitat i a la seva categoria, indicant aquesta la qualitat i la quantitat d'equipaments i els serveis de l'allotjament turístic, segons un sistema d'estàndards orientat a informar adequadament el consumidor.
+Els establiments d'allotjament turístic poden optar voluntàriament, cursant a l'efecte la petició corresponent al Govern, per obtenir identificacions sobre el nivell de qualitat, relatiu al funcionament dels equipaments i els serveis en relació amb la seva categoria, i/o segells d'especialitat o diferenciació. Aquestes identificacions són sempre complementàries de la modalitat i la categoria.
+Els establiments d'allotjament turístic, una vegada homologats, tindran una marca atorgada pel Govern que certificarà la certesa de la informació sobre la modalitat, la categoria, els nivells de qualitat i els segells d'especialitat o diferenciació.
+Els requisits i les particularitats de la classificació, les plaques identificatives, els grups, les categories, els nivells de qualitat, els segells d'especialització i altres elements de la identificació de l'establiment seran determinats reglamentàriament.
