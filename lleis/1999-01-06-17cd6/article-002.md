@@ -1,0 +1,4 @@
+# Article 2
+L'objecte de la societat serà la comercialització de bestiar criat i engreixat pels socis en explotacions ramaderes ubicades al Principat d'Andorra d'acord amb les regles de producció que elaborarà la societat i les normes que aprovi Govern. També tindrà per objecte l'adquisició de productes necessaris per a la cria i l'engreix del bestiar, matèries primeres, mitjans de producció, i béns i serveis, per revendre'ls i facilitar-los als socis en les millors condicions de preu i qualitat.
+La societat elaborarà un reglament de producció per a la cria, el maneig i l'alimentació del bestiar per comercialitzar, que haurà de ser obligatòriament respectat pels socis.
+També podrà realitzar, de forma accessòria, les activitats complementàries de l'objecte principal indicat que tendeixin a un desenvolupament millor de la societat i contribueixin al foment i la millora de la cria i l'engreix de bestiar al Principat d'Andorra.

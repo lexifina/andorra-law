@@ -1,0 +1,2 @@
+# Article 5
+La societat, a partir de la seva inscripció al Registre de Societats, tindrà plena personalitat jurídica i capacitat d'obrar per al compliment dels seus objectius i per a l'exercici eficaç de tota mena d'accions i recursos davant els òrgans administratius i jurisdiccionals de qualsevol grau i jurisdicció, i per realitzar totes les operacions i contractes civils, administratius, mercantils i financers i de qualsevol altra naturalesa que siguin convenients per al desenvolupament del seu objecte social.
