@@ -1,0 +1,2 @@
+# Disposició transitòria primera
+Cada autoritat competent ha de definir la forma oficial del signe corresponent, ha d'elaborar el llibre de normes gràfiques i, si escau, de normes tridimensionals per a la correcta reproducció i aplicació d'aquests i ha d'establir, en el termini màxim de sis mesos, la normativa que reglamenti el procediment d'autorització per a la utilització dels noms i/o els signes que li corresponen.
