@@ -1,0 +1,6 @@
+# Article 4
+Requisits de les associacions i de persones jurídiques per exercir la professió També poden obtenir l'autorització a què fa referència l'article 3 les associacions de dos o més agents i gestors immobiliaris, així com les societats mercantils l'objecte de les quals sigui l'exercici d'aquesta professió, sempre que compleixin les condicions que s'estableixen a continuació:
+a) L'objecte social ha de contenir de forma específica les activitats previstes a l'article 1, és a dir, han de tenir per objecte social l'exercici d'agent i gestor immobiliari de forma exclusiva.
+b) En les associacions de dos o més agents i gestors immobiliaris, tots els socis han d'estar autoritzats a exercir l'activitat d'agents i gestors immobiliaris i han d'estar inscrits com a membres del col·legi professional previst a l'article 8.
+c) En les societats mercantils, els administradors, els directors, els gerents, si n'hi ha, o el president han de complir els requisits previstos en els apartats 1, 2, 3 i 5 de l'article 3 i haver obtingut l'autorització pertinent. Tots els treballs que es realitzin dins l'àmbit de l'activitat de l'entitat jurídica han de ser dirigits i signats per una persona autoritzada a exercir com a agent i gestora immobiliària.
+d) Les societats mercantils han de complir amb el que estipula l'apartat 4 de l'article 3 quan es registrin.

@@ -1,0 +1,1 @@
+# disposició transitòria primera que, en el moment d'entrada en vigor d'aquesta Llei, formin part de l'Associació de gestors immobiliaris d'Andorra es constituiran en promotors del Col·legi Professional d'Agents i Gestors Immobiliaris, i han d'adreçar els Estatuts i els Reglaments de règim interior al ministeri tutelar perquè siguin aprovats pel Govern.

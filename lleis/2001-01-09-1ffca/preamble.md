@@ -1,0 +1,14 @@
+Llei
+dels agents i gestors immobiliaris
+Atès que el Consell General en la seva sessió del dia 15 de desembre del 2000
+ha aprovat la següent:
+llei dels agents i gestors immobiliaris
+Exposició de motius
+La complexitat, la transcendència i el creixement econòmics progressius de les activitats immobiliàries dels darrers anys han generat la necessitat de garantir el control i la qualitat de l'activitat en aquest sector, i han abocat aquest a comprometre's en la millora del seu nivell professional i a agrupar-se de forma associativa.
+Considerant que l'ordenació normativa de l'exercici d'aquesta professió, per la incidència, la repercussió i la transcendència social que té -tant pel que fa a la vessant interna del país com a les relacions externes-, requereix una supervisió eficaç i dinàmica, aquesta supervisió s'ha configurat en un règim d'autorització administrativa, en l'establiment d'un règim sancionador i en la creació d'un col·legi professional.
+La regulació positiva d'una activitat professional i, en concret, la configuració d'un col·legi professional són totalment compatibles amb els principis constitucionals de la llibertat d'empresa, la iniciativa privada i la llibertat d'associació, d'acord amb la jurisprudència més recent del nostre país que s'empara en la capacitat estatal d'intervenció en l'ordenació del sistema econòmic, mercantil, laboral i financer, per fer possible el desenvolupament equilibrat de la societat i el benestar general.
+D'altra banda, la configuració d'un col·legi professional no exclou la lliure concurrència d'altres associacions privades que puguin sorgir en defensa dels interessos dels membres del mateix sector, i respecte de les quals resulta plenament garantit l'exercici del dret negatiu d'associació.
+Una de les funcions públiques més rellevants atribuïdes al col·legi professional d'aquest sector és la potestat disciplinària, que es fonamenta en la recerca de l'eficàcia i de la proporcionalitat, per contrastar la sanció penal que podria ser imposada a l'autor d'una infracció professional establerta en aquesta Llei. A
+més, s'hi estableixen les bases que fan possible el control deontològic de l'exercici de les professions d'aquest sector econòmic.
+D'altra banda, l'exigència de determinats requisits econòmics, ètics i professionals per poder ser titular de l'autorització esmentada, pretén garantir que la professió s'ajusti al màxim als drets i les necessitats dels usuaris. Finalment, resta exposar que l'exclusió de la professió de l'agent i gestor immobiliari de l'àmbit d'aplicació del Decret que regula l'exercici de les professions liberals obeeix essencialment a la necessitat de garantir legalment
+la continuïtat en l'exercici d'aquesta professió de totes les persones jurídiques que han estat exercint abans de la promulgació de la present Llei de diverses maneres.
