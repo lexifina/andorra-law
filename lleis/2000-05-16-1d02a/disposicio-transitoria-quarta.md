@@ -1,0 +1,2 @@
+# Disposició transitòria quarta
+Els increments del preu de compra i venda del punt de vellesa de l'article 4 del Reglament d'aplicació núm. 10 s'aplicaran, pel que fa al preu de compra el mes següent a l'entrada en vigor de la present Llei, i pel que fa al preu de venda, és a dir la regularització de les pensions de vellesa, de reversió i d'invalidesa, retroactivament des de l'1 de gener del 2000.

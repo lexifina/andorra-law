@@ -1,0 +1,2 @@
+# Disposició derogatòria
+Queden derogades totes les disposicions anteriors que s'oposin a allò que s'estableix en aquesta Llei, i específicament la Llei de modificació de l'article 2 del Reglament d'aplicació núm. 5; de l'article 2 del Reglament d'aplicació núm. 6, i dels articles 3 i 4 del Reglament d'aplicació núm. 10, de la Caixa Andorrana de Seguretat Social, de 16 de desembre de 1999, publicada al Butlletí Oficial del Principat d'Andorra núm. 2, de 12.1.2000.
