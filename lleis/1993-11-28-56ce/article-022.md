@@ -1,0 +1,3 @@
+# Article 22
+El Consell General, a iniciativa pròpia o a proposta del Govern, podrà acordar la interrupció de les transferències a un Comú en el cas, constatat per mitjà de les auditories previstes en l'article 19 o com a conseqüència de les preguntes o informes que es puguin practicar segons el que determina l'article 21, que els fons de les quotes de les transferències s'han utilitzat a finalitats distintes de les autoritzades per la present Llei.
+Aquesta interrupció durarà mentrestant el Comú afectat no regularitzi degudament la situació financera pel que fa al compliment de les disposicions d'aquesta Llei.

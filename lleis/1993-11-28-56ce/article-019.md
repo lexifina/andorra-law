@@ -1,0 +1,3 @@
+## Títol IV. Control de les transferències
+# Article 19
+Es procedirà anyalment a la realització d'una auditoria externa, completa i específica, per a les despeses realitzades a càrrec de les transferències rebudes. L'adjudicació de les empreses d'auditoria que hauran de realitzar aquestes auditories anyals, serà efectuada pel Consell General, per mitjà de la Comissió legislativa d'Economia, Finances i CEE. El resultat de les auditories serà presentat al Consell General per a la seva informació i, en el seu cas, aprovació dels resultats de la mateixa i/o adopció de les decisions pertinents com a conseqüència dels dits resultats. Efectuat aquest tràmit, es donarà trasllat del resultat de les auditories a cada Comú i al Govern.

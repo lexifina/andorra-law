@@ -1,0 +1,3 @@
+# Article 21
+El Consell General, a iniciativa pròpia o a proposta del Govern, podrà formular als Comuns aquelles preguntes i/o demanar aquells informes que s'estimin pertinents en relació a una despesa en particular finançada amb càrrec a la quota percebuda de les transferències o bé al conjunt de tot el capítol de despeses de les transferències rebudes.
+En aquest cas, el Comú concernit haurà de presentar la resposta escrita a la pregunta formulada o l'informe sol.licitat en el termini de dos mesos, comptador a partir de la data de recepció del comunicat relatiu a la pregunta o informe. Així mateix, la decisió acordada pel Consell General es comunicarà en un termini de dos mesos, a comptar de la data de recepció de la resposta a la pregunta o de l'informe sol.licitat.

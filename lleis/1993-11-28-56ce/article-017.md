@@ -1,0 +1,2 @@
+# Article 17
+Les despeses de la conservació i el manteniment de les obres que s'hagin pogut realitzar amb càrrec a les quantitats derivades de la transferència, són sempre a càrrec del pressupost del Comú, sense que es puguin imputar als capítols de la transferència, llevat que signifiquin una obra de remodelació o reestructuració de la que s'havia executat i sempre que, entre l'una i l'altra, hagi transcorregut un termini mínim de sis anys.

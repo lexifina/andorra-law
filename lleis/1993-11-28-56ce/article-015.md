@@ -1,0 +1,2 @@
+# Article 15
+Aniran a càrrec exclusivament dels Comuns totes les obres que s'efectuen a les respectives Parròquies, a excepció de les de caràcter nacional com són carreteres generals, canalització de rius, centres d'ensenyament, centres de salut i totes aquelles que siguin competència del Govern. Les obres de caràcter nacional seran de l'execució, direcció i manteniment exclusiu de l'Administració General.
