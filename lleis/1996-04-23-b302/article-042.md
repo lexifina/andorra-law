@@ -1,0 +1,3 @@
+# Article 42
+No obstant això, el batlle pot pronunciar, en interès de l'infant, una privació parcial limitada a certs drets i atributs de la pàtria potestat especificats en l'aute. El batlle pot igualment decidir la privació de la pàtria potestat, només pel que fa a algun(s) germà(ns) d'una mateixa família.
+Si un dels genitors ha mort o ja s'ha vist privat de la pàtria potestat, a l'hora de pronunciar la privació de la pàtria potestat contra l'altre genitor, el batlle designa un familiar o un tercer que assumeix provisionalment la guarda de l'infant o bé el confia a la Direcció del Servei Social del Govern.

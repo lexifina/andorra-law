@@ -1,0 +1,3 @@
+# Article 33
+La Direcció del Servei Social del Govern decideix sobre la modalitat de la guarda del menor que li és confiat, confiant-la al Centre d'Acolliment d'Infants (CAI), o bé a un altre centre adequat a les necessitats del menor, o bé a una família acollidora, mitjançant un acolliment familiar, o bé decidint una mesura mixta d'acolliment en centre i família.
+La Direcció del Servei Social del Govern ha d'informar el batlle de les modalitats de guarda decidides, i de les seves eventuals modificacions ulteriors. Així mateix, informa el batlle de l'evolució de l'infant i de la seva família natural, mitjançant un informe anyal.

@@ -1,0 +1,2 @@
+# Article 26
+No obstant això, el batlle pot acordar l'extinció de la pre-adopció o de l'adopció a demanda del pare o mare natural que, sense culpa, no hagi pogut intervenir en el procediment de consentiment a l'adopció. És necessari, però, que aquesta demanda s'interposi dins dels dotze mesos següents al consentiment a l'adopció per part de l'altre genitor, o a la declaració d'abandó per part del batlle, i que l'extinció sol.licitada no perjudiqui greument el menor.

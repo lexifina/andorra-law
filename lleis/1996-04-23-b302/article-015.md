@@ -1,0 +1,3 @@
+## Secció segona. De la pre-adopció
+# Article 15
+La pre-adopció té per objectiu de verificar que existeix una correcta integració del menor amb la família i que la convivència és beneficiosa per al futur adoptat. La pre-adopció queda realitzada per la remesa efectiva als futurs adoptants d'un infant per al qual els genitors han consentit vàlidament a l'adopció o d'un infant declarat abandonat per decisió de la justícia. La pre-adopció obstaculitza tota restitució de l'infant a la família d'origen. La pre-adopció finalitza amb l'adopció, o amb la negativa, per part del batlle, de pronunciar l'adopció. En aquest darrer cas, els efectes de la pre-adopció queden retroactivament cancel.lats.

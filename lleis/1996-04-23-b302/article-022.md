@@ -1,0 +1,2 @@
+# Article 22
+Les adopcions realitzades a l'estranger per andorrans o per estrangers residents a Andorra només són considerades vàlides si els adoptants i l'adoptat reuneixen, al moment de l'adopció, els requisits establerts en aquesta Llei. És imprescindible que, abans de la formalització de l'adopció a l'estranger, un batlle dicti un aute autoritzant els adoptants a adoptar, tenint en compte l'informe psico-social del Servei d'Adopció del Govern.
