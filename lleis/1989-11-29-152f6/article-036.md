@@ -1,0 +1,2 @@
+# Article 36
+El termini per a interposar la demanda davant el Jutjat administratiu i fiscal serà de tretze dies a comptar des de la data de notificació de la resolució expressa del recurs administratiu previ o a comptar de la data, en que s'hagi de considerar resolt implícitament per silenci administratiu d'acord amb el capítol IX del Codi de l'Administració, o en que una sol.licitud es pugui considerar refusada segons l'article 40 del Codi de l'Administració.

@@ -1,0 +1,6 @@
+# Article 46
+Els testimonis citats pel Jutge Instructor tenen obligació de comparèixer. El Jutge Instructor podrà imposar una multa als testimonis que no compareguin o que no al.leguin una causa justa d'incompareixença.
+Els testimonis tenen igualment l'obligació de respondre segons veritat. A aquest fi el Jutge Instructor els hi exigirà que restin jurament o promesa de dir la veritat. Els testimonis seran interrogats en la seu del Jutjat, i les parts hi podran assistir-hi solament en el cas que el Jutge Instructor ho consideri convenient. Les persones investides d'Autoritat seran interrogades en llur seu oficial, a la que es desplaçaran el Jutge Instructor i el Secretari del Jutjat.
+El Secretari del Jutjat formularà les preguntes proposades per les parts i declarades pertinents pel Jutge Instructor i consignarà en acta les respostes. El Jutge Instructor podrà formular qualsevulla altra pregunta que consideri necessària.
+Acabat l'interrogatori el Secretari llegirà íntegrament l'acta i el Jutge requerirà al testimoni si està conforme o si, al contrari vol fer alguna modificació o aclariment, que es consignaran també en l'acta.
+L'acta serà signada pel testimoni, el Jutge Instructor i el Secretari del Jutjat.

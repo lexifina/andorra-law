@@ -1,0 +1,7 @@
+# Article 62
+La designació de Ponent comprendrà les operacions següents:
+1a) Fixació de l'ordre de Ponents.
+Cada vegada que tingui lloc el nomenament de Magistrats es fixarà l'ordre en l'actuació de Ponent en cada causa, corresponent la lletra A al Magistrat de major edat nomenat pel Copríncep Episcopal, la lletra B al Magistrat de major edat nomenat pel Copríncep Francès, la lletra C al Magistrat de menor edat nomenat pel Copríncep Episcopal, i la lletra D al Magistrat de menor edat nomenat pel Copríncep Francès.
+2a) Designació del Ponent en cada causa.
+La designació del Ponent en cada causa es farà per sorteig. A aquest fi, en la sessió pública a que es refereix l'article 61, amb citació de les parts, el Secretari del Tribunal introduirà en una urna els números de les causes assignats segons l'article 37 en les que s'ha de designar el Ponent, i cada Magistrat extraurà un número, el qual el designarà Ponent en la causa, a que el número extret correspongui. En l'extracció de números de l'urna es seguirà l'ordre establert en el 1a) d'aquest article a partir de la lletra subsegüent a la que correspon al Magistrat, que extragué el darrer en el sorteig immediatament precedent.
+Quan s'hagi de designar Ponent per a una sola causa, s'introduiran en l'urna els noms de dos Magistrats subsegüents en ordre al darrer que hagi estat designat Ponent. Serà Ponent el primer nom extret. El Magistrat així designat no podrà ésser inclòs en sorteigs per a una sola causa, abans que hi hagin estat inclosos la resta de Magistrats.

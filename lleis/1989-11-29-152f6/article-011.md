@@ -1,0 +1,3 @@
+# Article 11
+Cap Jutge o Magistrat no pot ésser suspès o revocat de les seves funcions, si no és per decisió de l'Autoritat que l'hagi nomenat.
+Els motius d'abstenció o recusació d'un Jutge o Magistrat seran els compresos en l'article 115 del Codi de l'Administració. Els conflictes sobre abstenció i recusació seran jutjats definitivament pel Tribunal administratiu i fiscal si es tracta d'un membre del Jutjat administratiu i fiscal. Els conflictes de la mateixa naturalesa que afectin els Magistrats dels Tribunal administratiu i fiscal seran resolts definitivament per l'Autoritat que els hagi nomenat.
