@@ -1,0 +1,6 @@
+# Article 91
+Efectes de l'extinció de la relació dels agents de l'Administració de caràcter eventual
+Conclòs el període de duració de la contractació eventual, s'extingeix automàticament la relació de treball sense més efectes que la liquidació dels havers acreditats i no percebuts.
+L'extinció de la relació de treball, en el cas que en el contracte no figuri una data certa d'acabament, ha d'anar precedida d'un preavís mínim de quinze dies naturals que l'Administració ha de comunicar al treballador. L'incompliment total o parcial del preavís únicament obligarà a l'Administració a abonar al treballador, la retribució proporcional al nombre de dies que no han estat objecte del preavís amb un límit màxim de quinze.
+La continuïtat en la prestació de serveis per l'empleat eventual, una vegada conclosa la duració màxima, no implica, en cap cas la seva integració com a funcionari ni la transformació del contracte temporal en indefinit, i sí que comporta l'exigència de les responsabilitats disciplinàries que escaiguin als funcionaris responsables d'aquesta situació.
+L'acabament de la relació eventual amb anterioritat al termini establert en el contracte solament es pot produir amb la justificació adequada per part de l'Administració.

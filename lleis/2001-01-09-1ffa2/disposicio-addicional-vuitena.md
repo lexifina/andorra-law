@@ -1,0 +1,10 @@
+# Disposició addicional vuitena
+Prestacions de jubilació del cos general i dels cossos especials
+1. Les prestacions per jubilació dels funcionaris es regularan pel Reglament de pensions de jubilació, de 29 de juliol de 1981, o normativa que, garantint aquestes prestacions, la substitueixi.
+2. Les normes, sobre jubilació voluntària, aprovades pel Govern, mitjançant Decret de 30 de maig de 1996, continuaran essent d'aplicació en l'àmbit del cos general i el cos especial d'ensenyament de l'Administració general.
+El dret a sol·licitar la jubilació voluntària conforme al contingut de l'esmentat Decret es fa extensiu al personal que s'integra com a funcionari en virtut de l'establert en la disposició addicional primera.
+Els plans de jubilació voluntària en cap cas podran establir condicions menys favorables que les regulades pel referit Decret.
+3. El personal dels cossos especials de banders, duana, prevenció i extinció d'incendis i salvament, i penitenciaria a què fa referència la disposició addicional quarta, que es trobi en situació de servei actiu o en comissió de serveis en el moment de l'entrada en vigor de la Llei, manté el dret a la jubilació anticipada i obligatòria en les condicions previstes en la normativa específica de cada cos, vigent en el moment de l'entrada en vigor de la Llei.
+4. El personal del cos especial de policia a què fa referència la disposició addicional quarta que ha ingressat al cos abans del 21 d'agost de 1989, i que
+es trobi en situació de servei actiu o en comissió de serveis en el moment de l'entrada en vigor de la Llei manté el dret a jubilar-se al cap de quinze anys de servei. Els policies ingressats després de la data esmentada i que es trobin en situació de servei actiu o en comissió de serveis en el moment de l'entrada en vigor de la Llei mantenen el dret a jubilar-se al cap de vint anys de servei.
+5. La normativa de l'apartat 1 referent a la jubilació obligatòria als 65 anys, serà d'aplicació a partir dels 60 anys per al personal al qual es refereix l'article 49.

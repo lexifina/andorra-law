@@ -1,0 +1,6 @@
+# Article 35
+Del nomenament i cessament del funcionari com a director
+Els titulars de les places dels llocs de treball de director són nomenats i destituïts lliurement pel Govern, mitjançant acte degudament publicat al Butlletí Oficial del Principat d'Andorra, a proposta del titular del ministeri al qual estigui adscrit el lloc de treball. El nomenament implica la reserva al funcionari de la plaça de procedència fins al moment del seu cessament com a director i l'assignació del complement de responsabilitat addicional a què es refereix l'article 63 de la present Llei.
+El director pren possessió del càrrec mitjançant jurament o promesa davant el membre del Govern de qui hagi de dependre orgànicament.
+Un cop s'hagi produït el cessament, el funcionari torna a la plaça de
+procedència i deixa de percebre el complement a què es refereix el paràgraf anterior. Si el funcionari ha ocupat la plaça del lloc de treball de director per un període superior a cinc anys, a més de les retribucions de la plaça del lloc de treball que passi a ocupar, se li assigna un complement salarial que s'anomena "reconeixement de la funció directiva". La quantia i l'actualització d'aquest complement s'ha d'establir reglamentàriament.

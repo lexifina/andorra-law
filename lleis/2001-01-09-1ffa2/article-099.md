@@ -1,0 +1,3 @@
+# Article 99
+Normes de la Llei aplicables directament per als comuns
+Són aplicables directament als comuns les normes contingudes en els títols I i III, de la present Llei, així com els articles 25 (principis generals del sistema de selecció), 26 (requisits generals), 30 (bases de la convocatòria), 37 (adquisició de la condició de funcionari), 40 (tipus de situacions), 46 (causes de la pèrdua de la condició de funcionari), 47 (renúncia), 57 (drets generals), 60 (obligacions), 61 (incompatibilitats) i 83 (incompatibilitats en la percepció de les prestacions passives) del títol II, en què les referències a òrgans de l'Administració general, s'entenen substituïdes pels òrgans comunals corresponents. També és aplicable als comuns el contingut de l'apartat 2 de la
