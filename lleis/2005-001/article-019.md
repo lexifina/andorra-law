@@ -1,0 +1,3 @@
+# Article 19
+Actualització de les taxes sobre la tinença de vehicles i sobre el Registre de Titulars d'Activitats Econòmiques
+Amb efecte des de l'entrada en vigor d'aquesta Llei, les quotes tributàries relacionades a l'article 5 de la Llei de la taxa sobre la tinença de vehicles, del 5 d'abril de 1994, i a l'article 5 de la Llei de la taxa sobre el Registre de Titulars d'Activitats Econòmiques, del 20 de desembre de 1995, augmenten d'acord amb l'índex oficial de preus de consum sobre la quantia exigida l'any 2004; els imports de les taxes s'arrodoneixen al dècim d'euro superior.

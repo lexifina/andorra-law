@@ -1,0 +1,4 @@
+## Disposicions finals
+# Primera
+Les despeses autoritzades amb càrrec als crèdits del pressupost prorrogat s'han d'imputar als crèdits autoritzats per aquesta Llei. Si en el pressupost prorrogat no hi consta el mateix concepte que en el pressupost per al 2005, el Ministeri de Finances ha de determinar el concepte pressupostari a què s'ha d'imputar la despesa autoritzada. En aquest cas el Govern informa el Consell General de la decisió adoptada. Segona
+Aquesta Llei entra en vigor el mateix dia de ser publicada al Butlletí Oficial del Principat d'Andorra.
