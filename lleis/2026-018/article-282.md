@@ -1,0 +1,2 @@
+# Article 282. Omissió de mesures de seguretat en el treball
+El qui, estant normativament obligat i amb infracció de les normes de seguretat en el treball, no proveeixi dels mitjans necessaris perquè els treballadors desenvolupin la seva activitat amb les mesures de seguretat i higiene adequades, de manera que es pugui posar en perill greu la vida, la salut o la integritat física d’aquests, ha de ser castigat amb pena de presó fins a dos anys o multa fins a 30.000 euros, així com inhabilitació per a l’exercici de l’ofici o el càrrec fins a sis anys.

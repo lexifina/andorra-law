@@ -1,0 +1,3 @@
+# Article 24. Principi de personalitat i actuació per un altre
+1. La responsabilitat penal és personal. Les persones jurídiques poden ser responsables penalment quan concorrin les condicions establertes a l’article 26 i en els supòsits previstos a l’article 27.
+2. El qui actua com a administrador de fet o de dret d’una persona jurídica, o en nom o representació legal o voluntària d’aquesta o d’una persona física, respon personalment, malgrat que no concorrin en ell les condicions, qualitats o relacions que la figura de delicte o contravenció penal requereixi perquè en pugui ser subjecte actiu, si aquestes circumstàncies es donen en l’entitat o en la persona en nom o representació de la qual obra, sempre que es compleixin les condicions previstes en l’article 21.

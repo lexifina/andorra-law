@@ -1,0 +1,2 @@
+# Article 40. Sistema d’informació
+Als efectes d’aquest Codi, es considera sistema d’informació el conjunt d’unitats físiques (maquinari i comunicacions) i lògiques (programari) que, mitjançant la interacció, l’emmagatzematge i el processament automàtic de dades informàtiques, tractades, recuperades o distribuïdes produeix els resultats necessaris per al seu funcionament, utilització, protecció i manteniment.

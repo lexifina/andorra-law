@@ -1,0 +1,3 @@
+# Article 267. Administració deslleial d’una empresa
+Els administradors de fet o de dret de qualsevol societat o empresa que en benefici propi o d’un tercer, aprofitant-se de les funcions pròpies del seu càrrec, realitzin operacions abusives que comprometin la competitivitat de la societat o empresa, han de ser castigats amb pena de presó de tres mesos a tres anys.
+Quan els fets anteriors hagin estat comesos com a conseqüència d’haver demanat o rebut, personalment o per persona interposada, avantatges avaluables econòmicament, o de l’acceptació, oferiment o promesa per part de l’administrador de fet o de dret, en benefici propi o d’un tercer, en el marc de l’activitat ordinària de la societat o empresa, la pena prevista s’ha d’imposar en la seva meitat superior.

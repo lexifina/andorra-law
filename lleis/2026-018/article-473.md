@@ -1,0 +1,4 @@
+# Article 473. Obstaculització d’execució de resolucions judicials o d’actes d’execució
+1. Qui mitjançant força en les coses o vies de fet obstaculitza l’execució d’una resolució judicial o qualsevol acte d’execució dut a terme per un saig, ha de ser castigat amb pena d’arrest.
+La temptativa és punible.
+2. L’incompliment reiterat de resolucions judicials referents a la guarda i custòdia de menors, la privació injustificada i reiterada del dret de visites establert a favor del familiar que no en té la custòdia, o l’impagament reiterat de pensions alimentàries a familiars ha de ser castigat amb la mateixa pena. En supòsits d’especial gravetat el tribunal, valorant les circumstàncies atenuants i agreujants concurrents i, en general, la gravetat del fet i les circumstàncies personals, pot imposar, excepcionalment, pena de presó fins a un any.

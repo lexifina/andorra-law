@@ -1,0 +1,5 @@
+# Article 178. Difusió de pornografia en relació amb menors d’edat o amb una persona amb discapacitat
+1. El qui vengui, difongui o exhibeixi material pornogràfic a menors d’edat o persones amb discapacitat amb abús de la seva discapacitat ha de ser castigat amb pena de presó de tres a vuit anys i multa de fins a 10.000 euros o del tant al doble del benefici obtingut o que es pretenia obtenir.
+La temptativa és punible.
+2. El qui promogui, publiciti, exhibeixi, difongui o vengui material pornogràfic infantil o qualsevol contingut sexual d’un menor d’edat, real o amb aparença de realitat, o una persona amb discapacitat, a través de mitjans de comunicació social, Internet o altres tecnologies de la informació i la comunicació, de manera que aquest material es fes accessible a un elevat nombre de persones, ha de ser castigat amb una pena de presó de tres a vuit anys.
+Es castiga amb la mateixa pena qui promogui, publiciti, exhibeixi, difongui o vengui material pornogràfic a menors d’edat o persones amb discapacitat fent ús dels mitjans referits al paràgraf anterior.

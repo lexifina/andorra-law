@@ -1,0 +1,5 @@
+## Capítol quart. Definicions generals
+# Article 36. Autoritat i funcionari
+1. Als efectes penals, es considera autoritat la persona que, amb independència de la seva nacionalitat, tant si és funcionària com si no ho és, tingui comandament o exerceixi jurisdicció pròpia, individualment o col·legiadament. Es consideren també autoritat els membres del Consell General, dels comuns, del Consell Superior de la Justícia, del Tribunal de Comptes, del Ministeri Fiscal, del Raonador del Ciutadà i qualsevol altra persona a qui la llei atribueixi l’exercici de funcions institucionals pròpies.
+2. Als mateixos efectes es considera funcionari la persona que, amb independència de la seva nacionalitat, participa, de manera delegada o no, en l’exercici de les funcions públiques per disposició de la llei, per elecció o per nomenament de l’autoritat competent.
+3. Als efectes del que preveuen els capítols quart i sisè del títol XXI, també es considera funcionari qualsevol persona, no inclosa en els apartats anteriors, que presti un servei públic, inclús en el cas de gestió indirecta d’aquest servei, de conformitat amb la normativa en matèria de contractació pública.

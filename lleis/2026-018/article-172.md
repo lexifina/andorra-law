@@ -1,0 +1,3 @@
+# Article 172. Concepte de prostitució i de prostitució infantil
+1. Als efectes d’aquest capítol s’entén per prostitució el fet de realitzar o tolerar actes sexuals a canvi d’obtenir o de la promesa d’obtenir diners o qualsevol altra forma de remuneració, de pagament o d’avantatge, tant si la remuneració, el pagament o la promesa es fa a la mateixa persona com a un tercer.
+2. Als efectes d’aquest capítol s’entén per prostitució infantil el fet d’utilitzar una persona menor d’edat amb la finalitat de realitzar o tolerar actes sexuals, oferint o prometent diners o qualsevol altra forma de remuneració, de pagament o d’avantatge, tant si la remuneració, el pagament o la promesa es fa al mateix menor com a un tercer.

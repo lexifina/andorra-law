@@ -1,0 +1,2 @@
+# Article 211. Dades especialment protegides
+Quan els fets descrits en els articles 209 i 210.3 afectin categories especials de dades personals protegides segons la definició que n’efectua la normativa vigent de protecció de dades personals, o dades que revelin informació especialment sensible per a la dignitat, la intimitat o la no-discriminació de la persona afectada, s’han d’imposar les penes previstes en la seva meitat superior.

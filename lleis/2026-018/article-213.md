@@ -1,0 +1,3 @@
+# Article 213. Delicte de revelació
+1. Ha de ser castigat amb pena de presó de tres mesos a tres anys el qui, amb coneixement d’un origen il·lícit i sense haver pres part en les conductes descrites als articles 207 a 209, reveli a tercers les dades o els fets descoberts, les imatges captades, o les dades personals.
+2. Les penes previstes d’acord amb el que està establert al paràgraf anterior s’han d’imposar en la meitat superior si la revelació a tercers s’ha comès a través de mitjans de comunicació social, Internet o altres tecnologies de la informació i la comunicació, de manera que la comunicació es fes accessible a un elevat nombre de persones, o si la revelació s’ha fet amb ànim de lucre.

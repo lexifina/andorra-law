@@ -1,0 +1,2 @@
+# Article 37. Discapacitat
+Als efectes penals, es considera discapacitat la situació en què es troba una persona amb deficiències físiques, mentals, intel·lectuals o sensorials a llarg termini, que, en interactuar amb diverses barreres, pot impedir la seva participació plena i efectiva en la societat en igualtat de condicions amb les altres persones, amb independència que estigui proveïda de mesures de suport per a l’exercici de la capacitat.

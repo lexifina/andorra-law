@@ -1,0 +1,6 @@
+# Article 406. Altres infraccions amb finalitat terrorista
+1. El qui pertanyent, actuant al servei o col·laborant amb grup terrorista i amb la finalitat establerta a l’apartat primer de l’article 404, cometi qualsevol altra infracció prevista en aquest Codi, ha de ser castigat amb la pena que correspongui al fet comès en la seva meitat superior.
+2. El qui difongui per qualsevol mitjà una ideologia o doctrina dirigida a justificar el recurs al terrorisme o a fer apologia de grups o organitzacions que l’hagin practicat o li hagin donat suport ha de ser castigat amb pena de presó de tres mesos a tres anys.
+3. Qui viatgi a un territori diferent del de la seva nacionalitat o residència amb la finalitat de cometre, participar, planificar o preparar qualsevol acte de terrorisme, o contribuir a cometre’l, o amb la finalitat d’organitzar, facilitar o rebre formació, instrucció o ensinistrament amb finalitats terroristes, ha de ser castigat amb pena de presó de dos a cinc anys.
+Amb la mateixa pena es castiga el qui, amb coneixement de la finalitat terrorista, organitzi o faciliti la comissió de la conducta descrita en l’apartat anterior de qualsevol altra manera que no sigui el seu finançament, incloent-hi els actes de reclutament.
+La temptativa és punible.

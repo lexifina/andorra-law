@@ -1,0 +1,5 @@
+# Article 131. Pràctiques de conversió
+1. Qui sotmeti una persona a actes, pràctiques o intervencions dirigides a modificar, reprimir o suprimir la seva orientació sexual, identitat de gènere o expressió de gènere, mitjançant violència, intimidació, coacció, engany, abús de superioritat o qualsevol altra conducta que atempti contra la seva integritat moral, ha de ser castigat amb pena d’arrest de tres mesos a tres anys.
+2. Si la víctima és menor d’edat, persona amb discapacitat o persona especialment vulnerable per raó de la seva situació personal o social, s’ha d’imposar la pena d’arrest de sis mesos a quatre anys.
+3. Incorre en la mateixa pena qui promogui, organitzi, financi o publiciti pràctiques de conversió amb la finalitat que siguin realitzades.
+4. Quan els fets siguin comesos per autoritat, funcionari públic, professional sanitari, docent o persona que actuï en l’exercici d’una funció educativa, terapèutica o espiritual, s’ha d’imposar, a més de la pena principal, la pena complementària d’inhabilitació per a l’exercici del càrrec o professió per un període de dos a cinc anys.

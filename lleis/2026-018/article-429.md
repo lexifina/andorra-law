@@ -1,0 +1,2 @@
+# Article 429. Tipus privilegiat
+Quan el suborn es produeixi en causa criminal per afavorir el processat, de part del seu cònjuge o una persona que hi estigui relacionada per una situació de fet equivalent, o d’algun ascendent, descendent o germà, per natura o per adopció, s’ha d’imposar al subornador la pena de presó de fins a un any, en el supòsit de l’article 427, i de presó de fins a dos anys, en el supòsit de l’article 428.

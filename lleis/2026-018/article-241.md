@@ -1,0 +1,11 @@
+# Article 241. Administració deslleial
+1. El qui, havent-li estat confiada l’administració o la cura d’interessos patrimonials aliens, exerceixi els seus poders de manera abusiva en benefici propi o d’un tercer i causi un perjudici superior a 600 euros, ha de ser castigat amb pena de presó de tres mesos a tres anys.
+2. Ha de ser castigat amb les mateixes penes el treballador, directiu o administrador que, en el marc de les seves funcions dins d’una societat o empresa, realitzi directament o a través de tercers activitats econòmiques, comercials o professionals concurrents o relacionades amb l’activitat de l’empresa que l’ha contractat, amb la finalitat d’obtenir un benefici propi o per a una tercera persona, incloent-hi una altra empresa en la qual participi com a soci, directiu o treballador, quan aquesta actuació comporti cumulativament:
+a) Un perjudici efectiu o potencial per a l’empresa, i
+b) L’aprofitament indegut d’informació privilegiada, oportunitats de negoci o recursos de l’empresa.
+3. Les conductes descrites en l’apartat anterior són igualment punibles encara que no s’hagi produït un benefici econòmic efectiu, sempre que es pugui acreditar l’existència d’un conflicte d’interessos no declarat i una actuació contrària als interessos de l’empresa.
+4. Les conductes previstes en els apartats anteriors són també punibles quan es realitzin dins d’un període posterior a la finalització de la relació laboral, mercantil o professional amb l’empresa, sempre que el contracte laboral preveiés una clàusula de no competència i que:
+a) Es facin servir coneixements, informació confidencial, estratègica o no pública obtinguda durant la relació anterior,
+b) Es produeixi una explotació d’oportunitats de negoci que l’interessat hagués conegut o desenvolupat en el marc de la seva vinculació amb l’empresa, o
+c) Es generi un perjudici efectiu o potencial per a l’empresa anterior derivat d’una actuació contrària als deures de bona fe i lleialtat.
+5. El període al qual fa referència l’apartat anterior s’ha de valorar en funció de la naturalesa de l’activitat, la responsabilitat exercida i el tipus d’informació o relacions adquirides, i pot estendre’s fins a un màxim de dos anys, sense perjudici d’altres responsabilitats civils o mercantils que puguin correspondre.

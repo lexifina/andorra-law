@@ -1,0 +1,3 @@
+# Article 182. Penes privatives de drets
+El tribunal pot imposar, raonant-ho en la sentència, a més de les penes previstes per a cada delicte, la pena d’inhabilitació per a l’exercici dels drets de família o la pena d’inhabilitació per a l’exercici de càrrec públic o per a l’exercici de l’ofici o el càrrec, quan el culpable sigui ascendent, tutor, mestre o qualsevol persona encarregada de fet o de dret del menor o persona amb discapacitat, per un període fins a sis anys.
+També pot imposar pena d’inhabilitació per a l’exercici de càrrec públic fins a sis anys quan el culpable sigui autoritat o funcionari i hagi obrat amb abús del seu càrrec.
