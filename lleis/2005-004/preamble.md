@@ -1,0 +1,19 @@
+Llei 4/2005,
+del 21 de febrer, qualificada de les unions estables de parella
+Atès que el Consell General en la seva sessió del dia 21 de febrer del 2005 ha aprovat la següent:
+Llei 4/2005, del 21 de febrer, qualificada de les unions estables de parella
+Exposició de motius
+L'article 6 de la Constitució proclama la igualtat davant la llei de totes les persones i que ningú no pot ésser discriminat per raó de naixement, raça, sexe, origen, religió, opinió, o qualsevol altra condició personal o social. Alhora estableix que els poders públics han de crear les condicions per tal que la igualtat i la llibertat dels individus siguin reals i efectives. L'article 13, per altra banda, proclama que la condició civil i les formes de matrimoni han de regular-se per llei i estableix la promoció d'una política de protecció de la família, element bàsic de la societat.
+En aquest sentit, el Consell General adoptà, el 30 de juny de 1995, la Llei qualificada del matrimoni com a norma de desplegament constitucional.
+S'omplia així de contingut el buit legal que existia pel que feia al matrimoni civil tenint en compte, alhora, les opcions de la separació i del divorci com a causa de dissolució del vincle matrimonial.
+No obstant aquella important norma de modernització de les relacions
+personals, el legislador no pot mantenir-se allunyat de fenòmens que vénen cobrant una importància creixent en la societat andorrana. La manca de
+regulació legal d'aquests fenòmens provoca resultats discriminatoris no sols contraris a l'equitat sinó, moltes vegades, absurds i distorsionadors. Un d'aquests fenòmens socials que cal tractar amb racionalitat legal, i que és objecte de desplegament legal i d'estudi en la doctrina i en la jurisprudència de molts països, és el de les unions estables de parella.
+Tot i partint de la tesi que no té perquè haver-hi identitat entre matrimoni i unió estable de parella, ja que obeeixen a opcions i plantejaments personals distints, és imprescindible respectar aquesta diferència, tant en l'àmbit social com en el jurídic, fent-la compatible amb el principi d'igualtat jurídica i de prohibició de discriminació que garanteix la Constitució en l'article 6. És per això que són tractades com a institucions diferents, intentant evitar des dels poders públics poder generar qualsevol greuge o sanció legal entre ambdues figures. Tal
+presa de posició es fonamenta en el necessari i inalienable lliure desenvolupament de la personalitat de cadascú, que podria resultar afectat si s'intentés impedir o limitar la convivència more uxorio.
+Cal no oblidar per altra banda que el Consell d'Europa, del que formem part, postulava mitjançant Resolució de 7 de maig de 1988 la validesa dels
+contractes atorgats entre persones que viuen juntes en tant que parella no
+casada i de llurs disposicions testamentàries.
+Andorra no està exempta d'aquesta nova realitat social i jurídica i per això s'adopta aquesta norma. S'ha estimat insuficient limitar-se a traslladar els principis essencials dels òrgans institucionals europeus en la nova regulació legislativa de les unions estables de parella, per la qual cosa s'intenta regular altres aspectes amb efectes jurídics establint un sistema de drets i obligacions durant la convivència i també en el supòsit de dissolució de la unió.
+Amb la finalitat de regular els efectes personals i patrimonials de la convivència s'estableixen una sèrie de principis com el de seguretat jurídica i el d'autonomia de la voluntat, així com algunes normes de ius cogens com l'obligació de prestar-se aliments, la irrenunciabilitat al dret a la compensació econòmica en cas de ruptura de la unió, el supòsit d'enriquiment injust o el dret a una pensió periòdica de caràcter alimentari, per citar-ne algunes.
+A partir dels raonaments exposats, el Consell General aprova aquesta Llei.
