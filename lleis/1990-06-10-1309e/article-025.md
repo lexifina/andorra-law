@@ -1,0 +1,5 @@
+# Article 25
+El coeficient de cada acte cobreix globalment l'anestèsia per si mateixa i tots els actes habitualment confiats al metge que practica l'anestèsia i la reanimació (per exemple: intubació traqueal, perfusió sanguínia o medicamentosa, vigilància de la pressió arterial, etc.), durant el dia de l'operació i durant la pròpia intervenció.
+El coeficient cobreix, igualment, l'atenció preoperatòria la vetlla de la intervenció, la vigilància postoperatòria i els actes lligats a les tècniques de reanimació:
+a) En cas d'hospitalització, durant el període de 15 dies que segueix a la intervenció. No obstant això, en cas que el pacient surti de l'hospital abans del 15è dia, si el metge que ha efectuat l'anestèsia creu que pot confiar el seguiment postoperatori a un altre metge, aquest podrà percebre honoraris per aquest concepte.
+b) En cas d'intervenció sense hospitalització, durant el període de 15 dies que segueix a la intervenció. No obstant això, si el metge que ha efectuat l'anestèsia creu que pot confiar el seguiment postoperatori a un altre metge, aquest podrà percebre honoraris per aquest concepte.

@@ -1,0 +1,3 @@
+# Article 6
+Actes efectuats per professionals de grau mitjà, sota vigilància i responsabilitat del metge
+En tots els casos en què un professional de grau mitjà exerceixi la seva activitat professional sota la responsabilitat i la vigilància directa d'un metge, que pugui controlar i intervenir en tot moment, l'acotament i el reembossament s'efectuen sobre la base de la lletra-clau corresponent a la qualitat del professional de grau mitjà. En el cas que els honoraris els percebi el metge, el full de malaltia el firmaran conjuntament el professional de grau mitjà, per certificar l'execució de l'acte, i el metge, per a la percepció dels honoraris.

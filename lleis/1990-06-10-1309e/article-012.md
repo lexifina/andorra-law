@@ -1,0 +1,5 @@
+# Article 12
+Actes efectuats en diversos temps
+A) Quan un acte inscrit a la Nomenclatura en forma global comprèn en realitat diverses intervencions successives (actes en diversos temps), el metge no firma el full de malaltia fins que s'acaben els diferents temps de la intervenció. En cas que s'interrompin aquestes intervencions parcials, el metge indica la quota parcial de les sessions efectuades (exemple: Q-50 x 1/3).
+Si es tracta de la interrupció d'una sèrie de sessions amb un nombre establert d'antuvi, el professional indica la quantitat de sessions realment efectuades.
+B) Quan un tractament que comporta una sèrie d'actes repetits figura a la Nomenclatura com un acte global, ha de ser inscrit al full de malaltia únicament en aquesta forma i no es pot descompondre en diversos actes simples. C) Quan l'execució d'un acte previst per la Nomenclatura en un sol temps s'ha efectuat en diversos temps, el coeficient global no experimentarà cap augment, si no hi ha cap indicació contrària a la Nomenclatura.
