@@ -1,0 +1,9 @@
+Llei
+de mesures provisionals per a l'ordenació i regulació del sector financer
+aprovada pel M.I. Consell General en la seva sessió tradicional de Setmana Santa del dia 28 d'abril de 1993
+Exposició de Motius
+El Consell General de les Valls, amb la voluntat de fer possible, en el marc de l'economia de mercat, el desenvolupament equilibrat de la societat i el benestar general, vol procedir a l'ordenació del sector financer del Principat i a la reglamentació de l'activitat dels seus diversos agents.
+Un dels aspectes essencials de la regulació haurà de ser la d'assegurar la solvència econòmica i professional de les entitats financeres, en defensa dels drets dels usuaris i de l'interès general que l'Estat ha de preservar.
+El propòsit del Consell General és el d'accelerar, el màxim possible, els estudis previs i les corresponents propostes que li permetran legislar sobre la matèria en els propers mesos. Tanmateix, la complexitat i la naturalesa del sistema financer obliguen a un tractament especialment acurat i prudent, de manera que l'elaboració del projecte i les reflexions que comporta demanaran una tasca que es perllongarà prop d'un trimestre.
+Tanmateix, la preocupant evolució del sector financer i l'obligada situació de transitorietat que es deriva de l'acabament del procés constituent i l'endegament del nou marc constitucional aconsellen l'adopció immediata d'unes mesures que tot i presentar un marcat caràcter transitori permetin barrar el pas a qualsevulla temptativa de condicionar o dificultar l'actuació del parlament andorrà a partir de l'entrada en vigor de la Constitució.
+Per l'exposat i com a mesura transitòria amb caràcter merament temporal, es promulga la present Llei, articulada en quatre articles, disposant que no es podran constituir ni establir noves entitats financeres fins que no es promulgui la Llei d'Ordenació i Regulació del sector Financer al Principat.
