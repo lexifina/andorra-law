@@ -1,0 +1,3 @@
+# Article 25
+Sensibilització social
+Els poders públics, en col·laboració amb les entitats cíviques, especialment les constituïdes per persones amb discapacitat o les seves famílies, han d'impulsar periòdicament accions i campanyes de sensibilització social sobre les necessitats, les possibilitats i els drets d'aquestes, per tal d'aconseguir un conjunt d'actituds i comportaments socials i personals positius vers l'equiparació d'oportunitats i la seva integració social. Aquestes accions poden ser generals, adreçades a tota la població, específiques per a determinats col·lectius o relatives a discapacitats concretes.

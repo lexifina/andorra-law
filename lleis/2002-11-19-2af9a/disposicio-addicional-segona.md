@@ -1,0 +1,3 @@
+# Segona
+Per tal de garantir l'accessibilitat a l'entorn de les persones amb una discapacitat visual, se les autoritza a accedir acompanyades de gossos pigall a tots els locals, establiments i altres espais d'ús públic, així com al transport públic o d'ús públic. En l'aplicació d'aquest precepte cal tenir en compte la normativa de tinença i la protecció d'animals.
+Les persones que incompleixin aquest precepte incorren en una infracció administrativa que ha de ser sancionada d'acord amb el que estableix aquesta Llei, que es podrà qualificar de lleu, greu o molt greu segons la gravetat dels perjudicis que originin a la persona amb disminució, i per a la graduació de la sanció es tindran en compte els criteris establerts a l'article 36 de la present Llei.

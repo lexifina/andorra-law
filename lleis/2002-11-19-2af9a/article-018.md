@@ -1,0 +1,14 @@
+# Article 18
+Seguretat social
+1. El règim andorrà de seguretat social ha d'establir mesures per fer efectiva la protecció social de les persones amb discapacitat, d'acord amb criteris d'equitat, d'igualtat i de solidaritat amb la resta d'assegurats socials.
+2. Les persones amb discapacitat protegides per les disposicions de la present Llei accedeixen a la protecció sanitària i sociosanitària garantida per la seguretat social andorrana i a les prestacions que se'n deriven, a través de l'afiliació a l'organisme competent en matèria de seguretat social.
+3. El pare, la mare o el tutor legal d'una persona amb discapacitat menor de 18 anys i que convisqui amb alguna de les persones esmentades, amb guardadors
+o bé que resideixi en un centre de serveis socials o sociosanitaris, ha de figurar en alta a la seguretat social per tal de donar-li cobertura com a drethavent. Quan els responsables esmentats no tinguin obligació d'estar afiliats per tal de donar cobertura a la persona amb discapacitat al seu càrrec ho faran voluntàriament o cotitzaran directament per ell a la seguretat social o han de disposar d'una cobertura, amb els mateixos paràmetres de protecció, amb una
+altra entitat pública o privada, sent responsables dels perjudicis que se'n derivin en cas de no fer-ho. Només quan ho sol·licitin les persones responsables i acreditin la impossibilitat efectiva de fer-ho o bé quan la persona amb discapacitat es trobi en situació d'abandonament, el Govern substituirà als responsables i abonarà les cotitzacions que disposi la normativa vigent.
+El Govern afilia a la seguretat social com a cotitzants socials directes les persones amb discapacitat majors de 18 anys i fins que compleixen els 65 anys
+en els termes i condicions que estableix la normativa de la seguretat social i les normes de desenvolupament d'aquesta Llei, sense que, en cap cas, la
+cotització pugui ser inferior a la cotització del salari mínim establert per la legislació laboral. Quan la persona amb discapacitat treballi únicament caldrà declarar i cotitzar a la seguretat social, si és el cas, per la part del salari que sobrepassi la cotització efectuada pel Govern, i en cap cas la cotització global podrà ésser per sota de la cotització del salari mínim.
+4. Les persones amb discapacitat majors de 65 anys accedeixen a la pensió de vellesa en les mateixes condicions que la resta de cotitzants socials; i en el cas de ser titulars d'una pensió d'invalidesa per malaltia o accident de treball aquesta quedarà transformada automàticament en pensió de vellesa als 60
+anys.
+5. La protecció de la seguretat social comprèn les pensions i les prestacions establertes amb caràcter general, tant les derivades de l'assistència sanitària com les sociosanitàries de suport a l'autonomia.
+6. Per a l'accés a les prestacions de suport a l'autonomia es requereix un període de carència de set anys.
