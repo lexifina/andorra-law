@@ -1,0 +1,3 @@
+# Article 9
+Publicació de les adjudicacions
+Les adjudicacions definitives, acordades pel Govern o els consells d'administració de les entitats parapúbliques, corresponents a tots els contractes inclosos en la Llei de contractació pública, quan l'import del contracte o de les seves modificacions siguin superiors a 6.000 euros, es fan públiques al Butlletí Oficial del Principat d'Andorra, i s'hi ha d'especificar l'òrgan contractant, la forma d'adjudicació, la modalitat de contractació, la identitat de l'adjudicatari, la denominació i localització del contracte, la partida pressupostària, el preu cert del contracte i el termini d'execució.
