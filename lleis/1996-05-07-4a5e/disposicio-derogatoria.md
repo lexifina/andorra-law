@@ -1,0 +1,2 @@
+# Disposició derogatòria
+A l'entrada en vigor de la present Llei queden derogades totes aquelles disposicions legals o reglamentàries que s'oposin al que en la present Llei s'estableix i en particular el capítol VII - Règim sancionador, article 21, 22, 23, 24, 25 i 26 de la Llei de taxes sobre el consum de data 30 de desembre de 1985 i el títol VI. Infraccions i sancions, articles 24, 25, 26, 27, 28 i 29 de la Llei de l'impost de mercaderies indirecte de data 26 de juny de 1991.
