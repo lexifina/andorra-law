@@ -1,0 +1,2 @@
+# Disposició transitòria
+Fins i tant el Consell General no aprovi una modificació del Codi de la Circulació que contempli la possibilitat de donar de baixa provisionalment del registre de vehicles aquells que estan en poder de venedors de vehicles d'ocasió degudament inscrits sota aquesta activitat al registre de Comerç i Indústria, produirà efectes de baixa, per als vehicles esmentats, el dipòsit de la carta groga en el Departament encarregat del registre de vehicles.
