@@ -1,0 +1,3 @@
+# Article 91
+1. El càrrec de Jutge és incompatible amb qualsevol altre càrrec públic i amb l'exercici d'activitats mercantils, industrials o professionals. Els Jutges són remunerats únicament a càrrec dels pressupostos de l'Estat.
+2. Durant el seu mandat, cap Jutge no pot ésser amonestat, traslladat, suspès en les seves funcions o separat del seu càrrec si no és com a conseqüència de sanció imposada per haver incorregut en responsabilitat penal o disciplinària, mitjançant un procediment regulat per la Llei Qualificada i amb totes les garanties d'audiència i defensa. La mateixa llei regularà també els supòsits de responsabilitat civil del Jutge.

@@ -1,0 +1,2 @@
+# Disposició addicional primera
+La Constitució dóna mandat al Consell General i al Govern perquè, amb l'associació dels Coprínceps, proposin negociacions als Governs d'Espanya i de França amb l'objectiu de signar un Tractat Internacional trilateral per establir el marc de les relacions amb els dos Estats veïns sobre la base del respecte a la sobirania, independència i integritat territorial d'Andorra.

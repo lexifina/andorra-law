@@ -1,0 +1,4 @@
+# Article 57
+1. Per prendre vàlidament acords, el Consell General ha de trobar-se reunit, amb l'assistència mínima de la meitat dels Consellers.
+2. Els acords són vàlids quan han estat aprovats per la majoria simple dels Consellers presents, sense perjudici de les majories especials determinades per la Constitució.
+3. Les lleis qualificades previstes per la Constitució requereixen per a la seva aprovació el vot final favorable de la majoria absoluta dels membres del Consell General, llevat de les Lleis Qualificades electoral i de referèndum, de competències comunals, i de transferències als Comuns, que requereixen per a la seva aprovació el vot final favorable de la majoria absoluta dels Consellers elegits en circumscripció parroquial i de la majoria absoluta dels Consellers elegits en circumscripció nacional.

@@ -1,0 +1,5 @@
+# Article 56
+1. El Consell General es reuneix en sessions tradicionals, ordinàries i extraordinàries, convocades segons el que es prevegi en el Reglament. Hi haurà dos períodes ordinaris de sessions al llarg de l'any, determinats pel Reglament. Les sessions del Consell General són públiques, llevat que el mateix Consell General acordi el contrari per majoria absoluta dels seus membres.
+2. El Consell General funciona en Ple i en comissions. El Reglament preveurà la formació de les comissions legislatives de manera que siguin representatives de la composició de la Cambra.
+3. El Consell General nomena una Comissió Permanent per vetllar pels poders de la Cambra quan aquesta estigui dissolta o en el període entre sessions. La Comissió Permanent, sota la presidència del Síndic General, estarà formada de manera que respecti la composició paritària de la Cambra.
+4. Els Consellers poden agrupar-se en grups parlamentaris. El Reglament preveurà els drets i deures dels Consellers i dels grups parlamentaris, així com l'estatut dels Consellers no adscrits.

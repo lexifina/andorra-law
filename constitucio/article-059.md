@@ -1,0 +1,2 @@
+# Article 59
+Mitjançant llei, el Consell General pot delegar l'exercici de la funció legislativa al Govern, la qual en cap cas podrà ésser subdelegada. La llei de delegació determina la matèria delegada, els principis i les directrius sota els quals haurà de regir-se el corresponent decret legislatiu del Govern, així com el termini dintre del qual haurà d'ésser exercida. L'autorització preveurà les formes parlamentàries de control de la legislació delegada.

@@ -1,0 +1,6 @@
+# Disposició transitòria segona
+1. La Llei Qualificada relativa a la Justícia preveurà, amb esperit d'equilibri, la designació de Jutges i Fiscals procedents dels Estats veïns mentre no sigui possible fer altrament. Aquesta llei, així com la del Tribunal Constitucional, regularan el règim de nacionalitat per als Jutges i Magistrats que no siguin andorrans.
+2. La Llei Qualificada de la Justícia habilitarà així mateix el règim transitori de continuïtat en el càrrec d'aquells jutges que, en el moment de la seva promulgació, no tinguin la titulació acadèmica prevista en aquesta Constitució.
+3. L'esmentada Llei Qualificada de la Justícia preveurà els sistemes d'adaptació dels processos i causes pendents al sistema judicial i processal previst en aquesta Constitució, per tal de garantir el dret a la jurisdicció.
+4. Les lleis i normes amb força de llei vigents en el moment de la creació del Tribunal Constitucional, podran ésser objecte de recurs directe d'inconstitucionalitat dins d'un termini de tres mesos, a partir de la presa de possessió dels Magistrats constitucionals. Els subjectes legitimats per interposar-lo són els previstos en l'article 99 de la Constitució.
+5. Durant el primer mandat subsegüent a l'entrada en vigor de la Constitució, els representants dels Coprínceps en el Consell Superior de la Justícia podran no ésser andorrans.

@@ -1,0 +1,5 @@
+# Disposició transitòria primera
+1. El mateix Consell General que ha aprovat la present Constitució obrirà un període extraordinari de sessions, per tal d'aprovar, almenys, el Reglament del Consell General i les lleis qualificades referents al règim electoral, les competències i el sistema de finançament dels Comuns, la Justícia i el Tribunal Constitucional. Aquest període de sessions finalitzarà el dia 31 de desembre de 1993.
+2. En aquest període, que comença el dia hàbil següent al de la publicació de la Constitució, el Consell General no podrà ser dissolt i exercirà totes les facultats que constitucionalment li corresponen.
+3. El dia vuit de setembre de 1993, festa de la Mare de Deu de Meritxell, el Síndic General convocarà eleccions generals, que se celebraran dins la primera quinzena del mes de desembre d'aquest mateix any.
+4. La finalització d'aquest període de sessions implicarà la dissolució del Consell General i el cessament del Govern, que seguirà en funcions fins a la formació del nou, d'acord amb la Constitució.
