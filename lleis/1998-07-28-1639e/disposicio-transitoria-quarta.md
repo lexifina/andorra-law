@@ -1,0 +1,2 @@
+# Disposició transitòria quarta
+L'excepció a la norma general establerta per la legislació vigent amb relació a les limitacions del capital estranger en les societats mercantils referida a l'apartat a) de l'article 2 d'aquesta Llei, que faculta que la participació d'entitats de crèdit estrangeres pugui assolir fins a un 51% del capital d'entitats bancàries de dret andorrà, serà efectiva per a les entitats bancàries actualment autoritzades a partir del 30 de setembre de 1999.

@@ -1,0 +1,5 @@
+# Article 2
+Naturalesa del capital
+a) Com a excepció a la norma general establerta per la legislació vigent amb relació a les limitacions del capital estranger en les societats mercantils, les entitats de crèdit estrangeres poden participar fins a un 51% al capital d'entitats bancàries de dret andorrà. En aquests casos, s'entendrà doncs que el total de la participació estrangera pot arribar al referit 51% de l'entitat bancària de dret andorrà
+b) Sense perjudici de les disposicions establertes en la Llei de regulació de les facultats operatives dels diversos components del sistema financer, en els casos en què, en aplicació del contingut dels apartats a) i b) d'aquest article o en què, en virtut de qualsevol altra disposició, la participació estrangera en el capital de l'entitat bancària de dret andorrà sobrepassi el terç del capital, la suma de les participacions, en societats de dret andorrà, de l'entitat bancària i d'entitats estrangeres està limitada a un terç del capital
+Aquesta limitació no s'aplica a les participacions en entitats financeres no bancàries.

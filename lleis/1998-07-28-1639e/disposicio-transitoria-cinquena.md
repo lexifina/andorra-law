@@ -1,0 +1,2 @@
+# Disposició transitòria cinquena
+Com a excepció del que estableix l'article 2 d'aquesta Llei, relatiu a la naturalesa del capital, es manté vigent la disposició transitòria quarta de la Llei de regulació de les facultats operatives dels diversos components del sistema financer de data 19 de desembre de 1996 per la qual la Caixa d'Estalvis i Pensions de Barcelona pot tenir, fins al 31 de desembre del 2011, fins a un 100% del capital de Caixabank SA.
