@@ -1,0 +1,6 @@
+## Capítol II. Ambit d'aplicació
+# Article 2
+L'aprenent
+a) La present Llei és d'aplicació per a totes aquelles persones d'edats compreses entre els 16 i els 19 anys (ambdues incloses). Excepcionalment poden formalitzar contractes de formació d'aprenents persones menors de 16 anys, sempre i que el contracte se signi durant el segon semestre de l'any i que el menor compleixi els 16 anys en el decurs del mateix any. I també aquelles persones que hagin complert els 20 anys sempre que el contracte es formalitzi durant el segon semestre de l'any i que l'aprenent hagi complert els 20 anys durant l'esmentat semestre.
+b) L'aprenent ha de ser de nacionalitat andorrana o persona estrangera legalment resident al Principat que disposi, ell, els seus pares o tutors, d'una autorització de sojorn i de treball prorrogable o una autorització de residència o de residència de treball.
+c) S'exclouen de l'àmbit d'aplicació de la present Llei aquelles persones que tenen un títol de formació professional de grau mitjà o superior o títols oficialment reconeguts com a equivalents, i també aquelles que hagin esgotat en una altra contractació la duració màxima de l'aprenentatge dins la mateixa branca professional, tal com disposa la present llei.

@@ -1,0 +1,4 @@
+# Article 15
+Relacions entre el Centre de formació d'aprenents i l'empresa
+a) El Centre de formació d'aprenents ha d'assegurar la coordinació entre la formació que dispensa i el treball que realitza l'aprenent dins l'empresa. A aquest efecte ha de designar, entre el personal del Centre, un tutor encarregat de fer un seguiment de la formació de l'aprenent, de verificar la seva assiduïtat, d'assegurar una relació amb el formador de l'empresa i de posar a la seva disposició els documents pedagògics que li puguin ser d'utilitat.
+b) El Centre de formació d'aprenents és l'encarregat d'organitzar totes les activitats que siguin necessàries per a la coordinació entre la formació dispensada pel Centre i la formació a l'empresa. Amb relació a aquests criteris s'ha d'establir un conveni entre el Centre i l'empresa concernida d'acord amb les característiques fixades reglamentàriament.
