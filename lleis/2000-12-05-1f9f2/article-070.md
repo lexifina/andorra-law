@@ -1,0 +1,3 @@
+# Article 70
+El tràfic aeri comercial amb origen, destinació, o dins del territori andorrà, només pot ser exercit per les persones, empreses, organismes o entitats que estiguin habilitades a aquest efecte mitjançant una llicència d'explotació o títols equivalents, i la inscripció al registre de comerç que autoritzi específicament per a l'exercici d'aquesta activitat, lliurats per les autoritats competents, a més a més d'aquells altres certificats d'índole tècnica que resultin exigibles.
+S'entén per llicència d'explotació l'autorització concedida a una empresa per la qual se li permet el transport aeri comercial de passatgers, correu o càrrega, en les condicions que hi figuren.

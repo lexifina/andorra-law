@@ -1,0 +1,2 @@
+# Article 58
+Correspon al ministeri encarregat dels transports, el compliment d'aquelles disposicions i fer efectives les esmentades servituds pels seus propis mitjans; si aquestes disposicions fossin insuficients, pot sol·licitar la cooperació i l'auxili d'altres organismes i autoritats, fins i tot si fos necessari per a l'enderroc o la desaparició immediats del que hi ha edificat, instal·lat i plantat que contravingui la limitació de què es tracti.

@@ -1,0 +1,4 @@
+# Article 141
+Les persones designades pel ministeri encarregat dels transports per a la investigació tècnica d'un accident o incident d'aviació civil, gaudeixen de plena independència i autoritat per tal de portar a terme la missió encomanada, i
+tenen accés sense restriccions a les restes de les aeronaus i un control absolut sobre aquestes, a fi de garantir-ne, en les millors condicions possibles, l'anàlisi tècnica, la recollida de restes o components, l'accés immediat al contingut dels registradors de vol, o qualsevol altre registre; d'accedir als resultats de qualsevol examen o presa de mostres dels cossos de les víctimes; de prendre declaració a testimonis; d'accedir lliurament a qualsevol informació pertinent relacionada amb l'esdeveniment i que estigui en possessió de qualsevol
+persona física o jurídica, així com de practicar qualsevol altre tipus de diligències que es considerin necessàries.

@@ -1,0 +1,2 @@
+# Quarta
+Les facultats i obligacions d'inspecció i control que aquesta Llei estableix podran ser realitzades directament pel ministeri competent en matèria de transports o bé, per la seva delegació, per organismes públics o empreses privades d'inspecció i control que tinguin la solvència tècnica i econòmica i la imparcialitat degudes per a la realització de la seva activitat, i que disposin dels mitjans humans i materials necessaris.

@@ -1,0 +1,3 @@
+# Article 8
+Per raons de defensa del territori, de l'ordenació del trànsit i de la seguretat aèria, el Govern pot fixar les zones en què es prohibeix o es restringeix el trànsit d'aeronaus sobre el territori andorrà, així com els canals d'entrada i sortida i la seva coordinació amb les infraestructures aeronàutiques, i també designar els aeròdroms habilitats amb despatx de duana.
+Així mateix, pot suspendre, totalment o parcialment, les activitats aèries en l'espai aeri en circumstàncies excepcionals durant períodes d'emergència per raons de policia i seguretat aèria o una altra causa de seguretat pública.

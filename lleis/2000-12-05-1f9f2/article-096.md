@@ -1,0 +1,2 @@
+# Article 96
+El transportista, i en nom seu el comandant de l'aeronau, queda facultat per excloure del transport els passatgers que, per malaltia, intoxicació etílica o de qualsevol altra droga, conducta antisocial o d'altres circumstàncies, puguin alterar l'ordre dins l'aeronau o posar en perill la seguretat del vol. Els passatgers exclosos tenen dret que se'ls reembossi el preu pagat pel bitllet.

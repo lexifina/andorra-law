@@ -1,0 +1,2 @@
+# Article 105
+El transportista té l'obligació de custodiar els objectes que li hagin estat lliurats per al transport i respondre'n de la pèrdua, avaria o retard en el lliurament a causa del viatge, quan no siguin conseqüència exclusiva de la naturalesa o vici propis dels propis objectes en qüestió. El transportista respon també de la pèrdua, necessària, en cas d'abocament, per tal d'assolir la seguretat de la navegació.

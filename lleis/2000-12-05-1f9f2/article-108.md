@@ -1,0 +1,2 @@
+# Article 108
+L'expedidor té dret a disposar de les coses objecte del transport i pot, després d'haver subscrit el contracte, d'acord amb el transportista, retirar-les de l'aeroport de sortida o de destinació, detenir-les en el curs del viatge a un aeroport, canviar el lloc de destinació o la persona destinatària o demanar-ne el retorn a l'aeroport de sortida. Les despeses que ocasioni l'exercici d'aquest dret són per compte de l'expedidor.

@@ -1,0 +1,3 @@
+# Article 64
+Les llicències i habilitacions lliurades per altres Estats poden ser reconegudes o validades a Andorra d'acord amb els convenis i tractats internacionals vigents. Alguns dels aspectes de la formació de la persona que sol·licita poden ser acceptats a l'efecte de l'acompliment dels requisits per a l'obtenció del reconeixement o validació.
+Circumstancialment, pot autoritzar-se l'ús de personal aeronàutic amb llicències estrangeres o qualificacions equivalents quan ho aconselli la millora de l'activitat específica de què es tracti. Aquesta autorització té, en qualsevol cas, validesa temporal limitada a un màxim d'un any.

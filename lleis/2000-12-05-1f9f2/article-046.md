@@ -1,0 +1,3 @@
+# Article 46
+Cap aeronau no s'autoritza per volar sense l'expedició d'un certificat d'aeronavegabilitat lliurat pel ministeri encarregat dels transports, el qual el pot renovar, revocar o suspendre d'acord amb el que es preveu reglamentàriament. S'entén per certificat d'aeronavegabilitat el document que serveix per identificar tècnicament l'aeronau, definir-ne les característiques i expressar la qualificació que mereix per a la seva utilització, deduïda de la inspecció en terra i de les corresponents proves en vol.
+Poden ser validats a Andorra els certificats d'aeronavegabilitat que reuneixin les condicions mínimes acceptades internacionalment.

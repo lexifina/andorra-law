@@ -1,0 +1,2 @@
+# Article 107
+La recepció de les coses transportades sense protesta per part del destinatari constitueix presumpció que les mercaderies han estat lliurades en bon estat, d'acord amb el contracte de transport. En cas de protesta del destinatari, s'ha de fer constar en la carta de port aeri o document que la substitueixi. En el termini de vuit dies s'ha de formalitzar la reclamació corresponent davant del transportista. Si aquesta reclamació no es verifica en l'esmentat termini, la seva responsabilitat s'entén extingida.

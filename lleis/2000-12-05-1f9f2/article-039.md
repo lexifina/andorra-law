@@ -1,0 +1,3 @@
+# Article 39
+Les aeronaus han de ser matriculades necessàriament a l'esmentat Registre especial, on es faran constar tots els contractes d'adquisició, de lloguer o d'altres similars, i tots els actes de modificació, transmissió i extinció de drets i altres vicissituds que afectin l'aeronau en general.
+Tota operació que es pretengui inscriure al Registre ha de constar en document públic o privat, segons escaigui, i requereix la presentació simultània del corresponent document duaner i de títol de propietat o possessió, a fi de relacionar-hi l'assentament practicat. Les inscripcions de transferències de propietat o canvis de titular es practiquen en virtut de document públic.

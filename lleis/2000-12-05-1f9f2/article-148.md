@@ -1,0 +1,8 @@
+# Article 148
+En la tramitació dels expedients i en l'aplicació de les sancions, se segueixen els principis següents:
+1) La gradació de les sancions, dins els límits establerts per a cada classe d'infracció, s'efectua tot tenint en compte els perjudicis causats, la valoració del perill que la conducta infractora hagi suposat per a la seguretat de les persones i coses, la intencionalitat de l'infractor i la reiteració en infraccions en matèria aeronàutica que, a l'efecte d'aquesta Llei, no puguin classificar-se com a reincidència.
+2) Si una mateixa acció o omissió és constitutiva de dues o més infraccions, es pren en consideració únicament aquella que comporta la sanció més greu.
+3) En el cas que durant la instrucció d'un expedient administratiu apareguin indicis que els fets poden haver estat constitutius de delicte o falta penal, es trasllada al Ministeri Fiscal i se suspèn el procediment sancionador mentre l'autoritat judicial no hagi dictat sentència ferma o resolució que posi fi al procés.
+4) La sanció penal exclou la imposició de sanció administrativa. Si no s'ha estimat l'existència de delicte o falta, l'Administració continua l'expedient sancionador, tot tenint en compte, si escau, els fets declarats provats en la resolució de l'òrgan judicial competent.
+5) Durant la tramitació de l'expedient, o en cas de suspensió del procediment sancionador, poden adoptar-se immediatament les mesures administratives
+tendents a salvaguardar l'activitat aeronàutica i a restablir la situació alterada per la infracció, i igualment poden iniciar-se els procediments de suspensió dels efectes i de l'anul·lació o resolució dels actes administratius o contractes en els quals suposadament pugui emparar-se l'actuació il·legal.

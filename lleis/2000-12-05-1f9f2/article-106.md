@@ -1,0 +1,5 @@
+# Article 106
+Quan no es pugui dur a terme el lliurament dels objectes transportats perquè no es trobi el destinatari, o perquè aquest es negui a rebre les mercaderies sense consignar protesta pel deteriorament que puguin tenir, o perquè el destinatari
+no vulgui pagar les despeses de reembossament, transport o d'altres que li corresponguin, el transportista ho ha de comunicar a l'expedidor. En aquest
+cas, el transportista és dipositari remunerat de les mercaderies durant el període d'un mes, transcorregut el qual, si l'expedidor no n'ha disposat, les pot alienar en subhasta pública amb les formalitats que el reglament assenyali, i rescabalar-se de les despeses, la resta queda a disposició d'aquells que hi resultin amb dret.
+Si l'objecte del transport és de naturalesa perible, el termini fixat en el paràgraf anterior pot ser reduït en benefici del valor de venda de la cosa transportada. El dipòsit de les coses a què fan al·lusió els paràgrafs anteriors pot ser efectuat pel transportista, sota la seva responsabilitat, fora del seu domicili.
