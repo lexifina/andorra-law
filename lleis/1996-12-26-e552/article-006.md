@@ -1,0 +1,9 @@
+## Títol II. Dels instruments públics
+# Article 6
+Requisits generals
+1. A tot instrument públic hi ha de constar: el nom del notari autoritzant, el nom dels compareixents -atorgants i testimonis-, la seva nacionalitat, residència i domicili, el seu estat civil i en el seu cas el règim matrimonial, el lloc i la data de l'atorgament i també l'hora quan es tracti de testaments, quan una disposició legal ho imposi o quan les parts així ho demanin.
+2. El notari dóna fe de la coneixença dels compareixents. Quan no són coneguts personalment del notari, ha de fer constar que els ha identificat i per quin mitjà.
+3. Els instruments públics s'atorguen en un sol i mateix acte, amb la presència simultània del notari i dels compareixents que hi intervenen. Quan es tracti de requeriments o altres actes que no exigeixen la unitat d'acte, el notari farà constar de forma expressa el lloc i la data de cada una de les diferents manifestacions, declaracions o actuacions.
+4. Els instruments públics s'escriuen de forma llegible i clara, sense espais en blanc ni intervals, inutilitzant línies o parts de línia que no estiguin escrites i el revers de cada un dels fulls, quan s'escriguin a una sola cara.
+5. L'instrument públic és firmat, al final, per tots els compareixents i pel notari, amb el seu signe i segell. Quan algun dels compareixents no sap o no pot firmar, el notari fa menció d'aital circumstància.
+6. En l'instrument públic no s'hi poden passar ratlles, ni fer-hi raspadures o esborraments, ni cap altra alteració. Les sumes, imports i dates, quan afectin directament el contingut del contracte, han d'expressar-se, al menys, en lletres. Es prohibeix la sobrecàrrega, l'interlineat i l'addició de mots dins el cos de l'escrit. Els afegits i les correccions es fan al marge o es traslladen al final de l'instrument i se salven amb la firma de tots els compareixents i del notari. Els mots que han de suprimir-se s'assenyalen de forma que quedin llegibles.
