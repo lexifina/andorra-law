@@ -1,0 +1,2 @@
+# Article 18
+L'aportació preu-fet inicial, la contribució anyal de les companyies i delegacions asseguradores, les indemnitza cions màximes i el preu dels certificats, així com el mínim contributiu de l'apartat c) de l'article anterior, seran fixats i ajustats anualment per Decret del Govern, previ informe i proposta de la Junta del Fons a formular durant els primers dos mesos de cada any natural.

@@ -1,0 +1,2 @@
+# Article 23
+Més enllà del dit darrer termini de trenta dies, el Fons instarà l'execució del cobrament de la contribució de la companyia deutora, contra la fiança bancària constituïda per disposició de l'article 16è. de la Llei Reguladora de l'Actuació de les Companyies d'Assegurances, de data 11 de maig de 1989, pel procediment regulat en el seu article 18è. amb tots els ulteriors efectes que preveu aquella Llei.

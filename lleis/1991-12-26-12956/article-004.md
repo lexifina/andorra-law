@@ -1,0 +1,2 @@
+# Article 4
+El Fons agrupa, amb caràcter obligatori, totes les companyies d'assegurances i delegacions, andorranes i estrangeres que, degudament autoritzades per operar a Andorra de conformitat amb la Llei Reguladora de l'Actuació de les Companyies d'Assegurances al Principat, de data 11 de maig de 1989, produeixen pòlisses d'assegurança per a la cobertura dels riscs d'ús i circulació de vehicles automòbils en general.

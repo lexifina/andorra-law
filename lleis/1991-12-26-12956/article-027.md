@@ -1,0 +1,2 @@
+# Article 27
+L'acreditament de l'elecció, o designació dels membres representants de les companyies es farà mitjançant còpia autenticada de l'acta de la sessió a tal efecte celebrada, amb assistència de la majoria dels legals representants de les companyies i delegacions d'assegurances integrants del Fons -d'acord amb allò disposat en el ja citat article quart- en primera convocatòria, o bé per majoria dels assistents en segona convocatòria.

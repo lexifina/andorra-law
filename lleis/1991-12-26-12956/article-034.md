@@ -1,0 +1,2 @@
+# Article 34
+A efectes de verificació de les contribucions anyals que han d'abonar les companyies i delegacions, el Fons podrà demanar al Govern que, en mèrits de les facultats que li atorga la vigent Llei Reguladora de l'Actuació de les Companyies d'Assegurances (Capítol III), verifiqui la certesa i adequació d'aquelles contribucions, en relació a les declaracions de les companyies i a la seva cartera de vehicles assegurats.

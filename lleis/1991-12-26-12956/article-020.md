@@ -1,0 +1,2 @@
+# Article 20
+En el supòsit que, en curs d'exercici, ocorregués algun sinistre que, per la necessària intervenció del Fons, fes preveure indemnitzacions de danys per costos superiors a les previsions dels ingressos, el Govern, mitjançant Decret, a proposta motivada de la Junta del Fons, podrà imposar a cada companyia i delegació l'aportació d'una derrama suplementària, en les condicions fixades en l'article 17, apartat a). Aquesta aportació complementària i especial només podrà tenir lloc una vegada per any.

@@ -1,0 +1,2 @@
+# Article 28
+El mandat serà per una durada de quatre anys, sense perjudici de la seva reelecció indefinida o de la seva revocació anticipada, pel mateix procediment i requisits de l'elecció o designació, en el curs de la Junta General que es reunirà durant el primer quadrimestre de cada any natural. En aquesta sessió la Junta de Govern informarà suficientment de l'administració i de la gestió del Fons.
