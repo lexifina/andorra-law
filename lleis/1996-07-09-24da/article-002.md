@@ -1,0 +1,10 @@
+# Article 2
+La persona que vulgui exercir l'activitat professional de la traducció i/o la interpretació jurades ha de reunir les condicions següents:
+a) ésser prèviament autoritzada pel Govern per a l'exercici de la professió liberal de la traducció i/o la interpretació, segons la titulació adequada.
+A l'efecte esmentat, la titulació adequada és la titulació universitària en l'àmbit de la traducció i/o la interpretació o una titulació universitària en llengües (filologia) reconeguda per l'Estat andorrà. En ambdós casos han d'acreditar per mitjà d'una certificació acadèmica quines són les llengües de les quals han cursat estudis i que poden ésser objecte de traducció.
+b) superar les proves que estableix el Govern per mitjà del Reglament corresponent.
+La prova que estableix el Govern consta com a mínim, d'uns exercicis per establir el grau de coneixement sobre l'ordenament jurídic andorrà de l'aspirant, d'uns exercicis per avaluar el grau de coneixement referent a diversos aspectes (ortogràfic, morfològic, sintàctic, lèxic i fraseològic) de la llengua catalana i d'uns exercicis sobre llenguatge jurídic i administratiu. Les proves fan referència a la traducció i a la interpretació del català, amb especificació de la llengua de què es tracta.
+Queden exemptes d'aquestes proves les persones que posseeixen el títol universitari de traductor o intèrpret i que acreditin per mitjà d'una certificació acadèmica quines són les llengües de les quals han cursat estudis de traducció al català i les persones que posseeixin diploma universitari de postgrau de traducció jurídico-administrativa d'altres llengües al català.
+Queden exemptes de la prova referida a l'ordenament jurídic andorrà i al llenguatge jurídic i administratiu les persones que posseeixin la llicenciatura en dret. Queden exemptes de la prova referida a diversos aspectes de la llengua catalana les persones que posseeixin la llicenciatura en filologia catalana.
+c) no tenir antecedents penals.
+d) realitzar l'acte de jurament davant el Govern.
