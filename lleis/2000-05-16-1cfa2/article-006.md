@@ -1,0 +1,3 @@
+# Article 6
+Es crea el vedat de caça de la vall de Ransol, situat al terme comunal de
+Canillo. Els seus límits són: del pic de la Serrera fins a la collada dels Meners, el pic de la Cabaneta, anant fins al pic de la Pala Alta serra serrant fins al pic de Torradella, seguint per la serreta fins al coll de la Cauba. A partir d'aquí per la canal del coll de la Cauba fins a l'encreuament amb el Valira d'Orient, riu amunt fins a la confluència amb el riu d'Incles i seguint aquest riu fins al pont d'Incles. Seguint la carretera de la vall d'Incles fins al riu de Manegor, riu amunt fins a la collada de Fontargent i des d'aquí seguint la frontera fins a trobar el pic de la Serrera.
