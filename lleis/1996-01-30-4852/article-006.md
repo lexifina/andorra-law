@@ -1,0 +1,5 @@
+# Article 6
+Es andorrà l'infant nascut al Principat d'Andorra de pares estrangers, si un dels pares sota l'autoritat del qual està legalment sotmès té la seva residència principal i permanent al Principat d'Andorra a la data del naixement de l'infant i l'ha tinguda durant els divuit anys que han precedit aquest naixement.
+Si aquesta durada de divuit anys no s'ha acomplert el dia del naixement de l'infant, la nacionalitat andorrana se li atribueix a títol provisional
+Aquesta nacionalitat provisional s'ha de confirmar, en les condicions de capacitat previstes en l'article 34, abans que l'infant hagi arribat a la majoria d'edat. La confirmació no pot tenir lloc abans que no s'hagi acomplert una durada total de residència principal i permanent al Principat d'Andorra de divuit anys, obtinguda afegint a la residència principal i permanent al Principat d'Andorra, abans del naixement de l'infant, del progenitor mencionat al primer paràgraf, la residència principal i permanent al Principat d'Andorra de l'infant, ininterrompuda des del seu naixement.
+En cas de no confirmació, l'infant perd la nacionalitat andorrana a la data de la seva majoria d'edat.

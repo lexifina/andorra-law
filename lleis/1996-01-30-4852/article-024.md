@@ -1,0 +1,2 @@
+# Article 24
+Perd la nacionalitat andorrana la persona que, per adquirir, conservar, recuperar o veure's atribuir la nacionalitat andorrana, hagi fet falses declaracions o omès voluntàriament de fer conèixer situacions de dret o de fet que li hagin impedit d'obtenir aquest resultat. La pèrdua de la nacionalitat andorrana és efectiva des del moment en què el Govern constati la falsa declaració o l'omissió voluntària, sense perjudici dels drets adquirits per tercers.

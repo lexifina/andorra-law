@@ -1,0 +1,2 @@
+# Article 4
+Es andorrà l'infant trobat al Principat d'Andorra o nascut al Principat d'Andorra de pares desconeguts. Aquesta nacionalitat es perd a la data en què s'estableixi la filiació de l'infant respecte a una persona estrangera, a condició que dita filiació esdevingui durant la minoria d'edat de l'infant i que aquest obtingui la nacionalitat de la persona estrangera, segons la llei nacional d'aquesta darrera.

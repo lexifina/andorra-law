@@ -1,0 +1,2 @@
+# Article 10
+Pot adquirir la nacionalitat andorrana, en la forma prevista a l'article 28, la persona estrangera que contragui matrimoni amb una persona de nacionalitat andorrana, si compleix les condicions de l'article 7, si acredita tenir la seva residència principal i permanent al Principat d'Andorra ininterrompudament des d'almenys tres anys, abans o després de la celebració del matrimoni, i si prova la seva integració al Principat d'Andorra.

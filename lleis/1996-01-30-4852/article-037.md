@@ -1,0 +1,2 @@
+# Article 37
+Els documents amb que la persona interessada fonamenti el seu expedient, així com els informes i els documents que el Govern obtingui dels diferents serveis, en aplicació dels articles 29, 30, 33 i 36, són confidencials. Solament poden ser comunicats a la persona interessada o a terceres persones que tinguin un interès jurídic per impugnar la petició, la resolució o, en general, l'estatut nacional de la persona interessada.

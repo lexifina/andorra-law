@@ -1,0 +1,9 @@
+Llei
+qualificada de la nacionalitat
+Atès que el Consell General en la seva sessió del dia 5 d'octubre de 1995 ha aprovat la següent:
+Llei qualificada de la nacionalitat
+Exposició de motius
+La legislació andorrana en matèria de nacionalitat, des del Decret del 17 de Juny de 1939, ha tingut sempre com a constant la preservació de la identitat nacional, fonament necessari per a l'existència jurídica del país. El canvi de les estructures demogràfiques, passant d'una situació estàtica durant segles a una forta immigració en els darrers decennis, ha dut com a conseqüència una desproporció entre la població nacional i la forana; aquesta desproporció ha estat percebuda com un element que calia corregir per no comprometre les bases mateixes de l'Estat.
+L'afirmació del Principat d'Andorra com a Estat en dret internacional, una vegada el poble s'ha donat la Constitució, s'assolirà millor si l'element humà de l'Estat, la població, és cada vegada més homogènia, seguint progressivament la tendència de fer coincidir la població de fet amb la població de dret.
+En aquesta línia, la legislació s'ha anat ampliant progressivament i ara es proposa una obertura important donant el dret a la nacionalitat per naturalització a una part de la població que es pot considerar integrada pel nombre d'anys de residència al país.
+La tendència a fer coincidir la població de fet amb la de dret no té lloc solament en el sentit de l'adquisició de la ciutadania andorrana per als que neixen i viuen al país, sinó que, de manera simètrica, exigeix la pèrdua de la nacionalitat en els casos de possessió de doble o múltiple nacionalitat, tal com queda expressat en la Constitució, establint l'obligació d'optar lliurement entre l'andorrana i les altres nacionalitats. Opció senzilla d'exercitar i que serà facilitada encara més en el futur quan Andorra signi els acords adequats.

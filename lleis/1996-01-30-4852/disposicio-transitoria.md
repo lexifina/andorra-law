@@ -1,0 +1,2 @@
+# Disposició transitòria
+Mentre el reglament encomanat al Govern en l'article 36 d'aquesta Llei no hagi estat publicat, l'apreciació sobre la suficiència de la integració requerida en els articles 10 i 11, continua sent competència de l'actual Comissió de la Nacionalitat, que ha d'aplicar els principis enunciats en l'esmentat article 36 i seguir els criteris assenyalats en l'actual Reglament per a l'apreciació de la suficient integració a Andorra, de 21 de Juliol de 1994.

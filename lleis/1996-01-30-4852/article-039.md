@@ -1,0 +1,3 @@
+# Article 39
+Ultra les accions civils que pertanyen a tercers per fer valer davant les jurisdiccions competents, tota persona que tingui un interès pot recórrer les decisions publicades, en aplicació de l'article precedent, al Butlletí Oficial del Principat d'Andorra; disposa a aquest efecte d'un termini de tretze dies hàbils a comptar de la seva publicació.
+El recurs, que cal motivar en fet i en dret, és de reposició davant del Govern; es pot recórrer la resolució davant la Secció Administrativa de la Batllia. Les resolucions judicials seran publicades al Butlletí Oficial del Principat d'Andorra.

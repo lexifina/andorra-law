@@ -1,0 +1,2 @@
+# Article 8
+Pot adquirir la nacionalitat andorrana, en la forma prevista en l'article 28, l'infant adoptat en adopció plena per part d'una persona de nacionalitat andorrana, a condició que l'adopció hagi estat judicialment declarada abans que l'infant tingui catorze anys, que ho hagi estat en aplicació de la Llei andorrana o d'una Llei estrangera que no contravingui l'ordenament jurídic del Principat d'Andorra i que l'infant compleixi les condicions de l'article 7.

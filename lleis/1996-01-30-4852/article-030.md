@@ -1,0 +1,2 @@
+# Article 30
+Una vegada rebut pel Govern, l'expedient ha de ser instruït pel servei competent, el qual elabora un informe sobre la situació de la persona interessada en matèria de residència principal i permanent al Principat d'Andorra. Per a les necessitats de verificació, es pot facilitar a d'altres serveis de l'Administració una còpia dels certificats aportats, previstos als punts 1.b), 1.c) i 1,e) de l'article 29, així com d'altres eventualment requerits en relació amb la seva residència principal i permanent, amb exclusió de tot altre document que figuri en l'expedient.
