@@ -1,0 +1,3 @@
+# Article 98
+Informació de la comptabilitat
+El conseller encarregat de les finances ha de trametre al Ple del Comú, trimestralment i dintre del trimestre següent, una memòria explicativa de l'execució del pressupost de l'Administració comunal i de les seves modificacions, així com els moviments i la situació de la tresoreria. La mateixa comesa han de realitzar els directors de les entitats de dret públic participades pel Comú respecte als pressupostos respectius.

@@ -1,0 +1,2 @@
+# Disposició transitòria tercera
+En un termini de 10 anys el Govern i els comuns elaboren un cadastre de la propietat immobiliària nacional. El cadastre ha de permetre identificar les propietats immobiliàries del territori nacional i també establir-ne una valoració a partir del valor de mercat mitjançant uns mateixos criteris tècnics. Mentre aquest cadastre no estigui elaborat i aprovat, l'impost sobre la propietat immobiliària grava la propietat no edificada a un tipus impositiu del 0%.
