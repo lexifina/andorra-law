@@ -1,0 +1,6 @@
+## Capítol XII. Liquidació
+# Article 77
+Quitança
+Resolt el contracte, en el termini màxim de tres dies naturals, l'empresari ha d'oferir al treballador el pagament de tots els conceptes laborals i ho ha de reflectir en un document o quitança, estès per duplicat, que han de signar l'empresari i el treballador. En la quitança s'ha d'esmentar si el contracte s'ha resolt per mutu acord i s'ha d'individualitzar l'import de tots els conceptes que s'hagin de satisfer, com la compensació econòmica per comiat, salari degut,
+hores extres, vacances, festius, primes, comissions vençudes, la menció d'aquelles per vèncer, encara que no se sàpigui el seu import, la part proporcional de pagues extres o altres conceptes meritats en el decurs de la relació laboral.
+En cas de desacord en qualsevol dels conceptes liquidats, la quitança se signa pels altres en què hi hagi acord, i l'empresari, en el termini màxim de tres dies hàbils següents al de l'oferiment de la liquidació, ha de consignar judicialment i sense condicions, a disposició del treballador, l'import que creu que correspon pels conceptes discutits. L'acceptació per part del treballador de la quantitat dipositada no implica renúncia a reclamar la resta que consideri deguda.
