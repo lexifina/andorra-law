@@ -1,0 +1,7 @@
+## Capítol onzè
+# Disposició transitòria primera
+Prioritat resultant d'un ús anterior al Principat d'Andorra
+1) Malgrat el que especifica l'article 4.1), tota marca que sigui objecte d'un ús efectiu i real al territori del Principat d'Andorra a la data d'entrada en vigor d'aquesta Llei gaudirà d'un dret de prioritat que pren efecte a la data en què ha començat aquest ús.
+2) L'apartat 1) d'aquesta disposició transitòria només és aplicable si una sol.licitud de registre de la marca que ha estat objecte d'aquest ús s'ha dipositat a l'Oficina de Marques dins un termini de dos anys comptats a partir de la data en la qual l'Oficina de Marques pugui rebre sol.licituds de registre. La sol.licitud de registre ha d'anar acompanyada, en la forma que determini el Reglament d'execució, d'una reivindicació del dret de prioritat establert a l'apartat 1 d'aquesta disposició transitòria i d'una declaració d'ús anterior.
+3) Una marca que és objecte d'una sol.licitud de registre segons l'apartat 2) d'aquesta disposició transitòria, és registrada si compleix les condicions de l'article 11. La data del registre de marca s'estableix segons l'article 12 i la inscripció de la marca al Registre de Marques ha d'esmentar la declaració d'ús anterior.
+4) Per fer prevaler enfront de tercers la prioritat esmentada a l'apartat 1) d'aquesta disposició transitòria, al titular d'un registre de marca que ha estat objecte de la declaració d'ús que estableix l'apartat 2) d'aquesta disposició transitòria li pertoca aportar la prova d'ús anterior.

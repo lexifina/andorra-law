@@ -1,0 +1,7 @@
+# Article 26
+Nul.litat
+1) L'autoritat judicial civil, a petició de tota persona que justifiqui un interès legítim, pot declarar nul un registre de marca en cas que aquest no compleixi alguna de les condicions que recullen els articles 1, 2 i 5.
+2) L'autoritat judicial civil, a petició del titular d'un dret anterior recollit a l'article 3, pot declarar nul un registre de marca.
+3) Tot registre de marca que ha estat declarat nul és considerat nul i sense efecte des de la seva data de registre.
+4) Quan la declaració de nul.litat d'un registre de marca ha esdevingut definitiva, l'autoritat judicial notifica la seva decisió a l'Oficina de Marques. L'Oficina de Marques inscriu la decisió al Registre de Marques amb la indicació que el registre de marca és nul i sense efecte des de la seva data de registre.
+5) L'acció de nul.litat esmentada als apartats 1 a 4 d'aquest article no prescriu; no obstant això, el titular d'un dret anterior recollit a l'article 3 que, durant un període de cinc anys consecutius, ha tolerat l'ús al Principat d'Andorra d'una marca que ha estat objecte d'un registre posterior amb coneixement de dit ús, ja no podrà sol.licitar la nul.litat ni oposar-se a l'ús de la marca que ha estat objecte d'un registre posterior sobre la base d'un dret anterior recollit a l'article 3, pels productes o els serveis pels quals ha estat utilitzada la marca que ha estat objecte d'un registre posterior, llevat que el dipòsit de la sol.licitud de registre posterior hagi estat efectuat de mala fe.

@@ -1,0 +1,4 @@
+# Article 31
+Mesures cautelars
+1) L'autoritat judicial pot, a títol cautelar, prohibir sota constrenyiment que es continuïn lesionant els drets del titular d'un registre de marca o ordenar la constitució de garanties destinades a assegurar si escau la indemnització del titular del registre de marca o del beneficiari de la llicència exclusiva d'explotació.
+2) La sol.licitud de prohibició o la constitució de garanties només s'admet si l'acció subjacent sembla ben fonamentada i si ha estat entaulada dins un termini breu a comptar del dia en què el titular del registre de marca o el beneficiari d'una llicència exclusiva d'explotació ha tingut coneixement dels fets en què es basa. L'autoritat judicial pot subordinar la prohibició a la constitució per part del demandant de garanties destinades a assegurar la indemnització eventual del perjudici sofert pel demandat en cas que, posteriorment, es consideri que l'acció està mancada de fonament.

@@ -1,0 +1,6 @@
+# Disposició transitòria segona
+Prioritat resultant d'un registre de marca en un país membre de la Convenció de París
+1) Tota marca que està registrada en un país membre de la Convenció de París per a la protecció de la propietat industrial a la data d'entrada en vigor d'aquesta Llei gaudirà d'un dret de prioritat que pren efecte a la dita data d'entrada en vigor.
+2) L'apartat 1) d'aquesta disposició transitòria només és aplicable si una sol.licitud de registre de la marca definida al dit apartat 1) s'ha dipositat a l'Oficina de Marques dins un termini d'un any comptat a partir de la data en la qual l'Oficina de Marques pugui rebre sol.licituds de registre. La sol.licitud de registre ha d'anar acompanyada, en la forma que determini el Reglament d'execució, d'una reivindicació del dret de prioritat establert a l'apartat 1) d'aquesta disposició transitòria i d'una còpia del registre en què es fonamenta.
+3) Una marca que és objecte d'una sol.licitud de registre segons l'apartat 2) d'aquesta disposició transitòria, és registrada si compleix les condicions de l'article 11. La data del registre de marca s'estableix segons l'article 12 i la inscripció de la marca al Registre de Marques ha d'esmentar la reivindicació de prioritat.
+4) Si dues o més marques que han estat objecte de registres efectuats en virtut de l'apartat 3) d'aquesta

@@ -1,0 +1,5 @@
+# Article 32
+Segrest
+1) El titular d'un registre de marca o el beneficiari d'una llicència exclusiva d'explotació té dret a fer procedir en tot lloc, per part de l'autoritat judicial assistida per experts de la seva elecció, ja sigui a la descripció detallada amb presa de mostres o sense, ja sigui al segrest real dels productes que pretén marcats, oferts en venda, lliurats o subministrats, en perjudici seu en violació dels seus drets, ja sigui quan la marca és utilitzada per a serveis, al segrest dels elements utilitzats per a la prestació del servei.
+2) L'autoritat judicial pot subordinar el segrest real a la constitució per part del demandant d'unes garanties encaminades a assegurar la indemnització eventual del perjudici sofert pel demandat en cas que, posteriorment, es consideri que l'acció està mancada de fonament.
+3) En cas que el demandant no hagi entaulat l'acció ni per la via civil ni per la penal dins un període no superior a deu dies feiners, el segrest quedarà sense efecte, sense perjudici de la indemnització dels danys i perjudicis que pot ser reclamada.
