@@ -1,0 +1,7 @@
+# Article 10
+El Comitè Executiu
+1. El Comitè Executiu és l'òrgan permanent de gestió i administració de la Cambra. Es compon d'un President, quatre Vice-Presidents -un per cadascun dels sectors econòmics esmentats al número 3 de l'article 6-, un Tresorer i tres Vocals, tots ells elegits entre els membres del Ple de la Cambra. L'elecció dels càrrecs del Comitè Executiu es fa en la sessió constitutiva del Ple que es convoqui després de les eleccions de conformitat amb allò que disposa el número 9 de l'article 6 i en la forma que determini el Reglament intern.
+2. El càrrec de President només pot recaure en aquells membres del Ple que tinguin la nacionalitat andorrana.
+3. El Reglament intern de la Cambra ha de regular la forma de renovació parcial dels càrrecs del Comitè Executiu, si es disposa de fer-la alhora que la dels membres del Ple.
+4. En el Reglament intern de la Cambra s'ha de determinar les funcions que corresponen al Comitè Executiu, atribuint-li, per a casos d'urgència justificada, la facultat d'adoptar acords en matèries que siguin de la competència del Ple, donant-ne compte a aquest en la primera reunió que celebri. L'esmentada facultat del Comitè Executiu per a casos d'urgència no pot exercir-se quan es tracti de funcions exclusives de l'òrgan plenari, per raó de la seva naturalesa.
+5. Corresponen també al Comitè Executiu totes aquelles funcions no atribuïdes al Ple legalment o reglamentàriament.
