@@ -1,0 +1,3 @@
+# Article 50
+Els actes administratius regularment dictats i publicats o notificats són executoris, llevat que estiguin sotmesos a condició o a una ulterior aprovació, s'imposen tant a les autoritats administratives i judicials com als administrats. Han d'ésser obeïts per tots aquells a qui imposin obligacions.
+La interposició de qualsevol recurs no suspendrà l'execució de l'acte impugnat. Això no obstant l'Autoritat que hagi de resoldre el recurs podrà suspendre l'execució de l'acte recorregut en el cas que l'execució pogués causar perjudicis de difícil o impossible reparació o quan es tracti d'actes nuls de ple dret.

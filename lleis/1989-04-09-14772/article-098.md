@@ -1,0 +1,3 @@
+# Article 98
+Els funcionaris encarregats de la gestió dels béns de les persones públiques que, per dol o per negligència, hagin estat a l'origen de la pèrdua o de la degradació d'aquests béns respondran davant l'Administració del dany o perjudici sofert per aquesta.
+Aquesta responsabilitat se substanciarà en un procediment administratiu independent o en un procediment disciplinari. L'Administració podrà rescabalar-se del dany a partir del sou o del patrimoni del funcionari, sense perjudici de recurs per part d'aquest davant la jurisdicció administrativa i fiscal.

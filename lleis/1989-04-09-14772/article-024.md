@@ -1,0 +1,2 @@
+# Article 24
+Tot agent de l'Administració pública és responsable davant els seus superiors de l'acompliment del seu servei. Està sotmès al poder disciplinari, però només pot ésser sancionat per l'autoritat determinada per la llei, segons un procediment que garanteixi l'audiència i la defensa de l'interessat, i amb les sancions establertes per una norma jurídica preexistent.

@@ -1,0 +1,2 @@
+# Article 21
+Tothom és igual davant l'Administració pública, sense que pugui ésser establerta cap discriminació per raó de naixença, de raça, de sexe, de religió, d'opinions o de qualsevol altra consideració personal o social. L'Administració ha de tractar tots els ciutadans amb igualtat, objectivitat, neutralitat i imparcialitat. Els serveis administratius no poden comportar cap altra remuneració que la que autoritzin les lleis i els reglaments.

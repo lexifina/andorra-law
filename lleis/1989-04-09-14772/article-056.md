@@ -1,0 +1,2 @@
+# Article 56
+Els contractants tindran dret a ésser indemnitzats pels perjudicis que els siguin causats per les mesures o decisions de caràcter general que afectin de manera greu un element del contracte, així com pels que puguin resultar de fets nous, estranys a la voluntat de les parts i que comportin una alteració de les condicions econòmiques previstes per a llur execució.
