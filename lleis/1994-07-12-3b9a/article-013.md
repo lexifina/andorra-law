@@ -1,0 +1,2 @@
+# Article 13
+La metodologia educativa és essencialment activa a fi de desenvolupar l'espontaneïtat, la creativitat i la responsabilitat. Té com a punt de partida l'experiència de cada infant i la seva llengua usual d'expressió, sempre que sigui possible, per tal de crear un ambient d'afecte, de treball i de diàleg en què cada infant pugui construir el propi coneixement. No obstant això, es tendeix vers un ús privilegiat del català com a llengua de comunicació.

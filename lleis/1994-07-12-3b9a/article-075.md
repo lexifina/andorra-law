@@ -1,0 +1,2 @@
+# Article 75
+Els serveis d'atenció psicopedagògica asseguren l'adequat seguiment psicològic i maduratiu dels alumnes, ajuden els docents a través de la identificació de conflictes i col.laboren amb ells a l'hora de solucionar-los. S'han d'ocupar particularment dels alumnes amb necessitats educatives especials a partir de la detecció precoç de possibles problemes i han d'orientar els alumnes a l'escola.

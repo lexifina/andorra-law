@@ -1,0 +1,2 @@
+# Segona
+S'insta el Govern perquè en el termini de sis mesos estableixi un conveni de col.laboració amb el Patronat Rector de l'Escola Especialitzada Nostra Senyora de Meritxell. Aquest conveni ha de regular les respectives competències en matèria d'educació especial i els mecanismes pels quals es duran a terme els programes d'integració en el sistema educatiu, d'acord amb el capítol vuitè d'aquesta Llei d'ordenament del sistema educatiu andorrà.
