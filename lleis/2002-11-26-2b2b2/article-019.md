@@ -1,0 +1,3 @@
+# Article 19
+La Junta General Ordinària es reuneix una vegada a l'any, durant el primer semestre de cada exercici social, i té per objecte: a) L'examen i, si és el cas, l'aprovació de la gestió social i dels comptes i el balanç de la societat, corresponents a l'exercici anterior. b) Resoldre sobre el compte de resultats i distribució dels beneficis. c) Designar i remoure comissaris o censors de comptes, fixar llur retribució, i reclamar-los els informes que, sobre matèries comptables, estimi convenients per a la bona marxa de la societat. d) Procedir
+a l'elecció o renovació dels membres del Consell d'Administració; i e) Resoldre sobre qualsevol altra qüestió d'administració ordinària que el Consell d'Administració jutgi convenient incloure a l'ordre del dia.

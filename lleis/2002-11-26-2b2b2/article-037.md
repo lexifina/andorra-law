@@ -1,0 +1,2 @@
+# Article 37
+Els actes i contractes atorgats col·legiadament pel Consell d'Administració, pel seu president en nom seu, o per la resta d'apoderats i mandataris del Consell, en ús de llurs facultats representatives derivades dels Estatuts o dels poders acordats, obliguen directament la societat. En conseqüència, les terceres persones afectades només tenen acció contra la societat i no contra els seus mandataris.

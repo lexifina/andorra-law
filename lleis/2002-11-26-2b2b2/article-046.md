@@ -1,0 +1,4 @@
+# Article 46
+Els ingressos de la societat, per tots els conceptes, deduïdes totes les despeses i amortitzacions, constitueixen els beneficis socials que es distribueixen de la manera següent:
+a) En tot cas, ha de destinar-se al fons de reserva un 10 % almenys dels beneficis socials, fins que el referit fons no representi, com a mínim, el 10 % del capital social.
+b) Quant al sobrant, el Consell d'Administració ha de presentar a la Junta General la proposta de repartiment de dividends entre els accionistes, l'assignació al gerent, als mandataris del mateix Consell o als comissaris de comptes o auditors de la societat, així com les previstes per augmentar el fons de reserva, si s'estima convenient, per a previsions d'inversió en règim d'autofinançament, i per a altres atencions que es creguin convenients.

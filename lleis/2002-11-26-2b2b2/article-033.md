@@ -1,0 +1,3 @@
+# Article 33
+El president té, en el si del Consell, les mateixes facultats i atribucions que l'article 29 li confereix en el si de les juntes generals, i és l'encarregat de fer complir els acords del Consell i de la Junta, i també de convocar les reunions del primer amb l'antelació que el mateix Consell acordi d'una manera general. I així mateix correspon al president del Consell d'Administració la representació de la societat davant del Govern, els comuns i les entitats parapúbliques.
+El secretari té, en el si del Consell, les mateixes atribucions que estatutàriament li corresponen en el si de les juntes generals.

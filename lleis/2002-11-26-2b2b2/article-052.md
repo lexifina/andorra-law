@@ -1,0 +1,2 @@
+# Article 52
+L'extinció de la societat i tota modificació d'aquests Estatuts aprovada per la Junta General Extraordinària amb els quòrums i les majories previstes en els mateixos Estatuts s'han de sotmetre necessàriament també a l'aprovació del Consell General d'acord amb el que disposa l'article 2, apartat d) de la Llei general de les finances públiques. Sense aquesta aprovació, la modificació d'Estatuts no té cap efecte.

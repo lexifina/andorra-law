@@ -1,0 +1,3 @@
+# Article 32
+Sense perjudici de les que expressament li encomani la Junta General, són atribucions del Consell d'Administració. a) La representació de la societat davant del Govern, els comuns i les entitats parapúbliques. b) La convocatòria de les juntes generals ordinàries i extraordinàries. c) Formular els balanços, inventaris, memòries, pressupostos i plans d'inversió que s'han de sotmetre a l'aprovació de la Junta General.
+Sense perjudici d'això i en el desenvolupament de les seves atribucions estatuàries, el Consell d'Administració ha de subjectar-se sempre a les instruccions i acords vàlids de la Junta General de Socis.

@@ -1,0 +1,4 @@
+# Article 22
+La convocatòria de les juntes generals, tant ordinàries com extraordinàries, es farà amb una anticipació mínima de quinze (15) dies hàbils en què s'hagi de reunir la Junta, per mitjà de lletra certificada adreçada als accionistes, al domicili que consti als registres de la societat o altre que, en cas de canvi, consti fefaentment comunicat al Consell d'Administració de la societat.
+En la lletra certificada s'ha de detallar l'ordre del dia de la reunió. No és vàlida cap deliberació sobre qüestions no compreses a l'ordre del dia anunciat, llevat que estant reunit els 100% de l'accionariat es decideixi així per unanimitat.
+En una mateixa carta certificada pot fer-se la primera i la segona convocatòria. La primera Junta General Ordinària la convoca el representant del grup d'empreses que va postular al concurs públic convocat pel Govern, en el termini de quinze dies a comptar de la constitució de la societat.
