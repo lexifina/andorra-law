@@ -1,0 +1,3 @@
+# Article 2
+Es proposa afegir un segon paràgraf a l'article 11.1 amb el següent text:
+"L'acomiadament injustificat o fet en forma indeguda d'una treballadora embarassada comportarà una indemnització no inferior a tres mesos de salari per any de servei a l'empresa. Per fixar la quantia de la indemnització caldrà tenir present el perjudici econòmic que es pugui derivar de la manca de percepció del salari i de les prestacions de la Caixa Andorrana de la Seguretat Social corresponents al descans per maternitat, així com a les eventuals despeses farmacèutico-sanitàries que, com a conseqüència d'una pèrdua de drets a la Caixa Andorrana de Seguretat Social, hagi de satisfer la treballadora."
