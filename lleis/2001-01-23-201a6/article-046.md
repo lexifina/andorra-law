@@ -1,0 +1,2 @@
+# Article 46
+Els subjectes obligats tenen l'obligació de declarar a la Unitat de Prevenció de Blanqueig, a l'efecte pertinent, qualsevol operació o projecte d'operació relatiu a diners o valors respecte dels quals hi hagi sospites d'un acte de blanqueig. L'obligació de declarar s'ha de complir, amb independència de quin sigui el país on s'hagi comès o es pugui cometre el presumpte delicte de blanqueig, o d'on procedeixin o vagin destinats els fons.
