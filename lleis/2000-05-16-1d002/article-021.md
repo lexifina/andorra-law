@@ -1,0 +1,2 @@
+# Article 21
+El Govern instaura un sistema d'avaluació, convocant almenys una prova l'any, sobre coneixements de fauna, hàbitats, utilització d'armes de foc i legislació en matèria de protecció del medi, de caça, i d'armes. Aquesta avaluació és necessària per al lliurament de qualsevol llicència de caça prevista en aquesta Llei a les persones que la sol·licitin per primera vegada i aquelles a les quals els hagi estat retirada per infracció d'aquesta Llei.
