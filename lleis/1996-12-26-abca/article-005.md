@@ -1,0 +1,6 @@
+# Article 5
+L'extradició és nul.la si s'executa fora dels casos que preveu aquesta Llei o sense respectar la prescripció de la pena o de l'acció.
+En el cas d'execució d'una pena definitiva resultant d'una sentència ferma, la demanda de nul.litat ha de ser formulada per la persona extradida davant del Tribunal de Corts en un termini de quinze dies a comptar de la seva presentació al Batlle de guàrdia. El Tribunal de Corts, en el curs d'un judici oral, oeix les parts i resol en el termini d'un mes. La decisió del Tribunal de Corts és apel.lable davant la Sala Penal del Tribunal Superior en un termini de quinze dies. El Tribunal resol després d'audiència prèvia de les parts.
+En el cas d'un extradit en període d'instrucció, la nul.litat s'ha de demanar davant el Tribunal de Corts o del Tribunal de Batlles segons el cas, com a qüestió de previ pronunciament de conformitat amb el que disposa el Codi de Procediment Penal.
+En un altre cas, aquesta nul.litat pot ser invocada segons les normes processals aplicables.
+En el cas d'anul.lació d'una extradició, l'extradit és alliberat i no pot ser detingut de nou com tampoc jutjat pels mateixos fets o per fets anteriors, llevat dels casos i de les condicions que preveu els apartats 1.b) i 2 de l'article 3.

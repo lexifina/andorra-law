@@ -1,0 +1,7 @@
+# Article 3
+1. L'extradit lliurat, ja sigui a Andorra ja sigui per Andorra, no pot ser objecte d'accions judicials, ni jutjat, ni detingut per a l'execució d'una pena o d'una mesura de seguretat, com tampoc sotmès a cap altra restricció de la seva llibertat individual, per cap fet anterior al seu lliurament, que no sigui aquell que ha motivat l'extradició, llevat dels casos següents:
+a) Quan l'Estat que l'ha lliurat ho accepta, estimant una demanda d'ampliació d'acord amb els requisits de fons i forma de l'extradició, que ha anat acompanyada de la declaració de la persona lliurada.
+b) Quan, tot i tenir l'ocasió de fer-ho, la persona extradida no ha abandonat en el termini de quaranta-cinc dies posteriors a la seva excarceració definitiva, el territori de l'Estat a què ha estat lliurada o si hi ha tornat després d'haver-lo abandonat.
+2. Malgrat aquestes disposicions, l'Estat sol.licitant pot prendre les mesures necessàries per acordar una expulsió eventual del territori, i també per aconseguir la interrupció de la prescripció, fins i tot la tramitació d'un procediment en rebel.lia.
+3. Llevat dels casos que preveu el paràgraf 1.b), no es pot perseguir ni jutjar la persona lliurada, ja sigui a Andorra ja sigui per Andorra, quan la durada de la sanció màxima legalment aplicable al fet motiu de l'extradició sigui rebaixada per sota d'un any durant el procediment.
+4. La reextradició de la mateixa persona a un altre Estat, per fets anteriors al lliurament només es pot fer sota les condicions del paràgraf 1.a) llevat dels casos que preveu el paràgraf 1.b).

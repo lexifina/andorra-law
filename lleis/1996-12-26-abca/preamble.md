@@ -1,0 +1,14 @@
+Llei
+qualificada d'Extradició
+Atès que el Consell General en la seva sessió del dia 28 de novembre de 1996 ha aprovat la següent:
+Llei qualificada d'Extradició
+Exposició de motius
+I. La inserció d'Andorra en el camp de les relacions interestatals adherint-se a convencions i tractats internacionals comporta que la regulació interna de l'Estat s'adeqüi a les necessitats internacionals de manera però que les obligacions entre Estats no afectin a la sobirania nacional.
+És evident que en el present segle les relacions internacionals excedeixen del marc social o cultural i obliguen a una recíproca ajuda en camps tan importants com el penal. La col.laboració internacional en aquest camp té com a primer fonament l'extradició per tal d'evitar que els delictes no quedin sense sanció per raons de competència territorial o personal dels tribunals del país on el delinqüent es troba.
+La necessitat i conveniència d'una regulació interna del procediment d'extradició com a supòsit previ a qualsevol tractat d'extradició que l'Estat andorrà pugui formalitzar amb altres Estats i com a norma de subsidiària aplicació per la via de la reciprocitat en cas de manca de tractats, és reconeguda per tots.
+II. L'adhesió d'Andorra al Consell d'Europa ha de comportar una progressiva i contínua adaptació de les normes de dret internacional d'aplicació a les relacions de les jurisdiccions andorranes amb les jurisdiccions d'altres Estats.
+L'establiment de regles uniformes en matèria d'extradició permet avançar en el treball d'adaptació legislativa i obre la possibilitat d'adhesió d'Andorra al Conveni europeu d'extradició, signat a París el 13 de desembre de 1957, així com als dos protocols addicionals adoptats el 1975 i el 1978.
+La present Llei ja s'ha inspirat amplament en aquells instruments internacionals. S'introdueixen així les normes de procediment fixades en el Conveni europeu d'extradició de 1957 pel que fa a la detenció provisional, la regla d'especialitat, l'expedient de tramitació de la petició d'extradició i el lliurament de la persona extraditada. D'altra banda s'inclou algun concepte com el de mesures de seguretat que ha de ser interpretat d'acord amb l'article 25 del referit Conveni europeu d'extradició.
+D'igual manera la present Llei acull expressament -
+article 14-, les disposicions de l'article 3 del Conveni europeu d'extradició, relatives a les motivacions polítiques i a les consideracions de raça, de religió, de nacionalitat o d'opcions polítiques que puguin aparèixer darrera una demanda d'extradició. Tot amb les importants matisacions, que figuren a l'article 20 de la Llei, que permeten impedir, mercès a les precisions establertes al protocol addicional del 1975, que criminals de guerra poguessin invocar una motivació política que els exclogués de l'extradició.
+Finalment, la Llei acull també l'orientació europea pel que fa a les infraccions militars i a l'exclusió de la pena de mort en cas d'extradició.

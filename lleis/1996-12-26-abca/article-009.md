@@ -1,0 +1,10 @@
+# Article 9
+En cas d'urgència, abans la transmissió eventual del dossier complet pel Govern al Ministeri Fiscal, es pot ordenar la detenció provisional de la persona reclamada, a instància de les autoritats competents de l'Estat sol.licitant.
+La demanda de detenció provisional ha de fer esment d'un dels documents que preveu l'apartat a) de l'article 7, ha d'expressar la intenció de trametre una demanda d'extradició i ha de precisar la infracció motiu de la demanda d'extradició, la data i el lloc on s'ha comès i, eventualment, la durada de la sanció dictada, com també, sempre que sigui possible, la descripció de la persona recercada.
+Les autoritats competents de l'Estat sol.licitant poden adreçar la demanda a les autoritats competents andorranes per les vies previstes al segon paràgraf de l'article 6. En tots els casos, aquesta demanda s'ha de trametre immediatament al Ministeri Fiscal.
+A petició del Ministeri Fiscal, el Batlle pot ordenar la detenció provisional després d'haver procedit d'acord amb les disposicions dels paràgrafs tercer i quart de l'article 8.
+La detenció ha d'ésser immediatament comunicada pel mateix Batlle de guàrdia al President del Tribunal de Corts i al Govern d'Andorra, que ho notificarà a l'Estat sol.licitant.
+El President del Tribunal de Corts pot decidir la fi de la detenció provisional si, en el termini de 18 dies després de la detenció, no s'ha sotmès al Govern d'Andorra la demanda d'extradició acompanyada dels documents que precisa l'article 7.
+En tots els casos, aquesta detenció no pot excedir quaranta dies a comptar de la detenció provisional fins a la recepció del dossier d'extradició pel Tribunal de Corts.
+L'alliberament no impedeix una nova detenció i una posterior extradició, si la demanda d'extradició arriba posteriorment.
+En cap cas es podrà procedir a la detenció per raó d'urgència d'una persona que ja hagi estat detinguda per la mateixa raó i se l'hagi posat en llibertat per no haver-se sol.licitat ulteriorment la seva extradició o aquesta hagi estat denegada.

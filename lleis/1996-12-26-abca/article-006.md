@@ -1,0 +1,3 @@
+# Article 6
+En cas d'urgència, prèviament a la demanda d'extradició i oït el Ministeri Fiscal, l'òrgan jurisdiccional competent pot demanar la detenció provisional de la persona recercada.
+La petició d'arrest provisional es tramet a les autoritats competents de l'Estat sol.licitat ja sigui per via diplomàtica, ja sigui directament per via postal o telegràfica, ja sigui mitjançant l'organització internacional de policia criminal (Interpol), ja sigui utilitzant qualsevol altre mitjà que deixi una prova escrita o que l'Estat sol.licitat accepti. Aquesta petició ha de comprendre les indicacions que exigeixi la llei interna de l'Estat sol.licitat i, en tot cas, les indicacions que s'estipulen al paràgraf 2 de l'article 9.
