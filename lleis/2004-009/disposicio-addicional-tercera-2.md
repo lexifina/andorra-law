@@ -1,0 +1,2 @@
+# Tercera. Integració dels llocs de treball de Direcció
+Els funcionaris de l'Administració de Justícia que, a l'entrada en vigor d'aquesta Llei ocupin llocs de treball de Direcció a l'Administració general, mantenen les condicions retributives i de lloc de treball anteriors al seu nomenament quan cessin en el lloc de treball de Direcció que ocupen a l'Administració general i retornin al seu lloc d'origen a l'Administració de Justícia, i els és aplicable el que disposa l'article 35 de la Llei de la funció pública.

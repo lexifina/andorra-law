@@ -1,0 +1,7 @@
+# Article 50
+Resolució de l'expedient
+1. La resolució que posa fi a l'expedient disciplinari l'ha de dictar l'òrgan competent en el termini de vint dies hàbils des de la recepció de l'expedient, quan es tracti de faltes lleus, i trenta dies hàbils quan es tracti de faltes greus o molt greus.
+2. La resolució ha de ser motivada. No s'hi poden incloure fets diferents dels que han servit de base per al plec de càrrecs, sense perjudici de la valoració jurídica que se'n faci.
+3. L'òrgan competent per a la resolució pot retornar l'expedient a l'instructor per a la pràctica de les diligències que consideri imprescindibles per a la resolució. En aquest cas, abans de retornar l'expedient a l'òrgan competent per a la resolució, l'instructor torna a donar vista de l'expedient al funcionari expedientat, per un període de deu dies hàbils, a fi que al·legui allò que consideri convenient.
+4. La resolució ha de determinar, quan sigui el cas, la falta que s'estima comesa, el precepte en què apareix tipificada, la identitat del responsable i la sanció que s'imposa. Ha de fer també les declaracions oportunes segons les mesures provisionals que s'hagin adoptat.
+5. La resolució esgota la via administrativa. Quan sigui sancionadora és susceptible de recurs jurisdiccional en la forma i els terminis previstos per la Llei de la jurisdicció administrativa. En la notificació a la persona interessada s'hi ha de fer constar expressament davant de qui ha d'interposar-se el recurs i el termini per fer-ho.
