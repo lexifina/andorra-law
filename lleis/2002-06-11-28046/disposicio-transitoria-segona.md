@@ -1,0 +1,4 @@
+# Disposició transitòria segona
+1. La situació del titular d'una autorització d'immigració en la modalitat de sojorn i treball prorrogable, vigent o que es pugui regularitzar seguint les disposicions de l'article 79 a la data d'entrada en vigor de la Llei, queda assimilada a la situació del titular d'una autorització de residència i treball concedida abans de l'entrada en vigor de la Llei.
+2. En qualsevol cas, es considera com a data d'inici de les noves autoritzacions d'immigració de residència i treball la data en què es concedí al titular l'autorització de sojorn i treball prorrogable inicial.
+3. L'autorització de residència i treball obtinguda queda sotmesa al règim jurídic previst per la present Llei. La durada de la nova autorització es determina considerant el període de vigència d'aquesta autorització des de la seva data d'inici.

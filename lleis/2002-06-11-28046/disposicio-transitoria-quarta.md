@@ -1,0 +1,7 @@
+# Disposició transitòria quarta
+1. El Servei d'Immigració concedeix una autorització de residència sense treball al titular d'una autorització d'immigració vigent o que es pugui regularitzar seguint els criteris establerts a l'article 79, concedida en el marc del reagrupament familiar en una de les modalitats següents: carta d'inscripció per als menors de setze anys, carta de sojorn, carta de residència.
+2. La situació del titular s'analitza d'acord amb la normativa i/o la pràctica existents en matèria de reagrupament familiar en el moment en què es va
+concedir l'autorització inicial. Cal aplicar sempre els criteris de reagrupament més favorables, siguin els de la present Llei, siguin els del règim jurídic o de la pràctica anteriors.
+3. En qualsevol cas, es considera com a data d'inici de vigència d'aquesta autorització de residència sense treball la data en què es concedí la carta de sojorn, la carta de residència inicial o en què el titular d'una autorització d'immigració en la modalitat de carta d'inscripció per als menors de setze anys fou inscrit.
+4. La durada de la nova autorització de residència sense treball es fa correspondre a la durada i al termini de vigència de l'autorització de residència, inicial o renovada abans de la data d'entrada en vigor d'aquesta Llei. Aquesta durada no es pot reduir en cap cas si es decideix renovar l'autorització.
+5. L'autorització de residència sense treball obtinguda queda sotmesa al règim jurídic previst per aquesta Llei.

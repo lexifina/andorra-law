@@ -1,0 +1,7 @@
+# Article 63
+Renovació de l'autorització de residència i treball concedida després d'una autorització de residència sense treball si el titular ha residit a Andorra fa almenys set anys
+1. En el cas de l'autorització de residència i treball concedida després d'una autorització de residència sense treball en el marc del reagrupament familiar
+amb el titular d'una autorització de residència i treball, la renovació s'obté per una durada de deu anys quan el sol·licitant ha residit de manera permanent i efectiva al Principat d'Andorra durant set anys sota el règim successiu
+d'ambdues autoritzacions.
+2. Les renovacions ulteriors de l'autorització esmentada a l'apartat anterior es concedeixen per una durada de deu anys i només poden ser denegades per
+motius d'ordre públic o si es constata la interrupció de la residència del titular al Principat d'Andorra.

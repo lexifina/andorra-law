@@ -1,0 +1,3 @@
+# Article 48
+Autorització d'immigració de substitució
+Quan una sol·licitud d'immigració inicial no es pot concedir perquè no compleix els requisits i criteris exigits per a un tipus determinat, però reuneix els requisits i compleix les condicions per ser concedida per a un altre tipus, el Servei d'Immigració pot atorgar a la persona estrangera una autorització inicial per a aquest segon tipus, si així ho accepten de forma expressa el sol·licitant, en tots els casos, i el patró, quan es tracta d'una autorització d'immigració amb treball, sense perjudici de les prioritats cronològiques establertes en l'article 35 d'aquesta mateixa Llei.

@@ -1,0 +1,7 @@
+# Disposició transitòria tercera
+1. El Servei d'Immigració concedeix una autorització de residència i treball a les persones que han sol·licitat una autorització d'immigració en la modalitat de sojorn i treball prorrogable i a les que ha concedit un document provisional de sojorn i treball prorrogable abans de la data d'entrada en vigor de la Llei, quan es compleixen a la vegada els dos requisits següents:
+a) D'una part, que el document provisional sigui encara vigent en aquesta
+mateixa data o, si està caducat, quan es comprova que el titular ha residit i ha treballat de forma permanent i efectiva al Principat des de la data de caducitat del document provisional.
+b) D'altra part, que el titular del document provisional hagi passat satisfactòriament la revisió mèdica dels immigrants i hagi presentat el certificat d'antecedents penals en els terminis preceptius.
+2. En qualsevol cas, es considera com a data d'inici de vigència de les noves autoritzacions de residència i treball la data des de la qual el titular ha residit i treballat de forma permanent i efectiva al Principat. El Servei d'Immigració determina aquesta data després de les comprovacions oportunes.
+3. L'autorització de residència i treball obtinguda queda sotmesa al règim jurídic previst per la present Llei. La durada de la nova autorització es determina considerant el període de vigència d'aquesta autorització des de la seva data d'inici.

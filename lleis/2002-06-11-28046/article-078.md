@@ -1,0 +1,8 @@
+# Article 78
+Pèrdua de drets derivada de la baixa voluntària, de l'expulsió administrativa ferma o de la condemna ferma a una pena accessòria d'expulsió pronunciada
+per un tribunal penal
+1. El titular d'una autorització d'immigració anul·lada per baixa voluntària, expulsió administrativa ferma o condemna ferma a una pena accessòria
+d'expulsió pronunciada per un tribunal penal perd tots els drets que es
+derivaven de l'autorització d'immigració que ha quedat anul·lada. Aquesta
+persona es troba en situació irregular si no abandona el Principat d'Andorra, sens perjudici de la responsabilitat penal en la qual pot incórrer si es troba en una de les situacions esmentades als apartats c) i d) de l'article precedent.
+2. En tots els supòsits previstos a l'apartat anterior, el Servei d'Immigració també ha de notificar aquesta anul·lació al patró quan concerneix una autorització d'immigració que comportava el dret a treballar.
