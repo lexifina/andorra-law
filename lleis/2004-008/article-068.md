@@ -1,0 +1,4 @@
+# Article 68
+Funcions especials i trasllat de lloc de treball
+1. Els membres del Cos de Policia poden desenvolupar, de forma parcial o permanent, altres funcions, fora de les activitats policíaques pròpies del seu lloc de treball habitual, que per les seves característiques puguin considerar-se especialitats. Reglamentàriament es definiran els tipus d'especialitats, així com els requisits per accedir-hi o mantenir-s'hi i la retribució d'aquestes funcions.
+2. Els membres del Cos de Policia podran sol·licitar el trasllat a una plaça d'un altre lloc de treball igual o amb característiques similars a aquella de què siguin titulars, sense increment de salari. Correspon al director de la Policia acceptar o refusar les sol·licituds de trasllat en funció de l'interès públic i l'interès del servei i segons els resultats de l'avaluació de l'acompliment del sol·licitant.

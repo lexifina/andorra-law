@@ -1,0 +1,15 @@
+# Article 38
+Estructura jeràrquica
+1. El Cos de Policia s'estructura jeràrquicament en les escales i graus
+següents:
+a) Escala bàsica, que comprèn el grau d'agent i equival al Grup Funcional C, nivell de classificació C1, de la taula salarial anual de l'annex 6 (Cos Especial de Policia) de la Llei de la funció pública.
+b) Escala intermèdia, que comprèn els graus de sots-oficial major i de primera i el grau de sots-oficial de segona, que equivalen al Grup Funcional B, nivells de classificació B3 i B4 respectivament, de la taula salarial anual de l'annex 6 (Cos Especial de Policia) de la Llei de la funció pública.
+c) Escala executiva, que comprèn els graus d'oficial de primera i oficial de segona, que equivalen al Grup Funcional B, nivells de classificació B1 i B2 respectivament, de la taula salarial anual de l'annex 6 (Cos Especial de Policia) de la Llei de la funció pública.
+d) Escala superior, que comprèn els graus de director adjunt i de comissari, que equivalen al Grup Funcional A, nivells de classificació A1 i A2 respectivament, de la taula salarial anual de l'annex 6 (Cos Especial de Policia) de la Llei de la funció pública.
+Les denominacions dels graus citats podran ser modificades pel ministre responsable d'interior a proposta del director de la Policia.
+La convocatòria de les places dels membres del Cos de Policia, el procés de selecció i el nomenament els efectua el ministeri responsable d'interior en les condicions establertes per la present Llei.
+2. El Cos de Policia compta amb els llocs de treball de personal administratiu, tècnics administratius i tècnics que siguin necessaris per donar cobertura i suport a la funció policial, aquests llocs són proveïts en la forma i condicions fixades per la Llei de la funció pública per promoció interna entre funcionaris en actiu del Cos de Policia, i si no n'hi ha, la promoció es fa entre els funcionaris de l'Administració general, i a manca d'uns i altres, pel procediment selectiu d'ingrés.
+El règim estatutari o contractual d'aquest personal és el regulat per la Llei de la funció pública, que els és aplicable íntegrament com a funcionaris o agents de l'Administració general.
+Per al nomenament d'aquests llocs administratius i tècnics, cal l'informe previ favorable del ministre titular d'interior. A aquest efecte, finalitzat el procés selectiu d'ingrés i abans de proposar al Govern el nomenament del candidat o
+dels candidats que hagin obtingut la millor qualificació global de les proves realitzades a què es refereix l'article 32 de la Llei de la funció pública, el Comitè Tècnic de Selecció ho ha de posar en coneixement del ministre titular d'interior trametent-li els resultats de les proves i els informes i documents necessaris de la convocatòria d'ingrés perquè s'hi pugui pronunciar.
+A més de l'observança d'una conducta d'una dignitat perfecta i del respecte al deure de discreció i de reserva respecte als afers dels quals tenen coneixença per raó de les seves funcions, aplicables a tots els funcionaris, els membres del Cos de Policia estan obligats, per raó de llur funció, al secret professional.

@@ -1,0 +1,6 @@
+# Article 106
+Resolució de l'expedient
+1. La competència per dictar la resolució correspon al director de la Policia per les faltes lleus, al ministre titular d'interior per les faltes greus i al Govern per les faltes molt greus.
+2. Finalitzat el termini concedit per a la vista, les al·legacions i l'informe del Consell de la Policia a què fa referència l'apartat 8 de l'article anterior, el termini màxim per dictar la resolució, tant si s'han efectuat al·legacions i ha estat lliurat l'informe del Consell de la Policia com si no, és de quinze dies hàbils per a les faltes lleus, de trenta dies hàbils per a les faltes greus i de quaranta-cinc dies hàbils per a les faltes molt greus.
+3. La resolució de l'òrgan competent ha de ser motivada i no s'hi poden incloure fets diferents dels que han servit de base al plec de càrrecs, sense perjudici de la valoració jurídica que se'n faci. Si la resolució és sancionadora, ha de determinar-se amb precisió la falta que s'estima comesa, el precepte i la norma en què apareix recollida la falta, el nom del membre del Cos de Policia sancionat, i la sanció que s'imposa.
+4. Contra la resolució que imposa la sanció pot interposar-se recurs en els termes previstos pel Codi de l'Administració.

@@ -1,0 +1,7 @@
+# Article 71
+Seguretat social i jubilació
+1. Els funcionaris del Cos de Policia estan acollits al règim general de la seguretat social.
+2. La jubilació obligatòria dels membres del Cos de Policia té lloc als 60 anys, amb dret a percebre el 70% dels conceptes salarials indicats en l'article 48.4 de la Llei de la funció pública i en la disposició addicional d'aquesta Llei.
+3. Els membres del Cos de Policia tenen el dret a jubilar-se voluntàriament als 55 anys, amb la condició que hagin estat com a mínim vint-i-cinc anys de servei al Cos, percebent un 60% dels conceptes indicats en l'article 48.4 de la Llei de la funció pública i en la disposició addicional de la present Llei. Per cada any que es retardi la petició de jubilació voluntària, l'import de la pensió s'incrementa en un 2%, fins arribar al percentatge del 70% dels conceptes esmentats als 60 anys.
+4. A partir de l'edat dels 65 anys, la pensió que percep el membre del Cos de Policia jubilat és en tots els casos del 70% dels conceptes salarials continguts en l'article 48.4 de la Llei de la funció pública i en la disposició addicional d'aquesta Llei, i es compon de la pensió que li pertoqui d'acord amb les normes de l'organisme encarregat de la seguretat social, a la qual s'afegeix el complement que correspongui a càrrec de l'Administració general, sense que la suma d'ambdues pensions pugui superar en cap cas el 70% dels conceptes
+salarials indicats en l'article 48.4 de la Llei de la funció pública i en la disposició addicional d'aquesta Llei.
