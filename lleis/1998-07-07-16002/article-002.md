@@ -1,0 +1,5 @@
+# Article 2n
+Per finançar aquesta subvenció s'aproven un crèdit extraordinari i una despesa plurianual per un import total de 6.213 milions de pessetes, que s'han de distribuir entre els exercicis de 1998 a 2007.
+Per a 621,3 milions de pessetes corresponents a l'exercici 1998, s'aprova un crèdit extraordinari destinat a la partida de nova creació del Ministeri d'Ordenament Territorial 77000, projecte 1996-0007 (transferències de capital a empreses privades per a subvencions a concessions administratives, per al projecte túnel d'Envalira). Aquest crèdit pressupostari es finançarà mitjançant romanent de tresoreria.
+Per a la resta de la despesa, s'aprova una despesa plurianual per la quantitat total de 5.591,7 milions de pessetes, que es repartirà en 621,3 milions de pessetes cada any entre el 1999 i el 2007, i es finançarà a càrrec dels pressupostos que correspongui amb recursos ordinaris.
+L'extensió temporal del crèdit plurianual establert en l'apartat anterior serà fins a un màxim de nou anys, i queda per a aquest cas concret derogat l'article 29.1 de la Llei general de les finances públiques de data 19 de desembre de 1996.
