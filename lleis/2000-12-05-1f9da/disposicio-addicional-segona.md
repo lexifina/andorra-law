@@ -1,0 +1,3 @@
+# Segona
+Aplicació de la present Llei a l'ordenament contractual de les entitats parapúbliques o de dret públic dependents de l'Administració general
+Les entitats parapúbliques o de dret públic, dependents de l'Administració general, han de presentar al Govern, en el termini de tres mesos a comptar de l'entrada en vigor de la present Llei, una proposta d'adaptació de la seva legislació específica a la present Llei, excepte en les qüestions en què la singularitat de cada entitat no requereixi una regulació diferent, sobretot pel que fa a les entitats de caràcter comercial, industrial, financer o anàleg.

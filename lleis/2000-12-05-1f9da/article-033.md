@@ -1,0 +1,7 @@
+# Article 33
+Obres d'iniciativa privada
+1. Les persones físiques o jurídiques, de nacionalitat andorrana o estrangera, interessades en l'execució d'obres de competència pública es poden constituir
+en associació administrativa i demanar a l'Administració la realització de les dites obres, tot comprometent-se a assumir-ne la part de cost que convinguin
+amb l'Administració.
+2. La legitimació per promoure l'associació correspon, pel cap baix, als propietaris d'immobles compresos en l'àrea d'influència de les obres. Un cop constituïda l'associació cap d'aquests propietaris no es pot excusar de pertànyer-hi.
+3. Si l'Administració accepta la proposta de repartiment entre els membres de l'associació de la despesa assumida s'efectua per conveni entre ells, si bé el pagament de les quantitats es determina de comú acord entre l'Administració i l'associació.

@@ -1,0 +1,8 @@
+# Article 29
+Recepció provisional
+1. La recepció provisional de les obres té lloc dintre el mes següent de la seva conclusió, i hi assisteixen un representant de l'Administració contractant, el director de les obres, l'adjudicatari i el representant de la Intervenció General o de l'òrgan interventor del Comú.
+2. Poden ser objecte de recepció provisional separada, per decisió de l'òrgan contractant, aquelles parts d'obra realitzades dins els terminis establerts en el contracte.
+3. Si les obres es troben en bon estat i d'acord amb les prescripcions previstes el representant de l'Administració contractant les dóna per rebudes provisionalment i s'afecten a l'ús o el servei públic corresponent, i comença a comptar el termini de garantia. Això no obstant, en tots els casos es reté, fins a la recepció definitiva, el 5% de l'import de l'obra, que pot ser substituït, a petició de l'adjudicatari, per un aval a primer requeriment establert per una entitat bancària degudament autoritzada a operar al Principat d'Andorra amb validesa indefinida.
+4. Si les obres presenten defectes o anomalies se'n reté el pagament fins que siguin adequadament esmenades per l'adjudicatari, sens perjudici de la
+retenció o l'aval esmentats en l'apartat anterior. L'òrgan contractant determina el termini necessari per a les reparacions corresponents i, en cas d'incompliment, es pot declarar la resolució del contracte d'acord amb l'article 31.
+5. El termini de garantia s'estableix en el contracte tenint en compte la naturalesa i la complexitat de l'obra i, llevat de casos excepcionals, no pot ser inferior a un any.
