@@ -1,0 +1,4 @@
+# Disposició transitòria segona
+a) Les entitats bancàries i les entitats financeres d'inversió que actualment siguin gestores o dipositàries d'algun organisme d'inversió ho hauran de comunicar al Ministeri de Finances, no més tard del 30 de juny de 1997, indicant el nom de l'organisme d'inversió i de l'entitat dipositària, i les seves característiques, han d'adjuntar els documents següents: estatuts, reglaments, documents informatius i publicitaris, estats financers anyals auditats de 1995 i 1996.
+b) Les entitats bancàries estan obligades a adaptar, no més tard del 31 de desembre de 1997, la seva estructura de gestió d'organismes d'inversió al que estableix la present Llei, especialment pel que fa a la creació o adequació de la corresponent entitat financera d'inversió.
+El Govern queda expressament facultat per resoldre les sol.licituds d'autoritzacions o adequacions d'entitats financeres de gestió d'organismes d'inversió referides en el paràgraf precedent.

@@ -1,0 +1,5 @@
+# Disposició transitòria cinquena
+a) Sens perjudici i amb relació al que disposa la precedent disposició transitòria quarta, s'autoritza la Caixa d'Estalvis i Pensions perquè pugui constituir una societat anònima de dret andorrà que tingui com a objecte social la continuïtat de l'activitat bancària que realitza a Andorra.
+b) Aquesta nova entitat no està subjecta, fins al 31 de desembre del 2011, a les limitacions previstes en l'article 3 del Reglament de societats mercantils de data 19 de maig de 1983, pel que fa a la participació estrangera en el capital social.
+c) El Govern, amb els informes tècnics previs de l'INAF, estableix els procediments necessaris per al bon desenvolupament del que preveu la present disposició.
+d) El Govern, amb caràcter previ a la constitució de la societat indicada en el punt a) precedent, convindrà amb la Caixa d'Estalvis i Pensions aquells acords que assegurin, especialment mentre sigui efectiva l'excepció formulada en l'anterior punt b), que Andorra es beneficiarà, en termes equitatius, de l'obra social que duu a terme la referida entitat.

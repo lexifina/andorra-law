@@ -1,0 +1,4 @@
+# Disposició transitòria tercera
+a) Les entitats englobades en el sistema financer, que tinguin participacions que no s'ajusten al que estableix la present Llei, ho han de comunicar al Ministeri de Finances, no més tard del 31 de desembre de 1997, indicant les seves característiques.
+b) Totes les entitats englobades en el sistema financer andorrà hauran d'adequar l'estructura de les seves participacions al que estableixen els articles 2, 3, 4 i 5 abans del 31 de desembre de 1998.
+c) Les entitats integrades en el sistema financer que vulguin mantenir més enllà del 31 de desembre de 1998 una estructura de les seves participacions que no s'ajusti amb el que estableixen els articles 2, 3, 4 i 5 hauran d'adreçar una sol.licitud motivada al Ministeri de Finances abans del 30 de juny de 1998, el qual, amb l'informe tècnic de l'INAF, resol en el termini màxim de dos mesos.
