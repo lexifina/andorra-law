@@ -1,0 +1,16 @@
+Llei
+relativa a les estacions d'esquí i les instal·lacions de transport per cable
+Atès que el Consell General en la seva sessió del dia 9 de novembre del 2000
+ha aprovat la següent:
+Llei relativa a les estacions d'esquí i les instal·lacions de transport per cable
+Exposició de motius
+L'increment de les activitats relacionades amb l'esquí alpí i nòrdic fa necessària una actualització de la normativa actual a fi d'acomodar-la a les noves situacions i necessitats. L'aprofitament del recurs natural de la neu al Principat és un pilar essencial per al desenvolupament d'activitats turístiques, econòmiques i comercials, i constitueix un instrument important per assolir els objectius prioritaris d'incrementar els nivells de renda dels seus habitants i la diversificació econòmica. Per tant, la present Llei pretén consolidar les instal·lacions esportives existents relacionades amb l'activitat de l'esquí i alhora regular la creació de noves estacions i pistes d'esquí.
+Les reglamentacions actualment aplicables al Principat en relació amb els
+esports de neu són anteriors a la Constitució i només tenen en compte
+parcialment alguns dels aspectes relacionats amb l'esquí. Es fa necessària, per tant, una actualització de la normativa vigent que reguli tots els esports relacionats amb la neu, que tingui en compte els diferents usuaris de les instal·lacions i que compagini la varietat d'activitats que s'hi poden dur a terme amb el desenvolupament de les noves tecnologies. S'ha de potenciar també la millora de les infraestructures i els equipaments per tal d'assolir una millora de la neu, tant qualitativament com quantitativament, i també per als riscos de les irregularitats atmosfèriques, a fi de fer més competitiu el turisme de neu i de muntanya.
+La normativa aplicable a les pistes d'esquí no solament ha de ser respectuosa
+amb els principis que estableix l'article 31 de la Constitució, sinó que també ha d'establir un equilibri entre la pràctica d'unes activitats esportives que milloren la qualitat de vida dels ciutadans i el respecte al medi natural, que és un dels patrimonis més preuats del poble andorrà.
+Atesa la creixent preocupació per garantir la seguretat dels usuaris de les instal·lacions i dels serveis relacionats amb els esports de neu, i fonamentalment per garantir el principi de seguretat jurídica previst en la Constitució, es fa necessari regular d'una manera clara i concisa en quins
+casos existeix la responsabilitat de l'explotador de les estacions d'esquí; en quins casos la responsabilitat és del propietari, i en quins casos la responsabilitat és del mateix usuari de les instal·lacions, i cal delimitar els possibles abusos per la manca de diligència d'aquest, que en molts casos no preveu o no s'adequa a les incidències previsibles. És a dir, es pretén que els explotadors puguin tenir en compte el risc denominat per la doctrina com a risc socialment tolerable en una situació d'utilització adequada de les instal·lacions i dels serveis.
+El desenvolupament constant del transport per cable, i l'elevat grau de perfeccionament i seguretat actuals el fa insubstituïble en terrenys accidentats per fer possible l'exercici dels esports de muntanya i per al desenvolupament
+del turisme. I per tant, es fa necessari completar la legislació específica dels transports per cable, que és actualment clarament insuficient.

@@ -1,0 +1,9 @@
+## Títol I. Estacions d'esquí
+# Article 5
+Obligacions de les persones o entitats explotadores: autoritzacions
+5.1. Tota persona física o jurídica que vulgui procedir a la creació, ampliació i/o modificació d'una estació d'esquí, ha d'obtenir prèviament i successivament les autoritzacions del propietari i del Comú corresponent per l'ocupació del terreny. Alhora haurà de sol·licitar i obtenir les escaients autoritzacions administratives de construcció abans d'iniciar els treballs. Un cop acabats els treballs, i abans d'iniciar-se l'explotació, caldrà l'autorització del Govern.
+5.2. La sol·licitud d'autorització de construcció ha d'anar acompanyada d'un projecte d'execució que ha d'incloure els plànols, la memòria d'instal·lacions i la resta d'elements que s'estableixin reglamentàriament. També ha d'incloure, en
+tot cas, una avaluació de l'impacte ambiental, en la forma que ho especifiqui la normativa vigent en la matèria.
+5.3. La sol·licitud d'autorització d'explotació s'ha de presentar una vegada obtinguda la de construcció i després d'haver efectuat aquesta construcció d'acord amb el projecte aprovat segons l'informe lliurat per la direcció facultativa dels treballs. Cal adjuntar a la sol·licitud els documents i les certificacions que s'estableixin reglamentàriament per justificar que s'han efectuat les proves i verificacions necessàries abans de la posada en servei.
+5.4. Per a l'explotació és necessària la inscripció corresponent al Registre de Comerç.
+5.5. Abans de l'obertura, la persona o entitat explotadora ha de subscriure una assegurança de responsabilitat civil que cobreixi tots els riscs que es puguin derivar directament o indirectament de l'explotació de l'estació per qualsevol concepte, en una companyia legalment autoritzada per exercir al Principat d'Andorra.
