@@ -1,0 +1,11 @@
+Llei 5/2005,
+del 21 de febrer, qualificada de modificació de l'article 1 i de l'article 11 de la Llei qualificada de finançament electoral
+Atès que el Consell General en la seva sessió del dia 21 de febrer del 2005 ha aprovat la següent:
+Llei 5/2005, del 21 de febrer, qualificada de modificació de l'article 1 i de l'article 11 de la Llei qualificada de finançament electoral
+Exposició de motius
+La Llei qualificada de finançament electoral aprovada pel Consell General en la sessió del dia 15 de desembre del 2000 concep l'establiment d'una sèrie d'instruments necessaris per a regular el finançament de la campanya electoral. En aquest sentit, la Llei estableix en el seu article 1 l'exigència d'un administrador electoral per a cada candidatura, que es responsabilitzarà tant del control dels ingressos com de les despeses així com de la comptabilitat; també preveu en el seu article 11 que l'Estat concedeix subvencions a les candidatures dels partits i coalicions en base als resultats electorals.
+En la sessió del dia 27 de desembre del 2004, el Consell General, va aprovar l'Informe de la Comissió Legislativa de Finances i Pressupost en base a l'informe emès pel Tribunal de Comptes en relació a les despeses electorals relatives a les eleccions comunals celebrades el 14 de desembre del 2003.
+La Comissió, en el seu informe deixava de manifest la necessitat de modificar la Llei qualificada de finançament electoral, per una part, clarificant la interpretació de l'article 1 i, per una altra, obrint la possibilitat que les subvencions concedides establertes en l'article 11, ho siguin de manera més ràpida.
+Així doncs, la present Llei pretén, d'una banda, aclarir el fet que la candidatura d'àmbit nacional i/o candidatures d'àmbit parroquial presentades per un mateix partit polític i/o una coalició d'àmbit nacional puguin tenir un sol administrador electoral per al conjunt de candidatures presentades amb una mateixa sigla, podent, aquestes candidatures federar llurs comptes.
+La Llei estableix també una quantia a rebre a compte de la subvenció estatal a percebre per les candidatures en base a l'estipulat en l'article 11.
+Per aquest motiu, el Consell General, aprova la següent Llei qualificada de modificació de l'article 1 i de l'article 11 de la Llei qualificada de finançament electoral.

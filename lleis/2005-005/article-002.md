@@ -1,0 +1,10 @@
+# Article segon
+L'article 11 queda modificat de la manera següent:
+"Article 11
+1. Des de la data de la convocatòria fins al cinquantè dia posterior a les eleccions, la Junta Electoral vetlla per l'acompliment de la normativa de finançament electoral. Amb aquesta finalitat, reclamarà quan ho cregui convenient de les entitats bancàries l'estat dels comptes electorals, dades d'identificació dels impositors i els extrems que estimi precisos per a l'acompliment de la funció fiscalitzadora. A més, requerirà dels administradors electorals les informacions comptables que consideri necessàries. Si de les seves investigacions resultessin indicis de conductes constitutives de delictes, ho comunicarà al Ministeri Fiscal en el termini d'un mes.
+2. La Junta Electoral informa al Tribunal de Comptes dels resultats de la seva activitat fiscalitzadora en el termini de dos mesos des de la celebració dels comicis electorals.
+3. Les candidatures, mitjançant demanda de llur administrador, tenen dret, a partir d'aquest moment, si no existeix cap indicació contrària de la Junta Electoral, a percebre el 70% de la subvenció que els correspongui en base als resultats reals obtinguts en les eleccions, deducció feta de les quantitats rebudes a compte d'acord amb l'estipulat en l'article 7.
+4. Entre els seixanta i els vuitanta dies posteriors a les eleccions, les candidatures que acomplissin els requisits exigits per a rebre subvencions estatals o que haguessin sol·licitat bestretes amb càrrec a les mateixes, presenten, davant del Tribunal de Comptes, una comptabilitat detallada i documentada dels seus respectius ingressos i despeses. En el mateix termini, les entitats financeres que haguessin concedit crèdits a les candidatures enviaran al Tribunal de Comptes notícia detallada dels mateixos. A més, també informaran al Tribunal de Comptes les empreses que haguessin facturat amb
+les candidatures per despeses electorals superiors al milió de pessetes.
+5. El Tribunal de Comptes pot, en el termini dels trenta dies següents a la data assenyalada al número anterior, reclamar les aclaracions i documents que
+estimi pertinents.".
