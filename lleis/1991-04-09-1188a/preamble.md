@@ -1,0 +1,10 @@
+Llei
+sobre l'inventari de les instal.lacions turístiques i hoteleres del Principat d'Andorra
+aprovada pel M.I. Consell General en la sessió ordinària del dia 6 de març de 1991
+Exposició de motius
+El desenvolupament del sector hoteler a les Valls d'Andorra s'ha anat produint d'una manera espontània, mercès a les iniciatives particulars, constituint en l'actualitat un dels sectors econòmics més importants i dinàmics del país.
+La professionalitat, seriositat i afany de superació dels industrials de l'hoteleria han comportat una constant millora, tant en la quantitat com en la qualitat dels serveis que ofereixen, i han servit per a consolidar la imatge de país turístic del nostre Principat.
+Avui dia però, en uns mercats cada dia més oberts i més competitius, es fa imprescindible dotar-nos de tots els mitjans i de tots els arguments, per a continuar presentant als nostres clients potencials un producte amb la màxima credibilitat, que estigui d'acord amb les seves expectatives de qualitat i servei.
+Per això, la Comissió legislativa ha considerat que és imprescindible conèixer amb precisió els efectius disponibles dins de l'àmbit dels serveis turístics, i aquest coneixement únicament es podrà tenir amb la realització d'un inventari exhaustiu d'equipaments turístics i hotelers en general. És evident però, que aquest treball seria inútil si no es disposa de la totalitat de la informació, motivació per la qual es proposa que la seva complimentació sigui obligatòria. Aquest inventari haurà de constituir un primer pas, abans de la redacció d'una normativa que reguli la classificació de tots aquests establiments, normativa que ha de permetre la seva homologació dins del context que ens envolta però que, ben entès, haurà de contemplar les peculiaritats del nostre parc, prestant una especial atenció a aquells establiments de caire familiar que tant han contribuït a la consolidació de l'economia d'Andorra i que es mereixen un lloc específic dins de la futura estructuració que les noves relacions amb la C.E.E. poden comportar.
+Amb aquesta finalitat doncs, el Ple del M.I. Consell General ha aprovat la següent
+Llei
