@@ -1,0 +1,12 @@
+Llei
+d'establiment de la taxa per raó del servei de fe pública notarial
+Atès que el Consell General en la seva sessió del dia 21 de març del 2000 ha aprovat la següent:
+Llei d'establiment de la taxa per raó del servei de fe pública notarial
+Exposició de motius
+La configuració històrica del notariat al Principat d'Andorra ha suposat una concepció bifront d'aquests professionals del dret ja que, d'una part, han tingut la qualificació de juristes experts en les diverses vessants del camp jurídic, i de l'altra, han exercit la funció d'atorgar en exclusiva la fe pública. Aquesta presumpció "ope legis" d'autenticitat, és exigida en determinats actes o documents per a la producció posterior de determinats efectes jurídics.
+Aquest segon aspecte ha adquirit cada cop més preponderància. L'increment
+del tràfic mercantil en el qual la fe pública notarial és exigida en bona part d'actes i contractes, l'augment de les transaccions immobiliàries en què el caràcter d'autenticitat és necessari, i també la creixent intervenció de l'Administració en l'activitat dels ciutadans, que exigeix en molts supòsits la intervenció de la fe pública, són un exemple que aquesta vessant funcionarial
+és gairebé la que avui caracteritza la funció notarial.
+L'exercici del servei de la fe pública notarial que ha de ser utilitzat pels administrats de forma necessària en tots aquells supòsits en què cal l'autenticitat d'un acte o document, justifica l'exigència als administrats d'una contribució al cost d'aquest servei; cost que no només comprèn l'actuació del notari que exerceix una funció pública, sinó també aquella infraestructura necessària per al bon funcionament del servei esmentat.
+El fet que aquest servei no es pot utilitzar en lliure competència amb altres professionals del dret i que la seva recepció constitueix una condició prèvia per obtenir drets o efectes jurídics determinats, fan que la figura tributària adequada sigui la de la taxa; figura que, d'acord amb la Constitució i l'article 2 de la Llei de bases de l'ordenament tributari té reserva de llei.
+La present Llei estableix la taxa per la prestació del servei de fe pública notarial, en determina les bases i els tipus aplicables, i estableix, així mateix, les obligacions dels fedataris públics respecte a la recaptació de la taxa i al seu ingrés posterior a l'erari públic. Fixa també el règim d'infraccions i de sancions corresponent.
