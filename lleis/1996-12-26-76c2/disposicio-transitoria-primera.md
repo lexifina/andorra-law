@@ -1,0 +1,2 @@
+# Disposició transitòria primera
+Excepcionalment i fins al dia 30 de maig de 1997 s'autoritzen, seguint de forma exacta l'ordre cronològic del registre d'entrada de sol.licituds ja existents i successives, un nombre màxim de 800 residències passives. Les sol.licituds ja presentades a la data d'entrada en vigor de la Llei disposen d'un termini de tres (3) mesos per adequar-se als requisits que s'hi estableixen.

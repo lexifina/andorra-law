@@ -1,0 +1,3 @@
+# Article 10
+1. En el cas que una autorització caduqui sense que la persona interessada presenti la corresponent sol.licitud de renovació en el termini de sis mesos i sense causa justificada, queda sense efecte. Tanmateix, dins el període d'un any a comptar de la data de caducitat de l'autorització, la persona titular pot regularitzar la seva situació si justifica que continua inscrita al Comú on resideix.
+2. L'autorització de residència passiva queda sense efecte si el seu titular no pot justificar la seva inscripció al Comú on resideix dins dels tres mesos següents a l'obtenció de l'autorització de residència passiva.
