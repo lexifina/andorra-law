@@ -1,0 +1,4 @@
+## Capítol 2. Les mesures provisionals per demanda de nul.litat, de separació o de divorci
+# Article 51
+1. La jurisdicció civil, a instància del cònjuge que ha formulat demanda de nul.litat, de separació o de divorci, o del que es proposi formular-la, apreciant la necessitat i la urgència del cas i tenint en compte els interessos familiars més necessitats de protecció, pot disposar les mesures provisionals amb vista a la separació dels cònjuges, a l'atribució de l'ús de l'habitatge familiar, i oït el Ministeri Fiscal, a la guarda i cura dels fills menors d'edat, a la contribució dels cònjuges a les càrregues del matrimoni, i a la conservació i l'administració dels béns del matrimoni i la fixació de la pensió per als fills.
+2. Quan aquestes mesures s'hagin adoptat abans de l'admissió de la demanda de nul.litat, de separació o de divorci, queden sense efecte si en el termini de 30 dies naturals no s'hi interposa aquella demanda.

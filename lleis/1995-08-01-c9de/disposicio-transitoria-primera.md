@@ -1,0 +1,2 @@
+# Disposició transitòria primera
+Provisionalment, mentre no s'hagi promulgat la Llei del Registre Civil, tots els actes i les decisions que siguin competència del futur registrador, exclusivament quant al matrimoni civil, són assumits per un batlle de la Secció Administrativa; en conseqüència, sempre que en la present Llei es mencionen els mots "Registre Civil" o "registrador", s'ha d'entendre per "Batllia" o "batlle".

@@ -1,0 +1,3 @@
+# Article 7
+1. L'incompliment sense causa justa de la promesa de matrimoni, feta per persona major d'edat o per menor autoritzada per qui ha de donar l'assentiment per a la celebració del matrimoni, produeix l'obligació de rescabalar l'altra part de les despeses fetes i de les contretes a causa de la promesa.
+2. L'acció prescriu en el termini d'un any, comptat des del dia de la negativa a la celebració del matrimoni, notificada fefaentment per qualsevol dels promesos, o a comptar del trentè (30è) dia posterior a la data d'haver estat fefaentment requerit un dels promesos i sempre que aquest no hagi donat resposta.
