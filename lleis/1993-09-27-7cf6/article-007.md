@@ -1,0 +1,3 @@
+# Article 7
+Qualsevol ciutadà andorrà pot promoure l'acció de la justícia mitjançant l'acció popular, reconeguda a l'article 86.4 de la Constitució, en tots els delictes i contravencions penals contra interessos generals. A l'efecte d'admetre l'acció popular el bé jurídic protegit són aquells interessos la titularitat dels quals pertany, per la seva naturalesa o per ser patrimoni comú, a tota la ciutadania.
+Els ciutadans andorrans també podran exercir l'acció popular en els delictes contra particulars, sempre que la llei no hagi reservat l'acció a la denúncia del perjudicat o quan tot i no existir aquesta reserva, el perjudicat no hagi formulat denúncia.

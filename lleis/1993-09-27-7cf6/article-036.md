@@ -1,0 +1,2 @@
+# Article 36
+A partir de les propostes pressupostàries anuals que li seran sotmeses pels respectius Presidents de la Batllia, del Tribunal de Corts i del Tribunal Superior de Justícia, el Consell Superior de la Justícia elaborarà un projecte de pressupost global de funcionament de l'Administració de Justícia i, dins dels terminis previstos per la Llei General de les Finances Públiques, el trametrà al Govern, o al Ministeri que correspongui, d'acord amb la Constitució.

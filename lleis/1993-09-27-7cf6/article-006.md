@@ -1,0 +1,2 @@
+# Article 6
+Els drets i llibertats reconeguts en els Capítols III i IV del Títol II de la Constitució vinculen immediatament tots els jutges i tribunals a títol de dret directament aplicable. El seu contingut, que no pot ésser limitat per la llei, és tutelat pels tribunals per mitjà d'un procediment urgent i preferent que se substanciarà en dues instàncies, d'acord amb el que disposi la llei escaient.

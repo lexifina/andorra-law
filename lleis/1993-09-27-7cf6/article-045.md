@@ -1,0 +1,2 @@
+# Article 45
+A l'efecte del que disposa l'article anterior els que pertorbin la vista d'un judici, causa o altre acte judicial, donant senyals ostensibles d'aprovació o desaprovació, faltant al respecte i consideració deguts als Batlles, Tribunals, Fiscals, Advocats i Secretaris Judicials, seran amonestats a l'acte pel Batlle o President i expulsats de la Sala si no obeeixen al primer advertiment, sense perjudici de la responsabilitat penal en què puguin incórrer per la comissió d'una contravenció penal.

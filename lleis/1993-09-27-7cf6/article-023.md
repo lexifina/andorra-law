@@ -1,0 +1,2 @@
+# Article 23
+El càrrec de membre del Consell Superior de la Justícia és incompatible amb qualsevol altre càrrec o funció de caràcter públic i amb l'exercici de la funció jurisdiccional o de l'advocacia. En el moment de la presa de funcions del Consell Superior de la Justícia, que s'esdevé sota la presidència del Síndic General, els seus membres presten jurament o promesa d'igual manera que ho fan els Batlles i Magistrats.

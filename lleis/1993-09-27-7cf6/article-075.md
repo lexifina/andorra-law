@@ -1,0 +1,2 @@
+# Article 75
+El Tribunal Superior serà informat pel Batlle o Magistrat que hagi decidit abstenir-se de les seves motivacions i decidirà sobre la procedència de la seva admissió. D'igual forma resoldrà sobre les recusacions quan aquestes no haguessin estat acceptades per la Batllia o el Tribunal de Corts. Si la recusació s'adrecés a un Magistrat del Tribunal Superior, serà resolta per una secció de tres membres de la qual no podrà formar part el recusat.

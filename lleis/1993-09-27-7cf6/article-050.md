@@ -1,0 +1,6 @@
+# Article 50
+Organització de la Batllia d'Andorra i atribucions del seu President
+1. El President del Tribunal de Batlles, és nomenat pel Consell Superior de la Justícia d'acord amb l'article 90.2 de la Constitució. El seu nomenament li confereix la responsabilitat de l'organització i bon funcionament de la Batllia d'Andorra. Assegura la representació de la Batllia davant les institucions.
+2. La Batllia queda estructurada en seccions civil, penal i administrativa i una secció especial d'instrucció. En iniciar-se l'any judicial el President de la Batllia estableix, d'acord amb els respectius nomenaments acordats pel Consell Superior de la Justícia, l'adscripció dels Batlles a cadascuna de les seccions civil, penal i administrativa, així com en les funcions de Jutges d'Instrucció.
+El President adopta les seves decisions en aquest àmbit, havent escoltat una ponència formada pel Batlle més antic i el més nou en el càrrec, amb la finalitat d'assegurar una durada suficient a les funcions confiades als Batlles, bo i afavorint una justa distribució de les tasques.
+3. El President del Tribunal de Batlles adopta les mesures escaients per assegurar el funcionament de la Batllia d'Andorra i la continuïtat de les seves tasques.

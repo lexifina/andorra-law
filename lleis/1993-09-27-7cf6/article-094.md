@@ -1,0 +1,3 @@
+# Article 94
+La Policia Judicial actua sota les ordres dels Batlles i Tribunals, els presta auxili en totes les seves tasques i en l'execució de les decisions de qualsevol ordre jurisdiccional. Especialment, la Policia Judicial dóna compliment a les missions que els Batlles disposin en relació a la instrucció de diligències prèvies i sumaris. D'igual manera i amb la mateixa relació de dependència, durà a terme les investigacions que ordeni el Ministeri Fiscal per a l'esbrinament dels delictes i l'obtenció de proves.
+Tot sense perjudici de les tasques generals de prevenció de l'ordre públic i la seguretat que corresponen a la Policia.

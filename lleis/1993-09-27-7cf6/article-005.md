@@ -1,0 +1,2 @@
+# Article 5
+Si en la tramitació d'un procés un tribunal té dubtes raonables i fonamentats sobre la constitucionalitat d'una llei o d'un decret legislatiu que sigui d'aplicació imprescindible per a la solució de la causa, formularà escrit davant el Tribunal Constitucional demanant el seu pronunciament sobre la validesa de la norma afectada. Presentada la qüestió de constitucionalitat, se suspendrà la tramitació del procés. El Tribunal Constitucional dictarà sentència dins el termini fixat en l'article 100.2 de la Constitució.

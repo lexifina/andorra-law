@@ -1,0 +1,2 @@
+# Article 99
+Per tal de garantir a tothom el dret a la defensa i a l'assistència lletrada que atorga la Constitució, es designarà un advocat per a la defensa i assistència d'ofici a qui així ho sol.liciti o, en el procés penal, es negui a designar-lo. La defensa d'ofici, que tindrà caràcter gratuït per aquells que acreditin la seva situació de pobresa o insolvència declarada per un Batlle, anirà a càrrec de l'Estat.
