@@ -1,0 +1,5 @@
+# Article 2
+Es modifica l'article 62 de la Llei qualificada del Tribunal Constitucional de 3 de setembre de 1993, que passa a tenir el redactat següent:
+"Article 62
+1. El dictamen del Tribunal Constitucional ha de pronunciar-se sobre l'adequació a la Constitució de les estipulacions del tractat o de l'acord que hagin estat qüestionades així com, quan s'escaigui, sobre el compliment del procediment de negociació previst a la Constitució.
+2. Si el dictamen conté algun pronunciament d'inconstitucionalitat, el tractat no pot ratificar-se ni tampoc es pot manifestar el consentiment de l'Estat en el cas dels acords. Quan la inconstitucionalitat no es produeixi per un vici de procediment, el Tribunal ha d'indicar els preceptes constitucionals que resulten afectats per si fos procedent la previsió del paràgraf segon 2, apartat 2 de l'article 101 de la Constitució".
