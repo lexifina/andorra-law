@@ -1,0 +1,2 @@
+# Article 5
+En la tramitació de sinistres causats en territori andorrà per assegurats estrangers portadors d'un "Certificat Internacional d'Assegurança", lliurat per una oficina nacional amb la qual l'Oficina Andorrana tingui signat un acord o una convenció, l'Oficina Andorrana pot actuar directament o establir convenis de delegació per a la gestió de sinistres amb companyies andorranes d'assegurança de provada capacitat en la tramitació dels sinistres d'automòbils.

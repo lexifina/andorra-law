@@ -1,0 +1,5 @@
+## Capítol quart. Garanties
+# Article 10
+1. Les companyies i les delegacions d'assegurances establertes a Andorra, en sol.licitar la seva adhesió, han d'acreditar que estan degudament autoritzades per operar en el territori del Principat en la branca d'assegurança obligatòria d'automòbil, i han de constituir i de presentar a l'Oficina Andorrana una fiança bancària irrevocable, establerta per una entitat bancària andorrana, per un import de tres-cents milions de pessetes (300.000.000 PTA).
+2. L'import de la fiança es revisa cada tres anys per l'Assemblea General. Així mateix, el Reglament intern ha de fixar el nombre de cartes verdes emeses per companyia o delegació asseguradora, a partir del qual l'Assemblea General pot acordar l'augment de l'import de la fiança.
+3. La fiança resta irrevocablement afectada a la cobertura i al pagament de les indemnitzacions dels sinistres d'automòbil esdevinguts a l'estranger, en els quals hagin resultat afectats assegurats andorrans, portadors de cartes verdes de companyies i delegacions d'assegurances que tinguin dipositada la fiança establerta en l'apartat primer d'aquest article.

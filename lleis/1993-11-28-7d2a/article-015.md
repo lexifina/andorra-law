@@ -1,0 +1,3 @@
+# Article 15
+Les companyies i delegacions han d'abonar a la caixa de l'Oficina les respectives contribucions inicial, anyal o extraordinària, dins els vuit dies hàbils comptats des de la recepció de la notificació de pagament.
+Transcorregut aquest termini, les quantitats no pagades produeixen interessos a favor de l'Oficina, al tipus interbancari aplicat als descoberts en compte corrent. Per a l'exercici de la funció recaptatòria de les contribucions assenyalades a l'apartat primer d'aquest article, l'Oficina Andorrana segueix el mateix procediment de recaptació en via executiva que l'Administració tributària de l'Estat.

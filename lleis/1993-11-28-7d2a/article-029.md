@@ -1,0 +1,3 @@
+## Capítol vuitè. Cessació d'activitats, liquidació i exclusió de les entitats membres
+# Article 29
+Les companyies i les delegacions d'assegurances membres de l'Oficina Andorrana en curs de cessació d'activitats o que hagin cessat les activitats, han de comunicar-ho a la Junta Directiva, per carta certificada, amb tres mesos d'antelació a l'acabament de l'exercici anyal i retornar, en aquest mateix acte, la totalitat de les cartes verdes en possessió de l'entitat que no hagin estat utilitzades. No obstant, això, aquestes companyies i delegacions resten subjectes a les obligacions estipulades a l'article 12 de la present Llei.

@@ -1,0 +1,4 @@
+# Article 21
+L'Assemblea General es reuneix dins els tres primers mesos de cada any natural per convocatòria de la Junta Directiva.
+La lletra de convocatòria s'adreça a la seu de les companyies i les delegacions membres, d'acord amb el domicili que consti a les dependències de l'Oficina Andorrana i indica el lloc, el dia i l'hora de l'Assemblea, així com l'ordre del dia. En la mateixa lletra pot fer-se la primera i la segona convocatòria. En primera convocatòria, perquè s'estimi vàlidament constituïda l'Assemblea General, és necessària la presència o representació de la majoria absoluta de les companyies i delegacions membres. En segona convocatòria, l'Assemblea queda vàlidament constituïda, sigui quin sigui el nombre de companyies i delegacions membres que hi assisteixin.
+La validesa dels acords exigeix, en tots els supòsits, que estiguin presos per la majoria absoluta dels vots emesos presents o representats.
