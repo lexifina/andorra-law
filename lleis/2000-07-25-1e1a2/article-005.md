@@ -1,0 +1,6 @@
+# Article 5
+Coordinació amb plans d'ordenació del territori i d'infraestructures viàries
+1. La planificació d'instal·lacions de transport de gas i d'emmagatzematge de
+les reserves estratègiques, així com els criteris generals per als emplaçaments de les instal·lacions de venda dels productes, han de tenir-se en compte en els corresponents instruments d'ordenació del territori, de planificació urbanística o de planificació d'infraestructures viàries segons correspongui, precisant les possibles instal·lacions, qualificant adequadament els terrenys i establint les reserves del sòl necessàries per a la ubicació de les noves instal·lacions i protegint les existents.
+2. En els casos que no s'hagi tingut en compte la planificació d'aquestes instal·lacions en els instruments d'ordenació o de planificació descrits en l'apartat anterior, o quan raons justificades d'urgència o d'excepcional interès per al subministrament de gasos combustibles n'aconsellin l'establiment, i
+sempre que en virtut de l'establert en altres lleis resulti preceptiu un instrument d'ordenació del territori o urbanístic segons el tipus de sòl afectat, caldrà atenir-se a allò que es disposi en la legislació sobre el règim del sòl que resulti aplicable.

@@ -1,0 +1,2 @@
+# Primera
+Aquelles empreses subministradores que realitzen efectivament altres activitats distintes de les previstes en aquesta Llei, des d'abans de la seva entrada en vigor, queden exemptes de l'obligació de tenir per objecte exclusiu la distribució i el subministrament de gas combustible previstos a l'article 9.2 de la Llei, però hauran de procedir a la total separació de negocis i portar una comptabilitat i una gestió separada del negoci de gas combustible.

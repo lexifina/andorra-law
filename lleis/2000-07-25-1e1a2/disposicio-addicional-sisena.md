@@ -1,0 +1,2 @@
+# Sisena
+La servitud de pas constituïda a favor de les xarxes bàsiques i les xarxes de distribució de gas, inclou aquelles línies i aquells equips de telecomunicació que poden circular per elles, tant si són per al servei propi de l'explotació dels gasos combustibles, com si són per al servei de telecomunicacions públiques i, sense perjudici del preu just que, si escau, pugui correspondre, si es grava aquesta servitud, i d'acord amb els criteris que s'estipularan en la llei a què fa referència l'article 3.1. de la present llei.

@@ -1,0 +1,2 @@
+# Quarta
+Tota transmissió per actes entre vius de la propietat de les empreses concessionàries de la xarxa bàsica, o dels títols que representen part del seu capital, ha de notificar-se al Govern que, dins dels dos mesos següents, pot exercir un dret de tanteig sobre la transmissió projectada. En defecte de notificació, el Govern pot exercir un dret de retracte dins de l'any següent a la data en què tingui coneixement de la transmissió.
