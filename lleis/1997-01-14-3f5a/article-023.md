@@ -1,0 +1,7 @@
+## Secció 4a. Modificació i ampliació dels crèdits pressupostaris
+# Article 23
+Modificació qualitativa: crèdits extraordinaris
+1. Quan calgui contreure obligacions que comportin despeses no incloses en el pressupost i que, atesa llur necessitat i urgència, no es puguin o no convingui ajornar fins a l'exercici següent, el Govern o el corresponent consell d'administració poden acordar la presentació d'un projecte de llei de crèdit extraordinari per a la seva aprovació pel Consell General.
+2. El projecte ha d'incloure la determinació dels ingressos concrets destinats a finançar el crèdit extraordinari, i que poden ser: major recaptació d'ingressos respecte als previstos; transferència d'altres crèdits que s'estimin reduïbles; aplicació de contribucions especials; nou endeutament; disminució de la tresoreria, o venda de béns patrimonials. El projecte s'ha d'acompanyar d'una memòria explicativa que justifiqui la necessitat i la urgència de realitzar l'obra o prestar el servei de què es tracti.
+3. No es poden aprovar crèdits extraordinaris pel fet d'haver-se contret obligacions sense dotació pressupostària llevat dels supòsits d'avenços de fons a què es refereix l'article 28.
+4. No es considera crèdit extraordinari la dotació, mitjançant transferència de crèdit de la forma regulada per l'article 26, de despeses corrents no incloses en el pressupost però previstes formalment i genèrica a nivell de concepte en l'estructura pressupostària.

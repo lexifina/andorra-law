@@ -1,0 +1,4 @@
+# Article 39
+Control financer
+1. El control financer consisteix a comprovar el funcionament econòmico-financer de les entitats parapúbliques o de dret públic de caràcter industrial, comercial, financer o anàleg, de les societats públiques participades per l'administració general i de les entitats privades que reben subvencions, préstecs, avals i d'altres ajuts a càrrec del pressupost general.
+2. El control financer és dirigit per la Intervenció General almenys una vegada a l'any, mitjançant procediments d'auditoria que substitueixen la fiscalització prèvia de les operacions corresponents i que se cenyeixen a la comprovació dels ingressos i els pagaments realitzats, la comprovació material de les existències i la verificació dels llibres de comptabilitat, balanços i comptes d'explotació i d'altres comptes i estats que són preceptius.

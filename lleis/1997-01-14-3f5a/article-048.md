@@ -1,0 +1,9 @@
+# Article 48
+Abast de la gestió comptable: comptes especials i comptes generals
+1. La gestió comptable es diversifica de la forma següent:
+a) Gestió comptable d'ingressos, referida a les fases de liquidació i cobrament, com a resultat de la qual es forma el compte d'ingressos, estructurat en dues parts, una de gestió de l'estat d'ingressos i l'altra de drets de la tresoreria.
+b) Gestió comptable de despeses, referida a les fases d'autorització, compromís, liquidació, ordenació de pagaments i pagaments efectius, com a resultat de la qual es forma el compte de despeses, estructurat en dues parts, una gestió de l'estat de despeses, i l'altra de situació de les ordres de pagament pendents.
+c) Gestió comptable de tresoreria, referida a les operacions de cobraments i de pagaments, tant pressupostàries com extrapressupostàries, com a resultat de la qual es forma el compte de tresoreria, estructurat en tres parts: cobraments i pagaments de pressupost; operacions extrapressupostàries, i saldo o existència de tresoreria.
+d) Gestió comptable del patrimoni, referida als béns del patrimoni en començar l'exercici, a les adquisicions i alienacions que es realitzin durant el seu decurs i a la situació patrimonial existent en acabar el període, com a resultat de la qual es forma el compte de patrimoni.
+e) Gestió comptable de l'endeutament, referida a la situació de l'endeutament al principi i al final de l'exercici, com a resultat de la qual es forma el compte d'endeutament.
+2. Els anteriors comptes especials s'apleguen i refonen en els comptes generals, dels quals se n'elaborarà tres cada any: el de l'Administració general; el de les entitats parapúbliques o de dret públic, tot diferenciant les de caràcter administratiu de les de caràcter comercial, industrial, financer o anàleg, i el de les societats públiques participades per l'administració general.
