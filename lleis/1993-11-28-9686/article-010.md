@@ -1,0 +1,3 @@
+# Article 10
+Com a complement independent dels ingressos dels Comuns i al marge del que es disposa a la Llei Qualificada de Transferències als Comuns, cada Comú participa en el producte de la taxa per tinença de vehicles, de recaptació governamental, en funció del nombre de vehicles que estiguin donats d'alta en el registre del Govern, en el moment de cada facturació, i amb el seu titular resident a la Parròquia corresponent.
+Les quantitats a percebre per cadascun dels Comuns no serà inferior a les obtingudes per tal concepte a l'any 1992. La Llei General Tributària establirà els factors a tenir en compte per calcular l'increment anyal d'aquesta taxa.

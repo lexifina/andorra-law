@@ -1,0 +1,2 @@
+# Article 6
+Les normes i actes dels Comuns, vàlidament aprovats i publicats, adquireixen plena executorietat mitjançant, si s'escau, la imposició de sancions, multes i recàrrecs i procedint a l'execució forçosa directa, com a manifestacions de les potestats executiva i sancionadora que els són pròpies. En tot cas, l'activitat sancionadora dels Comuns o restrictiva de drets ha d'ésser regulada per ordinacions prèvies i d'acord amb la legislació general de l'Estat.
