@@ -1,0 +1,3 @@
+# Disposició addicional
+Als efectes de la present Llei, es consideren com a pertanyents a un mateix grup econòmic totes aquelles persones físiques o jurídiques que, amb independència de la seva forma jurídica, activitat, o domicili social, constitueixen una unitat de decisió o una unitat econòmica.
+S'entén com a unitat de decisió quan alguna d'elles exerceix, de manera directa o indirecta, la direcció única de les altres o bé quan la referida direcció és exercida per una o diverses persones físiques que actuen sistemàticament de manera concertada. S'entén com a unitat econòmica quan la seva capacitat de generació de fons o viabilitat futura depèn estretament d'algun dels seus components.
