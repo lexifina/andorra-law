@@ -1,0 +1,6 @@
+Llei
+qualificada de modificació del Codi penal
+Atès que el Consell General en la seva sessió del dia 10 de juny de 1999 ha aprovat la següent:
+Llei qualificada de modificació del Codi penal
+Exposició de motius
+La nova Llei de drets d'autor i drets veïns ha derogat el Decret sobre la propietat literària i artística del 25 de juny de 1971, derogació que fa necessària la modificació de la primera part de l'article 342 del Codi penal, que conté una referència a aquest Decret. La nova Llei de patents s'ha afegit a la Llei de marques en la protecció de la propietat industrial a Andorra. Aquest nou text fa necessària una nova redacció de la segona part de l'article 342, fent una clara referència a aquestes dues lleis. El nou article 342 utilitza el terme "propietat industrial" en lloc de l'antic terme "propietat comercial o industrial". Actualment s'utilitza la definició que l'Organització Mundial de la Propietat Intel.lectual (OMPI) accepta de propietat industrial, és a dir, aquella que està formada per marques, patents, dissenys industrials, indicacions geogràfiques i secrets empresarials (comercials o industrials), de manera que desapareix la diferenciació entre propietat comercial i propietat industrial.
