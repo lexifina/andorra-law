@@ -1,0 +1,2 @@
+# Disposició transitòria primera. Aprovació i publicació de normes de creació de fitxers de naturalesa pública
+Les entitats públiques disposen d'un termini d'un any des de l'entrada en vigor d'aquesta Llei per aprovar i publicar al Butlletí Oficial del Principat d'Andorra els decrets previstos en l'article 30 que afectin fitxers de naturalesa pública existents abans de l'entrada en vigor d'aquesta Llei.

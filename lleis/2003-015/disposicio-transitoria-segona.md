@@ -1,0 +1,2 @@
+# Disposició transitòria segona. Inscripció de fitxers
+Les persones físiques i les persones jurídiques de naturalesa privada que estiguin obligades a inscriure fitxers de dades personals sota el seu control, disposen d'un termini de sis mesos per procedir a la inscripció dels fitxers de naturalesa privada existents abans de l'entrada en vigor d'aquesta Llei. El termini de sis mesos s'inicia a la data de la publicació al Butlletí Oficial del Principat d'Andorra de la normativa de desenvolupament que es preveu en la

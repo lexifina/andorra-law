@@ -1,0 +1,6 @@
+# Article 23
+Dret de rectificació
+Qualsevol persona interessada té dret a sol·licitar al responsable del tractament que les dades que són objecte de tractament siguin corregides, si són errònies. El responsable només pot denegar aquest dret de rectificació en els supòsits previstos en aquesta Llei.
+Per a l'exercici del dret de rectificació, el responsable pot sol·licitar a la persona interessada que aporti els documents necessaris per acreditar la correcció i la realitat de les noves dades, i pot rebutjar la sol·licitud si aquests documents no són aportats per la persona interessada o no acrediten la realitat de les noves dades.
+En qualsevol cas, el responsable del tractament ha de comunicar a la persona interessada la denegació de la sol·licitud, o la correcció efectiva de les dades, dintre d'un període màxim d'un mes, a comptar del moment en què rebi la sol·licitud de la persona interessada, si la sol·licitud ja va acompanyada de tots els documents necessaris per comprovar la realitat i la correcció de les noves dades, o a comptar del moment en què el responsable rebi la totalitat d'aquests documents.
+En qualsevol cas, tota denegació de la sol·licitud ha d'estar motivada i serà susceptible d'ésser recorreguda davant la jurisdicció competent.
