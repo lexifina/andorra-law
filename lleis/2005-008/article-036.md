@@ -1,0 +1,6 @@
+# Article 36
+Protecció social
+Els comuns han d'assegurar una indemnització proporcional al càrrec que cada membre del Servei de Circulació ocupi en casos d'invalidesa total o parcial, permanent o temporal, i mort esdevinguts en l'exercici de llurs funcions; a aquest efecte han de contractar les pòlisses d'assegurances oportunes, que
+també han de tenir com a finalitat garantir la retribució íntegra del salari en cas de baixa per accident laboral o per malaltia professional, amb la prohibició expressa de repercutir-ne o descomptar-ne el cost de les retribucions salarials dels membres del Servei.
+Nogensmenys, els comuns mitjançant una cotització complementària a retenir
+en la nòmina poden substituir la contractació de l'assegurança per sistemes propis de protecció amb l'obligació de cobrir la totalitat dels riscos i les situacions descrites en el paràgraf anterior.
