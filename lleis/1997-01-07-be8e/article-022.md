@@ -1,0 +1,2 @@
+# Article 22
+La decisió d'abstenció és personalment apreciada pels membres del Ministeri Fiscal. Les parts intervinents en un afer poden interessar, de forma motivada, l'abstenció d'un fiscal. Si es tracta d'un fiscal adjunt, la qüestió és resolta pel Fiscal General. Si es tracta del Fiscal General, és resolta pel Consell Superior de la Justícia. Contra la decisió no hi ha lloc a cap mena de recurs.

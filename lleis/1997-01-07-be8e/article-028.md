@@ -1,0 +1,2 @@
+# Article 28
+Les sancions que es poden imposar als membres del Ministeri Fiscal per les faltes comeses en l'exercici de les seves funcions, així com les condicions de la seva prescripció i cancel.lació, són les mateixes previstes per als batlles i magistrats en els termes de l'article 85 de la Llei qualificada de la Justícia. Ensems, són d'aplicació els subsegüents articles 86 i 87 de la mateixa Llei qualificada.
