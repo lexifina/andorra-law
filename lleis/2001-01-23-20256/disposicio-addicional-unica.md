@@ -1,0 +1,5 @@
+# Única
+Als efectes de l'aplicació d'aquest impost la data de transmissió de béns o drets es determina segons el que disposa l'article 11.2 d'aquesta Llei. Tanmateix, els contractes corresponents a transmissions de béns o drets que recaiguin sobre
+béns immobles realitzats abans de l'entrada en vigor d'aquesta Llei i que no s'hagin formalitzat en escriptura pública es poden elevar a públics en el termini d'un any a comptar des de l'entrada en vigor d'aquesta Llei sense que s'exigeixi el pagament de l'impost, quan s'acrediti al ministeri encarregat de les finances la possessió del bé immoble o dret sobre el bé immoble amb anterioritat a l'entrada en vigor d'aquesta Llei, mitjançant la presentació dels documents administratius relacionats amb el bé immoble de què es tracti, emesos a nom
+del propietari. S'ha d'establir reglamentàriament el procediment administratiu aplicable.
+Els actes i contractes que d'acord amb el paràgraf anterior s'acrediti que han estat formalitzats amb anterioritat a l'entrada en vigor d'aquesta Llei s'han de regir per la normativa i disposicions aplicables i vigents en el moment en què es van efectuar les operacions esmentades.

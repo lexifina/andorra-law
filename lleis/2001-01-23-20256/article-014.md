@@ -1,0 +1,5 @@
+# Article 14
+Comprovació de valors
+1. L'Administració pot comprovar el valor real dels béns o drets transmesos. Per tal d'obtenir aquest valor real, l'Administració ha d'utilitzar un sistema de valoració basat en una taxació pericial, suficientment motivada, dels béns objecte de la transmissió. En qualsevol cas, l'obligat tributari pot promoure la taxació pericial contradictòria prevista a la Llei de bases de l'ordenament tributari.
+2. En la transmissió efectuada mitjançant contracte privat, l'Administració notifica el resultat de la comprovació del valor directament a l'obligat tributari, en els termes que s'estableixin.
+3. En la transmissió efectuada a través d'escriptura pública, l'Administració notifica el resultat de la comprovació del valor al fedatari públic que va autoritzar l'escriptura esmentada en els termes que s'estableixin, per tal que aquest requereixi l'obligat tributari i li notifiqui el contingut de la comprovació.
