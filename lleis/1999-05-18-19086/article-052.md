@@ -1,0 +1,3 @@
+## Capítol dotzè. Recursos
+# Article 52
+Contra la resolució del batlle instructor on ordeni o denegui la incoació del procediment, ordeni l'arxiu de les diligències, desestimi la denúncia o la querella, decreti el sobreseïment, pot interposar-se recurs d'apel.lació en el termini dels cinc dies següents a la notificació davant del batlle de Menors. El recurs s'admet a un sol efecte i, després d'oïts per escrit el Ministeri Fiscal i les parts en el termini de cinc dies, el batlle resol, tant si les parts han emès informe com si no ho han fet, en un altre termini de cinc dies. Contra la resolució del batlle de Menors no s'hi pot interposar recurs.

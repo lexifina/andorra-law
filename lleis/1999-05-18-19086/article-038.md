@@ -1,0 +1,3 @@
+# Article 38
+1. Després de l'interrogatori del menor encausat, es procedeix a la declaració dels testimonis i, si escau, dels pèrits proposats en els escrits de l'acusació i de la defensa, així com dels tècnics del Ministeri d'Interior que hagin efectuat la valoració del menor durant la instrucció, i es practiquen les proves admeses d'acord amb les disposicions previstes al Codi de procediment penal.
+2. El tribunal pot disposar que el menor no sigui present durant l'interrogatori d'algun testimoni o pèrit, si de les declaracions esperades pogués derivar-se un greu perjudici psicològic per al menor.

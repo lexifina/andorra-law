@@ -1,0 +1,3 @@
+# Article 20
+1. El batlle instructor pot no incoar el procediment quan, tractant-se de menors de 16 anys i oït el Ministeri Fiscal, els fets comesos puguin trobar la seva correcció en l'àmbit educatiu i familiar, i n'ha d'informar el batlle de Menors als efectes oportuns, i els serveis tècnics del Ministeri d'Interior per tal que efectuïn el seguiment.
+2. Només són susceptibles de la correcció en l'àmbit educatiu i familiar establert en l'apartat anterior, aquells menors que hagin comès infraccions tipificades com a delictes menors o contravencions en el Codi penal. No obstant això, si el menor ha comès amb anterioritat fets a què es refereix aquest article, s'haurà d'incoar el procediment corresponent.

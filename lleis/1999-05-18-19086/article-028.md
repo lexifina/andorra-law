@@ -1,0 +1,4 @@
+# Article 28
+1. Si en el transcurs de la instrucció queda suficientment acreditat que el menor que ha comès el fet delictiu es troba en una situació d'alienació mental o qualsevol altra circumstància que constitueixi eximent total de la responsabilitat criminal prevista a l'article 19 punts 2, 3, 4, 5, i a l'article 21 del Codi penal, el batlle instructor tramet les actuacions al batlle de Menors, el qual, oït el Ministeri Fiscal, constata l'exempció.
+2. Una vegada s'hagi constatat l'exempció, el batlle de Menors adopta les eventuals mesures d'internament o altres mesures curatives i protectores pertinents, que podran ser aixecades, suspeses o modificades segons l'evolució del menor; l'exercici de les eventuals accions civils resta reservat automàticament a la jurisdicció civil ordinària.
+Contra aquesta resolució del batlle de Menors es pot formular recurs d'apel.lació, d'acord amb el que disposa l'article 53.

@@ -1,0 +1,4 @@
+# Article 3
+Quan el menor infractor sigui menor de 12 anys, una vegada s'hagi constatat la comissió del fet delictiu ha d'ésser posat a disposició dels seus representants legals, o en cas de necessitat dels serveis de l'Administració general, sota control del batlle de Menors després d'haver informat el Ministeri Fiscal.
+En tot cas, tenint en compte l'edat i la gravetat del fet, qualsevol compareixença o declaració que aquest hagi d'efectuar, s'ha de prendre en presència dels seus pares, tutors o representant legal, de l'advocat que l'assisteixi, i un psicòleg adscrit a l'Administració general.
+El menor de 12 anys és inimputable. Les accions en reclamació dels danys i perjudicis derivats d'una infracció penal comesa per un menor de 12 anys han de ser resoltes davant la jurisdicció civil ordinària.
