@@ -1,0 +1,3 @@
+# Article 44
+Insolvència provada de l'obligat tributari L'Administració ha de declarar provisionalment extingides les quotes o els deutes tributaris i d'altres quantitats a favor seu per retencions o ingressos a compte que no s'han pogut fer efectives en els respectius períodes de constrenyiment per insolvència provada dels corresponents obligats tributaris. Això no obstant, poden ser rehabilitats dintre el termini de prescripció.
+Un cop vençut el termini de prescripció sense que l'Administració hagi procedit a l'esmentada rehabilitació, la mateixa Administració declararà definitivament extingides les corresponents responsabilitats patrimonials.

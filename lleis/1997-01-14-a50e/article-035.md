@@ -1,0 +1,5 @@
+# Article 35
+Pagament: subjectes legitimats
+Estan legitimats per rebre el pagament de les quotes i els deutes tributaris, de les quantitats retingudes a títol de tribut i dels imports a compte de quotes tributàries els òrgans competents segons el tribut de que es tracti, a través de les respectives caixes principals i auxiliars. Així mateix, estan legitimades les entitats bancàries en cas de conveni de col.laboració aprovat pel Govern.
+Els pagaments efectuats a òrgans notòriament incompetents no alliberen l'obligat tributari i el responsable de la seva obligació de pagament envers l'òrgan competent, sense perjudici de la possible responsabilitat del perceptor indegut.
+Estan legitimats per realitzar el pagament de les quotes i els deutes tributaris, de les quantitats retingudes a títol de tribut i dels imports a compte de quotes tributàries els corresponents obligats tributaris, així com qualsevol persona que manifesti actuar en llur nom o representació. Mai però, el tercer pagador no pot exercir, davant l'Administració, els drets que corresponen a l'obligat tributari, sense perjudici de les accions privades de reembossament.

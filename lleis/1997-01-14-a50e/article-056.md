@@ -1,0 +1,4 @@
+# Article 56
+Procediment de liquidació en cas de determinació objectiva
+1. En cas de determinació objectiva singular de la base de tributació que ha de ser prevista expressament en la llei particular de cada tribut, la declaració tributària i la comprovació s'han de cenyir a les dades que permetin l'aplicació dels signes, els índex o els mòduls asse-nyalats específicament en dita llei particular.
+2. En cas de determinació objectiva col.lectiva de la base tributació, que també ha de ser prevista expressament en la llei particular de cada tribut, aquesta llei mateixa pot establir un mètode simplificant, substitutiu de les declaracions tributàries, que permeti aplegar les dades necessàries per mesurar globalment les bases de tributació. La notificació de les liquidacions tributàries es practica amb la notificació individual als obligats tributaris pertanyents a cada grup de l'acta de formalització del repartiment de les quotes tributàries.
