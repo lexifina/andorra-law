@@ -1,0 +1,4 @@
+## Capítol II. Resolucions
+# Article 20
+1. El raonador, en l'exercici de les seves actuacions, pot formular a les autoritats i els funcionaris de les administracions públiques advertiments, recomanacions, recordatoris dels seus deures legals i suggeriments per a l'adopció de noves mesures. En tots els casos, les autoritats i els funcionaris estan obligats a respondre per escrit en un termini no superior a un mes.
+2. Un cop formulades les recomanacions, si l'autoritat administrativa afectada no pren les mesures adequades o si no informa de les raons per les quals no s'han adoptat les dites mesures, el raonador pot posar en coneixement de la màxima autoritat de l'administració afectada els antecedents de l'afer i les recomanacions presentades. Si tampoc s'obté una justificació adequada, el raonador ha d'incloure l'assumpte en l'informe anual o extraordinari.

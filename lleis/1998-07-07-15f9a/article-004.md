@@ -1,0 +1,4 @@
+# Article 4
+1. El raonador del ciutadà no pot intervenir en assumptes en els quals s'hagi instat un procediment davant d'un òrgan jurisdiccional, ni pot anul.lar ni modificar cap acte administratiu, i s'ha de limitar a fer les recomanacions i els suggeriments que estimi oportuns.
+2. Les queixes i les reclamacions dirigides al raonador no interrompen els terminis de recurs, sigui administratiu sigui jurisdiccional, ni els seus efectes.
+3. En el cas que un cop iniciades les actuacions per part del raonador del ciutadà, l'assumpte passés a ser objecte de la instrucció d'un procediment davant d'un òrgan jurisdiccional, la persona interessada ho haurà de comunicar al més aviat possible al raonador, que aturarà immediatament les seves actuacions de conformitat amb el paràgraf primer del present article.

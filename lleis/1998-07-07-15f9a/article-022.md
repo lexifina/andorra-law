@@ -1,0 +1,6 @@
+# Article 22
+1. En l'informe anyal, el raonador del ciutadà pot destacar les persones que han desatès els seus suggeriments, ja siguin autoritats ja siguin funcionaris.
+2. L'informe ha de prestar especial atenció a aquells aspectes de l'actuació administrativa, tant particulars com generals, que no compleixin els principis d'eficàcia i transparència, i en particular respecte de l'obligada resolució de les peticions i els recursos dels ciutadans en el termini legal. Amb la mateixa finalitat, el raonador pot suggerir l'adopció de reformes legals o reglamentàries.
+3. El raonador del ciutadà pot proposar en el seu informe anyal davant del Consell General les modificacions que cregui convenients de la present Llei per facilitar el funcionament de la institució. Aquestes propostes de modificació no poden afectar els requisits de nomenament del raonador del ciutadà.
+4. En casos d'urgència i importància, el raonador del ciutadà pot presentar informes extraordinaris, que seran debatuts en la forma que decideixi el Consell General.
+5. El Consell General ha de publicar els informes del raonador al Butlletí Oficial del Consell General, sense perjudici d'altres formes de publicació que es puguin establir.
