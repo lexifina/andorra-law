@@ -1,0 +1,3 @@
+# Article 226
+El reembossament per part de les autoritats duaneres d'imports de drets a la importació o de drets a l'exportació així com dels interessos de crèdit o de demora recaptats eventualment amb motiu del seu pagament, no dóna lloc al pagament d'interès per part d'aquestes autoritats. Tanmateix, es paga un interès quan una decisió favorable a una demanda de reembossament no s'executa en un termini de tres mesos a partir de l'adopció d'aquesta decisió.
+L'import d'aquests interessos ha de ser calculat de manera que sigui equivalent al que s'exigiria al mateix efecte en el mercat financer nacional.

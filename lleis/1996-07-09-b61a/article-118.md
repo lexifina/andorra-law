@@ -1,0 +1,5 @@
+# Article 118
+1. Les autoritats duaneres determinen el termini en el qual els productes compensadors s'han d'exportar, reexportar o han de rebre una altra destinació duanera. Aquest termini es determina tenint en compte la durada necessària per a la realització de les operacions de perfeccionament i per a la sortida dels productes compensadors.
+2. El termini es compta a partir de la data en què les mercaderies es posen sota el règim del perfeccionament actiu. Les autoritats duaneres el poden allargar a demanda, degudament justificada, del titular de l'autorització.
+Per raons de simplificació, es pot decidir que els terminis que comencen en el decurs d'un mes civil o d'un trimestre expirin l'últim dia, segons el cas, d'un mes civil o d'un trimestre ulterior.
+3. En cas d'aplicació de l'article 115 paràgraf 1 punt b), les autoritats duaneres fixen el termini durant el qual les mercaderies han de ser declarades per al règim duaner escollit. Aquest termini es compta a partir de la data de l'acceptació de la declaració d'exportació dels productes compensadors obtinguts a partir de les mercaderies equivalents corresponents.

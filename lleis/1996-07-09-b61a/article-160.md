@@ -1,0 +1,4 @@
+# Article 160
+Les zones franques i els dipòsits francs són parts del territori duaner del Principat d'Andorra o locals situats al territori duaner del Principat d'Andorra separats de la resta d'aquest en els quals:
+a) les mercaderies estan considerades, amb vista a l'aplicació dels drets a la importació i de les mesures de política comercial de la Unió Europea a la importació, com si no fossin al territori duaner del Principat d'Andorra, en la mesura que no es posin ni en lliure pràctica ni en un altre règim duaner, ni que siguin utilitzades o consumides en condicions diferents de les que preveu la reglamentació duanera;
+b) les mercaderies per a les quals existeix una reglamentació específica que ho preveu, es beneficien, pel fet de la seva posada en zona franca o en dipòsit franc, de mesures relatives, en principi, a l'exportació de les mercaderies.

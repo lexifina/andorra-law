@@ -1,0 +1,3 @@
+# Article 37
+1. Quan, per un cas fortuït o de força major, l'obligació esmentada a l'article 36, paràgraf 1 no pot ser complerta, la persona que en té l'obligació o qualsevol altra persona que actuï en nom propi, ha d'informar sense demora les autoritats duaneres d'aquesta situació. Quan aquest cas fortuït o de força major no ha comportat la pèrdua total de les mercaderies, s'ha d'informar les autoritats duaneres del lloc precís on es troben aquestes mercaderies.
+2. Les autoritats duaneres determinen les mesures que s'han d'observar per permetre la vigilància duanera de les mercaderies tractades al paràgraf 1 i garantir, si s'escau, el seu trasllat ulterior a un despatx de duana o a qualsevol altre lloc designat o autoritzat per aquestes autoritats.

@@ -1,0 +1,3 @@
+# Article 149
+1. Quan l'operació de perfeccionament té per objecte la reparació de les mercaderies d'exportació temporal, la seva posada en lliure pràctica es realitza en exoneració total dels drets a la importació si s'ha establert, a satisfacció de les autoritats duaneres, que la reparació s'ha fet gratuïtament, sigui per raó d'una obligació contractual o legal de garantia, sigui com a conseqüència de l'existència d'un defecte de fabricació.
+2. El paràgraf 1 no s'aplica quan s'ha tingut en compte l'estat defectuós en el moment de la primera posada en lliure pràctica de les mercaderies en qüestió.

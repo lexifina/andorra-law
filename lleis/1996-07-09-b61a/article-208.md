@@ -1,0 +1,9 @@
+## Secció 2. Termini i modalitats de pagament de l'import dels drets
+# Article 208
+1. Tot import de drets objecte de la comunicació esmentada a l'article 207 ha de ser fet efectiu pel deutor en els terminis següents:
+a) si aquesta persona no es beneficia de cap de les modalitats de pagament previstes als articles 210 a 215, el pagament s'ha de realitzar en el termini que se li concedeix.
+Sense perjudici de l'article 229 segon apartat, aquest termini no pot excedir deu dies a partir de la comunicació al deutor de l'import dels drets deguts i, en cas de globalització de les comptabilitzacions en les condicions previstes a l'article 205, paràgraf 1, s'ha de determinar de manera que no permeti al deutor obtenir un termini de pagament més llarg que si s'hagués beneficiat d'una pròrroga de pagament.
+S'acorda d'ofici una prolongació del termini quan s'estableix que l'interessat ha rebut la comunicació massa tard per poder respectar el termini concedit per realitzar el pagament.
+A més, les autoritats duaneres poden acordar, a demanda del deutor, una prolongació del termini, quan l'import dels drets a pagar resulta d'un acte de recaptació a posteriori. Sense perjudici de l'article 215, punt a) la prolongació de termini acordada no pot excedir el temps necessari per permetre al deutor que prengui les mesures necessàries per pagar el seu deute;
+b) si aquesta persona es beneficia d'una de les modalitats de pagament previstes als articles 210 a 215, el pagament s'ha de realitzar, com a més tard, quan expirin el o els terminis determinats en el marc d'aquestes modalitats.
+2. Quan s'introdueix una demanda de reducció dels drets de conformitat amb l'article 223 o 224 o quan una mercaderia és embargada amb vista a una confiscació ulterior de conformitat amb l'article 219, punt b), punt c), segon guió o punt d), es prorroga l'obligació del deutor de pagar els drets.

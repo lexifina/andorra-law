@@ -1,0 +1,3 @@
+# Article 129
+a) El règim de la transformació sota control duaner permet de tractar al territori duaner del Principat d'Andorra mercaderies per fer-hi operacions que en modificarien el tipus o l'estat sense ser sotmeses als drets a la importació ni a les mesures de política comercial de la Unió Europea i de posar en lliure pràctica, amb els drets a la importació que els són propis, els productes resultat d'aquestes operacions. Aquests productes s'anomenen productes transformats.
+b) Les disposicions d'aplicació del present Codi determinen la llista dels casos en què es pot aplicar el règim de transformació sota control duaner.

@@ -1,0 +1,4 @@
+# Article 67
+1. El transport de les mercaderies a l'indret on s'ha de fer l'examen i, si s'escau, la sostracció de mostres, i totes les manipulacions necessàries per permetre aquest examen o aquesta sostracció, els realitza el declarant o sota la seva responsabilitat. Les despeses que en resultin van a càrrec del declarant.
+2. El declarant té el dret d'assistir al control de les mercaderies com també, si s'escau, a la sostracció de mostres. Si ho creuen útil, les autoritats duaneres exigeixen que el declarant assisteixi a aquest examen o a aquesta sostracció o que hi sigui representat per tal de donar-los l'assistència necessària per facilitar-ne l'examen o la sostracció de mostres.
+3. A partir del moment que es realitza segons les disposicions vigents, la sostracció de mostres per part de les autoritats duaneres no dóna lloc a cap indemnització de l'Administració, però les despeses d'anàlisi o de control van a càrrec d'aquesta última.

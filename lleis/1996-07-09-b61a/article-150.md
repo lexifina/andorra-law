@@ -1,0 +1,3 @@
+# Article 150
+Quan l'operació de perfeccionament té per objecte la reparació de les mercaderies d'exportació temporal, i aquesta reparació es fa a títol onerós, l'exoneració parcial dels drets a la importació prevista a l'article 141 consisteix a determinar l'import dels drets aplicables prenent com a base els elements de taxació relatius als productes compensadors a la data d'acceptació de la declaració de posada en lliure pràctica d'aquests productes, considerant com a valor a la duana un import igual a les despeses de reparació, amb la condició que aquestes despeses constitueixin l'única prestació del titular de l'autorització i no estiguin influïdes per vincles entre ell i l'operador.
+IV. Perfeccionament passiu amb recurs al sistema dels intercanvis estàndards

@@ -1,0 +1,2 @@
+# Article 178
+Els articles 176 i 177 s'apliquen mutatis mutandis als productes compensadors inicialment exportats o reexportats després d'un règim de perfeccionament actiu. L'import dels drets a la importació deguts legalment es determina segons les regles aplicables en el marc del règim de perfeccionament actiu; es considera data de posada en lliure pràctica la data de reexportació dels productes compensadors.
