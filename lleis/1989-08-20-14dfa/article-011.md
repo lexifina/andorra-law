@@ -1,0 +1,2 @@
+# Article 11
+Els fills extramatrimonials que concorrin a la successió de llurs pare o mare amb altres fills legítims haguts d'un matrimoni existent en el moment de la concepció d'aquells, rebran una part llegitimària igual a la meitat de la que correspongui a cada un dels fills legítims. Aquesta norma s'aplicarà igualment per a determinar la llegítima que els correspongui en la successió d'altres ascendents.
