@@ -1,0 +1,4 @@
+# Disposició transitòria segona
+2. A partir de l'entrada en vigor de la present Llei, i fins a la data de suspensió de llicències comunals prevista en els articles 90, si es decreta, i 91 de la Llei general d'ordenació del territori i urbanisme, del 29 de desembre del 2000,
+queda suspès provisionalment i cautelarment l'atorgament de llicències de parcel·lació i reparcel·lació de terrenys, de noves urbanitzacions, d'edificació d'obres de nova planta i d'ampliació d'edificis existents, promoguts per la iniciativa privada. Únicament queden excloses de la suspensió les llicències relatives a projectes d'edificació d'obres de nova planta o d'ampliació d'edificis existents que hagin estat presentades al comú amb anterioritat a la data
+d'entrada en vigor d'aquesta Llei o d'una altra suspensió acordada amb anterioritat, si era el cas.
