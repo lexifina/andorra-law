@@ -1,0 +1,11 @@
+Llei
+de creació de l'Escola de Formació de Professions Esportives i de muntanya
+Atès que el Consell General en la seva sessió del dia 14 de desembre de 1995 ha aprovat la següent:
+Llei de creació de l'Escola de Formació de Professions Esportives i de muntanya
+Exposició de motius
+L'augment de les modalitats esportives practicables al nostre país ha potenciat la creació de clubs, associacions i federacions per a la pràctica dels nombrosos esports i, ensems, l'afluència de turistes que sol.liciten la iniciació i la pràctica d'alguns d'aquests esports.
+Aquesta afluència turística gradual que durant molt de temps s'ha pogut observar, especialment pel que fa a la pràctica de l'esquí alpí, s'ha multiplicat i diversificat en els darrers anys amb la pràctica de molts altres esports (muntanyisme, esquí de fons, escalada, bicicleta tot terreny, etc.).
+La pràctica de qualsevol disciplina esportiva aconsella, per a la seguretat i la integritat dels practicants, que les persones que es dediquin ocasionalment o de forma continuada a l'ensenyament de la disciplina, ja sigui en el marc d'una federació, d'un club o bé d'una associació o amb caràcter més professional, tinguin els coneixements tècnics i pedagògics suficients.
+D'altra banda, el potencial turístic que comporta la pràctica d'aquestes disciplines aconsella igualment que l'ensenyament es faci amb seriositat i bon nivell.
+La present Llei pretén crear un marc, per a la formació de les persones que es vulguin dedicar a l'ensenyament de les disciplines esportives, que permeti que els que s'hi dediquen, puguin impartir el seu ensenyament amb les corresponents tècniques pedagògiques i els coneixements mínims indispensables de seguretat.
+Els sistema emprat en la creació d'una escola de professions esportives dependent del Govern pretén assentar la base del que en el futur pot arribar a ser una gran escola de professionals de disciplines esportives on, a més del Govern, hi puguin participar totes les entitats afectades per la pràctica dels esports de muntanya. La prudència, però, ha aconsellat que en la seva primera fase l'Escola de Formació de Professions Esportives i de muntanya sigui flexible i realitzi la seva tasca formadora en el moment en què les necessitats del país ho aconsellin per a cada disciplina i de la manera menys onerosa possible per a les arques de l'Estat.
