@@ -1,0 +1,8 @@
+Llei
+de la reforma del Codi Penal
+Atès que el Consell General en la seva sessió del dia 11 de maig de 1995 ha aprovat la següent:
+Llei de la reforma del Codi Penal
+Exposició de motius
+La redacció d'un Codi Penal constitueix un treball extraordinàriament laboriós i complex, i la seva aprovació significa un fet cabdal en l'ordenació jurídica d'un país. El Principat d'Andorra va emprendre aquest treball que es va desenvolupar al llarg de diversos anys i va culminar amb la seva publicació el dia 13 de juliol de 1990.
+El contingut d'un Codi Penal pressuposa una voluntat d'estabilitat, i de permanència. Tanmateix, en virtut d'una voluntat d'adaptació al nou entorn social, aquestes qualitats fan que s'hi hagin d'introduir aquelles modificacions exigides per noves circumstàncies o per una visió del tractament d'una determinada matèria, sense perjudici d'una reforma global del text per a adaptar-lo a la nova situació institucional.
+En el referit text de l'any 1990, com a manifestació d'una sensibilitat activa davant aquesta problemàtica dels temps actuals, ja s'hi va incorporar la tipificació dels delictes de blanqueig de diners. Ara, els legisladors han volgut donar una nova dimensió a la lluita contra el narcotràfic i el crim promulgant una llei específica de protecció del secret bancari i de prevenció del blanqueig de diners o valors productes del crim que conté noves obligacions, i noves formulacions, dirigides a assegurar que els circuits financers andorrans no puguin ser utilitzats per a fins dolosos, el que fa necessari unes modificacions dels articles 145, 146 i 226 del Codi Penal, que es precisen a continuació:
