@@ -1,0 +1,2 @@
+# Article 38
+Els crèdits d'estudis han d'èsser abonats durant el curs escolar pel qual han estat atorgats, contra la presentació, per part del beneficiari, de la corresponent acreditació d'haver-se matriculat per al curs corresponent en el centre indicat en la demanda i després de la signatura del corresponent contracte. Sense aquests requisits el Govern no procedirà a l'abonament d'aquella quantitat.

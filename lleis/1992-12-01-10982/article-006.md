@@ -1,0 +1,2 @@
+# Article 6
+Les modalitats d'estudis susceptibles d'atribució de beques i crèdits d'estudi han d'ésser objecte de la corresponent convocatòria, que efectuarà cada any el Govern abans del 15 de juliol i publicarà el Butlletí Oficial del Principat d'Andorra. En aquesta convocatòria, hi han de constar els requisits per a l'obtenció de la beca o crèdit d'estudis, segons el que estableix la present Llei, així com el termini màxim de presentació de demandes.

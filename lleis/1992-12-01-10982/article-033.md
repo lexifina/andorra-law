@@ -1,0 +1,2 @@
+# Article 33
+Una vegada examinades totes les sol.licituds, la Conselleria d'Educació, Cultura i Joventut procedirà, per modalitats, a proposar al Govern la decisió d'acceptació o de denegació de la beca o del crèdit d'estudis sol.licitat. La proposta ha d'ésser justificada i, en el primer cas, incloure l'import que se li assigna. El Govern prendrà l'acord que correspongui de conformitat amb el termini establert a l'article 7.

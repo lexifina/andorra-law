@@ -1,0 +1,3 @@
+# Article 18
+És requisit indispensable perquè el beneficiari pugui disposar de l'import de la beca d'estudis que, una volta hagi obtingut la notificació de la concessió, lliuri una carta en la qual manifesti l'acceptació de la beca i es comprometi formalment a complir les obligacions que se'n derivin.
+En cas que per qualsevol raó abandonés els estudis durant l'any en curs, haurà de retornar al Govern la quantitat percebuda. Sols en el supòsit d'incapacitat permanent o transitòria de continuar els estudis, justificada documentalment, el beneficiari quedarà dispensat de retornar l'ajut atribuït pel Govern.

@@ -1,0 +1,2 @@
+# Article 31
+A partir de la data límit de presentació de les sol.licituds, la Conselleria d'Educació, Cultura i Joventut procedirà a l'examen de cadascuna de les demandes formulades, i amb aquest efecte fixarà els serveis i els mitjans que cregui adients. Tot i així, el Govern pot acordar, a proposta de la Conselleria, la creació de Comissions de selecció. En aquest cas, la composició de les Comissions s'ha de fer pública.

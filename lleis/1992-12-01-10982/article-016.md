@@ -1,0 +1,2 @@
+# Article 16
+El Govern podrà establir uns programes específics de beques d'estudis per a l'esport quan les circumstàncies especials de l'estudiant així ho aconsellin. Aquests programes hauran de consistir, sia en l'establiment de programes especials per fer compatibles els estudis i la pràctica d'un esport, sia en una assignació, d'acord amb les possibilitats familiars, que permeti a l'estudiant el seu desplaçament a l'estranger per compaginar els estudis i la pràctica de l'esport.
