@@ -1,0 +1,7 @@
+# Article 44
+Abusos comesos amb relació a mitjans tècnics
+1) Es consideren abusos comesos amb relació a mitjans tècnics els actes següents:
+a) la fabricació, la importació, la distribució o un altre oferiment al públic de qualsevol servei o instrument o component d'aquest, el propòsit o efecte previsible del qual és evitar, eliminar o facilitar el fet d'evitar o el fet d'eliminar de qualsevol instrument o mitjà destinat a impedir o inhibir l'exercici no autoritzat de qualsevol dels drets establerts en aquesta Llei;
+b) la fabricació, la importació per a la distribució al públic per mitjà de venda o lloguer, i aquesta distribució, de tot instrument o mitjà que sigui susceptible de permetre o facilitar la recepció d'un programa codificat, que és difós o comunicat d'una altra manera al públic, per part d'aquells que no estan autoritzats a rebre el programa;
+c) l'eliminació o l'alteració de qualsevol informació electrònica sobre la gestió de drets sense l'autorització corresponent, com també la distribució, la importació per a la distribució, la radiodifusió, la comunicació o la posada a disposició del públic, sense autorització, d'obres, interpretacions o execucions, còpies d'interpretacions o execucions fixades o fonogrames, sabent que la informació electrònica sobre la gestió de drets ha estat eliminada o alterada sense autorització.
+2) En l'aplicació de les disposicions d'aquesta Llei, qualsevol instrument i mitjà il.lícit esmentat a l'apartat 1) d'aquest article ha de ser assimilat a còpies infractores d'obres i objectes de drets veïns.

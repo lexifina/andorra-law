@@ -1,0 +1,10 @@
+# Article 30
+Actes que requereixen l'autorització d'organitzacions de radiodifusió i d'organitzacions que comuniquen els seus propis programes per mitjà de fil
+1) Subjecte a les disposicions de l'article 32, una organització de radiodifusió, o una organització que comuniqui el seu propi programa al públic per mitjà de fil, té el dret exclusiu a autoritzar qualsevol dels actes següents:
+a) la reemissió de la seva emissió, o la radiodifusió o la reemissió del seu programa comunicat per mitjà de fil;
+b) la retransmissió per cable de la seva emissió, o el seu programa comunicat per mitjà de fil;
+c) la fixació de la seva emissió, o el seu programa comunicat per mitjà de fil;
+d) la reproducció d'una fixació de la seva emissió, o el seu programa comunicat per mitjà de fil;
+e) la distribució al públic de la seva emissió, o el seu programa comunicat per mitjà de fil, mitjançant venda, lloguer, préstec o qualsevol altra forma de transferir la propietat o la possessió.
+2) El dret de distribució previst a l'apartat 1) e) d'aquest article, excepte per al lloguer de la fixació i de les còpies d'aquesta, deixa d'existir amb relació a una fixació d'una emissió, o a un programa comunicat per mitjà de fil, i qualsevol còpia d'aquest que hagi estat venuda o la seva propietat ha estat transferida d'alguna altra forma per l'organització de radiodifusió o l'organització que comunica el seu programa per mitjà de fil, o el seu drethavent, o amb l'autorització d'aquesta organització o el seu drethavent, a qualsevol país. El dret exclusiu de l'organització de radiodifusió, o l'organització que comunica els seus propis programes per mitjà de fil, d'autoritzar el lloguer de la seva emissió, o el seu programa, i de còpies d'aquest, continua existint després de la venda de la fixació o d'una còpia d'aquesta.
+3) Els drets esmentats en aquest article estan protegits des del moment en què té lloc la primera radiodifusió, o comunicació per mitjà de fil, fins al final del cinquantè any natural següent a l'any en què el primer esdeveniment d'aquests ha tingut lloc.

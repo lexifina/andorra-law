@@ -1,0 +1,6 @@
+# Article 29
+Remuneració equitativa per a l'ús de fonogrames
+1) Si un fonograma publicat per a fins comercials, o una còpia d'aquest fonograma, és usat per a la radiodifusió, la reemissió, la retransmissió per cable o per tota altra comunicació pública, o és interpretat o executat públicament, la persona física o jurídica que realitzi aquest acte ha de pagar al productor una sola remuneració equitativa per a l'artista o els artistes intèrprets o executants i per al productor del fonograma.
+2) Llevat que s'acordi d'una altra manera entre els artistes intèrprets o executants i el productor, la meitat de la quantitat rebuda pel productor d'acord amb l'apartat 1 d'aquest article ha de ser pagada pel productor a l'artista o els artistes intèrprets o executants.
+3) El dret a una remuneració equitativa establert en aquest article subsisteix durant el mateix període que els drets establerts als articles 26 i 28, respectivament.
+4) A l'efecte d'aquest article, els fonogrames posats a disposició del públic per mitjà de fil o sense fil, de tal manera que els membres del públic hi poden tenir accés des del lloc i en el temps que ells individualment escullen, s'han de considerar com si s'haguessin publicat per a fins comercials.
