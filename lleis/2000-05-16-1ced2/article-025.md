@@ -1,0 +1,2 @@
+# Article 25
+Dins el termini de deu dies següents a la presa de possessió del seu càrrec, cada membre del Tribunal de Comptes ha de presentar una declaració a la Sindicatura en la qual ha de fer constar que no es troba en cap de les causes d'incompatibilitat o d'incapacitat assenyalades per la Llei. Si en el decurs del seu mandat es troba en qualsevulla d'aquestes causes ho ha de comunicar d'immediat al Ple del Tribunal de Comptes i a Sindicatura. En aquest cas, el Consell General procedirà a la seva substitució.

@@ -1,0 +1,4 @@
+# Article 29
+1. El personal al servei del Tribunal de Comptes ha d'estar en possessió de la titulació adequada i està subjecte al règim estatutari de la funció pública.
+2. El personal al servei del Tribunal de Comptes té l'obligació de guardar en secret les qüestions, les matèries i els assumptes tractats i els acords adoptats, i en general, tota aquella informació que conegui en el desenvolupament de les seves funcions, mentre no s'hagin fet públics la memòria o l'informe corresponent o es resolgui definitivament la qüestió plantejada. Els temes de les deliberacions i el sentit del vot dels membres del Tribunal de Comptes són sempre reservats.
+3. El Tribunal de Comptes pot utilitzar els serveis de gabinets d'auditoria privats per ser assistit en el desenvolupament de les seves activitats.

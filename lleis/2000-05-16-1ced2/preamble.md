@@ -1,0 +1,13 @@
+Llei
+del Tribunal de Comptes
+Atès que el Consell General en la seva sessió del dia 13 d'abril del 2000 ha aprovat la següent:
+llei del Tribunal de Comptes
+Exposició de motius
+La Constitució del Principat d'Andorra proclama com a principis inspiradors de l'acció de l'Estat el respecte i la promoció de la llibertat, la igualtat, la justícia, la tolerància, la defensa dels drets humans i la dignitat de la persona. La norma fonamental incorpora així una visió moderna dels poders públics com a garants
+de les condicions d'igualtat en les que els ciutadans poden exercir la seva llibertat. En una societat avançada, el pes creixent de l'Administració pública i l'evolució constant de les relacions econòmiques i financeres reclamen uns comptes públics clars i equilibrats. D'altra banda, el control democràtic dels poders públics ha de permetre als ciutadans, cada cop més sensibilitzats, jutjar les opcions polítiques també en funció dels resultats de la seva gestió, la qual cosa exigeix la creació d'instruments i de mecanismes adequats de control dels moviments dels fons públics i de la gestió dels cabals públics.
+D'acord amb el règim polític de Coprincipat parlamentari que s'ha dotat
+Andorra, la Constitució atribueix al Consell General, representant del poble andorrà, la potestat d'impulsar i controlar l'acció política del Govern. D'altra banda, la Llei general de les finances públiques de 19 de desembre de 1996,
+en la seva exposició de motius, aconsella la creació d'un Tribunal de Comptes per tal que d'una manera independent i tècnica supervisi el compliment de l'ordenament jurídic en matèria econòmica i, en especial, les obligacions dimanants de la mateixa Llei.
+La creació de l'instrument de fiscalització que es proposa en aquesta Llei, es denomina Tribunal de Comptes.
+El Tribunal de Comptes, vinculat orgànicament al Consell General, és un òrgan tècnic independent, que fiscalitza la despesa pública i que, a més de verificar la transparència de la gestió econòmica, financera i comptable de l'Administració pública, controla que aquesta s'adigui a tota la normativa legal vigent; també emet informes i dictàmens sobre la comptabilitat i la gestió econòmicofinancera de l'Administració pública andorrana.
+Cal destacar la plena independència de l'òrgan dins del seu sotmetiment a l'ordenament jurídic. L'àmbit de les seves competències s'estén a l'Administració general, els comuns, les entitats parapúbliques o de dret públic, les societats públiques i qualsevol òrgan o entitat que conformi l'Administració pública andorrana d'acord amb l'article 13 del Codi de l'Administració, així com a tots aquells organismes, entitats, persones físiques i jurídiques que en rebin subvencions, crèdits, ajudes i avals.
