@@ -1,0 +1,2 @@
+# Article 8
+Per excepció a allò que disposa l'article anterior, la declaració d'utilitat pública s'entén implícita quan l'expropiació sigui necessària per a l'execució d'un pla d'obres o de serveis que hagi estat aprovat pel Consell General. Si el pla d'obres o de serveis ha estat sotmès a tràmit d'informació pública, i el Consell General ha conegut ja de les observacions formulades pels interessats, s'entén també implícita la declaració de necessitat d'ocupació o adquisició. En tal cas es pot iniciar directament la fase d'execució, en la forma prevista a l'article 19.

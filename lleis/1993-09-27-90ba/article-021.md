@@ -1,0 +1,6 @@
+# Article 21
+Conclòs aquest tràmit, el jutge adopta les mesures d'execució següents:
+1. Convoca l'expropiant, el propietari o propietaris dels béns expropiables i els restants interessats que hagin comparegut durant el període anterior, per intentar de fer-los posar d'acord, expedient per expedient, com a acte conciliatori i previ a qualsevol altra activitat, sobre l'import de la indemnització. En tot cas, adverteix als interessats que no admetrà cap controvèrsia entre ells sobre el repartiment de la indemnització que es fixi o sobre la validesa o la nul.litat dels títols que emparin els respectius drets, i que els queden reservades totes les accions que els assisteixin davant la jurisdicció ordinària.
+2. Respecte de cada peça o expedient en què hi hagi acord sobre la quantia de la indemnització a pagar per l'expropiant, el jutge dicta, immediatament, resolució declarant ferma l'estimació i la conclusió de l'expedient, tot acordant-ne l'execució en els termes de l'article 26 i següents.
+3. Respecte de les peces o expedients en els quals no s'assoleixi acord en l'acte previ conciliatori, el jutge dicta, immediatament, resolució ordenant que es procedeixi a determinar la indemnització per via d'autoritat.
+4. Contra les decisions previstes en aquest article no hi ha cap mena de recurs.

@@ -1,0 +1,2 @@
+# Article 28
+Quan l'expropiació té per objecte la constitució de servituds o limitacions, perpètues o temporals, del domini o gaudiment de l'expropiat sobre la finca de què es tracti, el lliurament de la possessió consisteix en la tradició figurada de la quasi-possessió dels drets expropiats, amb el compliment, en els seus propis termes, dels restants tràmits i intimacions de l'article anterior, en la mesura que ho exigeixi l'exercici dels drets de l'expropiant.

@@ -1,0 +1,2 @@
+# Article 13
+Transcorregut el termini d'informació pública, el Govern ha de trametre al Consell General totes les peces de l'expedient, incloses les observacions i les impugnacions rebudes, adjuntant a aquesta tramesa un informe raonat en el qual proposi l'aprovació o la denegació de les declaracions d'utilitat pública i de necessitat d'ocupació i, així mateix, les modificacions que consideri que s'han d'introduir en el projecte, en virtut de les observacions formulades pels interessats.

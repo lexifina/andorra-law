@@ -1,0 +1,4 @@
+# Article 24
+1. Malgrat el que preveuen els articles anteriors, en qualsevol moment i estat del procediment, l'expropiant i els expropiats poden arribar a la fixació de la indemnització per mutu acord. En tal supòsit, expropiant i expropiat han de comunicar llur acord, conjuntament i per escrit, a la Comissió d'Expropiació.
+2. Immediatament després de rebre aquesta comunicació, la Comissió d'Expropiació segueix els tràmits i dicta la resolució prevista a l'article 21.2, i dóna per clos l'expedient o les peces afectades, amb inclusió de les despeses i les costes, que han de satisfer per meitat l'expropiant i els expropiats.
+3. Llevat del supòsit esmentat a l'apartat anterior, les despeses i les costes derivades de l'actuació de la Comissió, les ha de pagar íntegrament l'expropiant, junt amb la indemnització.

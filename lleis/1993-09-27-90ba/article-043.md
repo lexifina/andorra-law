@@ -1,0 +1,3 @@
+# Article 43
+1. Transcorregut sense efecte el termini per recórrer contra la decisió de taxació i acreditada aquesta circumstància per l'expropiant, el jutge de l'Expropiació ordena la cancel.lació dels fiançaments i fa el pagament definitiu de les sumes que, per plus-vàlua, tingui en consignació. Ensems, lliura als consignants àpoca definitiva que anul.la i substitueix la provisional.
+2. Els mateixos efectes respecte de la cancel.lació de fiançaments i lliurament d'àpoques definitives produeix l'execució de les resolucions recaigudes en els recursos eventualment interposats contra la taxació.

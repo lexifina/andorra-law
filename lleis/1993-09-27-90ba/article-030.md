@@ -1,0 +1,11 @@
+# Article 30
+Lliurada la possessió a l'expropiant, el jutge continuarà les diligències d'execució, en els termes següents:
+1. Respecte dels supòsits en què, conforme als articles 21 i 24, s'hagi produït acord:
+a) Procedeix al pagament en els propis termes de l'acord, i en consigna el resultat en la corresponent acta que han de signar tots els interessats i que serveix a l'expropiant d'àpoca i de títol cancel.latori de tots els gravàmens i les càrregues dels béns anteriors a l'expropiació que siguin compatibles amb el caràcter d'adquisició originària que, en tot cas, correspon a l'expropiant.
+b) Tot seguit, ha de requerir l'expropiant i l'expropiat perquè, en el termini de quinze dies, compareguin davant de notari a atorgar la pertinent escriptura pública, en la qual s'haurà de protocol.litzar una còpia autèntica de l'acta de pagament a què es refereix l'apartat anterior, juntament amb la d'ocupació, i en què s'hauran de declarar cancel.lats tots els gravàmens i les càrregues anteriors, en els propis termes en què ho faci l'acta de pagament.
+c) Ensems, adverteix a l'expropiat o expropiats que, si no compareixen o no atorguen l'escriptura en el termini assenyalat, ho farà directament en nom seu el mateix jutge, sense nova citació ni requeriment, dins els vuit dies següents al dia en què rebi la notificació escrita de l'expropiant segons la qual l'expropiat ha refusat comparèixer o atorgar l'escriptura notarial. L'ha d'advertir igualment que, en aquest cas, les costes a què doni lloc la seva intervenció van a càrrec del mateix expropiat.
+d) Els dits requeriments i advertiments s'han de consignar per diligència a l'acta de pagament.
+e) En tot cas, les despeses d'atorgament de l'escriptura i les que origini la regularització o la inscripció de la titularitat de l'expropiant als cadastres i registres administratius, van a càrrec de l'expropiant.
+2. Respecte de les peces o expedients en què no s'hagi produït acord o s'hagi interposat recurs:
+a) El jutge decreta que les sumes consignades per l'expropiant siguin mantingudes en dipòsit, a disposició de qui acrediti tenir-hi dret en mèrits d'acord posterior o de les resolucions que recaiguin.
+b) Els restants tràmits relatius al pagament i a l'atorgament de la pertinent escriptura pública queden en suspens fins al moment en què es produeixi acord o recaigui resolució ferma.

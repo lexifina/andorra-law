@@ -1,0 +1,4 @@
+# Article 40
+1. Respecte de les finques ocupables, el valor de plus-vàlua s'ha de deduir de la indemnització a pagar per l'expropiant, sempre que aquest fianci suficientment, a criteri del jutge, la seva devolució, total o parcial, de resultes dels eventuals recursos que s'entaulin contra la taxació.
+2. Si, efectuada la compensació, resulta encara alguna diferència a favor de l'expropiant, caldrà atenir-se, per aquesta diferència, al que disposa l'article següent, respecte del pagament del valor de plus-vàlua per part dels titulars de finques no-ocupables.
+3. Inversament, la suma resultant a favor dels expropiats, una vegada efectuada la compensació, constitueix la indemnització a pagar per l'expropiant amb motiu de l'expropiació, sense perjudici de les rectificacions que escaiguin de resultes dels eventuals recursos contra la taxació.

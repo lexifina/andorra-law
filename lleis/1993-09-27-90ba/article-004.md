@@ -1,0 +1,2 @@
+# Article 4
+Quan els béns a expropiar no siguin alienables sense prèvia autorització judicial, aquesta autorització s'entén concedida per ministeri de la llei. En l'expedient d'expropiació, però, hi ha d'intervenir com a part el Ministeri Fiscal, a més dels titulars o administradors dels béns, a l'efecte d'acceptar la decisió que determini la indemnització o recórrer-hi en contra. El seu import, en tot cas, ha d'ésser posat a disposició de l'autoritat judicial, amb intervenció del Ministeri Fiscal, perquè li doni la destinació que legalment correspongui.

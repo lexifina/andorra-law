@@ -1,0 +1,2 @@
+# Article 25
+La resolució de la Comissió d'Expropiació, que fixa les indemnitzacions i les despeses i costes de la taxació, és immediatament executòria, en els termes dels articles següents. El jutge de l'Expropiació l'ha de notificar, dintre dels vuit dies següents, a l'expropiant, als expropiats i als restants interessats als quals es refereix l'article 10.4, que estiguin afectats per l'expedient o peça sobre la qual recaigui. També s'ha de publicar en el Butlletí Oficial.

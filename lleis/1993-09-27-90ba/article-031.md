@@ -1,0 +1,4 @@
+# Article 31
+1. Si l'execució de la resolució prevista a l'article 26 és instada per qualsevol dels expropiats, el jutge ha de requerir immediatament l'expropiant perquè, dins els trenta dies següents al requeriment, procedeixi a consignar la totalitat de les sumes que, dins l'expedient o la peça que hagi estat objecte de la resolució, vagin al seu càrrec.
+2. Consignades les sumes, el jutge procedeix en la forma indicada a l'article 27 i següents.
+3. Transcorregut sense efecte el termini assenyalat per a la consignació, l'execució queda en suspens, però l'expropiant s'entén, a tots els efectes, constituït en mora a partir del dia següent al d'expiració de l'esmentat termini i, en tal concepte, si més endavant, i abans que caduqui l'expedient de taxació de la indemnització, pretén prosseguir l'execució, haurà de consignar, a més de les sumes determinades en la resolució, l'interès legal que hagin produït des del moment de la mora fins a la consignació efectiva.
