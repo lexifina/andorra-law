@@ -1,0 +1,2 @@
+# Article 91
+Quan una mateixa expedició es compon de mercaderies amb una classificació tarifària diferent i el tractament de cadascuna d'aquestes mercaderies d'acord amb la seva classificació tarifària implicaria, per a l'establiment de la declaració, un treball i unes despeses desproporcionats amb l'import dels drets a la importació que se'ls apliquen, les autoritats duaneres, a demanda del declarant, poden acceptar que la totalitat de l'expedició es taxi retenint la classificació tarifària de la mercaderia sotmesa al dret a la importació més elevat.

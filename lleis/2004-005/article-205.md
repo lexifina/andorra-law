@@ -1,0 +1,4 @@
+# Article 205
+El deute duaner esmentat als articles 195 a 199 i 202 a 204 neix encara que afecti una mercaderia objecte de mesura de prohibició o de restricció a la importació o a l'exportació, sigui quina en sigui la naturalesa.
+Tanmateix, no es genera cap deute duaner quan s'introdueix de manera
+irregular, dins el territori duaner del Principat d'Andorra, moneda falsa i estupefaents i substàncies psicòtropes quan aquests estupefaents i aquestes substàncies psicòtropes no formen part del circuit econòmic estrictament vigilat per les autoritats competents amb finalitats mèdiques i científiques. Per a les necessitats de la legislació duanera aplicable a les infraccions duaneres, es considera que el deute duaner neix quan la legislació duanera preveu que els drets de Duana serveixen de base per a la determinació de sancions o quan l'existència d'un deute duaner serveix de base per a diligències administratives i judicials.

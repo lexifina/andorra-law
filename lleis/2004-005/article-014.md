@@ -1,0 +1,8 @@
+# Article 14
+1. La jubilació dels funcionaris de Duana pot ser voluntària o obligatòria per edat. D'acord amb el que preveu l'article 48, apartat 3, de la Llei de la funció pública, del 15 de desembre del 2000, la jubilació obligatòria dels funcionaris de Duana es produeix als 60 anys d'edat.
+2. Els funcionaris de Duana es poden jubilar de forma voluntària als 55 anys,
+cas en què perceben una pensió de jubilació del 60% dels conceptes salarials indicats en l'article 48.4 de la Llei de la funció pública. Per cada any que es retardi la petició de jubilació voluntària, l'import de la pensió s'incrementa en un 2%, fins a assolir el percentatge del 70% dels esmentats conceptes salarials als 60 anys.
+3. A partir de l'edat dels 65 anys, la pensió que percep el funcionari de Duana és en tots els casos del 70% dels conceptes salarials continguts en l'article 48, apartat 4, de la Llei de la funció pública, i es compon de la pensió que li pertoqui d'acord amb les normes de l'organisme encarregat de la seguretat
+social, a la qual s'afegeix el complement que correspongui a càrrec de l'Administració general, sense que la suma d'ambdues pensions pugui superar
+en cap cas el 70% dels conceptes salarials indicats en l'article 48, apartat 4, de la Llei de la funció pública.
+4. El 20% de l'import de les sancions per infraccions a les disposicions legals en matèria tributària duanera forma part dels drets econòmics de les finances públiques com a incentiu i complement de finançament de la jubilació i de millores socials dels funcionaris de Duana, establint-se per reglament la seva regulació i condicions d'aplicació.

@@ -1,0 +1,2 @@
+# Disposició final primera
+Tenen caràcter de llei qualificada els preceptes que s'estableixen a l'article 1, apartat 2, a l'article 3, apartats 4 i 7, i als articles 7, 8, 9 i 10 que regulen respectivament els llocs de treball de director i director adjunt, el sistema de provisió de places, en particular pel que respecta a l'edat i a la promoció interna, i les actuacions dels funcionaris de Duana.

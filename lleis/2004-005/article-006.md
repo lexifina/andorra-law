@@ -1,0 +1,4 @@
+# Article 6
+1. El funcionari de Duana es beneficia de la protecció de la llei. Té dret a ser defensat i a exigir que l'Administració reclami la responsabilitat civil i penal de les persones que atemptin contra la seva vida, la seva integritat, la seva dignitat o la dels seus familiars o béns personals, o que els injuriïn o calumniïn de qualsevol manera, tot això amb motiu del desenvolupament de les seves
+funcions, tant si estan en situació de servei actiu com si estan en situació de jubilació.
+2. El funcionari de Duana té la garantia de cobertura de la responsabilitat civil derivada del compliment de la seva actuació professional quan aquesta responsabilitat no els sigui imputable individualment per actes qualificats de dolosos.

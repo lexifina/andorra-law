@@ -1,0 +1,6 @@
+# Article 144
+1. L'import dels drets a la importació exigibles per a les mercaderies sota el règim d'admissió temporal en exoneració parcial dels drets a la importació es fixa al 3% per mes o fracció de mes en el decurs del qual les mercaderies es posen sota el règim d'admissió temporal en exoneració parcial de l'import dels drets que s'haurien recaptat per aquestes mercaderies si haguessin estat
+posades en lliure disposició a partir de la data en què van ser posades sota el règim d'admissió temporal.
+2. L'import a recaptar dels drets a la importació no ha de ser superior al que s'hauria recaptat en cas de posada en lliure disposició a la data que van ser posades sota el règim d'admissió temporal, sense considerar els interessos eventualment aplicables.
+3. La transferència dels drets i de les obligacions derivats del règim d'admissió temporal de conformitat amb l'article 101 no implica que s'hagi d'aplicar el mateix sistema d'exoneració per cadascun dels períodes d'utilització a considerar.
+4. Quan la transferència esmentada a l'apartat 3 es fa amb el sistema d'exoneració parcial per als dos titulars del règim en el decurs d'un mateix mes, el titular precedent és deutor de l'import dels drets a la importació deguts per la totalitat d'aquest mes.

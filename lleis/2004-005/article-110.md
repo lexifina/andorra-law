@@ -1,0 +1,3 @@
+# Article 110
+La persona designada per les autoritats duaneres ha de portar, en la forma acceptada per aquestes autoritats, un registre de mercaderies de totes les mercaderies posades sota el règim del dipòsit duaner. No es requereix aquest registre quan el dipòsit públic és gestionat per les autoritats duaneres.
+Sota reserva de l'aplicació de l'article 96, les autoritats duaneres poden renunciar al registre de mercaderies quan les responsabilitats esmentades a l'article 106, punts a) i/o b), incumbeixen exclusivament al dipositador i que la posada de les mercaderies sota aquest règim es realitza basant-se en una declaració escrita en el marc del procediment normal o d'un document administratiu de conformitat amb l'article 86, apartat 1, punt b).

@@ -1,0 +1,2 @@
+# Article 35
+Una transformació o un obratge sobre el qual s'ha establert, o si fets constatats en justifiquen la presumpció, que l'únic objectiu ha estat defugir les disposicions aplicables al Principat d'Andorra, en cap cas pot considerar-se que aquest fet confereixi, d'acord amb l'article 34, a les mercaderies obtingudes d'aquesta manera, l'origen del país on ha tingut lloc aquesta transformació.

@@ -1,0 +1,3 @@
+# Article 206
+Quan la reglamentació duanera preveu un tractament favorable d'una
+mercaderia per raó de la seva naturalesa o de la seva destinació particular, una franquícia o una exoneració total o parcial dels drets a la importació o dels drets a la exportació en virtut dels articles 31, 92, 146 o 180 a 183, aquest tractament favorable, aquesta franquícia o aquesta exoneració també s'aplica en el cas de naixement de deute duaner en virtut dels articles 196 a 199, 203 o 204, quan el comportament de la persona interessada no implica ni maniobra fraudulenta, ni negligència manifesta i que la dita persona interessada justifica que estan reunides les altres condicions d'aplicació del tractament favorable, de la franquícia o de l'exoneració.

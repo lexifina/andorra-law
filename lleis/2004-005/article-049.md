@@ -1,0 +1,3 @@
+# Article 49
+1. Quan, per un cas fortuït o de força major, l'obligació esmentada a l'article 48, apartat 1 no pot ser complerta, la persona que té l'obligació de complir-la o qualsevol altra persona que actuï en el seu lloc, ha d'informar sense demora les autoritats duaneres d'aquesta situació. Quan aquest cas fortuït o de força major ha comportat la pèrdua total de les mercaderies, s'ha d'informar les autoritats duaneres del lloc precís on es troben aquestes mercaderies.
+2. Les autoritats duaneres determinen les mesures que s'han d'observar per permetre la vigilància duanera de les mercaderies tractades a l'apartat 1 i garantir, si escau, el seu trasllat ulterior a un despatx de Duana o a qualsevol altre lloc designat o autoritzat per aquestes autoritats.

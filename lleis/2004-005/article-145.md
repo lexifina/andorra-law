@@ -1,0 +1,5 @@
+# Article 145
+1. Quan neix un deute duaner per a mercaderies d'importació, l'import d'aquest deute es determina prenent com a base els elements de taxació propis
+d'aquestes mercaderies en el moment de l'acceptació de la declaració de
+posada sota el règim d'admissió temporal. Tanmateix, quan estigui previst en l'article 143, apartat 1, l'import del deute es determina sobre la base dels elements de taxació propis d'aquestes mercaderies en el moment previst a l'article 208.
+2. Quan, per una raó diferent de la de posada sota el règim d'admissió temporal en exoneració parcial dels drets a la importació, neix un deute duaner per a les mercaderies posades sota aquest règim, l'import del deute duaner és igual a la diferència entre l'import dels drets determinats en aplicació de l'apartat 1 i el que es deu en aplicació de l'article 144.

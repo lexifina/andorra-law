@@ -1,0 +1,6 @@
+# Article 204
+1. Un deute duaner a l'exportació neix pel no respecte de les condicions que
+han permès la sortida de la mercaderia fora del territori duaner del Principat d'Andorra en exoneració total o parcial dels drets a l'exportació.
+2. El deute neix en el moment en què la mercaderia ha rebut una destinació diferent de la que n'ha permès la sortida fora del territori duaner del Principat d'Andorra en exoneració total o parcial dels drets a l'exportació, i també si les autoritats duaneres no poden determinar, en aquest moment, el moment en
+què expira el termini fixat per a la producció de la prova que atesta que les condicions fixades per donar dret a aquesta exoneració s'havien complert.
+3. El deutor és el declarant. En cas de representació indirecta, la persona pel compte de la qual es fa la declaració, és igualment deutor.

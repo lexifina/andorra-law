@@ -1,0 +1,6 @@
+# Article 123
+1. Les autoritats duaneres fixen, o bé el tipus de rendiment de l'operació, o bé, si escau, la manera de determinar aquest tipus. El tipus de rendiment es determina d'acord amb les condicions reals en què s'efectua o s'ha d'efectuar l'operació de perfeccionament.
+2. Quan les circumstàncies ho justifiquen, i especialment quan es tracta d'operacions de perfeccionament efectuades tradicionalment en condicions tècniques ben definides, que tracten mercaderies de característiques
+sensiblement constants i aconsegueixen obtenir productes compensadors de
+qualitat constant, la Duana pot acceptar un tipus estipulat de rendiment basat
+en dades reals constatades prèviament.
