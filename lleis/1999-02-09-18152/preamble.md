@@ -1,0 +1,10 @@
+Llei
+qualificada de modificació dels articles 105 i 114 del Codi penal
+Atès que el Consell General en la seva sessió del dia 14 de gener de 1999 ha aprovat la següent:
+Llei qualificada de modificació dels articles 105 i 114 del Codi penal
+Exposició de motius
+És unànimement acceptada la idea de la necessitat d'un Codi penal de nova confecció, adequat als principis constitucionals així com a les recomanacions i a les propostes dels convenis internacionals que incideixen en l'àmbit penal. Això no obstant la inclusió i modificació de certs preceptes penals en el Codi vigent es fa necessària.
+És el cas dels delictes contra l'Administració pública i de justícia on l'interès jurídic protegit, tal i com s'accepta arreu, ha deixat de ser l'acompliment dels deures propis del càrrec d'autoritat o funcionari, per centrar-se més concretament en la repercussió sobre el correcte funcionament de l'Administració.
+Essent aquest l'interès jurídic, calia una modificació del Codi penal que tingués en compte, d'una banda, que l'atemptat al correcte funcionament de l'Administració es pot produir tant per tot aquell que desenvolupa una funció pública, ja sigui la mateixa autoritat o funcionari al servei d'aquella, com pel mateix particular, i d'altra, que no solament el suborn constitueix un atemptat al correcte funcionament de l'administració, sinó també la prevaricació, el tràfic d'influències, i l'ús d'informació privilegiada, figures que no es trobaven tipificades al Codi penal.
+Era necessari també incloure la definició de funcionari i autoritat i fer-la extensiva, aprofitant la modificació proposada, als demés tipus penals que es veuen afectats ja que, si bé, certament, la definició del concepte, a efectes penals, de funcionari i autoritat, correspon sistemàticament a la Part General del Codi, el cert és que, la seva manca de definició, comportava un problema més greu que el derivat de la sistemàtica i estructura legislativa.
+Aquestes noves figures, malgrat ser perfectament autònomes, s'han inclòs com a números complementaris a la tipificació del suborn, per tal de no alterar la numeració de l'articulat de l'actual Codi penal.
