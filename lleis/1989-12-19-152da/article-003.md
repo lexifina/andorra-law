@@ -1,0 +1,4 @@
+# Article 3
+La funció de l'Institut de Serveis Socials és l'organització, desenvolupament i execució dels serveis, centres, programes i activitats d'assistència social per l'atenció als problemes de la infància i adolescència, gent gran, disminuïts, marginats i, en general, grups homogenis de població amb determinades característiques que requereixin prestacions socials.
+Són també funcions de l'Institut de Serveis Socials, l'elaboració d'estudis per a la detecció de les necessitats socials de la comunitat, i la coordinació funcional amb altres organitzacions públiques o privades, situades o no en el Principat d'Andorra, que persegueixin les mateixes finalitats.
+No és funció de l'Institut, i en queda expressament exclosa, l'atorgament de subvencions o altres prestacions de caràcter pecuniari.
