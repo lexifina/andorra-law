@@ -1,0 +1,3 @@
+# Article 21
+Les infraccions lleus seran sancionades amb amonestació escrita i multa de deu mil a cinquanta mil PTA, les greus, amb la prohibició de poder efectuar determinats tipus d'operacions financeres i/o amb la suspensió temporal de dirigents d'un a sis mesos i multa de cinquanta mil una a dos milions de PTA, les molt greus, amb la suspensió temporal de dirigents fins a tres anys o amb suspensió definitiva de dirigents i multa de dos milions una a cinquanta milions de PTA.
+Per a la graduació de les sancions, dins dels límits establerts, s'atendrà a la gravetat del cas, la falta de vigilància, les carències o insuficiències dels mecanismes de previsió i a la intencionalitat o grau de negligència en què s'hagués incorregut.

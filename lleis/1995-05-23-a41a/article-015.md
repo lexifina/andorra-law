@@ -1,0 +1,4 @@
+# Article 15
+La Comissió Superior de Finances en rebre la còpia de la declaració, dita en l'apartat 2 de l'article 7, verificarà l'actuació de l'entitat financera en ordre a tot el que estableix la present Llei, podent demanar a l'entitat concernida qualsevol documentació o informació que consideri necessària. Si estima que existeixen irregularitats o mancament, instruirà un expedient, amb audiència de l'entitat financera i, segons procedeixi, arxivarà o bé qualificarà, proposarà sanció i trametrà l'expedient al Govern per a la seva resolució.
+La Comissió Superior de Finances, per delegació del Govern, podrà sancionar directament les infraccions lleus.
+Contra la resolució dictada per la Comissió Superior de Finances o pel Govern, segons procedeixi, es podrà interposar directament recurs davant la secció administrativa del Tribunal dels Batlles.

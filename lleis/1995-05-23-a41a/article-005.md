@@ -1,0 +1,3 @@
+# Article 5
+Les sucursals, filials o delegacions, de societats andorranes situades a l'estranger, així com les societats domiciliades a l'estranger, el control de les quals estigui en mans de persones, físiques o jurídiques, andorranes o residents a Andorra, que tinguin per objecte operacions financeres, han d'adoptar totes quantes mesures siguin necessàries per tal de prevenir qualsevol acte de blanqueig de diner o de valors.
+El Govern, amb l'informe previ de l'Institut Nacional Andorrà de Finances i el dictamen de la Comissió Superior de Finances, queda facultat per reglamentar aquesta obligació.
