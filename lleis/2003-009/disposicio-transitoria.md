@@ -1,0 +1,3 @@
+# Disposició transitòria
+1. Mentre no hagin estat delimitats expressament, es consideren entorns de protecció dels monuments declarats en virtut de la disposició addicional primera els espais compresos dins d'un radi de cent metres comptats des del perímetre exterior del monument.
+2. Mentre no es dictin els decrets de delimitació corresponents, no es pot fer cap nova construcció ni cap ampliació de volumetria, en els entorns definits en l'apartat 1, sense l'informe favorable previ dels serveis del Patrimoni cultural. Un cop es dictin els decrets esmentats, s'aplicaran els criteris que s'hi estableixin.

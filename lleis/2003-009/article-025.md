@@ -1,0 +1,3 @@
+# Article 25
+Suspensions d'obres
+Si durant l'execució de qualsevol tipus d'obra es troben restes arqueològiques o paleontològiques, tant el promotor com el constructor i el director facultatiu de l'obra estan obligats a aturar l'obra des del primer indici i comunicar-ho immediatament al ministeri titular de la cultura, el qual ha de comprovar el valor de la troballa. Si la suspensió es prorroga més de dos mesos i el promotor és privat, aquest té dret a ser indemnitzat pels perjudicis que li comporti el retard de l'obra. En el termini màxim de sis mesos, el ministeri ha de resoldre a favor de la continuació de l'obra suspesa o a favor del manteniment de la suspensió i la iniciació d'expedient de declaració de bé d'interès cultural.
