@@ -1,0 +1,5 @@
+# Article 23
+1. A més a més de la renda, l'arrendatari està obligat a pagar, a l'arrendador o bé directament al subministrador que correspongui, les despeses que originen els serveis i els subministraments del que gaudeixi. Tenen aquesta consideració el servei de porteria i els subministraments d'aigua, electricitat, gas, calefacció, aire condicionat, telèfon i altres anàlegs.
+2. Per efectuar-ne el cobrament, l'arrendador ha de justificar a l'arrendatari la quantitat que li correspon pagar per aquests serveis i subministraments. Per determinar el cost individual de cada servei, si les finques que en gaudeixen són més d'una i no hi ha comptadors individuals, el cost total es distribueix entre elles en funció de la superfície de cada finca.
+3. Es vàlid el pacte en què es convé el pagament d'una suma preufetera per a tots o determinats serveis.
+4. L'import dels serveis, quan siguin deguts a l'arrendador, és complementari a la renda, però s'hi assimila als efectes de desnonament per manca de pagament.

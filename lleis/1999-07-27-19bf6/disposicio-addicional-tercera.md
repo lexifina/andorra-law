@@ -1,0 +1,3 @@
+# Tercera
+1. Dins del termini de tres mesos a comptar de la publicació de la Llei, el Govern ha de determinar reglamentàriament les normes substantives i de procediment que regiran per a l'obtenció del certificat d'habitabilitat a què es refereix aquesta Llei. Aquesta reglamentació discrimina les finques en funció de la data de construcció i estableix els terminis de què disposen els propietaris per obtenir el certificat d'habitabilitat, i pot establir també uns terminis diferents en funció de la data de construcció. En tot cas, el certificat d'habitabilitat té una vigència de deu anys.
+2. Mentre no s'hagi promulgat aquesta normativa, queden en suspens les obligacions referides a l'obtenció i el lliurament del certificat d'habitabilitat.

@@ -1,0 +1,2 @@
+# Primera
+El que estableix la present Llei és d'aplicació als contractes que se celebrin a partir de la seva entrada en vigor i a tots els contractes d'arrendament celebrats amb anterioritat a partir del moment en què el contracte es renovi per tàcita reconducció. Això no obstant, les disposicions dels articles 45 apartat 2 i 55 relatives a l'actualització de la renda, són aplicables immediatament.
