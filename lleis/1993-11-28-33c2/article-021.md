@@ -1,0 +1,2 @@
+# Article 21
+Sempre que no es comprometi la seguretat en carretera i amb l'objecte d'arribar a un punt de parada adequat, el conductor pot apartar-se del que disposa la present Llei en la mesura necessària per garantir la seguretat de les persones, del vehicle o de la càrrega. El conductor ha de mencionar el tipus i el motiu de l'excepció així decidida en el full de registre de l'aparell de control o en el seu registre de servei.

@@ -1,0 +1,11 @@
+# Article 39
+1. Sense perjudici de les competències legalment atribuïdes al Govern, correspon al ministeri competent la incoació dels expedients administratius sancionadors per infraccions al que disposa aquesta Llei.
+2. Correspon indistintament al Servei de Policia i al ministeri competent, la funció inspectora dirigida a esbrinar, comprovar i exigir el compliment d'aquesta Llei.
+Disposicions transitòries
+1. Les persones, físiques o jurídiques, que en la data de publicació de la present Llei estan inscrites en el Registre de Comerç i Indústria com a empreses de transport públic de viatgers o mercaderies, seran inscrites d'ofici al Registre General de Transportistes. Les empreses esmentades en l'apartat anterior disposen del termini de tres mesos per comunicar al ministeri competent la persona que de forma efectiva i permanent dirigeix l'empresa, a la qual se li reconeix, amb caràcter definitiu, el requisit de capacitació professional; l'esmentada persona ha d'ésser obligatòriament andorrana o estrangera amb residència i dret a exercir el comerç.
+A les empreses que no efectuïn la comunicació esmentada en l'apartat anterior, se'ls aplicarà l'article 12 de la present Llei, a fi de procedir a la revocació de la seva inscripció al Registre General de Transportistes.
+2. Les empreses que, en la data de publicació de la present Llei, no compleixin la condició de capacitat econòmica, disposen fins al 31 de desembre de 1994 per complir les condicions exigides en l'article 9. Contràriament, es procedirà a la revocació de la seva inscripció al Registre General de Transportistes, d'acord amb el procediment de l'article 12 de la present Llei.
+3. S'autoritza el Govern a adaptar, mitjançant reglament, les normes d'aquesta Llei a la legislació de la Comunitat Econòmica Europea vigent en cada moment.
+4. El compliment de l'obligació d'utilitzar l'aparell de control s'exigeix a partir del dia 1 de gener de 1994.
+En tot cas, és obligatòria la utilització de l'aparell de control en tots els recorreguts de caràcter internacional, o sigui, en aquells que tinguin l'origen o la destinació fora del Principat.
+5. Es faculta el Govern per actualitzar els imports de les multes que es preveuen en aquesta Llei.

@@ -1,0 +1,10 @@
+## Secció tercera. Condicions de caràcter personal per a l'exercici professional
+# Article 4
+1. Unicament les persones que reuneixin els requisits de capacitació professional, capacitat econòmica i honorabilitat, poden dur a terme el transport públic per carretera definit a l'article 1 d'aquesta Llei.
+2. El Govern pot exonerar del compliment de les condicions a què es refereix l'apartat anterior, o d'alguna condició, o bé establir procediments sumaris o simplificats per acreditar l'esmentat compliment en relació:
+a) A transports de passatgers realitzats per persones o empreses l'activitat principal de les quals no sigui la de transportistes, o que no tinguin caràcter comercial, i que tinguin una incidència feble en el mercat dels transports.
+b) A transports nacionals de mercaderies que, per la naturalesa de la càrrega, tinguin una incidència feble en el mercat dels transports.
+c) A transports de passatgers realitzats en vehicles amb una capacitat inferior a 10 places, inclosa la del conductor.
+Mentre que el Govern no ho determini expressament, en relació als transports i a les activitats a què es refereix l'anterior apartat c), no se'ls podran exigir els requisits a què es refereix aquest article.
+3. Quan es tracti d'empreses individuals el titular de les quals no compleixi el requisit de capacitació professional, l'esmentat requisit es pot satisfer mitjançant el seu compliment per almenys una altra persona que de forma efectiva i permanent dirigeixi l'empresa. L'esmentada persona ha d'ésser andorrana o estrangera amb residència i dret a exercir el comerç, i ha de complir el requisit d'honorabilitat, però sense que allò signifiqui que el propietari en quedi exonerat.
+Quan es tracti d'empreses col.lectives, el requisit d'honorabilitat ha d'ésser complert per la totalitat de les persones que, de forma efectiva i permanent, dirigeixin l'empresa. És suficient, però, quant a la capacitat professional, que aquest requisit sigui complert per alguna d'aquestes. La persona que compleixi el requisit de capacitació professional ha d'ésser andorrana o estrangera amb residència i dret d'exercir el comerç.

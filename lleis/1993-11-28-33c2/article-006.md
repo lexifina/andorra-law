@@ -1,0 +1,2 @@
+# Article 6
+L'Administració, de conformitat amb el que reglamentàriament es determini, pot autoritzar la continuació de les activitats de l'empresa durant un període màxim d'un any, prorrogable per sis mesos en casos particulars degudament justificats, dels serveis o les activitats de transport, encara que no es compleixi el requisit de capacitació professional, en els casos de mort o incapacitat física legal de la persona que fins llavors hagués complert l'esmentat requisit.

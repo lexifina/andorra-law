@@ -1,0 +1,4 @@
+# Article 25
+1. L'empresari i els conductors han de vetllar pel bon funcionament i la correcta utilització de l'aparell.
+2. L'empresari ha de lliurar als conductors un nombre suficient de fulls de registre, tenint en compte el caràcter individual dels esmentats fulls, la durada del servei i l'obligació de substituir, en cada cas, els fulls deteriorats o que hagin estat retirats per un agent de l'autoritat encarregat del control. L'empresari únicament ha de facilitar als conductors fulls del model homologat que puguin utilitzar-se en l'aparell instal.lat en el vehicle.
+3. L'empresa ha de conservar degudament els fulls de registre com a mínim durant 1 any després de la seva utilització i ha de facilitar-ne una còpia als conductors interessats que així ho sol.licitin. Els fulls han de presentar-se o lliurar-se quan els agents de l'autoritat encarregats del control ho sol.licitin.

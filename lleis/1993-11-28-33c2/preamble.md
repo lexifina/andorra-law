@@ -1,0 +1,14 @@
+Llei
+sobre les condicions per a l'exercici de l'activitat de transport i de disposicions en matèria social en el sector del transport per carretera
+Atès que el Consell General en la seva sessió del dia 4 de novembre de 1993 ha aprovat la següent:
+Llei sobre les condicions per a l'exercici de l'activitat de transport i de disposicions en matèria social en el sector del transport per carretera
+Preàmbul
+La normativa de la CEE i els seus estats membres en l'àmbit del transport està dirigida, fonamentalment, a la millora de les condicions de treball i de la seguretat en la carretera, així com a accions encaminades a garantir una millora de la qualificació professional del transportista, que permetin contribuir a la millora de la qualitat del servei prestat en interès dels usuaris, dels transportistes i del conjunt de l'economia.
+En aquest sentit, l'adaptació de la normativa interna del Principat a la normativa comunitària ha de permetre l'accés dels nostres transportistes a zones de països de la CEE no autoritzades fins a l'actualitat i, per altra part, ha de contribuir, com s'ha esdevingut en els països de la CEE, al compliment dels objectius esmentats anteriorment.
+El capítol primer tracta de les condicions per a l'exercici de l'activitat de transportista, que es basen en l'honorabilitat, la capacitat econòmica i la capacitat professional del transportista.
+Es tracta de requisits generals que han d'aplicar-se als transportistes de caràcter públic, de mercaderies i passatgers, per poder-se inscriure en el Registre General de Transportistes que es crea amb la mateixa Llei.
+El capítol segon tracta de la limitació del temps de conducció continu i del període de conducció diari, així com de la fixació dels períodes mínims de descans diari i setmanal del conductor, que han d'afavorir la seguretat en la carretera i la conducció racional. Igualment, el mateix capítol tracta de l'aparell de control, que és indispensable per poder garantir, tant per part del propi transportista com pels agents de l'autoritat, el compliment de la Llei.
+En aquest sentit, es preveuen els requisits que es demanen als empresaris i conductors per vetllar pel bon funcionament de l'aparell, mitjançant el compliment rigorós de les operacions exigides per la regulació.
+En ambdós capítols s'especifiquen les excepcions a la norma general, bé perquè es tracta de determinats transports que tenen una feble incidència econòmica o perquè presenten característiques especials.
+Finalment, el capítol tercer regula el dret sancionador aplicable a l'àmbit de la Llei de conformitat amb l'article 9.4 de la Constitució, que obliga a tipificar les infraccions administratives.
+En conseqüència, el M.I. Consell General aprova la Llei relativa a les condicions per a l'exercici de l'activitat de transportista i les disposicions en matèria social en el sector del transport per carretera.
