@@ -1,0 +1,7 @@
+# Article 7
+Elecció dels membres del Consell Universitari que representen a professors i estudiants
+1. El rector convocarà eleccions de representants de professors i estudiants
+amb una antelació mínima de dos mesos abans de finalitzar el mandat dels anteriors representants.
+2. Per a procedir a l'elecció dels seus representants, tindran dret de sufragi, tant actiu com passiu, tots els professors ordinaris, ajudants i col·laboradors, amb dedicació mínima de seixanta hores per any acadèmic. El sufragi és igual, directe i secret. Les candidatures que optin a la designació es presentaran trenta dies abans de la votació i hauran d'incloure el nom i cognoms de dos professors de centres diferents -un d'ells, almenys, professor ordinari- i dos candidats suplents, amb les mateixes característiques, els quals, cas de quedar vacant el càrrec, els substituiran. Serà designada la candidatura que obtingui més vots.
+3. Per a procedir a l'elecció dels seus representants, tindran dret de sufragi, tant actiu com passiu, tots els estudiants sempre que la durada dels seus estudis sigui, com a mínim, de dos anys. El sufragi actiu és igual, directe i secret. Les candidatures es faran oficials trenta dies abans de la votació i hauran d'incloure el nom i cognoms de dos estudiants de centres diferents i dos candidats suplents, amb les mateixes característiques, els quals, cas de quedar vacant el càrrec, els substituiran. Serà designada la candidatura que obtingui més vots.
+4. La duració del mandat serà de dos anys, podent ser reelegibles en els seus càrrecs.

@@ -1,0 +1,14 @@
+Llei
+de desenvolupament dels principis bàsics de l'estructura i l'organització de la Universitat d'Andorra
+Atès que el Consell General en la seva sessió del dia 28 de juny del 2002 ha aprovat la següent:
+Llei de desenvolupament dels principis bàsics de l'estructura i l'organització de la Universitat d'Andorra
+Exposició de motius
+L'article 9 de la Llei d'universitats, aprovada pel Consell General en la seva sessió del 30 de juliol de 1997, reserva a una llei específica la regulació dels principis bàsics de l'estructura i l'organització de la Universitat d'Andorra. Així mateix, la seva disposició transitòria preveu que s'adoptin mesures per posar
+en marxa l'esmentada universitat. Transcorreguts amb escreix quatre anys des
+de l'aprovació de la Llei, es fa palès que una de les mesures més necessàries a adoptar és donar compliment a aquest article 9 de la Llei d'universitats per tal de fer efectiu el que es preveu a la disposició transitòria.
+La informació i l'experiència obtinguda des de l'entrada en vigor de la Llei d'universitats, així com les reflexions que s'han produït en aquest període, especialment sobre el model estratègic de la Universitat d'Andorra, han posat
+de manifest la necessitat d'aprofitar adequadament els recursos de
+l'ensenyament superior que avui ja funcionen satisfactòriament i crear una nova estructura universitària proporcionada a les necessitats i possibilitats del nostre país.
+Des d'aquest punt de vista, la Llei, al seu títol primer, estableix les bases per anar configurant una universitat d'aquestes característiques: a) aprofundeix l'autonomia de la universitat dotant-la de personalitat jurídica; b) reforça la seva funcionalitat estructurant-la en centres i àrees; c) fixa l'àmbit de les seves activitats i estableix els principals criteris per accedir-hi i per convalidar assignatures. D'altra banda, pel que fa a l'organització, la Llei regula el sistema d'elecció dels membres del Consell Universitari, peça clau de l'estructura organitzativa de la universitat, d'acord amb allò establert a la Llei d'universitats, i determina les funcions dels directors de centre i els tipus de dedicacions del professorat.
+Així mateix, en aquest darrer període, d'acord amb la positiva experiència del funcionament actual, s'ha arribat a la conclusió que era convenient augmentar l'autonomia dels centres i, en conseqüència, potenciar les competències dels seus directors i adequar les del gerent. És per aquest motiu que es modifiquen, en les disposicions finals primera i segona, els articles 11 i 15 de la Llei d'universitats.
+També s'ha cregut convenient recollir en el títol quart d'aquesta Llei el règim disciplinari del personal docent i no docent, determinant, en primer lloc, els seus drets i deures per tal de fixar, a continuació, els distints tipus d'infraccions i de sancions, així com el procediment sancionador.
