@@ -1,0 +1,2 @@
+# Disposició final sisena
+Llevat de les disposicions d'aquesta Llei relatives a l'urbanisme i a la construcció que queden vinculades a la redacció i l'aprovació dels plans d'ordenació i urbanisme parroquial, l'aplicació de les quals és regulada en les transitòries precedents, totes les disposicions restants són aplicables immediatament i deroguen totes les anteriors, generals i comunals, que s'hi oposin.
