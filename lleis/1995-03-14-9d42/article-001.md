@@ -1,0 +1,14 @@
+## Capítol primer. Els crèdits i llurs modificacions
+# Article 1
+Ambit del pressupost de l'Estat
+En els pressupostos de l'Estat per a l'exercici 1995 s'integren:
+a) El pressupost de l'Administració general.
+b) Els pressupostos de les entitats parapúbliques:
+* Caixa Andorrana de Seguretat Social
+* Centre Nacional d'Informàtica d'Andorra
+* Forces Elèctriques d'Andorra
+* Institut Nacional Andorrà de Finances
+* Organisme de Ràdio i Televisió d'Andorra
+* Residència Solà d'Enclar
+* Servei Andorrà d'Atenció Sanitària
+* Servei de Telecomunicacions d'Andorra
