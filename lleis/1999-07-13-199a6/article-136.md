@@ -1,0 +1,9 @@
+# Article 136
+136.1. Poden inscriure vehicles al seu nom:
+a) Les persones de nacionalitat andorrana o els estrangers legalment residents al Principat d'Andorra, llevat dels que gaudeixin únicament d'autorització de sojorn i treball temporal.
+b) Les societats, fundacions i altres persones jurídiques autoritzades i inscrites legalment als registres corresponents del Govern.
+c) Les associacions esportives, les culturals o d'altres inscrites degudament al Registre d'Associacions del Govern.
+d) Les autoritats que emanen dels coprínceps.
+e) Els membres del cos diplomàtic acreditats a Andorra i els de les missions estrangeres inscrites com a tals al Ministeri de Relacions Exteriors.
+136.2. Un estranger que trasllada el seu domicili a Andorra i té una autorització de residència de qualsevol de les categories previstes per la llei, llevat de la temporal, té la possibilitat de fer inscriure al Registre un sol automòbil de turisme que estigui prèviament matriculat al seu nom en el lloc d'anterior residència, que tingui una antiguitat superior a tres anys i inferior a cinc. Igualment pot inscriure també un vehicle tipus remolc, especialment habilitat per a càmping, o una motocicleta. En tot cas, el sol.licitant ha d'acreditar la titularitat al seu favor, durant un període igual o superior a sis mesos, dels vehicles que desitgi inscriure. En cap cas, els vehicles poden tenir una antiguitat superior a 5 anys.
+136.3. Per poder matricular vehicles comercials o de transport de mercaderies o de passatgers, les persones físiques o jurídiques han de ser titulars d'un establiment legalment autoritzat i que, per la naturalesa de les seves activitats, requereix disposar de vehicles destinats a ús comercial o industrial. No es pot efectuar el transport públic o privat amb els vehicles esmentats sense les autoritzacions pertinents que fixa la legislació vigent en matèria de transport.

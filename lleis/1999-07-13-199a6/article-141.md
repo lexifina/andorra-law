@@ -1,0 +1,7 @@
+# Article 141
+Amb caràcter general queda prohibida la matriculació i inscripció al Registre de tota mena de vehicles de motor, remolcs i semiremolcs, tant de transport de persones com de càrrega en general, la fabricació dels quals sigui anterior a tres anys naturals comptats a partir de la data en què es pretén la importació a Andorra.
+De forma excepcional es poden matricular vehicles d'antiguitat superior a l'especificada anteriorment, a condició que compleixin els requisits següents:
+I) Complir les condicions que assenyala l'article 165, relatiu a automòbils antics i de museu.
+II) Superar, si escau, la inspecció tècnica de vehicles, d'acord amb el que especifica l'article 167.
+Igualment, el ramader que justifiqui la necessitat d'un vehicle per a ús exclusivament ramader (camió, furgó o similar i remolc per portar bestiar) per als seus treballs, pot obtenir l'autorització de matriculació, després de presentar una sol.licitud al departament competent. En cap cas aquesta excepció no pot ser invocada per obtenir la matriculació de vehicles tipus tot terreny, camioneta, furgoneta, camions o similars l'ús dels quals no sigui exclusivament ramader.
+En tot cas, un cop matriculat el vehicle en qüestió, només pot ser traspassat a una altra persona que dugui a terme activitat ramadera, la qual ha de ser justificada davant el departament competent. En tot cas, la menció "US EXCLUSIU RAMADER" ha de figurar en la carta groga del vehicle.

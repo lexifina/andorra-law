@@ -1,0 +1,3 @@
+# Article 88
+Els vehicles de més de 2,10 m d'amplada o de longitud igual o superior a 6 m han de portar dos llums blancs o grocs a la part davantera i dos llums vermells a la posterior, tan pròxims als extrems transversals del vehicle com sigui possible i en un pla superior al dels llums d'enllumenat ordinari tan amunt com ho permeti l'estructura del vehicle. Quan la càrrega sobresurti més d'1 m per davant o per darrere del vehicle, han de portar, a més, un llum blanc o groc a la part del davant i un de vermell al darrere, que han d'indicar els extrems de la càrrega.
+Senyalització de maniobra i indicadors de direcció

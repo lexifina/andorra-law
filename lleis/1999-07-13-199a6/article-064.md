@@ -1,0 +1,3 @@
+# Article 64
+64.1. Està prohibit dur les portes del vehicle obertes, obrir-les abans que estigui completament immobilitzat i obrir-les o baixar del vehicle sense haver comprovat prèviament que això no implica cap perill o obstacle per als altres usuaris.
+64.2. Com a norma general, s'ha d'entrar i s'ha de sortir del vehicle pel costat més pròxim a la vorera, i només quan el vehicle està aturat.

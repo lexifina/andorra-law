@@ -1,0 +1,2 @@
+# Article 122
+Per a l'expedició d'un duplicat de permís de conduir, el sol.licitant, si és de nacionalitat andorrana, ha de presentar, segons el cas, el permís original en mal estat o un certificat de pèrdua o de robatori lliurat pel Servei de policia, i en ambdós casos una fotografia i, si es tracta d'una persona resident, ha de presentar a més, un certificat o una autorització de residència de qualsevol de les categories previstes per la llei, llevat de la temporal.

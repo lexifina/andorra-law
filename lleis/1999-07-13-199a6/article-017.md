@@ -1,0 +1,2 @@
+# Article 17
+A les carreteres de gran pendent, on l'encreuament presenti dificultats afegides, té preferència de pas el vehicle que circuli en sentit ascendent, sempre que les vies confluents siguin de la mateixa categoria. En vies de diferent categoria, té preferència el vehicle de la via preferent, llevat que el deturament del vehicle de la via secundària pugui crear una situació de perill evident o dificultats importants a la fluïdesa del trànsit en aquell indret. Sentit de circulació

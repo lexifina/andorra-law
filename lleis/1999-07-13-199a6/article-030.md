@@ -1,0 +1,3 @@
+# Article 30
+Les parades i els estacionaments s'han d'efectuar sempre al costat dret de la calçada, tan a prop de la vorera com sigui possible; en una via urbana de sentit únic es pot parar també al costat esquerre.
+L'estacionament de vehicles a la via pública ha d'efectuar-se obligatòriament als llocs previstos a aquest efecte, determinats per les zones d'aparcament lliures destinades a vehicles, o bé per les zones d'aparcament blaves o verdes, segons correspongui. Els vehicles que dificultin la circulació o es trobin indegudament estacionats poden ser retirats de la via pública pels agents de l'autoritat.

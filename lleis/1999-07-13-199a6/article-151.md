@@ -1,0 +1,10 @@
+# Article 151
+Les plaques de prova tenen com a missió permetre la circulació dins el territori andorrà de vehicles nous o d'ocasió, per tal de facilitar-ne la compravenda.
+La utilització de les plaques de prova s'ha de sotmetre a les disposicions següents:
+a) El Registre de Vehicles lliura a les persones esmentades a l'apartat c) que ho sol.licitin un permís de circulació vàlid per a un any natural, el qual permet la circulació de vehicles a prova per l'interior del Principat.
+Les plaques han d'anar correctament fixades al lloc previst pel fabricant.
+El vehicle que sigui conduït per un particular, sense anar acompanyat del representant del titular de la placa de prova, ha de portar una autorització del titular de la placa, que no pot ser superior a 48 hores. En tot cas, aquesta eventualitat ha d'estar degudament coberta per la pòlissa d'assegurança de cada matrícula de prova.
+b) Conjuntament amb el permís esmentat al paràgraf anterior, es lliuren al seu titular dues plaques de matrícula de prova, que han de situar-se a la part davantera i posterior del vehicle en cada ocasió. Les plaques han de contenir la menció "PROVA", han de portar gravat un número d'ordre i l'any del seu lliurament, que també és l'any de validesa. Cada permís de circulació correspon a un únic joc de plaques de matrícula de prova de la mateixa numeració.
+El permís de circulació i les plaques de matrícula de prova han de renovar-se anyalment, en el decurs del mes de desembre.
+c) El permís de circulació i les plaques de matrícula únicament es lliuren als representants o concessionaris de marques de vehicles, als venedors de vehicles nous o d'ocasió i als garatges legalment establerts i inscrits al Registre de Comerç i Indústria.
+d) L'interessat ha de presentar al Registre de vehicles un certificat al seu nom justificatiu de tenir contractada una pòlissa d'assegurança per una duració mínima d'un any, el qual té tots els efectes legals equivalents a la pòlissa de responsabilitat civil il.limitada de danys a tercers.

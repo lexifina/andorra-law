@@ -1,0 +1,5 @@
+# Article 74
+74.1. La utilització de pneumàtics de claus està autoritzada a partir del dia 1 de novembre i fins al 15 de maig de cada any. Si les condicions climàtiques ho exigeixen, es poden modificar les dates del període citat anteriorment, mitjançant edicte del Govern. Les dimensions i la forma dels claus poden ser determinades pel departament competent.
+74.2. En vehicles de tracció d'un sol eix, la utilització d'equipaments especials, com cadenes de neu, dispositius anàlegs o pneumàtics especials, és obligatòria en situacions on la calçada estigui totalment o parcialment nevada, i és obligatori circular a una velocitat extremadament moderada. Resta prohibit circular amb cadenes o mecanismes anàlegs quan la calçada estigui neta de neu.
+74.3. Els agents de l'autoritat poden immobilitzar els vehicles que, atenent l'estat nevat o gelat de la calçada, l'estat o les característiques dels pneumàtics, o les pròpies del vehicle, puguin raonablement representar un perill per a la circulació o un factor de congestió del trànsit.
+Limitacions de pes

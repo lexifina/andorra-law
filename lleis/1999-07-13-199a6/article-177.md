@@ -1,0 +1,5 @@
+# Article 177
+Els materials per als vidres destinats a ser utilitzats en els vehicles de motor i en els seus remolcs han de complir el Reglament núm. 43 de la Comissió Econòmica per a Europa de l'ONU o la directriu comunitària vigent en el moment de la matriculació del vehicle. En cas de substitució, el nou parabrisa ha de complir la redacció última de qualsevol de les normatives esmentades anteriorment.
+Les làmines transparents adhesives han de complir la normativa especificada a l'apartat anterior, conjuntament amb el vidre, i en cap cas poden instal.lar-se en el parabrisa davanter o els vidres laterals davanters fins a l'altura del muntant de les portes anteriors.
+Unicament per als vehicles de disseny no convencional o els vehicles antics, i en casos justificats degudament, el departament competent pot autoritzar la instal.lació de vidres que no compleixen els requisits establerts als apartats anteriors.
+Tot vehicle de més de 400 kg proveït d'un parabrisa davanter ha de disposar igualment d'un dispositiu eixugaparabrises eficaç.

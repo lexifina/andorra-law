@@ -1,0 +1,2 @@
+# Article 175
+El dispositiu de direcció de tot vehicle automòbil ha d'oferir les garanties de seguretat quant a la seva resistència, estabilitat i absència de joc excessiu, desgast o altres defectes que puguin comprometre la seguretat de funcionament. El volant i els comandaments principals dels vehicles industrials, comercials, els destinats a transport de persones i en tot cas els de més de 3.500 kg, han d'anar situats a la part davantera esquerra del vehicle i ha de ser possible manipular-los des de la part davantera esquerra del vehicle segons el seu sentit de la marxa.

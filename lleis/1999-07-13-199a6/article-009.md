@@ -1,0 +1,2 @@
+# Article 9
+En canviar de direcció, s'ha d'advertir els vehicles que circulin al darrere o en sentit contrari, amb antelació suficient, amb el braç o mitjançant indicadors òptics. Per desviar-se a la dreta, el conductor ha d'aproximar-se al costat dret de la calçada; si és a la part esquerra, ho ha de fer tan a la vora com li sigui possible de l'eix central de la calçada, sense sobrepassar-lo, quan la circulació s'efectuï en ambdós sentits, o pel costat esquerre quan la circulació sigui en sentit únic.

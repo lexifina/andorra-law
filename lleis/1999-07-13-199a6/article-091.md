@@ -1,0 +1,4 @@
+# Article 91
+Els vehicles automòbils i els seus remolcs, llevat de les motocicletes amb o sense sidecar, o els vehicles anàlegs, han d'estar proveïts de dos llums vermells situats a la part posterior, simètricament respecte a l'eix del vehicle i tan a prop dels costats exteriors com sigui possible. Aquests llums s'han d'encendre així que es faci ús del fre de servei i la seva intensitat, sense ser enlluernadora, ha de ser superior als corresponents a l'enllumenat ordinari.
+Els vehicles poden disposar a més d'un llum vermell addicional de frenada posterior, situat a la part central superior del vehicle. Aquest llum ha de tenir la mateixa intensitat que els altres llums de frenada del vehicle i no pot emetre senyal cap a la part davantera ni pot emetre cap senyal intermitent.
+Senyalització de serveis d'urgència i especials

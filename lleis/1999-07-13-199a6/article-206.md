@@ -1,0 +1,13 @@
+# Article 206
+206.1. Els quadricicles amb motor, també denominats "quads", de quatre o més rodes, així com els tricicles amb motor, també denominats "trikes", poden circular per la via pública sense les restriccions imposades als vehicles especials, sempre que compleixin les particularitats tècniques següents:
+Que la transmissió a les rodes anteriors, -posteriors o simultània segons de quin vehicle es tracti- estigui prevista de forma que en cap cas la relació de la tracció de dues rodes del mateix eix sigui del 100% a efectes de maniobrabilitat i seguretat.
+Que vagin proveïts de dispositius de frenada a l'eix o eixos on tenen la tracció, i compleixin el disposat per aquest Codi en relació amb la frenada de vehicles.
+Que compleixin la normativa de sorolls inclosa en aquest Codi.
+Que tinguin les instal.lacions i dispositius necessaris per preveure raonablement una circulació segura, tant per al conductor i/o acompanyants com per a tercers.
+206.2. Els vehicles d'aquestes característiques que puguin circular per la via pública sense les restriccions imposades als vehicles especials, han d'estar però sotmesos a les restriccions de circulació específiques següents:
+En cap cas poden sobrepassar els 60 km/h.
+Tant en vies urbanes com interurbanes només poden avançar altres vehicles ocupant el carril contrari i quan la se-nyalització i la situació ho permeti. En cap cas poden avançar altres vehicles dins el carril pel qual circulin, si per fer-ho no poden deixar una separació lateral amb el vehicle que pretenen avançar igual o superior a 2 m.
+206.3. Les motocicletes i automòbils de competició matriculats que per les seves característiques tinguin limitada la circulació, poden circular excepcionalment per la via pública fora de competició, quan es desplacin en ocasió de proves preparatòries, demostracions o manifestacions esportives.
+206.3/1. Durant la circulació per la via pública, no poden sobrepassar en cap cas els 60 km/h.
+206.3/2. Han de circular amb marxes llargues i sense produir sorolls ni acceleracions innecessaris.
+206.3/3. No obstant això, no poden circular en les condicions exposades en aquest article aquells vehicles de competició que no reuneixin les condicions mínimes de seguretat, visibilitat, frenada, o altres equivalents que raonablement facin perillosa la seva circulació per la via pública ni aquells que no tinguin coberts, per una companyia d'assegurances legalment autoritzada a Andorra, els riscs que es puguin derivar de la seva circulació per la via pública en les condicions descrites en aquests article. Circulació de motos de neu i vehicles anàlegs

@@ -1,0 +1,3 @@
+# Article 94
+Cal substituir l'enllumenat de carretera pel d'encreuament tan bon punt com s'adverteixi la possibilitat d'enlluernar els conductors de vehicles que circulin en sentit contrari encara que aquests vehicles no compleixin aquesta prescripció, i no s'ha de restablir l'enllumenat de carretera fins a ultrapassar, en l'encreuament, la posició del conductor del vehicle creuat.
+S'ha de guardar la mateixa precaució respecte als vehicles que circulin en el mateix sentit i quan els seus conductors puguin ser enlluernats pels miralls retrovisors; no s'ha d'utilitzar l'enllumenat de carretera quan el vehicle que precedeix es trobi a menys de 150 m de distància. Enlluernament

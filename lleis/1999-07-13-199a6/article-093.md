@@ -1,0 +1,7 @@
+# Article 93
+Durant la nit i quan no hi hagi visibilitat suficient per manca de llum, s'han de seguir les normes generals d'utilització de l'enllumenat següents:
+93.1. A les vies urbanes, tant si estan prou il.luminades com si no, i als túnels, les autopistes i les autovies suficientment il.luminats s'ha de fer ús de l'enllumenat d'encreuament.
+93.2. A les vies interurbanes, als túnels, les autopistes i les autovies insuficientment il.luminats s'ha d'utilitzar l'enllumenat de carretera, llevat de les situacions en les quals hagi de ser substituït pel d'encreuament, segons s'indica més endavant. Tant en vies urbanes com interurbanes i en circumstàncies en les quals minvi sensiblement la visibilitat, com en casos de boira, pluja intensa, neu o pas per túnels, encara que estiguin il.luminats, s'ha d'utilitzar l'enllumenat d'encreuament i/o el de boira, si se'n disposa.
+93.3. Si per inutilització o avaria irreparable en ruta de l'enllumenat corresponent, s'ha de circular amb un enllumenat d'intensitat inferior s'ha de reduir la velocitat i tan aviat com sigui possible procedir a la reparació de l'enllumenat avariat.
+Si l'avaria afecta l'enllumenat d'encreuament i només es disposa de l'enllumenat de carretera, de forma excepcional i fins a poder ser reparat, s'han de prendre les mesures adequades per no enlluernar els altres usuaris.
+Variació del tipus d'enllumenat en funció de la circulació

@@ -1,0 +1,2 @@
+# Article 124
+Es prohibeix conduir amb una taxa d'alcohol a la sang superior a 0,5 g/l excepte en el cas dels conductors dels vehicles especials, els industrials, els de transport de mercaderies, els de transport de matèries perilloses i els de transport públic o privat de passatgers, atenent a la superior perillositat o sinistralitat potencial en cas d'accident, la taxa d'alcohol a la sang és de 0,2 g/l.

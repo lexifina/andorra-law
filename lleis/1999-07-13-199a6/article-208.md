@@ -1,0 +1,10 @@
+## Capítol X. Circulació de bicicletes i vehicles anàlegs
+# Article 208
+Els conductors de bicicletes i altres vehicles moguts per l'energia dels seus conductors, han d'atenir-se a les normes generals de circulació que els siguin aplicables i, a més, a les especials contingudes en aquest capítol.
+Queda rigorosament prohibida la utilització en la via pública de patins, monopatins o similars i de tota mena de vehicles mancats de mecanismes que permetin el seu funcionament autònom.
+208.1. En tota classe de vies públiques, els vehicles a què es refereix aquest capítol han de circular sempre pels carrils que els són específicament destinats. En defecte de l'existència d'aquests carrils, han de circular pel costat dret de la zona corresponent al sentit de la seva marxa i al més a prop possible de les voreres, sense envair-les, encara que llurs conductors els portin a la mà desmuntats.
+208.2. Sempre que els conductors sentin l'avís d'un altre vehicle que prova d'avançar-los, han de moderar la marxa i apartar-se a la dreta tant com els ho permeti l'amplada de la calçada.
+208.3. Resta prohibit que aquests vehicles circulin en posició paral.lela quan en circulen dos o més. Al contrari, han d'anar un darrere l'altre i ocupar la situació paral.lela només al moment d'efectuar l'avançament. Quan en la direcció de marxa de les bicicletes hi hagi dos carrils es pot ocupar la posició paral.lela a condició que no envaeixin el carril de l'esquerra i que no siguin més de dos vehicles.
+208.4. Resta prohibit que en una bicicleta construïda per a una sola persona n'hi vagi una altra, encara que s'hi col.loquin peces accessòries.
+208.5. Les bicicletes poden avançar altres vehicles pel costat dret, quan entre els vehicles i la vora de la calçada quedi un espai lateral lliure no inferior a 2 m.
+208.6. Durant la nit i en general en condicions de visibilitat reduïda els conductors dels vehicles especificats en aquest article, han de portar instal.lat, com a mínim, un dispositiu lluminós a la part davantera i un dispositiu reflectant a la part de darrera.

@@ -1,0 +1,6 @@
+# Article 146
+Per donar de baixa un automòbil inscrit en el Registre, el seu titular ha de procedir a fer un lliurament del joc de plaques de matrícula a l'Automòbil Club d'Andorra, el qual expedeix un certificat justificatiu que l'interessat tramet al Registre juntament amb la carta groga, un certificat de pèrdua o robatori d'aquesta carta lliurat pel Servei de policia, o bé una declaració jurada del propietari conforme el vehicle li pertany.
+És obligatori per a tothom donar de baixa del Registre tot vehicle automòbil que, deixi de circular definitivament a causa del seu mal estat.
+Els vehicles donats de baixa que no hagin estat exportats poden ser donats d'alta novament pel seu últim titular registral, acollint-se a les prescripcions de l'article 145. En aquest cas, el titular ha de presentar una declaració jurada de la propietat del vehicle i si compleix les condicions ja esmentades satisfer novament les taxes o arbitris determinats per a la matriculació de vehicles.
+Els vehicles donats de baixa del Registre per canvi de residència del seu titular, poden ser novament matriculats a Andorra, malgrat que en el moment de la seva rematriculació tinguin una antiguitat superior a tres anys, sempre que entre la baixa i la rematriculació no hagi transcorregut més d'un any.
+Plaques de matrícula

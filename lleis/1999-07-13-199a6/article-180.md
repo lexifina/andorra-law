@@ -1,0 +1,2 @@
+# Article 180
+Tot vehicle ha d'estar proveït d'un aparell productor de senyals acústics per ser utilitzat pel conductor sense abandonar el volant de direcció. El so d'aquest dispositiu no pot ser estrident, ni multisó, ni similar al produït per altres vehicles dels serveis d'urgència. Els aparells de senyals acústics que s'instal.lin en un vehicle, en substitució dels d'origen, han d'estar degudament homologats per un dels països de la Unió Europea.

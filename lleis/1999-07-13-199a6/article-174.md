@@ -1,0 +1,3 @@
+# Article 174
+Tot automòbil ha de portar unes proteccions a les rodes o parafangs per evitar que durant la marxa puguin produir-se esquitxos a les plaques de matrícula, als dispositius de l'enllumenat del propi vehicle i als altres vehicles. Es permet la instal.lació en vehicles de turisme de faldons específics que evitin la projecció d'aigua o altres elements als altres vehicles. En tot cas els faldons han de tenir unes dimensions que no presentin cap risc o perill per a la seguretat de les persones i/o les coses i han de ser homologats.
+En els vehicles industrials de més de 3.500 kg és obligatori l'ús de faldons, amb les dimensions que determini el departament competent.

@@ -1,0 +1,6 @@
+# Article 164
+164.1. En cap cas no pot ser autoritzada la matriculació de vehicles construïts fora de l'activitat industrial d'una empresa nacional o estrangera legalment establerta al seu país i autoritzada per a la fabricació de vehicles.
+164.2. Tampoc no pot ser autoritzada la matriculació de vehicles de qualsevol classe, construïts o modificats a partir de kits o transformacions, per convertir-los en un tipus diferent de l'original, o reconstruïts mitjançant reparacions, transformacions o modificacions d'un o més models originals. Tampoc aquells vehicles que provinguin de transformacions de la mateixa o distinta marca de fabricació o muntatge.
+164.3. El serveis del departament competent han de rebutjar les sol.licituds de matriculació dels vehicles reconstruïts, sigui quin sigui l'origen de les peces o els elements utilitzats, que no compleixin el que s'especifica tot seguit.
+164.4. Com a excepció als tres apartats anteriors, poden ser matriculats aquells vehicles muntats a partir de kits, transformats, modificats o reconstruïts que ho hagin estat mitjançant procediments, peces o elements degudament homologats pel país fabricant, o per algun dels estats membres de la Unió Europea, sempre que el vehicle resultant gaudeixi dels elements de seguretat bàsics i estigui comprès en una de les categories d'aquest Codi.
+Automòbils de museu o antics

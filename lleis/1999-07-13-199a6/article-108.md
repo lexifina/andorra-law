@@ -1,0 +1,4 @@
+# Article 108
+Tot conductor d'un vehicle automòbil en circulació ha de portar la llicència o el permís de conduir i presentar-lo quan li ho demanin l'autoritat o els seus agents. S'exceptuen els aprenents, els quals hauran d'anar acompanyats d'un instructor legalment autoritzat.
+Les fotocòpies legalitzades d'un permís de conduir no poden substituir en cap cas el permís original.
+S'admet la possibilitat que un aspirant al permís de conduir no estigui inscrit a cap autoescola i efectuï l'examen amb un vehicle no predisposat per a l'ensenyament; no obstant això, aquest vehicle ha de tenir el comandament del fre de mà en un lloc accessible per a l'acompanyant. Igualment, aquest vehicle ha de disposar d'una ampliació en la pòlissa d'assegurança, de manera que hi estiguin previstes totes les responsabilitats en cas d'accident durant l'examen.

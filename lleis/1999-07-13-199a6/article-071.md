@@ -1,0 +1,14 @@
+# Article 71
+Es prohibeix transportar les persones de forma diferent de la que es determina en el present article.
+71.1. El nombre de persones que transporta un vehicle no pot ser superior al de les places que té autoritzades, i en cap cas pot sobrepassar-se entre els passatgers i l'equipatge el pes màxim autoritzat per a cada vehicle.
+71.2. A l'efecte del còmput del nombre de persones transportades:
+a) El menor d'edat compta una plaça.
+b) En els automòbils autoritzats per al transport escolar i d'infants, s'aplica el que estableix l'article 188.
+71.3. Es prohibeix el transport dels infants de menys de deu anys als seients davanters d'un vehicle que disposi de més seients posteriors. nicament s'autoritza aquest supòsit en els vehicles que no tinguin coixí de seguretat o que tinguin el dispositiu de desconnexió del coixí de seguretat activat, i utilitzant seients de seguretat per als menors o d'altres dispositius especialment concebuts per a ells i que estiguin degudament homologats pel departament competent o per les autoritats competents de qualsevol estat membre de la Unió Europea.
+Els menors de 10 anys d'estatura inferior a 1,5 m, han d'utilitzar un seient de seguretat o d'altres dispositius especialment concebuts per la seva retenció per ells adaptats a la seva talla i al seu pes, i que estiguin degudament homologats per qualsevol estat membre de la Unió Europea o pel departament competent.
+Els infants menors de deu anys transportats en vehicles que no tinguin seients posteriors, han de ser transportats amb les màximes mesures de seguretat.
+En tots els casos, els sistemes de retenció han de ser almenys equivalents a les disposicions del Reglament núm. 44
+annex a l'Acord de Ginebra, de 20 de març de 1958.
+71.4. Està prohibit transportar persones en emplaçaments diferents dels destinats i condicionats per a elles als vehicles. No es poden transportar persones a les caixes dels camions, de les camionetes o en altres llocs no destinats al transport de persones. Tampoc es poden transportar persones als remolcs ni als semiremolcs, si no estan específicament construïts amb aquesta finalitat. En tot cas, aquest tipus de transport necessita autorització especial del departament competent, i el sol.licitant ha de predeterminar el recorregut que ha d'efectuar el vehicle. Aquests tipus de vehicles només poden circular a una velocitat inferior a 40 km/h, en calçades el pendent de les quals sigui inferior al 5 % i sempre que el trajecte permeti unes condicions òptimes de maniobrabilitat i seguretat.
+71.5. Els vehicles autoritzats a transportar simultàniament persones i mercaderies, han d'anar proveïts d'una protecció adequada a la càrrega que transporten, de forma que no ha de destorbar els ocupants ni poder danyar-los en cas que sigui projectada.
+Cinturons de seguretat o altres sistemes de retenció

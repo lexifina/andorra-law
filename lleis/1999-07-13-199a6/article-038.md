@@ -1,0 +1,8 @@
+# Article 38
+Les operacions de càrrega i descàrrega s'han d'efectuar als llocs previstos a l'efecte a la via pública per aquells vehicles que disposen de targeta de transport vigent a Andorra, o alternativament als llocs destinats a aparcament. Excepcionalment, quan sigui imprescindible efectuar-les a la via pública, s'han de realitzar sense ocasionar perills ni pertorbacions greus al trànsit dels altres usuaris i tenint en compte les normes següents:
+a) S'han de respectar les disposicions sobre les parades i els estacionaments, i a més a més, les que dictin les autoritats competents sobre les hores i el temps adequats.
+b) S'han d'efectuar, sempre que sigui possible, pel costat del vehicle més pròxim a la vora de la calçada.
+c) S'han de realitzar amb els mitjans suficients per aconseguir la màxima celeritat i procurar evitar sorolls i molèsties innecessaris. Queda prohibit dipositar mercaderies o qualsevol tipus d'objecte a la calçada, a la vorera i a les zones destinades als vianants.
+d) Les operacions de càrrega i descàrrega de les mercaderies molestes, nocives i insalubres o perilloses, així com les que comporten especialitats en la manipulació o l'estiba, s'han de regir, a més a més, per les disposicions específiques que regulen la matèria.
+e) Els vehicles proveïts de plataformes elevadores per a la càrrega i descàrrega de mercaderies han de disposar de dispositius de senyalització de la plataforma, per evitar qualsevol dany a tercers, tant en el moment de maniobrar, com en el moment en què les mercaderies estan disposades per procedir a l'operació de càrrega o descàrrega.
+Senyals acústics i òptics

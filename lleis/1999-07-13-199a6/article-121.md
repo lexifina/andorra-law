@@ -1,0 +1,3 @@
+# Article 121
+Si la sol.licitud de renovació s'efectua tres mesos després de la data de caducitat del permís que es pretén renovar, se satisfà l'equivalent al doble de l'import percebut normalment per aquest servei.
+El titular d'un permís caducat que desitgi renovar-lo, només pot sol.licitar la renovació quan el termini transcorregut des de la data d'expedició de l'últim permís caducat sigui inferior al doble del termini de validesa de la categoria que pretén renovar. Si el termini és superior el sol.licitant ha de superar novament les proves de maniobres, circulació i complementàries que li siguin indicades pel departament competent.

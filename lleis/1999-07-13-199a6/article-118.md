@@ -1,0 +1,4 @@
+# Article 118
+118.1. Cada sol.licitud de permís de conduir dóna dret a l'interessat a presentar-se com a màxim a tres convocatòries d'examen per realitzar les proves exigides per a la seva concessió. Excepte en casos de força major degudament justificats, aquest dret caduca en el termini de tres mesos comptats a partir de la data de registre administratiu de la sol.licitud.
+118.2. Les proves que han de realitzar els aspirants segons la classe del permís de conduir, així com les modalitats de superació de les diferents proves s'especifiquen en l'article 132. Les proves per a l'obtenció de cada permís es realitzen en les dates que estableixi a l'efecte el departament competent.
+118.3. La declaració d'aptitud de la prova teòrica, té un termini de caducitat de sis mesos, comptat a partir de la declaració indicada.

@@ -1,0 +1,2 @@
+# Article 90
+Els vehicles automòbils i els remolcs, llevat de les motocicletes i els vehicles anàlegs, han de portar un dispositiu de senyalització d'emergència que ha de posar en servei simultàniament tots els indicadors de direcció. L'engegada d'aquest dispositiu s'assenyala al quadre de comandament del vehicle per l'encesa d'un llum intermitent i utilitzar-lo no eximeix el conductor de complir allò que disposa l'article 27.3. en cas de manca de visibilitat. Senyalització de frenada

@@ -1,0 +1,6 @@
+# Article 158
+Per a l'obtenció o la renovació d'una matrícula temporal (MT), s'admeten procuracions o poders.
+Les renovacions de les matrícules temporals poden dur-se a terme també per correu, a través de l'Automòbil Club d'Andorra, sempre que no hi hagi alteració de les dades del vehicle i el titular. La tramesa de documents s'ha de fer per correu certificat, i en tot cas, el titular n'és responsable fins que l'Automòbil Club d'Andorra hagi rebut la documentació pertinent.
+La documentació renovada, quan és tramesa al seu titular tampoc no és responsabilitat de l'Automòbil Club d'Andorra ni del mateix Govern des del moment en què li és tramesa. Prèviament al lliurament de la documentació, es pot sol.licitar al titular el pagament de les taxes o arbitris que hagin estat ocasionats amb motiu de la renovació de la matrícula.
+El període de renovació de la matrícula no comporta de forma automàtica el manteniment de les condicions administratives de la matrícula que es pretén renovar. En tot cas, el titular és responsable davant tercers de l'ús del vehicle durant aquest període.
+Els poders o les procuracions atorgats a l'estranger a efectes d'aquest article han de fer-se davant notari, o autoritat consular competent.

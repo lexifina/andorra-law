@@ -1,0 +1,3 @@
+# Article 67
+Quan es transportin peces o màquines indivisibles de dimensions tals que el vehicle sobrepassi les dimensions o els pesos indicats als articles 76, 77 i 78, per circular s'ha de demanar una autorització administrativa de transport especial. L'interessat ha d'informar a més el Servei de policia a fi que s'adoptin les disposicions necessàries. Aquestes autoritzacions s'han de demanar amb una antelació mínima de 48 hores.
+El vehicle ha d'anar senyalitzat per la part davantera amb una placa quadrada de color groc de 20 cm d'amplada. A la nit, la placa s'ha d'il.luminar o ser reflectora.

@@ -1,0 +1,9 @@
+# Article 147
+Després que li sigui presentat el certificat de matriculació, l'Automòbil Club d'Andorra lliura al titular un joc de plaques de matrícula, corresponent al número de matrícula concedit pel Registre, i el distintiu nacional AND.
+Les matrícules i el distintiu AND lliurats per l'Automòbil Club d'Andorra, s'han de portar obligatòriament al vehicle. Resta prohibit portar un altre distintiu nacional que no sigui l'andorrà, com també inscripcions a l'entorn immediat de les plaques de matrícula.
+Les plaques de matrícula s'han de situar als llocs previstos pel fabricant i el distintiu AND s'ha de situar a la part posterior del vehicle tan a prop de la matrícula com sigui possible. No s'accepten plaques situades en llocs no protegits o poc visibles. No és permés circular amb plaques diferents a la part del davant de la del darrere del vehicle. Tampoc es permés circular amb un remolc o semiremolc acoblat a un vehicle amb matrícula andorrana, que porti una placa de matrícula d'un país que no sigui Andorra o amb el qual no s'hagi establert el conveni bilateral corresponent que autoritzi aquest tipus de circulació.
+Les persones que vulguin obtenir un joc nou de plaques de matrícula a causa del mal estat de les que posseeixen, s'han d'adreçar al departament competent per lliurar-hi el joc de plaques en mal estat.
+En cas de pèrdua o robatori, l'interessat ha d'obtenir el certificat corresponent de pèrdua o robatori, lliurat pel Servei de policia. Aquest certificat ha de ser lliurat al departament competent en el moment de demanar el nou joc de plaques de matrícula.
+Aquest Codi inclou el catàleg de plaques de matrícula vigents a Andorra. No obstant això, el Govern pot modificar o afegir altres modalitats de matrícula, d'acord amb la
+disposició addicional primera.
+Ciclomotors, motocicletes i vehicles anàlegs, fins a 125 cc

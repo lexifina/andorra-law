@@ -1,0 +1,3 @@
+# Article 127
+Els candidats al permís de conduir i les persones que han de renovar-lo amb la periodicitat indicada a l'article núm. 119, han de ser sotmesos a un examen mèdic per comprovar que no tenen cap malaltia o incapacitat física o psíquica incompatible amb el lliurament o la renovació del permís de conduir.
+S'han de sotmetre a una revisió mèdica, després d'un informe previ del Servei de policia i a requeriment del Ministeri d'Interior, els conductors implicats en un accident de circulació, els quals hagin donat símptomes d'una afecció o defecte incompatible amb la conducció, que hagin estat adquirits o detectats posteriorment a l'obtenció del permís de conduir.
