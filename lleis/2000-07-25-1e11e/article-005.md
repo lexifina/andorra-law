@@ -1,0 +1,2 @@
+# Article 5
+Gaudeixen d'exempció, en totes les jurisdiccions, les actuacions i els procediments seguits a instància de persones que hagin estat, prèviament i judicialment, declarades en estat de pobresa o insolvència i els hagi estat atorgada assistència lletrada d'ofici. Sense perjudici que, per raó d'haver guanyat el plet, venir a millor fortuna i en funció del que disposi la resolució judicial ferma respecte a les costes, han de liquidar en període d'execució de sentència les taxes que siguin procedents.

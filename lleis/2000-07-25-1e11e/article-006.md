@@ -1,0 +1,5 @@
+# Article 6
+1. Les taxes judicials es recapten pel sistema de segell o timbre adhesiu, el qual és aposat, pel valor que li correspongui, en la part superior del primer full de l'original del document objecte d'imposició. En ser admès a tràmit el document, l'òrgan jurisdiccional receptor procedeix a estampillar el segell o el timbre, amb indicació de la data. La taxa es considera liquidada i ingressada a tots els efectes i sense solució de reembossament.
+2. Els òrgans jurisdiccionals fan la verificació prèvia i no poden admetre a tràmit cap document pel qual no quedi degudament liquidada la taxa judicial de conformitat amb els preceptes d'aquesta Llei.
+3. Mentre no sigui estampillat, ni trencat o malmès, encara que hagi estat transferit d'un document a un altre, el segell conserva el seu valor alliberatori de la taxa.
+4. En el cas de reclamacions derivades de la responsabilitat civil en els judicis penals, la liquidació de la taxa es fa en el moment de la sol·licitud d'execució de la sentència, i el pagament, en el moment de l'execució de la sentència.
