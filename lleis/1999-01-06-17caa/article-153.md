@@ -1,0 +1,3 @@
+## Secció cinquena. Dels informes de l'acusació i la defensa
+# Article 153
+Practicades totes les proves necessàries, el tribunal demana a les parts que manifestin si eleven a definitives o modifiquen les seves conclusions provisionals, i després dóna la paraula, perquè puguin informar al Ministeri Fiscal i als advocats de l'acusador particular, al de l'actor civil, de les persones civilment responsables i dels processats, per aquest ordre. Acabats els informes, el president del tribunal pregunta als processats si tenen alguna cosa a manifestar i en cas afirmatiu els escolta. Seguidament es declara conclòs el judici per sentència. El secretari estén acta de l'actuació amb la màxima fidelitat possible.

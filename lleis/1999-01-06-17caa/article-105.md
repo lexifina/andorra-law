@@ -1,0 +1,2 @@
+# Article 105
+En les causes seguides per delictes de tràfic de drogues, de segrest, de tràfic il.legal d'armes, de proxenetisme, de terrorisme o de blanqueig de diners o de valors provinents dels dits delictes, així com d'associació per atemptar contra el Principat o l'ordre constitucional, el batlle, mentre duri la tramitació, pot ordenar la incomunicació dels presos durant el temps necessari per aclarir els fets, sense que pugui durar més de vuit dies. En tot cas, la incomunicació s'ha de decretar per resolució motivada.

@@ -1,0 +1,2 @@
+# Article 58
+El batlle ha de preguntar a l'encausat particularment on es trobava el dia i l'hora en què es cometé el delicte, en companyia de quines persones i en què s'ocupava; si sap qui són els autors, els còmplices o els encobridors dels fets; si té coneixement dels motius que determinaren la comissió del delicte i de les mesures que es prengueren per portar-lo a terme, i tot allò que, a més, es cregui necessari per esbrinar la veritat dels fets.

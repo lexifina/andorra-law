@@ -1,0 +1,2 @@
+# Article 122
+Realitzades les proves sol.licitades, o desestimades per resolució motivada, el batlle dicta aute de conclusió del sumari, que es notifica al querellant particular o privat, a l'actor civil, al processat i a les persones declarades responsables civils, i els convoca a tots perquè compareguin davant del tribunal en el termini de quinze dies. Així mateix, es notifica al Ministeri Fiscal i es trameten els autes al tribunal competent.

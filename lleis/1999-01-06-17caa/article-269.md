@@ -1,0 +1,2 @@
+# Article 269
+Les certificacions poden ser positives o negatives. Les primeres publiquen antecedents, les segones es limiten a constatar que la persona interessada no té antecedents. Les certificacions només poden lliurar-se a petició d'un òrgan judicial, de la persona interessada o de la persona autoritzada per ella. Les certificacions positives comprenen tots els antecedents no cancel.lats que s'hi refereixin i constin en qualsevol dels llibres del Registre.

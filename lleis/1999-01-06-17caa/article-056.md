@@ -1,0 +1,2 @@
+# Article 56
+En la primera declaració, el batlle ha de començar per assegurar-se de la identitat de l'encausat, interrogant-lo sobre els seus noms, cognoms, renom, edat, lloc i data de naixement, domicili, professió, mitjans de subsistència, nacionalitat, estat civil i situació familiar. Després ha d'informar-lo dels fets que se li imputen, llegint la declaració prestada davant la policia, si n'ha fet, i finalment rep les seves explicacions si accepta de contestar.

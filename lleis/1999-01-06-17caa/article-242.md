@@ -1,0 +1,2 @@
+# Article 242
+Els encausats en els delictes de circulació de vehicles de motor poden, amb l'autorització prèvia del batlle, absentar-se del Principat, fins i tot si són estrangers, sempre que deixin suficientment garantides les responsabilitats pecuniàries derivades del fet i que designin una persona o una entitat amb domicili al territori del Principat, per tal de rebre les notificacions i les citacions.

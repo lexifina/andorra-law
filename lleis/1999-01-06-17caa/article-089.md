@@ -1,0 +1,2 @@
+# Article 89
+El batlle ha d'ordenar al metge forense l'elaboració de l'informe corresponent, en el qual s'ha d'expressar el temps que el perjudicat ha tardat o pot tardar a quedar curat, el temps durant el qual ha estat o es preveu que estarà impedit per al seu treball habitual, i si li ha quedat o li quedarà vici, defecte, deformitat o perjudici estètic rellevant amb especificació de les seqüeles.

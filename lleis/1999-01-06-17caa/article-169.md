@@ -1,0 +1,2 @@
+# Article 169
+El judici és públic i comença amb la lectura de la denúncia o els fonaments que han donat lloc a la seva iniciació; seguidament es procedeix a l'examen dels testimonis convocats i a la pràctica de les altres proves acordades d'ofici o proposades pel Ministeri Fiscal o per les parts que hagin estat acceptades. A continuació, fa ús de la paraula el Ministeri Fiscal, l'acusació privada, l'actor civil i, finalment, l'inculpat, el qual exposa ell mateix o per mitjà del seu advocat el que cregui convenient per a la seva defensa.

@@ -1,0 +1,2 @@
+# Article 147
+Queden dispensats de l'obligació de declarar els sacerdots i els advocats quan coneguin els fets per raó del seu ministeri o la seva professió, els ascendents i descendents en línia directa, el consort o la persona amb qui estigui unit per situació de fet equivalent i els germans del processat. Qualsevol altra dispensa per motiu de secret professional ha de ser apreciada pel tribunal. En aquests casos el tribunal ha d'advertir els testimonis, que, si volen, poden declarar, prestant promesa o jurament.

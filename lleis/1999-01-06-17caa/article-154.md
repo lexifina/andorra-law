@@ -1,0 +1,3 @@
+# Article 154
+Si el tribunal entén que el fet objecte del judici ha estat qualificat pel Ministeri Fiscal o les parts amb error evident, pot formular la tesi i suggerir al fiscal i a les parts que donin el seu parer, que han d'emetre en aquell acte, llevat que sol.licitin l'ajornament de la vista de la causa; en aquest cas, es procedeix novament, d'acord amb el que disposen els articles 123 i següents, a la celebració d'una nova vista, en la qual donen la seva opinió respecte de la qualificació proposada pel tribunal.
+En tot cas el tribunal imposa la pena dins els límits de la pena sol.licitada pel Ministeri Fiscal o els acusadors privats o particulars, sense perjudici que pugui qualificar diferentment, si ha formulat tesi.

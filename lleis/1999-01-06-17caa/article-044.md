@@ -1,0 +1,3 @@
+# Article 44
+Quan un batlle o un tribunal que estigui instruint o jutjant tingui coneixement, per mitjans diferents de la querella i de la denúncia, que s'ha comès un fet delictiu, només és competent en la mesura en què el fet delictiu estigui en connexió. En el cas que no sigui competent, s'ha de designar el batlle instructor que correspon per torn per instruir la causa.
+Els altres tribunals només han de posar els fets en coneixement del president del Tribunal de batlles si consideren que no tenen connexió amb els que estan jutjant, a l'efecte que es designi el batlle instructor corresponent.

@@ -1,0 +1,2 @@
+# Article 164
+El batlle competent, després de revisar l'expedient policial, fins i tot abans d'haver prestat davant seu declaració escrita l'inculpat, pot acordar, verbalment i sense cap altre tràmit, per ordenança penal, la imposició conjunta o alternativa de les penes assenyalades per a les contravencions penals fins a un màxim de la meitat d'aquelles, i de les penes assenyalades pels delictes menors fins a un màxim d'un mes de presó, un any de retirada del permís de conduir i dues-centes mil pessetes de multa.

@@ -1,0 +1,3 @@
+# Article 53
+El batlle, d'ofici o a instància de part, pot completar l'enquesta de la personalitat mitjançant un examen mèdic i psiquiàtric.
+Especialment, pot ordenar aquest examen quan la naturalesa de les infraccions, les circumstàncies en què han estat comeses o bé el capteniment de l'inculpat, fan sospitar que aquest presenta un caràcter anormal.

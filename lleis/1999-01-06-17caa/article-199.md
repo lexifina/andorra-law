@@ -1,0 +1,4 @@
+# Article 199
+El recurs d'apel.lació ha d'interposar-se dins els 15 dies següents al de la notificació de la resolució contra la qual es recorre, davant el mateix tribunal que l'ha dictat, mitjançant un escrit signat per un advocat i acompanyat de les còpies literals necessàries per al Ministeri Fiscal i per a cada part del procés a qui l'estimació del recurs pugui afectar, que seran considerades part recorreguda.
+L'escrit ha de contenir les proves que es proposin, els motius en què el recurrent basa el seu recurs i la súplica que es formuli pel cas que el recurs sigui estimat, dins els límits de les peticions efectuades davant el tribunal de primera instància.
+La designació d'advocat, sigui per les parts, sigui d'ofici davant el tribunal que ha dictat la resolució contra la qual es recorre, continua produint efectes durant el recurs, salvat el cas de nova designació.

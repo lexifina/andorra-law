@@ -1,0 +1,4 @@
+# Article 186
+Les notificacions s'efectuen mitjançant el lliurament d'una còpia o una fotocòpia autenticada de la resolució, on ha de constar el dia, l'hora i el lloc en què es practiqui l'esmentada diligència, amb la signatura de la persona que rep la notificació, sota la fe del secretari. Quan la notificació s'efectuï al domicili de les parts, el secretari pot delegar el nunci per portar-la a la pràctica.
+La notificació a persones residents a l'estranger es pot efectuar mitjançant la comissió rogatòria corresponent. També és vàlida la notificació si s'ha efectuat per carta certificada amb acusament de recepció per part del mateix interessat si les autoritats del país de residència no s'oposen a aquesta forma de notificació, sense perjudici del que disposin els convenis internacionals sobre la matèria.
+La notificació a persones en parador desconegut al Principat, pot efectuar-se igualment mitjançant edicte.

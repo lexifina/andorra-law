@@ -1,0 +1,2 @@
+# Article 166
+Si s'ha formulat oposició, l'ordenança queda sense efecte i la causa ha de ser jutjada per un altre batlle, com a Tribunal Unipersonal, que correspongui per torn, o, en cas de delicte menor, després de practicar la instrucció, pel Tribunal de batlles. El batlle que hagi acordat l'ordenança no pot formar part del tribunal i inicia la instrucció del sumari prenent declaració al processat o a l'inculpat i practicant aquelles diligències que convinguin.

@@ -1,0 +1,2 @@
+# Article 213
+El compliment dels arrestos de cap de setmana pot fer-se, segons com ho decideixi el tribunal, al Centre Penitenciari, en establiments habilitats a aquest efecte o al domicili propi mitjançant control monitoritzat; en aquest darrer cas, s'ha de fer amb el consentiment previ de l'interessat i amb les despeses a càrrec seu llevat que no disposi de recursos econòmics suficients. Correspon als tribunals fixar les condicions particulars de l'execució i els horaris.

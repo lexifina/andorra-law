@@ -1,0 +1,2 @@
+# Article 8
+Els membres del Ministeri Fiscal queden sotmesos al mateix règim de responsabilitats i incompatibilitats que aquesta Llei estableix per als batlles i els magistrats . La decisió d'abstenció és apreciada personalment pels membres del Ministeri Fiscal. Les parts que intervenen en un afer poden requerir, de forma motivada, l'abstenció d'un fiscal. Si es tracta d'un fiscal adjunt, la qüestió és resolta pel fiscal general. Si es tracta del fiscal general, és resolta pel Consell Superior de la Justícia. Contra la decisió no es pot interposar cap mena de recurs.

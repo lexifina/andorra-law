@@ -1,0 +1,2 @@
+# Article 21
+L'acció penal s'extingeix per l'amnistia, la prescripció i la mort de l'inculpat; però subsisteix la civil contra l'infractor o els seus hereus i drethavents, que solament pot exercir-se davant de la jurisdicció civil ordinària. L'indult no comporta l'extinció de l'acció penal, però s'ha de tenir en compte en el moment de l'execució de la pena. Llevat que el decret d'indult prescrigui el contrari, quan a un fet delictiu li sigui d'aplicació més d'un indult, s'apliquen tots de forma acumulada.

@@ -1,0 +1,2 @@
+# Article 144
+Una vegada el tribunal ha manat que es presenti a declarar un testimoni, li pregunta el nom, els cognoms, l'estat, l'edat i la professió; si coneix o no els inculpats i si hi té parentiu, amistat o qualsevol altra relació. Prestat el jurament o la promesa que se li exigeix, el tribunal i, després les parts, li poden fer les preguntes que considerin més oportunes i pertinents per aclarir els fets sobre els quals declari.

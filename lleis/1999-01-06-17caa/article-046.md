@@ -1,0 +1,3 @@
+# Article 46
+Les parts que hagin comparegut poden intervenir, a criteri del batlle instructor, si ho sol.liciten, en totes les diligències del procediment sumarial o en les diligències prèvies. També poden tenir coneixement de les actuacions i en poden obtenir còpia a càrrec seu, llevat que s'hagi decretat el secret de les actuacions.
+Durant la instrucció del sumari per delictes majors, el batlle, d'ofici, a proposta del Ministeri Fiscal o qualsevol de les parts, mitjançant aute motivat, pot decretar-ne el secret de la totalitat o d'una part, fent-ne peça separada en aquest darrer cas, fins a un termini màxim de sis mesos improrrogable, i amb l'obligació d'aixecar el secret sumarial almenys un mes abans de la conclusió del sumari.

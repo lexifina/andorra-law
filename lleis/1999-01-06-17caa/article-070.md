@@ -1,0 +1,5 @@
+# Article 70
+Els testimonis han de declarar separadament i secretament; després de prestar jurament o promesa se'ls ha d'interrogar pel que fa al nom, els cognoms, l'edat, el veïnatge, la professió o l'ofici; si coneixen o no l'encausat; si hi tenen parentiu, amistat o relació de qualsevol mena.
+El batlle els ha de deixar explicar sense interrupció sobre els fets i pot exigir els aclariments convenients. Si el batlle estima la seva presència necessària, pot convocar l'advocat de la persona inculpada i el Ministeri Fiscal, que poden assistir a la declaració dels testimonis. A la fi de la declaració poden demanar al batlle instructor que faci qualsevol pregunta que els sembli útil.
+No poden ser interrogades com a testimonis les persones contra les quals hi hagi elements d'inculpació suficients.
+Si de la declaració testifical es dedueixen indicis de participació delictiva del testimoni en el delicte que s'investiga o en un altre, el batlle ha d'aturar immediatament la declaració i ha de procedir a prendre-li una nova declaració d'acord amb el que disposa l'article 24 i l'article 51 i següents.

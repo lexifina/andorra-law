@@ -1,0 +1,2 @@
+# Article 183
+Les sentències que es dictin per delictes de circulació han de contenir, a més, els pronunciaments següents: invalidació del permís de conduir, en cas de condemna a la seva retirada definitiva; abonament total pel compliment de la condemna del temps que, durant la substanciació de la causa, hagi estat impedit el processat de l'ús de l'esmentat permís; retenció del permís de conduir pel temps que amb aquest abonament li falti per complir, i devolució del permís de conduir en cas d'absolució.

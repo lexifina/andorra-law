@@ -1,0 +1,4 @@
+# Article 200
+Interposat el recurs, el tribunal que ha dictat la resolució contra la qual es recorre remet la totalitat dels autes al tribunal competent, entrega una còpia del recurs al Ministeri Fiscal i a les parts recorregudes, i les cita perquè en el termini de 15 dies compareguin davant el tribunal competent.
+Dins el termini de la citació el Ministeri Fiscal i les parts recorregudes poden oposar-se al recurs i a les proves sol.licitades, i també interposar recurs d'apel.lació davant el mateix tribunal competent, dins el límit, però, pel que fa a les seves pretensions, d'aquelles ja sol.licitades en primera instància.
+El tribunal competent entrega còpia del nou recurs a les altres parts i al Ministeri Fiscal, que poden oposar-se a aquest recurs i a les proves sol.licitades, en el termini de 15 dies.

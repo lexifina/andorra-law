@@ -1,0 +1,2 @@
+# Article 65
+Si l'encausat es troba detingut, la primera declaració s'ha de rebre dins el termini de 24 hores a comptar del moment en què hagi estat posat a disposició del batlle. Transcorregut aquest termini, el batlle ha de dictar aute de processament decretant la llibertat o, si escau, la presó del detingut, després que, en aquest darrer cas, hagi escoltat les al.legacions del Ministeri Fiscal i de l'advocat designat si es troba present o de l'advocat de guàrdia.

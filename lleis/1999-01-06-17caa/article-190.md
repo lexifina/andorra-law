@@ -1,0 +1,4 @@
+# Article 190
+Les citacions als testimonis, els pèrits i les altres persones que hagin de comparèixer en la causa, la compareixença de les quals es consideri necessària o convenient per a la prossecució de la causa, les fa el secretari o el nunci amb les mateixes formalitats establertes a l'article 185 i següents per a les notificacions.
+A la cèdula de citació cal expressar, a més, que en cas de no comparèixer, l'interessat podrà ser conduït per la força pública, sense perjudici de la responsabilitat penal en què hagi pogut incórrer.
+La citació a persones residents a l'estranger pot efectuar-se mitjançant la comissió rogatòria corresponent. També és vàlida la citació, si s'ha efectuat per carta certificada amb acusament de recepció per part del mateix interessat, si les autoritats del país de residència no s'oposen a aquesta forma de notificació, sense perjudici del que disposin els convenis internacionals sobre la matèria.

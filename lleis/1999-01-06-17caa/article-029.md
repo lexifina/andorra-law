@@ -1,0 +1,2 @@
+# Article 29
+El batlle a qui es faci lliurament d'un detingut, la detenció del qual hagi ordenat ell mateix o hagi estat practicada preventivament per les autoritats o els agents del Servei de Policia, ha de dictar aute de processament ordenant la presó provisional o deixant la detenció sense efecte dins les 24 hores a partir del moment en què el detingut li ha estat lliurat, després d'audiència prèvia del Ministeri Fiscal i de l'advocat que li exposaran els motius en favor o en contra de la presó o la llibertat provisional.
