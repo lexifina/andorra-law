@@ -1,0 +1,1 @@
+# disposició addicional primera precedent.

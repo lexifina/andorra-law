@@ -1,0 +1,2 @@
+# disposició addicional primera precedent.
+L'entitat promotora o l'entitat bancària pot interposar recurs contra les resolucions del Govern, davant la Secció Administrativa del Tribunal de Batlles, en el termini de tretze dies hàbils a partir de l'endemà de la notificació de la cancel.lació o, en cas de silenci administratiu, en el termini de tretze dies hàbils a partir de l'endemà de la data límit establerta per a la notificació.

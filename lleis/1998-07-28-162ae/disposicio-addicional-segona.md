@@ -1,0 +1,2 @@
+# Disposició addicional segona
+Quan l'entitat bancària autoritzada no ha iniciat les seves activitats dins dels dotze mesos posteriors a la data d'atorgament de l'autorització a l'entitat promotora, el Govern, amb l'informe previ de l'INAF i el dictamen previ de la Comissió Superior de Finances, anul.la l'autorització i l'INAF cancel.la el dipòsit constituït per l'entitat promotora en aplicació de l'article 10 d'aquesta Llei i ingressa l'import corresponent al compte de Govern, en concepte de sanció per incompliment de les obligacions establertes en la
