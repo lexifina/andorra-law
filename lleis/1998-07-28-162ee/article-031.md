@@ -1,0 +1,11 @@
+# Article 31
+Espècies protegides
+31.1 La qualificació d'espècie protegida s'aplica a tota espècie animal de la fauna autòctona que requereixi una protecció especial. Les espècies protegides s'especifiquen reglamentàriament.
+31.2 La captura, la compra i la venda d'animals morts o vius pertanyents a espècies protegides, de parts o de productes obtinguts a partir d'aquestes espècies, estan prohibides.
+31.3 El ministeri responsable del Medi Ambient pot autoritzar la importació, l'exportació, el transport, la possessió, l'exhibició d'animals morts o vius pertanyents a espècies protegides, de parts o de productes obtinguts a partir d'exemplars d'aquestes espècies amb els permisos corresponents i els certificats del país d'origen.
+31.4 El ministeri responsable del Medi Ambient pot autoritzar, amb finalitats culturals i de difusió de les campanyes de protecció i conservació de la fauna, l'exhibició d'exemplars vius o morts pertanyents a espècies protegides, de parts o de productes obtinguts a partir d'exemplars d'aquestes espècies.
+31.5 El ministeri responsable del Medi Ambient pot comissar els exemplars vius o morts pertanyents a espècies protegides que estan en possessió de particulars o que són exposats per a la venda o l'exhibició pública que infringeixin aquesta Llei.
+31.6 Es prohibeix la destrucció intencional dels hàbitats de reproducció de les espècies protegides.
+31.7 En condicions estrictament controlades, el ministeri responsable del Medi Ambient pot autoritzar la captura en viu amb finalitats científiques, culturals, de reproducció en captivitat, de repoblació o de reintroducció en altres zones, d'exemplars adults d'algunes de les espècies protegides. En casos excepcionals i amb els mateixos fins, es pot autoritzar també la recollida d'ous i de cries.
+31.8 En cas d'animals morts, o d'animals ferits que s'han de sacrificar perquè no s'aconsegueix que es recuperin, el ministeri responsable del Medi Ambient en pot autoritzar la dissecació i la permanència posterior en centres de caràcter científic, cultural i educatiu.
+31.9 Només es permet la dissecació als particulars si es demostra la captura legal de l'animal, i es disposa de l'autorització prèvia del ministeri responsable del Medi Ambient. En cap cas s'autoritza la comercialització dels animals dissecats.
