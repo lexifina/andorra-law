@@ -1,0 +1,6 @@
+# Article 8
+Inici i instrucció
+1. L'Institut Nacional Andorrà de Finances inicia el procediment sancionador i efectua la instrucció de l'expedient corresponent.
+A aquest efecte, notifica la incoació de l'expedient als presumptes subjectes autors i/o responsables de la possible infracció, els n'informa i explícita els articles que estableixen la sanció corresponent. L'Institut Nacional Andorrà de Finances ordena la pràctica de les proves adequades per a l'esclariment dels fets.
+El plec de càrrecs junt amb l'exposició dels fets imputats, la referència dels preceptes legals infringits i la proposta de sanció que se'n deriva, es notifica a les persones imputades per tal que, dins el termini improrrogable de deu dies hàbils a comptar de l'endemà de la notificació, puguin contestar al.legant el que estimin convenient. Si de l'al.legació, se'n deriva la procedència de proves complementàries, es donarà coneixement del resultat d'aquestes i s'hauran de formular les al.legacions complementàries escaients en els deu dies hàbils subsegüents.
+2. L'Institut Nacional Andorrà de Finances, un cop acabada la instrucció, tramet l'expedient a la Comissió Superior de Finances amb la proposta de sanció que considera adient o, si així es deriva de les proves practicades, amb la proposta d'arxiu de l'expedient.

@@ -1,0 +1,9 @@
+# Article 12
+Mesures cautelars
+1. Un cop incoat el procediment amb la finalitat última de protegir el sistema financer i els interessos econòmics afectats, l'Institut Nacional Andorrà de Finances pot proposar a la Comissió Superior de Finances les mesures cautelars que cregui convenients per tal d'assegurar l'eficàcia de la resolució que pugui recaure.
+2. La Comissió Superior de Finances ha de determinar les eventuals mesures cautelars en el termini màxim de 24 hores a partir de la proposta de l'Institut Nacional Andorrà de Finances. En el cas en què la Comissió no es pugui reunir, és el Ministeri de Finances per delegació del Govern qui determini aquestes mesures.
+3. Aquestes mesures poden consistir a: restringir el camp d'actuació de les entitats; prohibir provisionalment la realització de determinats tipus d'operacions; disposar la suspensió provisional de les persones que, pel fet d'exercir càrrecs d'administració o direcció general, de dret o de fet, en entitats del sistema financer, apareguin com a presumptes responsables d'infraccions molt greus; nomenar administradors provisionals especificant l'abast de les seves competències.
+4. El temps que duri la suspensió provisional es computa a l'efecte del compliment de les eventuals sancions de suspensió.
+5. La Comissió Superior de Finances informa el Govern de les mesures de caràcter cautelar adoptades.
+6. Es pot interposar recurs contra la decisió de la Comissió Superior de Finances davant la Secció Administrativa del Tribunal de Batlles, en el termini de tretze dies hàbils a comptar de l'endemà de la notificació de la mesura adoptada.
+El recurs jurisdiccional no és suspensiu d'execució, d'acord amb el que disposa el Codi de l'Administració, salvades les facultats discrecionals de la Secció Administrativa del Tribunal de Batlles que es deriven de la legislació vigent d'acord amb el mateix Codi de l'Administració i disposicions concordants.
