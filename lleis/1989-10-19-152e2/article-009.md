@@ -1,0 +1,2 @@
+# Article 9
+Acotament d'un segon acte en el terme de 10 a 20 dies Si, durant els 10 dies o 20 dies fixats a l'article 8 A) més amunt citat, cal una segona intervenció motivada per una modificació de l'estat del malalt o per una afecció intercurrent, el segon acte obre un nou període, que anul.la el temps que manca per cobrir els 20 dies si hi ha hagut hospitalització o bé 10 dies, si no n'hi ha hagut.

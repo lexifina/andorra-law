@@ -1,0 +1,5 @@
+# Article 20
+Hospitalització per causa mèdica
+1) Durant els primers 14 dies, el metge responsable del pacient pot facturar una CS al dia per cada malalt atès. A partir del 15è dia d'hospitalització el preu-fet per als honoraris del metge responsable es limiten a C x 0,5 al dia per cada malalt atès.
+2) Quan el metge responsable del pacient hospitalitzat sol.liciti un altre facultatiu en consulta, aquest podrà facturar un preu-fet diari d'una CS per cada malalt. Aquesta activitat de consultor només serà acceptada durant dos dies, consecutius o no, durant tota l'hospitalització. En altres casos, el primer facultatiu ha de considerar l'oportunitat de passar la responsabilitat de l'hospitalització del malalt al segon facultatiu, o bé a un altre.
+Per optar a la percepció d'aquests honoraris a preu-fet, el metge responsable ha de sol.licitar la consulta per escrit al metge consultor. Aquest ha de fer constar la seva opinió i les recomanacions igualment per escrit. Els documents de la història clínica del pacient donaran fe d'aquests fets. En cas contrari, la Caixa no prendrà al seu càrrec els honoraris del metge consultor.
