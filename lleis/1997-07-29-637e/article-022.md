@@ -1,0 +1,2 @@
+# Article 22
+Actualització de les taxes sobre la tinença de vehicles Amb efecte des de l'entrada en vigor d'aquesta Llei, les quotes tributàries relacionades a l'article 5 de la Llei de la taxa sobre la tinença de vehicles del 5 d'abril de 1994, augmenten en el mateix percentatge que els augments anuals dels salaris mínims decretats periòdicament pel Govern, sobre la quantia exigida l'any 1996; els imports de les taxes s'arrodoneixen en la centena superior.
