@@ -1,0 +1,2 @@
+# Article 11
+Rebuda la petició el batlle en donarà immediatament trasllat al Ministeri Fiscal i, sense esperar l'informe d'aquest, dictarà aute acordant l'incoació de la causa o denegant la petició i arxivant les actuacions. Si l'aute és denegatori haurà d'ésser motivat. Contra l'aute hi cabrà recurs en un termini de dos dies davant el president del Tribunal de Corts o el seu delegat qui haurà de resoldre en el termini de cinc dies prèvia audiència de les parts.

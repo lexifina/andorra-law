@@ -1,0 +1,2 @@
+# Article 23
+Quan, una vegada formulada l'acció esmentada en el precedent article o conjuntament o de forma concomitant amb l'exercici d'aquesta, per part del mateix actor o de qualsevol altra persona legitimada s'exerciti una acció penal o civil de les previstes en els articles 76 a 78 de la Llei Qualificada de la Justícia en relació als mateixos fets, la tramitació de la primera quedarà immediatament suspesa fins que, per resolució ferma i definitiva, no hagi conclòs la tramitació de l'esmentada acció penal o civil.

@@ -1,0 +1,5 @@
+# Article 2
+Quan el tribunal es proposi de fer ús del previst en l'article 5 de la Llei Qualificada de la Justícia, i abans d'interposar la qüestió, haurà de dictar una providència que inclogui les bases en què es fonamenta amb expressió del text de la qüestió que es notificarà a les parts i al Ministeri Fiscal, concedint un termini conjunt de 13 dies per informar.
+Transcorregut l'esmentat termini, hagin o no fet ús de la facultat d'informar les parts i, eventualment el Ministeri Fiscal, el tribunal dictarà aute motivat decidint sobre la interposició de l'acció.
+Si a la vista de les al.legacions de les parts i del Ministeri Fiscal, el tribunal decideix no donar curs a la qüestió, l'aute deixarà sense efectes la providència. En cas contrari, l'aute decidirà sobre el text de la qüestió a sotmetre al Tribunal Constitucional que podrà ésser d'igual tenor que la providència sotmesa a l'informe de les parts o modificat a la vista del resultat dels informes.
+Contra aquest aute, tant si decideix sotmetre al Tribunal Constitucional la qüestió d'inconstitucionalitat com si no, no hi cabrà recurs.

@@ -1,0 +1,2 @@
+# Article 66
+Són competència del ple del Tribunal Superior de Justícia d'Andorra resoldre les causes previstes en l'article 10, en el títol IV, en el capítol quart del títol V i en l'article 78.4 de la Llei Qualificada de la Justícia així com tots els recursos previstos per la llei, ordinaris o extraordinaris, que puguin ésser deduïts contra les resolucions de les sales del propi Tribunal Superior de Justícia d'Andorra.

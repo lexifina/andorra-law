@@ -1,0 +1,2 @@
+# Article 3
+La suspensió de la tramitació dels procediments abans d'ésser dictada sentència o resolució a que fa referència l'article 55.2 de la Llei Qualificada del Tribunal Constitucional, afecta els autes la resolució dels quals depengui directament de la qüestió d'inconstitucionalitat plantejada. No obstant, els autes principals, incidentals o cautelars que, malgrat radicar en el mateix procediment tinguin substantivitat pròpia, no afectada per la qüestió d'inconstitucionalitat, seguiran el seu curs processal.

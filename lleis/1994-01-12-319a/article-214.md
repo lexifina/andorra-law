@@ -1,0 +1,2 @@
+# Article 214
+A l'efecte d'afavorir la justa distribució de les tasques previstes en l'apartat 1, "infine", de l'article 50 de la Llei Qualificada de la Justícia, el repartiment per torn de les causes previst en l'article 212 i de les ponències previstes en l'article 213 serà fet de tal manera que els batlles que hagin estat en funcions abans de l'1 de gener de 1994 i que siguin reconduïts després de tal data, no participin en el torn tantes vegades com tinguin causes o ponències atribuïdes amb anterioritat a l'1 de gener de 1994.

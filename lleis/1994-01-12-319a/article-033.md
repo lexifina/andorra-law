@@ -1,0 +1,2 @@
+# Article 33
+Les causes que siguin competència del Tribunal de Batlles com a òrgan unipersonal seran repartides segons l'ordre d'arribada constatat per la presidència del Tribunal de Batlles, seguint l'ordre estricte entre tots els batlles de la llista del torn corresponent. Quan un batlle a qui correspongui atribuir una d'aquestes causes es trobi absent o impossibilitat transitòriament, la causa li quedarà igualment assignada si bé, mentre duri l'absència o impossibilitat, assegurarà el tractament de la mateixa el batlle següent en la llista.

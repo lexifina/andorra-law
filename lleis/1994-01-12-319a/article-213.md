@@ -1,0 +1,2 @@
+# Article 213
+El coneixement de les causes civils i penals compreses en el segon paràgraf de l'apartat 3 de l'article 49 de la Llei Qualificada de la Justícia en curs davant un batlle que hagués estat en funcions abans de l'1 de gener de 1994, serà atribuït a la secció civil del Tribunal de Batlles. Serà ponent de la causa el batlle que les hagi conegut abans de l'1 de gener de 1994, si el seu mandat es renovat més enllà de la data expressada i, en cas contrari, la ponència recaurà en el batlle que correspongui.

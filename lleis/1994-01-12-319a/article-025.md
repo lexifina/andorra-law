@@ -1,0 +1,2 @@
+# Article 25
+L'acció serà tramitada davant el ple del Tribunal Superior de Justícia d'Andorra seguint el procediment d'apel.lació comú previst en l'article 68.b), essentne part el demandant i el Ministeri Fiscal. Serà també emplaçat com a part el Govern així com les persones que aquest, d'acord amb el previst a l'apartat 5 de l'article 10 de la Llei Qualificada de la Justícia, demani que s'emplacin també com a part.

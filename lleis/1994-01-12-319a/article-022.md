@@ -1,0 +1,3 @@
+## Capítol cinquè. Desenvolupament de l'article 10 de la Llei Qualificada de la Justícia
+# Article 22
+L'acció per al reconeixement de l'error judicial o de l'anormal funcionament de l'Administració de Justícia i per a l'eventual avaluació del dany prevista en l'article 10 de la Llei Qualificada de la Justícia pot ésser exercitada per la persona o grup de persones a què es refereix l'apartat 2 del mateix article. Quan es tracti de persones físiques la mateixa acció correspondrà també a llurs hereus i drethavents. En el supòsit que es tracti de persones morals, l'acció haurà d'ésser exercitada pels seus òrgans de representació legals. Seran admeses les accions obliqües.

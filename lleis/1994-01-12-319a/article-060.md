@@ -1,0 +1,3 @@
+# Article 60
+El president del tribunal fixa les dates de les sessions i distribueix els assumptes pendents intentant equilibrar les vistes.
+Segons les necessitats del servei, les ponències distribuïdes, la disponibilitat dels magistrats, les incompatibilitats, recusacions i excuses legals el president del tribunal composarà cada tres mesos les diferents formacions de sala amb magistrats titulars i, si és el cas, amb magistrats adjunts, si n'hi ha i, per torn, amb batlles habilitats, que intervindran en el curs de cada sessió mensual sense perjudici que, atenent les dificultats més amunt esmentades, es puguin fixar un més gran nombre de vistes.

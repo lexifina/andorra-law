@@ -1,0 +1,2 @@
+# Article 212
+Les causes civils compreses en el primer paràgraf de l'apartat 3 de l'article 49 de la Llei Qualificada de la Justícia en curs davant d'un batlle que hagués estat en funcions abans de l'1 de gener de 1994 i el mandat del qual hagi estat renovat a partir d'aquella data, seguiran essent conegudes per aquest. Les de mateixa natura que ho siguin per un batlle que cessi en les seves funcions abans de l'1 de gener de 1994 seran repartides entre els batlles formant part de la Batllia després del dia 1 de gener de 1994 per torn.

@@ -1,0 +1,3 @@
+## Capítol quart. Desenvolupament de l'article 9 de la Llei Qualificada de la Justícia
+# Article 21
+Qualsevol refús que els tribunals puguin fer de peticions, incidents o excepcions serà sempre objecte de la resolució que correspongui després d'haver seguit el procediment establert legalment, si n'hi ha, en tots els seus estadis i terminis, per a cada mena de procediment principal, incidental o cautelar, en què tinguin lloc les esmentades peticions, incidents o excepcions. En el cas en què segons els procediments vigents les resolucions siguin recurribles, els recursos seran tramitats per les vies processals ordinàries.

@@ -1,0 +1,2 @@
+# Article 12
+L'aute d'incoació serà notificat immediatament a l'autoritat o persona a disposició o en poder de la qual es trobi la persona privada de llibertat, amb el manament de que sigui posada a disposició del batlle sense pretext ni demora. Alternativament, el batlle podrà al seu criteri constituirse ell mateix en el lloc on es trobi la persona detinguda i l'autoritat o persona que la tingui detinguda.

@@ -1,0 +1,4 @@
+# Article 13
+En presència física del detingut o del seu mandatari, el batlle escoltarà les al.legacions verbals i recollirà les manifestacions o els escrits que pugui fer o presentar el detingut, el Ministeri Fiscal, l'autoritat, agent o funcionari que hagués ordenat o practicat la detenció o, en tot cas, la persona baix la custòdia de la qual es trobi el detingut.
+El batlle admetrà, si les estima pertinents, les proves que aportin les persones referides en l'apartat anterior i les que proposin que puguin practicarse en l'acte.
+En el termini de 24 hores, comptades des que sigui dictat l'aute d'incoació, el batlle practicarà totes les actuacions a què es refereix aquest article i dictarà l'aute que procedeixi. L'aute podrà ésser objecte de recurs en les condicions de l'article precedent, a un sol efecte.

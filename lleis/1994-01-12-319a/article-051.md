@@ -1,0 +1,2 @@
+# Article 51
+Quan les resolucions estrangeres que ordenin una mesura cautelar o trava afectin a béns i drets de persones no andorranes o que no tinguin residència ni domicili a Andorra, aquestes seran adoptades en les condicions de l'apartat 2 de l'article 19 de la Llei Qualificada de la Justícia per una durada d'un any renovable per un altre període d'un any, sempre que la jurisdicció estrangera que l'ha pronunciat interessi abans del finiment de l'any que la mesura sigui mantinguda i provi que s'està seguint un procediment al fons que sustenti la mesura acordada.

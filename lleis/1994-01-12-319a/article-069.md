@@ -1,0 +1,2 @@
+# Article 69
+En les vistes orals davant del ple i de les sales del Tribunal Superior de Justícia d'Andorra així com davant el Tribunal de Corts i la secció penal de la Batllia, els magistrats, els batlles, els representants del Ministeri Fiscal i els advocats hauran de vestir toga. Mentre no es fixi cap altre model, la toga serà per a tots la que avui és en ús pels advocats del Col.legi d'Andorra.
