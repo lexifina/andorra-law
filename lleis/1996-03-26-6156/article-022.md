@@ -1,0 +1,2 @@
+# Article 22
+El Govern, a petició argumentada de l'entitat interessada, amb l'informe previ de l'Institut Nacional Andorrà de Finances (INAF) i el dictamen de la Comissió Superior de Finances, està autoritzat a introduir factors correctors temporals individualitzats sobre l'aplicació de l'escalat de ponderació de risc a què es refereix l'article 4, amb validesa, com a màxim, durant el període d'un any.

@@ -1,0 +1,2 @@
+# Disposició transitòria segona
+Mentre el Consell General no fixi les xifres de capital social mínim, segons el que estableix la disposició transitòria quarta de la Llei de regulació de reserves en garantia de dipòsits i d'altres obligacions operacionals a mantenir i dipositar per les entitats enquadrades en el sistema financer, les entitats bancàries no podran reduir el seu capital social per dessota de la xifra que presenten els seus respectius balanços al 31 de desembre de 1994.

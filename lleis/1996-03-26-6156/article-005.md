@@ -1,0 +1,2 @@
+# Article 5
+Es faculta al Govern, previ informe de l'Institut Nacional Andorrà de Finances i dictamen de la Comissió Superior de Finances, perquè, davant la introducció de nous procediments financers o l'expressió de noves formulacions comptables, pugui determinar les respectives ponderacions de risc i, en funció d'aquesta ponderació, incloure'ls en el grup corresponent de l'escalat que s'estableix en l'article 4 precedent.

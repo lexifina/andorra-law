@@ -1,0 +1,2 @@
+# Article 14
+Als efectes del precedent article 13, es computen com del mateix beneficiari les operacions d'actiu atorgades a altres titulars de la mateixa unitat familiar i a les empreses que estiguin vinculades al beneficiari, o als referits altres titulars, directament o indirectament, per lligams de gestió o financers que, a efectes de risc, han de ser considerades com formant part d'un conjunt.

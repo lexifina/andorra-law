@@ -1,0 +1,2 @@
+# Disposició addicional primera
+En les normes legals previstes per a l'any 1996 que hauran de regular les entitats financeres no bancàries, s'hi incorporaran, en la mesura que correspongui a la naturalesa específica de cada grup o subgrup d'entitats, i a les facultats operatives que els siguin atribuïdes, els preceptes a complir en matèria de solvència i de liquiditat, o homologables a aquests condicionants.
