@@ -1,0 +1,9 @@
+## Capítol XII. Disposicions comunes
+# Article 52
+Tramitació addicional
+1) Un dipositant o un titular d'una patent que no hagi complert amb un termini especificat en aquesta Llei o al Reglament d'execució o establert per l'Oficina de Patents pot presentar una petició de tramitació addicional si l'incompliment del termini té la conseqüència directa de causar la denegació de la sol.licitud o d'una petició, o la pèrdua de qualsevol altre dret.
+2) La petició s'ha de presentar per escrit dins dels dos mesos següents a la comunicació per part de l'Oficina de Patents, assenyalant l'incompliment de l'observació del termini, però no més tard de sis mesos després de l'expiració del termini que no s'ha observat. L'acte que s'hagi omès s'ha d'acomplir dins d'aquest període. La petició es considera que no ha estat presentada fins que s'hagi pagat la taxa establerta a la Llei de taxes de l'Oficina de Patents.
+3) L'Oficina de Patents ha d'inscriure l'acceptació de la petició per a la tramitació addicional al Registre de Patents d'acord amb el que estableix el Reglament d'execució.
+4) L'acceptació de la petició per a la tramitació addicional té l'efecte que la conseqüència legal de l'incompliment dins el termini no es produirà, o si ja s'ha produït, es deixarà sense efecte.
+5) Aquest article no és aplicable als terminis establerts als articles 17, 21.1), 25.3) i a l'apartat 2) d'aquest article.
+6) Tota persona que, de bona fe, dins el període de temps comprès entre la pèrdua d'un dret referit a l'apartat 1) d'aquest article i la publicació de l'acceptació de la petició per a la tramitació addicional, ha començat a utilitzar o ha fet preparatius efectius i seriosos per utilitzar la invenció objecte d'una patent o d'una sol.licitud de registre publicada segons l'article 19 pot, a títol gratuït, continuar aquesta utilització dins la seva empresa o per a les necessitats de la seva empresa.

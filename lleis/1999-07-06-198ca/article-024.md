@@ -1,0 +1,4 @@
+# Article 24
+Usuari anterior
+1) Qualsevol persona que de bona fe, per als fins de la seva empresa o negoci, abans de la data de dipòsit o, si es reivindica una prioritat, abans de la data de prioritat de la sol.licitud sobre la qual es concedeix la patent, i dins d'Andorra utilitzi la invenció o faci preparatius efectius i seriosos per a aquesta utilització, té el dret, per als fins de la seva empresa o negoci, de continuar aquesta utilització o d'utilitzar la invenció com tenia previst en aquells preparatius.
+2) El dret de l'usuari anterior només pot ser transferit o transmès juntament amb la seva empresa o negoci, o amb aquella part de la seva empresa o negoci en la qual s'han estat fent la utilització o els preparatius per a la utilització.

@@ -1,0 +1,5 @@
+# Article 47
+Data de dipòsit i efectes de les sol.licituds internacionals que designin Andorra
+1) Qualsevol sol.licitud internacional que designi Andorra a l'efecte d'obtenir una patent nacional segons aquesta Llei, serà equivalent a una sol.licitud presentada a l'Oficina de Patents i es considera que té l'efecte d'una sol.licitud nacional ordinària a partir de la seva data de dipòsit internacional, i aquesta data es considera com la data de dipòsit de la sol.licitud segons l'article 11.
+2) Qualsevol sol.licitud internacional que designi Andorra, que hagi estat publicada segons l'article 21 del TCP, dóna origen als mateixos drets que una sol.licitud publicada segons l'article 19.
+3) Tota designació d'Andorra a l'efecte d'obtenir una patent nacional sota aquesta Llei, en una sol.licitud internacional presentada en la data o després de la data de l'adhesió d'Andorra a la Convenció sobre la Patent Europea s'ha de considerar, d'acord amb l'article 45.2) del TCP, que és una designació d'Andorra per a una patent europea d'acord amb la Convenció sobre la Patent Europea.

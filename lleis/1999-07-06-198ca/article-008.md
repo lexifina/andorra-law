@@ -1,0 +1,4 @@
+# Article 8
+Invencions d'empleats i per encàrrec
+1) No obstant el que estableix l'article 7, quan una invenció es genera a Andorra en execució d'un encàrrec o d'un contracte laboral, el dret a la patent per aquesta invenció pertany, llevat de pacte contrari, a la persona que ha encomanat el treball o al patró.
+2) En el cas que s'apliquin les disposicions de l'apartat 1) d'aquest article relatives a una invenció generada a Andorra en execució d'un contracte laboral, l'empleat que n'és l'inventor té el dret a una remuneració equitativa tenint en compte el seu salari, el valor econòmic de la invenció i qualsevol profit que es derivi d'aquesta invenció per al patró. Si no hi ha acord entre les parts per establir la remuneració esmentada, l'autoritat judicial l'estableix a instància d'una de les parts. El procediment que se segueix és l'abreujat.

@@ -1,0 +1,8 @@
+# Article 38
+Retenció a la duana
+1) Subjecte a les condicions de tota mesura cautelar establertes a l'article 37, el titular de la patent, o si és el cas, el llicenciatari, té dret a sol.licitar a l'autoritat judicial que ordeni la retenció per l'administració de duanes dels béns que aquest titular o llicenciatari considera que violen els seus drets.
+2) L'autoritat judicial, la persona que ha sol.licitat la retenció segons l'apartat 1) d'aquest article i el declarant de les mercaderies retingudes, han de ser informats immediatament, per l'administració de duanes, de la retenció executada per aquesta darrera.
+3) En el cas específic d'una retenció a la duana, el termini establert a l'article 37.5) per a tota mesura cautelar, passa a ser de deu dies hàbils a comptar de la data en què la persona que ha sol.licitat la retenció segons l'apartat 1) d'aquest article ha rebut la notificació de la retenció segons l'apartat 2) d'aquest article.
+4) La persona que ha sol.licitat la retenció segons l'apartat 1) d'aquest article pot obtenir de l'administració de duanes, mitjançant ordre judicial, la comunicació del nom, els cognoms i l'adreça de l'expedidor, de l'importador i del consignatari de les mercaderies retingudes, com també de la seva quantitat.
+5) La persona que ha sol.licitat la retenció segons l'apartat 1) d'aquest article i l'importador tenen dret a inspeccionar els béns retinguts, subjecte al compliment de les mesures de seguretat establertes per l'autoritat judicial per protegir aquests béns retinguts.
+6) Les disposicions de l'article 37.4) frases segona i tercera són aplicables, mutatis mutandis, a tota retenció a la duana.

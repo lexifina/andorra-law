@@ -1,0 +1,7 @@
+# Article 20
+Examen de la sol.licitud i concessió de la patent
+1) Si a una sol.licitud li ha estat atorgada una data de dipòsit, l'Oficina de Patents ha d'examinar si la sol.licitud compleix amb els requisits dels articles 9 i 10.
+2) L'Oficina de Patents no té l'obligació d'examinar si la sol.licitud i la invenció a la qual fa referència compleixen amb els requisits dels articles del 2 al 5, 12, 13, 15 i 18.2).
+3) Si l'Oficina de Patents considera que la sol.licitud no compleix amb els requisits referits a l'apartat 1) d'aquest article, ha d'indicar les deficiències al dipositant i donar-li la possibilitat que les corregeixi d'acord amb el Reglament d'execució. La sol.licitud ha de ser denegada si el dipositant no hi corregeix les deficiències indicades per l'Oficina de Patents.
+4) Si la sol.licitud compleix amb els requisits referits a l'apartat 1) d'aquest article, l'Oficina de Patents concedeix, amb el pagament previ de les taxes establertes en la Llei de taxes de l'Oficina de Patents, una patent sobre la base de la sol.licitud. L'Oficina de Patents ha d'inscriure la concessió de la patent al Registre de Patents i publicar les especificitats de la patent d'acord amb l'establert en el Reglament d'execució.
+5) Si el dipositant ha presentat una petició per a la publicació anticipada de la sol.licitud, d'acord amb l'article 19.1)b), pot demanar que la patent sigui concedida immediatament després de la publicació de la sol.licitud.

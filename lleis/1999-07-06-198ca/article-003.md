@@ -1,0 +1,6 @@
+# Article 3
+Novetat
+1) Es considera que una invenció és nova quan no forma part de l'estat de la tècnica. Per a la determinació de la novetat, els elements de l'estat de la tècnica només es poden tenir en compte individualment.
+2) L'estat de la tècnica consisteix en tot allò que s'ha posat a disposició del públic mitjançant una descripció oral o escrita, per a l'ús o de qualsevol altra manera, abans de la data de dipòsit de la sol.licitud o, si es reivindica una prioritat, abans de la data de prioritat de la sol.licitud.
+3) També s'inclou dins l'estat de la tècnica el contingut de qualsevol sol.licitud de patent presentada a Andorra o amb efectes a Andorra, en la mesura que aquesta sol.licitud de patent o la consegüent patent concedida sigui publicada subsegüentment, sempre que la data de dipòsit o, si es reivindica una prioritat, la data de prioritat d'aquesta sol.licitud, sigui anterior a la data referida a l'apartat 2) d'aquest article.
+4) Les disposicions dels apartats 1), 2) i 3) d'aquest article no exclouen la patentabilitat de cap substància o composició, compresa en l'estat de la tècnica, per a la seva utilització en algun dels mètodes referits a l'article 2.4) b), sempre que la seva utilització en aquest mètode no estigui compresa en l'estat de la tècnica.
