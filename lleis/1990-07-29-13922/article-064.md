@@ -1,0 +1,2 @@
+# Article 64
+Els terminis esmentats en els articles anteriors es computaran a partir de la data d'extinció de la pena. En cas de penes de privació de llibertat, si el condemnat es beneficiés de la remissió condicional, el termini es computarà des de la data en què la remissió sigui efectiva, sempre que després no hagi estat revocada. En el supòsit d'imposició conjunta de diverses penes només es prendrà en consideració el termini més llarg.

@@ -1,0 +1,2 @@
+# Article 185
+La mare que cometi avortament o doni el consentiment per a l'avortament incorrerà en la pena de presó de fins a dos anys i sis mesos. Si el comet una altra persona amb el consentiment de la mare el màxim de la pena aplicable serà de quatre anys de presó. La pena serà de fins a sis anys si l'autor és metge, facultatiu, sanitari o persona que es dedica habitualment o amb ànim de lucre a realitzar pràctiques avortives.

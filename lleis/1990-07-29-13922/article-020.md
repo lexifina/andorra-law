@@ -1,0 +1,2 @@
+# Article 20
+En el cas de l'exempció de responsabilitat establerta en l'article 19, apartat 2, el Tribunal ordenarà l'internament de l'interessat en un centre adequat pel temps i en les condicions que es determinin mentre perduri la malaltia. El Tribunal, a la vista dels informes mèdics que periòdicament haurà de trametre el Centre, podrà substituir l'internament per altres mesures curatives o deixar-lo sense efecte.

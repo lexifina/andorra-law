@@ -1,0 +1,2 @@
+# Article 41
+En els delictes que tenen prevista una pena de presó no superior a tres anys i en les contravencions, el Tribunal, atenent el tipus, la gravetat del delicte i especialment la personalitat i les circumstàncies del reu, podrà substituir totalment o parcialment la pena de presó per una de les altres penes principals o per una o més de les accessòries que preveu l'article 37, a excepció de la pena d'expulsió, i sense necessitat d'atendre a la naturalesa del delicte.

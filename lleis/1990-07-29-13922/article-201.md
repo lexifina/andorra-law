@@ -1,0 +1,2 @@
+# Article 201
+El qui per escrit o en un mitjà de comunicació social imputi a una altra persona la comissió d'un delicte serà castigat amb pena de fins a tres anys de presó. No serà castigat quan l'acusat provi la realitat del fet imputat, però la prova no serà admissible quan es refereixi a delictes prescrits, indultats o cancel.lats o quan hagin transcorregut més de deu anys des de la comissió dels delictes imputats.
