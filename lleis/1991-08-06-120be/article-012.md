@@ -1,0 +1,2 @@
+# Article 12
+Unicament està permès l'exercici de la caça amb armes de foc (escopeta o fusell), amb o sense gos, i, amb armes de corda tipus ballesta, arc o assimilables. Tot altre procediment, la utilització d'altres armes, explosius, paranys, trampes o substàncies químiques, són prohibits. L'isard, no podrà ésser objecte de comercialització, pública o privada, ni exhibició en establiments públics.

@@ -1,0 +1,3 @@
+# Article 29
+El cos de Banders d'Agricultura i, eventualment, els serveis de vigilància de Parcs Nacionals i de Reserves de Caça i Pesca, actuaran com a organismes de control de l'exercici de la caça, de repressió de les activitats il.legals i de foment de la caça, d'acord amb les normes que estableix la present Llei i les disposicions que la desenvolupen, i de conformitat amb allò que prevegin llurs Reglaments interns.
+Els informes i les actes elaborats pels Agents de l'autoritat en la constatació de fets pressumptament constitutius d'infracció a les normes de caça donen fe, salvat de prova en contrari. En tot cas s'estarà a allò disposat per la Llei del Codi de l'Administració pel que fa als actes administratius i als recursos establerts.

@@ -1,0 +1,2 @@
+# Article 41
+Les infraccions a les quals fa referència aquesta Llei prescriuran a l'any, llevat de les qualificades com a faltes que prescriuran als dos anys i dels delictes que ho seran als tres. El termini de prescripció començarà a córrer des del dia que s'hagués comès la infracció o, en el seu cas a comptar de la data en que s'hagi conegut, i s'interromprà des del moment que el procediment s'adreci contra l'infractor.

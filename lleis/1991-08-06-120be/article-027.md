@@ -1,0 +1,2 @@
+# Article 27
+Amb la demanda d'obtenció o de renovació del permís de caça s'acompanyarà la certificació d'una Companyia d'Assegurances, degudament autoritzada per a actuar dins el territori nacional, conforme queden cobertes per una suma mínima de 40.000.000 de pessetes, les responsabilitats civils en què pugui incórrer el caçador, ja sia directament, ja sia per mitjà dels seus gossos. No es lliurarà cap llicència o permís de caça sense haver complimentat prèviament aquest requisit.

@@ -1,0 +1,2 @@
+# Article 10
+En els terrenys privats que hagin estat envoltats d'una tanca de protecció es requerirà l'autorització expressa del propietari per tal de poder-hi caçar. En tot cas, es respectaran les disposicions que estableix aquesta Llei i les normes que la desenvolupen. S'entendrà que un terreny té una tanca de protecció, quan hi hagin suficients indicis de que el terreny en qüestió està delimitat per signes externs visibles, com són parets, reixes o similars.
