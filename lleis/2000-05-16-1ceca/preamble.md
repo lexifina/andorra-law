@@ -1,0 +1,10 @@
+Llei
+qualificada d'addició de l'article 307 bis al Codi penal
+Atès que el Consell General en la seva sessió del dia 13 d'abril del 2000 ha aprovat la següent:
+llei qualificada d'addició de l'article 307 bis al Codi penal
+Exposició de motius
+La Llei de modificació de la Llei de caça del 5 de juliol de 1988, del 31 de juliol de 1991, modificada el 30 de juny de 1995, fins ara vigent i que es deroga per
+la Llei de caça, preveu en l'article 38 que constitueixen delictes menors algunes infraccions a la dita normativa, per les quals es preveu l'aplicació de multa i de suspensió de la llicència de caça.
+Per coherència amb la deguda estructura legislativa, sembla més convenient
+que el que és relatiu als delictes estigui totalment regulat en el Codi penal, motiu pel qual, d'acord amb aquest principi, s'han suprimit de la legislació relativa a la caça aquest extrem dels delictes, de manera que la Llei de caça constitueix una normativa que regula l'exercici de la caça i els apartats relacionats amb aquesta activitat, i per tant, els delictes que es poden cometre per una actuació il·lícita amb l'exercici de la caça s'han de preveure en el Codi penal, normativa a la qual s'ha d'incorporar la tipificació d'aquests supòsits. El vigent Codi penal únicament preveu el delicte ecològic en el Llibre tercer, dels delictes menors, títol IV, delictes contra els interessos generals, article 307. En aquesta nova incorporació dels delictes que es poden produir com a conseqüència de l'activitat de la caça, és necessari fer una addició al Codi penal.
+En incloure en el Codi penal aquestes figures de delicte -ja previstes i regulades fins ara en la legislació específica de caça, motiu pel qual l'únic que es produeix és un canvi en l'estructura i el mecanisme regulador- s'assoleix l'interès general que respon a un criteri social de preceptuar com a activitats il·lícites conductes totalment rebutjables pels sistemes que s'empren i per les finalitats que persegueixen que no tenen altre resultat que l'alteració del sistema ecològic i, en concret en aquest cas, de la protecció, la conservació i l'aprofitament de la riquesa faunística nacional.
