@@ -1,0 +1,5 @@
+# Article 14
+Lliurament d'informacions
+1. En el cas que el batlle competent consideri fonamentada la sol·licitud d'informació d'acord amb l'establert en l'article 12 de l'Acord, comunica a l'agent pagador l'existència de la sol·licitud d'informació per tal que aquest li trameti la informació pertinent. L'agent pagador ha de lliurar dins els 15 dies naturals següents al manament del batlle la informació sol·licitada i, ensems, pot formular al·legacions respecte a la procedència de la sol·licitud d'informació.
+2. La persona interessada podrà examinar la sol·licitud d'informació i la documentació que s'hi adjunta, i també formular al·legacions oposant-se motivadament a la petició. A aquests efectes i transcorreguts cinc dies naturals des del manament del batlle a l'agent pagador, si la persona interessada no
+s'ha personat en la causa, el batlle li notificarà mitjançant carta certificada adreçada al domicili indicat per l'agent pagador a requeriment de la Batllia. La persona interessada disposa d'un termini de 10 dies naturals a partir de la recepció de la carta per formular al·legacions.

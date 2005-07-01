@@ -1,0 +1,8 @@
+# Article 3
+Identitat i residència dels beneficiaris efectius
+1. L'agent pagador estableix la identitat del beneficiari efectiu, expressada pel seu nom, cognoms i adreça, segons les disposicions de la Llei de cooperació
+penal internacional i de lluita contra el blanqueig de diners o valors producte de la delinqüència internacional del 29 de desembre del 2000.
+2. Sens perjudici del que s'estableix a continuació, es considera que la residència està situada al país en el qual el beneficiari efectiu tingui la seva adreça permanent.
+L'agent pagador estableix la residència del beneficiari efectiu sobre la base de l'adreça que figura en el document d'identitat oficial o, si és necessari, sobre la base de qualsevol altre document probatori presentat pel beneficiari efectiu, segons el procediment següent: per a les persones físiques que presentin un document d'identitat oficial lliurat per un Estat membre de la Comunitat Europea i que declarin que són residents d'un país tercer a la Comunitat Europea, la residència s'estableix sobre la base d'un certificat de residència o d'un document d'autorització de residència lliurat per l'autoritat competent del país tercer esmentat en el qual la persona física declari ser resident. A manca d'aquest certificat de residència o d'aquest document d'autorització de residència, es considera que la residència està establerta a l'Estat membre de
+la Comunitat Europea que hagi lliurat el document d'identitat oficial.
+Pel Principat d'Andorra, l'autoritat competent per lliurar els certificats de residència o els documents d'autorització de residència esmentats, és el ministeri encarregat de l'interior.

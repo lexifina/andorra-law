@@ -1,0 +1,5 @@
+# Disposició transitòria segona
+Residència del beneficiari efectiu abans de l'entrada en vigor de la Llei
+En el cas de relacions contractuals establertes abans de l'entrada en vigor d'aquesta Llei, l'agent pagador estableix la residència del beneficiari efectiu segons els procediments següents:
+a) En el cas de relacions contractuals establertes abans de l'1 de gener del 2004, l'agent pagador estableix la residència del beneficiari efectiu segons les disposicions de la Llei de cooperació penal internacional i de lluita contra el blanqueig de diners o valors producte de la delinqüència internacional del 29 de desembre del 2000.
+b) En el cas de relacions contractuals establertes o de transaccions realitzades en absència de relacions contractuals concertades entre l'1 de gener del 2004 i l'entrada en vigor d'aquesta Llei, l'agent pagador estableix la residència del beneficiari efectiu sobre la base de l'adreça que figura en el document d'identitat oficial o, si és necessari, sobre la base de qualsevol altre document probatori presentat pel beneficiari efectiu, segons el procediment establert al segon paràgraf de l'apartat 2 de l'article 3.

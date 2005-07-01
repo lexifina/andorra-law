@@ -1,0 +1,6 @@
+# Article 13
+Admissió de la sol·licitud d'informació
+1. El ministeri encarregat de les finances rep la sol·licitud d'informació i la tramet a la Batllia perquè examini si reuneix les condicions d'admissió establertes a l'article 12 de l'Acord. Únicament s'admetran sol·licituds d'informació sobre la base d'allò disposat a l'article 12 de l'Acord.
+2. El ministeri encarregat de les finances lliura a la Batllia, juntament amb la sol·licitud d'informació, un informe tècnic en relació amb la seva justificació.
+3. Correspon al batlle de la secció d'instrucció designat pel president de la Batllia, determinar dins els 10 dies naturals següents a la recepció, si la sol·licitud d'informació reuneix les condicions d'admissió establertes a l'article 12 de l'Acord, i especialment si els fets comesos a l'estranger constituirien el delicte de frau en la fiscalitat de l'estalvi d'acord amb la llei andorrana.
+4. En el cas que la Batllia determini, mitjançant la corresponent resolució motivada, que la sol·licitud d'informació no procedeix, aquesta retornarà l'expedient al ministeri encarregat de les finances qui, a la vegada, ho remetrà a l'autoritat competent de l'Estat requeridor, que pot completar la sol·licitud d'informació amb nova documentació.
