@@ -1,0 +1,3 @@
+# Article 311
+Omissió imprudent de deures de conservació
+El conservador o el guardià d'un bé immoble o moble històric, artístic o cultural o de significació especial per al desenvolupament científic o tecnològic que, per imprudència greu, no impedeixi la seva destrucció o deteriorament ha de ser castigat amb pena d'arrest o multa fins a 30.000 euros i suspensió per a l'exercici de l'ofici o el càrrec fins a un any.

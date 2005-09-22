@@ -1,0 +1,6 @@
+# Article 467
+Pràctiques prohibides
+1. El qui, en ocasió d'un conflicte armat, posi en perill greu la vida, la salut o la integritat de qualsevol persona protegida, la sotmeti a tortura o a tractes degradants, inclosos els experiments biològics, li causi grans sofriments o la faci objecte d'un acte mèdic no indicat per al seu estat de salut, ni adequat a les normes mèdiques reconegudes generalment que el responsable de l'actuació aplicaria en circumstàncies anàlogues als seus propis nacionals no privats de llibertat, ha de ser castigat amb pena de presó de cinc a deu anys, sense perjudici de la pena que correspongui pels resultats lesius produïts.
+2. Amb la mateixa pena ha de ser castigat el qui deporti, traslladi de manera forçosa, prengui com a ostatge, detingui o confini il·legalment qualsevol
+persona protegida o la utilitzi per posar certs punts, zones o forces militars a recer dels atacs de la part adversa i el qui realitzi o mantingui, respecte de qualsevol persona protegida, pràctiques de segregació racial i altres pràctiques inhumanes o degradants basades en altres distincions de caràcter
+desfavorable, que comportin una ofensa contra la dignitat personal.

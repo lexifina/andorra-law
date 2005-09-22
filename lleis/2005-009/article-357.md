@@ -1,0 +1,3 @@
+# Article 357
+Desordres especials
+Ha de ser castigat amb pena d'arrest el qui pertorbi greument l'ordre en l'audiència d'un tribunal o batllia, en els actes de qualsevol corporació, oficina o establiment públic, centre docent o amb motiu de la celebració d'actes oficials, religiosos o espectacles esportius o culturals. Quan es tracti d'alteració de l'ordre en un tribunal o batllia, la pena s'ha d'imposar en la seva meitat superior.

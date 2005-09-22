@@ -1,0 +1,6 @@
+# Article 424
+Retenció de mitjans de prova
+1. El qui, tenint en la seva possessió mitjans de prova que puguin evitar la declaració de culpabilitat d'un processat, sense que resultin inculpatoris per a ell o una de les persones descrites a l'article 31, els destrueixi, inutilitzi o s'abstingui d'aportar-los davant l'autoritat, ha de ser castigat amb pena de presó de tres mesos a tres anys si el processat es troba en situació de presó provisional i amb pena d'arrest en els altres casos.
+2. Quan el responsable sigui agent de l'autoritat que intervingui o hagi intervingut en el procés s'ha d'imposar, endemés, la pena d'inhabilitació per a l'exercici de càrrec públic fins a quatre anys.
+3. Quan el responsable sigui advocat o procurador del processat, s'ha
+d'imposar, endemés, la pena d'inhabilitació per a l'exercici de l'ofici o el càrrec fins a sis anys.

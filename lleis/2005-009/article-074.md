@@ -1,0 +1,3 @@
+# Article 74
+Aplicació de les mesures privatives de llibertat en cas d'exclusió de responsabilitat
+A qui sigui declarat exempt de responsabilitat criminal d'acord amb els punts 4, 5 i 6 de l'article 27, li és aplicable la mesura privativa de llibertat que escaigui entre les previstes en l'article 73.1, si és necessari, per prevenir la perillositat criminal, i sempre que per al delicte s'hagi previst una pena privativa de llibertat. El tribunal fixa en la sentència la durada màxima de la mesura tenint en compte el que es disposa a l'article 6.3.

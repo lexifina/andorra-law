@@ -1,0 +1,10 @@
+## Capítol sisè. Acusació i denúncia falses i simulació de delicte
+# Article 415
+Falsa denúncia o acusació
+1. La imputació d'una infracció penal, amb coneixement de la seva falsedat o
+amb menyspreu temerari a la veritat, davant una autoritat o un funcionari judicial o administratiu que tingui el deure de procedir a la seva investigació perquè així ho faci, ha de ser castigada amb pena de presó de tres mesos a
+tres anys si es tracta d'un delicte i d'arrest si es tracta d'una contravenció penal.
+2. Quan, endemés, el denunciant o l'acusador hagi propagat la falsa denúncia o acusació amb publicitat, en la forma que ha estat definida a l'article 175, les penes previstes s'han d'imposar en la seva meitat superior i s'ha d'aplicar, si escau, la pena de publicació de la sentència. En aquest supòsit, és
+responsable civil subsidiària la persona física o jurídica propietària del mitjà informatiu a través del qual s'hagi propagat la falsa denúncia o acusació.
+3. No es pot procedir contra el denunciant o l'acusador més que després d'haver-se dictat sentència ferma absolutòria o aute, també ferm, de
+sobreseïment definitiu o provisional o d'arxiu, del batlle o tribunal que hagi conegut de la infracció imputada. Aquests han d'ordenar la corresponent instrucció de sumari contra el denunciant o l'acusador quan hi hagi indicis racionals de la falsedat de la imputació.

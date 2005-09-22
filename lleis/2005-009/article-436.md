@@ -1,0 +1,3 @@
+# Article 436
+Creació, ús i comercialització de document inautèntic per un funcionari
+El funcionari que, en exercici de les seves funcions, realitzi les conductes previstes en l'article anterior en relació amb un document públic que pugui emetre o utilitzar, ha de ser castigat amb pena de presó de tres mesos a tres anys i amb pena d'inhabilitació per a l'exercici de càrrec públic fins a vuit anys.

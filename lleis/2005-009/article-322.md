@@ -1,0 +1,5 @@
+# Article 322
+Coacció d'òrgans constitucionals
+El qui mitjançant violència o intimidació i sense incórrer en un atemptat violent contra l'Estat de dret, influeixi o tracti d'influir en el Consell General, el Govern, els comuns, el Consell Superior de la Justícia o el Tribunal Constitucional a adoptar una decisió, o li impedeixi o tracti d'impedir d'acordar-la o d'executar-la, ha de ser castigat amb pena de presó de tres a deu anys.
+El qui realitzi la conducta anteriorment esmentada contra un membre dels
+òrgans referits o li impedeixi d'acudir a una sessió ha de ser castigat amb pena de presó de dos a cinc anys.

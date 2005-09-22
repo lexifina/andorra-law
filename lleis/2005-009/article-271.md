@@ -1,0 +1,10 @@
+# Article 271
+Alteració de la seguretat en el trànsit
+1. El qui llanci o col·loqui objectes en una via destinada al trànsit de vehicles automòbils, la deteriori greument o hi aboqui substàncies lliscants o inflamables o inutilitzi o alteri la senyalització, de manera que se'n pugui derivar un perill per a la vida i la integritat de les persones, ha de ser castigat amb pena de presó fins a dos anys o d'arrest.
+Si com a conseqüència d'alguna de les conductes anteriors es posa en perill
+greu la vida o la integritat de les persones la pena ha de ser de presó de tres mesos a tres anys.
+2. El qui realitzi alguna de les conductes previstes en el punt anterior en una altra via destinada al transport de passatgers, o en remogui els cables, les vies o les instal·lacions, o produeixi una alteració en els senyals emprats per a la comunicació o per garantir la seguretat en el trànsit d'aquestes o en el trànsit aeri, o manipuli sense estar-hi autoritzat els aparells o mecanismes de
+seguretat de manera que se'n pugui derivar un perill per a la vida o la integritat de les persones, ha de ser castigat amb pena de presó de tres mesos a tres
+anys.
+Si com a conseqüència d'alguna de les conductes anteriors es posa en perill
+greu la vida o la integritat de les persones la pena ha de ser de presó de dos a cinc anys.

@@ -1,0 +1,3 @@
+# Article 196
+Qualificació per al funcionari o autoritat
+L'autoritat o el funcionari que, fora dels casos permesos per la llei i sense haver-hi motiu legal inicial referit a la persecució d'un delicte, cometi qualsevol dels fets descrits en els dos articles anteriors, ha de ser castigat amb la pena prevista respectivament en els mateixos en la seva meitat superior, i inhabilitació de drets públics fins a sis anys.

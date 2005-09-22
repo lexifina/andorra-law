@@ -1,0 +1,4 @@
+# Article 286
+Comís
+Han de ser objecte de comís, tret que pertanyin a un tercer no responsable que els hagi adquirit legalment, les drogues tòxiques, els equips, els materials i les substàncies a què fa referència l'article anterior, els vehicles i tots els béns i els efectes que hagin servit d'instrument per a la comissió de qualsevol dels delictes d'aquest capítol o que en provinguin, així com els guanys que se
+n'hagin obtingut, amb independència de les transformacions que hagin pogut experimentar.

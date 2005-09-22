@@ -1,0 +1,4 @@
+## Capítol segon. Delictes relatius al tràfic il·legal de drogues tòxiques
+# Article 281
+Concepte de droga tòxica
+Es considera droga tòxica, als efectes d'aquest Codi, tota substància el consum de la qual produeix una alteració de l'estat de consciència i resulta perjudicial per a la salut de les persones, si es troba inclosa als convenis internacionals sobre la matèria i no és considerada lícita per la legislació andorrana o si, en el cas de no trobar-s'hi compresa, té naturalesa i efectes similars a les incloses i no n'està autoritzat el tràfic.
