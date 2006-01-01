@@ -1,0 +1,7 @@
+# Article 16
+Quota de liquidació
+1. La quota de liquidació és l'import que ha de satisfer l'obligat tributari d'aquest impost a l'Administració respecte totes les prestacions de serveis subjectes a l'impost realitzades dins el període de liquidació. A aquests efectes, el període de liquidació coincideix amb l'any natural.
+2. La quota de liquidació de l'impost és el resultat d'efectuar la diferència entre els impostos repercutits per les prestacions de serveis realitzades i els impostos indirectes de caràcter estatal satisfets en les adquisicions de béns i serveis necessaris per dur a terme les esmentades prestacions de serveis.
+Als efectes d'aquesta Llei tenen la consideració d'impostos indirectes de caràcter estatal l'Impost de mercaderies indirecte, l'Impost indirecte sobre la producció interna, l'Impost indirecte sobre la prestació de serveis i l'Impost indirecte sobre les activitats comercials.
+3. La quota de liquidació es determina segons el sistema de determinació objectiva a què es refereix l'article següent, o segons el règim alternatiu de determinació directa previst en l'article 18.
+4. En el cas que el servei sigui prestat per un empresari o professional no establert en territori andorrà, la quota de liquidació és l'import que ha de satisfer l'obligat tributari d'aquest impost a l'Administració per cada prestació de serveis subjecte a l'impost realitzada en territori andorrà. En aquest cas, la quota de liquidació correspon a la quota tributària determinada d'acord amb el que estableix l'article 12.
