@@ -1,0 +1,3 @@
+# Article 9
+Contingut dels projectes
+Els projectes d'obres d'un import superior a 600.000 euros han d'incloure un programa de desenvolupament dels treballs en temps i cost òptims. I en el cas d'obres objecte d'explotació retribuïda, els projectes han d'incloure els estudis econòmics i administratius respecte al règim d'utilització i a les tarifes aplicades.
