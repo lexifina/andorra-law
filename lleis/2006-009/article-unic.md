@@ -1,0 +1,3 @@
+# Article únic
+Es modifica dins de l'article 1 de la Llei 4/2006, del 7 d'abril, de mesures urgents i puntuals de reforma del sistema de seguretat social, el segon paràgraf de l'apartat que fa referència a l'article 42 del Reglament tècnic del règim andorrà de la seguretat social, que queda redactat com segueix:
+"En el moment de la defunció de l'assegurat, la vídua o el vidu sobrevivent han de rebre una pensió de reversió, amb la condició que els drets adquirits per la persona assegurada difunta representin, almenys, seixanta mensualitats cotitzades, o sigui, cinc anys complets, i que la vídua o el vidu sobrevivent reuneixin una de les condicions següents:"
