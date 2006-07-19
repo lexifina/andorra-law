@@ -1,0 +1,6 @@
+# Article 1
+1. La lletra a de l'apartat 2 de l'article 3, Fet generador, queda redactada de la manera següent:
+"La transmissió d'accions o de participacions de societats mercantils, així com la constitució o cessió de drets reals sobre aquestes accions o participacions quan almenys el 50 per cent de l'actiu de les dites societats estigui compost per béns immobles o drets reals sobre els mateixos i que, com a resultat de la transmissió d'accions o de participacions, o de la constitució o cessió de drets reals sobre les mateixes, l'adquirent tingui més d'una cinquena part del capital de la societat o dels seus drets de vot."
+2. L'apartat 4 de l'article 3, Fet generador, es modifica en la manera següent: "Als efectes d'aquesta Llei, en les promeses de compravenda on s'estipuli el pagament d'un preu superior al 20 per cent del preu total que s'hagi pactat, es liquidarà la totalitat de l'impost sobre transmissions patrimonials immobiliàries com si es tractés de la transmissió de l'immoble amb independència del
+moment en què tingui lloc la formalització posterior de la compravenda.
+En el moment de la formalització del contracte definitiu de compravenda s'aportarà el document que acrediti la liquidació d'aquest impost."
