@@ -1,0 +1,4 @@
+# Article únic
+Se suspèn cautelarment i temporalment, fins a l'aprovació de la llei que els reguli, l'atorgament de tot tipus de contractes d'aprofitament compartit i per torn de béns immobles que atribueixin al seu titular (ja sigui amb caràcter real o personal) el dret d'ocupació, ús o gaudiment exclusiu d'un allotjament susceptible d'utilització independent durant un temps determinat i específic de cada any, ja sigui en forma de contracte o escriptura de multipropietat, d'ús i aprofitament en temps compartit (timesharing), o bé d'aprofitament per torn, d'ocupació turística per setmanes o per mesos, d'arrendament múltiple de
+llarga durada i similars.
+En els mateixos termes expressats, resta suspesa també l'autorització per constituir societats mercantils que comprenguin aquest objecte i la inscripció al Registre de Comerç i Indústria d'aquest tipus d'activitats.
