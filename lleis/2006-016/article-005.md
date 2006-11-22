@@ -1,0 +1,7 @@
+# Article 5
+Citació del deutor i notificació de l'admissió a tràmit de la petició
+1. La notificació al deutor de la providència admetent a tràmit la petició, donant-li trasllat de la mateixa i dels documents adjunts i concedint-li el termini que estableix l'article 4, s'ha de practicar a la Batllia personalment o mitjançant procurador amb poders suficients.
+2. En cas que el deutor no pugui ser localitzat, amb els informes negatius previs del nunci judicial i dels agents del Servei de Policia judicial, que han de mencionar les gestions efectuades per a la seva localització, es notifica al deutor mitjançant edicte publicat al Butlletí Oficial del Principat d'Andorra l'admissió a tràmit de la petició efectuada pel creditor i la quantia de la reclamació, se li dóna un termini de trenta dies hàbils a partir de la publicació per comparèixer a la Batllia, obtenir còpia de la petició i dels documents adjunts i practicar les diligències pertinents.
+3. Transcorregut el termini de trenta dies hàbils sense que el deutor
+comparegui a la Batllia, se'l considera citat en deguda forma a tots els efectes legals i el procediment continua pels seus tràmits.
+4. Per a la localització del deutor els nuncis judicials i els agents del Servei de Policia judicials poden dirigir-se als organismes i entitats públics que han de col·laborar proporcionant informació relativa al domicili i al lloc de treball del deutor.
