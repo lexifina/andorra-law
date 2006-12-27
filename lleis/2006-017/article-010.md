@@ -1,0 +1,9 @@
+# Article 10
+Requisits específics
+Per obtenir la residència passiva la persona sol·licitant, com a titular principal i inicial, ha de reunir igualment els requisits següents:
+a) Ésser major d'edat o menor emancipat, i no estar incapacitat per resolució judicial ferma.
+b) Acreditar que es disposa de mitjans econòmics suficients, d'acord amb els requisits que s'estableixin reglamentàriament, que permetin a la persona sol·licitant i a les persones al seu càrrec, o a càrrec del seu cònjuge o parella estable, residir al Principat d'Andorra sense necessitat d'exercir cap activitat laboral o professional per compte d'altri o propi per tot el temps de vigència de la residència passiva.
+c) Justificar i tenir en vigència per a Andorra una cobertura i assegurança per malaltia, incapacitat i vellesa per a la persona sol·licitant i per a les persones al seu càrrec o a càrrec del seu cònjuge o parella estable per tot el temps de vigència de la residència passiva.
+d) Demostrar documentalment que és propietari o llogater d'un habitatge que reuneix les condicions mínimes d'habitabilitat requerides reglamentàriament, o que ha iniciat els tràmits per adquirir un habitatge al Principat en les mateixes condicions, els quals hauran de concloure en el termini d'un any a comptar de
+la presentació de la sol·licitud de residència. En el supòsit que existeixi una relació de parentesc en línia recta o col·lateral, fins al tercer grau inclòs, entre el sol·licitant i un resident passiu també principal, és suficient acreditar que té dret a residir en el mateix habitatge d'aquest últim, sempre que les condicions de l'habitatge ho permetin d'acord amb la legislació vigent.
+e) La signatura del sol·licitant i de les persones en nom de qui sol·licita autorització de residència passiva, d'un compromís de fixar la seva residència principal i efectiva al Principat d'Andorra i de mantenir en vigor el contracte d'assegurança esmentat en l'apartat c).

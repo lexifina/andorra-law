@@ -1,0 +1,3 @@
+# Article 16
+Extinció de la situació de dependència
+Tota persona que ostenti una residència passiva a càrrec d'un titular principal i deixi d'estar a càrrec d'aquest, haurà de sol·licitar, si vol continuar ostentant aquesta condició, una nova autorització de residència passiva com a titular principal, d'acord amb els requisits d'aquesta Llei. No obstant, si ho sol·licita en un termini màxim d'un any el pagament de taxes i el termini de vigència de l'autorització es regirà per les mateixes normes que regulen la renovació d'autorització i sols li seran requerits els documents que no li haguessin estat exigits com a persona a càrrec.

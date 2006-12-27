@@ -1,0 +1,4 @@
+# Article 11
+Dipòsit de garantia
+El titular principal d'una residència passiva ha de fer efectiu i dipositar a l'Institut Nacional Andorrà de Finances l'import de trenta mil euros (30.000 euros), no remunerats, actualitzats a partir de l'entrada en vigor d'aquesta Llei d'acord amb el que estableixi anualment la Llei del pressupost. A més, el titular principal també ha de dipositar set mil euros (7.000 euros), actualitzats d'acord amb el mateix criteri i no remunerats, per cadascuna de les persones al seu càrrec que adquireixin la condició de resident passiu d'acord amb els articles 13 i 14.
+En cas de causar baixa, ser anul·lada o no renovar-se l'autorització de residència, es restitueix el dipòsit, amb la reserva de les retencions que es puguin produir per incompliment de les obligacions davant de l'Administració.

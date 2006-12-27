@@ -1,0 +1,9 @@
+# Article 14
+Concessió per reagrupament
+1. Les persones esmentades en l'article anterior poden accedir a la condició de resident passiu en el moment que el titular principal sol·liciti la residència o, posteriorment, per reagrupament familiar, sempre que el titular de la residència acrediti que disposa dels mitjans suficients per fer-se càrrec d'aquestes persones i que disposa d'un allotjament amb les condicions legals d'habitabilitat suficients, i que la persona que vol adquirir la condició de resident no representa un risc per a la seguretat de l'Estat, les persones, els béns o l'ordre públic, disposa d'una assegurança que cobreixi de forma suficient i vàlida pel Principat d'Andorra qualsevol tipus de despesa mèdica o sanitària, i no suposa
+un risc per a la salut pública. El compliment d'aquest darrer requisit s'acredita mitjançant un certificat mèdic expedit pel Servei de Medicina Legal, en el cas
+de menors fins 14 anys, o pel fet d'haver estat declarat apte per residir pel Servei Mèdic d'Immigració, en el cas de majors d'aquesta edat.
+2. Als efectes d'aplicació de l'article anterior les unions estables de parella s'equiparen al matrimoni, amb les salvetats següents:
+a) La persona que hagi donat dret al reagrupament familiar de la seva parella
+no pot donar dret al reagrupament familiar d'una nova parella fins que hagin transcorregut almenys cinc anys des de l'anterior inscripció al Registre d'unions estables de parella.
+b) Si s'extingeix la unió estable de parella d'una persona que hagi obtingut una autorització d'immigració passiva en el marc del reagrupament familiar, l'eventual nova unió estable de parella d'aquesta persona no pot donar lloc al reagrupament familiar de la nova parella fins que hagin transcorregut almenys cinc anys des de la cancel·lació, al Registre d'unions estables de parella, de la unió estable anterior.

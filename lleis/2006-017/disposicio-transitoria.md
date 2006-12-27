@@ -1,0 +1,2 @@
+# Disposició transitòria
+Les persones titulars d'autoritzacions de residència passiva que es trobin en la situació definida en la disposició addicional segona i que hagin fet efectius els dipòsits a què es refereix l'article 8 de la Llei qualificada de modificació de la Llei qualificada de residències passives, del 28 de novembre del 1996, poden sol·licitar prop de l'Institut Nacional Andorrà de Finances, en el termini màxim de tres anys a partir de la data d'entrada en vigor d'aquesta Llei, el retorn no remunerat dels imports dels dipòsits efectuats.
