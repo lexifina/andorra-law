@@ -1,0 +1,17 @@
+Llei 14/2006,
+del 27 d'octubre, de modificació de la Llei 19/2004, del 3 de novembre, de l'impost indirecte sobre les activitats comercials
+Atès que el Consell General en la seva sessió del dia 27 d'octubre del 2006 ha aprovat la següent:
+Llei 14/2006, del 27 d'octubre, de modificació de la Llei 19/2004, del 3 de novembre, de l'impost indirecte sobre les activitats comercials
+Exposició de motius
+Després de més d'un any de l'aprovació de la Llei 19/2004, del 3 de novembre,
+de l'impost indirecte sobre les activitats comercials, s'ha considerat oportú i necessari introduir-hi una sèrie de modificacions. Aquestes modificacions, principalment d'àmbit tècnic, tenen l'objectiu, per una banda, de corregir alguna ineficiència detectada del model tributari previst inicialment i, per altra banda, d'agilitar i de facilitar la gestió per als obligats tributaris en relació amb aquest tribut. De les modificacions més significatives introduïdes es destaquen les següents:
+En primer lloc, s'efectuen una sèrie de precisions, per motius tècnics, en relació amb el trasllat de l'impost. Així, es preveu que per a les operacions d'importació en què el tipus de gravamen de l'impost de mercaderies indirecte és un tipus ad valorem, l'impost indirecte sobre les activitats comercials es trasllada dins el tipus de l'impost de mercaderies indirecte, és a dir, que els importadors no han de repercutir l'impost indirecte sobre les activitats comercials, de forma explícita, en el preu dels béns. Per contra, en les operacions de lliurament de béns produïts o elaborats en territori andorrà, es preveu que el trasllat de l'impost s'efectuï de forma explícita, a més de l'impost indirecte sobre la producció interna.
+En segon lloc, es precisa la base sobre la qual es practica la devolució per motius d'exportació de béns prèviament importats, per tal de definir amb més claredat aquest concepte.
+En tercer lloc, es modifica l'article relacionat amb les obligacions formals dels obligats tributaris, les quals se simplifiquen i esdevenen les mateixes que s'estableixen per als importadors en el cas d'operacions d'importació, o per als productors de béns en les operacions de lliurament de béns produïts o
+elaborats a Andorra.
+Una altra modificació es relaciona amb la liquidació de l'impost i dels seus pagaments a compte, en les operacions de lliuraments de béns produïts o
+elaborats dins l'àmbit territorial de l'impost. Així, amb l'objectiu de facilitar la gestió de la liquidació de l'impost per als productors, es preveu que els obligats tributaris únicament liquidin un pagament a compte i una regularització anyal,
+en lloc dels dos pagaments a compte, un per cada semestre, i la regularització, previstos inicialment. A més, la base per realitzar aquest pagament a compte
+es calcularà a partir de les dades del mateix període, cosa que permet ajustar més la liquidació a l'activitat real de l'empresari o professional.
+Finalment, es modifiquen els articles relatius a les infraccions i sancions, que adeqüen el contingut amb la remissió al règim sancionador establert en l'impost de mercaderies indirecte per a les operacions d'importació, i en l'impost indirecte sobre la producció interna per a les operacions de lliurament de béns produïts o elaborats a Andorra.
+Aquesta Llei consta de 9 articles cadascun dels quals modifica un article o una disposició de la Llei 19/2004, del 3 de novembre, de l'impost indirecte sobre les activitats comercials, i d'una disposició final.
