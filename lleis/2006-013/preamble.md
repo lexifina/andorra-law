@@ -1,0 +1,14 @@
+Llei 13/2006,
+del 27 d'octubre, de modificació de la Llei 18/2004, del 3 de novembre, de l'impost indirecte sobre la producció interna
+Atès que el Consell General en la seva sessió del dia 27 d'octubre del 2006 ha aprovat la següent:
+Llei 13/2006, del 27 d'octubre, de modificació de la Llei 18/2004, del 3 de novembre, de l'impost indirecte sobre la producció interna
+Exposició de motius
+Després de més d'un any de l'aprovació de la Llei 18/2004, del 3 de novembre,
+de l'impost indirecte sobre la producció interna, s'ha considerat oportú i necessari introduir-hi una sèrie de modificacions. Aquestes modificacions, principalment d'àmbit tècnic, tenen l'objectiu, per una banda, de corregir alguna ineficiència detectada del model tributari previst inicialment i, per altra banda, d'agilitar i de facilitar la gestió pels obligats tributaris en relació amb aquest tribut. De les modificacions més significatives introduïdes en destaquen les següents:
+En primer lloc, es modifica el model de liquidació de l'impost en relació amb els seus pagaments a compte. Així, amb l'objectiu de facilitar la gestió de la liquidació de l'impost, es preveu que els obligats tributaris únicament liquidin un pagament a compte i una regularització anyal, en lloc dels dos pagaments a
+compte, un per cada semestre, i la regularització, previstos inicialment. A més, la base per realitzar aquest pagament a compte es calcularà a partir de les
+dades del mateix període, fet que permet ajustar més la liquidació a l'activitat real de l'empresari o professional. Com a conseqüència d'aquest canvi, se suprimeixen la disposició addicional primera i la disposició transitòria primera. També es modifica la disposició addicional segona, i s'estableix que a totes les primeres transmissions de béns immobles realitzades en el marc de
+promocions immobiliàries s'hi aplica el tipus reduït de l'1%, tant si estan exemptes de l'impost sobre transmissions patrimonials immobiliàries com si no
+ho estan.
+Finalment, s'introdueixen tres modificacions en relació amb les variables de les activitats que s'utilitzen en el règim de determinació objectiva de la quota de liquidació. En el cas de la variable "personal ocupat", s'estableix que les persones amb discapacitat, d'acord amb els criteris previstos en la Llei de garantia dels drets de les persones amb discapacitat i les seves normes de desplegament, no computin en el càlcul d'aquesta variable. Pel que fa a la variable "superfície", se suprimeix la ponderació establerta pels índexs de localització determinats per cada comú, a efectes de simplificar la gestió d'aquesta variable. I finalment, se suprimeix la variable "superfície del forn" atès que no s'utilitza en cap mòdul de les activitats.
+Aquesta Llei consta de 13 articles cadascun dels quals modifica un article o una disposició de la Llei 18/2004, del 3 de novembre, de l'impost indirecte sobre la producció interna, i d'una disposició final.
