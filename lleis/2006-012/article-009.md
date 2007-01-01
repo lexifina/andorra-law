@@ -1,0 +1,3 @@
+# Article 9
+S'afegeix un segon paràgraf a la disposició transitòria quarta amb la redacció següent:
+"Les prestacions de serveis que estiguin relacionades directament amb els lliuraments de béns corresponents al subministrament d'energia elèctrica o serveis de comunicació, realitzades per les empreses andorranes de distribució d'electricitat i pel Servei de Telecomunicacions d'Andorra, tributen al tipus zero mentre estigui vigent el cànon del 10% sobre el consum d'energia elèctrica i de comunicacions. La quota de liquidació resultant d'aquests lliuraments de béns durant el període de vigència del cànon és zero."

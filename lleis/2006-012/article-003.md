@@ -1,0 +1,6 @@
+# Article 3
+1. L'apartat 5 de l'article 17, Determinació de la quota de liquidació pel sistema de determinació objectiva, queda redactat de la manera següent:
+"Les magnituds de les variables utilitzades, quan el valor de les quals no es determini en funció de la variable ingressos, es determinen segons les
+condicions existents el primer dia del primer període de liquidació. Quan amb posterioritat es produeix una variació superior al 20% en les magnituds de les variables declarades, l'obligat tributari ha de comunicar aquest canvi al ministeri encarregat de les finances per tal que la determinació de la quota de liquidació, a partir del moment en què tingui lloc aquesta variació, es calculi d'acord amb les noves magnituds."
+2. L'apartat 9 de l'article 17, Determinació de la quota de liquidació pel sistema de determinació objectiva, queda redactat de la manera següent:
+"En cas d'inici o de finalització d'activitats en una data diferent de l'1 de gener o del 31 de desembre respectivament, el càlcul de la quota de liquidació s'efectua prorratejant les variables existents en el moment d'inici o finalització de l'activitat, en funció de la durada del període de l'any en què hi ha hagut activitat. Aquest prorrateig no s'aplica a les variables el valor de les quals es determini en funció de la variable ingressos."
