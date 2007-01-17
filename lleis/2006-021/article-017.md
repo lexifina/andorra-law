@@ -1,0 +1,4 @@
+# Article 17
+Devolució per ingressos indeguts
+1. L'Administració ha de retornar l'impost ingressat, pel procediment de devolució d'ingressos indeguts, en aquells casos en què l'impost es liquidi amb anterioritat al seu meritament, si en un termini de noranta dies després d'efectuar la liquidació l'obligat tributari certifica que no s'ha produït la transmissió, sempre que no hagi finalitzat el període de prescripció de l'impost. A aquest efecte, s'ha de presentar la declaració original del pagament de l'impost, en els models i formes que s'estableixin reglamentàriament.
+2. Quan la retenció prevista a l'article 7 sigui superior al deute tributari, l'Administració ha de retornar aquesta diferència als obligats tributaris en la forma i els terminis previstos en el Reglament, i sempre que es reclami la devolució abans del període de prescripció de l'impost.

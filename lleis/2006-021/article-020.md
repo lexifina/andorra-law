@@ -1,0 +1,6 @@
+# Article 20
+Notificacions i recursos de les infraccions
+1. Prèviament a l'acte d'imposició d'una sanció, s'ha de notificar a la persona interessada la proposta de resolució amb indicació dels fets imputats, el precepte infringit i la quantia de la multa. La persona interessada disposa d'un termini de tretze dies hàbils per al·legar tot allò que consideri oportú per a la seva defensa.
+2. Transcorregut el termini d'al·legacions, l'òrgan competent de l'Administració dicta la resolució que correspongui, que es pot recórrer en els termes establerts per la Llei de bases de l'ordenament tributari.
+3. En qualsevol cas, i per tal que l'acte administratiu quedi en suspens, amb la interposició del recurs s'ha de dipositar una fiança que, a judici de l'autoritat competent, sigui suficient per garantir el pagament del deute tributari.
+4. En el cas de les transmissions patrimonials realitzades a través d'escriptura pública, el fedatari públic, a requeriment de l'Administració, ha de notificar a l'obligat tributari qualsevol sanció que recaigui contra ell. Si en el termini que es fixi l'obligat tributari no fa efectiu el pagament de la sanció, el fedatari públic que autoritza l'escriptura pública ha de comunicar a l'Administració les dades personals del contribuent.
