@@ -1,0 +1,2 @@
+# Article 1
+S'aprova un crèdit extraordinari per un import de 9.414.222,51 euros, destinat a la licitació dels treballs de projecte i realització de les adaptacions i ampliacions necessàries a l'Estació depuradora d'aigües residuals nord-occidental, a la Parròquia de la Massana, per a la partida pressupostària 220 Departament Urbanisme i Ordenament Territorial - 220 Obres Públiques - 60390 Altra maquinària i equipament - 1198/0000000005 Construcció (depuradores).
