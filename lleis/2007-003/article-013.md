@@ -1,0 +1,8 @@
+# Article 13
+Estructura i organització
+El Cos Penitenciari està integrat per:
+a) Llocs de treball i personal del Cos Especial, amb funcions pròpies, constituït per funcionaris penitenciaris assignats als diversos nivells de classificació.
+b) Llocs de treball de personal administratiu i tècnic no reservat al Cos Especial. Aquests llocs de treball són proveïts en la forma i les condicions fixades per la Llei de la funció pública per promoció interna entre funcionaris en actiu del Cos Penitenciari i, si no n'hi ha, la promoció es fa entre els funcionaris de l'Administració general; a manca dels uns i dels altres es fa pel procediment selectiu d'ingrés.
+El règim estatutari o contractual d'aquest personal és el regulat per la Llei de la funció pública, que els és aplicable íntegrament com a funcionaris o agents de l'Administració general.
+Per al nomenament d'aquells llocs administratius i tècnics es requereix l'informe previ favorable del ministre titular d'interior. A aquest efecte, finalitzat el procés selectiu d'ingrés i abans de proposar al Govern el nomenament del candidat o
+dels candidats que hagin obtingut la millor qualificació global de les proves realitzades a què es refereix l'article 32 de la Llei de la funció pública, el Comitè Tècnic de Selecció ho ha de fer saber al ministre titular d'interior i trametre-li els resultats de les proves i dels informes perquè s'hi pugui pronunciar. L'estructura del Cos Penitenciari és susceptible en tot moment de modificació i de diversificació a proposta del ministre titular d'interior. El ministre titular d'interior a proposta del director del Cos Penitenciari, pot procedir a la creació, modificació o supressió d'un servei conjuntural.

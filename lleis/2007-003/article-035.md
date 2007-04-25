@@ -1,0 +1,22 @@
+# Article 35
+Condicions físiques i psíquiques
+1. Els funcionaris del Cos Penitenciari (inclòs el personal administratiu i tècnic) tenen dret a una revisió mèdica cada dos anys.
+2. Els membres del Cos Penitenciari han d'estar en les condicions físiques i psíquiques adequades per ocupar llurs llocs de treball. La revisió psicotècnica i/o mèdica dels membres del Cos s'efectua sempre que hi hagi símptomes o
+indicis suficients per creure que al funcionari afectat li ha sobrevingut algun problema físic o psíquic que pot afectar negativament el seu treball, o que el pot fer no apte per a la feina, o bé que pugui posar en perill la seva integritat física o la d'altri.
+Davant la detecció d'algun d'aquests problemes, el director del Cos Penitenciari pot acordar que el membre afectat se sotmeti a una revisió psicotècnica i/o mèdica per determinar l'abast del seu problema i la repercussió que té o pot tenir en el seu lloc de treball. El director ha de comunicar per escrit la seva decisió motivada a la persona interessada i al ministre titular d'interior.
+La revisió psicotècnica i/o mèdica l'efectua en tot cas un comitè mèdic compost per un metge forense i pels metges especialistes i/o professionals tècnics que siguin necessaris, designats pel ministre titular d'interior; el seu funcionament s'ha de determinar reglamentàriament.
+El comitè mèdic, després de la consulta prèvia al metge que tracta la persona interessada, emet el dictamen corresponent, que indica o suggereix
+eventualment el termini de suspensió temporal o el nou lloc de treball. D'acord amb aquest dictamen, el ministre titular d'interior pot acordar:
+a) El seguiment del tractament o de les prescripcions mèdiques que en el
+dictamen s'indiquin per al compliment degut de les funcions durant un temps determinat, susceptible de renovacions.
+b) La suspensió temporal del membre concernit del lloc de treball que ocupa si
+el tractament no se segueix degudament o les prescripcions mèdiques no es respecten.
+c) L'adaptació del membre del Cos concernit a un nou lloc de treball que pugui desenvolupar correctament, amb l'adaptació corresponent de l'estructura
+salarial al nou lloc de treball.
+3. Si el membre del Cos Penitenciari concernit refusa sotmetre's a la revisió psicotècnica i/o mèdica, el ministre titular d'interior també pot acordar motivadament, amb les dades i els elements de què disposa, la suspensió del membre concernit del lloc de treball que ocupa per un període no superior a sis mesos o bé l'adaptació del membre del Cos concernit a un nou lloc de treball
+que pugui desenvolupar correctament, amb l'adaptació corresponent de
+l'estructura salarial al nou lloc de treball.
+4. El comitè mèdic indicat té també la funció d'examinar els membres del Cos Penitenciari que presenten certificats mèdics o situacions susceptibles de modificar les condicions de treball, com la impossibilitat d'efectuar treballs nocturns o d'altres. En aquests supòsits, el membre del Cos Penitenciari concernit ha de sol·licitar per escrit el canvi de condicions de treball que demana i adjuntar les certificacions mèdiques que consideri oportunes, i ha de ser examinat pel comitè mèdic, que ha d'emetre preceptivament un dictamen vinculant.
+5. Els membres del Cos Penitenciari poden ser declarats en situació de reforma quan, després de l'alta mèdica i de conformitat amb la revisió psicotècnica i/o mèdica que se'ls practiqui:
+a) La situació d'invalidesa o la situació resultant de la revisió psicotècnica i/o mèdica els impedeix la realització de les funcions del lloc de treball de la plaça de què son titulars, però estan capacitats per exercir les funcions d'un altre lloc de treball, preferentment del Cos Penitenciari o de l'Administració general.
+b) Tot i estar capacitats per exercir les funcions del lloc de treball de la plaça de què són titulars, la situació d'invalidesa o la situació resultant de la revisió psicotècnica i/o mèdica els impedeix la realització completa de la jornada de treball. La declaració de la situació de reforma i l'adscripció consegüent del membre del Cos Penitenciari a la nova plaça correspon al ministre titular d'interior. Al membre del Cos Penitenciari en situació de reforma se li garanteix el manteniment de les retribucions fixes que rebia amb anterioritat a la declaració de la situació de reforma. A aquest efecte, el ministre titular d'interior li ha d'assignar la diferència entre aquella quantitat i les percepcions que en el seu cas li assigni l'organisme encarregat de la seguretat social.

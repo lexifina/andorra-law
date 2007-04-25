@@ -1,0 +1,3 @@
+# Article 67
+Tramitació de l'expedient en cas de procediment judicial
+La iniciació d'un procediment penal contra un membre del Cos Penitenciari no impedeix la tramitació d'un expedient disciplinari pels mateixos fets, si escau. No obstant això, la resolució definitiva de l'expedient només es pot produir quan la sentència dictada en l'àmbit penal sigui ferma, vinculant a l'Administració la declaració de fets provats. Les mesures cautelars que es puguin adoptar en aquests supòsits poden durar fins que es dicti resolució definitiva en el procediment judicial. Són aplicables, en tot cas, les disposicions contingudes en els articles 64 i 65.
