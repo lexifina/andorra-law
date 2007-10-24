@@ -1,0 +1,4 @@
+# Article 11
+Drets i deures aparellats a l'acció
+Cada acció confereix al seu titular la condició de soci i els drets inherents que se'n deriven, amb el dret de subscripció preferent de les noves accions que s'emetin, en la forma prevista en els presents estatuts, i el dret de vot a les juntes generals. Cada acció dóna dret a un vot.
+La possessió d'una o més accions comporta la submissió del seu titular als estatuts de la societat i als acords de la Junta General d'Accionistes, sense perjudici de les accions d'impugnació que pugui exercir.
