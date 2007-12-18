@@ -1,0 +1,3 @@
+# Disposició final segona
+Per a la reducció del capital social de la societat concessionària Centre de Tractament de Residus d'Andorra, SA que comporta la modificació de l'article 6 dels estatuts socials d'acord amb l'article segon d'aquesta Llei, s'ha d'executar l'acord de reducció del capital social corresponent adoptat per la Junta General Extraordinària de la societat en aplicació del que preveu l'article 21 b) dels estatuts de la societat, amb reintegrament al patrimoni personal dels accionistes de forma proporcional a les accions de les quals siguin titulars, dels recursos econòmics que queden alliberats com a conseqüència de la reducció
+del capital social.
