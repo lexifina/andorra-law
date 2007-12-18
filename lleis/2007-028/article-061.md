@@ -1,0 +1,4 @@
+# Article 61
+Candidatures comunals
+Les candidatures, que seran presentades per un 0,5% del cens parroquial i, en qualsevol cas, per no menys de deu presentadors, estaran compostes per una
+llista ordenada de tants candidats com consellers de comú s'elegeixin en la parròquia i dos suplents. Els electors votaran les llistes en la seva totalitat, sense poder-ne alterar l'ordre ni indicar les seves preferències per un o altre candidat.

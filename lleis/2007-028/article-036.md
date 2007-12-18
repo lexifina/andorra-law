@@ -1,0 +1,5 @@
+# Article 36
+Meses electorals
+1. A cada col·legi electoral es constituiran les meses corresponents, formades com a mínim per dos membres del comú i pels interventors. Les meses seran presidides pels membres del comú per ordre protocol·lari. Les persones que figurin inscrites en les candidatures no poden formar part de les meses electorals. Tanmateix, en el supòsit que la totalitat dels membres del comú siguin candidats, la Junta Electoral procedirà per sorteig a la designació dels dos membres del comú que han de formar part de la mesa, exclosos els
+cònsols major i menor i els dos caps de llista de cada candidatura.
+2. Cadascun dels grups d'electors que hagin presentat una candidatura pot designar un interventor titular i un interventor suplent per mesa electoral. La designació ha de ser comunicada als comuns pels representants legals de la candidatura com a màxim el dia hàbil anterior a la jornada electoral.

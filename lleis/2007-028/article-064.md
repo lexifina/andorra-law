@@ -1,0 +1,10 @@
+# Article 64
+Elecció de cònsol major i menor, moció de censura i dimissió
+1. Els cònsols major i menor seran elegits d'entre i pels consellers de comú. No podran exercir més de dos mandats consecutius complets.
+2. Els cònsols major o menor cessaran en el seu càrrec si els és presentada
+una moció de censura, amb un conseller de comú com a candidat alternatiu i aquesta obtingués el vot favorable de la majoria absoluta dels membres de dret del Consell de Comú.
+3. Si la moció de censura no reeixís, el conseller de comú presentat com a candidat alternatiu no podria ésser presentat de nou en tot el que restés de mandat.
+4. El cònsol major o el cònsol menor podran presentar de forma irrevocable la dimissió del seu càrrec, passant a ésser membres del Consell de Comú. La
+seva substitució s'efectuarà per mitjà del mateix sistema amb què van ser elegits, i haurà de tenir lloc durant els quinze dies naturals següents a la presentació de la seva dimissió.
+5. Qualsevol conseller de comú podrà presentar davant el cònsol major o el
+cònsol menor la seva renúncia irrevocable al càrrec, la qual tindrà efecte a partir dels quinze dies naturals d'haver-la presentada. El substituirà en el càrrec el candidat següent al darrer escollit de la seva llista electoral.
