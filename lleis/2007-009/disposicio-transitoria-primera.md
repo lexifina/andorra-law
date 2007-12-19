@@ -1,0 +1,2 @@
+# Disposició transitòria primera
+El Consell del Cens s'ha de reunir per primera vegada en el termini màxim de 6 mesos des de l'entrada en vigor d'aquesta Llei. Excepcionalment, a aquesta primera reunió del Consell del Cens hi assisteixen els representants de tots els comuns, i l'únic punt de l'ordre del dia serà la designació dels representants dels comuns en els propers consells, així com fixar els criteris de renovació.

@@ -1,0 +1,21 @@
+Llei 9/2007,
+del 17 de maig, del cens
+Atès que el Consell General en la seva sessió del dia 17 de maig del 2007 ha aprovat la següent:
+llei 9/2007, del 17 de maig, del cens
+Exposició de motius
+L'article 4 de la Llei qualificada de delimitació de competències dels comuns, del 4 de novembre de 1993, disposa que són competències dels comuns la conformació, el control i el manteniment del cens de població de la parròquia, d'acord amb les normes generals de coordinació nacional.
+Així, des de l'any 1993 s'ha vist la necessitat de crear el marc legal que estableixi la coordinació nacional dels censos parroquials, la conformació, el control i el manteniment dels quals, fins a la data d'avui, se n'ha fet càrrec cada comú, a la seva discreció.
+La present Llei acompleix el mandat de la Llei qualificada de delimitació de competències dels comuns, i ho fa configurant el cens nacional de població del Principat d'Andorra com un sistema integrat de tots els censos parroquials, de forma que el cens continua sent una responsabilitat parroquial i segueix sent gestionat pels comuns corresponents, però al mateix temps aquesta gestió es
+fa segons unes normes generals comunes, que estableix aquesta Llei, i es crea
+el Consell del Cens, com a ens que permet canalitzar la coordinació en aquesta matèria entre l'Administració general i les administracions comunals.
+El Consell del Cens, en la seva qualitat d'òrgan de coordinació entre el Govern i els comuns, està integrat, de forma paritària, per representants de les dues administracions, i és necessària la majoria per adoptar acords. Tanmateix, per no bloquejar els procediments en què se sol·liciti el seu parer, es preveu que el seu president tingui vot diriment en cas d'empat, i també que en cas que no es resolgui en cap sentit dintre d'un determinat termini se segueixi el procediment corresponent sense el seu informe. La Llei estableix que el Consell del Cens aprova i modifica el seu propi reglament intern de funcionament.
+D'altra banda, la present Llei respecta el que disposa la Llei qualificada de protecció de dades personals, tenint en compte, però, les excepcions que
+aquesta mateixa Llei qualificada de protecció de dades personals preveu
+respecte dels registres que tenen una normativa pròpia. I, en aquest sentit, cal destacar que els drets d'oposició i supressió en queden exclosos, i que els drets d'informació, accés i rectificació s'han d'exercir segons les disposicions pròpies i específiques de la present Llei.
+La inscripció al cens parroquial és prova de la residència a la parròquia en què està empadronada la persona, però la situació d'immigració dels estrangers, i la seva residència permanent i efectiva, únicament s'acredita de la forma que disposa la Llei qualificada d'immigració.
+S'estableix l'obligatorietat d'inscriure's al cens de la parròquia on es resideix, i es preveu la forma com s'han d'inscriure les persones menors d'edat no emancipades i les persones incapacitades, i també la inscripció d'ofici de les persones que no ho facin voluntàriament.
+També s'estableixen els supòsits en els quals és procedent la baixa, tant voluntària com d'ofici, del cens, amb les degudes garanties per a les persones afectades.
+A l'efecte d'assolir que els censos reflecteixin la realitat de la població resident a cada parròquia, i que les dades personals que hi constin siguin verídiques, es preveu, a més de la comunicació del mateix interessat, les comunicacions de dades d'altres organismes oficials, i les modificacions de dades d'ofici realitzades pels mateixos comuns -salvaguardant el dret d'informació i d'al·legació de la persona interessada-; a aquest efecte es preveu la pràctica de revisions periòdiques i operacions de camp.
+S'estableix, altrament, els requisits de comunicació de les dades per part dels comuns a altres organismes, i també es preveu la comunicació a l'Agència Andorrana de Protecció de Dades, així com els requisits que han de complir les cessions de dades que es realitzen a efectes estadístics.
+Finalment, es preveu el règim d'infraccions i de sancions a les normes de la Llei.
+La Llei estableix també un règim transitori per ser aplicada als actuals censos parroquials, especialment per depurar les dades que s'hi contenen, així com la forma i el termini per a la constitució del Consell del Cens.

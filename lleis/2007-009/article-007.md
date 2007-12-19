@@ -1,0 +1,5 @@
+# Article 7
+Inscripció d'ofici
+1. Els comuns donen d'alta d'ofici en el seu cens parroquial les persones respecte de les quals tenen coneixement que resideixen a la parròquia i que no figuren inscrites al seu cens parroquial.
+2. Abans de donar l'alta d'ofici al cens parroquial, el comú comunica a la persona afectada el fet que no figura inscrita al cens parroquial, i l'insta a inscriure's voluntàriament o a realitzar les al·legacions que cregui convenients, en el termini d'un mes. Si l'afectat s'inscriu voluntàriament dins d'aquest termini, o bé prova que no té l'obligació d'estar inscrit al seu cens parroquial, el comú arxiva l'expedient. Si no es produeix la inscripció voluntària, el comú, després d'haver consultat el Consell del Cens i de realitzar les comprovacions que cregui convenients, resol d'ofici l'alta de la persona en qüestió, sense perjudici de la imposició de les sancions que poden correspondre.
+3. En el cas dels menors i de les persones incapacitades, la comunicació es dirigeix als seus representants legals.
