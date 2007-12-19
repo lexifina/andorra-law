@@ -1,0 +1,5 @@
+# Disposició transitòria primera
+S'assimilen al NIA els números d'identificació personal vigents, coneguts com a números de cens, assignats fins el moment d'entrada en vigor d'aquesta Llei.
+Han de ser tramesos pel Govern, durant el primer mes de vigència de la Llei, a l'OIA, que introdueix al Registre d'Identificació Administrativa el número i les dades esmentades a l'article 8.1 i informa les persones concernides que tenen
+a la seva disposició el document acreditatiu del NIA. Quan aquestes no puguin ser localitzades, és suficient la comunicació mitjançant publicació al Butlletí Oficial del Principat d'Andorra.
+Si en el curs de la introducció de dades al RIA es detecta que a una mateixa persona li han estat assignats diversos números d'identificació, l'OIA ha de suprimir d'ofici els que escaigui, un cop escoltada la persona interessada. En el cas que aquesta no pugui ser localitzada, o no hagi pogut ser escoltada en el termini de tres mesos després de ser requerida a l'efecte, l'OIA anul·la tots els números excepte el que va ser assignat en primer lloc.

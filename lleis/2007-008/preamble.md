@@ -1,0 +1,11 @@
+Llei 8/2007,
+del 17 de maig, de regulació del Número d'Identificació Administrativa
+Atès que el Consell General en la seva sessió del dia 17 de maig del 2007 ha aprovat la següent:
+llei 8/2007, del 17 de maig, de regulació del Número d'Identificació Administrativa
+Exposició de motius
+Tant des del Govern com des dels comuns, s'ha constatat, des de fa temps, la necessitat d'unificar el número d'identificació que les administracions assignen a les persones físiques pels tractes que tenen amb l'Administració general o comunal, amb la finalitat d'evitar confusions.
+Aquest és el motiu pel qual, mitjançant aquesta Llei, s'estableix un únic Número d'Identificació Administrativa (NIA) que serveix tant per identificar les persones físiques, ja sigui quan es relacionen amb el Govern, ja sigui quan es relacionen amb qualsevol comú. En aquest sentit, també s'ha cregut convenient que el
+NIA serveixi per identificar les persones quan es relacionen amb altres organismes de naturalesa pública.
+A aquest efecte es crea un únic Registre d'Identificació Administrativa (RIA) i l'Oficina d'Identificació Administrativa (OIA), organisme adscrit al ministeri encarregat d'interior, que centralitza la gestió del NIA i d'aquell Registre. Per tal de garantir el funcionament harmònic entre totes les administracions en relació amb la gestió d'aquesta forma d'identificació, es crea la Comissió Consultiva del Registre d'Identificació Administrativa, organisme de caràcter consultiu en el qual participen representants del Govern i dels comuns, i s'assegura l'accés de totes les administracions al Registre d'Identificació Administrativa.
+Aquesta Llei també preveu la forma com s'ha de sol·licitar i assignar el NIA, amb la creació d'un document acreditatiu, les dades que hi han de constar i els supòsits de modificació a instància de part i d'ofici, i l'àmbit de presentació i ús del NIA.
+S'ha previst, també, l'aplicació amb caràcter subsidiari de la Llei qualificada de protecció de dades personals, excepte els drets d'oposició i supressió, per garantir el tractament adequat en tots els supòsits que no preveu aquesta Llei. Finalment, es regulen el règim d'infraccions i sancions, així com el règim transitori d'aplicació de la normativa.
