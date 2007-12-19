@@ -1,0 +1,2 @@
+# Article 1
+S'autoritza el Govern a regularitzar provisionalment les quotes de participació transferides als comuns segons els imports liquidats en els pressupostos de l'Administració general dels anys 2006 i 2007, corresponents a les transferències als comuns dels dits anys, fins que el Consell General aprovi les liquidacions dels pressupostos a proposta del Tribunal de Comptes i sigui coneguda la xifra exacta dels ingressos corresponents als dits anys.
