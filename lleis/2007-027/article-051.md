@@ -1,0 +1,9 @@
+# Article 51
+Substitució de la disposició transitòria tercera
+Se substitueix la disposició transitòria tercera de la LQI, que queda redactada com segueix:
+"Disposició transitòria tercera
+Continua vigent la Llei 21/2004, del 14 de desembre del 2004, qualificada de mesures d'adaptació de la Llei qualificada d'immigració, del 14 de maig del 2002, al règim transitori d'accés al mercat de treball establert entre la Unió Europea i els nous estats membres.
+S'aplica la mateixa suspensió, i també la facultat de deixar-la sense efecte, previstes en la Llei referida, pel que fa als nacionals d'altres estats que esdevinguin membres de la Unió Europea a comptar d'ara. El termini màxim de
+set anys de suspensió s'ha de computar a comptar del moment en què cada
+estat esdevingui nou membre. No obstant això, per tal de coordinar la legislació andorrana amb la de França i Espanya d'acord amb el Conveni entre el
+Principat d'Andorra, el Regne d'Espanya i la República Francesa del 4 de desembre del 2000, el Govern pot, mitjançant decret, establir un període de suspensió equivalent, com a màxim, al que adoptin els dos estats veïns.".
