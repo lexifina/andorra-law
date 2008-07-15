@@ -1,0 +1,5 @@
+# Article 63
+Procediment sancionador
+1. Per determinar la responsabilitat disciplinària s’ha d’obrir un expedient administratiu al presumpte infractor. El rector designa l’instructor de l’expedient. L’instructor tindrà la condició de funcionari públic o bé de contractat laboral estable, d’acord amb la normativa vigent.
+2. L’instructor ha de practicar les proves pertinents a fi d’esclarir els fets i determinar les responsabilitats, formular el plec de càrrecs corresponent i traslladar-lo a la persona afectada, que té un termini de deu dies per fer les al·legacions pertinents en un plec de descàrrec, i proposar tantes proves com estimi convenients per a la defensa dels seus interessos.
+3. Un cop efectuades aquestes al·legacions, l’instructor ha d’elevar al rector un informe sobre el fons de la qüestió, el qual ha de formular una proposta raonada que resolgui el cas conforme a dret. A la vista d’aquesta proposta, el rector dicta una resolució definitiva. Aquesta decisió només pot ser recorreguda davant de la jurisdicció administrativa i fiscal.

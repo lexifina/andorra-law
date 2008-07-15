@@ -1,0 +1,2 @@
+# Cinquena
+El ministeri competent en matèria d’ensenyament superior ha de garantir, de conformitat amb el qEl ministeri competent en matèria d’ensenyament superior ha de garantir, de conformitat amb el que estableixi la legislació en matèria de beques i ajuts a l’estudi, que cap persona que compleixi les condicions per cursar estudis superiors amb aprofitament pugui quedar-ne exclosa per raons econòmiques. Disposicions derogatòries

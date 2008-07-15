@@ -1,0 +1,4 @@
+# Article 20
+Designació dels membres del Consell Universitari que representen els sectors empresarials i professionals i les entitats privades
+1. El Govern designa el representant del sector empresarial i professional entre els components d’una terna proposada per la Cambra de Comerç, Indústria i Serveis d’Andorra i pels col·legis professionals. La durada del seu mandat és de dos anys, i pot ser reelegit.
+2. Les persones o les entitats privades que col·laborin amb la Universitat d’Andorra han d’elegir, per lliure acord entre elles, el seu representant. En cas de no arribar a aquest acord, el mateix Consell Universitari ha de designar aquest representant. En ambdós supòsits, la decisió que es prengui s’ha de motivar en funció del suport i dels recursos que la persona elegida -o els interessos que representa- aporti a la Universitat. La durada del seu mandat és de dos anys, i pot ser reelegit.
