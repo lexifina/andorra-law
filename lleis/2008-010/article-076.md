@@ -1,0 +1,7 @@
+# Article 76
+Competències
+1. L’INAF és l’òrgan responsable de vetllar pel bon funcionament de les activitats relacionades amb els OIC i de supervisar el compliment de les disposicions establertes en aquesta Llei.
+2. Per a l’exercici de les funcions previstes en aquesta Llei, l’INAF pot recollir, puntualment o sistemàticament mitjançant l’emissió dels comunicats tècnics oportuns, de les persones físiques o entitats assenyalades en l’2. Per a l’exercici de les funcions previstes en aquesta Llei, l’INAF pot recollir, puntualment o sistemàticament mitjançant l’emissió dels comunicats tècnics oportuns, de les persones físiques o entitats assenyalades en l’article anterior, les informacions que consideri necessàries relacionades amb les matèries objecte d’aquesta Llei. Amb la finalitat de recollir aquesta informació, o de confirmar-ne la veracitat, l’INAF pot sol·licitar aquesta informació i els treballs que consideri necessaris, ja sigui directament o mitjançant auditors externs, i/o realitzant inspeccions in situ.
+3. Els subjectes supervisats estan obligats a posar a disposició de l’INAF els llibres, els registres i els documents que l’INAF sol·liciti.
+4. Les despeses derivades dels treballs efectuats pels auditors externs a demanda de l’INAF són a càrrec de la societat gestora o d’inversió.
+5. L’autoritat supervisora pot declarar altres disposicions a més de les previstes en aquesta Llei sempre que tinguin com a objectiu perseguir la protecció dels inversors i del sistema financer.

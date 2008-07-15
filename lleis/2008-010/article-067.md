@@ -1,0 +1,5 @@
+# Article 67
+Organització de la societat gestora i de la dipositària
+1. Els dipositaris i la societat gestora han d’establir els mecanismes i els procediments adequats per garantir que, en cap cas, la disposició dels actius de l’OIC no es faci sense el seu consentiment i autorització.
+2. L’entitat gestora i el dipositari poden compartir recursos amb exclusió del personal, sempre que, d’una banda, es reuneixen les condicions per protegir els inversors i evitar conflictes d’interessos i, d’altra banda, se sol·liciti autorització p2. L’entitat gestora i el dipositari poden compartir recursos amb exclusió del personal, sempre que, d’una banda, es reuneixen les condicions per protegir els inversors i evitar conflictes d’interessos i, d’altra banda, se sol·liciti autorització prèvia a l’INAF.
+3. Les entitats gestores que inverteixin en derivats han de disposar de sistemes de gestió que garanteixin una valoració quotidiana dels contractes, una anàlisi dels riscos realitzada per àrees o departaments separats i un desglossament de les estratègies desenvolupades.

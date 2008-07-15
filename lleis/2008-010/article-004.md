@@ -1,0 +1,10 @@
+## Títol II. OIC de dret andorrà
+## Capítol primer. Règim general
+# Article 4
+Forma jurídica
+1. Els OIC de dret andorrà revesteixen la forma de fons o de societat o de qualsevol altra forma que s’estableixi en la normativa vigent i requereixen la seva inscripció en el registre corresponent de l’INAF en els termes que estableix l’article 42 d’aquesta Llei.
+2. Els OIC que revesteixen la forma de societat o qualsevol altra forma amb personalitat jurídica pròpia es consideren de dret andorrà si la corresponent persona jurídica és de dret andorrà. En cas que la gestió del patrimoni d’aquestes societats es dugui a terme a través d’una societat gestora, aquesta ha de ser de dret andorrà. Les SICAV només poden gestionar actius pel seu propi compte sense poLes SICAV només poden gestionar actius pel seu propi compte sense poder, en cap cas, rebre el mandat per gestionar actius en nom de tercers.
+3. Els OIC que revesteixen la forma de fons o qualsevol altra forma sense personalitat jurídica representats per una societat gestora es consideren de dret andorrà si la referida societat gestora és de dret andorrà.
+4. Els OIC estructurats com a fons són patrimonis separats sense personalitat jurídica pròpia que tenen, però, capacitat negocial i legitimació processal a través de la seva societat gestora, i s’atribueix al propi fons i no als seus partícips els drets i les obligacions que resultin de l’activitat contractual d’aquella; els partícips són els propietaris del fons, però no poden exercir cap acció o facultat de domini o disposició sobre el patrimoni del fons i, molt especialment, no tenen acció de divisió del patrimoni comú.
+5. La societat gestora té ple poder de representació i administració sobre el fons i tot el seu patrimoni. Les obligacions de fer a càrrec del fons les ha de complir la societat gestora o l’entitat dipositària en el marc de les seves obligacions conforme a aquesta Llei, les seves normes de desenvolupament i el reglament de cada fons; les obligacions patrimonials s’han de complir amb càrrec al patrimoni del fons.
+6. El centre efectiu d’administració dels OIC andorrans ha d’estar situat al Principat d’Andorra.

@@ -1,0 +1,7 @@
+# Article 11
+Valor liquidatiu/preu
+1. Als efectes de fixar el valor liquidatiu, el valor del patrimoni de l’OIC és el resultat de deduir els comptes creditors de la suma de tots els seus actius, valorats amb subjecció a les normes contingudes en aquesta Llei i en les disposicions que la desenvolupen. En els casos que no estiguin previstos en aquestes alguns criteris de valoració, s’han de valorar els actius sempre d’acord amb el seu valor de realització o valor de mercat i segons les normes vigents a escala internacional reconegudes pel sector.
+2. El valor liquidatiu/preu (en endavant, valor liquidatiu) de cada part és el que resulta de dividir el valor del patrimoni dels OIC pel nombre de parts emeses. Quan hi hagi diverses classes de parts, el valor de cada classe és el que resulta de dividir el valor del patrimoni de l’OIC corresponent a la dita classe pel nombre de parts en circulació de la classe corresponent.
+3. El valor liquidatiu de les parts ha de ser calculat per la societat gestora o la societat d’inversió amb la periodicitat establerta al reglament o als estatuts de l’OIC sobre la base de la política d’inversió dels OIC en qüestió i d’acord amb les regles establertes en aquesta Llei.
+4. L’INAF ha d’establir el sistema de tramesa periòdica del valor liquidatiu calculat de cada OIC de dret andorrà per part de l’entitat gestora a l’autoritat supervisora.
+5. L’INAF pot establir mitjançant comunicats tècnics regles addicionals per al càlcul del valor liquidatiu de les parts dels OIC.

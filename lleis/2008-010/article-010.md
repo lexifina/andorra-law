@@ -1,0 +1,8 @@
+# Article 10
+Patrimoni
+1. El patrimoni es divideix en parts alíquotes denominades participacions en la participació establerta al seu reglament. El patrimoni de les SICAV és equivalent al seu actiu net i és atribuït a les accions representatives del seu capital en la proporció establerta al seu reglament o estatut.
+2. Sense perjudici del que estableix l’article 42.4, el patrimoni dels OIC no pot ser inferior a 1.250.000 euros. En el cas dels OIC que tinguin personalitat jurídica i no hagin designat societat gestora, aquest patrimoni mínim és de 300.000 euros. Aquests patrimonis s’han de mantenir mentre els OIC estiguin inscrits a l’INAF.
+3. S’acorda que el patrimoni esmentat pugui ser inferior en un 10% al mínim establert sempre que es restableixi el compliment del requisit durant els tres mesos següents a l’incompliment. En qualsevol cas, tota davallada per sota d’aquest mínim s’ha de comunicar a l’INAF. També s’ha de comunicar el retorn del patrimoni als nivells mínims establerts per llei.
+4. En els casos en què en el decurs dels darrers 12 mesos el patrimoni dels OIC hagi estat per sota del mínim establert més de 3 cops, l’entitat gestora ha de procedir a dissoldre’l i posteriorment a liquidar-lo.
+5. En el cas d’OIC amb compartiments, cadascun dels compartiments ha de tenir un patrimoni mínim de 300.000 euros, sense que, en cap cas, el patrimoni total de l’organisme sigui inferior als imports indicats a l’apartat 2 d’aquest article.
+6. Pel que fa als OIC per als quals la divisa de referència no és l’euro, el control de l’adequació del seu patrimoni al mínim establert en el punt precedent es duu a terme emprant els canvis vigents a la data del control de l’adequació, sense que en cap moment pugui ser inferior al mínim establert en més del 5%.
