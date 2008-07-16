@@ -1,0 +1,2 @@
+# Disposició transitòria cinquena
+El Protectorat ha de mantenir el secret respecte de tots els fets i les notícies de tota mena de què tingui coneixement en l’exercici de les facultats conferides en les presents disposicions transitòries, excepte si de la informació que té pot resultar la comissió d’un delicte. En aquest cas ha de comunicar aquests fets a l’autoritat judicial competent, i trametre-li els documents i la informació de què disposi, sense que això impliqui la suspensió del procés de liquidació.

@@ -1,0 +1,2 @@
+# Disposició transitòria quarta
+Els fedataris públics, a requeriment del Protectorat, han de facilitar qualsevol informació que consti en el seu protocol, o en els protocols notarials dipositats a la Cambra de Notaris, per determinar l’existència de fundacions constituïdes abans de l’entrada en vigor d’aquesta Llei, i també còpies de qualsevol document públic en què hagin intervingut, o que hagin atorgat, fundacions constituïdes abans de l’entrada en vigor de la Llei.

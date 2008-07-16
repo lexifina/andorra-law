@@ -1,0 +1,5 @@
+# Article 24
+La presentació dels comptes
+1. La presentació dels comptes al Protectorat s’ha de fer en un termini de 30 dies hàbils a comptar de la seva aprovació.
+2. El Protectorat ha de demanar a l’Administració de justíci2. El Protectorat ha de demanar a l’Administració de justícia que ordeni la intervenció temporal de les fundacions que no presentin els comptes durant dos anys consecutius. Durant el temps que l’autoritat judicial no dicta la resolució corresponent, el Protectorat no pot inscriure cap document de la fundació afectada, llevat dels cessaments, la renovació o renúncia de poders, l’extinció de la fundació, els nomenaments de liquidadors i també els assentaments ordenats per l’autoritat judicial. El primer any d’incompliment el Protectorat exigeix el compliment de l’obligació. L’obtenció de subvencions o d’ajudes públiques està condicionada a la presentació dels comptes.
+3. La documentació relativa als comptes l’ha d’adreçar al Protectorat una persona degudament facultada per fer-ho. Aquesta obligació no afecta la documentació lliurada a efectes estadístics.
