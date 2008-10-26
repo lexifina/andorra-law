@@ -1,0 +1,2 @@
+# Article 1
+S'aprova un suplement de crèdit, per un import de 2.102.352 euros, destinat a finançar les despeses derivades del projecte i la realització dels treballs de millora de la integració dels impactes de l'estació depuradora d'aigües nord-occidental, per a la partida 310 - Departament d'Urbanisme i Ordenament Territorial - 310 Obres públiques - 60390 - Altra maquinària i Equipament - 1998-0000000005 Construcció (depuradores).
