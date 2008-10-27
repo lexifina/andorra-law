@@ -1,0 +1,3 @@
+# Disposició final primera
+Es delega al Govern perquè, en el termini màxim de tres mesos des de la data d'entrada en vigor d'aquesta Llei, publiqui al Butlletí Oficial del Principat d'Andorra, mitjançant el decret legislatiu corresponent, el text refós de l'articulat de la Llei qualificada de modificació del Codi de procediment penal, del 10 de desembre del 1998, modificada per la Llei de cooperació penal internacional i
+de lluita contra el blanqueig de diners o valors producte de la delinqüència internacional, del 29 de desembre del 2000, i per la Llei 10/2005, del 21 de febrer, qualificada de modificació del Codi de procediment penal, incloent-hi totes les modificacions aportades mitjançant aquesta Llei.
