@@ -1,0 +1,9 @@
+# Article 9
+Règim
+1. Les inversions directes consistents en la participació en societats andorranes que tinguin per objecte qualsevol de les activitats enumerades a l'annex I d'aquesta Llei estan subjectes a l'autorització prèvia del Govern quan la participació estrangera en el seu capital social o en els seus drets de vot resulti igual o superior al 50 per cent.
+2. En tot cas és necessària l'obtenció de l'autorització prèvia del Govern per efectuar inversions directes consistents en qualsevol participació en societats andorranes que despleguin alguna de les activitats previstes a l'annex II d'aquesta Llei.
+3. També s'ha d'obtenir autorització prèvia del Govern per efectuar inversions directes consistents en la constitució o ampliació de sucursals qualsevol que sigui la naturalesa de l'activitat empresarial que a través de la dita sucursal es vulgui desplegar.
+4. Tanmateix, les inversions directes que vulguin efectuar les entitats de crèdit o financeres estrangeres en qualsevol sector de l'economia andorrana no
+poden excedir directament o indirectament del percentatge de participació en el capital social establert a l'article 2 lletra e) de la Llei de regulació de les facultats operatives dels diversos components del sistema financer.
+5. Un cop obtinguda l'autorització, d'acord amb el que s'estableix en aquest article, queden subjectes a autorització administrativa prèvia la modificació de l'objecte social, l'augment del capital social, l'increment del percentatge de participació estrangera o la modificació de qualsevol condició que l'autorització hagués imposat.
+6. El Ministeri d'Economia pot requerir, amb caràcter general o particular, a les societats andorranes participades per estrangers i a les sucursals al Principat de persones o societats no residents, que presentin una memòria anual, en el termini i amb el contingut que estableixi la normativa vigent.

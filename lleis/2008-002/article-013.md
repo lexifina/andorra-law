@@ -1,0 +1,3 @@
+# Article 13
+Règim
+Estan subjectes a l'autorització prèvia del Govern les inversions en immobles que vulguin efectuar tant les persones físiques, les quals en cap cas poden excedir de l'adquisició d'una parcel·la de terreny de mil metres quadrats per la construcció d'un xalet o torre, o de l'adquisició d'un pis, apartament o estudi, o de l'adquisició de dues places d'aparcament, com les persones jurídiques, les inversions en immobles de les quals han d'estar necessàriament vinculades al desplegament de l'activitat empresarial de la pròpia persona jurídica. En cap cas es poden autoritzar inversions en immobles que vulguin efectuar persones jurídiques que es dediquin a l'adquisició o construcció d'immobles amb la finalitat de comercialitzar-los, inclòs l'arrendament.
