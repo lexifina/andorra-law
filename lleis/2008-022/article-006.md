@@ -1,0 +1,3 @@
+# Article 6
+Capital social
+El capital social es fixa en seixanta mil euros (60.000 euros), dividit en cent (100) accions nominatives de sis-cents euros (600 euros) de valor nominal cadascuna, que constitueixen una sola sèrie de numeració correlativa de l'1 al 100, tots dos inclosos. El capital social es pot augmentar o disminuir per acord de la Junta General Extraordinària, de conformitat amb la legislació vigent. Les modificacions de capital social s'han d'inscriure al Registre de Societats.
