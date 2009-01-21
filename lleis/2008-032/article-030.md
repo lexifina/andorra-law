@@ -1,0 +1,7 @@
+# Article 30
+Drets sindicals
+1. Els membres del Cos de Banders tenen dret de constituir organitzacions sindicals per defensar els seus interessos laborals i afiliar-s'hi i participar-hi activament.
+2. Les organitzacions sindicals legalment constituïdes tenen el dret de formular propostes, elevar informes i dirigir peticions als òrgans competents de l'Estat, i també d'exercir la representació dels seus afiliats davant els òrgans
+competents de l'Administració pública.
+3. Les organitzacions sindicals legalment constituïdes tenen el dret que se'ls faciliti un local per exercir les seves activitats a les dependències que es determini. Els representants sindicals han de disposar del temps i de les condicions necessàries per atendre les activitats pròpies de la seva funció en la forma que s'estableixi reglamentàriament.
+4. Els membres del Cos de Banders tenen prohibit de manifestar-se i defensar públicament els seus drets laborals utilitzant l'uniforme reglamentari i el material o els vehicles de servei.

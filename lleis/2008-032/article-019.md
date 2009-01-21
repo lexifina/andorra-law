@@ -1,0 +1,9 @@
+# Article 19
+Formació continuada i desenvolupament professional
+1. Els membres del Cos de Banders han de rebre una formació i una
+capacitació professional permanents que garanteixin el compliment adequat de
+les seves funcions, d'acord amb els principis d'objectivitat i d'igualtat d'oportunitats. A aquest efecte es pot establir l'obligatorietat de l'assistència a determinades activitats formatives. Aquestes qüestions es regulen per
+reglament.
+2. Els membres del Cos de Banders amb responsabilitats de comandament han
+de rebre un desenvolupament professional que garanteixi el compliment
+adequat de les seves funcions de gestió, d'acord amb la planificació que s'ha d'establir per reglament. A aquest efecte es pot establir l'obligatorietat de l'assistència a determinades accions de desenvolupament professional.

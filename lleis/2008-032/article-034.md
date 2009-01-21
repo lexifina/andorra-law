@@ -1,0 +1,7 @@
+# Article 34
+Distincions i reconeixements
+1. Els membres del Cos de Banders poden ser honorats o reconeguts amb distincions formals oficials, segons el procediment que s'estableixi, si s'observa alguna de les circumstàncies o dels supòsits determinats per reglament.
+2. Totes les distincions i els reconeixements atorgats han de constar a l'expedient personal del membre del Cos de Banders en el Registre de la
+Funció Pública i es valoren com a mèrit en els concursos de provisió de llocs de treball.
+3. Durant les celebracions organitzades pel Dia mundial del medi ambient, es
+pot fer el lliurament als membres del Cos de Banders de les distincions pertinents. També es poden lliurar distincions honorífiques a les persones i/o als càrrecs institucionals que s'hagin distingit en relació amb les actuacions del Cos de Banders, en la manera com s'estableix per reglament.
