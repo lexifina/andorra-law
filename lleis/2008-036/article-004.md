@@ -1,0 +1,12 @@
+# Article 4
+Modificació de l'article 9
+Es modifica l'article 9. Règim, que queda redactat de la manera següent:
+"1. És necessària l'autorització prèvia de Govern, d'acord amb l'article 1.5 d'aquesta Llei i l'article 20.3 de la Llei 20/2007, del 18 d'octubre, de societats anònimes i de responsabilitat limitada, per a efectuar inversions directes consistents en la participació en societats andorranes que despleguin alguna
+de les activitats previstes a l'annex I quan la participació estrangera en el capital social o en els seus drets de vot sigui inferior al 50 per cent.
+2. A més dels requisits establerts en el paràgraf anterior, el Govern, d'acord
+amb l'establert en l'article 18 d'aquesta Llei, pot autoritzar inversions directes consistents en la participació en societats andorranes fins al 100 per cent del capital social o en els seus drets de vot, sempre que despleguin alguna de les activitats previstes a l'annex I, quan la participació estrangera en el capital social o en els seus drets de vot sigui igual o superior al 50 per cent, o a l'annex II qualsevol que sigui la participació estrangera en el capital social o en els seus drets de vot.
+3. També s'ha d'obtenir l'autorització prèvia del Govern per efectuar inversions directes consistents en la constitució o ampliació de sucursals qualsevol que sigui la naturalesa de l'activitat empresarial que a través de la dita sucursal es vulgui desplegar.
+4. Tanmateix les inversions directes que vulguin efectuar les entitats de crèdit o financeres estrangeres en qualsevol sector de l'economia andorrana no poden excedir directament o indirectament del percentatge de participació en el capital social establert a l'article 2 lletra e) de la Llei de regulació de les facultats operatives dels diversos components dels sistema financer.
+5. Un cop obtinguda l'autorització, d'acord amb el que s'estableix en aquest article, queden subjectes a autorització administrativa prèvia la modificació de l'objecte social, l'augment del capital social, l'increment del percentatge de participació estrangera o la modificació de qualsevol condició que l'autorització hagués imposat.
+6. El Ministeri d'Economia pot requerir, amb caràcter general o particular, a les societats andorranes participades per estrangers i a les sucursals al Principat
+de persones o societats no residents, que presentin una memòria anual, en el termini i amb el contingut que estableixi la normativa vigent.".
