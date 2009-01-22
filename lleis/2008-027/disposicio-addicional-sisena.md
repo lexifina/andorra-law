@@ -1,0 +1,2 @@
+# Disposició addicional sisena
+A partir de l'entrada en vigor d'aquesta Llei el preu de venda dels carburants es pot establir lliurement. Aquest preu de venda dels carburants s'ha d'anunciar en els cartells de les estacions de servei i ha de coincidir amb el preu que figura en els aparells sortidors. Tanmateix el Govern es reserva la possibilitat d'establir un preu màxim de venda dels carburants en supòsits de força major o quan les condicions del mercat posin en perill la lliure concurrència de preus i operadors.
