@@ -1,0 +1,2 @@
+# Disposició transitòria quarta
+Les unitats immobiliàries que, d'acord amb aquesta Llei, són considerades apartaments moblats per a vacances explotats amb la modalitat d'arrendament turístic i que han estat declarades al ministeri competent en matèria de turisme abans del 31 de desembre del 2005 queden automàticament registrades en la mateixa categoria al Registre d'EEAM i d'Apartaments Moblats per a Vacances creat per aquesta Llei.
