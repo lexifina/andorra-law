@@ -1,0 +1,6 @@
+# Article 22
+Retribucions del personal
+1. Les retribucions del cap de Govern, dels ministres, dels secretaris d'Estat, del secretari general del Govern, el cap de Gabinet del cap del Govern, el cap de Protocol, i el personal de relació especial de l'Administració general no poden ser objecte de cap increment, per cap concepte, durant l'exercici 2009. Les retribucions dels empleats de l'Administració general s'incrementen durant l'exercici 2009 amb l'índex de preus de consum (IPC) corresponent, aplicat a la base retributiva, al complement de lloc i, en els cossos especials, al complement específic.
+2. Per a l'exercici 2009, les retribucions bàsiques dels agents de l'Administració de caràcter eventual i del personal en actiu no sotmès a la legislació laboral s'incrementen amb l'índex de preus de consum de l'any 2008.
+3. Les prestacions complementàries per jubilació anticipada i jubilació obligatòria dels empleats de l'Administració general s'incrementen amb l'índex de preus de consum (IPC) corresponent.
+4. Es faculta el Govern per actualitzar i publicar els annexos 1, 2, 3, 4, 5, 6 i 7 que figuren a la Llei de la funció pública segons l'increment de l'índex de preus de consum (IPC) que es detalla al punt núm. 1 d'aquest article.
