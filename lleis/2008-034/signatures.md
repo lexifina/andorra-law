@@ -1,0 +1,8 @@
+# Casa de la Vall, 18 de desembre del 2008
+Joan Gabriel i Estany
+Síndic General
+Nosaltres els coprínceps la sancionem i promulguem i n'ordenem la publicació
+en el Butlletí Oficial del Principat d'Andorra.
+Joan Enric Vives Sicília Nicolas Sarkozy
+Bisbe d'Urgell President de la República Francesa
+Copríncep d'Andorra Copríncep d'Andorra
