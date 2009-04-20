@@ -1,0 +1,6 @@
+# Article 50
+Sistema de classificació professional i categoria professional dels treballadors 1. El sistema de classificació professional es fixa per conveni col·lectiu del sector o de l'empresa. A manca de conveni el reglament intern de l'empresa pot establir un sistema de classificació professional.
+2. El contracte de treball determina la categoria professional del treballador. La persona treballadora ha de realitzar la seva tasca d'acord amb la classe de treball i la categoria professional per a la qual ha estat contractada. A manca de definició expressa de la classe o categoria de treball, es té en compte el treball realitzat fins a la data per la persona treballadora.
+3. No es pot canviar la classe de treball sense el consentiment exprés de la persona treballadora, excepte en supòsits extraordinaris o d'urgència.
+4. El canvi de la categoria professional en l'empresa, dins la mateixa classe de treball, que comporti una variació de salari no es pot efectuar en perjudici de la persona treballadora sense el seu acord exprés.
+5. És nul el pacte per mitjà del qual la persona treballadora accepta anticipadament el canvi futur i unilateral de classe o de categoria amb reducció del salari.

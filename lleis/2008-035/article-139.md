@@ -1,0 +1,5 @@
+## Secció cinquena. Denúncia dels convenis col·lectius i acords col·lectius
+# Article 139
+Dret a denunciar convenis col·lectius i acords col·lectius
+1. Els convenis col·lectius i els acords col·lectius poden ser denunciats per les parts signatàries amb un preavís fet durant els tres mesos anteriors a la data de venciment. La part signatària que efectua la denúncia ha de notificar la seva voluntat a les altres parts signatàries. La denúncia s'ha de comunicar igualment al Departament de Treball. Les disposicions del conveni col·lectiu o de l'acord col·lectiu de caràcter normatiu queden vigents i oposables entre les altres parts signatàries.
+2. Quan els qui fan la denúncia són la totalitat dels empresaris o dels assalariats signataris d'un conveni col·lectiu o d'un acord col·lectiu, s'ha d'iniciar una nova negociació en el termini de tres mesos a partir de la notificació de la denúncia, a petició almenys d'una de les parts del conveni col·lectiu o de l'acord col·lectiu. Les disposicions de caràcter normatiu del conveni col·lectiu o de l'acord col·lectiu continuen produint els seus efectes fins a l'entrada en vigor d'un nou conveni col·lectiu o acord col·lectiu.

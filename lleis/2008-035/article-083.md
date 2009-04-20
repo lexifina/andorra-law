@@ -1,0 +1,7 @@
+# Article 83
+Lloc, temps i formalitats del pagament
+1. Lloc del pagament. El salari s'ha de satisfer a la persona treballadora al lloc on radica l'empresa o al domicili bancari que la persona treballadora indiqui, si ho prefereix.
+2. Temps per fer efectiu el pagament. El salari s'ha de satisfer seguint el principi de postremuneració, per feina realitzada, a la fi del període de pagament que s'hagi pactat sense que, en cap cas, el pagament del salari pugui tenir una periodicitat superior a un mes. L'empresa pot efectuar pagaments a compte del salari, i ha de conservar els documents acreditatius corresponents.
+3. Formalitats del pagament. Sigui quina sigui la periodicitat del pagament, l'empresa ha d'entregar a la persona treballadora el butlletí de salari, en què s'han d'especificar individualment tots els conceptes retribuïts. La persona treballadora l'ha de signar i l'empresa n'ha de conservar la còpia durant un període mínim de tres anys.
+En el butlletí de salari s'ha de fer esment detallat dels conceptes següents: salari fix, hores extraordinàries, primes, comissions, avantatges materials, festes laborals retribuïdes, vacances retribuïdes i qualsevol altre concepte que formi part del salari global. També cal que hi consti el descompte de la part obrera de cotització a la Caixa Andorrana de Seguretat Social.
+Sense perjudici que la prova s'aporti per altres mitjans, el butlletí de salari té valor probatori de l'existència o la inexistència dels diferents conceptes retributius, i del seu import.

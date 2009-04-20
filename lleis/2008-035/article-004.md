@@ -1,0 +1,4 @@
+# Article 4
+Principis generals
+Tant l'empresari com el treballador han d'obrar de bona fe en l'execució del contracte i evitar qualsevol abús de dret, conducta antisocial o discriminació per raó de naixement, raça, sexe, orientació sexual, origen, religió, opinió o qualsevol altra condició personal o social, així com d'afiliació, o no-afiliació, a un sindicat. Són nul·les les clàusules que constitueixin un acte de discriminació i qualsevol de les parts, individualment o de manera col·lectiva, en pot demanar la declaració de nul·litat als tribunals.
+Els manaments del Codi són imperatius i, llevat d'indicació contrària, constitueixen uns mínims irrenunciables de compliment obligatori per a treballadors i empresaris. En cas de dubte, la interpretació i l'aplicació s'ha de fer d'acord amb el principi in dubio pro operario.

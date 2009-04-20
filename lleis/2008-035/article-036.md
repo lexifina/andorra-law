@@ -1,0 +1,9 @@
+# Article 36
+Descans per maternitat
+1. La relació laboral queda en suspens durant 16 setmanes per causa de
+descans de maternitat. En cas de part múltiple el període s'amplia en dues setmanes més per cada fill.
+2. Aquest període de descans per maternitat pot iniciar-se a elecció de la mare, des de la mateixa data del part o durant les quatre setmanes immediatament anteriors a aquesta data. No obstant això, si durant les quatre setmanes immediatament anteriors a la data del part la mare hagués de fer descans per prescripció facultativa, es comença a comptabilitzar el període de descans per maternitat a partir de la data del part, i el temps anterior es computa com a baixa per malaltia. En el cas de part prematur, el període que va entre el part efectiu i la data inicialment prevista per al part es computa com a baixa per malaltia.
+3. A partir de la sisena setmana a comptar de la data del part, o de la data en què hauria hagut de tenir lloc, en cas de part prematur, el pare pot, si així ho decideixen els progenitors, substituir la mare i gaudir de la resta del descans de maternitat del qual pot gaudir la mare, de manera ininterrompuda.
+4. En aquest supòsit, abans d'iniciar-se el període de descans per maternitat o durant el mes posterior a la data del part, tant la mare com el pare han de notificar per escrit, a la Caixa Andorrana de Seguretat Social i a les empreses on treballen, aquesta previsió, que únicament pot fer-se efectiva amb la certificació mèdica que la reincorporació de la mare al seu lloc de treball no comporta cap perill o risc per a la seva salut.
+5. En cas de mort de la mare, el pare automàticament i sense cap notificació prèvia, pot fer ús de la totalitat o de la part que resti del període de descans per maternitat.
+6. El termini de suspensió per maternitat computa a l'efecte de vacances i del càlcul d'antiguitat a l'empresa.
