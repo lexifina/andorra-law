@@ -1,0 +1,4 @@
+# Article 6
+Confidencialitat
+La informació tramesa a l’Estat requeridor en aplicació de la present Llei roman confidencial, de la mateixa manera que la informació obtinguda en aplicació de la legislació interna d’aquell Estat, i només pot ser comunicada a les persones i autoritats, inclosos els tribunals i els òrgans administratius, competents en la determinació o el cobrament dels impostos definits en l’acord d’intercanvi d’informació o en el corresponent conveni per eliminar les dobles imposicions, respecte dels procediments relatius a aquests impostos o per les reclamacions o les resolucions de recursos relatius als mateixos.
+Aquestes persones o autoritats només poden utilitzar la informació amb la finalitat assenyalada. No obstant això, poden desvetllar aquesta informació en el decurs de procediments judicials públics o en resolucions judicials.

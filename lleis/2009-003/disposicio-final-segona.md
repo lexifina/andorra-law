@@ -1,0 +1,2 @@
+# Disposició final segona
+Aquesta Llei és d’aplicació per les peticions d’informació cursades en mèrits dels acords d’intercanvi d’informació o dels convenis per eliminar les dobles imposicions que s’atorguin després de la seva entrada en vigor i que facin referència a exercicis fiscals que comencin amb posterioritat a la data de signatura dels esmentats instruments o a obligacions fiscals generades a comptar de la mateixa data.

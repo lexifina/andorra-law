@@ -1,0 +1,3 @@
+# Disposició final primera
+Aquesta Llei no modifica el règim d’intercanvi d’informació que regula la Llei 11/2005, del 13 de juny, d’aplicació de l’Acord entre el Principat d’Andorra i la Comunitat Europea relatiu a l’establiment de mesures equivalents a les previstes a la Directiva 2003/48/CE del Consell en matèria de fiscalitat en rendiments de l’estalvi en forma de pagament d’interessos.
+Les sol·licituds d’intercanvi d’informació en matèria fiscal formulades per estats membres de la Comunitat Europea que siguin part d’un Conveni o Acord en els termes que estableix l’article 1, s’han de regir per les disposicions del corresponent Conveni o Acord i les d’aquesta Llei.

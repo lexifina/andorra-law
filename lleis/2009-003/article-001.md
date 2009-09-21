@@ -1,0 +1,3 @@
+# Article 1
+Objecte i àmbit d’aplicació
+Aquesta Llei regula els principis generals d’aplicació en el marc de l’intercanvi d’informació en matèria fiscal amb sol·licitud prèvia entre el Principat d’Andorra i els Estats amb els quals es conclou ja sigui un acord d’intercanvi d’informació, a nivell administratiu, en matèria fiscal o bé un conveni per eliminar les dobles imposicions, amb clàusules d’intercanvi d’informació. La Llei segueix els principis de transparència i intercanvi d’informació desenvolupats per l’Organització de Cooperació i de Desenvolupament Econòmics (OCDE) i, en particular, els que estableix l’article 26 del Model OCDE de conveni relatiu a la tributació de la renda i el capital, en el seu text del 17 de juliol del 2008.
