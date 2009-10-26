@@ -1,0 +1,2 @@
+# Disposició addicional catorzena
+Les persones que hagin cotitzat a la seguretat social com a no assalariades del sector agrícola durant el termini de dos anys, com a mínim, immediatament anterior a l'entrada en vigor d'aquesta Llei, gaudiran de la reducció de la cotització que se'ls hi ha aplicat fins a l'entrada en vigor de la Llei, prenent com a base de cotització el que estableixen els articles 101 i 104.
