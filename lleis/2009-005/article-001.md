@@ -1,0 +1,2 @@
+# Article 1
+S’aprova un suplement de crèdit per un import de 316.185,63 euros, destinat a finançar les despeses derivades de l’aplicació de la legislació vigent en matèria d’ajudes a l’agricultura i a la ramaderia, per a la partida pressupostària 440 Departament d’Agricultura i Patrimoni Natural- 441 Àrea d’Explotacions i Estructures Agràries-47290 A altres empreses privades-PROJ 0009 Estructures i explotacions agràries.
