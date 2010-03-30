@@ -1,0 +1,7 @@
+preamble.md
+article-unic.md
+disposicio-addicional.md
+disposicio-final-primera.md
+disposicio-final-segona.md
+disposicio-final-tercera.md
+signatures.md

@@ -1,0 +1,9 @@
+Llei 1/2010, del 4 de març, de modificació de la Llei del cànon sobre el consum d’electricitat i telèfon, del 5 d’abril de 1994
+Atès que el Consell General en la seva sessió del dia 4 de març del 2010 ha aprovat la següent:
+llei 1/2010, del 4 de març, de modificació de la Llei del cànon sobre el consum d’electricitat i telèfon, del 5 d’abril de 1994
+Exposició de motius
+Tenint en compte la situació econòmica complicada en què es troba avui Andorra, la reducció del tipus impositiu del cànon sobre el consum d’energia elèctrica i d’utilització del servei de telecomunicacions és una mesura de reactivació que suposa una injecció econòmica a famílies i empreses per revitalitzar el consum i l’activitat econòmica en general, sent la voluntat d’aquesta Llei assolir una reducció de l’import de la factura del consumidor.
+Tot i que aquesta mesura de reactivació té caràcter universal, cal assenyalar que són les economies més febles, tant en l’àmbit domèstic com empresarial, les que proporcionalment se’n poden beneficiar en major mesura.
+A més, la seva concepció i estructuració no suposa cap cost addicional per a l’Administració.
+Formalment, la Llei s’estructura en un article únic, una disposició addicional i tres disposicions finals.
+Es modifiquen l’article 5 de la Llei del cànon sobre el consum d’electricitat i telèfon, del 5 d’abril de 1994, la disposició transitòria quarta de la Llei 18/2004, del 3 de novembre, de l’impost indirecte sobre la producció interna, i la disposició transitòria quarta de la Llei 17/2004, del 3 de novembre, de l’impost indirecte sobre la prestació de serveis empresarials i professionals, modificada per l’article 9 de la Llei 12/2006, del 27 d’octubre, de modificació de la Llei 17/2004, del 3 de novembre, de l’impost indirecte sobre la prestació de serveis empresarials i professionals.
