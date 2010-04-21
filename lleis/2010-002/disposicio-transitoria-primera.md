@@ -1,0 +1,3 @@
+# Disposició transitòria primera
+1. A la finalització de l’actual mandat dos membres del Tribunal de Comptes prolongaran el seu nomenament, escalonadament, segons sorteig davant de notari, un dels membres el prorrogarà en un any i un altre el prorrogarà en dos anys. Transcorreguts els quals cessaran.
+2. Aquest sorteig es realitzarà durant el primer mes d’entrada en vigor de la present Llei, i aquest haurà d’indicar, el membre que acaba el seu mandat, tal i com era previst, el membre que prolonga el seu mandat en un any més i el membre que prolonga el seu mandat en dos anys més. El resultat d’aquest sorteig es comunicarà a la Sindicatura.
