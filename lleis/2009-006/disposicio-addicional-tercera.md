@@ -1,0 +1,2 @@
+# Disposició addicional tercera. Conformitat amb la normativa aplicable als productes de signatura electrònica
+Es presumeix que els productes de signatura electrònica a què es refereix aquesta Llei, i especialment els esmentats al paràgraf d) de l’apartat 1 de l’article 20, són conformes amb els requisits que s’hi estableixen si s’ajusten a les normes tècniques corresponents publicades al Diari Oficial de la Unió Europea.

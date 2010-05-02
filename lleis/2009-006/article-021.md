@@ -1,0 +1,7 @@
+# Article 21
+Cessament de l’activitat de prestació de serveis de certificació
+1. El cessament de l’activitat de prestació de serveis de certificació requereix la comunicació als usuaris dels seus serveis amb una antelació mínima de dos mesos abans de l’acabament de l’activitat.
+2. El prestador que cessi l’activitat pot transferir, amb el consentiment exprés dels usuaris, els certificats que encara siguin vigents a un altre prestador de serveis que els assumeixi o, en cas contrari, extingir-ne la vigència reemborsant els usuaris per la part proporcional al període de validesa restant del certificat.
+3. El prestador també ha de comunicar que ha decidit cessar l’activitat a l’òrgan competent del Govern que es determini per via reglamentària, en el mateix termini establert a l’apartat 1. En aquesta comunicació ha de declarar si transfereix la gestió a un altre prestador de serveis o bé si extingeix la vigència dels certificats.
+4. El prestador ha de garantir durant un període de temps de quatre anys, a comptar a partir del moment en què el prestador deixa els serveis de certificació, la disponibilitat d’un servei de consulta sobre la vigència dels certificats extingits.
+5. En cas de no transferència a un altre prestador de serveis, el Govern s’ha de fer càrrec de la informació identificativa o de consulta una vegada cessa l’activitat de certificació per garantir la conservació de les dades segons el que disposa l’article 20.1.d).

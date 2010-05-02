@@ -1,0 +1,2 @@
+# Disposició final primera. Desenvolupament reglamentari
+Abans de l’entrada en vigor de la Llei, el Govern d’Andorra ha de dictar les disposicions que resultin convenients per a l’aplicació i el desenvolupament de la signatura electrònica. En particular, ha de publicar els números de referència de les normes tècniques aprovades en el marc de la Unió Europea per a la certificació de productes i dispositius de signatura electrònica.

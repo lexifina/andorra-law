@@ -1,0 +1,2 @@
+# Disposició addicional segona. Accessibilitat
+Els serveis, els processos, els procediments i els dispositius de signatura electrònica han de ser plenament accessibles a les persones amb discapacitat i de la tercera edat, les quals no poden ser en cap cas discriminades, en l’exercici de les facultats i els drets reconeguts en aquesta Llei, per causes relacionades amb la discapacitat o amb l’edat avançada.
