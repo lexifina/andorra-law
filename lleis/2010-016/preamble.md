@@ -1,0 +1,10 @@
+Llei 16/2010, del 13 de maig, de crèdit extraordinari per fer front a la quota de participació al Global Forum corresponent a l’exercici 2010, destinada al finançament de les activitats d’aquest organisme
+Atès que el Consell General en la seva sessió del dia 13 de maig del 2010 ha aprovat la següent:
+Llei 16/2010, del 13 de maig, de crèdit extraordinari per fer front a la quota de participació al Global Forum corresponent a l’exercici 2010, destinada al finançament de les activitats d’aquest organisme
+Exposició de motius
+El mes de setembre del 2009, el Principat d’Andorra juntament amb 70 jurisdiccions més van participar al cinquè Fòrum per a la transparència i l’intercanvi d’informació organitzat per l’OCDE, que es va celebrar a Mèxic. A partir d’aquest moment es va reestructurar aquest fòrum, i també, el finançament, i es va establir una quota per a cada estat membre perquè aquest organisme pugui fer front al seu pressupost.
+El Principat d’Andorra va acceptar ser-ne membre i, per tant, li correspon fer front a la quota corresponent al 2010.
+La partida corresponent a aquesta despesa estava prevista en el Projecte de llei de pressupost per a l’exercici del 2010. Vist que aquest pressupost no s’ha aprovat, l’article 22.1 de la Llei general de les finances públiques determina la pròrroga per dotzenes parts del pressupost de despesa corrent de l’exercici immediatament anterior. Atès que el pressupost de l’exercici 2009 no preveia cap dotació per fer front a la dita despesa perquè el Principat d’Andorra va esdevenir membre del Global Forum amb posterioritat a l’elaboració del text de pressupost per al 2009, enguany no es disposa de crèdits per dotzenes parts per finançar la contribució anual al Global Forum-OCDE.
+El caràcter d’urgència i necessitat de la despesa de referència s’explica per la necessitat de finançar els compromisos contrets pel Govern davant del Global Forum, arran de la participació en aquest organisme.
+Vist l’informe de la Intervenció General;
+Vist l’acord de Govern del 10 de març del 2010;
