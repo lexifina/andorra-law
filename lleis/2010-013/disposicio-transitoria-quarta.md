@@ -1,0 +1,3 @@
+# Disposició transitòria quarta
+D’acord amb aquesta Llei, queda homologat com a capital social desemborsat mitjançant aportació dinerària el capital social actualment subscrit i desemborsat per les entitats autoritzades, segons consti al Registre de Societats Mercantils a la data d’entrada en vigor d’aquesta Llei.
+Les ampliacions de capital que les entitats financeres d’inversió i les societats gestores d’organismes d’inversió col·lectiva actualment autoritzades efectuïn amb càrrec a reserves durant el termini establert a les disposicions transitòries segona i tercera es consideren, als efectes d’aquesta Llei, efectuades mitjançant aportació dinerària.

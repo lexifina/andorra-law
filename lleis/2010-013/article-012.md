@@ -1,0 +1,4 @@
+# Article 12
+Agents financers
+1. Són agents financers les persones físiques i jurídiques que promouen i comercialitzen els serveis d’inversió i auxiliars que una entitat financera d’inversió o una entitat bancària poden prestar, i també realitzar, en nom i per compte d’aquesta entitat, els serveis d’inversió previstos a les lletres a) i g) de l’article 5 i prestar assessorament sobre els instruments financers i els serveis d’inversió oferts per aquesta entitat.
+2. Els agents financers només poden actuar en exclusiva i per compte i sota la responsabilitat plena i incondicional d’una de les entitats financeres d’inversió previstes a l’article 7, o d’una entitat bancària prevista a l’article 13 autoritzada per prestar serveis d’inversió i auxiliars en territori, sempre que els hagi contractat atorgant-los el poder de representació suficient per actuar en nom i per compte seu.
