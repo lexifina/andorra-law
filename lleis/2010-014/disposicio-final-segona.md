@@ -1,0 +1,2 @@
+# Disposició final segona
+S’autoritza el Govern per establir mesures que, tenint en compte la naturalesa dels serveis d’inversió i dels instruments financers prestats i el caràcter professional o minorista dels clients, garanteixin la protecció dels inversors i que les entitats operatives del sistema financer compleixin les obligacions previstes en els articles 32 a 42. Aquesta facultat es pot delegar a l’INAF.

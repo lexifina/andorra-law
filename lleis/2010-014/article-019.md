@@ -1,0 +1,9 @@
+## Títol III. Règim administratiu bàsic de les entitats operatives del sistema financer
+## Capítol primer. Requisits de les entitats operatives del sistema financer
+# Article 19
+Organització tècnica i administrativa
+1. Les estructures tècniques i l’organització administrativa i, d’una manera especial, els procediments interns de control i de seguretat dels sistemes informàtics de les entitats operatives del sistema financer, i en especial, de les entitats bancàries, de les entitats -no bancàries- de crèdit especialitzat i de les societats gestores d’organismes d’inversió col·lectiva han de mantenir uns estàndards de qualitat homologables internacionalment en el sector i propiciar el desenvolupament de les activitats en condicions que facilitin la qualitat i la seguretat de la gestió.
+2. Les entitats bancàries, les entitats -no bancàries- de crèdit especialitzat i les societats gestores d’organismes d’inversió col·lectiva han de disposar d’uns sistemes informàtics i d’uns sistemes comptables funcionalment autònoms en relació amb les eventuals entitats vinculades, sense perjudici que aquestes últimes participin en la seva implantació.
+3. Les entitats operatives del sistema financer, i en especial les entitats bancàries, les entitats -no bancàries- de crèdit especialitzat i les societats gestores d’organismes d’inversió col·lectiva han d’implantar els mitjans necessaris als establiments on despleguen la seva activitat amb la finalitat de garantir la confidencialitat de les dades de què disposen.
+4. Les entitats han de fer un seguiment i una avaluació periòdica de l’adequació i l’eficàcia dels seus sistemes, mecanismes de control intern i mesures establertes de conformitat amb el que es disposa en els apartats anteriors.
+5. El compliment dels requisits establerts en els apartats anteriors s’aprecia en tots els casos en funció del tipus d’operacions que desenvolupa cada entitat.

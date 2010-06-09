@@ -1,0 +1,8 @@
+# Article 17
+Volum de recursos propis mínims
+1. Sense perjudici de les obligacions derivades de la legislació sobre els criteris de solvència i liquiditat, s’entén per “recursos propis mínims de les entitats bancàries” el nivell de fons propis necessaris per arribar a una ràtio de solvència del 10 per 100.
+2. Els recursos propis de les entitats bancàries no poden situar-se per sota del mínim esmentat en el paràgraf anterior, a excepció dels dos primers exercicis d’activitat de l’entitat, en què, únicament a causa de les pèrdues acumulades, els recursos propis poden ser inferiors a la xifra esmentada en un 20%, sempre que la reducció de recursos es trobi fiançada suficientment pels socis de l’entitat.
+3. S’habilita l’INAF a prendre les mesures necessàries en cas d’insuficiència de recursos propis i a aquest efecte també pot dictar els comunicats tècnics corresponents, que en tot cas han de complir les entitats afectades. Aquesta insuficiència no pot durar en cap cas més de 24 mesos i els recursos propis no poden ser inferiors a les 4/5 parts del capital social mínim.
+4. El Govern pot modificar per mitjà de reglament la ràtio de solvència bancària i de liquiditat de les entitats financeres, amb l’informe previ i la proposta de l’INAF, i dictar sobre això, les normes de solvència i els criteris de càlcul, sempre i quan el rati de solvència no sigui inferior al 10%.
+L’INAF pot obligar a les entitats financeres a tenir una pòlissa d’assegurança que injecti capital quan el balanç es deteriori per sobre d’un límit determinat. L’INAF pot també introduir uns requisits de liquidesa mínima de l’actiu.
+5. En cap cas, però, el capital social de les entitats bancàries no pot ser inferior a la xifra del capital social mínim establert a l’article 12.

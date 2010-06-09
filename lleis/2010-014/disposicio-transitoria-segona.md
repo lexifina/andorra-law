@@ -1,0 +1,2 @@
+# Disposició transitòria segona
+Mentre el ministeri titular de finances no aprovi la normativa comptable especial per a les entitats operatives del sistema financer adaptada a la Llei 30/2007, del 20 de desembre, de la comptabilitat dels empresaris, exercint la potestat prevista a la disposició addicional primera, continua sent aplicable el vigent Pla comptable del sistema financer, del 27 d’octubre de 1999.

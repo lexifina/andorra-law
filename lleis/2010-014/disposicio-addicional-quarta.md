@@ -1,0 +1,2 @@
+# Disposició addicional quarta
+Per al còmput del termini esmentat a l’article 44.3 es tenen en compte els exercicis posteriors al de la data d’entrada en vigor d’aquesta Llei per a les entitats -no bancàries- de crèdit especialitzat, per a les entitats financeres d’inversió i per a les societats gestores d’organismes d’inversió col·lectiva. Pel que fa al còmput de les entitats bancàries, va iniciar-se amb l’adopció de la Llei de regulació de les facultats operatives dels diversos components del sistema financer, del 9 de desembre de 1996.
