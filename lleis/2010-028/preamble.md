@@ -1,0 +1,11 @@
+Llei 28/2010, del 3 de juny, de crèdit extraordinari i de suplement de crèdit per fer front a l’adquisició de material d’equips de seguretat per al Departament de Prevenció i Extinció d’Incendis i Salvament
+Atès que el Consell General en la seva sessió del dia 3 de juny del 2010 ha aprovat la següent:
+llei 28/2010, del 3 de juny, de crèdit extraordinari i de suplement de crèdit per fer front a l’adquisició de material d’equips de seguretat per al Departament de Prevenció i Extinció d’Incendis i Salvament
+Exposició de motius
+El Projecte de pressupost per a l’exercici 2010 preveia una dotació per fer front a l’adquisició de material d’equips de seguretat per al Departament de Prevenció i Extinció d’Incendis i Salvament.
+Aquesta previsió corresponia als crèdits per finançar les despeses en concepte d’instal·lacions i els equipaments contra incendis; de maquinària i equipament industrial; d’altra maquinària i equipament; de vehicles i de vehicles pesants; i de material de comunicacions.
+Quan el Consell General no aprova la Llei del pressupost general, com en el cas d’enguany, l’executiu no pot fer front a les despeses de capital, a excepció de les transferències als comuns i de les despeses d’inversió previstes en el Projecte de pressupost pendent d’aprovació i que ja havien estat aprovades amb el caràcter de despeses plurianuals, que el cap de Govern, amb l’acord previ del Govern, pot fer efectives i pot posar en vigor, respectivament. En aquest cas, la Llei general de les finances públiques determina la pròrroga del pressupost de despesa corrent de l’exercici immediatament anterior i la posada en vigor dels crèdits aprovats amb caràcter plurianual, a més de l’autorització a l’executiu per fer efectives les transferències als comuns.
+En conseqüència, el Govern no disposa de crèdits específics o bé no disposa de crèdits suficients per fer front a les despeses d’inversió real de referència, que actualment es xifren en un total de 760.010,93 euros.
+El caràcter d’urgència i necessitat de les despeses de referència queda justificat pel fet que el Departament de Prevenció i Extinció d’Incendis i Salvament ha de disposar d’aquests equipaments per poder atendre les necessitats urgents en matèria de seguretat en extinció d’incendis i salvament.
+Vist l’informe de la Intervenció General;
+Vist l’acord de Govern del 24 de març del 2010.
