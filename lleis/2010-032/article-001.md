@@ -1,0 +1,4 @@
+# Article 1
+S’aprova un crèdit extraordinari per un import total de 125.000,00 euros per a l’exercici 2010 i 200.000,00 euros per a l’exercici 2011 per fer front als treballs tècnics i d’execució de l’obra d’eixampla de la carretera general 3 a la sortida de la Massana, zona del Través, per a les partides pressupostàries següents:
+410 Departament d’Urbanisme i Ordenament Territorial-416 Àrea d’Obres Públiques. Obres-60700 Construcció de carreteres-1996-0000000003-CG3 cruïlla CG4-cruïlla CS 340, per un import de 100.000,00 euros per a l’exercici 2010 i per un import de 200.000,00 euros per a l’exercici 2011.
+410 Departament d’Urbanisme i Ordenament Territorial-416 Àrea d’Obres Públiques. Obres-60910 Estudis i projectes d’inversió-1996-0000000003-CG3 cruïlla CG4-cruïlla CS 340, per un import de 25.000,00 euros per a l’exercici 2010.
