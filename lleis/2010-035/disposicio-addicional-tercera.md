@@ -1,0 +1,2 @@
+# Disposició addicional tercera
+Les inversions estrangeres directes consistents en la participació estrangera en entitats operatives del sistema financer andorrà poden assolir el 100 per 100 del seu capital social o dels seus drets de vot, restant, en tot cas, subjectes a la corresponent autorització prèvia de Govern, d’acord amb el que s’estableix als articles 16 i següents de la Llei 2/2008, del 8 d’abril, d’inversions estrangeres al Principat d’Andorra.

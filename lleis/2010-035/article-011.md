@@ -1,0 +1,11 @@
+## Capítol quart. Documentació a presentar
+# Article 11
+Documentació relativa als trets específics de l’activitat de l’entitat projectada
+Els sol·licitants d’una autorització per a la creació de qualsevol de les entitats operatives del sistema financer andorrà han d’aportar a l’INAF, juntament amb la corresponent sol·licitud, la documentació següent:
+a) El projecte d’estatuts de l’entitat a constituir quan, d’acord amb el seu règim, hagi de revestir la forma de societat anònima.
+b) El programa bàsic d’activitats, en el qual s’ha de fer constar de manera específica el gènere d’operacions que es projecta realitzar en funció del tipus d’entitat operativa del sistema financer per a la creació de la qual se sol·licita l’autorització, i els elements que permetin observar l’orientació de l’activitat, en particular, si es preveu prestar serveis a l’estranger i en quines proporcions així com si es preveu invertir en instruments derivats.
+En particular, en el cas de les entitats bancàries s’ha d’indicar les activitats de banca comercial i els serveis d’inversió i auxiliars que es preveuen desenvolupar. A aquest efecte s’han d’indicar tots els elements que permetin observar la importància relativa de les activitats de banca comercial, en el conjunt de l’activitat global que es projecta desenvolupar.
+En el cas de les entitats -no bancàries- de crèdit especialitzat s’han d’indicar l’activitat o activitats que integren el seu objecte social i en el cas de les entitats financeres d’inversió els serveis d’inversió i auxiliars que pretén prestar en funció del tipus d’entitat per a la creació de la qual es sol·licita l’autorització.
+En el cas de societats gestores d’organismes d’inversió col·lectiva allò que es disposa a la Llei 10/2008, del 12 de juny, de regulació dels organismes d’inversió col·lectiva de dret andorrà.
+c) Una exposició específica de l’eventual previsió d’activitats relacionades amb la promoció de l’economia a nivell de país.
+d) Una exposició específica de l’eventual previsió d’activitats relacionades amb el patrocini i mecenatge d’activitats educatives i culturals, amb ajuts per a la recerca, la conservació i la difusió del patrimoni cultural i natural i l’acció cultural, i el patrocini d’activitats esportives.
