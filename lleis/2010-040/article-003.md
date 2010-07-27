@@ -1,0 +1,3 @@
+# Article 3
+El crèdit extraordinari per al 2010, per un import d’1.750.050 euros i el suplement de crèdit, per un import d’1.568.161 euros, es financen mitjançant la partida pressupostària 210 Departament de Pressupost i Patrimoni-211 Despeses i operacions financeres-30000 Interessos de deute públic-PROJ-0009-Deute públic, per un import de 3.318.211 euros.
+Els crèdits de despesa amb caràcter plurianual, així com el seu finançament, d’un import de 3.018.370 euros, respectivament, s’inclouran en el pressupost del 2011 quan s’elabori, d’acord amb l’article 29 de la Llei general de les finances públiques.
