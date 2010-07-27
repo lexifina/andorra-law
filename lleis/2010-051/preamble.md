@@ -1,0 +1,13 @@
+Llei 51/2010, del 30 de juny, de crèdit extraordinari i de suplement de crèdit per fer front a les despeses corrents i d’inversió de la Universitat d’Andorra per a l’exercici 2010
+Atès que el Consell General en la seva sessió del dia 30 de juny del 2010 ha aprovat la següent:
+llei 51/2010, del 30 de juny, de crèdit extraordinari i de suplement de crèdit per fer front a les despeses corrents i d’inversió de la Universitat d’Andorra per a l’exercici 2010
+Exposició de motius
+El Govern ha de fer front enguany a les despeses corrents i d’inversió de la Universitat d’Andorra.
+Les despeses corrents inclouen activitats noves i projectes corresponents al desenvolupament del programa de doctorat, al desenvolupament del tercer curs del bàtxelor en ciències de l’educació, als ajuts a la mobilitat, i a l’increment de la cotització a la CASS, com a conseqüència de l’entrada en vigor de la Llei 17/2008.
+Les despeses previstes en concepte d’inversió corresponen a l’adquisició d’aplicacions i d’equipament informàtic, a l’equipament de reproducció, al mobiliari per a les aules, i a l’adequació d’instal·lacions per millorar la seguretat de les instal·lacions.
+Aquestes despeses estaven incloses al Projecte de llei del pressupost del 2010. Quan el Consell General no aprova la Llei del pressupost general, com en el cas d’enguany, l’executiu no pot fer front a les transferències de capital, a excepció de les transferències als comuns que el cap de Govern, amb l’acord previ del Govern, pot fer efectives als comuns, d’acord amb la Llei general de les finances públiques. En aquest cas, aquesta Llei determina la pròrroga del pressupost de despesa corrent de l’exercici immediatament anterior i la posada en vigor dels crèdits aprovats amb caràcter plurianual, a més de l’autorització a l’executiu per fer efectives les transferències als comuns.
+En conseqüència, el Govern no disposa de crèdits per fer front a les despeses d’inversió real esmentades, que sumen un total de 69.666 euros o disposa de crèdits insuficients per finançar les despeses corrents, que es xifren en 198.860 euros.
+Vist que el caràcter d’urgència i necessitat de les despeses esmentades queda justificat pel fet que la Universitat d’Andorra ha de disposar dels crèdits per poder atendre els compromisos adquirits i les obligacions contretes i no previstes al Pressupost per a l’exercici 2009;
+Vist que l’obligació de pagament dels compromisos adquirits no es pot ajornar a l’exercici següent a causa de la temporalitat acadèmica en què s’imparteixen les formacions, fet que fa necessari disposar dels crèdits de forma urgent;
+Vist l’informe de la Intervenció General;
+Vist l’acord de Govern del 28 d’abril del 2010;
