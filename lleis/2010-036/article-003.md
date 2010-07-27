@@ -1,0 +1,2 @@
+# Article 3
+El crèdit extraordinari i el suplement de crèdit per a l’exercici 2010, per un import de 955.000 euros, es financen mitjançant un nou endeutament. Els crèdits de despesa amb caràcter plurianual, així com el seu finançament, d’un import d’1.700.000 euros, respectivament, s’inclouran en el pressupost del 2011 quan aquest s’elabori, d’acord amb l’article 29 de la Llei general de les finances públiques.
