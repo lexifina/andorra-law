@@ -1,0 +1,11 @@
+Llei
+Atès que el Consell General en la seva sessió del dia 22 de setembre del 2010 ha aprovat la següent:
+Llei 57/2010, del 22 de setembre, de crèdit extraordinari per fer front a l’adquisició d’instal·lacions per al Centre Nacional del Trànsit (Cenatra)
+Exposició de motius
+El Projecte de llei del pressupost per a l’exercici 2010 preveia la dotació pressupostària per assumir les despeses derivades de l’adquisició de diverses instal·lacions per al Centre Nacional del Trànsit (Cenatra).
+Aquesta previsió corresponia als crèdits necessaris per assumir l’adquisició d’instal·lacions tecnològiques que calen per equipar el túnel de la Pedrera, CG-3, zona de Sant Antoni, que permeti fer una vigilància de seguretat a distància. També s’han de posar semàfors a cruïlles o passos de vianants per garantir la seguretat tant dels vianants com dels vehicles. Aquests equipaments sofreixen accidents i actes de vandalisme, i danys per tempestes amb llamps que cal reparar o reemplaçar.
+Quan el Consell General no aprova la Llei del pressupost general, com en el cas d’enguany, l’executiu no pot fer front a les despeses d’inversió, a excepció de les despeses d’inversió previstes al Projecte de pressupost pendent d’aprovació que ja s’havien aprovat amb el caràcter de despeses plurianuals, i que el cap de Govern, amb l’acord previ del Govern, pot posar en vigor.
+En conseqüència, el Govern no disposa de crèdits per fer front a les despeses d’inversió real esmentades, que es xifren en un total de 292.686,22 euros.
+El caràcter d’urgència i necessitat de la inversió esmentada queda justificat pel fet de dotar o reposar en tot moment la xarxa bàsica del Principat de les instal·lacions necessàries per garantir-ne la seva seguretat.
+Vist l’informe de la Intervenció General;
+Vist l’acord de Govern del 12 de maig del 2010;
