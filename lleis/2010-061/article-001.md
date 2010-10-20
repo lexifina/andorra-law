@@ -1,0 +1,10 @@
+# Article 1
+S’aprova un crèdit extraordinari per un import total de 2.235.638,20 euros per finançar les inversions del Departament de Suport per a la dinamització de l’economia andorrana i la renovació del patrimoni immobiliari, del parc informàtic i del parc mòbil de l’Estat per a les partides següents:
+150 Departament de Suport-151 Central de compres-PROJ-0002 Central de compres-61600 Equipaments per a processos d’informació, per un import de 62.500,00 euros per a l’exercici 2010 i 187.500 euros per a l’exercici 2011
+150 Departament de Suport-152 Manteniment d’edificis públics-2010-0000000012 Conservació i manteniment-60300 Instal·lacions de seguretat, per un import de 10.884,89 euros per a l’exercici 2010 i 32.654,66 euros per a l’exercici 2011
+150 Departament de Suport-152 Manteniment d’edificis públics-2010-0000000012 Conservació i manteniment-60910 Estudis i projectes, per un import de 2.125,00 euros per a l’exercici 2010 i 6.375,00 euros per a l’exercici 2011
+150 Departament de Suport-152 Manteniment d’edificis públics-2010-0000000012 Conservació i manteniment-61200 Conservació i millora d’edificis, per un import de 233.227,79 euros per a l’exercici 2010 i 699.683,37 euros per a l’exercici 2011
+150 Departament de Suport-152 Manteniment d’edificis públics-1997-0000000035 Centres escolars-60310 Instal·lacions calefacció i climatització, per un import de 35.000 euros per a l’exercici 2010 i 105.000,00 euros per a l’exercici 2011
+150 Departament de Suport-152 Manteniment d’edificis públics-1997-0000000035 Centres escolars-61200 Conservació i millora d’edificis, per un import de 109.671,87 euros per a l’exercici 2010 i 329.015,62 euros per a l’exercici 2011
+150 Departament de Suport-152 Manteniment d’edificis públics-2005-0000000011 Galeries de serveis-60340 Altres instal·lacions, per un import de 21.500,00 euros per a l’exercici 2010 i 64.500,00 euros per a l’exercici 2011
+150 Departament de Suport-153 Parc Mòbil-PROJ 0003 Transports de l’administració-61400 Reposició i millora, per un import de 84.000,00 euros per a l’exercici 2010 i 252.000,00 euros per a l’exercici 2011.

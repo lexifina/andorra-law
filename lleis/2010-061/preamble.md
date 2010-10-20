@@ -1,0 +1,11 @@
+Llei
+Atès que el Consell General en la seva sessió del dia 22 de setembre del 2010 ha aprovat la següent:
+Llei 61/2010, del 22 de setembre, de crèdit extraordinari per finançar les inversions del Departament de Suport de la Secretaria d’Estat per a la Reforma de l’Administració i la Promoció de la Societat del Coneixement
+Exposició de motius
+El Decret d’estructuració dels ministeris del Govern i de delimitació de les seves competències, de l’1 de juliol del 2009, determina els departaments i els serveis de l’Administració que han quedat adscrits a la Secretaria d’Estat per a la Reforma de l’Administració i la Promoció de la Societat del Coneixement.
+Els diversos serveis del Departament de Suport no solament permeten conservar, mantenir, adequar i renovar el patrimoni de l’Estat perquè sempre estigui en bones condicions d’ús i de funcionament, sinó que també permeten donar feina a les petites i les mitjanes empreses del país, ja que bona part dels serveis de manteniment preventiu, de reformes o rehabilitacions, de subministraments i de serveis, es deriven a empreses externes.
+El Projecte de llei del pressupost per a l’exercici 2010 preveia la dotació pressupostària per assumir les despeses derivades de les inversions necessàries per a la reposició del parc informàtic i el parc mòbil així com el manteniment d’edificis.
+Quan el Consell General no aprova la Llei del pressupost general, com en el cas d’enguany, l’executiu no pot fer front a les despeses d’inversió real, a excepció de les despeses d’inversió previstes al Projecte de pressupost pendent d’aprovació que ja s’havien aprovat amb el caràcter de despeses plurianuals, i que el cap de Govern, amb l’acord previ del Govern, pot posar en vigor. En conseqüència, el Govern no disposa de crèdits per un import de 2.235.638,20 euros per fer front a les despeses d’inversió real esmentades.
+Atesa la urgència de dotar dels crèdits pressupostaris necessaris les partides i els projectes corresponents per finançar les inversions esmentades, i d’aquesta manera donar feina a més de 200 empreses del país, fet que contribueix a dinamitzar l’economia andorrana;
+Vist l’informe de la Intervenció General;
+Vist l’acord de Govern del 27 de maig del 2010;
