@@ -1,0 +1,10 @@
+Llei
+Atès que el Consell General en la seva sessió del dia 22 de setembre del 2010 ha aprovat la següent:
+Llei 58/2010, del 22 de setembre, de crèdit extraordinari i de suplement de crèdit per fer front a la transferència de capital al Tribunal Constitucional i a les transferències corrents al Tribunal Constitucional i al Consell General
+Exposició de motius
+El Projecte de llei del pressupost per a l’exercici 2010 preveia les dotacions per fer front a la transferència de capital al Tribunal Constitucional i a les transferències corrents al Tribunal Constitucional i al Consell General, que han de finançar les despeses esmentades d’aquests organismes.
+Vist que el Consell General no va aprovar el Projecte de llei de pressupost per a l’exercici 2010, l’article 22.1 de la Llei general de les finances públiques determina la pròrroga per dotzenes parts del pressupost de despesa corrent de l’exercici immediatament anterior. Tanmateix, l’executiu no pot fer front a les transferències de capital, a excepció de les transferències als comuns, que el cap de Govern, amb l’acord previ del Govern, pot fer efectives.
+En conseqüència, el Govern no disposa de crèdits per fer front a les despeses corrents i a la despesa de capital esmentades, que es xifren en un total de 170.803,38 euros.
+El caràcter d’urgència i de necessitat de la dotació esmentada queda justificat pel fet que el Govern ha de fer front a la transferència de capital que ha de finançar les despeses d’inversió real del Tribunal Constitucional. També queda justificat pel fet que el Govern ha de fer front als imports, de què no disposa en dotzenes parts de les transferències corrents, al Tribunal Constitucional i al Consell General, que han de servir per completar el finançament de les despeses corrents d’aquests organismes per a l’exercici 2010, d’acord amb els imports que es van preveure al Projecte de pressupost per a l’exercici 2010.
+Vist l’informe de la Intervenció General;
+Vist l’acord de Govern de la sessió del 27 de maig del 2010;
