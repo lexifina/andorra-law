@@ -1,0 +1,2 @@
+# Article divuitè
+La Junta d’Escola està presidida pel director del centre. La seva composició s’estableix reglamentàriament i inclou com a mínim el director i el cap d’estudis del centre, un membre del comú, representants del personal docent, del personal col·laborador educatiu, del personal administratiu i de serveis, dels pares, i dels alumnes dels nivells educatius de segona ensenyança i batxillerat.
