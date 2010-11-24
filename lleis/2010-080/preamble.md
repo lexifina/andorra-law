@@ -1,0 +1,17 @@
+Llei 80/2010, del 25 d’octubre, de crèdit extraordinari per fer front a diverses despeses d’inversió del Ministeri d’Educació i Cultura
+Atès que el Consell General en la seva sessió del dia 25 d’octubre del 2010 ha aprovat la següent:
+Llei 80/2010, del 25 d’octubre, de crèdit extraordinari per fer front a diverses despeses d’inversió del Ministeri d’Educació i Cultura
+Exposició de motius
+El Ministeri d’Educació i Cultura ha de fer front a diverses despeses d’inversió derivades de l’adquisició de fons bibliogràfic i audiovisual de la Biblioteca Pública i de la Biblioteca Nacional del Govern, de l’adquisició i l’ampliació del fons del Centre de Documentació i Recursos Pedagògics (CDR), de l’adquisició de maquinària i equipaments dels departaments de Promoció Cultural i Política Lingüística i Patrimoni Cultural i de l’adquisició d’una part del fons filatèlic del Museu Postal i per a les quals no hi ha crèdits a les partides pressupostàries corresponents.
+El caràcter de màxima urgència i necessitat queda justificat pel fet que cal disposar al capítol d’inversió real dels crèdits que han de finançar els llibres i les edicions que estan destinats a un fons i que actualment estan disponibles en dotzenes parts al capítol de béns corrents i de serveis (perquè es van pressupostar de forma errònia al pressupost de l’exercici 2009) per poder adquirir i oferir als usuaris de la Biblioteca Nacional i la Biblioteca Pública les publicacions editades durant l’any; per mantenir actualitzat el material curricular dels tres sistemes educatius del fons del Centre de Documentació i Recurs Pedagògics, i per fer front a despeses contretes en exercicis anteriors, que per errors en la tramitació de l’expedient, tant per part de l’Administració com dels proveïdors, no es van poder formalitzar els compromisos corresponents i pels quals no es disposa de dotació pressupostària enguany ja que corresponen a despeses d’inversió.
+Vist que no hi ha una dotació pressupostària per a l’exercici 2010 per fer front a la despesa esmentada;
+Vist que el Govern, per acord del 10 de setembre del 2010, ha aprovat un avenç de fons per un import total de 16.968,47 euros per a les partides pressupostàries següents:
+555 Departament de Promoció Cultural i Política Lingüística-556 Àrea de Lectura Pública i Biblioteques-PROJ-0038 Biblioteca Pública-60810 Equipament cultural, per un import de 8.500 euros
+560 Departament de Patrimoni Cultural-563 Biblioteca Nacional d’Andorra-PROJ-0066 Biblioteca Nacional-60810 Equipament cultural, per un import de 2.000 euros
+540 Departament de Suport a l’Ensenyament i Inspecció Educativa-544 Àrea d’Innovació i Recursos Pedagògics-PROJ-0034 Recursos pedagògics-60810 Equipament cultural, per un import de 1.344,68 euros
+555 Departament de Promoció Cultural i Política Lingüística-557 Política Lingüística-PROJ-0054 Política lingüística i promoció del català-60390 Altra maquinària i equipament, per un import de 3.380 euros
+555 Departament de Promoció Cultural i Política Lingüística-558 Àrea d’Acció Cultural-PROJ-0050 Promoció cultural-60390 Altra maquinària i equipament, per un import de 910,49 euros
+560 Departament de Patrimoni Cultural-563 Biblioteca Nacional d’Andorra-PROJ-0066-Biblioteca Nacional-60390 Altra maquinària i equipament, per un import de 228 euros
+560 Departament de Patrimoni Cultural-562 Àrea de Patrimoni Moble i Museus-PROJ-0019 Difusió dels museus-60810 Equipament cultural, per un import de 605,30 euros
+Vist l’informe de la Intervenció General;
+Vist l’acord de Govern del 10 de setembre del 2010;
