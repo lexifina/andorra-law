@@ -1,0 +1,5 @@
+# Article 5
+Modificació de l’article 15 de la Llei qualificada de la jurisdicció de menors de modificació parcial del Codi penal i de la Llei qualificada de la Justícia de 22 d’abril de 1999
+Es modifica l’article 15 de la Llei qualificada de la jurisdicció de menors de modificació parcial del Codi penal i de la Llei qualificada de la Justícia de 22 d’abril de 1999, que queda redactat tal com segueix:
+“Article 15
+Per garantir el dret a l’assistència d’un advocat referit a l’article anterior, el Servei de Policia ha d’informar immediatament al menor i al seu representant legal que pot designar advocat o demanar que se li designi d’ofici. L’advocat a qui s’ha comunicat la detenció ha d’acudir al Servei de Policia al més aviat millor i, en tot cas, dins el termini de quaranta-cinc minuts a comptar del moment de la comunicació. En cas d’absència d’advocat, no es poden dur a terme declaracions o altres actuacions en les quals sigui necessària la presència del menor. Llevat d’aquest extrem, la intervenció de l’advocat davant del Servei de Policia es regeix per les disposicions dels articles 24 i 25 del Codi de procediment penal.”
