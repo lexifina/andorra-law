@@ -1,0 +1,11 @@
+# Article 3
+Modificació de l’article 24
+Es modifica l’article 24 de la Llei 5/2004, del 14 d’abril, del Codi de Duana, que queda redactat com segueix:
+“Article 24
+1. Les autoritats duaneres poden, en les condicions establertes per les disposicions vigents, efectuar tots els controls que estimin necessaris per a la correcta aplicació de la normativa duanera i altra normativa que reguli l’entrada, la sortida, el trànsit, el trasllat i la destinació particular de les mercaderies que circulen entre el territori duaner del Principat d’Andorra i els altres països, i la presència de mercaderies que no han estat posades en lliure disposició. Quan un acord internacional ho preveu, els controls duaners es poden efectuar en un altre país, amb vistes a la correcta aplicació de la normativa duanera.
+2. Els controls duaners altres que els controls espontanis es basen en una anàlisi de riscs que utilitza procediments informàtics amb l’objectiu de determinar i quantificar els riscs i elaborar les mesures necessàries per avaluar-los, a partir de criteris definits a escala nacional, comunitària i, si escau, internacional.
+L’autoritat duanera determina un marc de gestió de riscs, així com criteris i àmbits prioritaris de control.
+La Duana andorrana implanta un sistema electrònic per a l’aplicació de la gestió de riscs.
+3. Quan els controls els efectuen autoritats que no siguin les autoritats duaneres, els dits controls es fan en estreta coordinació amb les autoritats duaneres i, sempre que sigui possible, en el mateix moment i lloc.
+4. En el marc dels controls previstos en aquest article, les autoritats duaneres i demés autoritats competents com, per exemple, les autoritats veterinàries i policials, es poden comunicar les dades obtingudes i vinculades a l’entrada, a la sortida, al trànsit, al trasllat i a la destinació particular de les mercaderies que circulen entre el territori duaner del Principat d’Andorra i els altres països, així com la presència de mercaderies que no han estat posades en lliure disposició, quan resulti necessari per minimitzar els riscs.
+La transmissió de dades confidencials a les autoritats duaneres i altres òrgans (per exemple, agències de seguretat) d’altres països només està permesa en el marc d’un acord internacional i sempre que es duguin a terme les disposicions vigents en matèria de protecció de dades.”.
