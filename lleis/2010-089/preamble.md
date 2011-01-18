@@ -1,0 +1,9 @@
+Llei 89/2010, del 16 de desembre, de la Creu Roja Andorrana
+Atès que el Consell General en la seva sessió del dia 16 de desembre del 2010 ha aprovat la següent:
+llei 89/2010, del 16 de desembre, de la Creu Roja Andorrana
+Exposició de motius
+La Creu Roja Andorrana, en endavant també la Institució, d’ençà la seva fundació en data 20 de desembre de 1980 d’acord amb la Conferència Internacional de Ginebra de 1863, reconeguda pel Comitè Internacional de la Creu Roja des del 24 de març del 1994 i formant part de la Federació Internacional de la Creu Roja i de la Mitja Lluna Roja des de l’Assemblea General a Ginebra el 27 de novembre de 1995, ve desenvolupant les corresponents activitats deduïdes dels principis fonamentals del Moviment Internacional de la Creu Roja i de la Mitja Lluna Roja, essencialment relatius a la promoció i participació en la consecució del benestar social, del desenvolupament del voluntariat i del foment de la solidaritat.
+La Creu Roja Andorrana precisa actualment d’un reconeixement de l’ordenament jurídic andorrà que la configuri com a institució humanitària de caràcter voluntari i d’interès públic, que desenvolupa les seves activitats com a auxiliar i col·laboradora de les administracions públiques sota la protecció de l’Estat, conservant i mantenint la seva independència i autonomia, amb plena acceptació dels principis del Moviment Internacional de la Creu Roja i de la Mitja Lluna Roja.
+A l’empara d’aquests antecedents i motius, la Creu Roja Andorrana aprovà en data 9 d’octubre del 2009 uns nous estatuts a fi d’acomodar i adequar la seva regulació interna a l’ordenament jurídic vigent.
+La connotació jurídica de les activitats de la Creu Roja depèn del sistema jurídic nacional del país on es desenvolupen les seves funcions. És per això que el legislador ha de determinar els principis generals rectors de la seva activitat enfront a les canviants necessitats i circumstàncies.
+Llei
