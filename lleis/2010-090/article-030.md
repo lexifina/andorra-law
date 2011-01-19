@@ -1,0 +1,3 @@
+# Article 30
+De la mediació de voluntariat
+Per mitjà d’aquesta Llei s’estableix el procediment de mediació de voluntariat com a sistema voluntari, confidencial i basat en el diàleg per a la resolució extrajudicial dels conflictes sorgits tant entre les persones voluntàries i entitats de voluntariat en el marc de les activitats de voluntariat, com entre persones voluntàries d’una mateixa entitat, com entre aquestes i el ministeri competent en matèria de voluntariat, amb la intervenció i ajuda del Comitè Andorrà del Voluntariat, per evitar l’obertura de processos judicials o la continuació dels ja iniciats per les parts.
