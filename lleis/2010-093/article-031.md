@@ -1,0 +1,4 @@
+# Article 31
+Organismes de control en matèria ambiental
+1. Les obligacions dels organismes de control en matèria de medi ambient queden regulades pels articles 13 i 14 de la Llei de seguretat i qualitat industrial, del 22 de juny del 2000.
+2. Les inspeccions, els assaigs o les proves efectuades pels organismes de control de manera incompleta o amb resultats no exactes per a una constatació insuficient dels fets, una constatació deficient dels fets o una aplicació deficient de les normes tècniques constitueix una infracció greu. La reincidència en la comissió d’una infracció greu constitueix una infracció molt greu. Per a l’apreciació de la reincidència es tenen en compte les sancions fermes imposades durant els tres anys anteriors. Les infraccions se sancionen d’acord amb el títol V de la Llei de seguretat i qualitat industrial, del 22 de juny del 2000.
