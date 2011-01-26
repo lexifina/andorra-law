@@ -1,0 +1,2 @@
+# Disposició final primera. Modificació de la Llei de bases de l’ordenament tributari
+El Govern ha de presentar en el termini d’un any a l’entrada en vigor d’aquesta Llei, un Projecte de llei de modificació de la Llei de bases de l’ordenament tributari, del 19 de desembre de 1996, que adapti i actualitzi els procediments de liquidació, gestió i control dels tributs en relació a les exigències i necessitats d’aquesta Llei.

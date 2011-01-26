@@ -1,0 +1,15 @@
+# Article 38
+Règim especial de societats de tinença de valors
+1. A l’efecte d’aquest règim especial, s’entén per societats de tinença de valors les societats l’objecte social de les quals comprengui l’activitat de gestió i administració de valors representatius dels fons propis. La societat de tinença de valors ha de tenir un capital social mínim de 120.000 euros.
+Els valors o les participacions representatius de la participació en el capital de l’entitat de tinença de valors estrangers han de ser nominatius.
+2. Els dividends o les participacions en beneficis d’entitats no-residents a Andorra, així com les rendes derivades de la transmissió de la participació corresponent, poden gaudir de l’exempció per evitar la doble imposició econòmica internacional sempre que es compleixin els següents requisits:
+a) Que el percentatge de participació, directa o indirecta, en el capital o en els fons propis de l’entitat no-resident sigui, almenys, del tres per cent. La participació corresponent s’ha de posseir de manera ininterrompuda durant l’any anterior al dia en què sigui exigible el benefici que es distribueixi o, si no n’hi ha, s’ha de mantenir posteriorment durant el temps necessari per completar el termini esmentat.
+b) Que l’entitat participada hagi estat gravada per un impost estranger de naturalesa idèntica o anàloga a aquest impost, segons el disposat a l’article 43, en l’exercici en què s’hagin obtingut els beneficis que es reparteixen o en els quals es participa.
+3. Els beneficis distribuïts amb càrrec a les rendes exemptes a què es refereix l’apartat anterior reben el següent tractament:
+a) Quan el perceptor sigui una entitat o persona física no-resident, el benefici distribuït no s’entén obtingut a Andorra.
+b) Quan el perceptor sigui una entitat resident o un establiment permanent, el benefici distribuït estarà exempt de tributació.
+4. Les rendes obtingudes en la transmissió de la participació en una societat de tinença de valors estrangers reben el següent tractament:
+a) Quan el perceptor sigui una entitat o persona física no-resident no s’entén obtinguda a Andorra la renda que es correspongui amb les reserves dotades amb càrrec a les rendes exemptes a què es refereix l’apartat 2.
+b) Quan el perceptor sigui una entitat subjecta a aquest impost o un establiment permanent situat a Andorra la renda que es correspongui amb les reserves dotades amb càrrec a les rendes exemptes a què es refereix l’apartat 2 estarà exempta.
+5. La concessió del règim especial de societat de tinença de valors estrangers està condicionada a la presentació de la sol·licitud corresponent al ministeri encarregat de les finances. El procediment d’aplicació d’aquest règim especial es determina reglamentàriament.
+La societat ha d’identificar en la memòria dels seus comptes anuals el detall de la cartera que posseeix, identificant les participacions en les societats que tingui o hagi mantingut en l’exercici, el valor patrimonial de les mateixes i els dividends o reserves que percebi en l’exercici.

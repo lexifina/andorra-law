@@ -1,0 +1,6 @@
+# Article 58
+Autoliquidació i ingrés del deute tributari
+1. Els obligats tributaris, en el moment de presentar la seva declaració, han de determinar el deute tributari corresponent i ingressar-lo en el lloc i en la forma que es determini reglamentàriament.
+2. El pagament del deute tributari es pot efectuar mitjançant el lliurament de béns integrants del patrimoni cultural del Principat d’Andorra en la forma que preveu l’article 36 de la Llei 9/2003, del 12 de juny, del patrimoni cultural d’Andorra.
+3. El dret a gaudir d’exempcions, deduccions o qualsevol incentiu fiscal en la base de tributació o en la quota de tributació està condicionat al compliment dels requisits que exigeix la normativa aplicable.
+Llevat que específicament s’estableixi una altra cosa, quan posteriorment a l’aplicació de l’exempció, la deducció o l’incentiu fiscal es produeixi la pèrdua del dret a gaudir d’aquest incentiu, l’obligat tributari ha d’ingressar juntament amb la quota del període impositiu en què tingui lloc l’incompliment dels requisits o les condicions la quota de tributació o la quantitat deduïda corresponent a l’exempció, la deducció o l’incentiu aplicat en períodes anteriors, a més dels interessos que siguin exigibles d’acord amb la Llei de bases de l’ordenament tributari, del 19 de desembre de 1996.

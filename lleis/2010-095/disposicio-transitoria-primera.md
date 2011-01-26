@@ -1,0 +1,2 @@
+# Disposició transitòria primera. Pèrdues generades anteriorment a l’entrada en vigor d’aquesta Llei
+Quan abans de l’entrada en vigor d’aquesta Llei una entitat hagi experimentat un resultat comptable negatiu, a partir dels exercicis comptables iniciats amb posterioritat a l’1 de gener de 2010, determinat d’acord amb el Pla general de comptabilitat i l’apartat 3 de l’article 9, aquestes pèrdues es poden compensar amb bases de tributació positives obtingudes amb posterioritat en els termes que preveu l’article 22.

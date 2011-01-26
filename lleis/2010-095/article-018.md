@@ -1,0 +1,6 @@
+# Article 18
+Efectes de la substitució del valor comptable pel valor normal de mercat
+Quan un element patrimonial o un servei hagin estat valorats a efectes fiscals pel valor normal de mercat, d’acord amb les regles que estableixen els articles 15 al 17, l’entitat adquirent d’aquell element patrimonial o servei integra en la seva base de tributació, amb signe negatiu o positiu, segons correspongui, la diferència entre aquest valor i el valor d’adquisició, de la manera següent:
+a) Si es tracta d’elements patrimonials integrants de l’actiu corrent, en el període impositiu en què aquests elements patrimonials motivin la meritació d’un ingrés.
+b) Si es tracta d’elements patrimonials no amortitzables integrants de l’immobilitzat tangible, intangible o de les inversions immobiliàries, en el període impositiu en què aquests elements patrimonials es transmetin. Si es tracta d’elements patrimonials amortitzables integrants de l’immobilitzat tangible, intangible o de les inversions immobiliàries, en els períodes impositius que restin de vida útil, aplicant a la diferència esmentada el mètode d’amortització utilitzat respecte dels elements esmentats.
+c) Si es tracta de serveis, en el període impositiu en què es rebin, excepte si el seu import s’ha d’incorporar a un element patrimonial, cas en què cal atenir-se al que preveuen les lletres anteriors.

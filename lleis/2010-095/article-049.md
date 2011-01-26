@@ -1,0 +1,5 @@
+# Article 49
+Expedient de baixa provisional per fallida
+1. Quan els dèbits de l’entitat relatius a aquest impost envers el ministeri encarregat de les finances hagin estat declarats incobrables per insolvència provada de l’obligat tributari en el sentit que preveu l’article 44 de la Llei de bases de l’ordenament tributari, del 19 de desembre de 1996, el ministeri encarregat de les finances ha d’iniciar un expedient de baixa provisional en el registre tributari de l’impost sobre societats, en què n’anunciï l’obertura per escrit a l’entitat afectada amb l’advertiment que si no satisfà els seus deutes tributaris pendents de pagament dins el termini de trenta dies, causarà baixa provisional en el registre esmentat.
+2. Un cop transcorreguts dos mesos des de la data de notificació de la comunicació a què es refereix l’apartat anterior, el ministeri encarregat de les finances, si escau, ha de declarar amb caràcter provisional la baixa en el Registre tributari.
+3. A efectes de donar publicitat a aquesta baixa amb caràcter provisional del Registre tributari, es farà la corresponent publicació al Butlletí Oficial del Principat d’Andorra.

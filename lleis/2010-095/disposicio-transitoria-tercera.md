@@ -1,0 +1,2 @@
+# Disposició transitòria tercera. Base de tributació durant el primer any d’aplicació de l’impost
+Si el període impositiu no coincideixi amb l’any natural, la base de tributació corresponent al primer període impositiu es calcula d’acord amb les normes que preveu aquesta Llei, però ponderant-la per la proporció entre els mesos transcorreguts durant 2012 sobre el total de mesos del seu exercici econòmic.

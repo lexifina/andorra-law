@@ -1,0 +1,2 @@
+# Disposició transitòria quarta. Pagament a compte durant el primer any d’aplicació de l’impost
+Durant el primer any d’aplicació de l’impost, només s’exigeix el pagament a compte del mes de juny previst en l’article 45. Aquest es calcula aplicant el tipus de gravamen previst en l’article 41, sobre la base del 75% del resultat net comptable de l’any anterior al del període impositiu, determinat segons les normes que preveu la Llei 30/2007, del 20 de desembre, de la comptabilitat dels empresaris.
