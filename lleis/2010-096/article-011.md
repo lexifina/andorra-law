@@ -1,0 +1,4 @@
+# Article 11
+Determinació de la base de tributació
+1. La base de tributació es determina pel mètode de determinació directa, pel sistema de determinació objectiva i, subsidiàriament, pel mètode de determinació indirecta, d’acord amb el que disposa, en aquest últim cas, l’article 29 de la Llei de bases de l’ordenament tributari, del 19 de desembre de 1996.
+2. L’estimació directa de la base de tributació admet una modalitat simplificada que s’aplica de manera voluntària quan l’import net de la xifra anual de negoci pel conjunt d’activitats dutes a terme per l’obligat tributari el període impositiu immediatament anterior sigui inferior a l’import previst pel règim simplificat de comptabilitat de la disposició addicional de la Llei 30/2007, del 20 de desembre, de la comptabilitat dels empresaris i que queda establert en l’article 13.

@@ -1,0 +1,3 @@
+# Article 26
+Deducció del pagament a compte i quota diferencial
+El pagament a compte es dedueix de la quota de liquidació per obtenir la quota diferencial. Quan, per efecte del pagament a compte, la quota diferencial sigui negativa, el ministeri encarregat de les finances, ha de retornar l’excés.

@@ -1,0 +1,2 @@
+# Disposició final quarta. Aplicació de l’impost
+Aquesta Llei és aplicable als períodes impositius que s’iniciïn a partir del primer dia natural de l’exercici immediatament posterior a la publicació al Butlletí Oficial del Principat d’Andorra d’una llei de l’impost sobre el valor afegit que substitueixi l’impost de mercaderies indirecte, l’impost indirecte sobre les prestacions de serveis empresarials i professionals, l’impost indirecte sobre la producció interna, i l’impost indirecte sobre les activitats comercials, i per a les rendes meritades a partir d’aquesta data.
