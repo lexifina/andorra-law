@@ -1,0 +1,2 @@
+# Disposició transitòria. Base de tributació en el cas de rendes obtingudes amb establiment permanent durant el primer any d’aplicació de l’impost
+En el cas de rendes obtingudes mitjançant establiment permanent, la base de tributació corresponent al primer període impositiu es calcula d’acord amb les normes d’aquesta Llei, però ponderant-la per la proporció entre els mesos transcorreguts durant el 2011 sobre el total de mesos del seu exercici econòmic.

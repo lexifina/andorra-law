@@ -1,0 +1,5 @@
+# Disposició final tercera. Habilitació normativa
+1. S’encomana al Govern la redacció de les disposicions i dels reglaments necessaris pel desenvolupament i l’execució d’aquesta Llei en el termini de sis mesos des de la seva entrada en vigor.
+2. Els models de declaració d’aquest impost i els dels seus pagaments a compte són fixats per reglament, el qual ha d’establir, a més de la forma, el lloc i els terminis per presentar-los, els supòsits i les condicions de la seva presentació per mitjans telemàtics.
+3. Es delega al ministeri encarregat de les finances la gestió i recaptació de l’impost que regula aquesta Llei.
+4. Durant els sis primers mesos d’aplicació de l’impost, els obligats tributaris podran realitzar consultes relatives exclusivament a la interpretació de l’articulat de la Llei que hauran de ser contestades pel ministeri encarregat de les finances i que tindran caràcter vinculant. El Govern establirà reglamentàriament els termes i l’abast en que es podran efectuar aquestes consultes.

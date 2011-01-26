@@ -1,0 +1,5 @@
+# Article 23
+Obligacions comptables, registrals i formals
+1. Els establiments permanents estan obligats a portar una comptabilitat separada, referida a les operacions que duguin a terme i als elements patrimonials que els estiguin destinats, tal com estableix la Llei 30/2007, del 20 de desembre, de la comptabilitat dels empresaris.
+2. Estan, així mateix, obligats al compliment de la resta d’obligacions d’índole comptable, registral o formal exigibles a les entitats residents fiscals en el territori andorrà per les normes de la Llei de l’impost sobre societats.
+3. El ministeri encarregat de les finances ha de crear un registre d’entitats no-residents fiscals en el qual s’han d’inscriure les persones i les entitats que operin a Andorra a través d’un establiment permanent i s’hagin d’inscriure igualment en el Registre de Societats Mercantils. Aquestes entitats estaran subjectes al mateix règim que resulta d’aplicació a les entitats residents fiscals d’acord amb els articles 47 a 52 de la Llei de l’impost sobre societats, en els termes i amb les adaptacions que resultin necessàries atenent les característiques d’aquestes entitats no-residents fiscals.

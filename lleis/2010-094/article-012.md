@@ -1,0 +1,7 @@
+# Article 12
+Rendes del treball
+1. Els rendiments del treball es consideren rendes obtingudes en el territori andorrà quan derivin, directament o indirectament, d’una activitat personal desenvolupada en aquest territori.
+Tenen la qualificació de rendiments del treball totes les contraprestacions o utilitats, sigui quina sigui la seva denominació o naturalesa, dineràries o en espècie, que derivin, directament o indirectament, del treball personal o la relació laboral i no tinguin el caràcter de rendiments d’activitats econòmiques. En particular, tenen aquesta consideració els sous i els salaris, les remuneracions en concepte de despeses de representació, les beques i les opcions sobre accions concedides en el marc d’una relació laboral.
+2. També tenen la consideració de rendes derivades del treball les següents:
+a) Les pensions i altres prestacions similars, quan derivin d’una ocupació prestada en territori andorrà o quan siguin satisfetes per una persona o entitat resident fiscal en el territori andorrà o per un establiment permanent situat en aquest territori. Es consideren pensions les remuneracions públiques o privades satisfetes per raó d’una ocupació anterior, amb independència que siguin percebudes pel mateix treballador o per una altra persona.
+b) Les retribucions dels administradors i els membres dels consells d’administració, de les juntes que tinguin caràcter de consell d’administració o d’òrgans representatius d’una entitat resident fiscal en el territori andorrà.

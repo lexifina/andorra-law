@@ -1,0 +1,19 @@
+# Article 14
+Altres rendes
+1. Es consideren rendes obtingudes a Andorra els rendiments derivats, directament o indirectament, de béns immobles situats en el territori andorrà o de drets relatius a aquests béns immobles.
+2. També es consideren rendes obtingudes en territori andorrà els guanys patrimonials derivats de les variacions en el valor del patrimoni de l’obligat tributari que es posin de manifest amb motiu de qualsevol alteració en la composició d’aquest valor del patrimoni, llevat que es qualifiquin en aquest capítol com una renda d’un altre tipus, en els supòsits següents:
+a) Quan es derivin de valors emesos per persones o entitats residents fiscals en el territori andorrà, llevat dels emesos en mercats secundaris d’Estats membres de la Unió Europea i de països membres de l’OCDE.
+b) Quan es derivin d’altres béns mobles, diferents dels valors, situats en el territori andorrà o de drets que s’hagin de complir o s’exercitin en el territori andorrà.
+c) Quan procedeixin, directament o indirectament, de béns immobles situats en el territori andorrà o de drets relatius a aquests béns. En particular, s’hi consideren inclosos:
+- els guanys patrimonials derivats de drets o participacions en una entitat, resident fiscal o no, l’actiu de la qual estigui constituït principalment, de manera directa o indirecta, per béns immobles situats en el territori andorrà;
+- els guanys patrimonials derivats de la transmissió de drets o participacions en una entitat, resident fiscal o no, que atribueixin al seu titular el dret de gaudiment sobre béns immobles situats en el territori andorrà.
+d) Quan s’incorporin al patrimoni de l’obligat tributari no-resident fiscal béns situats en el territori andorrà o drets que s’hagin de complir o s’exercitin en aquest territori, encara que no derivin d’una transmissió prèvia, com els guanys en el joc.
+3. S’estima que no hi ha alteració en la composició del patrimoni en els casos següents:
+a) en els supòsits de divisió de la cosa comuna;
+b) en la dissolució de l’associació de guanys, en l’extinció del règim econòmic matrimonial de participació o en l’extinció del règim econòmic matrimonial de separació de béns, quan per imposició legal o resolució judicial es produeixin adjudicacions per causa diferent de la pensió compensatòria entre cònjuges;
+c) en la dissolució de comunitats de béns.
+En tot cas, els béns i els drets als quals s’apliquin les lletres anteriors conserven el valor d’adquisició originari, sense que la circumstància que s’hi descriu n’impliqui una revaloració.
+Així mateix, es considera que no hi ha guany o pèrdua patrimonial en els supòsits de reducció de capital. Quan la reducció de capital, sigui quina sigui la seva finalitat, doni lloc a l’amortització de valors o participacions, es consideren amortitzades les adquirides en primer lloc, i el seu valor d’adquisició es distribueix proporcionalment entre la resta de valors homogenis que romanguin en el patrimoni del contribuent. Quan la reducció de capital no afecti de la mateixa manera tots els valors o les participacions propietat del contribuent, s’entén referida a les adquirides en primer lloc. No obstant això, quan la reducció de capital tingui per finalitat la devolució d’aportacions, l’import d’aquesta devolució minora el valor d’adquisició dels valors afectats, fins a la seva anul·lació. L’excés que pogués resultar té la consideració de dividend.
+4. No es consideren obtinguts en el territori andorrà els rendiments següents:
+a) els satisfets per raó de compravendes internacionals de mercaderies, incloses les comissions de mediació en aquestes compravendes, així com les despeses accessòries i connexes;
+b) els satisfets a persones o entitats no-residents fiscals a Andorra per establiments permanents situats a l’estranger, amb càrrec a aquests establiments, quan les prestacions corresponents estiguin vinculades amb l’activitat de l’establiment permanent a l’estranger.

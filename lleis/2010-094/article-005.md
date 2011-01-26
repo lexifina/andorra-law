@@ -1,0 +1,9 @@
+# Article 5
+Responsables
+1. Responen solidàriament del deute tributari corresponent als rendiments que hagi satisfet o a les rendes dels béns o els drets, el dipòsit o la gestió dels quals tingui encomanat, respectivament:
+a) el pagador dels rendiments meritats en favor dels obligats tributaris que operin sense mediació d’establiment permanent, o;
+b) el dipositari, el mandatari o el gestor dels béns o dels drets dels obligats tributaris que operin sense mediació d’establiment permanent.
+2. No s’entén que una persona o una entitat satisfà un rendiment quan es limita a efectuar una simple mediació de pagament. S’entén per “simple mediació de pagament” l’abonament d’una quantitat per compte i ordre d’un tercer.
+3. En el cas del pagador de rendiments meritats sense mediació d’establiment permanent pels obligats tributaris no-residents fiscals, les actuacions del ministeri encarregat de les finances poden entendre’s directament amb el responsable, al qual és exigible el deute tributari. El mateix procediment resulta d’aplicació en el cas del dipositari, el mandatari o el gestor de béns o drets dels obligats tributaris no-residents fiscals, no destinats a un establiment permanent.
+4. Responen solidàriament de l’ingrés dels deutes tributaris corresponents als establiments permanents dels obligats tributaris no-residents fiscals les persones que, d’acord amb el que estableix l’article 6, siguin els seus representants.
+5. Quan la falta d’ingrés del deute tributari de l’obligat tributari no-resident fiscal sigui imputable a accions o omissions de les persones a les quals aquest precepte considera responsables, el seu comportament pot ser objecte de les sancions corresponents, podent exigir-se al responsable, juntament al deute tributari corresponent al no-resident fiscal, la sanció que correspongui.
