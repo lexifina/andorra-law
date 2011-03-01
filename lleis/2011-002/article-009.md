@@ -1,0 +1,6 @@
+# Article 9
+Compareixença de qui ha segrestat o retingut el menor
+1. Si la persona que ha segrestat o retingut el menor compareix i accedeix a la restitució voluntària del menor, s’aixeca acta i el batlle ordena, mitjançant aute, la conclusió del procediment i el lliurament del menor a la persona, a la institució o a l’organisme titular del dret de custòdia, i si escau les costes i les despeses que siguin procedents.
+2. Si a la compareixença la persona interessada s’oposa a la restitució del menor basant-se en les causes establertes en el conveni corresponent, l’oposició s’ha de substanciar pel procediment següent:
+En el mateix acte de compareixença, el batlle cita les parts interessades, el Ministeri Fiscal i, sempre que sigui possible i separadament, el menor perquè exposin el que estimin oportú i, si escau, es practiquin les proves proposades o les que el batlle estimi convenients dins el termini de set (7) dies naturals, prorrogable fins a dos (2) dies naturals més.
+3. Després de la compareixença i, si és el cas, després de practicar les proves pertinents, el batlle dicta aute dins dels dos (2) dies naturals posteriors, i resol en interès del menor, i en els termes previstos en el conveni corresponent, si és procedent o no és procedent restituir-lo.
