@@ -1,0 +1,4 @@
+# Disposició addicional tercera. Normes concursals
+Els actius afectes a les reserves en garantia del membre insolvent s’han de separar de la massa activa i s’han de posar a disposició de la Comissió Gestora per vendre’ls o pagar als beneficiaris, tal com disposa l’article 12.
+Per determinar les quantitats que gaudeixen de privilegi enfront de la massa activa del membre insolvent del Sistema, segons estableix l’article 15, n’hi haurà prou amb la certificació que efectuï la Comissió Gestora, que farà fe dels titulars dels crèdits privilegiats i del seu import.
+Els procediments judicials separats que pugui iniciar qui s’entengui perjudicat per situacions d’insolvència no obsten a l’execució dels actius afectes a la reserva en garantia constituïda pel membre insolvent del Sistema, que es pot dur a terme separadament del procediment concursal, de manera que es pugui fer el pagament als titulars del privilegi establert a l’article 15 de forma immediata.

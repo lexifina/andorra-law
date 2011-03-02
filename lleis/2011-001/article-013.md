@@ -1,0 +1,4 @@
+# Article 13
+Recuperació d’aportacions en l’àmbit de procediments concursals o d’intervenció
+1. Els membres del Sistema tenen dret a recuperar els imports lliurats a la Comissió Gestora perquè efectuï els pagaments corresponents als beneficiaris i es reconstrueixi la reserva en garantia. A aquest efecte, es poden presentar al procediment concursal o d’intervenció que s’hagi pogut incoar al membre insolvent del Sistema, i poden ser representats per la Comissió Gestora en els termes que estableix l’article 14.
+2. Respecte de l’import que els beneficiaris no haguessin pogut percebre, de conformitat amb el que s’estableix en aquest capítol, per insuficiència de les reserves en garantia i fins al límit màxim establert en aquesta Llei, si escau, també seran representats de forma conjunta als procediments d’insolvència i intervenció per la Comissió Gestora.
