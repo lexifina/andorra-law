@@ -1,0 +1,5 @@
+# Article 7
+Obligacions dels socis
+1. Els socis estan obligats a complir els reglaments interns de funcionament i de producció, cria i engreix de bestiar que s'aprovin.
+2. Qualsevol incompliment de l'obligació fixada en l'apartat anterior podrà comportar l'exclusió temporal o definitiva del soci dels canals de comercialització del bestiar que engreixi i/o la imposició de sancions que estableixi el Reglament de funcionament intern de la societat. Aquesta mesura l'adoptarà el consell d'administració en un expedient sancionador, després de l'audiència de la persona interessada, i la decisió podrà ser recorreguda davant de la junta general d'accionistes en el termini de quinze dies a partir de la comunicació fefaent. La junta general d'accionistes resoldrà el recurs a la propera reunió que celebri.
+III. Capital social i accions

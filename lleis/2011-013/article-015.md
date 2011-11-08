@@ -1,0 +1,8 @@
+# Article 15
+Convocatòria de la junta general
+1. La junta general l'ha de convocar l'òrgan d'administració o els liquidadors.
+2. La junta general s'ha de convocar amb una antelació mínima de vint-i-un dies naturals, al dia de la data de celebració mitjançant carta certificada amb acusament de rebut.
+3. Alternativament al lliurament personal al soci de la convocatòria amb acusament de recepció, es pot recórrer als mitjans de comunicació a distància que assegurin l'acreditació de la tramesa de la mateixa i el seu contingut. No serà necessària la publicació de la convocatòria de la junta general en cap diari ni cap mitjà de comunicació.
+4. La convocatòria per a la celebració de la junta general ha d'expressar la data, el lloc i l'hora de la reunió, tant en primera convocatòria com en segona, i l'ordre del dia, i indicar els assumptes que s'hi ha de tractar. Entre la primera convocatòria i la segona ha de transcórrer, com a mínim, un termini de 24 hores.
+5. Les juntes generals se celebraran en el seu domicili social, o en el lloc que s'indiqui en la convocatòria, sempre en territori andorrà.
+6. Les juntes generals se celebraran el dia assenyalat en la convocatòria, però les seves sessions podran ser prorrogades durant un o més dies consecutius. La pròrroga podrà acordar-se a proposta del consell d'administració o a petició d'un nombre de socis que representi la quarta part del capital present a la junta. Qualsevol que sigui el nombre de sessions en què se celebri la junta, es considerarà única, aixecant-se una sola acta per a totes les sessions.
