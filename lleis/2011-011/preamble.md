@@ -1,0 +1,10 @@
+Llei 11/2011, del 13 d’octubre, de crèdit extraordinari per finançar les despeses derivades del conveni entre el Govern d’Andorra i la Cambra de Notaris d’Andorra per a la continuació del projecte de microfilmació, digitalització i mecanització dels protocols notarials propietat de l’Estat
+Atès que el Consell General en la seva sessió del dia 13 d’octubre del 2011 ha aprovat la següent:
+llei 11/2011, del 13 d’octubre, de crèdit extraordinari per finançar les despeses derivades del conveni entre el Govern d’Andorra i la Cambra de Notaris d’Andorra per a la continuació del projecte de microfilmació, digitalització i mecanització dels protocols notarials propietat de l’Estat
+Exposició de motius
+El 8 de maig del 2008 el Govern d’Andorra i la Cambra de Notaris d’Andorra van signar el Conveni per a la continuació del Projecte de microfilmació, digitalització i mecanització dels protocols notarials propietat de l’Estat. Aquest Conveni estableix que la Cambra de Notaris d’Andorra assumeix la continuació de l’execució, la gestió i el control del Projecte, durant un període de quatre anys, per preservar amb plena garantia la documentació notarial i agilitzar i assegurar la gestió diària correcta del tràfic jurídic. Alhora, estableix que el Govern, per mitjà del Ministeri de Justícia i Interior, ha de fer front a les despeses derivades del proveïment dels mitjans humans i tècnics suficients amb la finalitat que la Cambra de Notaris pugui finalitzar les aplicacions informàtiques del Projecte.
+El 2011 és el darrer any de vigència del conveni esmentat i el pagament que ha de satisfer el Govern és d’un import de 191.284 euros.
+Vist que el Govern no disposa dels crèdits d’inversió real necessaris per fer front al pagament d’aquesta despesa a la Cambra de Notaris;
+Vist que el caràcter d’urgència i necessitat d’aquesta despesa queda justificat pel fet que la Cambra de Notaris d’Andorra ha de disposar dels crèdits pressupostaris per poder satisfer els compromisos de pagament contrets per a l’any 2011;
+Vist l’informe de la Intervenció General;
+Vist l’acord de Govern del 7 de setembre del 2011;
