@@ -1,0 +1,12 @@
+Llei 8/2011, del 13 d’octubre, de crèdit extraordinari per finançar els crèdits a l’emancipació i els crèdits per accedir a un habitatge de lloguer corresponents a la convocatòria d’ajuts a l’habitatge de lloguer de l’any 2011
+Atès que el Consell General en la seva sessió del dia 13 d’octubre del 2011 ha aprovat la següent:
+llei 8/2011, del 13 d’octubre, de crèdit extraordinari per finançar els crèdits a l’emancipació i els crèdits per accedir a un habitatge de lloguer corresponents a la convocatòria d’ajuts a l’habitatge de lloguer de l’any 2011
+Exposició de motius
+El 30 de març del 2005 es va aprovar el Reglament d’ajuts a l’habitatge de lloguer, el qual va posar en marxa per primera vegada dos tipus d’ajuts destinats a millorar les condicions d’accés i manteniment dels habitatges de lloguer: les subvencions periòdiques a l’habitatge de lloguer i els crèdits a l’emancipació. Aquests últims estan destinats exclusivament a eliminar els obstacles econòmics que poden representar les despeses que genera l’acció d’emancipar-se entre els joves.
+En la convocatòria d’ajuts a l’habitatge de lloguer de l’any 2009 (juny 2009- agost 2010) es van introduir, mitjançant el decret de modificació del reglament de referència, els crèdits per accedir a un habitatge de lloguer, destinats a finançar les despeses que puguin tenir les persones o les famílies que estiguin en una situació econòmica difícil i hagin de signar el seu primer contracte de lloguer o bé hagin de canviar de pis.
+Per a la convocatòria d’ajuts a l’habitatge de lloguer de l’any 2010 (setembre 2010 -agost 2011) el Consell General va aprovar la Llei 26/2010, del 3 de juny, de crèdit extraordinari per finançar els crèdits a l’emancipació i els crèdits per accedir a un habitatge de lloguer, per un import de 117.000 euros.
+Vist que enguany el Govern ha de convocar els ajuts a l’habitatge de l’any 2011 que comprèn el període del setembre del 2011 a l’agost del 2012;
+Vist que el Govern no disposa dels crèdits per finançar la despesa esmentada per als mesos de setembre a desembre d’enguany, xifrada en 22.000 euros;
+Vist que el caràcter d’urgència i la necessitat d’aquesta despesa queden justificats pel fet que el Govern ha de disposar dels crèdits pressupostaris en el capítol vuitè, dedicat als actius financers, per poder obrir la convocatòria dels crèdits per a l’any 2011, i per poder concedir els crèdits a l’emancipació i els crèdits per accedir a un habitatge de lloguer;
+Vist l’informe de la Intervenció General;
+Vist l’acord de Govern del 24 d’agost del 2011;
