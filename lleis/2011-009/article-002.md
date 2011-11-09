@@ -1,0 +1,2 @@
+# Article 2
+El crèdit extraordinari per a l’exercici 2011 per un import d’1.924.000,00 euros es finança mitjançant un nou endeutament. Els crèdits de despesa de capital amb caràcter plurianual, i el seu finançament, d’un import total de 6.405.476,22 euros, del qual 3.796.000,00 euros corresponen a l’exercici 2012 i 2.609.476,22 euros a l’exercici 2013, s’inclouran en els pressupostos respectius quan s’elaborin els projectes de pressupost corresponents, d’acord amb l’article 29 de la Llei general de les finances públiques.
