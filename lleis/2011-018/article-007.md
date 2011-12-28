@@ -1,0 +1,3 @@
+# Article 7
+Es modifica la redacció de l’apartat 2 de l’article 12 de la Llei de l’impost sobre la renda dels no-residents fiscals, del 29 de desembre del 2010, que queda redactat de la manera següent:
+“2. També tenen la consideració de rendes derivades del treball les pensions i altres prestacions similars, quan derivin d’una ocupació prestada en territori andorrà o quan siguin satisfetes per una persona o entitat resident fiscal en el territori andorrà o per un establiment permanent situat en aquest territori. Es consideren pensions les remuneracions públiques o privades satisfetes per raó d’una ocupació anterior, amb independència que siguin percebudes pel mateix treballador o per una altra persona.”

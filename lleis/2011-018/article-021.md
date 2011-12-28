@@ -1,0 +1,10 @@
+# Article 21
+Es modifica la redacció de l’article 35 de la Llei de l’impost sobre la renda dels no-residents fiscals, del 29 de desembre del 2010, que queda redactat de la manera següent:
+“Normes de retenció i d’ingrés a compte
+1. Els subjectes obligats a retenir han de retenir o ingressar a compte una quantitat equivalent a la que resulti d’aplicar les disposicions previstes en aquesta Llei per determinar el deute tributari corresponent als obligats tributaris no-residents fiscals sense establiment permanent.
+2. Els subjectes obligats a retenir o a ingressar a compte han d’assumir l’obligació d’efectuar l’ingrés al ministeri encarregat de les finances, sense que l’incompliment d’aquesta obligació els en pugui excusar.
+3. No s’ha de practicar la retenció o l’ingrés a compte respecte de:
+a) les rendes que estiguin exemptes en virtut del que estableix l’article 15 o un conveni per evitar la doble imposició que hi resulti aplicable,
+b) les rendes satisfetes o abonades als obligats tributaris no-residents fiscals sense establiment permanent, quan s’acrediti el pagament de l’impost per part de l’obligat tributari o el responsable solidari.
+4. El subjecte obligat a retenir i practicar ingressos a compte ha de presentar la declaració i ha d’efectuar l’ingrés davant el ministeri encarregat de les finances en el lloc, la forma i els terminis que s’estableixin, de les quantitats retingudes o els ingressos a compte fets, o la declaració negativa quan escaigui. Així mateix, ha de presentar un resum anual de les retencions i els ingressos a compte amb el contingut que es determini reglamentàriament. No obstant això, no hi ha obligació de declarar les rendes que estiguin exemptes, en virtut del que disposen les lletres a), b), d), f) i h) de l’article 15 d’aquesta Llei.
+El subjecte obligat a retenir i a practicar ingressos a compte està obligat a conservar la documentació corresponent i a expedir una certificació acreditativa de les retencions o els ingressos a compte efectuats. L’abast d’aquestes obligacions formals s’ha d’establir reglamentàriament.”

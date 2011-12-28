@@ -1,0 +1,3 @@
+# Article 17
+Es modifica l’article 30 de la Llei de l’impost sobre la renda dels no-residents fiscals, del 29 de desembre del 2010, que queda redactat de la manera següent:
+“La quota de liquidació coincideix amb la quota de tributació. No obstant, pels casos de transmissions de participacions socials o accions, subjectes efectivament a aquest Impost, que s’hagi liquidat l’Impost sobre les plusvàlues en les transmissions patrimonials immobiliàries, la quota de liquidació d’aquest impost, serà minorada per l’import de la quota de liquidació satisfeta per l’impost sobre les plusvàlues en les transmissions patrimonials immobiliàries.”

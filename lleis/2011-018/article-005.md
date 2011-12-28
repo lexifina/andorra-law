@@ -1,0 +1,7 @@
+# Article 5
+Es modifica la redacció de l’article 8 de la Llei de l’impost sobre la renda dels no-residents fiscals, del 29 de desembre del 2010, que queda redactat de la manera següent:
+“Fet generador
+1. Constitueix el fet generador l’obtenció de rendes, dineràries o en espècie, en el territori d’Andorra, per part dels obligats tributaris d’aquest impost, de conformitat amb el que s’estableix als articles següents.
+2. No estan subjectes a aquest impost els interessos i altres rendiments obtinguts per la cessió a tercers de capitals propis a què es refereix l’Acord entre el Principat d’Andorra i la Comunitat Europea relatiu a l’establiment de mesures equivalents a les previstes a la Directiva 2003/48/CE del Consell en matèria de fiscalitat dels rendiments de l’estalvi en forma de pagaments d’interessos, aprovat per la Llei 11/2005, del 13 de juny.
+3. Tampoc no estan subjectes a aquest impost els guanys de capital derivats de la transmissió de béns immobles o drets sobre aquests béns per part de persones no residents fiscals que actuïn sense mediació d’establiment permanent, sempre que estiguin subjectes a l’impost regulat per la Llei 21/2006, del 14 de desembre, de l’impost sobre les plusvàlues en les transmissions patrimonials immobiliàries.
+4. Es presumeixen retribuïdes, llevat de prova en contrari, les prestacions o les cessions de béns, drets i serveis susceptibles de generar rendes subjectes a aquest impost.”
