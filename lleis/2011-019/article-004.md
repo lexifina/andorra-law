@@ -1,0 +1,20 @@
+# Article 4
+Es modifiquen els articles 13 i 20 de la Llei 96/2010, del 29 de desembre, de l’impost sobre la renda de les activitats econòmiques, que queda redactat, respectivament, de la manera següent:
+“Article 13
+Règim especial de determinació objectiva de la base de tributació
+1. Els obligats tributaris en els que la seva xifra de negocis en l’exercici immediatament anterior no superi els 300.000 euros, es poden acollir al règim especial previst en aquest article.
+2. No obstant el que es preveu en l’apartat anterior, per als casos d’obligats tributaris que desenvolupin activitats professionals, la xifra de negocis al qual es refereix l’apartat anterior, perquè es puguin acollir a aquest règim especial, és de 150.000 euros.
+3. En el cas de que l’exercici anterior tingui una durada inferior a 12 mesos, pel còmput dels límits esmentats, s’ha de tenir en compte la xifra de negocis corresponent fins a complir el període dels 12 mesos.
+4. L’opció d’acollir-se a aquest règim de determinació objectiva és voluntària, però en cas de fer-ho, aquest règim serà obligatori per la totalitat d’activitats econòmiques que realitzi l’obligat tributari. L’obligat tributari que es vulgui acollir a aquest règim ho ha de comunicar al ministeri encarregat de les finances abans de finalitzar l’any anterior al que hagi de tenir efecte, en els termes que es determinin reglamentàriament. Una vegada hagi optat per aquest règim, s’hi ha de mantenir durant un termini mínim de tres anys, i per sortir-ne cal que hi renunciï a través d’una comunicació al ministeri encarregat de les finances abans de la finalització de l’any anterior al qual hagi de tenir efecte. En el cas d’inici d’activitat, l’opció d’acollir-se a aquest règim s’ha de fer durant el mes següent a la data d’inici d’activitat. Pel primer any d’aplicació d’aquesta llei, el termini per optar per aquest règim és de dos mesos a comptar des de l’entrada en vigor d’aquesta Llei.
+5. La determinació de la base de tributació en la modalitat de determinació objectiva es fa per la suma del rendiment net de l’activitat i el resultat, positiu o negatiu, dels resultats extraordinaris que s’obtinguin per la transmissió dels actius fixos a l’activitat.
+6. El rendiment net de l’activitat es calcula per la diferència entre els ingressos que en procedeixen de la mateixa, computats d’acord amb les regles que estableix l’impost sobre societats, i els percentatges estimatius de les despeses que s’indiquen a continuació, segons el tipus d’activitat econòmica que s’efectua, aplicats sobre la xifra dels ingressos de l’activitat. Dins la xifra d’ingressos no s’inclouen els procedents de les transmissions d’actius fixos afectes a l’activitat desenvolupada, que s’addicionen al resultat del rendiment net de l’activitat.
+7. Els percentatges de despeses aplicables són els següents:
+a) Quan es tracti d’activitats estrictament comercials, les despeses deduïbles es quantifiquen en el 80 per cent de la xifra d’ingressos.
+b) Quan es tracti de retribucions als administradors o membres dels òrgans d’administració, les despeses deduïbles es quantifiquen en el 2 per cent de la xifra de les retribucions.
+c) En la resta d’activitats les despeses deduïbles es quantifiquen en el 40 per cent de la xifra d’ingressos.
+A aquests efectes són activitats estrictament comercials aquelles que consisteixin en el lliurament de béns sense que aquests hagin estat objecte de transformació prèvia.
+8. En el cas que l’obligat tributari desenvolupi diverses activitats, el càlcul es fa activitat per activitat i s’integren en una sola liquidació per part de cada obligat tributari.
+9. S’integren a la base de tributació d’aquest règim, les adquisicions de béns o drets afectes a l’activitat, adquirits a títol lucratiu.
+Article 20
+Imputació temporal
+Els ingressos i despeses que determinen la renda a incloure en la base de tributació en la modalitat de determinació directa i en la modalitat de determinació objectiva s’imputen d’acord amb la normativa del Pla general de comptabilitat.”
