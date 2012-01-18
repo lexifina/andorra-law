@@ -1,0 +1,2 @@
+# Sisena
+S’autoritza el Govern a regularitzar en el termini de dos anys -2012 i 2013- les quotes de participació transferides als comuns segons els imports liquidats en els pressupostos de l’Administració general dels anys 2007, 2008, 2009, 2010 i 2011 corresponents a les transferències als comuns dels dits anys, segons la xifra exacta dels ingressos corresponents als anys esmentats, quan el Consell General aprovi les liquidacions dels pressupostos a proposta del Tribunal de Comptes i es conegui la xifra exacta dels ingressos corresponents als dits anys.

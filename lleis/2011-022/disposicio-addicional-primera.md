@@ -1,0 +1,3 @@
+## Disposicions addicionals
+# Primera
+A partir de l’entrada en vigor d’aquesta Llei, l’interès legal queda establert en e l’1%. En cas que el Govern no pagui als seus proveïdors en els terminis establerts legalment incorporarà al seu pagament els interessos legals de demora corresponents de forma automàtica.
