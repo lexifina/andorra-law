@@ -1,0 +1,2 @@
+# Disposició addicional
+S’encarrega al Govern que, en el termini màxim de trenta dies a partir de la data d’entrada en vigor d’aquesta Llei, publiqui al Butlletí Oficial del Principat d’Andorra, mitjançant el decret corresponent, el text refós de l’articulat de la Llei 30/2007, del 20 de desembre, de la comptabilitat dels empresaris, modificada per la Llei 8/2010, del 22 d’abril, incloses totes les modificacions i addicions aportades mitjançant aquesta Llei.”
