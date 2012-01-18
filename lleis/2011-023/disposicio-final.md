@@ -1,0 +1,2 @@
+# Disposició final. Modificació dels estatuts
+Tota modificació d’aquests estatuts, aprovada per l’Assemblea General amb la majoria exigida estatutàriament, també ha de ser sotmesa necessàriament a l’aprovació del Consell General, d’acord amb el que estableix la legislació en vigor en matèria de finances públiques del Principat d’Andorra. Sense aquesta aprovació, la modificació dels estatuts no tindrà cap efecte.

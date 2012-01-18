@@ -1,0 +1,5 @@
+## Capítol primer. Disposicions generals
+# Article 1
+Naturalesa i règim jurídic
+1.1. La societat de gestió col·lectiva de drets d’autor i drets veïns del Principat d’Andorra (en endavant, SDADV) ha estat constituïda en virtut de la Llei per la qual es constitueix la SDADV (en endavant, Llei de Creació de la SDADV). La SDADV és, d’acord amb la Llei de Creació de la SDADV, una entitat de dret públic de base associativa, amb personalitat jurídica pròpia i plena capacitat d’obrar.
+1.2. La SDADV es regeix pel que disposa la Llei de Creació de la SDADV, la Llei sobre drets d’autor i drets veïns, del 10 de juny del 1999, i les lleis que la puguin complementar i/o substituir en el futur, i els convenis internacionals en la matèria ratificats pel Principat d’Andorra, així com per aquests estatuts i les normes de règim interior vàlidament adoptades per la seva Assemblea General o el seu Consell d’Administració, per la legislació vigent en matèria de finances, comptabilitat i contractació pública, i per qualsevol altra disposició legal o reglamentària que siguin d’aplicació.

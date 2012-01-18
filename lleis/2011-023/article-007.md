@@ -1,0 +1,6 @@
+## Capítol segon. Membres
+# Article 7
+Membres
+7.1. Són membres de la SDADV les persones físiques o jurídiques, de nacionalitat andorrana o estrangera, residents legals o no al Principat d’Andorra, que acreditin ésser titulars, originaris o derivatius, de drets d’autor i/o drets veïns i que tinguin subscrit i en vigor un contracte de gestió de tots o part d’aquests drets amb la SDADV. En tot cas poden ser membres de la SDADV aquells titulars de drets adquirits per actes inter vius o mortis causa. L’acreditació d’ésser titular de drets d’autor i/o veïns es realitza amb la presentació de la documentació que estableixin les normes de règim interior a l’efecte.
+Els membres de la SDADV, i els seus drets, poden ser representats davant la SDADV i en els seus òrgans per les terceres persones físiques o jurídiques que designin, siguin de nacionalitat andorrana o estrangera, residents legals o no al Principat d’Andorra. Aquestes representacions s’han de conferir per escrit i conforme als requisits que estableixin les normes de règim interior a l’efecte.
+7.2. El Consell d’Administració acorda l’admissió i la baixa dels membres de la SDADV, i pot establir quotes d’ingrés a càrrec dels membres que s’incorporen.
