@@ -1,0 +1,6 @@
+# Article 6
+Complement d’antiguitat i triennis
+1. El temps transcorregut a partir de la data d’entrada en vigor d’aquesta Llei no genera drets per al càlcul del complement o prima d’antiguitat o els triennis del personal comprès en l’article 1 que tingui dret a percebre el concepte retributiu esmentat, qualsevol que sigui la seva denominació.
+2. Pel que fa al complement o prima d’antiguitat o trienni que es trobi en curs en el moment en què entra en vigor aquesta Llei, es continua computant el temps només a l’efecte de determinar quan es completa el període de tres anys; en aquell moment, la persona afectada té dret a percebre la part proporcional del complement o trienni que correspongui al temps transcorregut des de l’inici del còmput i fins al dia en què s’hagi començat a aplicar aquesta Llei.
+3. Els apartats precedents s’apliquen analògicament al personal que tingui dret a percebre un complement de retribució per raó de quadriennis o quinquennis.
+4. La disposició de l’apartat 1 té vigència per un període de tres anys. Transcorregut aquest termini, torna a computar el temps a efectes del càlcul del complement d’antiguitat, triennis, quadriennis o quinquennis del personal que tingui dret a percebre aquest concepte retributiu.
