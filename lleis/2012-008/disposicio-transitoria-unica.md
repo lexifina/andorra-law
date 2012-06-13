@@ -1,0 +1,3 @@
+# Disposició transitòria única
+Els establiments d’allotjament turístic disposen d’un termini d’un any, a comptar de la data d’entrada en vigor del reglament que reguli la forma i el model del Registre d’Ocupació oficial, per adequar els seus sistemes de tractament de dades al model oficial que s’estableixi per via reglamentària i assegurar-ne la tramesa correcta, d’acord amb el que preveu el capítol tercer bis.
+No obstant això, durant aquest període els establiments que no s’hi hagin adequat estan igualment obligats a portar un llibre de registre que garanteixi el compliment de les obligacions de la present Llei, de conformitat amb el que estableix el Decret dels veguers del 23 de juny del 1965.

@@ -1,0 +1,2 @@
+# Disposició final segona
+A les empreses incloses en el Registre d’Empreses d’Explotació d’Apartaments Moblats per a Vacances i d’Apartaments Moblats per a Vacances, regulades per la Llei 26/2008, del 20 de novembre, de regulació dels apartaments moblats per a vacances i de les empreses que els exploten, també se’ls aplica el capítol tercer bis, l’article 17 bis del capítol cinquè, l’article 20, els apartats f) i g) de l’article 21 i els apartats e) i f) de l’article 22.
