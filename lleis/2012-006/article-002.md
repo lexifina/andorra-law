@@ -1,0 +1,2 @@
+# Article 2
+El suplement de crèdit per a l’exercici 2012 per un import de 900.000 euros es finança mitjançant un nou endeutament. Els crèdits de despesa amb caràcter plurianual, i el seu finançament, d’un import de 600.000 euros, s’inclouran en el pressupost per a l’exercici 2013 quan s’elabori el projecte de pressupost corresponent, d’acord amb l’article 29 de la Llei general de les finances públiques.
