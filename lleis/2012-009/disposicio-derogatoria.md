@@ -1,0 +1,2 @@
+# Disposició derogatòria
+Amb l’entrada en vigor d’aquesta Llei qualificada queden derogats el Decret legislatiu del 25 de juny del 2008, de publicació del text refós de la Llei qualificada d’immigració, del 14 de maig del 2002, amb les seves modificacions successives, i la Llei 17/2006, del 30 de novembre, qualificada de residències passives, així com totes les normes anteriors de rang igual o inferior en tot el que s’hi oposin o la contradiguin.

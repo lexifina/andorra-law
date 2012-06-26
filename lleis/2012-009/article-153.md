@@ -1,0 +1,5 @@
+# Article 153
+Obligats tributaris
+El patró és obligat tributari de la taxa generada per la prestació d’un dels serveis administratius esmentats als apartats 3, 5, 6, 7 i 9 de l’article anterior.
+La persona que sol·licita el reagrupament familiar és obligat tributari per als serveis administratius enunciats als apartats 10, 12, 13 i 16 de l’article anterior.
+La persona física de nacionalitat estrangera que sol·licita la prestació del servei administratiu és obligat tributari de la taxa generada per la prestació d’un dels altres serveis administratius esmentats a l’article anterior.
