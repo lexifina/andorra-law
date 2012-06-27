@@ -1,0 +1,4 @@
+# Article 7
+Òrgans de Control
+Les sancions són imposades a la persona física o jurídica que hagi comès la infracció pel ministeri encarregat de la salut, prèvia instrucció d’un expedient administratiu sancionador que tramita el servei competent en matèria de vigilància de la salut, sense perjudici que la denúncia que dóna lloc a l’obertura de l’expedient sigui interposada per qualsevol altre servei d’inspecció de l’Administració pública o bé a iniciativa privada. En aquest darrer cas, la persona resta obligada a identificar-se.
+Tots els serveis d’inspecció de l’Administració pública estan obligats a denunciar qualsevol infracció que observin a la present Llei prop del servei competent en matèria de vigilància de la salut així com col·laborar amb aquest servei en tot allò que se’ls pugui requerir, en especial durant la instrucció dels expedients administratius sancionadors.
