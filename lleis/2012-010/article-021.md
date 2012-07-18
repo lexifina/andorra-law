@@ -1,0 +1,3 @@
+# Article 21
+Declaració i registre
+Llevat dels casos en què aquesta Llei no exigeix la declaració posterior al Registre d’Inversions Estrangeres, els notaris que autoritzin el document públic en el qual es formalitzi estan obligats a declarar les inversions estrangeres i la seva liquidació al Registre d’Inversions Estrangeres en el termini màxim de quinze dies a comptar de l’atorgament del document públic. Aquesta declaració s’ha de fer mitjançant el model oficial i és preceptiva independentment del fet que la inversió estrangera requereixi l’autorització prèvia del ministeri competent en matèria d’inversió estrangera.

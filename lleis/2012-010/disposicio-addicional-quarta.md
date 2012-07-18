@@ -1,0 +1,4 @@
+# Disposició addicional quarta
+1. Les entitats bancàries andorranes han de facilitar al ministeri encarregat de les finances la informació que els requereixi, amb caràcter individual i de forma excepcional, sobre l’origen, el destí i el concepte de les operacions vinculades a les inversions regulades en aquesta Llei, en què intervinguin.
+2. Les entitats bancàries andorranes han de comunicar al ministeri encarregat de les finances amb caràcter trimestral informació relativa als moviments de capitals en base agregada i ordenada per països d’origen i de destí.
+3. Les entitats bancàries andorranes no poden executar cap de les operacions referides a l’article 4 d’aquesta Llei sense obtenir prèviament la informació a la qual es refereix l’apartat 1, i totes les persones que participin en les operacions estan obligades a facilitar-la.

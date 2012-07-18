@@ -1,0 +1,6 @@
+# Article 14
+Règim
+1. Estan subjectes a l’autorització prèvia del ministeri competent en matèria d’inversió estrangera les inversions en immobles que vulguin efectuar les persones físiques no residents a Andorra, sempre que no disposin de la nacionalitat andorrana; les societats andorranes quan la participació estrangera en el capital social o en els drets de vot sigui igual o superior al 50 per cent, i les sucursals o altres tipus d’establiments permanents a Andorra de no-residents.
+2. També estan subjectes a l’autorització prèvia del ministeri competent en matèria d’inversió estrangera les inversions en immobles que vulguin efectuar les persones jurídiques de nacionalitat estrangera, incloses les entitats públiques de sobirania estrangera. Aquestes inversions en immobles han d’estar necessàriament vinculades al desplegament de l’activitat de la persona jurídica.
+3. No es poden autoritzar inversions en immobles que vulguin efectuar persones jurídiques estrangeres que es dediquin a l’adquisició o a la construcció d’immobles amb la finalitat de comercialitzar-los, inclòs l’arrendament.
+4. D’acord amb aquesta Llei, en les adquisicions per causa de mort de béns immobles per part d’una persona física o jurídica no resident, la transmissió és vàlida i eficaç, si bé requereix la declaració posterior al Registre d’Inversions Estrangeres.

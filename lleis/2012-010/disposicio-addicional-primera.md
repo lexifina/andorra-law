@@ -1,0 +1,7 @@
+# Disposició addicional primera
+1. Es modifica la lletra a de l’apartat 1 de l’article 5, Accés a l’exercici, de la Llei 6/2008, del 15 de maig, d’exercici de professions liberals i de col·legis i associacions professionals, amb el contingut següent:
+“a) requisits de nacionalitat o residència: tenir la nacionalitat andorrana o acreditar la residència efectiva i permanent al Principat.
+Les autoritzacions per a l’exercici d’una professió liberal al Principat d’Andorra per part de persones físiques amb residència efectiva i permanent a Andorra i que no disposin de nacionalitat andorrana estan subjectes al tracte de reciprocitat que permeti l’exercici efectiu de la professió liberal als nacionals andorrans en l’estat d’origen del sol·licitant.”
+2. Es modifica la disposició addicional segona, Necessitat temporal de professionals titulats, de la Llei 6/2008, del 15 de maig, d’exercici de professions liberals i de col·legis i associacions professionals, amb el contingut següent:
+“Autoritzacions de professionals liberals de nacionalitat no andorrana
+El Govern, mitjançant habilitació especial per decret, pot atorgar autoritzacions per a l’exercici de les professions liberals a persones estrangeres que no compleixin el requisit de residència efectiva i permanent, o bé el principi de reciprocitat, establerts a l’article 5, atenent criteris d’experiència, de qualificació, i/o de reputació professional i empresarial dels professionals liberals concernits, i també d’acord amb les necessitats sectorials del Principat.”
