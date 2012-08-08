@@ -1,0 +1,12 @@
+Llei 13/2012, del 12 de juliol, de tinença i de protecció d’animals
+Atès que el Consell General en la seva sessió del dia 12 de juliol del 2012 ha aprovat la següent:
+Llei 13/2012, del 12 de juliol, de tinença i de protecció d’animals
+Exposició de motius
+La Llei de tinença i de protecció d’animals, del 30 de juny de 1998, va assentar les bases per al desplegament reglamentari en l’àmbit de la conservació de la fauna salvatge i la protecció dels animals domèstics.
+Durant 14 anys ha estat un instrument útil per donar resposta a la necessitat, les inquietuds i els problemes inherents en aquest àmbit, i ha permès assolir de manera satisfactòria els objectius que el legislador s’havia fixat inicialment.
+Nogensmenys, darrerament els canvis significatius en el camp de la protecció i el benestar animal fan necessari revisar i adaptar aquest text a la situació actual. D’altra banda, han aparegut en els darrers anys noves situacions relacionades amb la tinença d’animals que l’Administració ha de resoldre. Per poder fer-ho de la forma més diligent esdevé necessari actualitzar el text normatiu de referència per tal que inclogui la casuística més habitual.
+El nou text en el títol I, referent a les disposicions generals, incorpora un seguit de noves definicions així com una actualització dels drets i els deures de propietaris d’animals i de les seves relacions amb l’Administració general. A la vegada, la incorporació de nous apartats en l’articulat d’actuacions i activitats prohibides permetrà donar resposta a les exigències actuals en matèria de benestar animal.
+El títol II ha mantingut pràcticament el mateix contingut, reservant a una llei posterior la regulació dels aspectes relacionats amb l’experimentació amb animals.
+Actualment s’ha incrementat la diversitat dels animals de companyia, fet que ha comportat la necessitat de crear un registre d’animals de companyia no autòctons previst al títol III del nou text, amb la finalitat de gestionar-los adequadament. Així mateix s’ha ampliat l’abast d’alguns articles que únicament feien referència als gossos fins a contemplar el conjunt de les espècies que avui dia es tenen com a animal de companyia.
+Els canvis introduïts al títol IV, fauna salvatge, estan motivats per una necessitat de concretar alguns aspectes relatius a la conservació de les espècies protegides. El nou text preveu la classificació de les espècies protegides en diversos graus d’amenaça.
+Pel que fa al títol VI, infraccions i sancions, s’ha actualitzat d’acord amb les modificacions aportades al conjunt del text.

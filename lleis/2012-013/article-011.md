@@ -1,0 +1,6 @@
+# Article 11
+Comís i aïllament
+1. Els ministeris responsables de l’agricultura i del patrimoni natural i les persones legalment autoritzades poden comissar els animals si hi ha indicis manifestos de maltractaments o tortures, si presenten símptomes d’agressió física o desnutrició o si es troben en instal·lacions inadequades, definides per reglament.
+2. Els ministeris responsables de l’agricultura i del patrimoni natural poden ordenar l’aïllament o el comís dels animals si s’ha diagnosticat una malaltia transmissible a les persones o a altres animals, ja sigui per sotmetre’ls a un tractament curatiu adequat o bé per sacrificar-los si és necessari. Excepte que ho prevegin normes particulars, el sacrifici d’aquests animals no comporta cap indemnització ni pagament al propietari.
+3. Els animals que hagin causat lesions a persones o a altres animals, així com els que siguin sospitosos de patir la ràbia, han de ser sotmesos a control veterinari durant 14 dies. El període d’observació té lloc a la gossera oficial. L’observació d’un animal agressor pot fer-se també al domicili del propietari sota la seva responsabilitat i amb un informe previ dels serveis veterinaris.
+4. Les despeses ocasionades per la retenció, el control i el transport dels animals mencionats són a càrrec dels propietaris.
