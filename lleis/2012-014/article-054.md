@@ -1,0 +1,6 @@
+## Capítol segon. Dels laboratoris d’anàlisi
+# Article 54
+De les activitats d’anàlisi
+1. Els laboratoris d’anàlisi, siguin de titularitat pública o privada, que duen a terme prestacions de serveis d’anàlisi en relació amb les mercaderies i les activitats regulades per aquesta Llei, han de tenir les autoritzacions administratives corresponents, disposar de les instal·lacions, dels recursos humans, tècnics i econòmics necessaris i d’un sistema de qualitat certificat segons la normativa internacional per efectuar les determinacions analítiques i les recerques, de conformitat amb els mètodes establerts en les normatives vigents o, en cas que no n’hi hagi, de conformitat amb els mètodes que siguin reconeguts internacionalment.
+2. A aquest efecte, es crea el Registre Nacional de Laboratoris del Principat d’Andorra, en el qual han d’estar registrats tots els laboratoris públics i privats que duguin a terme activitats d’anàlisis i controls amb significat sanitari en les diferents àrees o camps que comprèn l’abast d’aquesta Llei i, en especial, els que fan referència a la protecció de la salut pública, la salut animal i la salubritat del medi.
+3. El Govern ha d’adoptar les mesures necessàries per a l’aplicació del present article i, en concret les disposicions d’autorització, registre, acreditació i classificació dels laboratoris.
