@@ -1,0 +1,8 @@
+# Article 7
+Modificació de l’article 51
+1. Es modifica l’apartat e) de l’article 51, “Actuacions excepcionals en sòl no urbanitzable”, que queda redactat de la forma següent:
+“e) En zones exposades a riscos naturals, les instal·lacions o els equipaments de caràcter tècnic que siguin destinats exclusivament a la protecció de les persones i els béns, i a la limitació del mateix risc, i les modificacions del terreny, les edificacions i les instal·lacions destinades a ús agrícola, ramader i forestal o a ús de magatzem, sempre que un estudi detallat del risc n’avaluï la vulnerabilitat i garanteixi que és assumible, d’acord amb criteris fixats reglamentàriament.”
+2. S’afegeix un nou apartat 3 a l’article 51, “Actuacions excepcionals en sòl no urbanitzable”, que queda redactat de la forma següent:
+“3. La construcció de bordes i cabanes de tipologia de muntanya no destinades a habitatge permanent contemplades a la lletra a) de l’apartat 2 es permeten, en règim d’obres i actuacions provisionals, en les mateixes condicions indicades en les lletres a), b), c), d), f), g), h) i i) de l’apartat 2 de l’article 27.
+Les instal·lacions pròpies de les activitats forestal, agrícola i ramadera (tipus granges, pletes, corrals, pallers, vivers i hivernacles), contemplades a la lletra a) de l’apartat 2 es permeten, en règim d’obres i actuacions provisionals, en les mateixes condicions indicades en les lletres a), b), d), f), g), h) i i) de l’apartat 2 de l’article 27, sempre que no superin els 400 metres quadrats per planta.
+Els comuns poden fixar en els plans d’ordenació i urbanisme parroquials condicions més restrictives que les indicades.”
