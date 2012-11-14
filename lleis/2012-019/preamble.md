@@ -1,0 +1,6 @@
+Llei 19/2012, de l’11 d’octubre, qualificada de modificació de la Llei 16/2008, del 3 d’octubre, qualificada de modificació del Codi de procediment penal, del 10 de desembre del 1998
+Atès que el Consell General en la seva sessió del dia 11 d’octubre del 2012 ha aprovat la següent:
+llei 19/2012, de l’11 d’octubre, qualificada de modificació de la Llei 16/2008, del 3 d’octubre, qualificada de modificació del Codi de procediment penal, del 10 de desembre del 1998
+Exposició de motius
+L’adequació de les normes penals als tractats internacionals signats o ratificats per Andorra així com a les recomanacions del Grup d’Estats contra la Corrupció (GRECO) han obligat a fer una modificació puntual del Codi penal en certs articles per adaptar la normativa esmentada a les necessitats d’homologació internacional del nostre Estat, en especial en matèria de corrupció i finançament del terrorisme. Igualment, s’han evidenciat com a necessàries certes modificacions del Codi de procediment penal per adequar-lo als tractats i les recomanacions esmentats.
+Aquesta Llei inclou també altres modificacions puntuals del Codi de procediment penal vigent, amb la finalitat de completar i adaptar la redacció d’alguns articles per fer-lo més segur en la seva aplicació i més garantista dels drets fonamentals dels ciutadans.
