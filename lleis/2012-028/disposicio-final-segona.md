@@ -1,0 +1,2 @@
+# Disposició final segona
+S’encarrega al Govern que, en el termini màxim de seixanta dies a partir de la data d’entrada en vigor d’aquesta Llei, publiqui al Butlletí Oficial del Principat d’Andorra, mitjançant el decret corresponent, el text refós de l’articulat de la Llei del joc del bingo, del 28 de novembre de 1996, modificada per la Llei de modificació de la Llei del joc del bingo, del 15 de novembre del 2001, incloses totes les modificacions i addicions aportades mitjançant aquesta Llei.
