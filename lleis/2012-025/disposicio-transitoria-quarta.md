@@ -1,0 +1,2 @@
+# Disposició transitòria quarta
+D’acord amb les disposicions de la Llei 6/2008, del 15 de maig del 2008, d’exercici de professions lliberals i de col·legis i associacions professionals, l’obligació de col·legiació es produirà quan entri en vigor aquesta Llei per a les persones que en aquell moment estiguin exercint en tasques pròpies de l’economia, i estiguin en possessió de la titulació universitària exigida. Aquests dos requisits s’han d’acreditar davant la Junta de Govern en el termini de sis mesos a comptar de l’entrada en vigor d’aquesta Llei.
