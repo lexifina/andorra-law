@@ -1,0 +1,5 @@
+# Article 44
+Obligació de no cedir els béns
+1. Els objectes a què fa referència l’article 39 i els instruments o aparells científics admesos en benefici de la franquícia en les condicions que s’estipulen als articles 41, 42 i 43 no poden ser objecte de lloguer o d’una cessió a títol onerós o gratuït sense haver-ne informat prèviament les autoritats duaneres.
+2. En el cas de préstec, lloguer o cessió a un establiment o organisme autoritzat a beneficiar-se de la franquícia en aplicació de l’article 39 o de l’article 40, apartat 2, la franquícia roman adquirida en la mesura que aquest organisme o establiment utilitzi l’objecte, l’instrument o l’aparell amb la finalitat que dóna dret a la concessió de la franquícia.
+En els altres casos, el préstec, el lloguer o la cessió se subordina al pagament previ dels drets i les taxes duaneres a la importació, segons el tipus impositiu vigent en la data del préstec, del lloguer o de la cessió, segons el tipus i d’acord amb el valor a la duana reconeguts o admesos per les autoritats duaneres en aquesta data.

@@ -1,0 +1,4 @@
+# Article 96
+Regularització dels productes restants
+Excepte si s’apliquen les disposicions de l’article 95, apartat 1, els productes restants dels exàmens, de les anàlisis o de les proves a què fa referència l’article 91 estan subjectes als drets i les taxes duaneres a la importació que els corresponguin segons el tipus impositiu vigent en la data en què aquests exàmens, anàlisis o proves finalitzen, segons el tipus i d’acord amb el valor a la duana reconeguts o admesos per les autoritats duaneres en aquesta data.
+No obstant això, amb el consentiment i sota el control de les autoritats duaneres, la persona interessada pot reduir els productes restants a deixalles o a bocins. En aquest cas els drets i les taxes duaneres a la importació són els drets i les taxes duaneres a la importació que corresponguin a aquestes deixalles o bocins en la data en què es van obtenir.

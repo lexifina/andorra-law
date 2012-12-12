@@ -1,0 +1,3 @@
+# Article 65
+Recanvis i accessoris
+La franquícia a què fa referència l’apartat 1 és aplicable als recanvis, elements o accessoris específics que s’adapten als objectes en qüestió, com també a les eines que cal utilitzar per al manteniment, el control, el calibratge o la reparació d’aquests objectes, sempre que aquests recanvis, elements, accessoris o eines s’importin al mateix temps que els objectes mencionats o, si s’importen ulteriorment, que es puguin reconèixer com a destinats a objectes admesos precedentment en franquícia o susceptibles de gaudir de la franquícia en el moment en què aquesta franquícia se sol·licita per als recanvis, els elements o els accessoris específics i per a les eines en qüestió.

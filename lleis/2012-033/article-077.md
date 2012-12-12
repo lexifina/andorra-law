@@ -1,0 +1,8 @@
+## Secció setzena. Condecoracions i recompenses concedides a títol honorífic
+# Article 77
+Béns susceptibles de ser admesos en franquícia
+S’admeten en franquícia de drets i taxes duaneres a la importació, amb la justificació prèvia presentada pels interessats a les autoritats duaneres, i en la mesura que es tracta d’operacions sense cap mena de caràcter comercial:
+a) Les condecoracions concedides per governs de països estrangers a persones que tinguin la residència normal en el territori duaner del Principat d’Andorra.
+b) Les copes, les medalles i els objectes similars amb un caràcter essencialment simbòlic, atorgades en un país estranger a persones la residència normal de les quals es troba en el territori duaner del Principat d’Andorra, en homenatge a l’activitat que han desenvolupat en dominis com ara les arts, les ciències, els esports, el servei públic, o en reconeixement de mèrits amb motiu d’un esdeveniment particular i que són importats personalment al Principat d’Andorra per aquestes mateixes persones.
+c) Les copes, les medalles i els objectes similars amb un caràcter essencialment simbòlic donats gratuïtament per autoritats o persones establertes en un país estranger perquè s’atorguin, als mateixos efectes als quals fa referència la lletra b), en el territori duaner del Principat d’Andorra.
+d) Les recompenses, els trofeus i els records de caràcter simbòlic i de poc valor destinats a ser distribuïts gratuïtament a persones que posseeixen la residència normal en països estrangers, amb motiu de congressos de negocis o de manifestacions similars de caràcter internacional, i la naturalesa, el valor unitari i les altres característiques dels quals no revelin una intenció de caràcter comercial.

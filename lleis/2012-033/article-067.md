@@ -1,0 +1,5 @@
+# Article 67
+Obligació de no cedir els béns
+1. Els objectes importats en franquícia per les persones a què fan referència els articles 63, 64 i 65 no poden ser objecte d’un préstec, d’un lloguer o d’una cessió, a títol onerós o gratuït, sense haver-ne informat prèviament les autoritats duaneres.
+2. En cas de préstec, lloguer o cessió a una persona, una institució o a un organisme autoritzat a beneficiar-se de la franquícia en aplicació dels articles 63, 64 i 65, aquesta franquícia roman adquirida en la mesura que l’organisme o la institució en qüestió utilitzi l’objecte amb una finalitat de les que donen dret a la concessió de la franquícia.
+En els altres casos, la realització del préstec, del lloguer o de la cessió se subordina al pagament previ dels drets i taxes duaneres a la importació, segons el tipus impositiu vigent en la data del préstec, del lloguer o de la cessió, segons el tipus i d’acord amb el valor a la duana reconeguts o admesos per les autoritats duaneres en aquesta data.

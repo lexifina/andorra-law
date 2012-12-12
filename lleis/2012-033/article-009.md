@@ -1,0 +1,7 @@
+# Article 9
+Declaració provisional
+1. Quan, a causa de les seves obligacions professionals, la persona interessada abandona el país estranger en el qual tenia la residència normal sense establir de manera simultània la residència normal al territori duaner del Principat d’Andorra, amb la intenció, però, d’establir-la-hi més tard, les autoritats duaneres poden autoritzar l’admissió en franquícia dels béns personals que transfereix a aquest efecte al territori del Principat d’Andorra.
+2. L’admissió en franquícia dels béns personals a què fa referència l’apartat 1 s’atorga amb les condicions que estipulen els articles 2 a 7. Per tant, s’entén que:
+a) Els terminis que estipula l’article 3, apartat 1, lletra a), i l’article 6, apartat 1, es calculen a comptar de la data de la introducció dels béns personals en el territori duaner del Principat d’Andorra.
+b) El termini que estableix l’article 7, apartat 1, es calcula a comptar de la data efectiva de l’establiment de la residència normal de la persona interessada en el territori duaner del Principat d’Andorra.
+3. L’admissió en franquícia està subordinada, a més, al compromís de la persona interessada d’establir efectivament la residència normal al territori duaner del Principat d’Andorra en un termini determinat per les autoritats duaneres en funció de les circumstàncies. Les dites autoritats poden exigir que aquest compromís s’acompanyi d’una garantia de la qual les autoritats determinen la forma i l’import.

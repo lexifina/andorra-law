@@ -1,0 +1,5 @@
+# Article 75
+Excepcions a l’obligació de no cedir els béns
+1. Les mercaderies a què fa referència l’article 70, apartat 1, lletra b) no poden, un cop han deixat de ser utilitzades per les víctimes de la catàstrofe, ser llogades o cedides a títol onerós o a títol gratuït sense haver-ne informat prèviament les autoritats duaneres.
+2. En cas de préstec, lloguer o cessió a un organisme autoritzat a beneficiar-se de la franquícia en aplicació de l’article 70, o, si escau, a un organisme autoritzat a beneficiar-se de la franquícia en aplicació de l’article 57, apartat 1, lletra a), la franquícia roman adquirida en la mesura que aquests organismes utilitzin les mercaderies en qüestió amb una finalitat de les que donen dret a la concessió de la franquícia.
+En els altres casos, la realització del préstec, del lloguer o de la cessió se subordina al pagament previ dels drets i les taxes duaneres a la importació, segons el tipus vigent impositiu en la data del préstec, del lloguer o de la cessió, segons el tipus i d’acord amb el valor a la duana reconeguts o admesos per les autoritats duaneres en aquesta data.

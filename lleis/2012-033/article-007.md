@@ -1,0 +1,4 @@
+# Article 7
+Obligació de no cedir els béns
+1. Fins al venciment d’un termini de dotze mesos a comptar de la data d’acceptació de la declaració de posada en lliure disposició, els béns personals admesos en benefici de la franquícia no poden ser objecte d’un préstec, d’un empenyorament, d’un lloguer o d’una cessió a títol onerós o gratuït sense que les autoritats duaneres n’hagin estat informades prèviament.
+2. El préstec, l’empenyorament, el lloguer o la cessió fets abans del venciment del termini a què fa referència l’apartat 1 impliquen l’aplicació dels drets i les taxes duaneres a la importació corresponents als béns en qüestió, segons el tipus impositiu vigent a la data del préstec, de l’empenyorament, del lloguer o de la cessió, segons el tipus i d’acord amb el valor a la duana reconeguts o admesos per les autoritats duaneres en aquesta data.

@@ -1,0 +1,5 @@
+# Article 60
+Obligació de no cedir els béns
+1. Les mercaderies i els materials a què fa referència l’article 57 no poden ser objecte, per l’organisme beneficiari de la franquícia, d’un préstec, d’un lloguer o d’una cessió a títol onerós o gratuït amb una finalitat diferent de les previstes a l’apartat 1, lletres a) i b), de l’article mencionat, sense haver-ne informat prèviament les autoritats duaneres.
+2. En el cas de préstec, lloguer o cessió a un organisme autoritzat a beneficiar-se de la franquícia d’acord amb els articles 57 i 59, aquesta franquícia roman adquirida en la mesura que aquest organisme utilitzi les mercaderies i el material en qüestió amb una finalitat de les que donen dret a la concessió de la franquícia.
+En els altres casos, la realització del préstec, del lloguer o de la cessió se subordina al pagament previ dels drets i les taxes duaneres a la importació, segons el tipus impositiu vigent en la data del préstec, del lloguer o de la cessió, segons el tipus i d’acord amb el valor a la duana reconeguts o admesos per les autoritats duaneres en aquesta data.

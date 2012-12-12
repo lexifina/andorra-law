@@ -1,0 +1,5 @@
+# Article 74
+Obligació de no cedir els béns
+1. Les mercaderies a què fa referència l’article 70, apartat 1, no poden ser objecte, per part dels organismes beneficiaris de la franquícia, d’un préstec, d’un lloguer o d’una cessió a títol onerós o gratuït en les condicions altres que les que estipula l’article mencionat sense haver-ne prèviament informat les autoritats duaneres.
+2. En cas de préstec, lloguer o cessió a un organisme autoritzat a beneficiar-se de la franquícia en aplicació de l’article 70, la franquícia roman adquirida en la mesura que aquest organisme utilitzi les mercaderies amb una finalitat de les que donen dret a la concessió de la franquícia.
+En els altres casos, la realització del préstec, del lloguer o de la cessió se subordina al pagament previ dels drets i les taxes duaneres a la importació, segons el tipus impositiu vigent en la data del préstec, del lloguer o de la cessió, i segons el tipus i d’acord amb el valor a la duana reconeguts o admesos per les autoritats duaneres en aquesta data.
