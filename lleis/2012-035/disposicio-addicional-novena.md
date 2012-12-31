@@ -1,0 +1,3 @@
+# Novena
+S’addiciona l’apartat 5 a l’article 25 de la Llei 93/2010, del 16 de desembre, de mesures de promoció de l’activitat econòmica i social, i de racionalització i d’optimització dels recursos de l’Administració, amb la redacció següent:
+“5. L’apartat 4 d’aquest article no és aplicable a la contractació d’agents de l’Administració de caràcter eventual per obra o serveis per donar resposta a les necessitats de personal en els llocs de treball de mestre, professor, psicopedagog, tècnic especialitzat en l’àmbit social, tècnic especialitzat en educació social, tècnic pedagògic en l’àmbit de la biblioteca escolar i col·laborador educatiu del Ministeri d’Educació i Joventut, que es deriven de l’aplicació de la legislació que regula el sistema educatiu andorrà.”
