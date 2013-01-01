@@ -1,0 +1,8 @@
+# Article 30
+Importacions de béns per ser objecte d’exàmens, anàlisis o proves
+1. Estan exemptes de l’impost les importacions de béns destinades a ser objecte d’exàmens, anàlisis o proves per determinar-ne la composició, la qualitat o altres característiques tècniques amb la finalitat d’informació o d’investigacions de caràcter industrial o comercial.
+S’exclouen de l’exempció els béns que s’utilitzen en exàmens, anàlisis o proves que en si mateixos constitueixin operacions de promoció comercial.
+2. L’exempció només comprèn la quantitat dels béns mencionats estrictament necessària per a la realització dels objectes indicats i queda condicionada al fet que els mateixos béns siguin totalment consumits o destruïts en el curs de les operacions d’investigació.
+No obstant això, l’exempció s’estén igualment als productes restants que resulten de les operacions esmentades si, amb autorització de l’Administració, són destruïts o convertits en béns sense valor comercial, abandonats a favor de l’Estat andorrà lliures de despeses o reexportats a un altre país. En defecte d’aquesta autorització, els productes mencionats queden subjectes al pagament de l’impost en l’estat en què es trobin, amb referència al moment en el qual s’ultimin les operacions d’examen, anàlisi o prova.
+A aquest efecte, s’entén per productes restants els que resulten dels exàmens, les anàlisis o les proves, o bé les mercaderies importades amb la dita finalitat que no han estat efectivament utilitzades.
+3. Les autoritats competents estableixen el termini durant el qual s’han de realitzar els exàmens, les anàlisis o les proves, així com les formalitats administratives a acomplir amb vista a garantir l’ús de les mercaderies als efectes previstos.

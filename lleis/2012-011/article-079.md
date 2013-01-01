@@ -1,0 +1,6 @@
+# Article 79
+Liquidació provisional d’ofici
+1. Passats trenta dies des de la notificació a l’obligat tributari del requeriment del Ministeri encarregat de les Finances perquè efectuï la declaració liquidació que no va realitzar en el termini reglamentari, el Ministeri encarregat de les Finances pot iniciar el procediment, excepte si en el període indicat es repara l’incompliment o es justifica degudament la inexistència de l’obligació.
+2. La liquidació provisional d’ofici es fa sobre la base de les dades, els antecedents, els signes, els índexs, els mòduls o altres elements de què disposa el Ministeri encarregat de les Finances i que siguin rellevants a aquest efecte, ajustant-se al procediment que es determini reglamentàriament.
+3. Les liquidacions provisionals regulades en aquest article, un cop notificades, són executades immediatament, sense perjudici de les reclamacions que reglamentàriament es determinin.
+4. Sense perjudici del que estableixen els apartats anteriors d’aquest article, el Ministeri encarregat de les Finances pot efectuar ulteriorment la comprovació de la situació fiscal dels obligats tributaris, practicant les liquidacions que procedeixin d’acord amb la Llei de bases de l’ordenament tributari.

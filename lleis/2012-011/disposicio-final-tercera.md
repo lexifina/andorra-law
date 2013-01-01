@@ -1,0 +1,2 @@
+# Disposició final tercera
+Els obligats tributaris podran fer consultes al Ministeri encarregat de les Finances sobre l’aplicació d’aquesta Llei. Les consultes han de ser contestades en un termini màxim de dos mesos a comptar des de la seva entrada al Ministeri. La resposta a la consulta serà vinculant per el Ministeri. En el cas de que el Ministeri no contesti en el termini indicat, s’aplicarà el criteri de silenci administratiu positiu.

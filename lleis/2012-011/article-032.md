@@ -1,0 +1,6 @@
+# Article 32
+Importacions de documents amb caràcter turístic
+Estan exemptes de l’impost les importacions dels documents de caràcter turístic següents:
+1. Els destinats a ser distribuïts gratuïtament amb finalitat de propaganda sobre viatges a llocs situats a Andorra, principalment per assistir a reunions o manifestacions que presenten caràcter cultural, turístic, esportiu, religiós o professional, sempre que no continguin més d’un 25 per 100 de publicitat comercial privada i que sigui evident la seva finalitat de propaganda de caràcter general.
+2. Les llistes o els anuaris d’hotels estrangers, així com les guies de serveis de transport, explotats fora d’Andorra i que han estat publicats per organismes oficials de turisme o amb el seu patrocini, sempre que es destinin a la distribució gratuïta i no continguin més d’un 25 per 100 de publicitat comercial privada.
+3. El material tècnic enviat als representats acreditats o als corresponsals designats per organismes oficials o nacionals de turisme que no es destinin a la seva distribució, com anuaris, llistes d’abonats de telèfon o de tèlex, llista d’hotels, catàlegs de fires, mostres de productes d’artesania sense valor comercial estimable, documentació sobre museus, universitats, estacions termals i altres institucions anàlogues.

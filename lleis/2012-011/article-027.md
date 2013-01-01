@@ -1,0 +1,5 @@
+# Article 27
+Béns importats en benefici de persones amb minusvalidesa
+1. Estan exemptes de l’impost les importacions de béns concebuts especialment per a l’educació, l’ocupació o la promoció social de les persones físiques o mentalment disminuïdes, efectuades per institucions o organismes degudament autoritzats que tenen per activitat principal l’educació o l’assistència a aquestes persones, quan es remeten gratuïtament i sense finalitat comercial a les institucions o als organismes mencionats.
+L’exempció s’estén a les importacions dels recanvis, els elements i els accessoris dels béns esmentats o de les eines o els instruments utilitzats per al seu manteniment, control, calibratge o reparació, quan s’importen conjuntament amb els béns o s’identifica que els corresponen.
+2. Els béns importats amb exempció poden ser prestats, llogats o cedits, sense ànim de lucre, per les entitats o els establiments beneficiaris a les persones mencionades a l’apartat anterior, sense pèrdua del benefici de l’exempció.

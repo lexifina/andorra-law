@@ -1,0 +1,15 @@
+## Capítol sisè. Meritació de l’impost
+# Article 45
+Meritació de l’impost en els lliuraments de béns i en les prestacions de serveis
+1. L’impost es merita:
+a) En els lliuraments de béns, quan té lloc la seva posada a disposició de l’adquirent o, en el seu cas, quan s’efectuen conforme la legislació que els sigui aplicable.
+No obstant el que disposa l’apartat anterior, en els lliuraments de béns efectuats en virtut de contractes de venda amb pacte de reserva de domini o qualsevol altra condició suspensiva, d’arrendament venda de béns o d’arrendament de béns amb pacte de reserva amb clàusula de transferència de la propietat vinculant per ambdues parts, l’impost es merita quan els béns es posen en possessió de l’adquirent.
+b) En les prestacions de serveis, quan es presten, executen o efectuen les operacions gravades. No obstant això, tractant-se d’execucions d’obra amb aportació de materials, quan els béns es posen a disposició del propietari de l’obra.
+c) En les transmissions de béns entre el comitent i comissionista efectuades en virtut de contractes de comissió de venda, quan l’últim actuï en nom propi, en el moment que el comissionista efectuï l’entrega dels béns respectius.
+d) Quan es tracti de lliuraments de béns efectuats en virtut de contractes pels quals una de les parts lliuri a l’altra béns corporals, el valor dels quals s’estimi en una quantitat certa, obligant-se qui els rep a procurar la seva venda dintre del termini i a retornar el valor estimat dels béns venuts i la resta dels no venuts, la meritació dels lliuraments relatius als béns venuts es produirà quan qui els rebi els posi a disposició de l’adquirent.
+En les transmissions de béns entre comissionista i comitent efectuades en virtut de contractes de comissió de compra, quan el primer actuï en nom propi, en el moment en el qual li siguin entregats al comissionista els béns que es refereixen.
+e) En els supòsits d’autoconsum, quan s’efectuen les operacions gravades.
+f) En els arrendaments, en els subministraments i, en general, en les operacions de tracte successiu o continuat, quan resulta exigible la part del preu que comprèn cada percepció.
+No obstant, quan no s’ha pactat preu o quan, havent-se pactat, no s’ha determinat el moment de la seva exigibilitat, o la mateixa exigibilitat s’ha establert amb una periodicitat superior a un any natural, la meritació de l’impost es produeix el 31 de desembre de cada any per la part proporcional corresponent al període transcorregut des de l’inici de l’operació, o des de l’anterior meritació, fins a la data.
+S’exceptuen del que es disposa en aquest apartat les operacions a les quals es refereix l’apartat 1, lletra a) paràgraf segon, d’aquest article.
+2. Sense perjudici del que disposa l’apartat anterior, en les operacions subjectes a gravamen que originin pagaments a compte anteriors a la realització del fet generador, l’impost es merita en el moment del cobrament anticipat, tant si és total o si és parcial, pels imports efectivament percebuts.

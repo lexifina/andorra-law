@@ -1,0 +1,5 @@
+# Article 70
+Supòsits generals de devolució
+1. Els obligats tributaris que no han pogut efectuar les deduccions originades en un període de liquidació mitjançant el procediment previst a l’article 68 per excedir contínuament la quantia de les mateixes deduccions de les quotes meritades, tenen dret a sol·licitar la devolució de l’import existent al seu favor a 31 de desembre de cada any a la declaració liquidació corresponent a l’últim període de liquidació de l’any mencionat.
+2. Reglamentàriament es pot establir, amb referència a determinats sectors o obligats tributaris, el dret a la devolució de l’import al seu favor existent en finalitzar cada període de liquidació.
+3. Els empresaris o els professionals que no tinguin dret a la devolució de l’impost d’acord amb el que estableix l’apartat segon de l’article 72 tenen el dret a la devolució del saldo al seu favor seguint el procediment general de devolució aplicable als empresaris o als professionals establerts en l’àmbit territorial de l’impost.
