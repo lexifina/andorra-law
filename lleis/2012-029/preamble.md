@@ -1,0 +1,9 @@
+Llei 29/2012, del 18 d’octubre, de modificació de la Llei 11/2012, del 21 de juny, de l’impost general indirecte
+Atès que el Consell General en la seva sessió del dia 18 d’octubre del 2012 ha aprovat la següent:
+llei 29/2012, del 18 d’octubre, de modificació de la Llei 11/2012, del 21 de juny, de l’impost general indirecte
+Exposició de motius
+L’aprovació de la Llei 11/2012, del 21 de juny, de l’impost general indirecte suposa una fita important en el procés de reforma fiscal en què es troba immers el Principat d’Andorra, i té una rellevància molt important tant en la seva economia interna com en les seves relacions internacionals. Tanmateix, des que es va aprovar s’hi han detectat algunes deficiències tècniques que convé esmenar per garantir un funcionament correcte i eficient en el tribut.
+A banda d’aquestes modificacions, aquest Projecte de llei de modificació de la Llei 11/2012, del 21 de juny, de l’impost general indirecte introdueix dos canvis significatius.
+El primer canvi ha de permetre que, reglamentàriament, es pugui determinar per a quines operacions es pot realitzar el trasllat de l’impost sense consignar separadament la quota repercutida de la base de tributació. Aquest canvi simplifica el trasllat de l’impost en determinades operacions sempre que l’entrega de béns o la prestació de serveis s’efectua a consumidors finals que no són empresaris i professionals.
+El segon canvi important, que pot tenir un impacte econòmic significatiu, estableix la possibilitat de deducció de l’impost de mercaderies indirecte (IMI) i l’impost indirecte sobre les activitats econòmiques (IAC) suportats en relació amb les existències que es posseeixin a la data d’entrada en vigor de l’impost. La introducció d’aquesta modificació pretén millorar la neutralitat de l’impost en el moment que entri en vigor.
+Aquesta Llei es compon de 9 articles i una disposició final.
