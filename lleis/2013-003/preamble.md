@@ -1,0 +1,7 @@
+Llei 3/2013, del 18 d’abril, de creació del Col·legi Oficial de Psicòlegs d’Andorra
+Atès que el Consell General en la seva sessió del dia 18 d’abril del 2013 ha aprovat la següent:
+llei de creació del Col·legi Oficial de Psicòlegs d’Andorra
+Exposició de motius
+La professió de psicòleg respon a determinades necessitats socials d’interès públic a les quals dóna solució amb actuacions específiques. El reconeixement universitari i formatiu d’aquesta professió és fruit del disseny curricular de les formacions per a la titulació universitària específica per poder-la exercir.
+Un dels objectius de l’organització col·legial és la regulació i l’ordenació de l’exercici de l’activitat professional relacionada amb la psicologia en qualsevol de les seves modalitats, i també la salvaguarda i l’observança dels seus principis ètics, deontològics i jurídics. Amb aquest objectiu, disposa de competències per elaborar i vigilar el compliment de la professió, amb subjecció a les lleis, i vetlla per la protecció de la salut de les persones i el respecte dels principis ètics i deontològics.
+De conformitat amb el que estableix l’article 15 de la Llei 6/2008, del 15 de maig, d’exercici de professions liberals i de col·legis i associacions professionals, que regula l’extensió de l’organització col·legial mitjançant la llei a les professions que n’estan mancades, es considera oportuna i necessària la creació del Col·legi Oficial de Psicòlegs per integrar tots els professionals que, amb la titulació universitària específica, exerceixin les funcions que els són pròpies.
