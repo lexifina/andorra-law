@@ -1,0 +1,6 @@
+# Article 16
+Fitxers i registres administratius
+1. La formació d’arxius o registres administratius que puguin tenir transcendència pel que fa a les fonts estadístiques, i especialment les que guardin relació amb el que disposa el Pla d’estadística, han de facilitar, sempre que sigui possible tècnicament i econòmicament, l’adaptació de la tabulació, la presentació i el tractament de les dades a les necessitats estadístiques de l’Administració.
+2. La modificació, la conservació, l’actualització o l’ampliació del tipus d’informació inclosa en aquests arxius, sempre que sigui possible tècnicament i econòmicament, s’ha de regir pels mateixos principis definits a l’apartat anterior.
+3. Les estadístiques públiques han d’utilitzar com a font prioritària de dades els arxius i els registres administratius i les estadístiques disponibles, a fi de reduir les molèsties als ciutadans i millorar l’eficiència de la despesa pública. Quan per a la realització d’estadístiques públiques sigui preceptiva la utilització de dades que constin registrades en fonts administratives, els responsables dels fitxers han de facilitar aquestes dades de manera ràpida i àgil.
+4. El tractament d’arxius o registres administratius ha de respectar la normativa vigent en matèria de protecció i tractament de dades.

@@ -1,0 +1,2 @@
+# Disposició addicional
+Per adaptar l’activitat estadística als principis de coordinació, o quan la naturalesa de determinades estadístiques ho requereixi, s’autoritza el Departament d’estadística a establir convenis i acords en matèria estadística, sotmesos als compliments de les normes de la present Llei, amb les administracions públiques i les entitats públiques o privades, amb l’objectiu de garantir al màxim la informació de l’activitat estadística d’interès comú i evitar la duplicació innecessària d’operacions estadístiques.
