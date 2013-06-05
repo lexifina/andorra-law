@@ -1,0 +1,2 @@
+# Article 2
+Per finançar l’adquisició per part de l’ens públic Forces Elèctriques d’Andorra (FEDA) de 337 accions de la societat Centre de Tractament de Residus d’Andorra SA (CTRASA), s’aprova un crèdit extraordinari per a l’exercici 2013 d’un import total de 2.743.665,28 euros, a càrrec del compte pressupostari 82080-Adquisició d’accions del sector públic de FEDA. Aquest crèdit extraordinari es finança a càrrec del compte pressupostari 60355-Cogeneració, dins del qual s’engloba el projecte de cogeneració de la Comella.
