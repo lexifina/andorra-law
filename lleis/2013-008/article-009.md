@@ -1,0 +1,10 @@
+## Secció segona. Condicions de funcionament
+# Article 9
+Funció de compliment normatiu
+1. Les entitats operatives del sistema financer han de tenir un òrgan de compliment normatiu que, actuant amb independència funcional, dugui a terme la supervisió, el seguiment i la verificació del compliment permanent i eficaç de les obligacions legals i reguladores, de les normes ètiques i de conducta i de les polítiques internes de l’entitat, per part de l’entitat, l’alta direcció, el seu personal i els agents financers que designa, per tal de protegir els clients i reduir el risc de compliment i altres riscos associats a les seves activitats.
+2. Per garantir que l’òrgan de compliment normatiu operi de forma adequada i amb independència funcional, les entitats s’han d’assegurar que compleixen les condicions següents:
+a) l’òrgan de compliment normatiu ha d’estar dotat de l’autoritat, els recursos tècnics necessaris i els recursos humans amb l’experiència i coneixements adequats per vetllar pel correcte desenvolupament de les seves funcions i tenir accés a tota la informació pertinent;
+b) s’ha de nomenar un responsable de compliment normatiu que s’ha d’encarregar del desenvolupament de la funció, així com d’elaborar informes periòdics sobre compliment per, entre altres, facilitar l’avaluació i la supervisió de l’adequat compliment de les polítiques per part de l’alta direcció; i
+c) les persones encarregades d’aquesta funció no poden participar en la realització dels serveis o les activitats que controlen.
+3. En el cas d’entitats pertanyents a un grup, el compliment de l’obligació continguda en aquest article es podria assolir en l’àmbit del grup prèvia autorització de l’INAF.
+4. En qualsevol cas, les entitats operatives del sistema financer no estan obligades a complir amb la condició prevista a la lletra c) de l’apartat 2, sempre que en funció del volum, l’escala i la complexitat de les seves activitats puguin demostrar que el compliment de tal requisit no resulta proporcionat, i que el procediment per verificar el compliment normatiu continua sent eficaç.

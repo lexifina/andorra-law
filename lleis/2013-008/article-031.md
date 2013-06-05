@@ -1,0 +1,5 @@
+# Article 31
+Classificació dels clients
+1. Les entitats operatives del sistema financer referides a l’article 30 han de classificar tots els seus clients com a clients minoristes o clients professionals. Són clients minoristes tots els clients que no es consideren clients professionals.
+2. Les entitats operatives del sistema financer referides a l’article 30 han d’informar cadascun dels seus clients, de la categoria concreta en què els han classificat, així com del seu dret a sol·licitar una classificació distinta i les conseqüències que se’n poden derivar respecte de la seva protecció.
+3. En cas que una de les entitats operatives del sistema financer referides a l’article 30 vulgui considerar algun dels seus clients professionals com a contrapart elegible d’acord amb l’establert a l’article 33; ha d’informar-lo, abans de dur a terme cap transacció amb dita contrapart, que, d’acord amb la informació de què disposa, se’l considera una contrapart elegible i que el tractarà com a tal llevat que ambdues parts acordin un altre tractament.

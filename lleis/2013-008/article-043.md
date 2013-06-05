@@ -1,0 +1,6 @@
+# Article 43
+Instruments financers susceptibles d’abús de mercat
+1. Es considera susceptible d’abús de mercat qualsevol instrument financer admès a negociació en un mercat regulat o per al qual s’hagi cursat una sol·licitud d’admissió a negociació en un mercat regulat, amb independència de si l’operació ha tingut lloc en dit mercat o no.
+2. Els requisits establerts a l’article 41 en relació amb la prohibició d’ús d’informació privilegiada són també aplicables a tots els instruments financers no admesos a negociació en un mercat regulat i el valor dels quals depengui d’un instrument mencionat en el paràgraf anterior.
+3. També es considera susceptible d’abús de mercat qualsevol instrument financer admès a negociació en un sistema multilateral de negociació o per al qual s’hagi cursat una sol·licitud d’admissió a negociació en dit sistema, amb independència de si l’operació ha tingut lloc en dit mercat o no.
+4. Els requisits establerts a l’article 41 en relació amb la prohibició d’ús d’informació privilegiada són també aplicables a tots els instruments financers no admesos a negociació en un sistema multilateral de negociació i el valor dels quals depengui d’un instrument mencionat en el paràgraf anterior.

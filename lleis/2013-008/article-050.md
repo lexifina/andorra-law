@@ -1,0 +1,10 @@
+# Article 50
+Infraccions
+1. Constitueix una infracció molt greu la comissió de més de tres infraccions greus en el termini d’un any.
+2. Constitueix una infracció greu:
+a) l’incompliment de les obligacions o prohibicions establertes en el present capítol en relació amb l’ús d’informació privilegiada i la manipulació de mercat, quan el volum dels recursos o dels valors o dels instruments financers utilitzats en la comissió de la infracció sigui rellevant i l’infractor hagi tingut coneixement de la informació per la seva condició de persona en l’exercici d’un càrrec directiu en un emissor, o en l’exercici de la seva professió, el seu treball o les seves funcions en una entitat operativa del sistema financer;
+b) la negativa a facilitar informació a l’INAF per part de qualsevol persona en l’exercici d’un càrrec directiu en un emissor, o en l’exercici de la seva professió, el seu treball o les seves funcions en una entitat operativa del sistema financer, en relació amb les obligacions o prohibicions establertes en el present capítol sobre l’ús d’informació privilegiada i la manipulació de mercat, o la falta de veracitat en la informació facilitada, que obstaculitzin l’exercici de les funcions de supervisió i investigació atribuïdes a l’INAF;
+c) la comissió de més de tres infraccions lleus en el termini d’un any.
+3. Constitueixen infraccions lleus:
+a) els incompliments de les obligacions o prohibicions establertes en el present capítol per part de qualsevol persona en l’exercici d’un càrrec directiu en un emissor, o en l’exercici de la seva professió, el seu treball o les seves funcions en una entitat operativa del sistema financer en relació amb l’ús d’informació privilegiada i la manipulació de mercat que no constitueixin una infracció greu;
+b) la falta de veracitat en la informació facilitada a l’INAF o l’obstaculització de l’exercici de les funcions de supervisió i investigació atribuïdes a l’INAF per part de persones diferents a les enumerades a la lletra b) de l’apartat 2 anterior, en relació amb les obligacions o prohibicions establertes en el present capítol sobre l’ús d’informació privilegiada i la manipulació de mercat.

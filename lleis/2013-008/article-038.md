@@ -1,0 +1,3 @@
+# Article 38
+Informes
+Les entitats operatives del sistema financer que mantinguin directament instruments financers o fons de clients, han de posar a disposició dels seus clients, amb caràcter anual i amb suport durador, un informe en què es detalli l’estat de comptes amb el desglossament dels saldos, la composició i la valoració econòmica de tots els dipòsits de valors i els comptes d’efectiu dels clients, així com un detall de les operacions d’instruments financers o de fons efectuades en el període, a menys que s’hagi facilitat aquesta informació a dits clients en un altre informe periòdic.
