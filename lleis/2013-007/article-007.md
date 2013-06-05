@@ -1,0 +1,4 @@
+# Article 7
+Prohibició de les entitats no bancàries de rebre del públic dipòsits i altres fons reemborsables
+1. Les entitats no bancàries no estan facultades per rebre del públic dipòsits i altres fons reemborsables.
+2. A aquests efectes, no constitueixen fons reemborsables del públic els fons rebuts per les entitats financeres d’inversió i les societats gestores d’organismes d’inversió col·lectiva en el marc de la prestació del serveis d’inversió definits en les lletres d) i e) de l’article 20 i el servei auxiliar definit en la lletra a) de l’article 21, per dur a terme inversions per compte dels seus clients; els finançaments atorgats per entitats bancàries; els fons lliurats per entitats pertanyents al mateix grup o per socis titulars almenys d’un 5 per 100 del capital social i les emissions de valors dutes a terme d’acord amb la normativa vigent.

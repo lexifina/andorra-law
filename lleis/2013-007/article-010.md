@@ -1,0 +1,3 @@
+# Article 10
+Denominació
+L’ús o el registre com a element de qualsevol signe distintiu (marca, denominació social, nom comercial, rètol d’establiment o adreça d’internet) dels termes “entitat bancària”, “banc”, “banca”, o qualsevol altre que pugui induir a confusió, per altres entitats que una entitat bancària, s’entendrà que és un signe de naturalesa enganyosa o de natura a induir a error el públic i subjecte a les accions de nul·litat i de prohibició d’ús corresponents, excepte en els casos en què la paraula “banc” va acompanyada d’un qualificatiu que evita qualsevol confusió, com per exemple “banc de sang”.

@@ -1,0 +1,25 @@
+# Article 2
+Definicions
+1) Direcció general: s’entén per membres de la direcció general els que tenen un càrrec de director general o director general adjunt i els que formen part de l’òrgan superior de direcció de l’entitat.
+2) Experiència professional adequada: es considera que disposen d’experiència professional adequada les persones que han exercit, amb normalitat, durant un termini superior a tres anys funcions d’alta administració, direcció o control d’entitats bancàries, o funcions de responsabilitat similar en altres entitats, públiques o privades, de dimensió significativa.
+3) Honorabilitat empresarial i professional: es considera que són persones de reconeguda honorabilitat empresarial i professional les que tenen una bona reputació personal i professional, les persones la imatge pública de les quals correspon a la de bones administradores i, d’una manera específica, les que:
+a) no tenen antecedents penals per delictes de falsedat, d’infidelitat en la custòdia de documents, de violació de secrets, de malversació de cabals públics, de descobriment i revelació de secrets o per delictes contra el patrimoni;
+b) no tenen antecedents penals per altres delictes dolosos;
+c) no estan ni han estat inhabilitades per exercir càrrecs públics o d’administració o direcció en entitats del sistema financer, a Andorra o a l’estranger;
+d) no han estat declarades fallides o en situació d’arranjament judicial, i si ho han estat, han estat judicialment rehabilitades.
+4) Instruments financers: s’entén per instruments financers l’accepció més àmplia del terme, i especialment, els que es detallen a continuació:
+- Valors negociables.
+- Instruments del mercat monetari.
+- Participacions d’OIC.
+- Contractes d’opcions, futurs, permutes (swaps), acords de tipus d’interès a termini i altres contractes de derivats relacionats amb valors, divises, tipus d’interès o rendiments, o altres instruments derivats, índexs financers o mesures financeres que puguin liquidar-se en espècie o en efectiu.
+- Contractes d’opcions, futurs, permutes (swaps), acords de tipus d’interès a termini i altres contractes de derivats relacionats amb matèries primeres que hagin de liquidar-se en efectiu o que puguin liquidar-se en efectiu a petició d’una de les parts (per motius diferents de l’incompliment o d’un altre fet que dugui a la rescissió del contracte).
+- Contractes d’opcions, futurs, permutes (swaps) i altres contractes de derivats relacionats amb matèries primeres que puguin liquidar-se en espècie, sempre que es negociïn en un mercat regulat o en un sistema de negociació multilateral.
+- Contractes d’opcions, futurs, permutes (swaps), acords de tipus d’interès a termini i altres contractes de derivats relacionats amb matèries primeres que puguin ser liquidats mitjançant lliurament físic no esmentats en l’apartat anterior i no destinats a fins comercials, que presenten les característiques d’altres instruments financers derivats, tenint en compte, entre altres coses, si es liquiden a través de cambres de compensació reconegudes o són objecte d’ajustaments regulars dels marges de garantia.
+- Instruments derivats per a la transferència del risc de crèdit.
+- Contractes financers per diferències.
+- Contractes d’opcions, futurs, permutes (swaps), acords de tipus d’interès a termini i altres contractes de derivats relacionats amb variables climàtiques, despeses de transport, autoritzacions d’emissió o tipus d’inflació o altres estadístiques econòmiques oficials, que hagin de liquidar-se en efectiu o que puguin liquidar-se en efectiu a elecció d’una de les parts (per motius diferents de l’incompliment o d’un altre succés que dugui a la rescissió del contracte), així com qualsevol altre contracte derivat relacionat amb actius, drets, obligacions, índexs i mesures no esmentats en els apartats anteriors, que presenten les característiques d’altres instruments financers derivats, tenint en compte, entre altres coses, si es negocien en un mercat regulat o en un sistema de negociació multilateral, si es liquiden a través de cambres de compensació reconegudes o són objecte d’ajustaments regulars dels marges de garantia.
+5) Recursos propis: a l’efecte d’aquesta Llei, s’entén per recursos propis els que estan referits com a fons propis en la Llei de regulació dels criteris de solvència i de liquiditat de les entitats financeres, del 29 de febrer del 1996.
+6) Valors negociables: s’entenen per valors negociables les categories de valors que són negociables en el mercat de capitals, a excepció dels instruments de pagament, com:
+- accions de societats i altres valors equiparables a les accions de societats, associacions o altres entitats i certificats de dipòsit representatius d’accions;
+- obligacions o altres formes de deute titulitzat, inclosos els certificats de dipòsit representatius d’aquests valors;
+- tots els altres valors que atorguen el dret a adquirir o a vendre aquests valors negociables o que donen lloc a una liquidació en efectiu, determinada per referència a valors negociables, divises, tipus d’interès o rendiments, matèries primeres o altres índexs o mesures.

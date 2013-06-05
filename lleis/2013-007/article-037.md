@@ -1,0 +1,3 @@
+# Article 37
+Normes de solvència
+Sense perjudici de les obligacions derivades de la legislació sobre els criteris de solvència, les entitats financeres d’inversió han de disposar d’estratègies i procediments sòlids, eficaços i exhaustius per avaluar i mantenir de forma permanent els imports, els tipus i la distribució de capital intern que considerin adequats per cobrir la naturalesa i el nivell de riscos als quals estiguin o puguin estar exposades. Aquestes estratègies i procediments han de ser periòdicament objecte d’examen intern amb la finalitat de garantir que siguin exhaustius i proporcionals a la índole, l’escala i la complexitat de les activitats de l’entitat financera d’inversió i/o del grup que aquesta encapçala, si escau.

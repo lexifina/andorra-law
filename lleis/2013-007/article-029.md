@@ -1,0 +1,3 @@
+# Article 29
+Denominació
+L’ús o el registre com a element de qualsevol signe distintiu (marca, denominació social, nom comercial, rètol d’establiment o adreça d’internet) dels termes “entitat financera d’inversió”, “societat financera d’inversió”, “agència financera d’inversió”, “societat gestora de patrimonis”, “assessors financers” o qualsevol altra que pugui induir a confusió, com també les seves abreviatures, “EFI”, “SFI”, “AFI”, “SGP”, “ASF”, per altres entitats que aquestes s’entendrà que és un signe de naturalesa enganyosa o de natura a induir a error el públic i subjecte a les accions de nul·litat i de prohibició d’ús corresponents.
