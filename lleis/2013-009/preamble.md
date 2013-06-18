@@ -1,0 +1,8 @@
+Llei 9/2013, del 23 de maig, de modificació de les lleis 25/2011, del 29 de desembre, i 17/2008, del 3 d’octubre, de la seguretat social
+Atès que el Consell General en la seva sessió del dia 23 de maig del 2013 ha aprovat la següent:
+llei 9/2013, del 23 de maig, de modificació de les lleis 25/2011, del 29 de desembre, i 17/2008, del 3 d’octubre, de la seguretat social
+Exposició de motius
+El temps transcorregut des de l’entrada en vigor de la Llei 17/2008, del 3 d’octubre, de la seguretat social recomana, d’una banda, ajustar la regulació de certs aspectes per tal de facilitar-ne l’aplicació i, d’altra banda, introduir algunes modificacions tant en el text original com en la revisió efectuada per la Llei 25/2011, del 29 de desembre, majoritàriament orientades a evitar situacions especialment dificultoses per als cotitzants.
+Entre els ajustos de la regulació destaca la definició de les persones que exerceixen una activitat per compte propi; la de les persones assalariades que per ser propietàries o sòcies de l’empresa per a la qual treballen tenen establerta una base de cotització mínima, i la de la base de cotització dels administradors que són alhora persones assalariades de la mateixa societat.
+Les modificacions en el sistema que s’introdueixen en aquesta Llei consisteixen a reconèixer les persones que exerceixen una activitat per compte propi, la possibilitat de reduir la base de cotització en circumstàncies especials d’inici d’activitat, de remuneració reduïda o de simultaneïtat amb la condició d’assalariades o de beneficiàries d’una pensió de jubilació.
+Així mateix, la Llei crea el règim especial dels assegurats voluntaris a la branca general i a la branca de jubilació.

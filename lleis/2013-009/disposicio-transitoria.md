@@ -1,0 +1,2 @@
+# Disposició transitòria
+Les persones que no estaven obligades a estar afiliades al sistema de seguretat social disposen d’un termini que finalitza el 30 de novembre de 2013 per a regularitzar la seva situació prop de la Caixa Andorrana de Seguretat Social i adaptar-se al marc legal d’aquesta Llei. Durant aquest termini no es generen recàrrecs ni interessos de demora amb la condició que abans de finalitzar el termini s’hagin liquidat totes les cotitzacions meritades a partir de l’1 de juliol de 2013 en aplicació d’aquesta Llei.
