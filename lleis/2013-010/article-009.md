@@ -1,0 +1,5 @@
+# Article 9
+Responsabilitat dels òrgans de govern de l’INAF i del seu personal
+1. El Consell d’Administració de l’INAF, la Direcció General i el seu personal han de donar compliment en tot moment a les disposicions legals i reglamentàries que defineixin i regulin l’exercici de les seves funcions.
+2. Tot membre de l’INAF, entès com a membre del seu Consell d’Administració, de la seva Direcció General i del seu personal, és responsable de l’execució de les funcions que li són encomanades i ha de col·laborar amb la resta de membres de l’INAF amb l’objectiu d’oferir un servei adequat, optimitzant els recursos i els processos emprats.
+3. Els membres dels òrgans de govern de l’INAF i el seu personal només tenen responsabilitat extracontractual en l’exercici de les seves funcions en el cas de danys causats per accions o omissions, produïts amb dol o bé produïts per negligència greu, que els siguin directament imputables en els termes dels articles del 58 al 64 del Codi de l’Administració de 29 de març del 1989.
