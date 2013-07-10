@@ -1,0 +1,4 @@
+# Article 97
+Acta d’inspecció
+1. A cada visita d’inspecció, els inspectors de comerç han d’aixecar acta sobre els resultats i els fets que corresponguin fent-hi constar les circumstàncies personals de la persona inspeccionada i les seves observacions, la identificació de l’inspector actuant, la data i l’hora de la visita, les dades relatives a l’establiment inspeccionat, els fets que, en el seu cas, serveixin de base per al procediment sancionador corresponent i qualsevol altra circumstància que pugui ser rellevant.
+2. L’acta l’ha de firmar l’inspector de comerç actuant i la persona responsable del comerç inspeccionat, o un representant seu o qualsevol dels seus treballadors. La signatura de l’acta té efecte de notificació però no d’acceptació del seu contingut. Les actes d’inspecció ajustades a dret donen fe i estan dotades de la presumpció de certesa, en via administrativa, dels fets constatats, llevat de prova en contra.
