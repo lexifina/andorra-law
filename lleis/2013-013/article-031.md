@@ -1,0 +1,8 @@
+# Article 31
+Conformitat i idoneïtat dels béns i els serveis
+1. La conformitat es produeix quan la persona consumidora gaudeix, com a mínim, de la qualitat i les prestacions que consten al contracte, al pressupost, a la publicitat, a les invitacions a comprar, o de qualsevol altre document que vinculi l’empresari en les relacions de consum.
+2. La persona consumidora té dret a ser informada dels drets que li corresponen com a adquirent de béns o serveis, especialment pel que fa a la conformitat i a la garantia dels béns de naturalesa duradora.
+3. La idoneïtat ha de permetre a la persona consumidora assegurar-se de la naturalesa, les característiques, les condicions i la utilitat o la finalitat dels béns o els serveis. En cas d’incompliment o de compliment defectuós, d’errada, de defecte o de deteriorament, la persona consumidora ha de poder fer efectives les garanties de qualitat o nivell de prestació i obtenir la devolució equitativa del preu de mercat del bé o el servei, ja sigui de forma total o parcial.
+4. Els dubtes en la interpretació dels contractes es resolen en contra de qui els hagi redactat. Les clàusules particulars prevalen sobre les generals si són més beneficioses per al consumidor.
+5. Llevat de prova en contrari, es presumeix que la manca de conformitat que es manifesti durant els sis mesos posteriors al lliurament del bé o la prestació del servei ja existia en el moment de la transacció. No obstant això, aquesta presumpció decau quan sigui incompatible amb la naturalesa del producte o el servei o amb l’índole de la manca de conformitat.
+6. El venedor o el productor han de garantir a la persona consumidora el gaudiment d’un servei tècnic i d’atenció al client adequat, sense demores o retards injustificats.

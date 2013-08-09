@@ -1,0 +1,4 @@
+# Article 27
+Atenció a les persones consumidores
+1. Els empresaris han de posar a disposició de les persones consumidores, sigui quin en sigui el lloc de residència, en qualsevol relació de consum, informació que ha d’incloure, en qualsevol cas, l’adreça postal, el número de telèfon d’atenció i el número de fax o l’adreça de correu electrònic on les persones consumidores, o bé poden sol·licitar qualsevol mena d’assessorament o informació sobre el bé o el servei adquirit o contractat, o bé poden formular les queixes o reclamacions sobre qualsevol assumpte que afecti el funcionament normal de les relacions de consum.
+2. Els empresaris estan obligats a donar resposta a les queixes i reclamacions rebudes al més aviat possible, en qualsevol cas en el termini màxim d’un mes des que són presentades. Per aquest motiu hauran de disposar de fulls oficials de reclamació i denúncia i anunciar-ne la seva existència.

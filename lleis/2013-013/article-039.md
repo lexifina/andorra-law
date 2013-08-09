@@ -1,0 +1,7 @@
+# Article 39
+Òrgan administratiu competent en matèria de consum
+1. El Govern, mitjançant l’òrgan administratiu competent en matèria de consum, controla el compliment de la normativa en matèria de la protecció dels consumidors.
+2. L’òrgan administratiu competent en matèria de consum, d’ofici o a instància de part, visita els establiments, n’examina la documentació en matèria de la protecció del consumidor i, si escau, aixeca acta de la visita efectuada.
+3. Quan l’òrgan administratiu competent en matèria de consum comprova que l’incompliment de la normativa sobre la protecció dels consumidors implica, al seu judici, un risc greu i imminent per a la seguretat i la salut de les persones, pot ordenar el cessament immediat de l’activitat o requisar el producte de manera cautelar. La mesura s’aixeca immediatament quan l’empresari acrediti la correcció de les omissions de seguretat que la van originar.
+4. Contra la decisió presa per l’òrgan administratiu competent en matèria de consum es pot presentar un recurs administratiu davant del ministeri encarregat del servei que ha pres la decisió, d’acord amb el que disposi la normativa en matèria de recursos administratius vigent en cada moment.
+5. La vigilància i el control en matèria de salut i de seguretat correspon, respectivament, als òrgans competents del ministeri encarregat de la salut i del ministeri encarregat de la seguretat industrial.
