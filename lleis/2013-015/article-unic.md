@@ -1,0 +1,8 @@
+# Article únic
+Es modifica l’apartat 2 de l’article 24 de la Llei 35/2012, del 13 de desembre, del pressupost per a l’exercici del 2013, que queda redactat com segueix:
+“Article 24. Contractació de personal
+1. […]
+2. Durant l’exercici 2013 les places vacants de l’Administració general que es generin, incloses les jubilacions, no es poden cobrir amb personal fix extern, a excepció de les vacants produïdes en el Cos Especial de Policia i les de secretaris judicials. També es pot autoritzar la cobertura de vacants produïdes durant els exercicis anteriors al 2013 en el Cos Especial de Policia amb personal fix extern.
+El ministre encarregat de les finances, amb el vistiplau del Govern, pot autoritzar la cobertura de vacants amb personal eventual extern per als projectes que siguin estratègicament prioritaris. En aquests casos, es limita la cobertura de vacants amb personal eventual extern fins al 10% de les places.
+Excepcionalment, i per a les necessitats que es derivin del compliment dels compromisos internacionals adquirits pel Principat d’Andorra, es pot autoritzar la contractació de personal eventual.
+També, de manera excepcional, es pot autoritzar la contractació de personal eventual per cobrir les vacants generades en exercicis anteriors i durant l’exercici 2013 per donar resposta a les necessitats de personal en els llocs de treball de mestre, professor, psicopedagog, tècnic especialitzat en l’àmbit social, tècnic especialitzat en educació social, tècnic pedagògic en l’àmbit de la biblioteca escolar i col·laborador educatiu del Ministeri d’Educació i Joventut, que es deriven de l’aplicació de la legislació que regula el sistema educatiu andorrà.”
