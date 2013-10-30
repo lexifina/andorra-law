@@ -1,0 +1,2 @@
+# Disposició final primera
+Es delega el Govern perquè, en el termini màxim de tres mesos des de la data d’entrada en vigor d’aquesta Llei, publiqui al Butlletí Oficial del Principat d’Andorra el text corresponent que reculli la Llei 16/2008, del 3 d’octubre, qualificada de modificació del Codi de procediment penal, del 10 de desembre de 1998, incloent-hi totes les modificacions aportades fins avui.
