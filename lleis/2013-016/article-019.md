@@ -1,0 +1,6 @@
+# Article 19
+Es modifica l’article 53 de la Llei 9/2012, del 31 de maig, de modificació de la Llei qualificada d’immigració, que queda redactat de la manera següent:
+“Article 53.
+Residència permanent i efectiva
+1. Per obtenir la renovació de qualsevol autorització d’immigració, la persona que n’és titular ha d’haver residit de forma permanent i efectiva al Principat d’Andorra a comptar de la data d’inici si es tracta d’una autorització inicial, o de la data de la darrera renovació en els altres casos. Queden exceptuades d’aquesta norma els titulars d’una autorització d’immigració de fronterer i els titulars d’una autorització de treball sense residència.
+2. Es computen en el període de residència permanent i efectiva al Principat d’Andorra les absències causades per vacances, per un tractament mèdic a l’estranger conseqüència d’una malaltia o d’un accident, per un cicle de formació a l’estranger en les condicions definides a l’article 52.3, o per un desplaçament laboral a l’estranger acordat pel patró en el marc de la realització de treballs determinats amb una durada no superior a 12 mesos prorrogables per causa justificada pel patró i amb una autorització del Servei d’Immigració.”

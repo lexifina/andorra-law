@@ -1,0 +1,2 @@
+# Disposició final primera
+S’encarrega al Govern que, en el termini màxim de tres mesos a partir de la data d’entrada en vigor d’aquesta Llei, publiqui al Butlletí Oficial del Principat d’Andorra, mitjançant el decret legislatiu corresponent, el text refós de l’articulat de la Llei 9/2012, del 31 de maig, de modificació de la Llei qualificada d’immigració, incloent-hi totes les modificacions aportades mitjançant aquesta Llei.

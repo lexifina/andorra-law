@@ -1,0 +1,6 @@
+# Article 32
+S’afegeix un nou article 101 bis a la Llei 9/2012, del 31 de maig, de modificació de la Llei qualificada d’immigració, que queda redactat de la manera següent:
+“Article 101 bis.
+Concepte de persona resident per ingrés en centres geriàtrics privats o per ingrés en centres de cures mèdiques o terapèutiques privats
+1. Es considera persona resident per ingrés en centres geriàtrics privats o per ingrés en centres de cures mèdiques o terapèutiques privats, d’acord amb aquesta Llei, la persona física que no té la nacionalitat andorrana i que estableix la seva residència permanent i efectiva al Principat d’Andorra en un centre geriàtric privat o en un centre de cures mèdiques o terapèutiques privat durant almenys 90 dies per any natural, sense exercir-hi cap activitat laboral o professional.
+2. No obstant això, la persona resident per ingrés en centres geriàtrics privats o per ingrés en centres de cures mèdiques o terapèutiques privats pot desenvolupar les activitats necessàries per a la gestió del seu propi patrimoni i, en particular, les funcions que li corresponguin com a administradora de les entitats en el capital o en els fons propis de les quals tingui una participació igual o superior al cinquanta per cent, i sempre que el càrrec d’administrador no sigui remunerat.”

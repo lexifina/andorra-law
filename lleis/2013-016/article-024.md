@@ -1,0 +1,6 @@
+# Article 24
+S’afegeixen quatre apartats, h, i, j i k, a l’article 73 de la Llei 9/2012, del 31 de maig, de modificació de la Llei qualificada d’immigració, que queden redactats de la manera següent:
+“h) Que es constati que la persona titular d’una autorització inicial obtinguda en aplicació de les disposicions de l’article 28 bis resideix al Principat d’Andorra.
+i) Que es constati que la persona titular d’una autorització de residència i treball per compte propi no ha complert o no compleix qualsevol dels requisits previstos a l’article 38 ter aplicables en cada cas.
+j) Que es constati que la persona titular d’una autorització per ingrés en centres geriàtrics privats o per ingrés en centre de cures mèdiques o terapèutiques privats, no consti efectivament ingressada en un centre d’aitals característiques.
+k) Que s’anul·li l’autorització d’immigració o es constati la manca de residència efectiva i permanent de les persones que sol·liciten el reagrupament familiar d’acord amb l’article 102 d’aquesta Llei, o que s’anul·li l’autorització d’immigració de residència sense treball de la persona titular principal descrita al títol IX d’aquesta Llei, per a les persones que han estat objecte del reagrupament previstes a l’article 103 d’aquesta Llei, així com per a les persones a càrrec previstes a l’article 91 d’aquesta Llei.”

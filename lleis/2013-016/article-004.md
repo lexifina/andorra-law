@@ -1,0 +1,3 @@
+# Article 4
+Es modifica l’apartat 6 de l’article 27 de la Llei 9/2012, del 31 de maig, de modificació de la Llei qualificada d’immigració, que queda redactat de la manera següent:
+“6. Una persona o empresa que desitgi contractar els serveis d’una empresa estrangera o d’un professional autònom estranger per curta durada, és a dir que en cap cas excedeixi 30 dies naturals per any natural, no ha de sol·licitar cap autorització d’immigració, tot i que ha de cursar una comunicació prèvia per escrit al Servei d’Immigració, i si la contractació és igual o superior a 5 dies hàbils, ha de satisfer la taxa corresponent, la forma de pagament de la qual es fixa per via reglamentària.”

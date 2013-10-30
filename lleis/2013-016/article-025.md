@@ -1,0 +1,3 @@
+# Article 25
+Es modifica l’apartat g de l’article 79 de la Llei 9/2012, del 31 de maig, de modificació de la Llei qualificada d’immigració, que queda redactat de la manera següent:
+“g) La manca de justificació de la inscripció al comú on resideix la persona titular d’una autorització de residència sense activitat lucrativa, d’una autorització de residència per raons professionals, d’una autorització de residència per raons d’interès científic, cultural i esportiu, d’una autorització d’immigració de residència i treball o d’una autorització per raó de reagrupament, un cop transcorreguts tres mesos des de l’obtenció de la mateixa autorització.”
