@@ -1,0 +1,13 @@
+# Article 17
+Modificació de l’article 155
+Es modifica l’article 155 de la Llei 9/2005, del 21 de febrer, qualificada del Codi penal, que queda redactat com segueix:
+“Article 155.
+Utilització de menors i incapaços per a la pornografia
+1. Qui capti imatges d’un menor d’edat o d’un incapaç amb la intenció de produir material pornogràfic ha de ser castigat amb pena de presó d’una durada màxima de dos anys.
+La temptativa és punible.
+2. Qui recluti, utilitzi un menor o un incapaç amb finalitats pornogràfiques o exhibicionistes o n’afavoreixi la participació, i qui produeixi, adquireixi, vengui, importi, exporti, distribueixi, difongui, cedeixi o exhibeixi per qualsevol mitjà material pornogràfic en el qual apareguin imatges de menors dedicats a activitats sexuals explícites, reals o amb aparença de realitat, o qualsevol altra representació de les parts sexuals d’un menor amb finalitats primordialment sexuals, ha de ser castigat amb pena de presó d’un a quatre anys.
+La temptativa és punible. La proposició per mitjà de les tecnologies de la informació i la comunicació d’una trobada amb un menor de 14 anys amb la finalitat de cometre la infracció descrita a l’apartat 1 d’aquest article es considera temptativa si la proposició ha estat seguida d’actes materials que condueixin a la dita trobada.
+3. Qui ofereixi, posseeixi, procuri per a ell o per a un altre, o accedeixi a través de qualsevol tecnologia de la comunicació o la informació a material pornogràfic en el qual apareguin imatges de menors dedicats a activitats sexuals explícites, reals o amb aparença de realitat, o qualsevol altra representació de les parts sexuals d’un menor amb finalitats primordialment sexuals, ha de ser castigat amb pena de presó d’una durada màxima de dos anys.
+La temptativa és punible.
+4. Qui assisteixi a espectacles pornogràfics on actuï un menor o un incapaç ha de ser condemnat amb pena de presó d’una durada màxima de dos anys.
+5. Quan el culpable de qualsevol de les infraccions previstes en aquest article obtingui un profit econòmic, a més de les penes previstes s’ha d’imposar multa d’un import màxim de 30.000 euros.”

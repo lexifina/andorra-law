@@ -1,0 +1,9 @@
+# Article 14
+Modificació de l’article 151
+Es modifica l’article 151 de la Llei 9/2005, del 21 de febrer, qualificada del Codi penal, que queda redactat com segueix:
+“Article 151.
+Afavoriment de la prostitució
+1. El qui recluti per a la prostitució, promogui, faciliti o afavoreixi la prostitució d’altri ha de ser castigat amb pena de presó de tres mesos a tres anys.
+2. Si es tracta de prostitució infantil o la víctima és una persona vulnerable per raó de malaltia o deficiència física o psíquica, s’ha d’imposar pena de presó de dos a cinc anys. Si el fet és comès pels titulars de la pàtria potestat o tutela, la pena s’ha d’imposar en la meitat superior.
+3. Si la infracció és comesa en el marc d’un grup organitzat, el límit màxim de la pena prevista es pot augmentar en la meitat.
+4. La temptativa és punible en tots els casos. La proposició per mitjà de les tecnologies de la informació i la comunicació d’una trobada amb un menor de 14 anys amb la finalitat de cometre la infracció descrita a l’apartat 1 d’aquest article es considera temptativa si la proposició ha estat seguida d’actes materials que condueixin a la dita trobada.”

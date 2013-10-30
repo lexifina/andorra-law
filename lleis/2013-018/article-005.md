@@ -1,0 +1,4 @@
+# Article 5
+Modificació de l’apartat 1 lletra d de l’article 71
+Es modifica l’apartat 1 lletra d de l’article 71 de la Llei 9/2005, del 21 de febrer, qualificada del Codi penal, que queda redactat com segueix:
+“d) Multa a la societat, l’associació o la fundació, en el cas de comissió de delictes contra la llibertat sexual, contra l’ordre socioeconòmic, la seguretat en el tràfic jurídic, de corrupció, tràfic d’influències, terrorisme i finançament del terrorisme i blanqueig de diners o valors, de fins a 300.000 euros, o fins al quàdruple del benefici obtingut o que es pretenia obtenir amb la comissió del delicte, si era superior. El tribunal determina l’extensió de la multa d’acord amb la gravetat de la infracció, el patrimoni de la societat, l’associació o la fundació i l’impacte sobre els proveïdors i els drets dels treballadors.”
