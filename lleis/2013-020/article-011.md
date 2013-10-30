@@ -1,0 +1,6 @@
+# Article 11
+Modificació de l’article 50
+Es modifica l’article 50 de la Llei de cooperació penal internacional i de lluita contra el blanqueig de diners o valors producte de la delinqüència internacional i contra el finançament del terrorisme, que queda redactat com segueix:
+“Als efectes del compliment de les obligacions previstes en les lletres (c) i (d) de l’apartat 1 de l’article 49 d’aquesta Llei, els subjectes obligats financers o no financers poden delegar la seva aplicació efectiva en subjectes tercers obligats sotmesos a aquesta Llei o a la legislació d’un estat membre de la Unió Europea o d’un altre país tercer equivalent. No obstant això, el subjecte obligat delegant continua sent responsable del compliment d’aquestes obligacions.
+Aquest règim no serà aplicable a les relacions d’externalització o agència quan, en virtut d’un acord contractual, el proveïdor de serveis d’externalització o agent hagi de ser considerat com a part del subjecte obligat.
+Els subjectes obligats, sense perjudici de mantenir la plena responsabilitat respecte del client, podran acceptar les mesures de diligència deguda practicades per les seves sucursals i filials amb participació majoritària domiciliades a Andorra, en un estat membre de la Unió Europea o en un altre país tercer, amb les limitacions i condicions que puguin derivar de l’article 44 d’aquesta Llei.”

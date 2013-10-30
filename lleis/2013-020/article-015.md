@@ -1,0 +1,9 @@
+# Article 15
+Modificació de l’article 56
+Es modifica l’article 56 de la Llei de cooperació penal internacional i de lluita contra el blanqueig de diners o valors producte de la delinqüència internacional i contra el finançament del terrorisme, que queda redactat com segueix:
+“1. La tramesa d’informació relativa a operacions o projectes d’operacions relacionades amb el blanqueig de diners, el finançament del terrorisme i la delinqüència internacional, inclosos els extractes de registre d’antecedents, a altres organismes estrangers equivalents és efectuada per la UIF a demanda d’aquests organismes, sempre amb l’autorització prèvia del màxim responsable de la UIF, i està supeditada al fet que la part receptora de la informació acrediti prèviament a la tramesa que reuneix les condicions següents:
+a) la reciprocitat en l’intercanvi d’informació;
+b) el compromís, per part de l’estat receptor, de no utilitzar la informació per a cap altra finalitat que no sigui la que persegueix aquesta Llei;
+c) que els serveis estrangers receptors de la informació estiguin sotmesos, sota sanció penal, al manteniment del secret professional.
+Amb subjecció a les mateixes condicions, la UIF pot trametre a altres organismes estrangers equivalents, sense sol·licitud prèvia, informació rellevant relativa a operacions o projectes d’operacions relacionades amb el blanqueig de diners, el finançament del terrorisme i la delinqüència internacional.
+2. La UIF pot rebutjar facilitar informació que pugui perjudicar una investigació penal en curs al Principat d’Andorra, o, en casos excepcionals, quan facilitar la informació sigui clarament desproporcionat en relació amb els interessos legítims d’una persona física o jurídica o del Principat d’Andorra o sigui contrària en algun altre sentit als principis fonamentals de l’ordenament jurídic andorrà. El rebuig a la sol·licitud s’haurà d’explicar adequadament a l’organisme estranger equivalent sol·licitant.”
