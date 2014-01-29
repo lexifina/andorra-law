@@ -1,0 +1,5 @@
+# Article 10
+Modificació de l’article 31, apartats 1 i 4
+Es modifiquen els apartats 1 i 4 de l’article 31 de la Llei qualificada d’incapacitació i organismes tutelars, que queden redactats de la manera següent:
+“1. A petició de la persona que nomena un tutor en previsió d’una futura declaració judicial d’incapacitació, dels pares que en nomenen un per als seus fills menors d’edat per al cas que s’hagi de constituir una tutela, de dos parents en línia recta descendent o ascendent majors d’edat, o d’un d’ells i el consort o la persona que ha format una unió estable de parella amb la persona incapacitada, l’organisme jurisdiccional pot autoritzar la constitució d’un consell de tutela per gestionar una empresa familiar de la qual forma part la persona tutelada, amb la facultat que nomeni un tutor i que en controli la gestió.”
+“4. L’organisme jurisdiccional, a instàncies del Ministeri Fiscal o de les persones indicades en l’apartat 1 d’aquest article, pot decretar l’extinció del consell de tutela si l’interès de la persona tutelada ho exigeix o si els seus membres no compleixen de forma correcta les funcions pròpies del càrrec.”
