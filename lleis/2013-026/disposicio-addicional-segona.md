@@ -1,0 +1,2 @@
+# Disposició addicional segona
+A partir de l’entrada en vigor d’aquesta Llei, s’ha d’entendre que els termes de “professió liberal”, “professional liberal” i “Registre de Professionals Liberals, Col·legis i Associacions Professionals” que figurin en la normativa vigent fan referència, respectivament, a “professió titulada”, “professional titulat” i “Registre de Professionals Titulats, Col·legis i Associacions Professionals”.

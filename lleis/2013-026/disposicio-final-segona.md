@@ -1,0 +1,2 @@
+# Disposició final segona
+S’encomana al Govern que, en el termini màxim d’un mes des de l’entrada en vigor d’aquesta Llei, publiqui al Butlletí Oficial del Principat d’Andorra el text de la Llei 6/2008, del 15 de maig, d’exercici de professions liberals i de col·legis i associacions professionals, que inclogui les modificacions introduïdes en la Llei 10/2012, del 21 de juny, d’inversió estrangera al Principat d’Andorra, i en aquesta Llei.
