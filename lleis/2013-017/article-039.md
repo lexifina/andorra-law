@@ -1,0 +1,3 @@
+# Article 39
+Autorització d’excepcions en medalles i fitxes
+El Govern pot sol·licitar a la Comissió Europea autorització especial per a la utilització dels termes “euro” i “euro cent” o del símbol de l’euro a la superfície de les medalles i fitxes en condicions d’utilització controlada sempre que no existeixi cap risc de confusió. En aquests casos s’indica clarament, a la superfície de la medalla o de la fitxa, l’operador econòmic corresponent de l’Estat Membre i, si s’indica un valor nominal associat a la medalla o fitxa, hi ha de figurar l’estampa “No de curs legal” a l’anvers o el revers de la medalla o de la fitxa.

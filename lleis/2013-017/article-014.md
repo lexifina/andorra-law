@@ -1,0 +1,12 @@
+# Article 14
+Disseny de les cares nacionals
+1. Les monedes destinades a la circulació han de tenir una cara comú europea i una cara nacional diferenciada per a cada Estat participant i per a cada Estat Membre que té l’euro com a moneda.
+2. A la cara nacional de les monedes destinades a la circulació, no es repeteix la indicació total o parcial de la seva denominació ni tampoc del nom de la moneda única ni de cap unitat fraccionària a menys que aquesta indicació obeeixi a la utilització d’un abecedari diferent.
+3. No obstant les disposicions de l’apartat 2, la llegenda gravada al cantell de la moneda de dos (2) euros pot portar una indicació de la denominació, a condició que s’utilitzi únicament la xifra “2” i/o la paraula “euro”.
+4. La cara nacional de tots els valors nominals de les monedes destinades a la circulació ha d’incloure la indicació “Principat d’Andorra” o una abreviació.
+5. A la cara nacional de les monedes destinades a la circulació, hi ha de figurar dotze estrelles que han de rodejar completament el disseny nacional, incloent la indicació de l’any d’emissió i el nom “Principat d’Andorra”. Això no impedeix que alguns elements del disseny s’estenguin fora del cercle d’estrelles, sempre que les estrelles siguin clarament i totalment visibles. Les dotze estrelles han de representar-se de la mateixa manera que apareixen a la bandera europea.
+6. Els dissenys de la cara nacional són seleccionats considerant que les monedes d’euro circulen en tots els Estats Membres que tenen l’euro com a moneda.
+7. Els dissenys utilitzats a les cares nacionals de les monedes regulars només poden ser modificats cada quinze (15) anys, independentment de les modificacions necessàries per evitar la falsificació de moneda.
+8. No obstant les disposicions de l’apartat 7, els dissenys utilitzats per a les cares nacionals de les monedes regulars poden ser modificats en el cas que hi hagi un canvi de Cap d’Estat representat a les monedes. El fet que la posició de Cap d’Estat quedi vacant de manera provisional, o que sigui provisionalment ocupada, no ha de donar dret a modificació.
+9. Es constitueix una comissió denominada “Comissió Euro” formada per membres del servei d’emissions del Ministeri encarregat de les Finances, de l’INAF i de l’OCN, que assessora el Ministeri encarregat de l’Economia sobre el procés establert en aquest article.
+10. Tota la informació rellevant relativa als nous dissenys nacionals de monedes d’euro destinades a la circulació es publica al Butlletí Oficial del Principat d’Andorra i al Diari Oficial de la Unió Europea.

@@ -1,0 +1,5 @@
+# Article 45
+Aplicació de mesures contra la reproducció irregular de bitllets d’euro
+1. Si l’INAF s’assabenta que una reproducció irregular ha tingut lloc a Andorra, ordena a l’autor que deixi de produir reproduccions irregulars mitjançant l’emissió d’una carta estàndard del BCE i, si ho considera apropiat, ordena a tothom que posseeixi una reproducció irregular, que li entregui. Si l’INAF s’assabenta que una reproducció irregular està disponible electrònicament a Internet, per cable o sense fils, o per altres mitjans que permetin al públic l’accés des del lloc i hora escollits, l’ha d’eliminar immediatament.
+2. Si l’autor no compleix l’ordre del paràgraf anterior, l’INAF n’informa immediatament el BCE.
+3. La decisió subsegüent d’iniciar procediments penals l’adopta l’INAF. Abans d’adoptar la decisió, l’INAF informa el BCE sobre la iniciació o possibilitat d’iniciar un procediment penal, en base a la Llei aplicable i l’existència de qualsevol altra base legal, com ara els drets d’autor, per actuar contra la reproducció irregular.

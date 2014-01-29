@@ -1,0 +1,7 @@
+# Article 33
+Activitats de vigilància i imposició de mesures correctores
+1. No obstant les disposicions en vigor, el CNA o l’organisme delegat, pot:
+i) dur a terme inspeccions in situ, fins i tot sense anunciar-les, als establiments de les entitats que manegen efectiu, per controlar les seves màquines de tractament de bitllets, en particular la seva capacitat per comprovar l’autenticitat i l’aptitud dels bitllets, i per rastrejar fins al titular del compte les presumptes falsificacions de bitllets d’euro i els bitllets d’euro no autenticats clarament; i
+ii) verificar els procediments de maneig i control de màquines de tractament de bitllets, el tractament dels bitllets d’euro comprovats i la comprovació manual, en el seu cas, de l’autenticitat i l’aptitud.
+2. El CNA o l’organisme delegat, pot agafar mostres dels bitllets d’euro tractats per poder-los verificar als seus propis locals.
+3. Si el CNA o l’organisme delegat detecta un incompliment de les disposicions de la present Llei o de les seves normes d’implementació per part d’una entitat que maneja efectiu, exigeix a dita entitat que adopti mesures correctores en un determinat període de temps. Fins que es corregeixi l’incompliment, el CNA o l’organisme autoritzat, pot prohibir en nom del BCE a l’entitat que maneja efectiu que re-circuli les denominacions en euros de les sèries afectades. Si l’incompliment és degut a un error del tipus de màquina de tractament de bitllets, pot resultar en la retirada d’aquest tipus de màquina de la llista a la qual es fa referència a l’apartat 2 de l’article 32.
