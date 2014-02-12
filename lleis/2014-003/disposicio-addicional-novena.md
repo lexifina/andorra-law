@@ -1,0 +1,3 @@
+# Disposició addicional novena
+El Govern, excepcionalment, tramita a la Sindicatura el Projecte de llei de pressupost general per a l’exercici 2014 sense haver-hi inclòs el pressupost de la Societat de Gestió Col·lectiva de Drets d’Autor i Drets Veïns.
+Consegüentment, el Govern, excepcionalment, tramita a la Sindicatura el Projecte de pressupost de l’exercici 2014 d’aquesta entitat de dret públic, el qual té un efecte nul en el resultat pressupostari del Govern, de manera separada i amb posterioritat a la resta del Projecte de llei del pressupost general per a l’exercici 2014, i en tot cas, abans del 31 de desembre del 2013.

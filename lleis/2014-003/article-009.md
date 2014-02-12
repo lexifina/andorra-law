@@ -1,0 +1,4 @@
+# Article 9
+Convenis entre entitats del sector públic
+Quan l’Administració utilitza els seus propis mitjans per obtenir prestacions que constitueixen l’objecte dels contractes públics, aquesta actuació suposa una operació interna en el marc de les normes i el règim de funcionament de l’organisme públic corresponent.
+D’acord amb aquesta Llei es consideren mitjans propis de l’Administració les societats o les entitats amb la totalitat del seu capital social de titularitat pública, i que efectuïn la part essencial de la seva activitat amb l’entitat adjudicatària.
