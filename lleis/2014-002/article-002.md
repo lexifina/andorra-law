@@ -1,0 +1,6 @@
+# Article 2
+Es modifica l'article 119 del Codi de circulació, del 10-06-1999, que queda redactat de la manera següent:
+"Article 119
+La llicència de conduir de ciclomotors i els permisos de les classes A1, A2, A3 i B1 tenen una validesa de 10 anys fins que el titular compleixi els 70 anys i de 2 anys a partir d'aquesta edat. El permís de la classe J té una validesa màxima de 3 anys. Els permisos de conduir de les classes B2, C1, C2, D1, D2 i corresponents E, tenen un termini de validesa de 5 anys, mentre el titular no compleixi els 50 anys; de 3 anys si els supera sense passar dels 60 anys, i de 2 anys a partir d'aquesta edat fins als 70 anys. A partir dels 70 anys no tenen validesa.
+En el cas que el titular disposi de la categoria C1 vigent quan compleixi els 70 anys i vulgui conduir exclusivament una autocaravana amb pes màxim autoritzat de 7.500 kg, es podrà allargar el termini de validesa d'aquesta categoria amb la menció autocaravana, renovant-la d'any en any.
+No obstant el previst anteriorment, el termini normal de validesa de les diferents classes dels permisos pot reduir-se si en el moment de concessió o renovació es comprova que el titular té una malaltia, anomalia o limitació susceptible d'agreujar-se que pugui impedir la conducció normal."
