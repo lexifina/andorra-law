@@ -1,0 +1,3 @@
+# Disposició addicional
+La manca de dipòsit dels comptes anuals transcorregut un any des que expiri el termini màxim de dipòsit comporta, a més dels altres efectes previstos en la legislació vigent, la responsabilitat solidària i il·limitada dels administradors respecte dels deutes socials que es generin a partir de l’incompliment de l’obligació de dipòsit. No s’inclouen els deutes socials anteriors a l’entrada en vigor d’aquesta disposició.
+La regularització de l’incompliment mitjançant el dipòsit dels comptes anuals no dipositats en la forma prevista legalment, comporta l’extinció de la responsabilitat personal contreta pels administradors per aquesta causa.

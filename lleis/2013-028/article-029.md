@@ -1,0 +1,4 @@
+# Article 29
+Modificació de l’apartat 3 de l’article 85
+Es modifica l’apartat 3 de l’article 85 (“Causes de dissolució”), que queda redactat de la manera següent:
+“3. En cas que, en compliment d’una llei, el capital de la societat hagi de quedar per sota del capital mínim exigit, la societat es dissol de ple dret sempre que no posi remei a aquesta situació, com a alternativa a la seva dissolució, en el termini de dos mesos a partir de la inscripció de la reducció de capital en el Registre de Societats. La societat amb un capital social inferior al mínim legal exigible compromet la responsabilitat personal solidària dels socis i dels administradors pels actes i negocis jurídics que es realitzin en el seu nom, mentre no es posi remei a aquesta situació o s’insti la liquidació segons el que s’estableix en la secció segona d’aquest capítol.”

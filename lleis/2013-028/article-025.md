@@ -1,0 +1,4 @@
+# Article 25
+Modificació de l’apartat 2 de l’article 78
+Es modifica l’apartat 2 de l’article 78 (“Requisits i efectes”), que queda redactat de la manera següent:
+“2. Les societats anònimes o de responsabilitat limitada que acordin transformar-se han d’atorgar una escriptura pública de transformació, la qual, a més de l’acord de transformació, ha de contenir els requisits per constituir la nova forma social i s’ha d’inscriure al Registre de Societats, juntament amb el balanç tancat el dia anterior a l’acord de transformació, perquè aquesta transformació sigui eficaç i subsisteixi la personalitat jurídica de la societat transformada. El notari que autoritza l’escriptura té l’obligació de trametre’n una còpia al Registre de Societats, dins el termini de quinze dies a comptar de la data de l’atorgament, per a la seva inscripció.”

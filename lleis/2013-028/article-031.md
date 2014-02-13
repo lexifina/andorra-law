@@ -1,0 +1,4 @@
+# Article 31
+Modificació de l’apartat 3 de l’article 86
+Es modifica l’apartat 3 de l’article 86 (“Procediment de dissolució”), que queda redactat de la manera següent:
+“3. En cas que la junta general no adopti cap acord, els administradors han d’instar la dissolució judicial de la societat en el termini de dos mesos, comptadors des del dia previst per a la celebració de la junta, si aquesta junta no s’ha celebrat, o de la seva celebració efectiva, si no es posa remei a la situació. Si la junta no fos convocada, no se celebrés, o no adoptés l’acord de dissolució quan legalment escaigui, o no prengués les mesures adequades per evitar la dissolució, qualsevol part interessada pot instar la dissolució judicial de la societat. En tot cas, el batlle pot atribuir a la societat un període màxim de sis mesos per regularitzar la situació. La demanda de dissolució de la societat ha d’adreçar-se en contra de la societat.”
