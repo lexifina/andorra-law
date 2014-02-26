@@ -1,0 +1,5 @@
+# Article 5
+Modificació de l’article 15, apartat 3 i addició d’un apartat 4 a l’article 15
+Es modifica l’apartat 3 i s’afegeix un apartat 4 a l’article 15 de la Llei d’arrendaments de finques urbanes, que queden redactats en els termes següents:
+“3. La fiança queda en possessió de l’arrendador, que està obligat a retornar-la a la fi del contracte, en rebre les claus de la finca arrendada, llevat que s’hagi d’aplicar, en tot o en part, a les finalitats previstes a l’anterior apartat 2, prèvia justificació documental. L’arrendador fa seus els rendiments de la fiança, sense que es puguin imputar a la reparació dels danys causats per l’arrendatari a la finca arrendada.”
+“4. L’arrendatari pot reclamar el retorn de la fiança lliurada en el marc del procediment que regula la disposició addicional segona d’aquesta Llei, o en un procediment posterior endegat amb aquesta finalitat. L’acció per reclamar el retorn de la fiança prescriu en el termini de tres anys a comptar del moment de l’extinció del contracte d’arrendament.”
