@@ -1,0 +1,3 @@
+# Article 12
+Es modifica l’apartat 2 de l’article 30 de la Llei 28/2007, del 22 de novembre, qualificada de modificació de la Llei qualificada del règim electoral i del referèndum, que queda redactat de la manera següent:
+“2. El Govern, amb antelació suficient, farà arribar a tots els electors al domicili que consti a les llistes electorals, fins i tot els residents a l’estranger i aquells que hagin sol·licitat el vot per dipòsit judicial per correu, un sobre que contindrà les professions de fe de les diverses candidatures. Totes tindran un mateix tractament en la documentació inclosa i en la seva presentació. La documentació que s’enviï als electors residents a l’estranger contindrà, a més, informació en relació al vot judicial per correu.”
