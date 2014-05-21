@@ -1,0 +1,5 @@
+# Article 10
+Recursos humans
+Tots els professionals que desenvolupin les seves tasques en el sistema de serveis socials i sociosanitaris han de disposar de la formació i la titulació oficials que s’estableixin reglamentàriament.
+Els treballadors socials i els educadors socials que componen els serveis socials d’atenció primària i els que participen en altres prestacions han d’estar en possessió de la titulació universitària que acrediti els coneixements i les habilitats tècniques i operatives per desenvolupar les funcions, d’acord amb la metodologia del treball social i l’educació social, segons la normativa vigent.
+Els altres professionals que actuen en els serveis socials i sociosanitaris, que poden provenir dels àmbits de la salut, l’educació, el treball familiar, la inserció laboral i altres especialitats necessàries per als serveis i els programes que s’han de desenvolupar, han de posseir igualment el títol universitari i/o la formació que els habilita per realitzar les funcions atribuïdes a la seva categoria professional i, si cal, han d’estar inscrits en el Registre de Professions Sanitàries o altres registres establerts per la normativa vigent.

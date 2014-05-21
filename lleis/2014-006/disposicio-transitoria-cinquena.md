@@ -1,0 +1,2 @@
+# Disposició transitòria cinquena
+Al personal que a l’entrada en vigor de la Llei estigui prestant servei al Govern i als comuns i que com a conseqüència de la reorganització de l’exercici de les competències hagi de canviar d’adscripció, se li respectaran tots els drets que té consolidats, d’acord amb la normativa de funció pública i laboral vigent, si bé s’haurà d’adequar a l’organització i a les funcions de l’Administració titular del servei.

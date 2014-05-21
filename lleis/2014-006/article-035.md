@@ -1,0 +1,3 @@
+# Article 35
+Delegació de la gestió
+El Govern, a través del ministeri competent, pot delegar en els comuns la gestió de les prestacions tècniques d’atenció primària i d’atenció domiciliària. Aquesta delegació, que necessita l’acord del Govern i dels comuns corresponents i que ha d’evitar qualsevol tipus de duplicitat, ha d’indicar de manera precisa el titular i l’abast de la gestió delegada, l’objecte, la naturalesa i els recursos que inclouen, així com les causes de revisió i extinció, i la facultat de revocació. La delegació esmentada s’ha de publicar al Butlletí Oficial del Principat d’Andorra.

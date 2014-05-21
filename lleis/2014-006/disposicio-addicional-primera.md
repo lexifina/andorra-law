@@ -1,0 +1,2 @@
+# Disposició addicional primera. Col·laboració en la gestió de prestacions econòmiques
+Per tal d’optimitzar els recursos públics i millorar l’eficiència de la gestió de les prestacions, el Govern i la Caixa Andorrana de Seguretat Social poden establir acords de col·laboració per gestionar les prestacions econòmiques del Govern i de la seguretat social, en els termes i les condicions que s’estableixin en els convenis de col·laboració corresponents.

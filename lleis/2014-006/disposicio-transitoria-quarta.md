@@ -1,0 +1,2 @@
+# Disposició transitòria quarta
+Els convenis subscrits amb el Govern per entitats privades o públiques, els comuns i la seguretat social en matèria de serveis socials i sociosanitaris que siguin vigents a l’entrada en vigor d’aquesta Llei, tenen plena validesa fins que es revisin o finalitzin, de conformitat amb les previsions establertes al conveni corresponent, sense perjudici de les adaptacions que exigeixi l’aplicació d’aquesta Llei.

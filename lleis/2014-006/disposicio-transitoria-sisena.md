@@ -1,0 +1,2 @@
+# Disposició transitòria sisena
+El reglament que reguli la titulació i les condicions de qualificació necessàries dels recursos humans ha de tenir en compte la situació i experiència de les persones que en el moment de l’entrada en vigor d’aquesta Llei estiguin prestant serveis en algun centre de serveis socials i sociosanitaris per tal d’establir, si escau, les condicions i els requisits de les homologacions o les validacions que corresponguin en cada situació.

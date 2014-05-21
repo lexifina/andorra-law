@@ -1,0 +1,2 @@
+# Disposició transitòria segona
+Els beneficiaris de la prestació per fills a càrrec establerta als articles 210 a 213 de la Llei 17/2008, del 3 d’octubre, de la seguretat social poden seguir percebent-la mentre compleixin els requisits exigits a la normativa vigent, o bé poden optar per sol·licitar la nova prestació per fill a càrrec establerta en aquesta Llei. En qualsevol cas, és incompatible la percepció d’ambdós prestacions.

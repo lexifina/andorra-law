@@ -1,0 +1,2 @@
+# Disposició addicional quarta. Intercanvi de dades
+El Govern, els comuns, la Caixa Andorrana de Seguretat Social i altres entitats de naturalesa pública, d’acord amb la Llei 15/2003, del 18 de desembre, qualificada de protecció de dades personals i les normes que la desenvolupen, es poden comunicar les dades quan sigui necessari per complir les seves finalitats i funcions i quan es faci en compliment d’una norma vigent, en els termes que estableix la Llei.
