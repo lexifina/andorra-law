@@ -1,0 +1,9 @@
+# Disposició transitòria tercera. Règim especial per a residents sense activitat lucrativa
+1. Els obligats tributaris que hagin obtingut una autorització de residència sense activitat lucrativa abans l’entrada en vigor d’aquesta Llei, d’acord amb els criteris previstos per la normativa reguladora corresponent, poden acollir-se al règim especial establert en aquesta disposició transitòria.
+2. Les persones esmentades a l’apartat anterior, que optin per l’aplicació del règim especial previst en aquesta disposició transitòria, no estaran subjectes a l’impost sobre la renda de les persones físiques durant el període de temps en que sigui d’aplicació aquest règim. A afectes d’establir la residència i domicili fiscal, es considerarà l’establert en l’article 8.
+3. No obstant, les persones acollides al règim especial previst en aquesta disposició transitòria han de satisfer un import anual de 30.000 euros en concepte de gravamen especial pels residents sense activitat lucrativa.
+4. Aquest règim transitori serà d’aplicació des del primer període impositiu en què sigui d’aplicació aquesta Llei, fins el període impositiu que finalitzi abans del dia 1 de gener del 2018.
+No obstant, les persones acollides a aquest règim especial podran renunciar a la seva aplicació passant a tributar per l’impost sobre la renda de les persones físiques, mitjançant la seva renúncia al règim especial.
+Aquesta renúncia tindrà efectes a partir del període impositiu següent a aquell en que es comuniqui. Reglamentàriament es determinaran els termes i condicions en que es farà la comunicació d’aquesta renuncia.
+5. Els procediments i formularis relatius a la gestió i liquidació del gravamen especial corresponent a aquest règim especial es determinaran reglamentàriament.
+6. Les persones acollides al règim especial previst en aquesta disposició transitòria no tindran dret a l’aplicació dels convenis per evitar la doble imposició que hagi signat el Principat d’Andorra.

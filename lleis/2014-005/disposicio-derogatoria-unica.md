@@ -1,0 +1,2 @@
+# Disposició derogatòria única. Impost sobre la renda de les activitats econòmiques
+Amb efectes des de l’1 de gener del 2015, queda derogada la Llei 96/2010, del 29 de desembre, de l’impost sobre la renda de les activitats econòmiques, així com les disposicions relatives a aquest impost contingudes en el Decret del 13 de juny del 2012 pel qual s’aprova el Reglament de l’impost sobre societats i de l’impost sobre la renda de les activitats econòmiques.

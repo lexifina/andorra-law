@@ -1,0 +1,2 @@
+# Disposició addicional tercera. Pagament fraccionat corresponent al primer període impositiu d’aplicació d’aquesta Llei
+Per determinar el pagament fraccionat que s’ha d’efectuar en el primer període impositiu en el qual sigui aplicable aquesta Llei, es pren la quota de liquidació o, si escau, la renda neta corresponent a l’impost sobre la renda d’activitats econòmiques de l’obligat tributari en relació amb l’últim exercici tancat abans de l’aplicació d’aquesta Llei.

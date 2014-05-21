@@ -1,0 +1,7 @@
+# Article 58
+Devolució d’ofici
+1. Quan, d’acord amb l’article 52, la quota diferencial resultant de l’autoliquidació sigui negativa, el ministeri encarregat de les finances, si escau, ha de practicar la liquidació provisional dins els tres mesos següents computats a partir del moment en què s’hagi presentat la declaració.
+2. Quan la quota diferencial resultant de l’autoliquidació o, si escau, de la liquidació provisional sigui negativa, el ministeri encarregat de les finances ha de tornar d’ofici aquesta quota, sense perjudici de la pràctica de les ulteriors liquidacions, provisionals o definitives, que escaiguin.
+3. Si la liquidació provisional no s’ha practicat en el termini que estableix l’apartat 1, el ministeri encarregat de les finances ha de tornar d’ofici la quota diferencial negativa resultant de l’autoliquidació, sense perjudici de la pràctica de les liquidacions provisionals o definitives ulteriors que puguin ser procedents.
+4. Si transcorre el termini que estableix l’apartat 1 sense que s’hagi ordenat el pagament de la devolució per causa imputable al ministeri encarregat de les finances, s’ha d’aplicar a la quantitat pendent de devolució l’interès legal que es preveu a la normativa reguladora de bases de l’ordenament tributari, des de l’endemà de la finalització del termini esmentat i fins a la data d’ordenació del seu pagament, sense que calgui que l’obligat tributari ho reclami.
+5. Reglamentàriament es determinen el procediment i la forma de pagament per a la realització de la devolució d’ofici a què es refereix aquest article.
