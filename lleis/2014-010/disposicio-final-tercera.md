@@ -1,0 +1,2 @@
+# Disposició final tercera
+S’encarrega al Govern que, en el termini màxim de trenta dies a partir de la data d’entrada en vigor d’aquesta Llei, publiqui al Butlletí Oficial del Principat d’Andorra, mitjançant el decret corresponent, el text refós de l’articulat de la Llei 11/2012, del 21 de juny, de l’impost general indirecte, modificada per la Llei 29/2012, del 18 d’octubre, i per la Llei 11/2013, del 23 de maig, amb la inclusió de totes les modificacions i addicions aportades mitjançant aquesta Llei.
