@@ -1,0 +1,10 @@
+# Article 2
+Modificació de l’article 10 de la Llei 3/2009, d’intercanvi d’informació en matèria fiscal amb sol·licitud prèvia
+Es modifica l’article 10 de la Llei 3/2009, d’intercanvi d’informació en matèria fiscal amb sol·licitud prèvia, que queda redactat com segueix:
+“Article 10
+Infracció i sancions
+Constitueix infracció a les disposicions d’aquesta Llei el fet que tota persona degudament requerida per l’autoritat competent vulneri el secret establert, desatengui el requeriment rebut o no aporti la informació sol·licitada. Aquesta infracció se sanciona de la manera següent:
+a) Multa pecuniària fixa de 300 euros, si no compareix o no facilita la documentació, les dades o la informació exigides en el termini establert en el primer requeriment notificat a aquest efecte.
+b) Multa pecuniària fixa de 1.500 euros, si no compareix o no facilita la documentació, les dades o la informació exigides en el termini establert en el segon requeriment notificat a aquest efecte.
+c) Multa pecuniària proporcional, d’un import màxim del dos per cent de la xifra de negoci del subjecte infractor de l’any natural anterior a l’any en què s’hagi produït la infracció, amb un mínim de 10.000 euros i un màxim de 100.000 euros, quan hagi vulnerat el secret establert, no hagi comparegut o no hagi facilitat la documentació, les dades o la informació exigides en el termini establert en el tercer requeriment notificat a aquest efecte. En el cas de persones que no duguin a terme activitats econòmiques, s’imposa una sanció per un import de 10.000 euros. No obstant això, si abans que s’acabi el procediment sancionador es compleix totalment el requeriment, la sanció corresponent és de 5.000 euros.
+La infracció i la sanció regulades en aquest article prescriuen al cap de tres anys comptats des del final del termini fixat per atendre el requeriment o des de la imposició de la sanció.”
