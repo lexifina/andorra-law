@@ -1,0 +1,8 @@
+# Article 46
+S’afegeix a la Llei 17/2008, del 3 d’octubre, de la seguretat social, l’article 139 bis, amb la redacció següent:
+“Article 139 bis. Participació de la persona beneficiària
+1. La participació de la persona beneficiària en les tarifes dels actes, productes i processos inclosos en la nomenclatura pot representar una quantitat fixa o bé un valor proporcional a les tarifes. En aquest darrer cas, la persona beneficiària, participa en els percentatges següents:
+a) Fins a un 10% de les tarifes per despeses derivades de l’atenció hospitalària.
+b) Fins a un 25% de les tarifes per despeses derivades d’altres actes, productes o processos d’atenció sanitària. No obstant, en el cas d’aquells nous productes o processos assistencials sanitaris o professionals sanitaris que progressivament es puguin desenvolupar i incloure dins el conjunt de les prestacions de la nomenclatura en el marc del desplegament del Model Andorrà d’Atenció Sanitària (MAAS), aquest percentatge podrà oscil·lar entre el 10% i el 50% de les tarifes, en funció del tipus de prestació i llurs possibles evolucions tecnològiques, les condicions de dispensació de l’atenció, el tipus de centre o establiment que proveeix els serveis i el grup de població afectat.
+2. La participació de la persona beneficiària en les diferents tarifes dels actes, productes i processos inclosos en la nomenclatura es poden modificar per la Llei del pressupost previ informe del Consell d’Administració de la Caixa Andorrana de Seguretat Social.
+3. Per la Llei del pressupost també es poden fixar límits màxims a la participació en la despesa en atenció hospitalària i en els altres actes, productes i serveis sanitaris de les persones beneficiàries que presentin recursos reduïts o patologies cròniques.”

@@ -1,0 +1,2 @@
+# Disposició transitòria segona
+Les sol·licituds de prestacions del règim de la seguretat social formulades abans de l’entrada en vigor de la Llei 17/2008, del 3 d’octubre, o de qualsevol de les seves modificacions, es regulen per la legislació vigent en el moment de formular la sol·licitud, excepte que la persona beneficiària consideri que la nova legislació és més favorable i en sol·liciti l’aplicació en un termini no superior a sis mesos des de l’entrada en vigor.

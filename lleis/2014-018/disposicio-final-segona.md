@@ -1,0 +1,2 @@
+# Disposició final segona
+S’encomana al Govern l’elaboració d’un text consolidat de l’articulat de la Llei 17/2008, del 3 d’octubre, de la seguretat social, amb totes les modificacions i addicions aportades per la Llei 25/2011, del 29 de desembre; per la Llei 9/2013, del 23 de maig, i per aquesta Llei. El text ha d’estar aprovat i publicat en un termini no superior a tres mesos des de la data de publicació d’aquesta Llei.

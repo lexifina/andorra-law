@@ -1,0 +1,2 @@
+# Disposició transitòria sisena
+A partir de l’entrada en vigor d’aquesta Llei i mentre no es modifiqui per la Llei del pressupost, les despeses derivades de prestacions efectuades o prescrites com a conseqüència d’un accident no laboral o d’una malaltia comuna s’abonen en els percentatges establerts per la Llei 25/2011, del 29 de desembre, de modificació de la Llei 17/2008, del 3 d’octubre, de la seguretat social i els reglaments que la desenvolupen.
