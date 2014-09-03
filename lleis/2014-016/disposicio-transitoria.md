@@ -1,0 +1,2 @@
+# Disposició transitòria
+El judici de revisió que es regula a l’article 7 pot ser promogut com a conseqüència de les decisions definitives del Tribunal Europeu de Drets Humans que constatin la vulneració d’un dret reconegut en la Convenció per a la salvaguarda dels drets humans i de les llibertats fonamentals i/o en algun dels seus protocols addicionals, sempre que formin part de l’ordenament jurídic andorrà, recaigudes a partir de l’entrada en vigor d’aquesta Llei.
