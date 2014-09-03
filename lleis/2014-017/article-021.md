@@ -1,0 +1,4 @@
+# Article 21
+Addició d’un apartat 5 a l’article 116
+S’introdueix un apartat 5 a l’article 116 de la Llei qualificada de modificació del Codi de procediment penal, modificat per les lleis 16/2008, del 3 d’octubre, i 19/2013, del 16 d’octubre, qualificades de modificació de la Llei qualificada de modificació del Codi de procediment penal, que queda redactat en els termes següents:
+“5. En matèria de falsedat de moneda el batlle instructor pot acordar el lliurament de part de la moneda intervinguda als organismes tècnics i les autoritats competents en la lluita contra la falsificació de l’euro, d’acord amb el que disposen els articles 36 i 42 de la Llei 17/2013, del 10 d’octubre, sobre la introducció de l’euro en el marc de l’Acord monetari signat entre el Principat d’Andorra i la Unió Europea, sempre que això no impedeixi l’ús i la conservació de la moneda lliurada com a objecte de prova en el marc del procés corresponent.”

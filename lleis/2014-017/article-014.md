@@ -1,0 +1,6 @@
+# Article 14
+Modificació de l’article 29
+Es modifica l’article 29 de la Llei qualificada de modificació del Codi de procediment penal, que queda redactat en els termes següents:
+“Article 29
+El Batlle a qui es faci lliurament d’una persona detinguda ha de dictar aute de processament per ordenar la presó provisional o deixar la detenció sense efecte dins les 24 hores a partir del moment en què la persona detinguda li ha estat lliurada, després d’audiència prèvia del Ministeri Fiscal i de l’advocat, que li han d’exposar els motius en favor o en contra de la presó o la llibertat provisional.
+Excepcionalment, en supòsits d’homicidi, assassinat, tortura, esclavatge, agressió o abús sexual, tràfic de drogues, segrest, tràfic d’infants, tràfic il·legal d’armes, proxenetisme, terrorisme, finançament del terrorisme, blanqueig de diners o valors, associació per atemptar contra el Principat o contra l’ordre constitucional i delictes contra la comunitat internacional, el batlle pot prorrogar, mitjançant aute motivat, el termini esmentat al paràgraf anterior fins a 72 hores. Durant aquest termini prorrogat, la persona detinguda és ingressada a les dependències del Centre Penitenciari, en una unitat separada.”

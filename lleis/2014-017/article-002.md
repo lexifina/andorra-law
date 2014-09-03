@@ -1,0 +1,12 @@
+# Article 2
+Modificació de l’article 3
+Es modifica l’article 3 de la Llei qualificada de modificació del Codi de procediment penal, que queda redactat en els termes següents:
+“Article 3
+1. La Sala Penal del Tribunal Superior de Justícia d’Andorra coneix del recurs d’apel·lació contra les resolucions del Tribunal de Corts dictades en primera instància, així com del recurs d’apel·lació contra les resolucions dictades pel batlle instructor en fase d’execució de les ordenances penals, en els casos previstos per la llei.
+Igualment coneix, en judici oral i públic, de totes les causes seguides per infraccions penals comeses per membres del Consell General, de la Sindicatura i del Govern, i per batlles o magistrats, i executa les resolucions judicials que hagin recaigut sobre aquestes infraccions.
+2. El Ple del Tribunal Superior de Justícia d’Andorra, exclosos els magistrats adscrits a la Sala Penal, coneix del recurs d’apel·lació contra les resolucions judicials del Tribunal Superior de Justícia d’Andorra dictades en primera instància en les causes esmentades al segon paràgraf de l’apartat anterior.
+3. El Tribunal de Corts coneix, en composició col·legiada, en judici oral i públic, de totes les causes seguides per delictes majors i menors, i executa les resolucions judicials que ha pronunciat sobre aquests delictes. També coneix, en composició unipersonal, en judici oral i públic, de totes les causes seguides per contravencions penals, i executa les resolucions judicials que ha pronunciat en aquesta matèria.
+Igualment coneix, de forma unipersonal, del recurs d’apel·lació contra les resolucions dictades pel batlle instructor, en els casos i les formes previstos per la llei.
+4. El Ple del Tribunal de Corts, salvat el cas de delicte flagrant, és competent per acordar la detenció i el processament dels membres del Consell General, de la Sindicatura i del Govern, si són considerats responsables penalment durant la durada del seu mandat, així com dels batlles i magistrats, sense perjudici que la instrucció de la causa sigui a càrrec d’un magistrat del Tribunal.
+5. La instrucció de les causes, per a tota classe d’infraccions, la porta a terme un batlle, sense perjudici del que preveu el paràgraf segon de l’article 48 de la Llei qualificada de la Justícia.
+El Batlle instructor també és competent per conèixer, pel procediment d’ordenança penal, de les infraccions ressenyades a l’article 163 d’aquest Codi, així com per procedir a executar-les.”

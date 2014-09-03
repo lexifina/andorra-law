@@ -1,0 +1,2 @@
+# Disposició final segona
+S’encomana al Govern que en el termini màxim de tres mesos des de l’entrada en vigor d’aquesta Llei publiqui en el Butlletí Oficial del Principat d’Andorra el text consolidat de la Llei qualificada de modificació del Codi de procediment penal, del 10 de desembre de 1998, i el text consolidat de la Llei qualificada de la jurisdicció de menors, de modificació parcial del Codi penal i de la Llei qualificada de la Justícia, del 22 d’abril de 1999, que incloguin les modificacions introduïdes fins ara en aquestes dues lleis.

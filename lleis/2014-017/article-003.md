@@ -1,0 +1,6 @@
+# Article 3
+Modificació de l’article 4
+Es modifica l’article 4 de la Llei qualificada de modificació del Codi de procediment penal, que queda redactat en els termes següents:
+“Article 4
+Els tribunals penals són competents per resoldre les qüestions civils i administratives prejudicials suscitades per raó dels fets delictius quan apareguin íntimament lligades al fet punible de manera que sigui impossible la seva separació. El tribunal resol sempre aplicant les normes civils o administratives a les qüestions prejudicials.
+Malgrat el que disposa el paràgraf anterior, si la qüestió prejudicial és determinant de la culpabilitat o de la innocència, o per constatar l’existència del delicte, el Tribunal Penal o, si escau, el batlle instructor, ha de suspendre el procediment fins que la jurisdicció competent resolgui la qüestió, si ja s’ha interposat. Si no s’ha interposat, el tribunal o el batlle instructor, segons escaigui, atorga a les parts el termini d’un mes per fer-ho davant la jurisdicció competent. Transcorregut aquest termini, que no es pot atorgar més d’una vegada en el marc del mateix procediment, i sense que cap de les parts acrediti haver-ho fet, s’aixeca la suspensió i continua el procediment, i el Tribunal Penal resol sobre la mateixa qüestió.”

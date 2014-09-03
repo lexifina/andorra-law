@@ -1,0 +1,9 @@
+# Article 8
+Modificació de l’article 18
+Es modifica l’article 18 de la Llei qualificada de modificació del Codi de procediment penal, que queda redactat en els termes següents:
+“Article 18
+L’acció civil pot ser exercida per tota persona que hagi sofert danys i perjudicis causats pel delicte o la contravenció penal. Pot intentar-se conjuntament amb la penal o, separadament, en judici civil. En aquest darrer cas no es pot exercir l’acció civil fins que hagi estat resolta l’acció penal per sentència ferma o es dicti aute de sobreseïment definitiu o provisional.
+La constitució en actor civil pot produir-se en qualsevol moment del procediment fins al darrer dia del termini concedit al Ministeri Fiscal per presentar l’escrit de qualificació jurídica.
+Tota persona que exerceixi l’acció civil ha de manifestar-ho, i designar advocat i domicili al Principat on se li puguin fer les notificacions degudes.
+En la primera declaració s’assabenta el perjudicat del contingut d’aquest article.
+El Ministeri Fiscal ha d’exercir també l’acció civil juntament amb la penal sempre que el perjudicat no s’hagi constituït en actor civil o hagi fet reserva de la seva reclamació civil, n’hagi desistit o hi hagi renunciat expressament.”

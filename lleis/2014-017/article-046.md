@@ -1,0 +1,8 @@
+# Article 46
+Modificació de l’article 210
+Es modifica l’article 210 de la Llei qualificada de modificació del Codi de procediment penal, que queda redactat en els termes següents:
+“Article 210
+El condemnat que, en període d’execució de sentència o ordenança penal, i un cop aplicats els beneficis penitenciaris a què fa referència l’article anterior, hagi complert almenys la meitat de la pena de presó ferma, pot sol·licitar la substitució de la resta de la pena de presó que quedi per complir per la pena d’arrest domiciliari amb control monitoritzat, sempre que la presó no hagi estat acordada per raó de delictes majors d’evasió o de comportament sexual, o relatius a la seguretat interior del Principat, a la moneda falsa, al blanqueig de diners o valors, a la salut pública, o a la vida, la integritat i la llibertat de les persones, i sempre que la persona interessada sigui resident al Principat i no hagi estat expulsada.
+Contra la decisió del tribunal o el batlle competent per executar la sentència o l’ordenança penal, d’acordar o denegar la petició, no s’hi pot interposar recurs.
+En cas que es constati una infracció a l’arrest domiciliari amb control monitoritzat, el tribunal o el batlle competent per executar la sentència o l’ordenança penal, d’ofici o a instància del Ministeri Fiscal, pot acordar la revocació parcial o total de la mesura, després d’audiència prèvia de les parts. Tanmateix, pot acordar immediatament la revocació provisional. En aquest cas ha de resoldre sobre la revocació definitiva en el termini màxim d’un mes, si el condemnat ha estat empresonat.
+Contra la decisió adoptada no es pot interposar recurs.”

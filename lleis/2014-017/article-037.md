@@ -1,0 +1,8 @@
+# Article 37
+Modificació de l’article 186
+Es modifica l’article 186 de la Llei qualificada de modificació del Codi de procediment penal, que queda redactat en els termes següents:
+“Article 186
+Les notificacions s’efectuen mitjançant el lliurament d’una còpia o una fotocòpia autèntica de la resolució, on han de constar el dia, l’hora i el lloc en què es practiqui la diligència esmentada, amb la signatura de la persona que rep la notificació, sota la fe del secretari. Quan la notificació s’efectuï al domicili de les parts, el secretari pot delegar el nunci per portar-la a la pràctica.
+La notificació a persones residents a l’estranger es pot efectuar mitjançant la comissió rogatòria corresponent. També és vàlida la notificació si s’ha efectuat per carta certificada amb acusament de recepció per part de la mateixa persona interessada si les autoritats del país de residència no s’oposen a aquesta forma de notificació, sense perjudici del que disposin els convenis internacionals sobre la matèria.
+La notificació es pot efectuar al domicili de l’advocat de la persona interessada, si aquesta darrera ha procedit prèviament a designar-lo a aquest efecte, llevat que l’advocat renunciï posteriorment a la representació i la defensa de la persona interessada. Si l’advocat ha estat designat pel torn d’ofici, pot sol·licitar al batlle o el tribunal competent que efectuï la notificació a la persona interessada pels altres mitjans establerts en aquest article, si al·lega la impossibilitat manifesta de posar en coneixement de la persona interessada el fet de la notificació i el contingut de la resolució notificada.
+La notificació a persones en parador desconegut pot efectuar-se igualment mitjançant edicte.”
