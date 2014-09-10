@@ -1,0 +1,3 @@
+# Article 7
+S’addiciona un nou apartat 5 a l’article 14 de la Llei 9/2003, del 12 de juny, del patrimoni cultural d’Andorra, amb el redactat següent:
+“5. Les autoritzacions de les obres a què fan referència els apartats 1, 2 i 3 del present article s’entenen atorgades, mitjançant silenci administratiu positiu, si en el termini de tres mesos no es deneguen expressament per l’administració competent, de conformitat amb el règim i les condicions establertes a la legislació urbanística vigent. L’estimació tàcita només serà admissible si la sol·licitud inclou la documentació pertinent i ha estat presentada davant del comú i davant del ministeri titular de cultura.”

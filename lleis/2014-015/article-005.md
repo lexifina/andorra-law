@@ -1,0 +1,4 @@
+# Article 5
+Es modifica l’apartat segon de l’article 13 de la Llei 9/2003, del 12 de juny, del patrimoni cultural d’Andorra, que queda redactat de la manera següent:
+“2. El Govern, mitjançant el decret a què fa referència l’article 12.2, pot establir o proposar, segons s’escaigui, limitacions en l’edificabilitat dels entorns de protecció dels béns immobles esmentats en l’article 12.1.b), sempre que estiguin justificades per la necessitat de preservar els elements a què fa referència l’apartat 1 del present article.
+En tot cas, es permeten les obres que siguin exigides per la conservació, la seguretat, la salubritat i l’adequació a la Llei d’accessibilitat i, si s’escau, als requisits mínims d’habitabilitat. Aquestes limitacions seran motivades i es preferiran les regles menys restrictives per a la llibertat individual”.

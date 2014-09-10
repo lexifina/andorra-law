@@ -1,0 +1,6 @@
+# Article 9
+Es modifica l’article 16 de la Llei 9/2003, del 12 de juny, del patrimoni cultural d’Andorra, que queda redactat de la manera següent:
+“Article 16
+Instruments de protecció. Ús i gestió
+1. La declaració d’un monument històric o d’un paisatge cultural comporta l’obligació per part de l’administració o administracions afectades, d’elaborar un instrument de protecció, ús i gestió on es precisin els criteris que han de regir les intervencions sobre el bé d’interès cultural i sobre la zona d’acompanyament (zona 1) de l’entorn de protecció i, si aquestes administracions així ho acorden, també els criteris que han de regir les intervencions sobre la zona preventiva (zona 2). L’aprovació definitiva de l’instrument, que haurà de produir-se en el termini màxim de divuit mesos a comptar de la declaració, correspon a l’òrgan que determini la legislació, i requereix necessàriament l’informe favorable previ del Govern.
+2. Si en el moment de la declaració ja existeix un instrument de protecció, ús i gestió que afecta l’àrea declarada, el Govern, ha de determinar si aquest instrument és suficient per produir els efectes previstos a l’article 14.3, o si ha ser modificat o complementat per adaptar-se als criteris del bé d’interès cultural i de la zona d’acompanyament (zona 1) de l’entorn de protecció.”

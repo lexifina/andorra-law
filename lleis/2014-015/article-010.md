@@ -1,0 +1,8 @@
+# Article 10
+Es modifica la disposició transitòria de la Llei 9/2003, del 12 de juny, del patrimoni cultural d’Andorra, al seu torn modificada per la disposició addicional única de la Llei 16/2012, del 31 de juliol, de modificació de la Llei general d’ordenació del territori i urbanisme del 29 de desembre del 2000, que queda redactada de la manera següent:
+“Disposició transitòria
+1. Mentre no hagin estat delimitats expressament, es consideren entorns de protecció dels monuments declarats en virtut de la disposició addicional primera els espais compresos dins d’un radi de vint metres comptats des del perímetre exterior del monument.
+2. Mentre no es dictin els decrets de delimitació corresponents, no es pot fer cap construcció de nova planta, ni cap ampliació de volumetria en els entorns definits en l’apartat 1.
+Això no obstant, hi són permeses les obres de rehabilitació, de reforma integral dels edificis, sempre que no suposin un augment de la volumetria; i també les de conservació i les que siguin exigides per la seguretat, la salubritat i l’adequació a la Llei d’accessibilitat.
+3. En el supòsit previst en l’apartat anterior, l’informe favorable dels serveis del Patrimoni Cultural es considera atorgat si, en el termini de dos (2) mesos no s’emet un informe desfavorable degudament motivat. En aquest cas, els serveis del Patrimoni Cultural han d’identificar, de forma detallada, els elements objecte del projecte que han de ser objecte de modificació.
+4. Les intervencions sobre els béns immobles inventariats que es trobin dins dels entorns definits en l’apartat 1 han de seguir el procediment previst a l’article 18.”
