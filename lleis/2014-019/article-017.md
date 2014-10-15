@@ -1,0 +1,5 @@
+# Article 17
+Principi de legalitat d’actuació
+1. Els partits polítics exerciran lliurement les seves activitats, amb ple respecte de la Constitució i de les lleis.
+L’actuació contra la Constitució i les lleis és causa de suspensió de les activitats del partit i de la seva dissolució, en els termes del capítol tercer.
+2. Els partits podran establir regulacions i protocols interns d’actuació dels òrgans del partit i dels seus membres, així com procediments interns per la seva garantia i control, amb la finalitat d’assegurar el compliment estricte de la legalitat i dels propis estatuts. L’existència d’aquestes regulacions i protocols, així com les garanties establertes pel seu compliment, serà tinguda en compte adequadament als efectes de la possible imputació al partit de les accions il·legals que eventualment puguin cometre els seus membres.
