@@ -1,0 +1,2 @@
+# Disposició transitòria primera
+El Consell Superior de la Justícia ha de reconèixer el grau segon als batlles i fiscals adjunts que en el moment de l’entrada en vigor d’aquesta Llei estiguin en el seu segon mandat, i el grau tercer als batlles i fiscals adjunts que estiguin en el seu mandat quart o superior. Igualment, ha de reconèixer el grau superior als magistrats que estiguin en el seu mandat segon o superior.

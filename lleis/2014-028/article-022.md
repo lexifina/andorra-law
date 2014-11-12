@@ -1,0 +1,6 @@
+# Article 22
+Modificació de la lletra d) del segon paràgraf i addició d’un tercer paràgraf a l’apartat 3 de l’article 39
+Es modifica la lletra d) del segon paràgraf i s’introdueix un tercer paràgraf a l’apartat 3 de l’article 39 de la Llei qualificada de la Justícia, que queden redactats en els termes següents:
+“d) Els litigis sobre responsabilitat patrimonial de l’Administració pública i del personal al seu servei, sigui quina sigui la naturalesa de l’activitat que realitzen i el tipus de relació, estatutària o contractual, que els uneix. La jurisdicció administrativa és, en tot cas, l’única competent per enjudiciar les reclamacions que pretenguin la declaració de la responsabilitat patrimonial de l’Administració pública, encara que s’adrecin, únicament o conjuntament, contra la companyia asseguradora, i també quan s’adrecin conjuntament contra eventuals tercers responsables, sense perjudici, en aquest darrer cas, de l’aplica­ció de les normes substantives sobre responsabilitat que corresponen a cadascun dels demandats.”
+(…)
+“La jurisdicció administrativa pot conèixer i resoldre les qüestions prejudicials o incidentals civils directament relacionades amb el judici que tingui plantejat; tot i això, les decisions adoptades sobre aquestes qüestions no tenen efecte més enllà del judici esmentat i poden ser revisades per la jurisdicció competent.”

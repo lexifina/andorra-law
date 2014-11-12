@@ -1,0 +1,7 @@
+# Disposició final tercera
+1. Es modifica l’apartat 10 de l’article 33 de la Llei general de les finances públiques, del 19 de desembre de 1996, que queda redactat en els termes següents:
+“10. Els pagaments corresponents a les dotacions pressupostàries del Tribunal Constitucional, del Consell General i del Consell Superior de la Justícia es lliuren en ferm per quartes parts, dintre els primers quinze dies de cada trimestre natural, a la Presidència del Tribunal, a la Sindicatura i a la Presidència del Consell Superior, respectivament, per ser ingressats en els comptes que aquests òrgans designin.”
+2. Es modifica l’apartat 1 de l’article 55 de la Llei general de les finances públiques, del 19 de desembre de 1996, que queda redactat en els termes següents:
+“1. Constitueixen el tresor públic els actius monetaris i financers del Tribunal Constitucional, del Consell General, del Consell Superior de la Justícia, de l’Administració general i de les entitats parapúbliques o de dret públic.”
+3. Es modifica l’apartat 1 de l’article 56 de la Llei general de les finances públiques, del 19 de desembre de 1996, que queda redactat en els termes següents:
+“1. L’organització del tresor públic correspon al Govern, a proposta del ministre encarregat de les finances. Això no obstant, el Tribunal Constitucional, el Consell General i el Consell Superior de la Justícia disposen de les seves tresoreries pròpies, bé que coordinades amb el ministeri encarregat de les finances.”

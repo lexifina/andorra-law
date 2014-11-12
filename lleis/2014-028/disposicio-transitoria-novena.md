@@ -1,0 +1,2 @@
+# Disposició transitòria novena
+Els processos penals que s’instrueixin per les infraccions penals ressenyades a l’article 33 d’aquesta Llei i que tinguin atribuïts els batlles adscrits a la Secció d’Instrucció romanen atribuïts o s’atribueixen novament pel torn que correspongui, segons el cas, als batlles adscrits a cadascuna de les noves seccions d’Instrucció, a partir de l’entrada en vigor de l’article 33 esmentat.

@@ -1,0 +1,3 @@
+# Disposició transitòria cinquena
+Els magistrats que s’hagin jubilat en complir setanta anys i que no n’hagin complert setanta-cinc en el moment de l’entrada en vigor d’aquesta Llei poden sol·licitar al Consell Superior de la Justícia el nomenament com a magistrats emèrits, en els termes que estableix l’article 48.
+El Consell Superior de la Justícia pot acordar que els batlles i els magistrats que s’hagin jubilat en complir setanta anys en els sis mesos anteriors a l’entrada en vigor d’aquesta Llei puguin reincorporar-se a la plaça que ocupaven, sempre i quan aquesta plaça no hagi estat coberta definitivament entretant, com a màxim fins al final del mandat interromput.

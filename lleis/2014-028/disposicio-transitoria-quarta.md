@@ -1,0 +1,4 @@
+# Disposició transitòria quarta
+Els presidents designats del Tribunal de Batlles, del Tribunal de Corts i del Tribunal Superior, i el fiscal general nomenat a la data d’entrada en vigor d’aquesta Llei, poden continuar en el càrrec fins al final del seu mandat de batlle o magistrat, o fins al final del període de sis anys per al qual han estat nomenats, i poden igualment optar per ser renovats en els càrrecs respectius de presidents o de fiscal general durant, com a màxim, un segon mandat o període de sis anys.
+El procediment per a la designació dels presidents de Sala del Tribunal Superior que estableix l’article 14 és aplicable a partir del final del càrrec anyal i rotatori dels presidents designats per a aquest càrrec a la data de l’entrada en vigor d’aquesta Llei.
+El càrrec de vicepresident del Tribunal de Corts es manté fins que s’exhaureixi el mandat del vicepresident que estigui designat per a aquest càrrec en el moment de l’entrada en vigor d’aquesta Llei.

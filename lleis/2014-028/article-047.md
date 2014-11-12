@@ -1,0 +1,17 @@
+# Article 47
+Addició d’un article 66 ter
+S’introdueix un nou article 66 ter a la Llei qualificada de la Justícia, dins el capítol primer del títol V, que queda redactat en els termes següents:
+“Article 66 ter
+1. L’ingrés a la categoria de magistrat es produeix mitjançant un concurs de promoció entre els batlles i fiscals o un concurs obert entre juristes de competència tècnica reconeguda.
+2. Quan es produeixi una vacant o es creï una plaça de magistrat, després d’aplicar el procediment establert als articles 54.4 o 58.6, el Consell Superior de la Justícia convoca un concurs per cobrir-la. De cada quatre places, tres són cobertes mitjançant un concurs de promoció entre batlles i fiscals i una mitjançant un concurs obert entre juristes.
+En el cas que en un dels torns quedi deserta alguna plaça, aquesta es convoca per l’altre torn. La plaça següent es convoca pel torn que correspongui segons la proporció establerta en el paràgraf anterior.
+3. El Consell Superior de la Justícia actua com a comissió de selecció i pot sol·licitar l’assessorament tècnic extern que consideri necessari.
+4. Poden participar en el concurs de promoció a magistrat els batlles i els membres del Ministeri Fiscal amb un mínim de dos mandats acomplerts.
+El Consell Superior de la Justícia valora els mèrits dels candidats segons el barem publicat a la convocatòria, que inclou la formació acadèmica, l’experiència en l’exercici de càrrecs jurisdiccionals, l’experiència professional externa, l’assistència a cursos i programes de formació judicial, l’activitat docent, les publicacions, les ponències i les conferències en l’àmbit jurídic, el coneixement d’idiomes i els altres mèrits que el Consell consideri convenients, atorgant a cada mèrit una ponderació raonable. A aquest efecte, els candidats presenten, juntament amb el seu currículum, un informe sobre l’activitat judicial o fiscal desenvolupada fins al moment, d’acord amb l’estructura que determini el Consell.
+El Consell Superior de la Justícia manté una entrevista amb els candidats. Les bases de la convocatòria indiquen les qüestions que s’hi tractaran i la seva ponderació en la valoració global dels candidats.
+El Consell Superior de la Justícia pot declarar desert el concurs. En aquest cas, es procedeix d’acord amb el paràgraf segon de l’apartat 2.
+5. Poden participar en el concurs obert de juristes els secretaris judicials, els advocats i els altres titulats en l’àmbit del dret que hagin exercit de forma efectiva professions de caràcter jurídic almenys durant quinze anys, si la plaça pertany al Tribunal de Corts, o vint anys si la plaça pertany al Tribunal Superior.
+El Consell Superior de la Justícia valora els mèrits dels candidats segons el barem publicat a la convocatòria, que inclou el coneixement del dret andorrà, la formació acadèmica, l’experiència professional, l’activitat docent, les publicacions, les ponències, les conferències en l’àmbit jurídic, el coneixement d’idiomes i els altres mèrits que el Consell consideri convenients, atorgant a cada mèrit una ponderació raonable.
+Les bases del concurs estableixen la realització d’una entrevista amb els candidats, i indiquen les qüestions que s’hi tractaran i la seva ponderació en la valoració global dels candidats.
+En cas d’igualtat de mèrits entre els candidats, tenen preferència els de nacionalitat andorrana.
+El Consell Superior de la Justícia pot declarar desert el concurs. En aquest cas, es procedeix d’acord amb el paràgraf segon de l’apartat 2.”

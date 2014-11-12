@@ -1,0 +1,11 @@
+# Article 50
+Modificació de l’article 68
+Es modifica l’article 68 de la Llei qualificada de la Justícia, que queda redactat en els termes següents:
+“Article 68
+1. Els batlles i els magistrats cessen en el càrrec per arribar al final del període pel qual han estat nomenats; per la seva renúncia, que ha de ser comunicada amb sis mesos d’antelació com a mínim; per sanció disciplinària de separació del càrrec; per imposició de pena, principal o complementària, d’inhabilitació per a l’exercici de càrrec públic; per incórrer en alguna causa d’incompatibilitat o d’incapacitat, i per jubilació.
+2. La jubilació per edat opera d’ofici quan els batlles i els magistrats arriben als setanta anys. Això no obstant, si en complir aquesta edat el batlle o el magistrat encara no ha finalitzat el mandat, el Consell Superior de la Justícia pot acordar, si ho sol·licita el batlle o el magistrat, que continuï en el càrrec fins al final del mandat, i com a màxim fins que arribi a l’edat de setanta-cinc anys.
+Els batlles i els magistrats poden sol·licitar la jubilació voluntària en complir els seixanta-cinc anys.
+S’aplica als batlles i magistrats el règim general de la funció pública en matèria de jubilació, amb les especialitats d’aquesta Llei.
+3. El Consell Superior de la Justícia acorda la renovació del mandat dels batlles i els magistrats, llevat que la persona interessada presenti la renúncia, la qual cosa ha de comunicar amb sis mesos d’antelació com a mínim, o que hagi estat condemnada penalment per la comissió d’un delicte dolós, sense perjudici de les responsabilitats que se’n puguin derivar.
+El Consell Superior de la Justícia pot acordar la no renovació del mandat dels batlles i els magistrats si la persona interessada ha estat sancionada disciplinàriament per la comissió de dos faltes greus o una falta molt greu sense separació del càrrec, mentre les sancions imposades no hagin prescrit i no s’hagin cancel·lat d’ofici les anotacions d’acord amb l’article 85.3, sense perjudici de les responsabilitats que se’n puguin derivar.
+L’acord de no renovar el mandat es pren mitjançant resolució motivada, amb audiència prèvia de la persona interessada. Contra la resolució del Consell Superior de la Justícia es pot interposar recurs davant el Ple del Tribunal Superior.”
