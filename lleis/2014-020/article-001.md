@@ -1,0 +1,5 @@
+## Capítol primer. Disposicions generals
+# Article 1
+Objecte
+1. L’objecte d’aquesta Llei és regular els operadors que desenvolupen la seva activitat econòmica en un espai digital, i la contractació electrònica, en particular, quant a les comunicacions comercials electròniques, el procés d’informació prèvia, de formació i perfecció dels contractes, i les condicions per a la seva validesa i eficàcia.
+2. La regulació continguda en aquesta Llei s’ha d’entendre sense perjudici de la subjecció de tals operadors a la normativa que els resulti aplicable en l’exercici de la seva activitat específica; a les disposicions generals sobre obligacions i contractes que resultin aplicables a la contractació electrònica; a la normativa de serveis de confiança electrònica; a la normativa de defensa de la competència, competència deslleial i protecció del consumidor; a la normativa de comerç; a la normativa de protecció de dades personals i; en general, a qualsevol altra normativa que pogués ser aplicable.

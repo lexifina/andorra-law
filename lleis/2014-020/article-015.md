@@ -1,0 +1,5 @@
+# Article 15
+Obligació d’actuar
+1. Sense perjudici del compliment de les mesures que ordenés un òrgan competent, en qualsevol dels casos previstos en l’article 14, els prestadors de serveis d’intermediació que tinguin coneixement efectiu de la il·licitud han d’actuar amb diligència per notificar al destinatari afectat la comunicació rebuda, i en cas que ho hagin establert voluntàriament, aplicar mesures de retirada i, si escau, procedir a la reposició.
+A aquests efectes, els prestadors de serveis d’intermediació que s’hagin obligat a aplicar voluntàriament un procediment de notificació, retirada i reposició de la informació i dels continguts o de l’activitat han d’informar els destinataris de les condicions en què operen.
+2. El prestador de serveis d’intermediació només és responsable davant del notificant i del destinatari afectat pels danys que pogués causar si ha actuat de manera negligent en relació amb la notificació, la retirada o la reposició a la qual fa referència l’apartat anterior.

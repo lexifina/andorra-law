@@ -1,0 +1,7 @@
+# Article 3
+Àmbit d’aplicació
+1. Aquesta Llei és aplicable als operadors establerts al Principat d’Andorra i a les activitats que desenvolupin.
+S’entén que un operador està establert al Principat d’Andorra quan el lloc en què estigui efectivament centralitzada la gestió administrativa i la direcció dels seus negocis es trobi al territori del Principat. A aquest efecte, es presumeix, llevat que es provi el contrari, que la gestió administrativa i la direcció dels negocis d’un operador estan centralitzades al territori del Principat d’Andorra quan l’operador esmentat té la seva residència habitual o el seu domicili registral al Principat, o quan s’hagi inscrit en el Registre de Societats o en un altre registre públic del Principat d’Andorra en què sigui necessària la inscripció per adquirir la personalitat jurídica.
+2. Així mateix, aquesta Llei és aplicable als operadors residents o domiciliats en un altre estat sempre que facin les seves activitats a través d’un establiment permanent situat al Principat d’Andorra.
+Es considera que un operador actua mitjançant un establiment permanent situat al Principat d’Andorra, quan aquest operador disposa, de forma continuada o habitual, d’instal·lacions o de llocs de treball en què realitza tota o una part de la seva activitat.
+3. La utilització de mitjans tecnològics situats al Principat d’Andorra per prestar o accedir a l’activitat desenvolupada no serveix, per si sola, com a criteri per determinar l’establiment al Principat d’Andorra de l’operador.

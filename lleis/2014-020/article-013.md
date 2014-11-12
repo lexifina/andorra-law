@@ -1,0 +1,4 @@
+# Article 13
+Propietat intel·lectual
+1. Els prestadors de serveis d’intermediació no són responsables, de conformitat amb la normativa sobre propietat intel·lectual, de la reproducció que implica l’emmagatzemament automàtic, provisional i temporal de dades proporcionades per un destinatari, amb l’única finalitat de fer més eficaç la transmissió ulterior de tals dades a altres destinataris que ho sol·licitin.
+2. El servei d’intermediació estrictament tècnic adreçat a facilitar la localització d’informació o de continguts, d’acord amb una consulta específica del destinatari, no implica, per si sol, la infracció dels drets de propietat intel·lectual en relació amb la informació o els continguts referits o presentats de manera raonable i suficient amb l’única finalitat de ser localitzats pel destinatari.

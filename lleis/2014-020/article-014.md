@@ -1,0 +1,10 @@
+# Article 14
+Coneixement efectiu de la il·licitud
+Als efectes del que preveu l’article 11, s’entén que els prestadors de serveis d’intermediació tenen coneixement efectiu d’una il·licitud en qualsevol dels supòsits següents:
+a) Quan un òrgan competent hagi declarat la il·licitud de la informació, dels continguts o de l’activitat de destinataris als quals faciliten la prestació, n’hagi ordenat la retirada o hagi impossibilitat l’accés a aquesta informació, continguts o activitat, o quan aquest òrgan competent hagi declarat l’existència d’una lesió provinent d’aquesta informació, continguts o activitat i el prestador de serveis d’intermediació conegui la resolució corresponent de l’òrgan competent.
+b) Quan el prestador de serveis d’intermediació tingui coneixement de la il·licitud per motiu d’un procediment de notificació, retirada i reposició de la informació i dels continguts o de l’activitat que el prestador de serveis d’intermediació s’hagi obligat a aplicar voluntàriament. S’entén que el prestador de serveis d’intermediació té coneixement de la il·licitud si, en virtut de tal procediment:
+- S’identifica degudament el titular dels drets infringits.
+- S’identifiquen degudament tant els drets la infracció dels quals s’al·legui com la suposada infracció comesa.
+- S’identifica suficientment la informació, el contingut o l’activitat infractores i la seva localització.
+- Es proporcionen les dades que permetin identificar, en tot el que sigui possible, el titular de la informació, del contingut o de l’activitat infractora.
+c) Quan, en virtut d’un acord previ amb el destinatari, el prestador de serveis d’intermediació controla la licitud de la informació, dels continguts o de l’activitat d’altres destinataris que utilitzen el servei, de conformitat amb les instruccions i els paràmetres proporcionats prèviament pel destinatari titular dels drets infringits. En aquests supòsits, la responsabilitat del prestador de serveis d’intermediació davant del destinatari titular dels drets es regeix pel que prevegi l’acord.
