@@ -1,0 +1,2 @@
+# Disposició transitòria primera
+Les persones que a l’entrada en vigor de la present Llei perceben un complement de pensió de jubilació obligatòria o una prestació de jubilació voluntària a càrrec del Govern per raó de la seva condició de funcionaris durant la seva etapa professional activa, continuaran percebent aquestes prestacions d’acord amb el règim de previsió vigent fins a l’entrada en vigor d’aquesta Llei.

@@ -1,0 +1,3 @@
+# Disposició final cinquena
+1. S’encomana al Govern que, prèvia la realització dels estudis i valoracions escaients, procedeixi a l’elaboració, en el termini màxim d’un any a partir de l’entrada en vigor d’aquesta Llei, d’un informe sobre la conveniència de mantenir, derogar o modificar les mesures objecte de la Llei 2/2012, de 15 de març, de mesures de contenció de la despesa pública en matèria de personal, en atenció al caràcter excepcional i provisional que va justificar la decisió d’implementació d’aquelles mesures.
+2. S’encomana al Govern per a què promogui la reforma integral de la funció pública en el termini màxim de dos anys a partir de l’entrada en vigor d’aquesta Llei.

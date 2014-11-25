@@ -1,0 +1,8 @@
+## Títol I. Objecte, rang, denominació, naturalesa, àmbit d’aplicació i característiques
+# Article 1. Objecte, rang, denominació, naturalesa i durada
+1. La present Llei té per objecte la creació i la regulació del pla de pensions de la funció pública. En la funció pública, als efectes d’aquesta Llei, s’hi entenen compresos el conjunt de funcionaris i agents de l’Administració de caràcter indefinit de l’Administració general.
+2. Aquesta Llei té globalment el rang de llei qualificada atesa la seva incidència, directa i indirecta, en el capítol II del títol II de la Llei de la funció pública i per comportar la modificació de les previsions de jubilació del Cos Especial de Policia, regulades actualment per llei qualificada.
+3. Com a pla de pensions, el pla de pensions de la funció pública defineix el dret de les persones a favor de les quals es constitueix a percebre prestacions per jubilació obligatòria, defunció o invalidesa, les obligacions de contribució a l’esmentat pla; i, en la mesura permesa per aquesta Llei, les regles de constitució i funcionament del patrimoni al qual ha d’afectar-se el compliment dels drets que reconeix el pla.
+Així mateix, el pla de pensions queda instrumentat mitjançant un sistema financer de capitalització individual que permet establir una equivalència entre les aportacions efectuades i les prestacions futures dels beneficiaris en base a la rendibilitat de les inversions realitzades.
+4. Les prestacions que reconeix el pla de pensions de la funció pública no tenen la consideració de pensions públiques i són independents i compatibles amb les previstes pel règim públic de seguretat social.
+5. La durada del pla de pensions de la funció pública és indefinida.

@@ -1,0 +1,5 @@
+# Article 18
+Altres disposicions sobre el funcionament i control del fons de pensions
+1. Dins del primer trimestre de cada any natural, l’entitat gestora ha de presentar a aprovació de la comissió de seguiment del pla de pensions el balanç, compte de resultats, memòria i l’informe de gestió del fons de pensions de la funció pública corresponent a l’any natural anterior.
+2. El període de determinació dels resultats del fons de pensions s’ajusta a l’any natural. Els resultats són la conseqüència de deduir de la totalitat dels ingressos, despeses, increments i disminucions patrimonials del fons de pensions, les comissions de l’entitat gestora, de l’entitat dipositària, del funcionament de la comissió de seguiment del pla de pensions imputables al mateix i les restants despeses i provisions que hagin de ser assumides pel fons.
+3. Dins del mateix termini de l’apartat 1 la documentació del fons de pensions ha de ser auditada per experts independents, els informes dels quals hauran d’abastar els aspectes comptables, financers i actuarials, incloent un pronunciament exprés respecte el compliment d’aquesta Llei i del seu desenvolupament reglamentari.
