@@ -1,0 +1,5 @@
+# Article 10
+Tramesa dels documents
+1. Els documents que s’han de publicar al Butlletí Oficial del Principat d’Andorra es trameten per mitjans electrònics, en la forma que es determini reglamentàriament, que ha de garantir la identitat de la persona que els tramet i l’autenticitat i la integritat dels documents. El reglament ha de regular també la possibilitat de trametre els documents que han de ser publicats en paper, convenientment signats i segellats, en els supòsits en què, per incidències tècniques greus, no sigui possible la tramesa electrònica, o quan la tramesa per mitjans electrònics no compleixi les garanties exigides.
+2. Els documents rebuts pel Servei del Butlletí Oficial del Principat d’Andorra s’han de publicar tal com han estat lliurats pels remitents. El Servei del Butlletí Oficial del Principat d’Andorra no els pot modificar en cap cas.
+3. Els documents rebuts pel Servei del Butlletí Oficial del Principat d’Andorra tenen caràcter reservat i no se’n pot facilitar informació abans de la publicació.
