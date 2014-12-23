@@ -1,0 +1,2 @@
+# Article 36
+Les decisions del Consell d’Administració es prenen per majoria dels membres assistents, llevat dels casos següents, en què s’han d’adoptar per almenys el 80% dels membres presents: a) sol·licituds de crèdits o avals per import superior a 300.000.- €; b) adjudicacions d’obres per import superior a 300.000.- €, excepte pel que fa a la inversió inicial i la construcció del Centre de Tractament de Residus.

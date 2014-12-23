@@ -1,0 +1,3 @@
+# Article 30
+El Consell d’Administració ha de tenir un president i un vicepresident, designats d’entre els seus membres. També ha de tenir un secretari, el qual no és necessari que sigui administrador, i pot tenir un vicesecretari.
+El càrrec de president es nomena a proposta del Govern, com a accionista de la societat concessionària, sempre que posseeixi com a mínim el percentatge del deu per cent (10%) del capital social que d’acord amb el que disposa l’article anterior dóna dret a tenir un representant en el si del Consell d’Administració. Tots els càrrecs els nomena la Junta General, d’acord amb les previsions contingudes en l’article anterior.
