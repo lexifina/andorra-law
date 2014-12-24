@@ -1,0 +1,8 @@
+# Article 24
+Execució i control dels plans d’equilibri financer
+1. El Govern i els comuns informaran trimestralment al Tribunal de Comptes de l’aplicació i els efectes dels plans d’equilibri financer aprovats. Aquests informes han de comptar amb el vistiplau de l’interventor general i dels interventors comunals, segons escaigui.
+2. El Tribunal de Comptes pot demanar en qualsevol moment al Govern o als comuns informació sobre l’aplicació dels plans d’equilibri financer i els seus efectes.
+3. El Tribunal de Comptes examinarà l’execució dels plans d’equilibri financer i els seus efectes respecte del compliment dels objectius de deute, despesa permesa i dèficit públic. En cas que detecti incompliments o desviacions, instarà a l’Administració corresponent perquè adopti les mesures adequades en el termini màxim d’un mes.
+El Govern i els comuns informaran el Tribunal de Comptes de les mesures adoptades a partir de les observacions que els hi hagi dirigit.
+4. En cas que el Govern no adopti, en el termini d’un mes, les mesures adequades per corregir les desviacions del compliment dels plans d’equilibri financer, el Tribunal de Comptes informarà al Consell General perquè aquest adopti les mesures necessàries i escaients perquè el Govern doni compliment a les obligacions establertes en la present Llei.
+5. En cas que els comuns no adoptin, en el termini d’un mes, les mesures adequades per corregir les desviacions del compliment dels plans d’equilibri financer, el Tribunal de Comptes informarà al Govern perquè aquest acordi la interrupció de l’import de les transferències d’acord amb l’establert en la Llei de finances comunals.

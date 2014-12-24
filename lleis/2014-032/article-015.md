@@ -1,0 +1,7 @@
+## Capítol cinquè. Despesa permesa
+# Article 15
+Despesa màxima permesa
+1. L’Administració general, podrà incórrer en una despesa màxima permesa (sense incloure la variació d’actius i passius financers), que serà el resultat de multiplicar els ingressos pressupostats de l’exercici (sense incloure la variació d’actius i passius financers), per un “coeficient tendencial de sostenibilitat” que es calcularà dividint la mitjana del producte interior brut expressat en termes nominals dels tres exercicis immediatament anteriors entre el producte interior brut expressat en termes nominals de l’exercici immediatament anterior i s’afegirà un saldo positiu equivalent a l’u per cent (1%) del Producte interior brut expressat en termes nominals de l’exercici immediatament anterior, d’acord amb l’establert en la següent fórmula:
+formula.pdf
+2. L’Administració general podrà superar els límits de despesa que preveu l’apartat 1, sempre que es compleixin els requisits de despesa per causes extraordinàries que preveu l’article 17.
+3. Els comuns inclosos els organismes públics, les entitats públiques i parapúbliques que hi estan vinculades, així com les societats públiques amb una participació dels comuns majoritària en el capital o suficient per tenir-ne el control podran incórrer en dèficit sempre i quan el deute dels mateixos no superi el dos cents per cent (200%) de la mitja dels ingressos totals liquidats en els pressupostos corresponents als tres anys naturals immediatament anteriors, calculat d’acord amb l’establert en la Llei de finances comunals.
