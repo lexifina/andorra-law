@@ -1,0 +1,4 @@
+# Article 17
+Forma i termini per a l’exercici del dret de rectificació
+1. El dret de rectificació s’exerceix per escrit, en qualsevol suport sempre que es pugui acreditar la identitat de la persona que exerceix el dret de rectificació, adreçat a l’operador del mitjà de comunicació o el proveïdor de continguts que ha publicat la informació o expressió la rectificació de la qual se sol·licita, en el termini màxim de quinze dies a comptar des de la data en què s’ha produït l’al·lusió.
+2. L’operador de mitjans de comunicació o el proveïdor de continguts publica la rectificació en el termini de quaranta-vuit hores des que ha rebut la sol·licitud o, en el cas de publicacions periòdiques que no permetin complir amb aquest termini, a la següent edició. En cas d’incompliment d’aquests terminis, s’entén que es produeix un refús tàcit d’acord amb allò previst a l’article 13.4.

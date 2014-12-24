@@ -1,0 +1,8 @@
+# Article 23
+Tramitació de les mesures cautelars
+1. La mesura cautelar es pot demanar abans d’iniciar el judici o durant la seva tramitació.
+2. Si la mesura cautelar s’acorda abans d’haver-se presentat la demanda, deixa de tenir efectes si en el termini de 30 dies naturals a partir de què s’hagi acordat no s’interposa la demanda principal. Aquest termini pot ser prorrogat per l’òrgan judicial per un nou termini de 30 dies, a petició de l’interessat, de forma motivada i si s’aprecia justa causa.
+3. La mesura cautelar es pot acordar per l’òrgan judicial competent, sense escoltar a la persona física o jurídica davant de la qual s’acordarà, si la mesura cautelar s’ha d’adoptar amb urgència per impedir o fer cessar la intromissió il·legítima. En aquest cas, l’òrgan competent notificarà amb la major celeritat la resolució judicial que acorda la mesura cautelar a la persona davant de la contrapart.
+4. L’acord de la mesura cautelar per part de l’òrgan judicial ha de ser motivat i, en cas que es doni una col·lisió amb les llibertats d’expressió i d’informació, motivant la ponderació d’acord amb els principis d’aquesta Llei i de la Constitució, i de conformitat amb les regles del dret processal civil.
+5. L’òrgan judicial competent decideix sobre els perjudicis que s’han d’indemnitzar per la persona que ha instat la mesura cautelar, si aquesta s’ha revelat sense fonament i temerària, ja sigui en la resolució que deixa sense efecte la mesura cautelar, ja sigui en la sentència, i sempre sota el principi de justícia rogada.
+6. En tot cas, són d’aplicació les normes processals que regulin les mesures cautelars en els procediments civils.

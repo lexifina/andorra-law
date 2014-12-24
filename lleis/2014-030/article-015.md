@@ -1,0 +1,4 @@
+# Article 15
+Forma i termini per a l’exercici del dret de rèplica
+1. El dret de rèplica s’exerceix per escrit, en qualsevol suport sempre que es pugui acreditar la identitat de la persona que exerceix el dret de rèplica, adreçat a l’operador del mitjà de comunicació o proveïdor de continguts que ha publicat la informació o expressió que es vol replicar, en el termini màxim de quinze dies a comptar des de la data en què s’ha produït l’al·lusió.
+2. L’operador de mitjans de comunicació o el proveïdor de continguts publica la rèplica en el termini de quaranta-vuit hores des que ha rebut la sol·licitud o, en el cas de publicacions periòdiques que no permetin complir amb aquest termini, a la següent edició. En cas d’incompliment d’aquests terminis, s’entén que es produeix un refús tàcit d’acord amb allò previst a l’article 13.4.
