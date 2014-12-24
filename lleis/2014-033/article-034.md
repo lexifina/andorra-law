@@ -1,0 +1,5 @@
+# Article 34
+Control financer
+La Societat està subjecta a control financer dirigit per la Intervenció General del Govern, en la forma prevista per la Llei general de les finances públiques, sense perjudici que es puguin establir altres mesures de control per valorar el funcionament correcte en la gestió de la Societat, però sense fiscalització prèvia.
+Almenys una vegada a l’any s’ha d’efectuar, per mitjà d’un professional que tingui la condició legal d’auditor de comptes a Andorra, una auditoria sobre els comptes anuals de la Societat, d’acord amb les disposicions legals en matèria de societats. Addicionalment, la Junta General ha d’encomanar al final de la legislatura, o quan ho estimi convenient, una auditoria d’eficàcia amb l’objectiu d’avaluar l’assoliment dels resultats i els objectius aprovats per la Junta General. Aquestes auditories es trameten al Tribunal de Comptes per a l’exercici de les seves funcions.
+Els auditors de comptes són nomenats per la Junta General d’accionistes conforme a la Llei 20/2007, del 18 d’octubre, de societats anònimes i de responsabilitat limitada, i la normativa reguladora de l’auditoria de comptes.

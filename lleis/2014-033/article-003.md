@@ -1,0 +1,3 @@
+# Article 3
+Personalitat jurídica
+La Societat, a partir de la inscripció al Registre de Societats, té plena personalitat jurídica i capacitat d’obrar per a l’exercici eficaç de tota mena d’accions i recursos davant els òrgans administratius i jurisdiccionals de qualsevol grau i jurisdicció, i per realitzar totes les operacions i els contractes civils, administratius, mercantils, financers i de tota altra naturalesa que estimi necessaris o convenients per desenvolupar millor el seu objecte social. La Societat realitza les activitats que constitueixen el seu objecte social, tant a Andorra com a l’estranger, mitjançant les formes usuals de la pràctica civil i mercantil.

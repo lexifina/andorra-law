@@ -1,0 +1,6 @@
+# Article 22
+Convocatòria, quòrum, majories
+1. El Consell d’Administració es reuneix a convocatòria del president, que el reuneix tantes vegades com cregui convenient per als interessos socials i també quan ho demanin tres o més membres del Consell d’Administració proposant un ordre del dia concret. En aquest cas, el president ha de respectar l’ordre del dia proposat pels sol·licitants però hi pot afegir altres punts.
+La convocatòria es pot fer per qualsevol mitjà, i s’ha de fer, salvat casos d’urgència, amb una antelació de cinc dies hàbils, com a mínim, a la data de celebració de la reunió. En el cas de convocatòria a instància de tres consellers, la reunió s’ha de fixar dins dels quinze dies següents a la data de la petició.
+2. El Consell d’Administració queda vàlidament constituït amb l’assistència o la representació de la meitat més un dels membres, i els seus acords s’adopten per majoria simple de vots. En cas d’empat, el vot del president es considera de qualitat.
+3. El Consell d’Administració pot prendre acords sense sessió sempre que no hi hagi cap conseller que manifesti la seva oposició a la utilització d’aquest sistema. En aquest cas, el vot es pot emetre per correu ordinari o per qualsevol altre mitjà de comunicació a distància, sempre que la identitat del conseller que vota i el sentit del seu vot quedin garantits suficientment.
