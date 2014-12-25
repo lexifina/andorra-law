@@ -1,0 +1,2 @@
+# Disposició final primera. Desplegament normatiu
+Es faculta el Govern perquè aprovi les normes de desenvolupament i els acords o instruments necessaris per portar a terme la validació de patents europees al Principat d’Andorra, així com una eventual adhesió del Principat d’Andorra al Tractat de cooperació en matèria de patents, fet a Washington el 19 de juny de 1970 i al Conveni sobre la concessió de patents europees, fet a Munic el 5 d’octubre del 1973.

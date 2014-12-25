@@ -1,0 +1,7 @@
+# Article 5
+Novetat
+1. Es considera que una invenció és nova quan no forma part de l’estat de la tècnica.
+2. L’estat de la tècnica consisteix en tot allò que s’ha posat a disposició del públic mitjançant una descripció oral o escrita, per a un ús o de qualsevol altra manera, abans de la data de dipòsit de la sol·licitud o, si es reivindica una prioritat, abans de la data de prioritat de la sol·licitud.
+3. També s’inclou dins l’estat de la tècnica el contingut de qualsevol sol·licitud de patent presentada al Principat d’Andorra o amb efectes al Principat d’Andorra, en la mesura que aquesta sol·licitud de patent o la consegüent patent concedida sigui publicada subsegüentment, sempre que la data de dipòsit o, si es reivindica una prioritat, la data de prioritat d’aquesta sol·licitud, sigui anterior a la data referida a l’apartat 2 d’aquest article.
+4. Les disposicions dels apartats 2 i 3 d’aquest article no exclouen la patentabilitat d’una substància o una composició, compresa en l’estat de la tècnica, per a l’aplicació d’algun mètode referit a l’apartat 6 de l’article 4, a condició que la seva utilització per a qualsevol d’aquests mètodes no estigui compresa en l’estat de la tècnica.
+5. Les disposicions dels apartats 2 i 3 d’aquest article no exclouen tampoc la patentabilitat d’una substància o una composició mencionades a l’apartat 4 d’aquest article per a tota utilització específica en un mètode mencionat a l’apartat 6 de l’article 4, a condició que aquesta utilització no estigui compresa en l’estat de la tècnica.

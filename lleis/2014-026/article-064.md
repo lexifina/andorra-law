@@ -1,0 +1,5 @@
+# Article 64
+Entrada en la fase nacional
+1. Quan l’Oficina de Patents actua com a oficina designada o elegida, el dipositant ha de pagar, abans de l’expiració del termini aplicable segons els articles 22 o 39 del Tractat de cooperació en matèria de patents, fet a Washington el 19 de juny de 1970 o del termini posterior que pugui estar prescrit al Reglament d’execució, la taxa de presentació establerta a la Llei de taxes de l’Oficina de Patents i, si es demana, ha de presentar una traducció segons els terminis establerts al Reglament d’execució.
+2. Per al propòsit de l’apartat 3 de l’article 5, tota sol·licitud internacional que designi al Principat d’Andorra, a l’efecte d’obtenir una patent nacional, només es té en compte si s’ha pagat degudament la taxa de presentació i, si es demana, s’ha presentat la traducció corresponent.
+3. Si la taxa de presentació no s’ha pagat degudament o la traducció no s’ha presentat dins el termini aplicable segons l’apartat 1 d’aquest article, la sol·licitud internacional es considera retirada.

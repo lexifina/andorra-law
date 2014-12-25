@@ -1,0 +1,4 @@
+# Article 62
+L’Oficina Europea de Patents com a oficina designada o elegida
+1. Sense perjudici del que s’estableix a l’apartat 2 d’aquest article, l’Oficina de Patents actua com oficina designada o elegida en relació amb qualsevol sol·licitud internacional que designi o elegeixi al Principat d’Andorra.
+2. Quan un acord de validació de patents europees entre el Principat d’Andorra i l’Organització Europea de Patents entri en vigor, tota sol·licitud internacional mitjançant la qual el Principat d’Andorra sigui designat o elegit per a la concessió d’una patent de conformitat amb les disposicions del Tractat de cooperació en matèria de patents, fet a Washington el 19 de juny de 1970, es considerarà com una sol·licitud per a la validació d’una patent europea al Principat d’Andorra, i l’Oficina Europea de Patents actuarà com oficina designada o elegida en virtut del Tractat de cooperació en matèria de patents.

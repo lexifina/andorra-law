@@ -1,0 +1,2 @@
+# Disposició final quarta. Entrada en vigor
+La Llei entrarà en vigor al cap d’un mes de ser publicada al Butlletí Oficial del Principat d’Andorra, llevat del capítol novè, que entrarà en vigor a la data que entri en vigor l’acord de validació de patents europees entre Andorra i l’Organització Europea de Patents, i del capítol desè, que ho farà quan entri en vigor el Tractat de cooperació en matèria de patents, fet a Washington el 19 de juny de 1970, al Principat d’Andorra.
