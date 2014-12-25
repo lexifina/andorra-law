@@ -1,0 +1,6 @@
+# Article 6
+Pagament d’anualitats
+1. Per mantenir en vigor la patent, el seu titular ha d’abonar les taxes de manteniment o anualitats que figuren en aquesta Llei.
+2. Les anualitats s’han de pagar per anys avançats durant tota la vigència de la patent. La data de venciment de cada anualitat és la de l’últim dia del mes de l’aniversari de la data de presentació de la sol·licitud de la patent.
+3. El pagament de les anualitats s’ha d’efectuar dins dels tres mesos anteriors a la data de venciment de cada anualitat o el mes posterior a la data esmentada. Si no se’n satisfà l’import en aquest termini, pot abonar-se el mateix amb un recàrrec del 25 per 100 dins dels tres primers mesos a comptar del mes posterior a la data de venciment de l’anualitat que correspongui i d’un 50 per 100 dins dels tres mesos següents als esmentats tres primers mesos, fins a un màxim de sis mesos de demora. No obstant això, en els sis mesos següents als referits sis mesos màxims de demora, i fins a un màxim de temps que coincideixi amb la data aniversari de l’anualitat següent, l’interessat pot regularitzar el pagament de l’anualitat no pagada, abonant una taxa equivalent a l’import de la vintena anualitat.
+4. La taxa que s’ha d’abonar al moment de presentació de la sol·licitud de patent exonera del pagament de les dos primeres taxes de manteniment o anualitats.
