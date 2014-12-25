@@ -1,0 +1,5 @@
+# Article 13
+Canvi de propietari o baixa del vehicle amb matrícula personalitzada
+1. Prèviament a fer un canvi de propietari o donar de baixa del Registre de Vehicles del Govern un vehicle amb matrícula personalitzada, salvat en els casos de transmissió per successió regulats per l’article 6.3, el titular de la matrícula personalitzada ha d’afectar-la a un altre vehicle de la seva propietat o donar-la de baixa, segons el previst als articles 12 i 11 respectivament.
+2. No obstant l’indicat en l’apartat anterior, si el titular de la matrícula personalitzada no té cap altre vehicle de la seva propietat, disposa d’un termini màxim de tres mesos a comptar de la data de retirada de la placa personalitzada del vehicle per sol·licitar l’atribució d’aquesta a un altre vehicle de la seva propietat. En aquest cas, el titular de la matrícula personalitzada ha de lliurar a l’Automòbil Club d’Andorra les plaques de matrícula personalitzades.
+3. Transcorregut el termini de tres mesos sense que s’hagi fet efectiva l’atribució de la matrícula personalitzada a un altre vehicle, la matrícula personalitzada s’entén donada de baixa i queda disponible per ser reservada.

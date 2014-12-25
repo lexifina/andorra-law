@@ -1,0 +1,4 @@
+# Article 12
+Afectació a un altre vehicle
+1. El titular d’una matrícula personalitzada afectada a un vehicle pot sol·licitar l’afectació a un altre vehicle de la seva propietat que compleixi els requisits previstos a l’article 3. Per sol·licitar aquest canvi, el titular ha de presentar al Servei de Tràmits del Govern la sol·licitud de canvi d’afectació de placa de matrícula personalitzada, amb el model oficial. En el mateix acte, el titular també ha de presentar les sol·licituds de modificació dels certificats de matriculació dels dos vehicles.
+2. El propietari dels vehicles presenta els certificats de matriculació a l’Automòbil Club d’Andorra, que li lliura les plaques ordinàries del vehicle que perd les plaques personalitzades i recupera les plaques ordinàries del vehicle que rep les plaques personalitzades, després que hagi pagat el preu públic corresponent.
