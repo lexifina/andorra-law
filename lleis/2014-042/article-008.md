@@ -1,0 +1,7 @@
+# Article 8
+S’introdueix una disposició addicional cinquena a la Llei 5/2014, de 24 d’abril, de l’impost sobre la renda de les persones físiques, amb la redacció següent:
+“Disposició addicional cinquena. Determinació de la renda corresponent a prestacions rebudes de la Caixa Andorrana de Seguretat Social en relació amb cotitzacions prèvies al primer dia en què sigui d’aplicació aquesta Llei
+1. A l’efecte de determinar la renda íntegra del treball corresponent a les pensions i altres prestacions similars satisfetes per la Caixa Andorrana de Seguretat Social als obligats tributaris que hagin començat a cotitzar abans del primer dia en què sigui d’aplicació aquesta Llei, l’import de la pensió o prestació es reduirà, en cada període impositiu en què es percebi, en un percentatge de l’1 per cent per cada any cotitzat abans del primer dia en què sigui d’aplicació aquesta Llei. Per determinar aquest percentatge, les fraccions d’any s’elevaran a un any.
+2. Per a l’aplicació d’aquesta reducció es tindran en compte les regles següents:
+a) La reducció només serà d’aplicació als obligats tributaris que, en el moment de començar a percebre la corresponent pensió o prestació, hagin cotitzat a la Caixa Andorrana de Seguretat Social durant un període mínim de quinze anys.
+b) L’import de la reducció aplicable en cada període impositiu no podrà excedir del 30% de la pensió o prestació rebuda en el període impositiu en qüestió”.

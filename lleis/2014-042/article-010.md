@@ -1,0 +1,4 @@
+# Article 10
+S’introdueix una nova disposició transitòria cinquena a la Llei 5/2014, de 24 d’abril, de l’impost sobre la renda de les persones físiques, amb la redacció següent:
+“Disposició transitòria cinquena. Dividends satisfets amb càrrec a beneficis obtinguts abans de l’aplicació de la Llei 95/2010, de 29 de desembre, de l’impost sobre societats
+L’exempció prevista a la lletra j) de l’article 5 resultarà igualment d’aplicació als dividends i altres rendiments derivats de la participació en el patrimoni net, a què es fa referència a l’apartat 1 de l’article 22, satisfets per entitats residents fiscals al Principat d’Andorra o per organismes d’inversió col·lectiva de dret andorrà, amb càrrec a beneficis no distribuïts obtinguts o a partides de patrimoni constituïdes abans del primer període impositiu en què hagi estat d’aplicació la Llei 95/2010, de 29 de desembre, de l’impost sobre societats”.

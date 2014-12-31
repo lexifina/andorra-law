@@ -1,0 +1,4 @@
+# Article 9
+S’introdueix una nova disposició addicional sisena a la Llei 5/2014, de 24 d’abril, de l’impost sobre la renda de les persones físiques, amb la redacció següent:
+“Disposició addicional sisena. Col·laboració de la Caixa Andorrana de Seguretat Social en la determinació dels percentatges de retenció i ingrés a compte
+La Caixa Andorrana de Seguretat Social col·laborarà en el procés de determinació dels percentatges de retenció i ingrés a compte aplicables sobre les rendes del treball sotmeses a l’obligació de cotització a l’esmentada Caixa Andorra de Seguretat Social, corresponents a l’inici del primer període impositiu en què sigui d’aplicació l’impost sobre la renda de les persones físiques, en els termes que es determinin reglamentàriament. A aquest efecte, la Caixa Andorra de Seguretat Social podrà utilitzar la informació que obri en poder seu i que pugui ser rellevant per tal determinar els esmentats percentatges”.

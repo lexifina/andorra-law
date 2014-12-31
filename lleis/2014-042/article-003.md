@@ -1,0 +1,12 @@
+# Article 3
+Es modifiquen els apartats 1 i 2 de l’article 35 de la Llei 5/2014, de 24 d’abril, de l’impost sobre la renda de les persones físiques, amb la redacció següent:
+“1. Reducció per mínim personal exempt
+Els obligats tributaris poden reduir la base de tributació general, en concepte de reducció per mínim personal exempt, en un import de 24.000 euros. Aquest import s’incrementa a 30.000 euros quan l’obligat tributari es troba en situació d’incapacitat.
+L’import de la reducció establerta al paràgraf anterior s’incrementa a 40.000 euros quan el cònjuge no separat de l’obligat tributari o la seva parella estable, segons es defineix a la normativa reguladora de les unions estables de parella, que convisqui amb l’obligat tributari no percebi cap tipus de renda que s’hagi d’incloure dins de la base de tributació general.
+Quan el cònjuge no separat o la parella de l’obligat tributari obtingui rendes que s’integrin dins de la seva base de tributació general i l’import d’aquesta base de tributació general no li permeti aplicar íntegrament la reducció prevista en el primer paràgraf d’aquest apartat 1, l’import restant de la reducció pot ser aplicat, si escau, pel mateix obligat tributari, sense que l’import conjunt de la reducció aplicable per tots dos cònjuges o membres de la parella pugui excedir la quantitat de 40.000 euros.
+2. Reducció per càrregues familiars
+Els obligats tributaris poden reduir la base de tributació general en les quantitats següents:
+a) 750 euros per cada descendent que sigui menor de 25 anys a la data de meritació de l’impost i que convisqui amb l’obligat tributari o en depengui i no percebi rendes anuals superiors a 12.000 euros.
+b) 750 euros per cada ascendent que sigui major de 65 anys a la data de meritació de l’impost i que convisqui amb l’obligat tributari o en depengui i no percebi rendes anuals superiors a 12.000 euros.
+Les reduccions previstes a les lletres a) i b) s’incrementen mitjançant l’aplicació d’un coeficient d’1,5 sobre el seu import per cada descendent i ascendent amb discapacitat que convisqui amb l’obligat tributari o en depengui. Per a l’aplicació d’aquesta reducció incrementada no s’exigirà el compliment del requisit d’edat establert a les lletres a) i b) anteriors.
+Als efectes d’aquest impost, tenen la consideració de “persones amb discapacitat” les que estiguin subjectes a l’àmbit d’aplicació de la Llei de garantia dels drets de les persones amb discapacitat”.
