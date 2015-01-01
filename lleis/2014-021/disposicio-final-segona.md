@@ -1,0 +1,2 @@
+# Disposició final segona. Desplegament normatiu d’actuacions i procediments per mitjans electrònics, informàtics i telemàtics i relatius a mitjans d’autenticació
+En l’àmbit de competències de l’Administració general, el Govern pot dictar les normes corresponents de desplegament aplicables a les actuacions i els procediments tributaris que es realitzen per mitjans electrònics, informàtics o telemàtics i també les relacionades amb els mitjans d’autenticació utilitzats per l’Administració tributària.

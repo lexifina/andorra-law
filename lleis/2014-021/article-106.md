@@ -1,0 +1,7 @@
+# Article 106
+Suspensió del procediment de constrenyiment
+1. El procediment de constrenyiment se suspèn d’ofici i de forma automàtica quan es provi que s’ha produït un error material, aritmètic o de fet en la determinació del deute, o bé quan el deute hagi estat ingressat, condonat, compensat, ajornat, fraccionat, suspès o hagi prescrit el dret a exigir-ne el pagament.
+2. El procediment de constrenyiment se suspèn quan se sol·liciti la compensació amb un dret de cobrament a favor de l’obligat tributari, fins que es resolgui l’expedient de compensació.
+3. El procediment de constrenyiment se suspèn quan se sol·liciti l’ajornament o el fraccionament i es compleixin els requisits que es fixin reglamentàriament per a la presentació de garanties. Si no s’aporten garanties o bé no cobreixen la integritat del deute, el procediment de constrenyiment continua el seu curs.
+4. El procediment de constrenyiment se suspèn quan es presenti un recurs i es compleixin els requisits que es determinin reglamentàriament per a la prestació de les garanties adients.
+5. L’execució derivada del procediment de constrenyiment se suspèn quan un interessat interposi una terceria de domini o de millor dret. Si no hi ha altres béns o drets del deutor que siguin embargables o aquests no cobreixen la integritat del deute tributari, el procediment es manté en suspens fins que es resolgui sobre la titularitat d’aquests béns o drets. Si el deutor disposa d’altres béns o drets suficients, el procediment continua en relació amb aquests béns o drets.

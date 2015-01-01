@@ -1,0 +1,9 @@
+# Article 129
+Infraccions de defraudació
+1. Són infraccions de defraudació les accions o omissions doloses o culposes, amb qualsevol grau de negligència, que comportin un perjudici econòmic per l’Administració tributària, bé en relació als deutes tributaris propis o com a conseqüència de l’exercici dels deures de pagament per compte de tercers o en els compliment dels deures de repercussió. També tindran la consideració d’infraccions de defraudació aquells perjudicis econòmics que es poguessin derivar del gaudi indegut de beneficis fiscals, sigui quina sigui l’accepció que adoptin, així com la improcedent acreditació de partides positives o negatives en base o en quota. I en general, tota acció o omissió contrària a l’ordenament que comporti un perjudici econòmic indegut a l’Administració tributària.
+2. Constitueixen infraccions de defraudació les infraccions següents:
+a) Deixar d’ingressar, totalment o parcialment, els deutes tributaris, les retencions o els ingressos a compte, per no haver presentat declaracions o autoliquidacions quan ho estableixin les normes de cada tribut, i també, quan després del requeriment oportú, l’obligat tributari no presenti les declaracions o les autoliquidacions.
+b) Deixar d’ingressar, totalment o parcialment, els deutes tributaris, les retencions o els ingressos a compte, perquè en les declaracions o autoliquidacions presentades s’ometin dades, elements, quantitats o signes, índexs o mòduls necessaris per determinar les bases i les quotes de tributació.
+c) Gaudir indegudament de beneficis fiscals, exempcions, desgravacions o devolucions, o bé obtenir-ne.
+d) Acreditar improcedentment partides positives o negatives i crèdits de l’impost, per deduir o compensar en la base o en la quota.
+3. Les lleis particulars de cada tribut poden regular, d’acord amb els apartats anteriors, els supòsits específics d’infracció.

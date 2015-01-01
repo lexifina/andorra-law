@@ -1,0 +1,5 @@
+# Article 37
+Adquirents de béns afectats per llei al compliment de deutes tributaris
+1. L’adquirent de béns afectats per llei al compliment de les prestacions tributàries respon amb aquests béns del deute tributari si aquest no ha estat satisfet per l’obligat tributari o, si escau, pel responsable solidari o subsidiari. Mai no respon de les sancions imposades als obligats tributaris esmentats.
+2. L’adquirent de béns afectats a què es refereix l’apartat anterior no té la condició d’obligat tributari si, abans de perfeccionar l’adquisició dels béns, sol·licita de l’Administració un certificat dels deutes tributaris pendents a càrrec del transmissor en els termes indicats reglamentàriament i aquest certificat és negatiu. L’Administració disposa d’un mes per a emetre i lliurar el certificat al sol·licitant. En el cas que l’Administració no lliuri el certificat dins el termini fixat, es considerarà que el certificat és negatiu, i per tant, l’adquirent referit a l’apartat 1 no tindrà la consideració d’obligat tributari.
+3. La derivació d’acció administrativa contra els béns afectats requereix acte administratiu previ.

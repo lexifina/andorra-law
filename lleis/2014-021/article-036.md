@@ -1,0 +1,4 @@
+# Article 36
+Transmissió de negocis amb deutes tributaris pendents
+1. Els adquirents de negocis en el supòsit de la lletra c) de l’apartat 1 de l’article 35, poden sol·licitar a l’Administració un certificat de deutes tributaris pendents. En aquest cas, la seva responsabilitat queda limitada als deutes indicats. L’Administració disposa d’un mes per emetre i lliurar el certificat al sol·licitant. La responsabilitat de l’adquirent quedarà limitada als deutes, sancions i responsabilitats contingudes en el certificat. En el cas que el certificat s’emetés sense fer menció de deutes, sancions o responsabilitats, o no s’emetés en el termini previst, el sol·licitant quedarà exempt de la responsabilitat a la que es refereix l’article 35.
+2. La tramitació i el contingut del certificat es regula reglamentàriament.

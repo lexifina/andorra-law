@@ -1,0 +1,10 @@
+# Article 112
+Embargament de béns o drets en entitats de crèdit o dipòsit
+1. Quan l’Administració tributària tingui coneixement de l’existència de fons, valors, títols o qualssevol altres béns lliurats o confiats a una entitat de crèdit o dipòsit o una altra persona o entitat dipositària, pot procedir al seu embargament en la quantitat escaient.
+L’Administració tributària adreça una diligència d’embargament a l’entitat o la persona dipositària, demanant que retingui la quantitat embargada i la transfereixi al compte que s’indiqui. En la diligència d’embargament s’ha d’identificar el bé o dret conegut per l’Administració tributària, però l’embargament pot ampliar-se, sense necessitat d’identificació prèvia, a la resta de béns o drets existents en la mateixa entitat.
+Si de la informació facilitada per l’entitat o la persona dipositària es dedueix que els fons, valors, títols, o altres béns existents no són homogenis o que el seu valor excedeix el del deute que s’ha d’assegurar, l’Administració tributària concretarà els que han de ser embargats.
+2. En el cas d’embargament d’actius financers il·líquids, l’entitat o la persona dipositària es limita a bloquejar-los i no els ha de realitzar fins que rebi instruccions expresses de l’Administració tributària.
+3. L’embargament de qualsevol altre bé o dret es realitzarà segons la normativa vigent aplicable.
+4. Quan els fons o valors es troben dipositats en comptes a nom de diversos titulars només s’embargarà la part corresponent a l’obligat tributari.
+A aquest efecte, en el cas de comptes de titularitat conjunta indistinta el saldo es presumeix dividit en parts iguals, excepte que es provi una titularitat material diferent.
+5. En el cas de què en el compte afectat per l’embargament es realitzi habitualment l’abonament del salari, de la pensió, o de retribucions anàlogues, s’hauran de respectar les limitacions a l’embargabilitat determinades per la llei. A aquests efectes es considerarà salari, pensió o retribucions anàlogues, l’import ingressat en el compte suara esmentat per aquest concepte dins del mes en què tingui lloc l’embargament o, en el seu defecte, en el mes anterior.

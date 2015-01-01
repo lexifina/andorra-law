@@ -1,0 +1,5 @@
+# Article 109
+Procediment d’embargament
+1. La decisió d’embargar dóna lloc a l’emissió per part de l’Administració tributària d’un acord d’embargament, que s’ha de notificar a l’obligat tributari. L’acord d’embargament ha d’identificar a la persona embargada, la relació dels deutes pels quals es realitza l’embargament, l’import que és objecte de l’embargament i la provisió de constrenyiment de la qual porta causa l’embargament.
+2. Cada actuació d’embargament es documenta en una diligència d’embargament, que es comunica a la persona a qui s’adreça, la qual ha d’incloure la identificació de la persona embargada, l’import que és objecte de l’embargament i la descripció del bé o dret que queda embargat, amb l’excepció que regula l’apartat 1 de l’article 112.
+3. Un cop realitzat l’embargament dels béns o drets, l’acord d’embargament es notifica i la seva execució es posa en coneixement, en el seu cas, del tercer titular, posseïdor o dipositari dels béns o drets, si no s’haguessin realitzat les actuacions d’embargament envers ells, així com dels copropietaris, cotitulars o posseïdors dels mateixos.

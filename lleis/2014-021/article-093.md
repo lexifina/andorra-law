@@ -1,0 +1,10 @@
+# Article 93
+Termini de comprovació de la inspecció
+1. El termini de comprovació de la inspecció és de dotze mesos des de la comunicació d’inici de les actuacions. S’entendrà que les actuacions finalitzen en la data en que es notifiqui o s’entengui notificat l’acte administratiu resultant de les mateixes.
+2. No es tenen en compte als efectes d’aquest còmput els períodes de dilació ocasionats per l’obstrucció de les actuacions per part de l’obligat tributari.
+3. Les actuacions d’inspecció es poden ampliar per un altre període que no podrà excedir de sis mesos addicionals, amb el requisit de documentar-ne els motius tal com es determini reglamentàriament, en els casos següents:
+a) Quan revesteixin una especial complexitat. S’entén que es compleix aquesta circumstància atenent el volum d’operacions de la persona o entitat, la dispersió geogràfica de les seves activitats, la seva tributació en règim de consolidació fiscal i en els altres casos establerts per reglament.
+b) Quan en el transcurs d’aquestes es descobreixi que l’obligat tributari ha ocultat a l’Administració tributària alguna de les activitats empresarials o professionals que realitzi.
+4. Si les actuacions excedeixen el termini previst legalment, ampliat en el seu cas segons el previst en l’apartat anterior, s’entendrà caducat el procediment.
+5. Els ingressos realitzats per l’interessat des de l’inici del procediment que hagin estat imputats per l’obligat tributari al tribut i període objecte de les actuacions inspectores tindran el caràcter d’ingressos a compte, i es consideraran espontanis als efectes de l’article 24.
+6. Quan una resolució administrativa instada per l’obligat tributari o una resolució judicial ordeni la retroacció de les actuacions inspectores, el còmput del període que resti del termini inicial de dotze mesos de comprovació de la inspecció establert a l’apartat 1 o ampliat d’acord amb l’apartat 3, s’inicia en el moment al qual s’han retrotret les actuacions. En qualsevol cas aquest termini no pot ser inferior a tres mesos. El termini es compta a partir de la recepció de l’expedient per l’òrgan competent per executar la resolució.

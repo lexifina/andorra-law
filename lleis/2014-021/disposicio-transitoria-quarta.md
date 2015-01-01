@@ -1,0 +1,4 @@
+# Disposició transitòria quarta. Infraccions i sancions tributàries
+1. La present Llei s’aplica a les infraccions tributàries comeses abans de la seva entrada en vigor si la seva aplicació resulta més favorable per al subjecte infractor i la sanció imposada no ha adquirit fermesa.
+2. La revisió de les sancions no fermes i l’aplicació de la nova normativa correspon als òrgans administratius i jurisdiccionals que estiguin coneixent dels recursos, amb l’audiència prèvia a la persona o entitat interessada.
+3. Els procediments sancionadors en matèria tributària iniciats abans de l’entrada en vigor de la present Llei han de concloure en els 6 mesos posteriors a l’entrada en vigor de la present Llei, sense que se’ls pugui aplicar el termini màxim de resolució establert en la present Llei. En tot cas, si s’esgotés el termini fixat de 6 mesos sense que s’haguessin resolt, la caducitat del procediment tindria els efectes que es detallen en l’apartat 6 de l’article 135.

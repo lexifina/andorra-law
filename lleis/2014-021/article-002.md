@@ -1,0 +1,11 @@
+# Article 2
+Concepte, fins i classes de tributs
+1. És tribut el recurs de les finances públiques consistent en una prestació dinerària obligatòria, establerta a càrrec dels obligats tributaris que, com a conseqüència de la realització del supòsit de fet establert a la Llei, tinguin el deure de contribuir, per tal d’atendre la realització dels principis i les finalitats que conté la Constitució.
+2. El rendiment dels tributs es destina a finançar indistintament el conjunt de les obligacions econòmiques de les finances públiques, llevat de les contribucions especials o dels tributs als quals la llei atribueix finalitats determinades.
+3. Són elements essencials dels tributs les determinacions del fet generador, dels obligats tributaris, de la base de tributació, dels tipus de gravamen, de la meritació, de la quota i del deute tributari.
+4. Les multes i sancions pecuniàries administratives o penals no són tributs.
+5. Tampoc no són tributs els preus públics o les contraprestacions en diner satisfetes per la prestació de serveis públics o la realització de funcions administratives que no són de sol·licitud o de recepció obligatòria.
+6. Els tributs es classifiquen en impostos, taxes i contribucions especials.
+a) Els impostos són tributs, el fet generador dels quals és un negoci, un acte o un fet indicador de capacitat econòmica de l’obligat tributari o de la persona o entitat que ha de suportar el gravamen i que mai no depèn d’una activitat de l’Administració.
+b) Les taxes són tributs el fet generador dels quals és la utilització privada o l’aprofitament especial del domini públic, la prestació d’un servei públic o la realització d’una funció administrativa de sol·licitud o de recepció obligatòria que es refereix a l’obligat tributari, o l’afecta o el beneficia de manera particular.
+c) Les contribucions especials són tributs el fet generador dels quals és l’acord de realització de determinades obres o l’establiment o l’ampliació dels serveis públics, sotmès al requisit d’eficàcia de la realització efectiva, que produeixen, ultra el benefici general per a tota la comunitat, un augment de valor dels béns de l’obligat tributari o el beneficien especialment d’alguna manera.

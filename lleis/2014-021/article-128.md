@@ -1,0 +1,25 @@
+# Article 128
+Quantificació de les sancions en els supòsits d’infraccions simples
+1. Les infraccions simples poden ser sancionades mitjançant una multa fixa d’un import entre 150 euros i 3.000 euros, llevat que la normativa de cada tribut estableixi una altra cosa.
+2. Les sancions per les infraccions simples són les següents:
+a) Per la falta de presentació de declaracions o autoliquidacions sense transcendència en la liquidació, la sanció és de 250 euros per declaració o autoliquidació.
+Per la presentació de declaracions o autoliquidacions falses, incompletes o inexactes sense transcendència en la liquidació, la sanció és de 200 euros.
+b) Per l’incompliment de requeriments d’informació o de documentació, la sanció és de multa fixa de 150 euros pel primer incompliment i de 600 euros pels successius.
+c) Per l’incompliment del deure de subministrar dades, informes o antecedents amb transcendència tributària, la sanció es de 1.000 euros pel primer incompliment i de 3.000 euros pels successius.
+d) Per l’incompliment de les obligacions de caràcter comptable, registral i censal, llevat que produeixin o condueixin a defraudació, les sancions són les següents:
+- La inexactitud o l’omissió d’operacions en la comptabilitat o en els llibres i registres exigits per les normes tributàries, se sanciona amb una multa pecuniària proporcional del 2% dels càrrecs, abonaments o anotacions omesos, inexactes, falsejats o recollits en comptes amb significat diferent del que els correspongui, amb un mínim de 150 euros i un màxim de 3.000 euros.
+- La manca de gestió o de conservació de la comptabilitat, els llibres i els registres exigits per les normes tributàries, els programes i els arxius informàtics que els serveixin de suport i els sistemes de codificació utilitzats se sancionen amb una multa pecuniària proporcional del 2% de la xifra de negocis del subjecte infractor en l’exercici a què es refereix la infracció, amb un import mínim de 600 euros.
+- La gestió de comptabilitats diferents referides a una mateixa activitat i exercici econòmic que dificulti el coneixement de la vertadera situació de l’obligat tributari se sanciona amb una multa pecuniària fixa de 1.500 euros per cada un dels exercicis econòmics a què afecti la dita gestió.
+- El retard en més de quatre mesos en la gestió de la comptabilitat o dels llibres i registres se sanciona amb multa fixa de 600 euros.
+e) L’incompliment de les obligacions de facturació o de documentació, llevat que produeixin defraudació o hi condueixin, se sanciona amb multa fixa del 2% de l’import del conjunt de les operacions que hagin originat la infracció.
+Quan no sigui possible conèixer l’import de les operacions a què es refereix la infracció, la sanció és de 200 euros per cada operació respecte de la qual no s’hagi emès o conservat la factura o el document corresponent. Si les factures s’han emès però de forma incorrecta, la sanció és de 100 euros.
+f) L’incompliment de l’obligació d’utilitzar i de comunicar el número de registre tributari (NRT), se sanciona amb multa fixa de 1.500 euros.
+g) Quan la resistència, l’obstrucció, l’excusa o la negativa a l’actuació de l’Administració tributària consisteixi a desatendre en el termini concedit requeriments diferents dels que preveu la lletra següent dins del mateix procediment, la sanció consisteix en una multa pecuniària fixa de:
+- 150 euros, si s’ha incomplert per primera vegada un requeriment.
+- 300 euros, si s’ha incomplert per segona vegada el requeriment.
+- 600 euros, si s’ha incomplert per tercera vegada el requeriment, així com 600 euros per cada vegada successiva d’incompliment del requeriment a partir de la tercera.
+h) Quan la resistència, l’obstrucció, l’excusa o la negativa a l’actuació de l’Administració tributària es refereix a l’aportació o a l’examen de documents, llibres, fitxers, factures, justificants i assentaments de comptabilitat principal o auxiliar, programes, sistemes operatius i de control o consisteixi en l’incompliment per persones o entitats que realitzin activitats econòmiques del deure de comparèixer, de facilitar l’entrada o la permanència en finques i locals o el reconeixement d’elements o instal·lacions, o del deure d’aportar dades, informes o antecedents amb transcendència tributària, la sanció consisteix en:
+- 300 euros, si no es compareix o no es facilita l’actuació administrativa o la informació exigida en el termini atorgat en el primer requeriment notificat a aquest efecte.
+- 1.000 euros, si no es compareix o no es facilita l’actuació administrativa o la informació exigida en el termini atorgat en el segon requeriment notificat a aquest efecte.
+- 3.000 euros, quan no s’hagi comparegut o no s’hagi facilitat l’actuació administrativa o la informació exigida en el termini atorgat en el tercer requeriment notificat a aquest efecte, així com 3.000 euros per cada vegada successiva d’incompliment del requeriment a partir de la tercera.
+3. L’incompliment de l’obligació de posar en coneixement de l’Administració tributària el canvi de domicili de l’obligat tributari, se sanciona amb una multa fixa de 150 euros.

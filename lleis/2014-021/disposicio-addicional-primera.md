@@ -1,0 +1,3 @@
+# Disposició addicional primera. Remissions normatives
+1. Totes les remissions a la Llei de bases de l’ordenament tributari, aprovada el 19 de desembre de 1996, contingudes en les Lleis particulars de cada tribut, s’entenen realitzades als articles del present text que contenen la regulació objecte de la remissió, i això sens perjudici que la nova numeració dels articles no s’hi correspongui idènticament.
+2. La remissió a l’article 60 de la Llei de bases de l’ordenament tributari, del 19 de desembre de 1996, continguda en l’apartat 3, de l’article 14 de la Llei 10/2003, del 27 de juny, de les finances comunals, s’entén realitzada als articles 103 a 117 de la present Llei.
