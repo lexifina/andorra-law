@@ -1,0 +1,2 @@
+# Disposició addicional vuitena
+Els operadors i els distribuïdors de jocs d’atzar són entitats que manegen efectiu i, consegüentment, han de complir amb les disposicions de la Llei 17/2013, del 10 d’octubre, sobre la introducció de l’euro en el marc de l’Acord Monetari signat entre el Principat d’Andorra i la Unió Europea, respecte la qual tenen la consideració de subjectes obligats, d’acord amb les disposicions de l’article 2 i de l’article 11 de dita Llei.

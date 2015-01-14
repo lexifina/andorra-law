@@ -1,0 +1,7 @@
+# Article 21
+Durada i renovació de la llicència
+1. La durada inicial de la llicència de classe A és determinada en el plec de condicions del concurs públic pel Consell Regulador Andorrà del Joc i va expressament condicionada a la inversió que l’operador justifiqui que efectua en la seva sol·licitud. No pot ser superior a vint anys.
+Únicament als efectes de la durada de la llicència, es considera “inversió” la construcció dels immobles destinats a l’explotació de les activitats del joc, o el valor de l’adquisició dels immobles destinats a la dita explotació si es tracta d’edificis ja construïts, o el 50% de l’arrendament i l’adequació dels immobles.
+2. En el moment en què expiri el termini de la llicència, pot ser renovada. La renovació únicament pot ser acordada si es compleixen i han estat respectades pel titular totes les condicions i els requisits establerts per la Llei, pels seus reglaments de desenvolupament, així com pel plec de bases o per tota altra directiva del Consell Regulador Andorrà del Joc per tal d’atribuir la llicència.
+3. La durada de la renovació o les renovacions de la llicència de classe A és determinada motivadament pel Consell Regulador Andorrà del Joc, dins d’un màxim de vint anys.
+4. Les sol·licituds de renovació han de respectar els formularis establerts pel Consell Regulador Andorrà del Joc i se li han d’adreçar amb una antelació mínima de dos anys abans del venciment de la llicència en curs.

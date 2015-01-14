@@ -1,0 +1,4 @@
+# Article 104
+Decisió de sanció
+1. Si l’informe de l’instructor del Consell Regulador Andorrà del Joc conclou determinant l’existència d’una infracció, ha de remetre un avís per proposar al Govern una de les sancions determinades en aquesta Llei contra el titular de la llicència concernida. El Govern, després de deliberar i tenint en compte la gravetat de la infracció, ha de pronunciar la sanció corresponent, i pot decidir reenviar el dossier a l’instructor, si estima que no és complet. També pot escoltar, si així ho desitja, tota persona que al seu criteri consideri oportuna.
+2. Les decisions sancionadores, un cop adoptades pel Govern, són motivades i es notifiquen als infractors objecte de la instrucció. Són immediatament executòries.

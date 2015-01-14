@@ -1,0 +1,5 @@
+# Disposició final segona
+S’afegeix un article 51 bis a la Llei del 29 de desembre del 2000, modificada per la Llei 20/2013, del 10 d’octubre, de modificació de la Llei de cooperació penal internacional i de lluita contra el blanqueig de diners o valors producte de la delinqüència internacional i contra el finançament del terrorisme, que queda redactat com segueix:
+“Article 51 bis
+Els operadors de les categories 1, 2 i 4, un cop verificada la identitat dels jugadors, han de procedir obligatòriament a enregistrar els seus cognoms i adreces quan canvien qualsevol mode de pagament, plaques, fitxes, tiquets, l’import dels quals superi un import fixat per reglament. Aquestes informacions es consignen en un registre específic i s’han de conservar durant cinc anys.
+Els operadors de jocs d’atzar, inclosos els operadors de jocs d’atzar en línia, estan obligats a assegurar-se de la identitat dels jugadors que guanyen quantitats superiors a un import fixat per reglament i enregistrar els cognoms i les adreces d’aquests jugadors, com també l’import de les quantitats que hagin guanyat. Aquestes informacions s’han de conservar durant cinc anys.”

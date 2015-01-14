@@ -1,0 +1,15 @@
+# Article 100
+Sancions
+1. El Govern sanciona les infraccions considerades lleus amb un advertiment per escrit i/o una multa de fins a un màxim de 100.000 euros, en funció de la gravetat dels fets.
+2. El Govern sanciona les infraccions considerades greus amb una multa que pot arribar a l’import de 1.000.000 d’euros, en funció de la gravetat dels fets i/o la suspensió de l’activitat en territori del Principat d’Andorra per un termini màxim de sis mesos.
+3. Les infraccions considerades molt greus són sancionades pel Govern amb una multa que pot arribar a l’import de 10.000.000 d’euros, en funció de la gravetat dels fets. Endemés d’aquesta multa, es pot acordar la retirada de la llicència i la prohibició de desenvolupar les activitats de joc d’atzar regulades per aquesta Llei. El Govern pot igualment decidir una mesura de suspensió per una durada de no més d’un any.
+4. Si una infracció es correspon amb més d’una categoria de sanció, la seva qualificació especial se subscriu a la qualificació més general.
+En cas de mancament d’aquest punt, preval la qualificació menys greu.
+5. Igualment, també es pot decidir, endemés de les sancions establertes i de forma acumulativa a les mateixes sancions:
+a) La publicació de la decisió al Butlletí Oficial del Principat d’Andorra.
+b) La publicació i difusió de la decisió en un diari de gran difusió al Principat.
+6. Igualment, es pot decidir, per a les infraccions greus o molt greus, el comís o segrest dels béns mobles o immobles que hagin servit directament o indirectament per cometre la infracció o en siguin el resultat, comprenent en els dits béns els fons o els efectes exposats al joc d’atzar.
+7. La retirada de la llicència de classe I imposa que les persones afectades per aquesta retirada no poden ser contractades, directament o indirectament, per un operador de joc d’atzar de les categories 1 i 2, ni prendre part en funcions d’administració o de direcció de l’operador esmentat.
+8. L’import de les sancions pecuniàries és proporcional a la gravetat de la infracció, a la situació del titular de la llicència, de l’establiment del joc d’atzar encausat i a les persones que tinguin el control de l’establiment, a la magnitud del dany causat, als beneficis o avantatges obtinguts fruit de la infracció, i a l’eventual reiteració o reincidència de les dites pràctiques infractores.
+9. Per a les infraccions greus i molt greus, el Govern pot decidir intervenir, per una durada de sis mesos prorrogables, tot moviment o transferència de fons provinents o destinats als comptes identificats com de titularitat de les persones físiques o jurídiques que organitzin les activitats de joc d’atzar prohibides per aquesta Llei. La intervenció pot significar l’embargament preventiu dels dits comptes.
+L’aixecament de l’embargament o de la intervenció a realitzar pot acordar-se a petició de les persones afectades per la mesura, sempre que s’acrediti que els moviments o les transferències dels fons siguin realitzats en virtut d’operacions no prohibides en el territori del Principat d’Andorra i que no guardin relació amb les infraccions detectades.

@@ -1,0 +1,4 @@
+# Article 75
+Modalitats de pagament al comptat
+Llevat dels jocs d’atzar en línia, els jocs d’atzar només es poden practicar al comptat, amb fitxes pròpies de l’establiment concernit si així s’escau per la tipologia del joc, i que són subministrades exclusivament per l’establiment dins el seu interior, o bé amb monedes o paper moneda. Aquesta disposició no s’aplica a la pràctica dels jocs d’atzar dels operadors de la categoria 3 i els seus distribuïdors, així com en la participació en els concursos amb intervenció d’atzar.
+Els reglaments dels diversos jocs d’atzar determinen el procediment de bescanvi de moneda o paper moneda per fitxes.

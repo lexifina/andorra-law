@@ -1,0 +1,7 @@
+## Capítol tercer. Llicències de classe A
+# Article 22
+Característiques de la llicència
+La llicència de classe A autoritza l’explotació de jocs mixtos d’atzar i habilitat, d’apostes de contrapartida, de taula, tant de cercle com de contrapartida, i de màquines d’atzar oneroses, de forma presencial en bucs de més de 15.000 tones de desplaçament dedicats al transport de viatgers, de línies regulars o per als creuers de més de 48 hores de durada, degudament registrats, dins de locals especials, diferents i separats on es practica certs jocs d’atzar en les condicions fixades en aquesta Llei i els reglaments aplicables.
+La llicència determina els jocs d’atzar que el titular està autoritzat a explotar.
+La llicència s’obté després de considerar l’oferta mitjançant el corresponent concurs públic, que s’ha d’ajustar als principis de publicitat, concurrència, igualtat, transparència, objectivitat i no-discriminació, i que es regeix pel plec de bases que, a proposta del Consell Regulador Andorrà del Joc, sigui aprovat pel Govern i que s’ha de publicar en el Butlletí Oficial del Principat d’Andorra.
+Aquestes llicències poden ser atorgades als vaixells amb pavelló andorrà autoritzats segons la legislació de pavellons que resulti aplicable o a vaixells amb pavelló d’altres estats que hagin signat el preceptiu conveni internacional.
