@@ -1,0 +1,6 @@
+# Article 8
+Relacions amb el Govern d’Andorra
+1. L’FNJA es relaciona amb el Govern per mitjà del ministeri competent en matèria de joventut. Tota demanda d’informació que l’FNJA necessiti del Govern es tramita mitjançant aquest mateix ministeri.
+2. El ministeri competent en matèria de joventut ha de mantenir reunions semestrals amb els representants de la Taula Permanent per ser informat dels acords presos per l’FNJA, així com per proposar accions que puguin ser d’interès comú.
+3. Durant el primer trimestre de cada any natural la Taula Permanent ha de presentar els comptes de l’entitat amb l’aprovació prèvia de l’Assemblea de Joves davant el ministeri competent en joventut. Aquesta obligació no eximeix de les obligacions a les quals l’entitat està sotmesa en el marc de la Llei de les finances públiques.
+4. En cas que la Taula Permanent no assoleixi el quòrum indicat en l’article 6.5 en tres convocatòries consecutives i l’Assemblea de Joves no procedeixi a l’elecció de la nova Taula Permanent, el Govern, mitjançant el ministeri competent en joventut, podrà adoptar les accions oportunes amb la finalitat d’encetar l’elecció dels nous càrrecs de la Taula Permanent i promoure la continuïtat de l’FNJA.

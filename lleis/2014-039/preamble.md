@@ -1,0 +1,12 @@
+Llei 39/2014, de l’11 de desembre, del Fòrum Nacional de la Joventut d’Andorra
+Llei 39/2014, de l’11 de desembre, del Fòrum Nacional de la Joventut d’Andorra
+Atès que el Consell General en la seva sessió del dia 11 de desembre del 2014 ha aprovat la següent:
+llei 39/2014, de l’11 de desembre, del Fòrum Nacional de la Joventut d’Andorra
+Exposició de motius
+El dia 17 de maig del 2007 es va aprovar la Llei de creació del Fòrum Nacional de la Joventut d’Andorra.
+Els poders públics, conscients que els correspon fer el possible perquè les condicions siguin òptimes per a una participació lliure i eficaç de la joventut en el desenvolupament polític, social, econòmic, professional, mediambiental i cultural del país, es van proposar, amb l’aprovació d’aquesta Llei, crear una entitat de dret públic de base associativa com a eina que estimuli la participació de la joventut d’Andorra, que permeti fomentar el debat públic i la confrontació pacífica d’idees, i que apropi les inquietuds dels joves a les institucions.
+El Fòrum Nacional de la Joventut d’Andorra ha de ser un espai adequat per canalitzar eficaçment la lliure participació dels joves del Principat d’Andorra en la vida política, social, econòmica i cultural.
+Avui, set anys després, l’arrelament del moviment associatiu juvenil a Andorra segueix trobant serioses dificultats a l’hora de mantenir una continuïtat en el temps. Un dels factors que incideixen de manera més notòria en aquesta manca de continuïtat, el podríem explicar si observem que la majoria dels nostres joves es van a formar a les universitats dels països veïns i, per tant, no poden participar tan activament en la vida associativa com voldrien mentre dura la seva formació. Un segon aspecte que creiem essencial perquè una entitat com aquesta funcioni és el fet de facilitar al màxim tant l’elecció dels seus representants com el funcionament de la mateixa entitat.
+Amb aquesta Llei es pretén facilitar la participació dels joves en el dia a dia de la societat andorrana, mitjançant la simplificació dels seus òrgans de funcionament.
+La nova estructura del Fòrum Nacional de la Joventut preveu la creació d’un òrgan de base participativa personal, l’Assemblea dels Joves, i un òrgan de gestió, la Taula Permanent.
+L’objectiu final és que aquest organisme ofereixi a tots els joves de casa nostra la possibilitat d’expressar de manera lliure i oberta les seves inquietuds personals i col·lectives, així com de crear els canals necessaris perquè aquestes inquietuds arribin sense dilació a les institucions.
