@@ -1,0 +1,3 @@
+# Article 26
+Provisió de fons
+Llevat que les parts hagin acordat altrament, tant la junta arbitral com les institucions arbitrals poden exigir a les parts les provisions de fons que estimin necessàries per a atendre als honoraris i les despeses de la junta arbitral i a les que puguin produir-se en l’administració de l’arbitratge. A falta de provisió de fons per les parts, la junta arbitral pot suspendre o donar per concloses les actuacions arbitrals. Si alguna de les parts no fa la seva provisió, els àrbitres, abans d’acordar la conclusió o la suspensió de les actuacions, ho comuniquen a les altres parts, per si tenen interès en suplir-la dins el termini que es fixi.

@@ -1,0 +1,7 @@
+# Article 21
+Motius i procediment de recusació
+1. Un àrbitre només pot ser recusat si existeixen fets o circumstàncies que donin lloc a dubtes justificats sobre la seva independència o imparcialitat, o si no reuneix les condicions convingudes per les parts o, si aquestes no existeixen, les exigides per la llei aplicable. Tanmateix, una part només pot recusar l’àrbitre nomenat per ella, o en el nomenament del qual hagi participat, per causes de les quals tingui coneixement després del nomenament.
+2. Les parts poden acordar lliurement el procediment de recusació dels àrbitres, sense perjudici del que disposa l’apartat 3.
+3. Si no existeix aquest acord, la part que desitgi recusar un àrbitre ha d’exposar per escrit els motius en els quals basa la recusació, dins els quinze dies després de tenir coneixement de l’acceptació de l’àrbitre o de qualsevol circumstància a què es refereix l’article 19. Llevat que l’àrbitre recusat renunciï al seu càrrec o que les altres parts acceptin la recusació, la junta arbitral, excloent l’àrbitre recusat, decideix sobre la recusació.
+4. Si la recusació en virtut del procediment acordat per les parts o del procediment descrit en l’apartat 3 no prospera, la part recusant pot fer valdre, si escau, la recusació davant la Secció Civil de la Batllia, la decisió de la qual és inapel·lable.
+5. La recusació, mentre no es resolgui, no impedeix les actuacions arbitrals ni priva l’àrbitre recusat de les seves funcions.

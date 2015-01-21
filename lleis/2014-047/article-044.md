@@ -1,0 +1,5 @@
+# Article 44
+Demanda i contesta
+1. Dins el termini convingut per les parts o determinat per la junta arbitral, el demandant ha d’al·legar els fets en els quals fonamenta la demanda, les pretensions que formula i l’objecte de la demanda, i el demandat pot respondre i oposar-se als fets al·legats i les pretensions formulades en la demanda i formular reconvenció, llevat que les parts acordin altrament respecte dels elements que la demanda i la contesta han de contenir necessàriament.
+2. Les parts han d’aportar, en formular els seus escrits d’al·legacions, tots els documents que considerin pertinents o fer-hi referència, així com les altres proves que proposin practicar.
+3. Llevat que ho acordin altrament, qualsevol de les parts pot modificar o ampliar la seva demanda o contesta en el curs de les actuacions arbitrals, sempre que, a criteri de la junta arbitral, respectin els principis fonamentals previstos a l’article 39, no modifiquin substancialment l’objecte del procediment o no siguin improcedents per raó de la demora.

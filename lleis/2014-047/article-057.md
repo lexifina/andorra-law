@@ -1,0 +1,7 @@
+# Article 57
+Procediment per a l’acció d’anul·lació
+1. L’acció d’anul·lació se substancia davant la Sala Civil del Tribunal Superior de Justícia de conformitat amb les normes de procediment previstes per als recursos en matèria civil, amb les especialitats següents:
+a) La demanda d’anul·lació es presenta acompanyada dels document justificatius de la seva pretensió, del conveni d’arbitratge i conté la proposta dels mitjans de prova la pràctica de les quals interessi al demandant de l’acció de nul·litat.
+b) La Sala Civil del Tribunal Superior de Justícia dóna trasllat de la demanda al demandat de l’acció d’anul·lació, perquè contesti si l’interessa en el termini de vint dies. La contesta ha d’anar acompanyada dels documents justificatius de la seva pretensió i contenir la proposta dels mitjans de prova que interessin al demandat de l’acció de nul·litat. De la contesta, el Tribunal Superior en dóna trasllat al demandant perquè presenti els documents addicionals i proposi els mitjans de prova complementaris que l’interessin.
+c) Contestada la demanda o transcorregut el termini corresponent per fer-ho, es convoquen les parts per a la vista, si així ho sol·licita alguna de les parts en els seus escrits de demanda i contestació o si la Sala Civil del Tribunal Superior de Justícia ho creu convenient.
+2. Contra la sentència que dicta el Tribunal Superior de Justícia no hi cap la interposició de recurs.

@@ -1,0 +1,2 @@
+# Disposició transitòria
+Els procediments arbitrals que s’iniciïn a partir de l’entrada en vigor de la present Llei es regulen per aquesta. Els procediments arbitrals en curs de substanciació continuen regulats pel dret anterior. No obstant això, si el laude es dicta una vegada entrada en vigor aquesta Llei, l’acció d’anul·lació, si s’escau, el reconeixement i l’execució es faran d’acord amb aquesta Llei.

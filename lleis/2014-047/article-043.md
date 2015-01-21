@@ -1,0 +1,4 @@
+# Article 43
+Idioma
+1. Les parts poden acordar lliurement l’idioma o els idiomes que hagin d’utilitzar-se en les actuacions arbitrals. A falta de tal acord, la junta arbitral determina l’idioma o els idiomes que s’hagin d’utilitzar. Aquest acord o aquesta determinació és aplicable, llevat que s’hagi especificat altrament, a tots els escrits de les parts, totes les audiències i qualsevol laude, decisió o comunicació d’altra índole que dicti la junta arbitral.
+2. La junta arbitral pot ordenar que qualsevol prova documentada que consti en un idioma o idiomes diferents als acordats per les parts o determinats per la junta arbitral, vagi acompanyada d’una traducció a l’idioma o els idiomes acordats per les parts o determinats per la junta. No obstant això, i llevat que les parts o la junta arbitral ho hagin determinat altrament, els escrits i els documents redactats en espanyol, francès o anglès no necessiten traducció.

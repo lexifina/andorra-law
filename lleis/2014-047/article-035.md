@@ -1,0 +1,3 @@
+# Article 35
+Costes i danys i perjudicis
+El sol·licitant d’una mesura cautelar o d’una ordre preliminar és responsable de les costes i els danys i perjudicis que aquesta mesura o ordre ocasioni a qualsevol part, sempre que la junta arbitral determini ulteriorment que, en les circumstàncies del cas, no s’hauria d’haver adoptat la mesura o emès l’ordre. La junta arbitral pot condemnar-lo en qualsevol moment de les actuacions al pagament de les costes i els danys i perjudicis. Posat cas que la junta arbitral hagués exigit una garantia, es resta d’aquesta, l’import de les costes i els danys i perjudicis.

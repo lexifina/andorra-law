@@ -1,0 +1,5 @@
+# Article 47
+Nomenament de pèrits o experts per la junta arbitral
+1. Llevat que les parts ho acordin altrament, la junta arbitral pot nomenar, d’ofici o a instància de part, un o més pèrits o experts perquè dictaminin sobre matèries concretes que determini la junta arbitral, així com sol·licitar a qualsevol de les parts que faciliti al pèrit o a l’expert la documentació pertinent o que aporti per a la seva inspecció els documents, mercaderies o altres béns pertinents o en proporcioni l’accés.
+2. Llevat que les parts ho acordin altrament, quan una part ho sol·liciti o quan la junta arbitral ho consideri necessari, el pèrit o l’expert, després de la presentació del seu dictamen escrit o oral, ha de participar a una audiència en la qual la junta arbitral i les parts, per si o per mitjà de pèrits o experts, tenen l’oportunitat d’interrogar-lo amb relació als punts controvertits.
+3. El previst en els apartats precedents s’entén sense perjudici de la facultat de les parts, llevat d’acord en contrari, d’aportar dictàmens pericials de pèrits o experts lliurement designats.
