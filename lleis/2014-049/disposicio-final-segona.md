@@ -1,0 +1,2 @@
+# Disposició final segona
+L’apartat 1 de la disposició derogatòria, que deroga l’apartat 3 de l’article 102 de la Llei qualificada de la Justícia, del 3 de setembre de 1993, i també la disposició final primera, que modifica l’apartat 1 de l’article 102 i introdueix dos nous articles 102 bis i 102 ter a la Llei qualificada de la Justícia, del 3 de setembre de 1993, tenen caràcter de llei qualificada. La resta de les disposicions d’aquesta Llei tenen caràcter de llei ordinària.

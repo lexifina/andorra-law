@@ -1,0 +1,5 @@
+# Article 33
+Anotació i comunicació de les sancions i rehabilitació
+1. Les sancions disciplinàries es fan constar en l’expedient personal del col·legiat sancionat i l’anotació pot ser cancel·lada, a l’efecte de rehabilitació, sempre que no hagi incorregut en nova responsabilitat disciplinària, quan hagin transcorregut els terminis de sis mesos en el cas de sancions d’amonestació o multa; un any, en el cas de sancions d’inhabilitació professional no superior a sis mesos; tres anys, en el cas de sancions d’inhabilitació professional superior a sis mesos, i quatre anys, en el cas de sancions d’expulsió.
+2. El termini de caducitat per a la rehabilitació es compta a partir de l’endemà del dia en què s’hagi complert definitivament la sanció. La cancel·lació de l’anotació, un cop complerts els terminis indicats, es pot fer d’ofici o a petició de la persona interessada.
+3. La Junta de Govern del Col·legi ha de comunicar al ministeri encarregat dels col·legis professionals, al Consell Superior de la Justícia i als presidents de la Batllia, del Tribunal de Corts i del Tribunal Superior de Justícia les sancions fermes d’inhabilitació professional o d’expulsió.

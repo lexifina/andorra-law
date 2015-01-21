@@ -1,0 +1,7 @@
+# Article 4
+Intervenció i substitució del procurador
+1. La intervenció professional del procurador en qualsevol procediment i davant de qualsevol jurisdicció no és obligatòria, llevat que així ho prevegin les lleis.
+2. La representació concreta amb la qual el procurador intervé en un procediment s’acredita mitjançant apoderament suficient, atorgat de conformitat amb les disposicions legals.
+3. Les relacions entre el procurador i el client es regeixen per les disposicions contingudes en les lleis, els estatuts del Col·legi, les normes relatives al contracte de mandat i les altres normes i els usos que siguin aplicables.
+4. Els procuradors poden ser substituïts, en l’exercici de la seva professió, per un altre procurador, amb la simple acceptació del client, llevat dels casos en què cal un nou apoderament suficient, de conformitat amb les lleis.
+5. Sense perjudici del que disposin els estatuts del Col·legi i les normes i els usos deontològics en aquesta matèria, el procurador que cessa la representació d’un client està obligat a retornar al client o al nou procurador la documentació que es troba en el seu poder en el termini més breu possible i, en qualsevol cas, en el termini màxim de quinze dies naturals des que sigui requerit formalment a aquest efecte, i també a facilitar al nou procurador la informació necessària per continuar en l’exercici eficaç de la representació del client.

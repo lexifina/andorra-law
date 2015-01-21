@@ -1,0 +1,6 @@
+# Article 15
+Modalitats i responsabilitat en l’exercici de la professió
+1. Els procuradors poden exercir la seva professió individualment o associant-se en societats civils professionals de procuradors, sota qualsevol de les formes admeses en dret. En aquest darrer cas, cal que es mantingui com a objecte exclusiu de la societat l’exercici professional de la procura i que la societat estigui participada majoritàriament per procuradors.
+L’exercici individual de la professió de procurador es pot fer per compte propi, com a titular o associat d’un despatx individual o col·lectiu, o per compte aliè, com a col·laborador d’un despatx individual o col·lectiu, d’acord amb la legislació laboral aplicable.
+2. Els procuradors col·laboradors d’un despatx individual o col·lectiu estan sotmesos als deures i a les obligacions col·legials i són responsables individualment de les actuacions que han realitzat prop dels seus clients, sense perjudici que la responsabilitat pugui recaure també en el procurador o els procuradors titulars o associats del despatx.
+3. Les associacions de procuradors amb altres professionals aliens a l’exercici de la procura són prohibides si posen o poden posar en situació de risc el secret professional, la independència, la llibertat, la lliure i lleial competència o la dignitat professional.
