@@ -1,0 +1,3 @@
+# Disposició addicional cinquena
+El Govern, excepcionalment, tramita a la Sindicatura el Projecte de llei de pressupost general per a l’exercici 2015 sense haver-hi inclòs el pressupost del Fòrum Nacional de la Joventut d’Andorra perquè tots els membres de la Taula Permanent han renunciat expressament als seus càrrecs o han esgotat el mandat sense que s’hagin presentat noves candidatures que permetin la renovació d’aquest òrgan.
+Consegüentment, el Govern, excepcionalment, tramita a la Sindicatura el Projecte de pressupost de l’exercici 2015 d’aquesta entitat de dret públic, de manera separada i amb posterioritat a la resta del Projecte de llei del pressupost general per a l’exercici 2015, i en tot cas, després de constitució de la Taula Permanent.

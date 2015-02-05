@@ -1,0 +1,2 @@
+# Disposició final setena
+S’encomana al Govern que en el termini màxim de tres mesos des de l’entrada en vigor d’aquesta Llei publiqui al Butlletí Oficial del Principat d’Andorra el text consolidat de la Llei de contractació pública, del 9 de novembre del 2000; de la Llei 31/2008, del 18 de desembre, de mesures de reactivació econòmica, i de la Llei 93/2010, del 16 de desembre, de mesures de promoció de l’activitat econòmica i social i d’optimització dels recursos de l’Administració que inclogui les modificacions introduïdes fins ara en aquestes lleis.
