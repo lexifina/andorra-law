@@ -1,0 +1,2 @@
+# Disposició addicional primera. Col·laboració amb entitats privades
+Per tal d’optimitzar els recursos públics i millorar l’eficiència de la prestació dels serveis, el Govern, si ho considera necessari, pot establir acords de col·laboració per portar a terme les assistències a les víctimes previstes en el capítol tercer, així com els programes d’intervenció amb agressors que recull l’article 19 d’aquesta Llei.

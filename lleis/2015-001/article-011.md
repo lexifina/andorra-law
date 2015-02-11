@@ -1,0 +1,7 @@
+# Article 11
+Programes de formació continuada
+1. El Govern ha de vetllar perquè la formació inicial i continuada dels professionals involucrats en la detecció, la intervenció i la prevenció de la violència de gènere i de la violència domèstica sigui una formació integral, multidisciplinària i especialitzada.
+2. El Govern, amb la col·laboració d’entitats i persones professionals en la matèria, ha de dissenyar programes de formació específica en violència de gènere i violència domèstica. Aquesta formació específica ha de diferenciar dos nivells:
+a) El nivell de formació bàsica, dirigit a totes les persones professionals que intervenen indirectament en processos de violència de gènere i violència domèstica.
+b) El nivell de formació capacitadora, dirigit a les persones professionals que intervenen directament en processos de violència de gènere i violència domèstica. Aquest nivell ha de definir i determinar tractaments específics per als diferents tipus de vulneració.
+3. El Govern ha de garantir la formació capacitadora de totes les persones professionals que treballen en la prevenció, la detecció, l’atenció, l’assistència, la recuperació i la reparació de situacions de violència de gènere i violència domèstica.

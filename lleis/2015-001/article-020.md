@@ -1,0 +1,13 @@
+# Article 20
+Comissió Nacional de Prevenció de la Violència de Gènere i Domèstica
+1. Es crea la Comissió Nacional de Prevenció de la Violència de Gènere i Domèstica (en endavant, CONPVGD) com a òrgan de caràcter polític i tècnic per coordinar i cooperar dins de l’Administració els ministeris i els departaments implicats.
+2. La CONPVGD la presideix el titular del ministeri competent en matèria de salut i benestar social, que pot delegar aquesta responsabilitat en un alt càrrec del ministeri esmentat. La composició està integrada per representants dels diversos àmbits del Govern relacionats amb el benestar social, els serveis socials, la salut, l’educació, el treball, l’habitatge i la justícia, i hi ha d’haver obligatòriament i com a mínim un representant del Cos de Policia i un representant de l’Equip d’Atenció Integral a la Dona. Sense perjudici de les previsions contingudes en aquest article, la resta de competències i les normes de funcionament intern de la CONPVGD s’han de desenvolupar mitjançant un reglament.
+3. La CONPVGD té com a funcions principals:
+a) Fer el seguiment del compliment de la Llei.
+b) Dissenyar les estratègies que s’han d’implantar per a la sensibilització, la prevenció, la detecció i la intervenció de les víctimes.
+c) Elaborar el cronograma d’implantació de la Llei i de les estratègies, tot donant prioritat a les actuacions que incideixin en la prevenció de les situacions de violència de gènere i violència domèstica.
+d) Avaluar les polítiques i les actuacions portades a terme.
+e) Elaborar una guia de col·laboració i coordinació en la lluita contra la violència de gènere i la violència domèstica. En el marc d’aquesta funció, la CONPVGD ha de garantir una col·laboració i una coordinació eficaces entre tots els departaments de l’Administració que tinguin com a funció directa o indirecta actuar en casos de violència de gènere i violència domèstica i, principalment, per aconseguir la comunicació i la coordinació necessàries entre els intervinents en processos de violència de gènere i violència domèstica.
+f) Promoure el treball estratègic entre els ministeris i els departaments implicats per compartir metodologies i bones pràctiques en la prevenció i l’eradicació de la violència de gènere i la violència domèstica.
+g) Qualsevol altra que la CONPVGD decideixi en el marc d’aquesta Llei.
+Les estratègies dissenyades per la CONPVGD s’han de recollir en el Pla nacional de serveis socials i sociosanitaris (PNASS).
