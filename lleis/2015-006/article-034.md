@@ -1,0 +1,6 @@
+# Article 34
+Entitats dipositàries dels actius
+1. És responsabilitat de la Comissió Gestora la selecció de les entitats dipositàries del patrimoni del Fons i establir els percentatges de patrimoni a dipositar en una mateixa entitat.
+2. La Comissió Gestora del Fons pot acordar que el dipòsit i custòdia del patrimoni es porti a terme a través d’entitats dipositàries andorranes o estrangeres regulades d’acord amb la legislació OCDE, andorrana o assimilable i establir els percentatges de patrimoni a dipositar en una mateixa entitat amb l’objecte de garantir una diversificació correcta.
+3. El número d’entitats dipositàries ve determinat pel volum de patrimoni del Fons de reserva en cada moment, per les necessitats d’informació i control que pugui tenir la Comissió Gestora i per la maximització de l’eficiència en la prestació d’aquest servei.
+En compliment de l’anterior, es permet contractar entitats dipositàries andorranes que formin part del mateix grup financer que les entitats gestores andorranes, i a la vegada la contractació d’una entitat dipositària global, que dugui a terme les funcions de dipòsit i custòdia d’actius dipositats fora d’Andorra.

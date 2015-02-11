@@ -1,0 +1,3 @@
+# Article 40
+Informació als ciutadans
+El Consell d’Administració del Fons de Reserva vetlla perquè s’estableixin els canals telemàtics necessaris per tal de facilitar informació a la ciutadania sobre l’estructura organitzativa del Fons de reserva, sobre els principis de la seva estratègia d’inversió, que inclou la política d’inversió i la gestió dels riscos, sobre els resultats obtinguts anualment i sobre altres temes d’interès que consideri oportuns.
