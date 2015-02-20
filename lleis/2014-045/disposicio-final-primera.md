@@ -1,0 +1,27 @@
+# Disposició final primera. Modificació de la Llei de la jurisdicció administrativa i fiscal
+1. Es modifica l’article 36 de la Llei de la jurisdicció administrativa i fiscal, del 15 de novembre de 1989, que queda redactat en els termes següents:
+“Article 36
+El termini per interposar la demanda davant la Secció Administrativa del Tribunal de Batlles és d’un mes a comptar de la data de la notificació de l’acte, quan sigui impugnable directament per la via jurisdiccional, o de la data de la notificació de la resolució del recurs administratiu previ. Si no hi ha notificació, el termini és de sis mesos a comptar de la data en què la sol·licitud o el recurs s’hagin de considerar desestimats per silenci administratiu, d’acord amb les disposicions del Codi de l’Administració.”
+2. Es modifica l’article 97 de la Llei de la jurisdicció administrativa i fiscal, del 15 de novembre de 1989, que queda redactat en els termes següents:
+“Article 97
+L’execució de les sentències i les altres resolucions de la jurisdicció administrativa que siguin executòries i que no hagi de dur a terme el saig, d’acord amb la Llei del saig, correspon a la Secció Administrativa del Tribunal de Batlles. El control de l’execució de les sentències i les resolucions esmentades correspon a la Sala Administrativa del Tribunal Superior de Justícia, d’acord amb les disposicions d’aquest títol.
+La Secció Administrativa del Tribunal de Batlles executa també els actes administratius que siguin executoris, a instància de l’Administració pública que els ha dictat, quan no han de ser executats per la mateixa Administració o pel saig, d’acord amb el Codi de l’Administració i la Llei del saig.”
+3. Es modifica l’article 99 de la Llei de la jurisdicció administrativa i fiscal, del 15 de novembre de 1989, que queda redactat en els termes següents:
+“Article 99
+L’Administració pública ha d’informar el ponent de la Secció Administrativa del Tribunal de Batlles de l’execució acomplerta voluntàriament per les parts en relació amb les sentències que hagi dictat el Tribunal, en el termini improrrogable de sis mesos a comptar de la data de la notificació de la sentència ferma i executiva.
+Si, d’acord amb el que disposa el paràgraf anterior, el ponent constata que la sentència no ha estat executada o ha estat executada parcialment o inadequadament, pot practicar-ne d’ofici l’execució forçosa si no l’ha de dur a terme el saig, d’acord amb la Llei del saig.
+En qualsevol cas, si la sentència ferma i executiva declara la nul·litat d’una disposició de caràcter general, la sentència ha de ser publicada íntegrament al Butlletí Oficial del Principat d’Andorra immediatament després de la notificació.”
+4. S’afegeix un article 99 bis a la Llei de la jurisdicció administrativa i fiscal, del 15 de novembre de 1989, abans de la secció primera i dins del capítol II del títol V, que queda redactat en els termes següents:
+“Article 99 bis
+1. L’Administració o la persona administrada que insti l’execució forçosa d’una resolució dictada per la jurisdicció administrativa ha d’adjuntar a la demanda d’execució una còpia de la resolució esmentada i acreditar-ne la fermesa.
+Un cop acreditada la fermesa de la resolució judicial, el ponent de la Secció Administrativa del Tribunal de Batlles dicta un aute d’execució.
+2. Si la resolució judicial condemna al pagament d’una quantitat líquida, l’aute d’execució:
+a) Determina les quantitats que eventualment s’han de satisfer en concepte de principal, interessos i costes, així com les quantitats que hagin estat dipositades o consignades durant la tramitació del procés i especifica a quins dels conceptes esmentats s’imputen les quantitats.
+b) Identifica la persona executada i, si n’hi ha més d’una, fixa les quantitats que ha de satisfer cadascuna pels conceptes esmentats a la lletra a), tenint en compte el règim de responsabilitat de la persona condemnada o de les persones condemnades, si n’hi ha més d’una.
+3. Si la resolució judicial condemna la persona executada a realitzar un acte d’execució que només pot ser acomplert per la persona obligada, que pot ser acomplert per una persona distinta de la persona obligada, o que comporta una obligació de no fer o passiva, s’apliquen els articles 100, 101 i 103, respectivament.
+Si no es dóna compliment a la condemna o no és possible donar-hi compliment en els seus propis termes, i es determina l’obligació de satisfer una multa coercitiva o una indemnització per danys i perjudicis, o quan la condemna inicial comporta subsegüentment l’obligació de satisfer una quantitat líquida, s’aplica l’apartat 2 d’aquest article.
+4. L’Administració o la persona administrada poden formular un incident d’execució contra l’aute d’execució, en el termini de tretze dies hàbils des de la data en què els hagi estat notificat l’aute.
+El ponent de la Secció Administrativa del Tribunal de Batlles dóna trasllat de l’incident d’execució a les demés parts interessades, a fi que en el termini de vuit dies hàbils facin al·legacions.
+Si alguna de les parts interessades s’oposa a l’incident, el ponent les emplaça per tal que en el termini de vuit dies hàbils proposin la pràctica de les proves que entenguin necessàries per tal d’acreditar les al·legacions.
+Un cop practicades les proves proposades que el ponent hagi considerat oportunes, i les altres proves que decideixi d’ofici, dicta un aute que resol l’incident d’execució. Aquest aute pot ser objecte de recurs en apel·lació.”
+5. Es deroga l’article 102 de la Llei de la jurisdicció administrativa i fiscal, del 15 de novembre de 1989.

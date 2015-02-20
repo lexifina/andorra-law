@@ -1,0 +1,2 @@
+# Disposició final segona. Publicació de textos refosos
+S’encomana al Govern que en el termini màxim de tres mesos des de l’entrada en vigor d’aquesta Llei publiqui al Butlletí Oficial del Principat d’Andorra els textos refosos del Codi de l’Administració, del 29 de març de 1989, i de la Llei de la jurisdicció administrativa i fiscal, del 15 de novembre de 1989, que incloguin les modificacions introduïdes fins al moment en aquestes dues lleis i afegeixin un títol a cadascun dels articles de les lleis esmentades.

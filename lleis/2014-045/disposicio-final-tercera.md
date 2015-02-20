@@ -1,0 +1,2 @@
+# Disposició final tercera. Entrada en vigor
+Aquesta Llei entrarà en vigor al cap d’un mes de ser publicada al Butlletí Oficial del Principal d’Andorra, llevat dels articles 1, 2 i 3 i dels apartats 2, 3, 4 i 5 de la disposició final primera, que entraran en vigor l’endemà de la data en què els primers saigs prenguin possessió de les seves funcions. El Govern ha de publicar un avís al Butlletí Oficial del Principal d’Andorra per donar a conèixer aquesta data.
