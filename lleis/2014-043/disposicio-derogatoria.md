@@ -1,0 +1,2 @@
+# Disposició derogatòria. Normes derogades
+Es deroguen el Decret dels veguers del 6 de maig de 1916, l’article 3 i l’article 4 in fine, a partir de “(…) de conformitat amb l’article anterior. El diner efectiu embargat (…)” fins al final de l’article, de l’annex III del Decret dels veguers del 4 de febrer de 1986, així com l’article 95 de la Llei transitòria de procediments judicials, del 21 de desembre de 1993.

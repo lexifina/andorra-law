@@ -1,0 +1,2 @@
+# Disposició final sisena. Entrada en vigor
+El títol I d’aquesta Llei entrarà en vigor al cap d’un mes de ser publicada al Butlletí Oficial del Principat d’Andorra, i el títol II i les disposicions que hi concordin del títol I, així com la disposició derogatòria i les disposicions finals primera, segona i tercera, entraran en vigor l’endemà de la data en què els primers saigs prenguin possessió de les seves funcions. El Govern ha de publicar un avís al Butlletí Oficial del Principat d’Andorra per donar a conèixer aquesta data.
