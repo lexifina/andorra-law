@@ -1,0 +1,7 @@
+# Article 11
+Embargament de béns mobles o immaterials inscrits en registres especials
+1. Sense perjudici de disposar el dipòsit d’acord amb l’article 10, quan decideix l’embargament de vehicles, embarcacions, accions o participacions en societats mercantils, establiments comercials, o altres béns mobles o béns immaterials inscrits en registres administratius, el batlle o el tribunal competent, o el saig o l’Administració, adreça una diligència a la persona encarregada del registre per notificar l’embargament.
+2. En rebre aquesta diligència, la persona encarregada del registre ha d’inscriure una anotació preventiva per donar publicitat de l’embargament practicat, i s’ha d’abstenir d’autoritzar cap canvi en la titularitat dels béns mobles embargats sense l’acord previ del batlle o el tribunal competent, o del saig o l’Administració.
+3. Quan decideix l’embargament d’accions o participacions en societats mercantils, el batlle o tribunal competent, o el saig o l’Administració, també adreça una diligència a tots els notaris i a la Cambra de Notaris, per notificar l’embargament.
+4. En rebre aquesta diligència, els notaris i la Cambra de Notaris procedeixen d’acord amb l’article 9.2.
+5. L’embargament de béns mobles o béns immaterials inscrits en registres administratius es pot realitzar mitjançant el servei informàtic de comunicació corresponent, que permeti l’enviament i la recepció de les diligències amb la garantia plena de l’autenticitat de la comunicació i del seu contingut, i també del moment de l’enviament i la recepció íntegres.

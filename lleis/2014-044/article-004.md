@@ -1,0 +1,5 @@
+# Article 4
+Concurrència de procediments
+Sense perjudici de l’ordre de prelació per al cobrament dels crèdits establert per les lleis, si un procediment singular d’execució concorre amb altres procediments singulars d’execució o amb un procediment concursal o universal d’execució, la preferència per a l’execució dels béns o drets embargats es regeix per les normes següents:
+a) Quan concorren dos o més procediments singulars d’execució, és preferent el procediment en què l’aute o, en defecte d’aute, l’ofici d’embargament del batlle o el tribunal, o l’acord d’embargament del saig o de l’Administració que executa és anterior.
+b) Quan concorre un procediment singular d’execució amb un procediment concursal o universal d’execució, el procediment singular segueix el règim que estableixi la normativa aplicable en matèria concursal. Subsidiàriament, el batlle o el tribunal competent, o el saig o l’Administració, ha de suspendre la tramitació del procediment singular d’execució, llevat que el batlle o el tribunal que coneix el procediment concursal d’execució ho decideixi altrament.

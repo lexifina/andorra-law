@@ -1,0 +1,6 @@
+# Article 5
+Determinació dels béns i drets que s’embarguen
+1. Per determinar els béns i drets que s’embarguen s’ha de tenir en compte la proporcionalitat entre el valor dels béns i drets i l’import que és objecte de l’embargament, la més gran facilitat de realització, i també la mínima onerositat per a la persona embargada.
+2. La persona embargada pot assenyalar béns i drets per fer efectiu l’embargament. L’embargament s’ha de practicar amb preferència sobre aquests béns i drets si garanteixen el cobrament del deute amb la mateixa eficàcia que els altres béns i drets susceptibles d’embargament, i amb això no es causa perjudici a terceres persones.
+3. En qualsevol moment, el batlle o el tribunal competent, o el saig o l’Administració, d’una banda, i la persona embargada, d’altra banda, poden posar-se d’acord en l’ordre d’embargament dels béns o drets. Si no hi ha acord, s’embarguen els béns o drets seguint l’ordre fixat a la Llei de bases de l’ordenament tributari; tanmateix, en el cas dels béns immobles l’habitatge familiar s’embarga en darrer lloc.
+4. No s’han d’embargar els béns o drets el cost de la realització dels quals sigui presumiblement igual o superior a l’import que s’obtingui d’aquesta mateixa realització.

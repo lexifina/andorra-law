@@ -1,0 +1,2 @@
+# Disposició transitòria. Embargaments en curs
+Aquesta Llei és aplicable als embargaments practicats en el marc dels processos que coneguin i tramitin els òrgans jurisdiccionals, que hagin estat instats després de l’entrada en vigor de la Llei. Això no obstant, els batlles i tribunals han d’adaptar a les prescripcions d’aquesta Llei, en la mesura que els sigui possible, els embargaments que practiquin a partir de l’entrada en vigor de la Llei, en el marc de processos instats anteriorment.

@@ -1,0 +1,6 @@
+# Article 9
+Embargament de béns immobles
+1. Quan decideix l’embargament de béns immobles o de drets sobre béns immobles, el batlle o el tribunal competent, o el saig o l’Administració, adreça una diligència a tots els notaris i a la Cambra de Notaris, per notificar l’embargament.
+2. En rebre aquesta diligència, els notaris i la Cambra de Notaris han d’anotar i deixar constància de l’embargament practicat i, a partir del moment de la recepció de la comunicació, els notaris s’han d’abstenir d’autoritzar cap acte de gravamen o de disposició sobre els béns i drets embargats sense l’acord previ del batlle o el tribunal competent, o del saig o l’Administració.
+Si es realitza l’acte de gravamen o disposició sobre un bé o un dret embargat, amb l’acord previ esmentat anteriorment, el notari ha de fer constar en l’escriptura corresponent l’existència de l’embargament i l’import del deute del qual respon.
+3. L’embargament de béns immobles o de drets sobre béns immobles es pot realitzar mitjançant el servei informàtic de comunicació corresponent, que permeti l’enviament i la recepció de les diligències amb la garantia plena de l’autenticitat de la comunicació i del seu contingut, i també del moment de l’enviament i la recepció íntegres.
