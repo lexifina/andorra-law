@@ -1,0 +1,3 @@
+# Article 8
+Responsabilitat del soci
+La responsabilitat de les persones sòcies pels deutes socials es limita a les seves aportacions subscrites al capital social, tant si s’han desemborsat com si estan pendents de desembors. No obstant això, el soci que causi baixa en la cooperativa ha de respondre personalment pels deutes socials, prèvia exclusió de l’haver social, durant tres anys des de la pèrdua de la seva condició de soci, per les obligacions contretes per la cooperativa abans de la seva baixa, fins a l’import reemborsat de les seves aportacions al capital social. Els estatuts socials poden establir el mètode per a la quantificació i la determinació d’aquesta responsabilitat.

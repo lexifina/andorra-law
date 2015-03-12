@@ -1,0 +1,6 @@
+# Article 27
+Exercici del dret de vot
+1. A les cooperatives de primer grau cada soci té un vot. A les de segon grau, cada una de les cooperatives associades, si ho preveuen els estatuts socials, pot exercir un nombre de vots proporcional al de socis que agrupa o a l’activitat realitzada, amb un màxim de cinc vots socials per a cada cooperativa i sense que en cap cas una sola cooperativa pugui ostentar més de la meitat dels vots socials.
+2. Les persones sòcies es poden fer representar a l’assemblea general per un altre soci. La representació s’ha de fer per escrit i especialment per a cada assemblea general. Tanmateix, les persones sòcies es poden fer representar a l’assemblea general pel seu cònjuge, membre d’unió estable de parella, ascendent, descendent o germà, i també per un apoderat amb poders generals, atorgats per mitjà de document públic, d’administració del patrimoni del representat. La representació és revocable. Cada soci no podrà representar més de dos socis absents.
+3. Les persones jurídiques i les persones físiques sotmeses a representació legal han d’assistir a l’assemblea general a través dels seus representants legals.
+4. Els estatuts socials poden establir els supòsits en què el soci s’hagi d’abstenir de votar per trobar-se en conflicte d’interessos.

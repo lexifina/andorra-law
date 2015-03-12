@@ -1,0 +1,6 @@
+# Article 25
+Convocatòria
+1. L’assemblea general, tant ordinària com extraordinària, ha de ser convocada pel Consell Rector o, en el seu cas, per l’administrador, o pels liquidadors, mitjançant una comunicació, individual i escrita, als socis, en la forma determinada als estatuts socials, amb una antelació mínima de quinze dies naturals i màxima de trenta dies naturals de la data prevista de la reunió. En tot cas s’ha de publicar un anunci en el domicili social.
+2. La convocatòria de l’assemblea general ha d’expressar amb claredat els assumptes a tractar, el lloc, el dia i l’hora de la reunió. També s’hi ha d’indicar, si s’escau, la data i l’hora de reunió de l’assemblea general en segona convocatòria.
+3. L’assemblea general s’ha d’entendre constituïda vàlidament amb caràcter universal si, sent-hi presents o representats totes les persones sòcies, cap d’elles no s’hi oposa, aprovant tots ells l’ordre del dia.
+4. Són d’aplicació a les cooperatives les normes contingudes als articles 32 i 33 de la Llei 20/2007, del 18 d’octubre, de societats anònimes i de responsabilitat limitada. Les referències als administradors contingudes en aquests preceptes s’han d’entendre efectuades al Consell Rector o, si s’escau, a l’administrador únic.

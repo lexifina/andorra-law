@@ -1,0 +1,4 @@
+# Article 7
+Activitat cooperativitzada amb tercers no socis
+1. Les cooperatives poden realitzar amb terceres persones no sòcies operacions pròpies de la seva activitat, si ho preveuen els seus estatuts socials, i amb els límits i les condicions fixades en aquesta Llei. En cap cas l’activitat amb tercers no pot constituir l’activitat majoritària.
+2. Qualsevol cooperativa que, per circumstàncies excepcionals que no li siguin imputables, vegi compromesa la seva viabilitat econòmica pel fet d’operar exclusivament amb els seus socis i, si escau, amb terceres persones no sòcies dins els límits establerts, pot ser autoritzada pel ministeri responsable del Registre de Societats, prèvia sol·licitud, per a realitzar, o, si s’escau, per ampliar activitats i serveis amb terceres persones no sòcies, pel termini i fins a la quantia que fixi l’autorització.

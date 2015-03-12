@@ -1,0 +1,6 @@
+# Article 34
+Funcionament del Consell Rector
+Els estatuts socials han de regular el funcionament intern del Consell Rector, tenint en compte les normes següents:
+a) Les deliberacions només són vàlides si hi assisteix més de la meitat dels components. Aquest quòrum pot ser reforçat pels estatuts. Els membres del Consell Rector poden assistir a les reunions d’aquest òrgan emprant mitjans telemàtics, sempre que aquesta possibilitat s’hagi fet constar als estatuts socials i reculli els mecanismes per garantir la identitat dels membres i la integritat del sentit del seu vot.
+b) Els membres del consell rector poden concedir la representació, si no hi assisteixen, a un altre membre. Cada membre del Consell Rector només en pot representar un altre. L’esmentada representació s’ha de conferir per escrit i especialment per a cada reunió del Consell Rector.
+c) Els acords s’adopten per la majoria absoluta dels membres del Consell Rector presents o representats. Aquest quòrum pot ser reforçat pels estatuts. Els estatuts poden atribuir a la presidència un vot diriment en cas d’empat a les votacions. El Consell Rector també pot prendre acords sense sessió. En aquest cas, el vot es pot emetre per correu ordinari o per qualsevol mitjà de telecomunicació electrònica, sempre que la identitat del soci i la integritat del sentit del seu vot quedin garantides suficientment.

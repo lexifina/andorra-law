@@ -1,0 +1,10 @@
+# Article 47
+Operacions de liquidació i adjudicació de l’haver social
+1. Els liquidadors realitzen les operacions de liquidació necessàries per a l’extinció ordenada de la societat cooperativa. Aquestes operacions inclouen la liquidació de l’actiu, la reclamació i percepció dels crèdits pendents, i la liquidació del passiu.
+Una vegada acabades les operacions de liquidació, els liquidadors presenten un balanç final de liquidació, amb un informe sobre les operacions realitzades i una proposta d’adjudicació de l’haver social, perquè l’assemblea general els aprovi.
+Satisfets íntegrament els deutes socials i consignats els crèdits no vençuts, l’adjudicació de l’haver social s’efectua de la forma següent:
+a) En primer lloc, el Fons d’Educació i Promoció Cooperatives es posa a disposició de la cooperativa o cooperatives, associació o associacions, que figurin als estatuts. En defecte de les anteriors, els estatuts poden disposar que el Fons d’Educació i Promoció Cooperatives es lliuri a entitats sense ànim de lucre que persegueixin finalitats d’interès general, públiques o privades.
+b) Subsegüentment, es reintegra als socis llurs aportacions al capital social, actualitzades quan s’escaigui i una vegada abonats o deduïts els beneficis o pèrdues corresponents a exercicis anteriors. El reintegrament comença pels socis que, havent causat baixa com a tals i sent titulars d’aportacions a capital social de les regulades a l’article 39.1.b), el seu reemborsament els hi va ser refusat per l’òrgan d’administració. Tenen preferència a efectes de reintegrament, les aportacions voluntàries respecte les obligatòries.
+c) A continuació, es reintegra als socis els fons de reserva voluntaris que tinguin caràcter repartible.
+d) Finalment, l’haver líquid sobrant, si existeix, es posa a disposició de les entitats, públiques o privades, sense ànim de lucre, que prevegin els estatuts.
+2. Un cop practicades les operacions anteriors, les persones liquidadores han d’atorgar escriptura pública d’extinció, d’acord amb allò previst als articles 98 i 99 de la Llei 20/2007, del 18 d’octubre, de societats anònimes i de responsabilitat limitada.

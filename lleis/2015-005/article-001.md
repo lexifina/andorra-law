@@ -1,0 +1,6 @@
+## Capítol I. Disposicions generals
+# Article 1
+Concepte legal de cooperativa
+1. Les cooperatives són societats, amb personalitat jurídica pròpia, que associen persones físiques o jurídiques que es proposen millorar la situació econòmica i social dels seus socis, amb plena autonomia de gestió, capital variable i democràcia interna. Amb aquesta finalitat desenvolupen una activitat empresarial de base col·lectiva, en la qual el servei mutu i l’aportació econòmica de tots els socis tendeixen a millorar les relacions humanes i a posar els interessos col·lectius per damunt de tota idea de benefici particular.
+2. Pot ser objecte de la societat cooperativa qualsevol activitat econòmica o social lícita, excepte aquelles que estiguin reservades per llei a una forma societària concreta o a una regulació sectorial especial.
+3. Les cooperatives han d’ajustar la seva estructura, organització i funcionament als principis d’adhesió voluntària i oberta a la cooperativa; gestió democràtica per part dels socis; autonomia d’organització i independència; participació econòmica dels socis; promoció de l’educació i la formació dels socis; cooperació entre les cooperatives; i compromís amb la societat i l’entorn.

@@ -1,0 +1,12 @@
+## Capítol III. Els socis
+# Article 14
+Persones que poden ser socis. Classes de socis
+1. Poden ser socis de la cooperativa de primer grau les persones físiques o jurídiques, aquestes últimes quan el seu fi i objecte social no sigui contrari als principis cooperatius ni a l’objecte social de la cooperativa.
+A les cooperatives de segon grau poden ser sòcies les cooperatives i les altres persones jurídiques en els termes que preveu aquesta Llei. També poden ser socis d’aquestes cooperatives els socis de treball.
+En el cas de persones físiques o jurídiques la nacionalitat de les quals no sigui l’andorrana, s’han de complir les previsions de la Llei 10/2012, del 21 de juny, d’inversió estrangera al Principat d’Andorra, i si són sòcies d’una cooperativa de treball o socis de treball d’una cooperativa d’una altra classe, han de disposar d’autorització administrativa per treballar al Principat d’Andorra.
+Les entitats públiques poden formar part com a socis de qualsevol cooperativa que es dediqui a la prestació de serveis públics o d’interès general.
+2. Els socis d’una cooperativa poden ser:
+a) Socis cooperadors: són els socis de ple dret de la cooperativa que desenvolupen l’activitat cooperativitzada i han efectuat l’aportació obligatòria i en el seu cas, voluntària al capital social.
+b) Socis de treball: en les cooperatives de primer grau i en les de segon grau, sempre que estigui prevista la seva existència i règim jurídic en els estatuts o al reglament de règim intern de la cooperativa, són socis de treball les persones físiques l’activitat cooperativitzada de les quals és la prestació del seu treball personal en la cooperativa.
+c) Socis col·laboradors: sempre que estigui prevista la seva existència i règim jurídic en els estatuts o al reglament de règim intern de la cooperativa, són socis col·laboradors aquells que sense poder desenvolupar amb plenitud l’activitat cooperativitzada, poden contribuir a la consecució de l’objecte social i als fins de la cooperativa. En cap cas els socis col·laboradors no poden superar als socis cooperadors ni en capital, ni en vots, ni en nombre, i no poden fer competència a la cooperativa.
+d) Socis excedents: els estatuts socials poden preveure que els socis que deixin de desenvolupar l’activitat cooperativitzada però desitgin mantenir els vincles societaris amb la cooperativa, sol·licitin passar a tenir la consideració de socis excedents.
