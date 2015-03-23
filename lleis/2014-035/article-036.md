@@ -1,0 +1,7 @@
+# Article 36
+Inici d’un servei de confiança electrònica
+1. Els prestadors de serveis de confiança electrònica indicats a l’article 33.1 han de notificar a l’organisme de supervisió la seva intenció d’iniciar la prestació d’un servei de confiança electrònica, i han de presentar-li un informe d’auditoria de la seguretat elaborat per un organisme independent reconegut, segons el que preveu l’article 35.
+2. Un cop els prestadors de serveis de confiança electrònica indicats a l’article 33.1 puguin començar a prestar el servei de confiança electrònica, s’han d’incloure a les llistes de confiança electrònica a què es refereix l’article 37, i indicar-hi aquesta circumstància.
+3. L’organisme de supervisió verifica la conformitat del prestador de serveis de confiança electrònica i dels serveis de confiança electrònica qualificats que presta amb els requisits de la Llei.
+L’organisme de supervisió indica l’estat de qualificació dels prestadors de serveis qualificats i dels serveis de confiança electrònica qualificats que presta a les llistes de confiança electrònica després que la verificació hagi conclòs positivament, al més tard un mes després d’efectuar la notificació de conformitat amb l’apartat 1.
+Si la verificació no ha conclòs en el termini d’un mes, l’organisme de supervisió n’informa el prestador de serveis de confiança electrònica especificant els motius de la demora i el termini previst per concloure la verificació.

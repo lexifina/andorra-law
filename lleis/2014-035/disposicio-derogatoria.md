@@ -1,0 +1,2 @@
+# Disposició derogatòria
+Queden derogades totes les disposicions de rang igual o inferior a aquesta Llei que hi siguin incompatibles i, en particular, la Llei 6/2009, del 29 de desembre, de signatura electrònica, el Decret del 2-06-2010 pel qual s’aprova el Reglament d’organització i de funcionament de la Comissió Nacional d’Acreditació i el Decret de 2-06-10 pel qual s’aprova el Reglament d’acreditació de prestadors de serveis de certificació en el cas de la signatura electrònica qualificada o reconeguda.

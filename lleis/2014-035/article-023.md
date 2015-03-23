@@ -1,0 +1,6 @@
+# Article 23
+Digitalització documental
+1. Sempre que la reproducció no vulneri drets de propietat intel·lectual, s’autoritzen les còpies electròniques dels documents en suport paper o en un altre suport susceptible de digitalització, ja es tracti de documents públics o privats.
+2. Es podrà conservar en suport digital un document públic o privat en paper amb els efectes que preveu l’apartat següent d’aquest article si la digitalització es realitza mitjançant un procés de digitalització qualificada.
+3. El procés de digitalització qualificada permet considerar els documents electrònics obtinguts com a equivalents als documents en paper digitalitzats, i admissibles com a prova en procediments judicials i administratius de tot tipus, amb el mateix valor que els originals en suport paper originals, i sense necessitat de comptar amb aquests originals.
+4. El Govern pot dictar disposicions reglamentàries per definir de forma més precisa els requeriments dels processos de digitalització qualificada, així com establir números de referència de normes relatives als mateixos processos, que han de ser publicats al Butlletí Oficial del Principat d’Andorra. Es presumeix el compliment dels requisits de l’apartat 1 quan el procés s’ajusti a aquestes normes.

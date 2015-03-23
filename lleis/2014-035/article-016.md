@@ -1,0 +1,4 @@
+# Article 16
+Servei de conservació de les signatures electròniques qualificades i dels segells electrònics qualificats
+1. Presta un servei de conservació de signatures electròniques i de segells electrònics qualificat el prestador de serveis de confiança electrònica qualificat que utilitzi procediments i tecnologies capaços d’ampliar la fiabilitat de les dades de validació de la signatura electrònica qualificada i del segell electrònic qualificat més enllà del període de validesa tecnològic.
+2. El Govern pot dictar disposicions reglamentàries per definir de forma més precisa els requeriments per a la conservació de signatures electròniques qualificades i segells electrònics qualificats, així com establir números de referència de normes relatives a la mateixa conservació, que han de ser publicats al Butlletí Oficial del Principat d’Andorra. Es presumeix el compliment dels requisits establerts a l’apartat 1 quan el servei de conservació s’ajusti a aquestes normes.

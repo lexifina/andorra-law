@@ -1,0 +1,4 @@
+# Article 29
+Declaració de pràctiques de confiança electrònica
+1. Els prestadors de serveis de confiança electrònica han d’elaborar una declaració prèvia de pràctiques de confiança electrònica en la qual s’han d’incloure les obligacions i les garanties a les quals es comprometen en relació amb la gestió dels serveis de confiança electrònica i les dades implicades en els mateixos serveis, les condicions aplicables a les sol·licituds, l’ús, la suspensió de la vigència, i l’extinció, les mesures de seguretat aplicables, així com la resta de dades i informacions que s’estableixin en relació amb cada servei de confiança electrònica.
+2. El prestador de serveis de confiança electrònica ha de fer pública, almenys per via electrònica, la declaració de pràctiques de confiança electrònica, de forma gratuïta i amb accés lliure.
