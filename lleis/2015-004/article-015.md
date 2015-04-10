@@ -1,0 +1,6 @@
+## Capítol tercer. Disposicions en matèria social
+# Article 15
+Condicions socials del transport per carretera
+1. Les activitats de transport s’han de realitzar amb estricta i rigorosa observació de les normes de caràcter social establertes per a la seva execució, d’acord amb els convenis i tractats internacionals subscrits, en particular amb l’Acord europeu relatiu al treball dels equips de conducció dels vehicles que realitzen transports internacionals per carretera (AETR), fet a Ginebra l’1 de juliol de 1970.
+2. El ministeri competent ha d’establir els reglaments de caràcter social. Aquestes normes han de regular el temps de conducció, les pauses i els períodes de descans per als conductors que es dediquin al transport públic i privat de viatgers i de mercaderies, per harmonitzar les condicions de competència entre mitjans de transport i millorar les condicions de treball i de seguretat viària.
+3. Amb aquestes mateixes finalitats, els reglaments també han de regular el temps de treball, les pauses i els períodes de descans dels treballadors mòbils que participin en activitats de transport públic de viatgers i de mercaderies, i també han d’establir mesures de regulació de la circulació d’algunes modalitats de transport.

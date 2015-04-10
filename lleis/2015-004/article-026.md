@@ -1,0 +1,9 @@
+# Article 26
+Organització empresarial
+1. La realització del transport públic es duu a terme sota la direcció i la responsabilitat de la persona que l’ha contractat com a transportista. Aquesta realització s’efectua a través de la seva pròpia organització empresarial, tret dels supòsits de col·laboració entre transportistes previstos en el títol VII.
+2. S’entén que els vehicles estan integrats en l’organització empresarial del transportista quan aquest en disposa en propietat, lloguer, lísing, o en virtut d’una altra forma jurídica vàlida i autoritzada a aquest efecte.
+3. Els vehicles destinats a les activitats de transport han de reunir les condicions tècniques imposades per la normativa vigent en la matèria, de caràcter general i especial per a cada tipus de transport.
+4. El ministeri competent estableix per reglament els requisits que han de complir els vehicles en matèria d’eficiència energètica, d’utilització de nous combustibles per millorar la sostenibilitat, d’accessibilitat, de característiques tècniques (dimensions i pesos, entre altres), de càrrega i estiba de la mercaderia, així com la utilització de noves tecnologies (geolocalització i gestió de flota, entre altres), que permetin que el transport sigui més eficaç en benefici dels usuaris i dels transportistes.
+5. Tots els vehicles de transport públic i privat han d’anar retolats amb el nom comercial de l’empresa, excepte els taxis discrecionals o ocasionals i els vehicles de lloguer amb conductor.
+6. El transportista o l’empresa de lloguer de vehicles han de garantir que els vehicles integrats en la seva organització empresarial disposen d’aparcament suficient.
+7. Correspon al ministeri competent fixar per reglament els requisits i les condicions segons els quals es pot realitzar publicitat exterior i interior en els vehicles, tenint en compte la classe de transport a què es destinin.

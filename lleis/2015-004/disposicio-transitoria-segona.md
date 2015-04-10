@@ -1,0 +1,2 @@
+# Disposició transitòria segona. Capacitat econòmica
+Les empreses inscrites en el Registre General de Transportistes disposen d’un termini de dos anys a partir de l’entrada en vigor de la Llei per lliurar al ministeri competent la garantia prevista en l’article 23, per a les empreses de transport públic; la garantia prevista en l’article 84, per a les empreses de lloguer de vehicles, i la garantia prevista en l’article 90, per als operadors terrestres.

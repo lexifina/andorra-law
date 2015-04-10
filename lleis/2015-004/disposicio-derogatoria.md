@@ -1,0 +1,2 @@
+# Disposició derogatòria
+Queden derogades la Llei reguladora del transport públic de passatgers per carretera, de l’11 d’octubre de 1985, i la Llei sobre les condicions per a l’exercici de l’activitat de transport i de disposicions en matèria social en el sector del transport per carretera, del 4 de novembre de 1993. També queden derogades totes les normes de rang igual o inferior que s’oposin a aquesta Llei o la contradiguin.

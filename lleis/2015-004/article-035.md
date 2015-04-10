@@ -1,0 +1,4 @@
+# Article 35
+Assegurança d’accidents
+1. A més de les assegurances no obligatòries d’accident que puguin oferir als seus clients, les empreses dedicades al transport públic de viatgers han de tenir obligatòriament concertades i vigents tantes pòlisses com vehicles per cobrir la responsabilitat civil que es pugui derivar de qualsevol sinistre ocorregut durant la realització del transport, tant davant de terceres persones, com davant dels mateixos viatgers i ocupants, des de la seva recollida fins que aquests hagin deixat indemnes el vehicle en el seu punt de destinació.
+2. Les pòlisses d’assegurança han de contenir la menció expressa que els viatgers i els ocupants tenen la consideració de tercers i que la garantia s’estén a la responsabilitat civil que pugui contreure qualsevol persona que, amb autorització o contracte del titular o propietari del vehicle, el condueixi i realitzi efectivament el transport.

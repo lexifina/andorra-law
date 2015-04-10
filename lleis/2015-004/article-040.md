@@ -1,0 +1,4 @@
+# Article 40
+Exclusivitat de les concessions i de les autoritzacions administratives lliurades pel ministeri competent
+1. Les concessions i autoritzacions administratives s’entenen atorgades amb caràcter exclusiu i mentre estiguin vigents no es poden establir altres concessions o autoritzacions que cobreixin serveis de transport duplicats, excepte en supòsits excepcionals per raons d’interès general.
+2. Quan s’acordi de forma excepcional l’establiment o la creació d’un servei públic regular de transport de viatgers l’itinerari del qual coincideixi de manera total o parcial amb un altre de ja existent i objecte al seu torn de concessió o autorització, s’ha d’articular la seva gestió com un afegitó o una ampliació de la concessió o autorització preexistent, respectant l’equilibri economicofinancer del servei.

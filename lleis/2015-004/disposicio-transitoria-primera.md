@@ -1,0 +1,4 @@
+# Disposició transitòria primera. Capacitació professional de les empreses de lloguer de vehicles i dels mediadors
+1. Es reconeix la capacitació professional per exercir l’activitat de lloguer de vehicles i l’activitat de mediació a les persones que la tenien legalment reconeguda abans de l’entrada en vigor d’aquesta Llei.
+2. Les empreses de lloguer de vehicles i les empreses de mediació disposen d’un termini de dos anys a partir de l’entrada en vigor de la Llei per comunicar al ministeri competent la persona que de forma efectiva dirigeix l’empresa i que disposa del requisit de capacitació professional. Aquesta persona ha de ser andorrana o legalment resident i amb dret d’exercir el comerç.
+3. A les empreses que no efectuïn la comunicació prevista en l’apartat anterior se’ls aplicarà l’article 25, a fi de revocar la seva inscripció en el Registre General de Transportistes.

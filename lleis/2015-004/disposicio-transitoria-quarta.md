@@ -1,0 +1,3 @@
+# Disposició transitòria quarta. Normes reglamentàries, concessions i autoritzacions administratives existents
+1. Fins que no s’aprovin les normes de desenvolupament d’aquesta Llei, es mantenen en vigor, en tot el que resulti compatible amb el seu contingut, les disposicions reglamentàries en matèria de transport vigents a l’entrada en vigor d’aquesta Llei, així com les concessions i les autoritzacions administratives atorgades pel ministeri competent d’acord amb les mateixes disposicions.
+2. Les empreses que actualment són explotadores de concessions o autoritzacions administratives han de continuar donant el servei amb la mateixa qualitat fins que entrin en servei, una vegada adjudicades, les noves concessions o autoritzacions administratives.

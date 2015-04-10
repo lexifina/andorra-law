@@ -1,0 +1,5 @@
+# Article 82
+Col·laboració entre transportistes
+1. Per afrontar situacions excepcionals d’intensitat en el nombre de viatgers o de demandes de transport de mercaderies que sobrepassin la mateixa capacitat operativa de l’empresa, que no puguin ser ateses pels vehicles adscrits a l’organització empresarial del transportista, aquest les pot atendre utilitzant la col·laboració d’altres transportistes que disposin dels mitjans necessaris. Els vehicles poden ser amb conductor o sense i utilitzant qualsevol fórmula jurídica vàlida de col·laboració. Els vehicles han de disposar de les característiques i autoritzacions necessàries per realitzar el transport de què es tracti.
+2. En tot cas i a tots els efectes de les obligacions i responsabilitats de caràcter jurídic, el servei s’entén prestat per l’empresa titular, considerant els vehicles cedits pels altres transportistes, integrats en la seva organització empresarial.
+3. En el cas d’una concessió o autorització administrativa, l’empresa afectada ha de respectar el previst en el contracte o autorització, o demanar l’autorització del ministeri competent.

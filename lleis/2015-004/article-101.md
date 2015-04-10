@@ -1,0 +1,14 @@
+# Article 101
+Infraccions i sancions del transport transfronterer de fons en euros
+1. Per a les empreses nacionals amb llicència transfronterera, si el ministeri competent en matèria de transport té coneixement que s’ha produït una infracció d’alguna de les condicions amb les quals s’ha concedit la llicència, el ministeri pot enviar una advertència, imposar una sanció, suspendre la llicència durant un període comprès entre dues setmanes i dos mesos o retirar la llicència definitivament a l’empresa, en funció de la natura o de la gravetat de la infracció. Igualment, pot denegar a l’empresa sancionada la sol·licitud d’una nova llicència per un termini de fins a cinc anys.
+Quan es tingui coneixement d’aquesta infracció a través de les autoritats competents de l’Estat de trànsit o acollida, les sancions són imposades en el termini màxim de dos mesos.
+2. Per a les empreses estrangeres amb llicència transfronterera, si el ministeri competent en matèria d’interior o el ministeri competent en matèria de transport descobreix que s’ha produït una infracció, aquests ministeris ho comuniquen a l’autoritat expedidora de la llicència de l’empresa que decidirà la sanció adequada.
+Igualment, el ministeri competent en matèria d’interior comunica a l’autoritat expedidora qualsevol infracció referida a:
+a) La notificació anticipada al Servei de Policia de les operacions de transport de fons.
+b) L’obligatorietat que els vehicles estiguin equipats amb un dispositiu que permeti el seu seguiment.
+c) Les obligacions d’escolta de les operacions de transport de punt a punt de valor elevat per part del Servei de Policia.
+3. A més a més de les comunicacions referides a l’apartat 2, el ministeri competent en matèria de transport, amb l’informe previ lliurat pel ministeri competent en matèria d’interior, pot imposar una sanció en cas d’infracció de les lletres a), b) i c) de l’apartat 2, així com en relació amb les modalitats de transport previstes reglamentàriament, i també pot prohibir al personal de seguretat encarregat del transport efectuar transport transfronterer en el territori andorrà.
+4. El ministeri competent en matèria de transport, amb l’informe previ lliurat pel ministeri competent en matèria d’interior, pot suspendre el dret d’utilització de la llicència dins del territori andorrà durant un període màxim de dos mesos, fins que es pronunciï l’autoritat expedidora de la llicència de l’empresa, que ha d’adoptar la seva decisió dins d’aquest termini, si l’empresa de transports de fons:
+a) No ha respectat les normes relatives al nombre mínim del personal de seguretat encarregat del transport de fons en cada vehicle o relatives a les armes.
+b) Exerceix la seva activitat de manera que representa un perill per a l’ordre públic.
+c) Ha comès reiterades infraccions a la normativa aplicable.
