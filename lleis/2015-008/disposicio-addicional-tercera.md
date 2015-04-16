@@ -1,0 +1,3 @@
+# Disposició addicional tercera. Pressupost de l’AREB
+1. En el termini de dos mesos a comptar de l’entrada en vigor d’aquesta Llei, el Consell d’Administració de l’AREB ha d’aprovar l’avantprojecte del seu pressupost i traslladar-lo al Govern perquè el tramiti com un projecte de llei de modificació del pressupost per a l’exercici 2015, d’acord amb el que estableix la disposició final primera d’aquesta Llei.
+2. S’autoritza el Govern a fer una dotació provisional a l’AREB per un import de 500.000 euros per atendre les necessitats de funcionament d’aquest ens públic mentre no tingui aprovat el seu pressupost.

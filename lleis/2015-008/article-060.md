@@ -1,0 +1,17 @@
+# Article 60
+Finançament
+1. Amb la finalitat d’arribar al nivell de recursos financers previst en l’article anterior, l’AREB ha de recaptar anualment contribucions ordinàries de les entitats calculades de manera lineal de conformitat amb els criteris següents:
+a) La contribució de cada entitat s’ha d’actualitzar anualment i ha de correspondre a la proporció que aquesta entitat representi sobre el total agregat de les entitats del concepte següent: passius totals de l’entitat, exclosos els recursos propis i l’import garantit de dipòsits de conformitat amb el que preveu la Llei 1/2011, del 2 de febrer, de creació d’un sistema de garantia de dipòsits per a les entitats bancàries.
+b) Les contribucions s’han d’ajustar al perfil de risc de cada entitat, d’acord amb els criteris següents:
+(i) el nivell de risc de l’entitat, amb inclusió de la importància de les seves activitats comercials, els riscos fora de balanç i el seu grau de palanquejament;
+(ii) l’estabilitat i la varietat de les fonts de finançament i els actius de liquiditat elevada lliures de càrregues de l’empresa;
+(iii) la situació financera de l’entitat;
+(iv) la probabilitat que l’entitat sigui objecte de resolució;
+(v) el grau en què l’entitat s’ha beneficiat amb anterioritat d’ajudes financeres públiques extraordinàries;
+(vi) la complexitat de l’estructura de l’entitat;
+(vii) la importància de l’entitat per a l’estabilitat del sistema financer o l’economia d’Andorra.
+2. Quan els recursos financers disponibles no siguin suficients per cobrir les pèrdues, els costos o les altres despeses ocasionades per la utilització dels mecanismes de finançament, l’AREB podrà sol·licitar contribucions extraordinàries ex post de les entitats autoritzades a operar al seu territori amb la finalitat de cobrir les necessitats addicionals. Aquestes contribucions extraordinàries ex post s’han d’assignar entre les entitats d’acord amb les normes establertes a l’apartat 1 i en cap cas no poden superar el triple de l’import anual de les contribucions determinat d’acord amb l’apartat 1.
+L’AREB pot ajornar, totalment o parcialment, l’obligació d’una entitat del pagament de la contribució extraordinària ex post al mecanisme de finançament de la resolució si la contribució posa en perill la liquiditat o la solvència de l’entitat. Aquest ajornament no es pot atorgar per un període superior a sis mesos, però es pot renovar a petició de l’entitat bancària. La contribució ajornada en virtut d’aquest apartat s’ha d’efectuar quan el pagament ja no posi en perill la liquiditat o la solvència de l’entitat.
+3. En cas que els imports recaptats de conformitat amb l’apartat 1 no siguin suficients per cobrir les pèrdues, els costos o altres despeses ocasionades per la utilització dels mecanismes de finançament i que les contribucions extraordinàries ex post previstes a l’apartat 2 no estiguin disponibles de forma immediata o no siguin suficients, l’AREB podrà contreure emprèstits o altres formes de suport procedent d’entitats, entitats financeres o d’altres tercers.
+4. En circumstàncies extraordinàries i per raons d’urgència, el FAREB es pot finançar mitjançant aportacions realitzades per l’Estat.
+5. El patrimoni no compromès del FAREB ha d’estar materialitzat en deute públic o en altres actius de liquiditat elevada i baix risc. Qualsevol benefici meritat i comptabilitzat en els seus comptes anuals s’ha d’ingressar al mateix FAREB.

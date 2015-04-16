@@ -1,0 +1,7 @@
+# Article 63
+Impossibilitat d’execució de sentències dictades en els recursos administratius als quals es refereix l’article 61 d’aquesta Llei
+1. L’INAF o l’AREB poden al·legar davant l’autoritat judicial les causes que determinin la impossibilitat material d’executar una sentència que declari contrària a dret alguna de les decisions o dels actes previstos en aquesta Llei. L’autoritat judicial ha d’apreciar la concurrència o no d’aquestes causes i ha de fixar, si escau, la indemnització que s’hagi de satisfer d’acord amb el criteri d’atribució de responsabilitat fixat en aquesta Llei. L’import d’aquesta indemnització ha d’arribar, com a màxim, a la diferència entre el dany patit efectivament pel recurrent i la pèrdua que hauria suportat en cas que, en el moment d’adoptar-se la decisió o l’acord corresponent, s’hagués produït la liquidació de l’entitat en el marc d’un procediment concursal.
+2. En valorar les causes que determinen la impossibilitat material d’executar una sentència, d’acord amb el que preveu a l’apartat anterior, l’autoritat judicial ha de tenir en compte particularment:
+a) El volum especialment significatiu o la complexitat de les operacions afectades o que es puguin veure afectades.
+b) L’existència de perjudicis que, en cas d’executar-se la sentència en els seus termes estrictes, es derivarien per a l’entitat i per a l’estabilitat del sistema financer.
+c) L’existència de drets o interessos legítims d’altres accionistes, socis, obligacionistes, creditors o qualssevol altres tercers, emparats per l’ordenament jurídic.

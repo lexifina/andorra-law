@@ -1,0 +1,11 @@
+# Article 27
+Efectes de l’amortització i conversió dels instruments de capital i la recapitalització interna
+1. Quan l’AREB exerceixi les competències regulades en aquest capítol, la reducció de l’import principal o pendent degut, la conversió o la cancel·lació dels passius han de ser executives immediatament.
+2. En cas que s’amortitzi l’import principal d’un instrument de capital pertinent, es produiran els efectes següents:
+a) La reducció de l’import principal serà permanent, sense perjudici del mecanisme de compensació que, si escau, es pugui aplicar.
+b) En relació amb el titular del passiu afectat, no subsistirà cap obligació respecte a l’import de l’instrument que hagi estat amortitzat, excepte quan es tracti d’una obligació ja meritada o d’una obligació resultant dels danys i perjudicis sorgits com a conseqüència de la sentència que resolgui el recurs contra l’exercici de la competència d’amortització i conversió dels instruments de capital o de la recapitalització interna.
+c) No es pagarà cap indemnització als titulars dels passius afectats.
+3. L’AREB està facultada per dur a terme o exigir que es duguin a terme els tràmits per fer efectiu l’exercici d’aquestes competències.
+4. Quan l’AREB redueixi a zero l’import principal o l’import pendent d’un passiu, aquest passiu o qualssevol obligacions o reclamacions que en derivin i que no hagin vençut al moment de la reducció, es consideraran extingits amb caràcter general i no es podran computar en una eventual liquidació posterior de l’entitat o d’una altra societat que la succeeixi.
+5. Quan l’AREB redueixi només en part l’import principal o l’import pendent d’un passiu admissible, l’extinció d’aquest passiu i de l’instrument o l’acord que l’hagi creat es produirà solament en la mateixa mesura que es redueixi l’import i sense perjudici de qualsevol modificació de les seves condicions que pugui adoptar l’AREB en virtut de les competències que té atribuïdes.
+6. Quan l’amortització o conversió d’instruments de capital o l’aplicació de l’instrument de recapitalització donin lloc a l’adquisició o l’increment d’una participació qualificada en una entitat, l’avaluació requerida s’ha de dur a terme en un termini tal que no retardi l’aplicació d’aquestes mesures ni impedeixi que compleixin els seus objectius.

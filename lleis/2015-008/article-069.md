@@ -1,0 +1,15 @@
+# Article 69
+Infraccions greus
+Constitueixen infraccions greus les següents:
+a) Negar-se, excusar-se o resistir-se a l’actuació de l’INAF o l’AREB en l’exercici de les funcions que els confereix aquesta Llei, excepte que, per no tenir caràcter merament ocasional o aïllat, constitueixi una infracció molt greu.
+b) La falta de la col·laboració exigible o l’obstrucció per part de l’entitat de les mesures de resolució que hagi decidit aplicar l’AREB, quan tingui caràcter merament ocasional o aïllat.
+c) Qualsevol actuació amb la finalitat d’entorpir o dificultar la valoració econòmica de l’entitat que facin els experts independents, excepte que, per no tenir caràcter merament ocasional o aïllat, constitueixi una infracció molt greu.
+d) No remetre a l’INAF o a l’AREB dades o documents especialment transcendents que li hagin de ser remesos o que requereixin en l’exercici de les seves funcions, o remetre’ls de manera incompleta o inexacta, excepte que això suposi la comissió d’una infracció molt greu. A l’efecte d’aquesta lletra s’entén, així mateix, com a falta de remissió, la remissió fora del termini previst en la norma corresponent o del termini atorgat per l’òrgan competent en efectuar, si escau, el requeriment oportú.
+e) Incomplir el deure de veracitat informativa deguda a l’INAF i a l’AREB, així com incomplir el deure de confidencialitat sobre les dades obtingudes en el context d’un procés de resolució, o fer-les servir per a finalitats diferents de les previstes en aquesta Llei. Tot això excepte que, pel nombre d’afectats o per la importància de la informació, aquests incompliments es puguin estimar rellevants i, per això, constituir una infracció molt greu.
+f) La falta de comunicació o la comunicació demorada, per part de l’òrgan d’administració, a l’INAF o a l’AREB, del fet que l’entitat es troba en situació d’inviabilitat, quan sigui conegut, o quan ateses les circumstàncies objectives hagués de ser conegut per l’òrgan d’administració; excepte que, per la gravetat de les circumstàncies en què es trobi l’entitat o el període de temps transcorregut, s’hagi de considerar infracció molt greu.
+g) Realitzar actes o operacions sense autorització quan aquesta autorització sigui preceptiva, sense observar-ne les condicions bàsiques, o havent obtingut l’autorització per mitjà de declaracions falses o per un altre mitjà irregular, quan tinguin caràcter merament ocasional o aïllat.
+h) L’incompliment merament ocasional o aïllat de la resta d’obligacions exigibles de conformitat amb el que preveu aquesta Llei quan hi hagi requeriment previ de l’INAF o l’AREB.
+i) En relació amb la societat de gestió d’actius i sense perjudici de l’aplicació de la resta de lletres:
+(i) La realització d’activitats alienes al seu objecte social que posin en perill la consecució dels objectius generals legalment establerts a aquest efecte en aquesta Llei sempre que no tingui la consideració de molt greu;
+(ii) L’incompliment merament ocasional o aïllat de les seves obligacions de transparència.
+j) La comissió de més de tres infraccions lleus en el termini d’un any.

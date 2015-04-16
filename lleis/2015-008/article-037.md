@@ -1,0 +1,7 @@
+# Article 37
+Pla de reorganització d’activitats
+1. En aplicar la mesura de recapitalització interna, l’AREB ha d’exigir que l’òrgan d’administració de l’entitat, o la persona o les persones que designi a aquest efecte, presenti un pla de reorganització d’activitats que contingui les mesures, atenent la situació de l’economia i dels mercats en què opera l’entitat, destinades a restablir la viabilitat a llarg termini de l’entitat, o de part de les seves activitats al llarg d’un termini de temps raonable.
+2. Correspon a l’AREB, amb consulta no vinculant prèvia a l’INAF, aprovar el pla de reorganització, així com les seves modificacions.
+Si l’AREB, amb consulta prèvia a l’INAF, considera que el pla no assolirà els objectius previstos a l’apartat 1, ho ha de notificar a l’òrgan gestor de l’entitat o a les persones designades en aquest apartat, i ha de requerir que es modifiqui el pla de tal manera que permeti complir aquests objectius. Aquesta modificació s’ha de presentar en el termini màxim de 15 dies naturals des de la notificació esmentada.
+3. L’AREB, en col·laboració amb l’INAF, ha d’avaluar i pot adoptar les mesures necessàries o convenients per garantir el compliment del pla de reorganització aprovat.
+4. Reglamentàriament, es poden determinar el termini i el procediment per a la presentació dels plans esmentats, així com el seu contingut mínim, la seva execució i la seva eventual revisió.

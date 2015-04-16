@@ -1,0 +1,10 @@
+## Secció tercera. Recapitalització interna
+# Article 30
+Recapitalització interna
+1. En els termes previstos en aquesta Llei, l’AREB pot exercir les competències que siguin necessàries a fi de recapitalitzar internament l’entitat objecte de resolució, en compliment dels objectius de la resolució i d’acord amb els principis que la regeixen, en els termes previstos en els articles 3 i 4, respectivament.
+2. Les mesures de recapitalització interna es poden adoptar per:
+a) Recapitalitzar l’entitat de manera que pugui tornar a complir les condicions per continuar les seves activitats, mantenint la confiança del mercat.
+b) Convertir en capital o reduir el capital principal dels dèbits o instruments de deute transmesos en aplicar l’instrument de resolució consistent en la constitució de l’entitat pont, la venda de negoci o la segregació d’actius.
+3. La recapitalització interna de l’entitat s’ha de fer segons el que preveu la lletra a de l’apartat anterior, en el cas que hi hagi perspectives raonables que l’aplicació d’aquest instrument, en conjunció amb altres mesures apropiades, incloses les mesures executades d’acord amb el pla de reorganització d’activitats previst en l’article 37, a més d’assolir els objectius de resolució pertinents, restableixi la solidesa financera i la viabilitat a llarg termini de l’entitat.
+En cas contrari, la recapitalització interna de l’entitat s’ha de portar a terme segons el que preveu la lletra b de l’apartat anterior, en conjunció amb els instruments de resolució previstos en l’article 15.
+4. La recapitalització interna s’ha d’efectuar respectant la forma jurídica de l’entitat afectada excepte quan l’AREB consideri necessari alterar-la.

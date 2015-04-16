@@ -1,0 +1,5 @@
+# Disposició final sisena. Modificació de la Llei 11/2012, del 21 de juny, de l’impost general indirecte
+S’afegeixen els apartats 16, 17 i 18 a l’article 6 de la Llei 11/2012, del 21 de juny, de l’impost general indirecte, amb el contingut següent:
+“16. Les transmissions d’actius i de passius efectuades en el marc d’un procediment de resolució previst en la Llei 8/2013, del 9 de maig, sobre els requisits organitzatius i les condicions de funcionament de les entitats operatives del sistema financer, la protecció de l’inversor, l’abús de mercat i els acords de garantia financera, per part de les entitats bancàries objecte del procediment.
+17. Les prestacions de serveis realitzades pels notaris del Principat d’Andorra en un procés de resolució previst en la Llei 8/2013, del 9 de maig, sobre els requisits organitzatius i les condicions de funcionament de les entitats operatives del sistema financer, la protecció de l’inversor, l’abús de mercat i els acords de garantia financera.
+18. Les prestacions de serveis bancaris i financers que tinguin per destinatari l’Agència Estatal de Reestructuració i Resolució d’Entitats Bancàries.”

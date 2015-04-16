@@ -1,0 +1,6 @@
+# Article 23
+Accions ordinàries
+1. Amb anterioritat a l’adquisició per l’AREB d’accions ordinàries, l’entitat en resolució ha d’adoptar les mesures necessàries perquè l’adquisició suposi una participació en el seu capital social que s’ajusti al valor econòmic de l’entitat resultant del procés de valoració.
+2. El règim jurídic de l’AREB no s’ha d’estendre a les entitats participades, de conformitat amb el que preveu aquest article. Aquestes entitats s’han de regir per l’ordenament jurídic privat que resulti aplicable.
+3. La subscripció o l’adquisició d’aquests instruments determina, en qualsevol cas, per si mateixa i sense necessitat de cap altre acte o acord, l’atribució a l’AREB dels drets polítics corresponents i la seva incorporació a l’òrgan d’administració de l’entitat emissora. L’AREB ha de nomenar la persona o les persones físiques que exerceixin la seva representació a aquest efecte i ha de disposar en l’òrgan d’administració de tants vots com els que resultin d’aplicar al nombre total de vots el seu percentatge de participació en l’entitat, arrodonint a l’enter més proper.
+4. La desinversió per l’AREB dels instruments financers s’ha de fer mitjançant la seva alienació a través d’un procediment que asseguri la lliure concurrència.

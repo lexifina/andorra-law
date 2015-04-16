@@ -1,0 +1,19 @@
+# Article 42
+Consell d’Administració de l’AREB
+1. L’AREB és regida i administrada per un Consell d’Administració integrat per cinc membres:
+a) El president, que és designat pel ministre encarregat de les finances, i ha de ser, en tot cas, un alt càrrec del Govern.
+b) Dos membres designats per l’INAF, com a mínim un dels quals ha de tenir la condició de membre del Consell d’Administració de l’INAF i a més ha d’assumir el càrrec de vicepresident del Consell d’Administració i ha de substituir el president en les seves funcions en cas de vacant, absència o malaltia.
+c) Dos membres designats pel ministre encarregat de les finances.
+Tots els membres del Consell d’Administració de l’AREB han de ser persones amb experiència adequada per a l’exercici de les funcions i tasques encomanades a l’AREB.
+Així mateix, el Consell d’Administració pot autoritzar la participació en les seves sessions d’observadors, que poden ser representants de les entitats contribuents al FAREB, sempre que aquesta participació no generi conflictes d’interès que puguin interferir en el desenvolupament per part de l’AREB de les funcions previstes en aquesta Llei. El mateix Consell d’Administració estableix els termes en què ha de desenvolupar-se la participació d’aquests observadors, que, en tot cas, no tenen vot i queden sotmesos al mateix deure de secret que els membres del Consell d’Administració, inclòs el secretari, i, si escau, el lletrat assessor, d’acord amb el que disposa l’article 47 d’aquesta Llei.
+2. Les funcions de secretari del Consell d’Administració les exerceix la persona que designi el Consell. El secretari actua amb veu però sense vot si no és membre del Consell.
+3. Sense perjudici del que es preveu per al president en l’article següent, els membres del Consell d’Administració cessen en la seva condició com a tals membres per renúncia presentada davant l’autoritat que els va designar o pel cessament acordat per l’autoritat que els va designar.
+4. El Consell d’Administració s’ha de reunir com a mínim amb caràcter trimestral, i cada vegada que sigui convocat pel president, per iniciativa pròpia o a instància de qualsevol dels seus membres. Així mateix, està facultat per establir el seu propi règim de convocatòries.
+5. Al Consell d’Administració li correspon adoptar les decisions relatives a les potestats i funcions atribuïdes a l’AREB, sense perjudici de les delegacions o els apoderaments que consideri convenients d’aprovar per al degut exercici de les potestats i funcions esmentades. En tot cas, no són delegables les funcions següents:
+a) Les funcions atribuïdes en aquesta Llei a l’AREB en relació amb la resolució d’entitats.
+b) L’aprovació de la decisió de realitzar les operacions de finançament previstes en aquesta Llei.
+c) L’elaboració i aprovació dels comptes anuals de l’AREB i la liquidació pressupostària de l’AREB, portant a terme les adaptacions que siguin necessàries d’acord amb les característiques i la naturalesa de les seves activitats, de conformitat amb la legislació vigent.
+Un cop aprovats la liquidació pressupostària i els comptes anuals, s’han de remetre al ministeri competent en matèria de finances perquè els sotmeti a l’aprovació del Consell General.
+d) L’adopció de les decisions necessàries per utilitzar el FAREB de conformitat amb el que preveu aquesta Llei.
+6. Per a la constitució vàlida del Consell d’Administració a l’efecte de la celebració de sessions, deliberacions i adopció d’acords, com a mínim és necessària l’assistència de la meitat dels seus membres amb dret de vot. Els seus acords s’adopten per majoria dels membres assistents. El president té vot de qualitat en cas d’empat en el nombre de vots.
+7. L’actuació del Consell d’Administració s’ha de basar en els principis de bona gestió, objectivitat, transparència, concurrència i publicitat.

@@ -1,0 +1,6 @@
+# Article 44
+Control parlamentari, financer i comptable
+1. Amb una periodicitat almenys anual, el president del Consell d’Administració de l’AREB ha de comparèixer davant el Consell General amb la finalitat d’informar sobre l’evolució de les activitats de l’AREB i sobre els elements fonamentals de la seva actuació economicofinancera.
+2. Addicionalment, el president del Consell d’Administració de l’AREB ha de comparèixer davant el Consell General per informar específicament sobre les mesures de resolució implementades per l’AREB.
+3. El Consell d’Administració ha d’elevar al ministre encarregat de les finances un informe trimestral sobre la gestió i l’actuació de l’AREB en què es justifiquin, entre altres aspectes, les actuacions de caràcter econòmic i pressupostari de més impacte dutes a terme per l’AREB durant el període esmentat.
+4. L’AREB està subjecta al control financer d’acord amb l’article 39 de la Llei general de les finances públiques, del 19 de desembre de 1996, amb les adaptacions necessàries per a l’exercici de la seva activitat, i a la fiscalització externa del Tribunal de Comptes. Aquesta fiscalització no ha d’implicar cap tipus d’ingerència del Tribunal de Comptes en les facultats administratives de l’AREB.

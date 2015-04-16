@@ -1,0 +1,9 @@
+# Article 26
+Avaluació dels actius i passius
+1. Abans d’acordar l’amortització i conversió d’instruments de capital o la recapitalització interna, l’AREB ha de portar a terme una valoració preliminar dels actius i passius de l’entitat conformement a l’article 5, que constitueix la base del càlcul de l’import en què és necessari recapitalitzar l’entitat afectada.
+2. Abans d’aplicar l’instrument de recapitalització interna, l’AREB ha de calcular, tenint en compte l’avaluació realitzada d’acord amb l’apartat primer, la suma agregada de:
+a) L’import pel qual s’han d’amortitzar els passius admissibles per garantir que el valor actiu net de l’entitat en resolució és igual a zero, i
+b) L’import pel qual s’han de convertir els passius admissibles en accions o altres instruments de capital per restablir el nivell adequat de solvència de l’entitat objecte de resolució.
+3. El càlcul previst a l’apartat anterior ha de determinar l’import pel qual els passius admissibles s’han d’amortitzar o convertir per restablir el nivell adequat de solvència de l’entitat objecte de resolució o, si escau, de l’entitat pont, i per mantenir la confiança suficient del mercat en l’entitat en qüestió, així com per permetre que pugui complir, durant almenys un any, les condicions per a la seva autorització i prosseguir les activitats per a les quals està autoritzada.
+4. El càlcul efectuat ha de tenir en compte, si escau, l’aportació de capital realitzada per l’AREB.
+5. Si, una vegada realitzades l’amortització i la conversió d’instruments de capital o la recapitalització interna, es constata que el nivell d’amortització sobrepassa els requeriments en comparació de la valoració definitiva, l’AREB ha d’establir un mecanisme per compensar els creditors i, a continuació, els accionistes, en la mesura que sigui necessari.

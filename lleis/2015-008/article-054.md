@@ -1,0 +1,4 @@
+# Article 54
+Altres condicions aplicables
+L’adopció de qualsevol mesura de reestructuració o de resolució no constitueix per si mateixa un supòsit d’incompliment ni permet per si mateixa a cap contrapart declarar el venciment, la modificació, la suspensió o la resolució anticipada de la corresponent operació, o instar l’execució o la compensació de qualsevol dret o obligació que es derivi de l’operació o del contracte, o afectar de qualsevol altra manera aquest contracte, i es tindran per no posades les clàusules que així ho estableixin.
+No obstant el que disposa el paràgraf anterior, la contrapart pot declarar, en els termes i les condicions establerts en el corresponent contracte, el venciment o la resolució anticipada del contracte o la corresponent operació com a conseqüència d’un supòsit d’incompliment anterior o posterior a l’adopció o l’exercici de la corresponent mesura o facultat i no vinculat necessàriament a aquesta mesura o facultat.

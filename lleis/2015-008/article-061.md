@@ -1,0 +1,5 @@
+## Capítol setè. Règim processal
+# Article 61
+Recurs contra les decisions i els acords de l’AREB adoptats d’acord amb l’article 50
+1. Les decisions i els acords que adopti l’AREB a l’empara de l’article 50 són impugnables únicament d’acord amb les normes i els procediments previstos per a la impugnació d’acords socials de les societats anònimes i de responsabilitat limitada que siguin contraris a la Llei. L’acció d’impugnació caduca, en tot cas, en el termini de quinze dies a comptar del moment en el qual l’AREB doni publicitat a les actuacions esmentades d’acord amb el que disposa l’article 57.
+2. En cas que, de conformitat amb l’article 62, s’hagi impugnat davant la jurisdicció administrativa algun dels actes dictats per l’AREB a l’empara d’aquesta Llei, la jurisdicció civil suspendrà el procediment iniciat en virtut d’aquest article fins a la resolució del procediment davant la jurisdicció administrativa, quan l’acte administratiu impugnat doni cobertura a les decisions adoptades per l’AREB a l’empara de l’article 50.

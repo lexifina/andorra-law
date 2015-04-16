@@ -1,0 +1,3 @@
+# Disposició final setena. Modificació de la Llei 21/2006, del 14 de desembre, de l’impost sobre les plusvàlues en les transmissions patrimonials immobiliàries
+S’afegeix un apartat 12 a l’article 4 de la Llei 21/2006, del 14 de desembre, de l’impost sobre les plusvàlues en les transmissions patrimonials immobiliàries, amb el contingut següent:
+“12. Les plusvàlues derivades de les transmissions de béns immobles per part d’una entitat bancària objecte d’un procediment de resolució realitzat en el marc de la Llei de mesures urgents per implantar mecanismes de reestructuració i resolució d’entitats bancàries.”

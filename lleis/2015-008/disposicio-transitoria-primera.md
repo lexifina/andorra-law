@@ -1,0 +1,2 @@
+# Disposició transitòria primera. Funcions de l’INAF fins a l’entrada en vigor d’aquesta Llei
+Des de l’entrada en vigor d’aquesta Llei, l’AREB assumirà les funcions que li assigna aquesta Llei i la continuïtat de les actuacions dutes a terme per l’INAF fins a aquesta data, havent d’assumir com a pròpies la totalitat de les despeses compromeses i incorregudes per l’INAF en la realització d’aquestes actuacions. A aquests efectes, l’INAF facilitarà a l’AREB tota la informació obtinguda fins a la mateixa data.

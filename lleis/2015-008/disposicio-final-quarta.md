@@ -1,0 +1,11 @@
+# Disposició final quarta. Modificació de la Llei 95/2010, del 29 de desembre, de l’impost sobre societats
+1. S’afegeix una lletra g a l’apartat 1 de l’article 8 de la Llei 95/2010, del 29 de desembre, de l’impost sobre societats, amb el contingut següent:
+“g) L’Agència Estatal de Resolució d’Entitats Bancàries”
+2. S’afegeix un apartat 9 a l’article 15 de la Llei 95/2010, del 29 de desembre, de l’impost sobre societats, amb el contingut següent:
+“9. El traspàs d’actius i de passius dels quals sigui titular l’obligat tributari d’aquest impost, en el marc d’un procediment de resolució previst en la Llei de mesures urgents per implantar mecanismes de reestructuració i resolució d’entitats bancàries, no generarà per al titular dels béns, drets o obligacions cap renda susceptible d’integrar-se en la base de tributació per aquest impost.
+A l’efecte del còmput de les rendes que l’obligat tributari obtingui posteriorment en relació amb els actius i passius esmentats, s’ha de tenir en compte el valor d’adquisició original.
+Aquesta disposició no és aplicable a les entitats bancàries objecte del procediment de resolució.”
+3. S’afegeix un nou article 21.bis a la Llei 95/2010, del 29 de desembre, de l’impost sobre societats, amb el contingut següent:
+“Article 21.bis. Exempció de rendes procedents de l’aplicació de la Llei de mesures urgents per implantar mecanismes de reestructuració i resolució d’entitats bancàries
+1. Estan exemptes les rendes obtingudes per les entitats bancàries objecte d’un procediment de resolució previst en la Llei de mesures urgents per implantar mecanismes de reestructuració i resolució d’entitats bancàries que siguin conseqüència del traspàs d’actius i de passius dels quals siguin titulars i que tinguin lloc dins d’aquest procediment.
+2. Estan exempts els ingressos que obtinguin les entitats bancàries objecte d’un procediment de reestructuració o de resolució previst en la Llei de mesures urgents per implantar mecanismes de reestructuració i resolució d’entitats bancàries que siguin conseqüència de les contribucions efectuades pel FAREB, així com els que es derivin dels instruments de suport financer i de recapitalització previstos en la Llei esmentada.”

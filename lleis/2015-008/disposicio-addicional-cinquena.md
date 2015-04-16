@@ -1,0 +1,3 @@
+# Disposició addicional cinquena. Règim de la liquidació d’entitats bancàries
+En tots els supòsits que d’acord amb aquesta Llei sigui procedent la liquidació concursal de l’entitat bancària s’aplica el procediment previst d’arranjament judicial o fallida regulat en el Decret del 4 d’octubre de 1969, sobre el procediment d’arranjament judicial i fallida, amb les especialitats previstes en aquesta Llei.
+Les regles de prelació de crèdits contingudes en aquesta Llei són aplicables als procediments de liquidació concursal ordinària d’entitats bancàries, i tenen a aquest efecte el caràcter de legislació especial.
