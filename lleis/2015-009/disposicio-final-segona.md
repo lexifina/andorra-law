@@ -1,0 +1,2 @@
+# Disposició final segona. Text consolidat de la Llei 17/2008, de la seguretat social
+S’encomana al Govern l’elaboració d’un text consolidat de l’articulat de la Llei 17/2008, del 3 d’octubre, de la seguretat social, amb totes les modificacions, addicions i derogacions introduïdes posteriorment per la Llei 25/2011, del 29 de desembre; per la Llei 9/2013, del 23 de maig; per la Llei 18/2014, del 24 de juliol, i per la Llei 6/2015, del 15 de gener. El text ha d’estar aprovat i publicat en un termini no superior a tres mesos des de la data de publicació d’aquesta Llei.

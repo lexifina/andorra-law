@@ -1,0 +1,3 @@
+# Disposició addicional primera. Beneficis fiscals en la transmissió de béns immobles
+1. Les transmissions immobiliàries realitzades en el marc del procés de traspàs de titularitat de béns de la Caixa Andorrana de Seguretat Social al Fons de reserva de jubilació no estan subjectes a l’impost de transmissions patrimonials, a l’impost general indirecte de transmissions patrimonials, ni a l’impost sobre les plusvàlues en les transmissions patrimonials immobiliàries.
+2. Les prestacions de serveis realitzades pels notaris del Principat d’Andorra en el procés de canvi de titularitat dels actius de la Caixa Andorrana de Seguretat Social a favor del Fons de reserva de jubilació no estan subjectes a l’impost general indirecte.

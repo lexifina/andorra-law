@@ -1,0 +1,5 @@
+# Article 5. Addició d’una disposició transitòria cinquena
+S’afegeix a la Llei 6/2015, del 15 de gener, del Fons de reserva de jubilació, una nova disposició transitòria cinquena, amb el text següent:
+“Disposició transitòria cinquena
+Durant l’exercici que finalitza el 31 de desembre del 2015, les despeses generades pel Fons de reserva de jubilació es financen amb càrrec als crèdits del programa “Fons de reserva” del pressupost de la Caixa Andorrana de Seguretat Social. La Caixa Andorrana de Seguretat Social gestiona aquestes despeses i els pagaments corresponents, seguint, si escau, les indicacions del Consell d’Administració del Fons de reserva de jubilació i de la Comissió Gestora del Fons de reserva de jubilació.
+A l’efecte de fer front a les despeses que es generin durant l’any 2015 com a conseqüència del compliment de les disposicions d’aquesta Llei, els crèdits del programa “Fons de reserva” del pressupost de la Caixa Andorrana de Seguretat Social tenen el caràcter d’ampliables.”
