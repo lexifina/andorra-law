@@ -1,0 +1,3 @@
+# Article 1. Modificació de l’article 8 de la Llei reguladora de l’actuació de les companyies d’assegurances, de l’11 de maig del 1989
+Es modifica l’apartat 4 de l’article 8 de la Llei reguladora de l’actuació de les companyies d’assegurances, de l’11 de maig del 1989, que queda redactat com segueix:
+“4. Els requisits que han d’acomplir i obtenir les persones físiques i jurídiques dedicades a les activitats d’assegurança de dret privat per poder ser autoritzades governativament a operar al Principat d’Andorra, són els que, en general i per a cada categoria, s’estableixen als articles següents.”.
