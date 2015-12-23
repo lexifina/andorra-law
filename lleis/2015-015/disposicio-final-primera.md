@@ -1,0 +1,3 @@
+# Disposició final primera. Modificació de la Llei 11/2012, del 21 de juny, de l’impost general indirecte
+S’introdueix un nou apartat 12 a l’article 59 de la Llei 11/2012, del 21 de juny, de l’impost general indirecte amb la redacció següent:
+“12. Les transmissions que efectuïn els administrats per a la reparcel·lació dels terrenys de la seva propietat que hagin quedat continguts en una unitat d’actuació definida en els plans d’urbanisme parroquials, inclosa la cessió als comuns de terrenys i de béns immobles altres que terrenys en el marc de la cessió obligatòria i gratuïta, en aplicació de les disposicions de la Llei general d’ordenació del territori i urbanisme i dels reglaments que la desenvolupin.”.
