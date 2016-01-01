@@ -1,0 +1,2 @@
+# Novena. Prescripció i caducitat
+Els terminis establerts en la legislació anterior s’apliquen a les successions obertes abans de l’entrada en vigor d’aquesta Llei, llevat que els que aquesta estableix siguin més curts. En aquest darrer cas, la prescripció o la caducitat es consuma amb el transcurs del nou termini, que comença a comptar des de l’entrada en vigor d’aquesta Llei. Tanmateix, si el termini establert per la legislació anterior, tot i ser més llarg, s’exhaureix abans que el termini previst per aquesta Llei, s’aplica aquell termini.

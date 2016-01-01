@@ -1,0 +1,6 @@
+## Secció segona. La col·lació
+# Article 62
+Béns col·lacionables
+1. La col·lació només beneficia els cohereus que són descendents del causant i no els legataris ni els creditors de l’herència. Després d’oberta la successió, els cohereus poden renunciar a la col·lació.
+2. Els descendents que concorren com a cohereus en la successió d’un ascendent comú només han de col·lacionar, als efectes de la partició de l’herència, el valor de les atribucions que el causant els ha fet per actes entre vius a títol gratuït, sempre que l’atribució s’hagi fet en concepte de llegítima, o que el causant hagi establert expressament, en el moment d’atorgar l’acte, que l’atribució sigui col·lacionable. No obstant això, i llevat que el causant disposi altrament, són col·lacionables les donacions atorgades pel causant a favor d’un o diversos dels cohereus fills seus per tal d’adquirir un habitatge o establir una activitat professional, industrial o mercantil, que els proporcioni una independència personal o econòmica, si a la mort del causant hi ha altres fills cohereus que encara es troben en situació de dependència econòmica.
+3. El causant no pot ordenar que l’atribució sigui col·lacionable amb posterioritat a l’atorgament d’un acte a títol gratuït, però pot dispensar la col·lació en testament, codicil o pacte successori i pot també excloure-la en la seva successió.

@@ -1,0 +1,6 @@
+# Article 88
+Efectes de l’heretament en vida de l’heretant
+1. L’heretament simple com també el cumulatiu, excepte pel que fa als béns adquirits de present, no limiten la facultat de l’heretant per a disposar dels seus béns a títol onerós entre vius.
+2. Si el pacte successori té per objecte la continuïtat d’una empresa familiar o d’un establiment professional, es pot establir que la transmissió onerosa d’aquests, o la de les accions o les participacions socials de les societats titulars, com també la renúncia al dret de subscripció preferent, s’hagi de fer amb el consentiment exprés de la persona instituïda, si és atorgant del pacte successori, o de tercers. També es poden establir normes sobre l’administració de l’empresa o establiment per part de l’heretant o de l’hereu, que es poden incloure en els estatuts socials de l’empresa familiar.
+3. L’heretant només pot disposar dels seus béns a títol gratuït amb el consentiment exprés de l’hereu, excepte la reserva feta en el mateix pacte o si ho fa amb la finalitat de satisfer llegítimes o per a fer liberalitats d’ús. S’aplica la mateixa limitació per a la constitució de censos, censals o rendes vitalícies.
+4. L’hereu instituït pot impugnar els actes dispositius atorgats en dany o en frau de l’heretament.

@@ -1,0 +1,3 @@
+# Article 223
+Disposicions per sufragis i obres pies
+Si el causant destina una part dels seus béns a sufragis i obres pies, indeterminadament i sense especificar-ne l’aplicació, el gravat els ha de vendre i ha lliurar la meitat de l’import a la confessió religiosa a la qual pertanyia el causant, per als esmentats sufragis i per a atendre les seves necessitats, i l’altra meitat a l’Estat, per tal que els apliqui a entitats o a finalitats assistencials del darrer domicili del testador en territori andorrà. Si la destinació es fa a favor dels pobres en general, els béns o el seu import han de ser lliurats a l’Estat, per tal que els apliqui de la mateixa manera.

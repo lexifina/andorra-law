@@ -1,0 +1,3 @@
+# Segona. Testaments, codicils i memòries testamentàries atorgats amb anterioritat a l’entrada en vigor d’aquesta Llei
+1. Els testaments, els codicils i les memòries testamentàries atorgats d’acord amb la legislació anterior són vàlids si compleixen les formes que s’hi exigien. Amb tot, si han de regir una successió oberta després de l’entrada en vigor d’aquesta llei, també són vàlids si s’ajusten a les seves exigències formals i materials.
+2. És d’aplicació aquesta Llei a les successions obertes després de la seva entrada en vigor però regides per actes atorgats abans, llevat de les regles merament interpretatives de la voluntat del causant establertes en la legislació derogada, que els hi seran aplicables, sense perjudici del que disposen els articles 120, 204 i 210.
