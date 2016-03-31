@@ -1,0 +1,2 @@
+# Disposició addicional tercera
+En coherència amb el que preveu la disposició addicional tercera (“Règim pressupostari i de control financer”) de la Llei 33/2014 del 27 de novembre, de creació de la societat pública Andorra Telecom, SAU, s’encomana a la Junta General de la societat que acordi un procediment que reguli la gestió i aprovació de les modificacions de crèdit pressupostari de l’entitat, llevat que aquestes modificacions comportin finançament a càrrec de l’Estat, cas en què s’hauran de regular d’acord amb el que disposa la Llei general de les finances públiques.

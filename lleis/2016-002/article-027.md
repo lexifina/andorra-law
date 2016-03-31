@@ -1,0 +1,2 @@
+# Article 27. Revaloració de les prestacions econòmiques pagades per la Caixa Andorrana de Seguretat Social
+Les prestacions econòmiques pagades per la Caixa Andorrana de Seguretat Social l’import de les quals, un cop deduïdes les cotitzacions de la persona assegurada, sigui igual o superior al salari mínim oficial establert per a l’any 2016, no es revaloren durant l’any 2016. La resta de prestacions econòmiques es revalora d’acord amb l’índex de preus de consum (IPC).

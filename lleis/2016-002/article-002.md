@@ -1,0 +1,25 @@
+# Article 2. Estat d’ingressos i despeses
+1. En l’estat de despeses de l’Administració general s’atorguen crèdits per afrontar les despeses ordinàries per un import total de 423.234.888,97 euros i crèdits per fer front a l’exigibilitat dels actius i passius financers per un import de 424.625.623,44 euros.
+El pressupost de despeses de l’Administració general es finança:
+a) Amb els drets econòmics que es preveuen liquidar durant l’exercici, especificats en l’estat d’ingressos ordinaris, estimats en 395.008.372,85 euros.
+b) Amb l’import de les operacions d’endeutament que s’assenyalen a l’article 24.
+2. Els pressupostos de les entitats parapúbliques i de dret públic a les quals es refereix l’apartat b) de l’article 1 s’aproven amb el desglossament següent:
+En el pressupost de la Caixa Andorrana de Seguretat Social s’atorguen crèdits per atendre la totalitat de les seves obligacions per un import de 266.427.915,50 euros. Els recursos previstos durant l’exercici són de 266.427.915,50 euros.
+En el pressupost del Fons de Reserva de Jubilació s’atorguen crèdits per atendre la totalitat de les seves obligacions per un import de 34.747.596,50 euros. Els recursos previstos durant l’exercici són de 34.747.596,50 euros.
+En el pressupost de l’Institut Nacional Andorrà de Finances s’atorguen crèdits per atendre la totalitat de les seves obligacions per un import de 49.529.800 euros. Els recursos previstos durant l’exercici són de 49.529.800 euros.
+En el pressupost del Servei Andorrà d’Atenció Sanitària s’atorguen crèdits per atendre la totalitat de les seves obligacions per un import de 59.826.025 euros. Els recursos previstos durant l’exercici sumen 59.826.025 euros.
+En el pressupost de Forces Elèctriques d’Andorra s’atorguen crèdits per atendre la totalitat de les seves obligacions per un import de 69.008.339,02 euros. Els recursos previstos durant l’exercici sumen 69.008.339,02 euros.
+En el pressupost de l’Escola de Formació de Professions Esportives i de Muntanya s’atorguen crèdits per atendre la totalitat de les seves obligacions per un import de 351.556,15 euros. Els recursos previstos durant l’exercici pugen a 351.556,15 euros.
+En el pressupost de l’Institut d’Estudis Andorrans s’atorguen crèdits per atendre la totalitat de les seves obligacions per un import de 950.561,57 euros. Els recursos previstos durant l’exercici són de 950.561,57 euros.
+En el pressupost de la Universitat d’Andorra s’atorguen crèdits per atendre la totalitat de les seves obligacions per un import de 2.984.810,54 euros. Els recursos previstos durant l’exercici són de 2.984.810,54 euros.
+En el pressupost del Fòrum Nacional de la Joventut d’Andorra s’atorguen crèdits per atendre la totalitat de les seves obligacions per un import de 33.615 euros. Els recursos previstos durant l’exercici són de 33.615 euros.
+En el pressupost de la Societat de Gestió Col·lectiva de Drets d’Autor i Drets Veïns del Principat d’Andorra s’atorguen crèdits per atendre la totalitat de les seves obligacions per un import de 285.327,26 euros. Els recursos previstos durant l’exercici són de 288.993,82 euros.
+En el pressupost del Consell Regulador Andorrà del Joc s’atorguen crèdits per atendre la totalitat de les seves obligacions per un import de 366.856,33 euros. Els recursos previstos durant l’exercici són de 366.856,33 euros.
+En el pressupost de l’Agència Estatal de Resolució d’Entitats Bancàries s’atorguen crèdits per atendre la totalitat de les seves obligacions per un import de 751.729,89 euros. Els recursos previstos durant l’exercici són de 751.729,89 euros.
+3. Els pressupostos de les societats públiques participades per l’Administració general a les quals es refereix l’apartat c) de l’article 1 s’aproven amb el desglossament següent:
+En el pressupost d’Andorra Telecom SAU s’atorguen crèdits per atendre la totalitat de les seves obligacions per un import de 149.906.977 euros. Els recursos previstos durant l’exercici són de 149.906.977 euros.
+En el pressupost de Ràdio i Televisió d’Andorra SA s’atorguen crèdits per atendre la totalitat de les seves obligacions per un import de 3.500.091,48 euros. Els recursos previstos durant l’exercici pugen a 3.500.091,48 euros.
+En el pressupost de la societat Ramaders d’Andorra SA s’atorguen crèdits per atendre la totalitat de les seves obligacions per un import d’1.705.347,57 euros. Els recursos previstos durant l’exercici són d’1.705.347,56 euros.
+En el pressupost de la societat Andorra Turisme SAU s’atorguen crèdits per atendre la totalitat de les seves obligacions per un import de 17.851.541,38 euros. Els recursos previstos durant l’exercici pugen a 17.851.541,38 euros.
+En el pressupost de la societat Centre de Tractament de Residus d’Andorra SA s’atorguen crèdits per atendre la totalitat de les seves obligacions per un import de 10.193.068 euros. Els recursos previstos durant l’exercici ascendeixen a 10.193.068 euros.
+En el pressupost de la societat Andorra Desenvolupament i Inversió SAU s’atorguen crèdits per atendre la totalitat de les seves obligacions per un import d’1.209.014,60 euros. Els recursos previstos durant l’exercici ascendeixen a 1.209.014,60 euros.
