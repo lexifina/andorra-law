@@ -1,0 +1,2 @@
+# Article 12. Regles nacionals antidopatge
+El Consell de l’Agència Andorrana Antidopatge ha d’aprovar les Regles nacionals antidopatge en la primera sessió que es reuneixi. Aquest text ha de contenir, com a mínim, el procediment de control, el règim disciplinari del dopatge, els òrgans disciplinaris de dopatge i la seva composició així com el comitè d’autorització per a ús terapèutic. Les Regles nacionals antidopatge han d’incloure també totes les seccions i les disposicions contingudes en el Codi mundial antidopatge.

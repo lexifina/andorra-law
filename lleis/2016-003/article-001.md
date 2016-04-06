@@ -1,0 +1,2 @@
+# Article 1. Objecte
+L’objecte d’aquesta Llei és la creació de l’Agència Andorrana Antidopatge. Aquesta agència és l’organització nacional antidopatge a Andorra i disposa de jurisdicció exclusiva i automàtica en matèria de dopatge a Andorra. L’Agència Andorrana Antidopatge té la missió de signar i aplicar a Andorra el Codi mundial antidopatge vigent a cada moment, amb l’objectiu de protegir el dret dels esportistes de participar en activitats esportives sense dopatge, promoure la salut i garantir l’equitat i la igualtat de tothom en l’àmbit de l’esport.

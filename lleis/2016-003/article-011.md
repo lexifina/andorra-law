@@ -1,0 +1,2 @@
+# Article 11. Reglament de l’Agència Andorrana Antidopatge
+En la primera sessió del Consell de l’Agència Andorrana Antidopatge se n’ha d’aprovar el Reglament intern que reguli el funcionament de l’Agència, d’acord amb les disposicions del Codi mundial antidopatge. Aquest reglament serà d’aplicació automàtica a tots els practicants d’esport, a totes les federacions nacionals així com als tècnics i directius i, en general, a tot el personal de suport als esportistes de qualsevol disciplina esportiva tant de nivell competitiu com en l’àmbit del lleure.
