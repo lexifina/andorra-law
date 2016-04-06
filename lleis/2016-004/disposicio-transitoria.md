@@ -1,0 +1,4 @@
+# Disposició transitòria
+1. Durant els tres períodes impositius successius, a comptar de la data d’entrada en vigor d’aquesta Llei, els propietaris de vehicles de mobilitat elèctrica queden exempts d’abonar la taxa sobre la tinença de vehicles.
+2. Durant el primer i el segon períodes impositius successius, a comptar de la data d’entrada en vigor d’aquesta Llei, els propietaris de furgonetes, camions i autobusos gaudiran d’una bonificació del 50% el primer període, i del 25% el segon període, sobre l’import de la taxa sobre tinença de vehicles.
+3. Durant un període de tres anys, a comptar de la data d’entrada en vigor d’aquesta Llei, els adquirents de vehicles amb mobilitat elèctrica queden exempts d’abonar la taxa d’atribució d’una placa de matrícula personalitzada de 2 lletres i 3 xifres, de 3 lletres i 2 xifres, de 4 lletres i 1 xifra o de 5 lletres.

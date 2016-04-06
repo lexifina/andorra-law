@@ -1,0 +1,2 @@
+# Disposició final onzena
+S’encarrega al Govern que, en el termini màxim de tres mesos a comptar de l’entrada en vigor d’aquesta Llei, publiqui al Butlletí Oficial del Principat d’Andorra, mitjançant els decrets corresponents, el text refós de la Llei 12/2004, de 30 de juny, de propietat horitzontal, i el text refós de la Llei de la taxa sobre la tinença de vehicles del 5 d’abril de 1994, incloent-hi totes les modificacions aportades a ambdues lleis fins a la data.

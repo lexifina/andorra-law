@@ -1,0 +1,4 @@
+# Disposició final segona
+Es modifiquen els paràgrafs primer i segon de l’article 141 de la Llei del Codi de la circulació, modificat per la disposició addicional quarta de la Llei 4/2015, del 15 de gener, dels transports per carretera, que queden redactats de la forma següent:
+“Amb caràcter general, només es poden matricular i inscriure al Registre de Vehicles els vehicles de motor de combustió, elèctrics o híbrids endollables tant de transport de persones com de càrrega en general. En qualsevol cas, els vehicles amb motor de combustió han de tenir un motor amb una classificació euro, igual o com a màxim d’un nivell inferior al vigent.
+Es poden matricular els remolcs i els semiremolcs (categories O1, O2, O3 i O4), sempre que en el moment de la seva fabricació compleixin amb la Directiva 2007/46/CE del 5 de setembre del 2007 i les seves modificacions posteriors.”
