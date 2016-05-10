@@ -1,0 +1,13 @@
+Llei 6/2016, del 14 d’abril, de crèdit extraordinari per finançar les despeses derivades de l’aportació de 51.000 euros per part del Govern a la Fundació Museu Andorra
+sumari
+Atès que el Consell General en la seva sessió del dia 14 d’abril del 2016 ha aprovat la següent:
+Llei 6/2016, del 14 d’abril, de crèdit extraordinari per finançar les despeses derivades de l’aportació de 51.000 euros per part del Govern a la Fundació Museu Andorra
+El Govern participa com a fundador de la Fundació Museu Andorra, que té com a finalitat d’interès general la gestió i la promoció de l’art i la cultura mitjançant l’acolliment d’una col·lecció de quadres i pintures, denominades Col·lecció Thyssen-Bornemisza per tal de ser exposades públicament en el museu andorrà que portarà el nom de “Museu Carmen Thyssen Andorra”.
+Aquesta fundació és una entitat pública, sense afany de lucre, amb personalitat jurídica pròpia i plena capacitat d’obrar, que es regeix pel dret vigent al Principat d’Andorra i pels seus estatuts.
+L’article 8 dels estatuts de la fundació andorrana del sector públic “Fundació Museu Andorra” preveu que els fundadors dotaran inicialment la Fundació amb la quantitat de 100.000 € en la proporció següent: d’una banda el Govern d’Andorra, el 51%, i, de l’altra, la Sra. María del Carmen Thyssen-Bornemisza de Kaszon i el Sr. Alejandro Borja Thyssen-Bornemisza Cervera, el 49%.
+Vista que la urgència d’aquesta despesa, de 51.000 €, deriva de la necessitat de posar en marxa en els millors terminis la constitució d’una fundació que faci possible la implantació a Andorra del Museu Carmen Thyssen Andorra amb la voluntat decidida de fomentar la projecció de la nostra cultura tant dins com fora de les nostres fronteres i d’incrementar l’oferta cultural de qualitat com a element dinamitzador de l’economia del nostre país.
+L’article 5.1 de la Llei 11/2008, del 12 de juny, de fundacions preveu que els fundadors dotaran inicialment la Fundació amb la quantitat mínima de 100.000 euros, que aportaran en el mateix moment d’atorgar-ne l’escriptura pública fundacional, prevista per al dia 3 de desembre del 2015.
+Atès que no hi ha dotació pressupostària en el pressupost de l’Administració general per fer front a aquesta despesa, concretament a la partida 900 Departament de Promoció Cultural i Política Lingüística-901 Unitat d’Acció Cultural-82072 Capital Fundacional Fundació Cultural Govern-Thyssen-PROJ-0005-Turisme Cultural.
+Vist que el Govern, per acord de 2 de desembre del 2015, ha aprovat un avenç de fons per l’import de 51.000 euros per dotar la partida pressupostària corresponent;
+El Govern, amb informe de la Intervenció General, ha acordat la presentació de la següent:
+Llei
