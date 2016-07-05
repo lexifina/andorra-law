@@ -1,0 +1,2 @@
+# Disposició addicional tercera
+Les entitats distribuïdores esmentades a la disposició precedent gaudiran d’un dret de preferència per a la subscripció d’un tram de les accions de les societats dependents de FEDA a què es refereix l’article 6, en les condicions que ha de fixar el Govern per a cada una de les subscripcions públiques d’accions. El tram reservat a aquestes entitats serà d’un terç de les accions que s’ofereixin a la subscripció pública.

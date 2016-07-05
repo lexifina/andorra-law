@@ -1,0 +1,2 @@
+# Disposició addicional segona
+Per excepció del que estableix l’article 2.2, les entitats distribuïdores a què es refereix l’article 1 del Reglament provisional de la distribució de l’energia elèctrica, del 28 de juliol de 1975, modificat per l’article 5 de la Llei 85/2010, del 18 de novembre, de mesures provisionals en relació al règim de l’energia elèctrica, poden seguir desenvolupant l’activitat de distribució i venda minorista d’energia elèctrica en la seva zona geogràfica respectiva, en virtut dels títols habilitants de què disposen a l’entrada en vigor d’aquesta Llei.

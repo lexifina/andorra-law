@@ -1,0 +1,5 @@
+## Capítol sisè. Règim financer i de contractació de FEDA
+# Article 15. Règim financer
+1. FEDA està sotmesa al règim de pressupost. Cada any, el Consell d’Administració ha d’aprovar el projecte de pressupost de l’ens i l’ha de remetre al Govern, en el termini i amb la documentació que preveu la Llei general de les finances públiques.
+2. FEDA està sotmesa al règim comptable i economicofinancer previst a la Llei general de les finances públiques per a les entitats públiques de caràcter comercial i industrial.
+3. La gestió financera de FEDA té com a objectiu l’equilibri financer. Això no obstant, i d’acord amb els plans d’inversió aprovats pel seu Consell d’Administració, FEDA pot constituir un fons de reserva amb els excedents d’explotació, que s’ha d’aplicar exclusivament al finançament de les millores i ampliacions dels seus serveis i instal·lacions, o dels que siguin propietat de les seves societats dependents. Els excedents d’explotació que no es destinin a aquesta finalitat han de revertir a l’Administració general.

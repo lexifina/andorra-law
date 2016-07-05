@@ -1,0 +1,11 @@
+# Article 3. Operador del sistema elèctric
+1. FEDA és, així mateix, l’operador del sistema elèctric, amb la missió principal de garantir la continuïtat i la seguretat del subministrament elèctric. En aquesta condició li corresponen les funcions següents:
+a) Preveure i controlar el nivell de garantia de proveïment d’electricitat, a curt termini i a mitjà termini.
+b) Preveure la utilització dels equips de producció a curt termini i a mitjà termini; en especial, l’ús de les reserves hidroelèctriques, d’acord amb la previsió de la demanda, la disponibilitat dels equips de generació, les previsions de disponibilitat de reserves hidroelèctriques i altres recursos que es puguin donar dins del període de previsió.
+c) Coordinar i modificar, quan escaigui, els plans de manteniment de les instal·lacions de transport i distribució a les quals estan connectades les unitats de producció, per tal d’assegurar la compatibilitat amb els plans de manteniment dels grups de generació, i assegurar també un estat de disponibilitat adequat de la xarxa que garanteixi la seguretat del sistema.
+d) Requerir la informació necessària sobre els plans de manteniment de les unitats de producció, sobre avaries i sobre qualssevol altres circumstàncies que puguin comportar la paralització de les operacions de qualsevol instal·lació.
+e) Establir i controlar les mesures de fiabilitat del sistema, que poden afectar qualsevol element del sistema elèctric, i també els plans de maniobres per a la reposició del servei en cas de fallada general en el subministrament d’energia elèctrica, i coordinar i controlar l’execució d’aquests plans.
+f) Requerir als actors del sistema elèctric la informació necessària per determinar la programació de la xarxa, i gestionar els desviaments en els intercanvis internacionals.
+g) Programar el funcionament de les instal·lacions de producció d’energia elèctrica, de producció d’energia elèctrica i de calor (cogeneració) o de producció d’energia elèctrica, de calor i de fred (trigeneració), d’acord amb criteris estrictament tècnics de no discriminació, i donar instruccions a les instal·lacions de producció per garantir el compliment de la programació dissenyada.
+h) Realitzar qualssevol altres funcions que li siguin assignades per reglament.
+2. FEDA ha de lliurar informació al Govern amb la periodicitat i el contingut que el Govern determini.
