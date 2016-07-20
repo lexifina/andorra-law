@@ -1,0 +1,13 @@
+Llei 8/2016, del 28 de juny, de revocació definitiva de la Universitat de les Valls (UdV)
+Llei 8/2016, del 28 de juny, de revocació definitiva de la Universitat de les Valls (UdV)
+Atès que el Consell General en la seva sessió del dia 28 de juny del 2016 ha aprovat la següent:
+Llei 8/2016, del 28 de juny, de revocació definitiva de la Universitat de les Valls (UdV)
+Exposició de motius
+El 30 d’octubre del 2008 el Consell General va aprovar la Llei 23/2008 d’autorització de creació de la Universitat de les Valls.
+La Universitat de les Valls, en tant que universitat privada es va constituir com a fundació privada d’interès públic, i constava d’un sol centre universitari especialitzat en ciències odontològiques.
+El Govern va acordar l’inici de les activitats acadèmiques el 12 d’octubre del 2010, després d’haver comprovat que es complien els requisits exigits per la normativa vigent, així com els compromisos adquirits per l’entitat promotora a la memòria que acompanyava la sol·licitud de creació de la Universitat de les Valls.
+El Govern va crear el títol de màster en odontologia mitjançant el Decret del 25 de febrer del 2009, d’establiment del màster en odontologia. La Universitat de les Valls va presentar un pla d’estudis de màster en odontologia que s’adequava a les disposicions establertes en el decret de creació de títol i el Govern va acordar l’oficialitat d’aquest pla d’estudis l’1 de febrer del 2012.
+El Govern d’acord amb el que preveu la Llei 12/2008 i la Llei 23/2008, en constatar que l’esmentat pla d’estudis no complia ni els requisits establerts en el decret de creació del títol ni els estàndards europeus de qualitat que regeixen l’Espai Europeu d’Ensenyament Superior (EEES), va revocar l’oficialitat del pla d’estudis corresponent al títol de màster en odontologia de la Universitat de les Valls el 12 d’agost del 2015.
+A l’agost del 2015, el Govern no va considerar adequat proposar la revocació de la Universitat de les Valls ja que en tant que institució privada d’ensenyament superior podia establir noves formacions i col·laboracions que respectessin els principis que van regir la seva creació.
+Durant el curs acadèmic 2015-2016, la Universitat de les Valls no ha aportat cap informació que permeti considerar que es compleixen o que es compliran els compromisos contrets en el moment de la seva creació.
+Consegüentment, aquesta Llei d’article únic revoca definitivament la Universitat de les Valls. En la seva disposició derogatòria es deroga la Llei 23/2008 del 30 d’octubre, d’autorització de la creació de la Universitat de les Valls així com qualsevol norma de rang igual o inferior que contradigui aquesta Llei. La disposició final fixa l’entrada en vigor de la Llei.
