@@ -1,0 +1,2 @@
+# Article 3. Qualitat i avaluació
+L’Agència de Qualitat de l’Ensenyament Superior d’Andorra vetlla per la qualitat de l’ensenyament superior a Andorra amb l’exigència permanent de qualitat i rigor derivada de les demandes socials i laborals. El sistema d’avaluació és l’eina per adaptar l’ensenyament superior al marc de l’Espai Europeu d’Ensenyament Superior, i ha de tendir a la millora continuada dels seus processos en l’ensenyament superior.

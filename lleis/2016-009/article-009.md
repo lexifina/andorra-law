@@ -1,0 +1,7 @@
+## Capítol tercer. Organització i funcionament
+# Article 9. Comitè Director de l’AQUA
+1. El Comitè Director de l’AQUA és l’òrgan directiu col·legiat de l’Agència de Qualitat de l’Ensenyament Superior d’Andorra.
+2. El Comitè Director de l’AQUA està format pel president i el vicepresident de la comissió legislativa del Consell General responsable de l’ensenyament superior, el ministre titular de l’ensenyament superior, un alt càrrec del departament encarregat de l’ensenyament superior, un expert internacional nomenat pel ministre titular de l’ensenyament superior i la recerca, el rector de la Universitat d’Andorra, un rector representant de les altres universitats presents al país, un representant dels estudiants de les universitats del país, el president de la Cambra de Comerç, Indústria i Serveis d’Andorra, o la persona en qui delegui, i el director de l’Agència.
+3. El president d’aquest Comitè és el president de la comissió legislativa del Consell General responsable de l’ensenyament superior. El secretari d’aquest Comitè és el director de l’Agència.
+4. Les decisions del Comitè Director de l’AQUA s’acorden per majoria dels presents, que han de ser sempre més de la meitat dels membres. El president del Comitè Director té vot de qualitat.
+5. El Comitè es reuneix de manera ordinària, dos vegades l’any com a mínim. A petició del president del Comitè, del director de l’Agència o de dos dels seus membres, el Comitè Director de l’AQUA es pot reunir en sessió extraordinària.

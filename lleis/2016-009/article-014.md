@@ -1,0 +1,3 @@
+# Article 14. Grups de treball
+Per portar a terme les accions proposades pel Comitè Director de l’AQUA, d’acord amb el desenvolupament de les prioritats estratègiques, el director pot crear grups de treball en els quals es poden integrar tant representants de la temàtica avaluada com experts externs, actors del món professional, estudiants i titulats de la formació.
+En tot cas, la composició dels grups de treball de l’Agència ha de ser adequada al que estableixin les normes, els criteris i les recomanacions internacionals per a l’atorgament de les certificacions i les acreditacions corresponents. El director de l’Agència actua de coordinador d’aquests grups de treball.
