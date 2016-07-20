@@ -1,0 +1,2 @@
+# Article 16. Experimentació
+Els aspectes relacionats amb la tinença i la protecció dels animals utilitzats en procediments d’experimentació són regulats per la legislació específica en la matèria. Aquesta legislació ha de complir, com a mínim, els principis de benestar animal previstos en aquesta Llei. Es prohibeix qualsevol procediment d’experimentació animal en altres camps que no siguin la investigació mèdica i les proves de seguretat dels fàrmacs.

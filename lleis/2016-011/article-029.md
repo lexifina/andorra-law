@@ -1,0 +1,6 @@
+## Títol IV. Fauna salvatge
+# Article 29. Fauna autòctona
+1. Es prohibeix molestar intencionalment la fauna salvatge, especialment durant el període de reproducció, de dependència i d’hibernació.
+2. Es prohibeix capturar, prendre, transportar, vendre i comprar nius, ous i cries d’espècies de la fauna autòctona.
+3. Es prohibeix capturar exemplars de la fauna autòctona amb finalitat comercial, per a exhibició pública i amb finalitat de cria en captivitat, exceptuant els casos previstos en l’article 30.6.
+4. Amb la finalitat de minimitzar les molèsties a la fauna salvatge, especialment durant el període de reproducció, de dependència i d’hibernació, s’estableix que les activitats audiovisuals, científiques, esportives i de lleure que puguin afectar la fauna salvatge autòctona requereixen l’autorització del ministeri responsable de la fauna. S’estableix per reglament les condicions en què s’autoritzen aquestes activitats basant-se en el grau d’amenaça de les espècies afectades especificat segons l’article 30.1 d’aquesta Llei i en la classificació de la sensibilitat de les zones en què es troben aquestes espècies. El ministeri responsable de la fauna classifica les zones en poc sensibles, sensibles i molt sensibles i les publica al Butlletí Oficial del Principat d’Andorra.
