@@ -1,0 +1,3 @@
+# Article 16. Disposicions comunes als vedats de caça i als vedats temporals de caça
+1. Als vedats de caça i als vedats temporals de caça es prohibeix portar qualsevol arma. En els llocs habitats, carreteres generals, carreteres secundàries i accessos directes a habitatges inclosos en aquests vedats només s’autoritza a portar armes si estan descarregades i degudament enfundades.
+2. Per reglament, es pot acordar la captura de determinades unitats quan, en aplicació dels plans de gestió dels vedats de caça i dels vedats temporals de caça, i en coherència amb els plans de caça de cada espècie, aquests plans ho disposin.
