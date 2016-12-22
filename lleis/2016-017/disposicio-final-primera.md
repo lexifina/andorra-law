@@ -1,0 +1,5 @@
+# Disposició final primera. Modificació de l’apartat 1 de l’article 116 de la Llei qualificada de modificació del Codi de procediment penal
+Es modifica l’apartat 1 de l’article 116 de la Llei qualificada de modificació del Codi de procediment penal, del 10 de desembre de 1998, el qual queda redactat de la manera següent:
+“Article 116
+1. Endemés de garantir les possibles responsabilitats civils, el batlle ha de disposar per mitjà d’un aute motivat l’embargament i el segrest, durant la tramitació de les diligències prèvies o del sumari, de tots els fons sobre els quals hi hagi indicis objectius suficients per creure que són els instruments utilitzats o que, en cas de temptativa punible, s’anaven a utilitzar per cometre la infracció, el producte obtingut o els beneficis que se n’hagin derivat o la seva eventual transformació o conversió posterior, a l’efecte de garantir el compliment del comís i el comís per equivalent que preveu l’article 70 del Codi penal. També pot embargar o segrestar els béns i els drets pertanyents a un tercer no responsable, llevat que aquest tercer els hagi adquirit legalment d’acord amb el que disposen els articles 119 i 120.
+[…]”

@@ -1,0 +1,2 @@
+# Disposició final segona. Textos consolidats
+S’encomana al Govern que en el termini màxim de sis mesos des de l’entrada en vigor d’aquesta Llei publiqui al Butlletí Oficial del Principat d’Andorra el text consolidat de la Llei 9/2005, del 21 de febrer, qualificada del Codi penal, i el text consolidat de la Llei qualificada de modificació del Codi de procediment penal, del 10 de desembre de 1998, que incloguin les modificacions introduïdes fins al moment en aquestes lleis.
