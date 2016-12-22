@@ -1,0 +1,2 @@
+# Article 11. Gestió de la xarxa bàsica de vials
+L’administració titular de cada via de circulació és competent per a gestionar-la. Això no obstant, quan es tracti de vials compresos en la xarxa bàsica de vials o de vials que hi connectin directament, l’administració titular de la via de circulació no podrà modificar-ne substancialment la capacitat de trànsit de vehicles o la funcionalitat sense l’informe favorable de la Taula nacional de mobilitat.

@@ -1,0 +1,5 @@
+# Article 4. Règim jurídic de les carreteres generals
+1. El llistat i el traçat precís de cada una de les carreteres generals és el que es detalla en el Directori de carreteres generals, que figura com a annex I.
+2. Les vies de circulació compreses en el Pla sectorial de noves infraestructures viàries, amb les successives modificacions que el Govern aprovi, i aquelles altres vies de circulació que el Govern projecti i construeixi en seguiment d’un projecte d’interès nacional adquireixen la condició de carreteres generals a partir de la seva posada en servei. En aquell moment, el Govern les incorpora al Directori de carreteres generals, tot identificant-les amb un número i un nom.
+3. Són igualment carreteres generals les vies de circulació que siguin cedides pels particulars en execució de la planificació o traspassades pels comuns al Govern, i incloses dins del Directori de carreteres generals.
+4. Es faculta el Govern per tal d’actualitzar per decret el Directori de carreteres generals, d’acord amb les incorporacions o desagregacions de vies de circulació que resultin de l’aplicació de la present Llei.
