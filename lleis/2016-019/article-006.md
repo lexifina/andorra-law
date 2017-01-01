@@ -1,0 +1,3 @@
+# Article 6. Lloc, forma i termini de la comunicació automàtica d’informació
+1. La comunicació d’informació a què fa referència la secció I de l’annex I d’aquesta Llei té caràcter anual i s’efectua de manera telemàtica fins al 30 de juny següent a l’any natural a què es refereix la comunicació d’informació, en la forma, el lloc i el termini que es determinin mitjançant decret de Govern a proposta del Ministeri de Finances.
+2. El Ministeri de Finances transmet la informació requerida a les autoritats competents dels estats corresponents en el termini que estableixi l’acord o el conveni internacional aplicable.

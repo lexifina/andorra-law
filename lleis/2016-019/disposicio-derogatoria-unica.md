@@ -1,0 +1,6 @@
+# Disposició derogatòria única. Derogació de la Llei 11/2005, del 13 de juny, i règim transitori
+1. Es deroga la Llei 11/2005, del 13 de juny, d’aplicació de l’Acord entre el Principat d’Andorra i la Comunitat Europea relatiu a l’establiment de mesures equivalents a les previstes a la Directiva 2003/48/CE del Consell en matèria de fiscalitat dels rendiments de l’estalvi en forma de pagament d’interessos, amb el règim transitori següent:
+a) Les obligacions dels agents pagadors regulades a la Llei 11/2005, relatives als rendiments de l’estalvi en forma de pagament d’interessos realitzats fins al 31 de desembre del 2016, seguiran sent aplicables el 2017 en els terminis establerts reglamentàriament;
+b) L’obligació de transferència del Principat d’Andorra als estats membres de la Unió Europea regulada a la disposició addicional primera de la Llei 11/2015, relativa als rendiments de l’estalvi en forma de pagament d’interessos realitzats fins al 31 de desembre del 2016, seguirà sent aplicable el 2017;
+c) L’intercanvi d’informació amb sol·licitud prèvia que regula el capítol cinquè de la Llei 11/2005 és aplicable a les sol·licituds referides a les conductes definides al seu article 12 anteriors a l’entrada en vigor d’aquesta Llei.
+2. El deure de secret establert a l’article 11 de la Llei 11/2005 es manté amb posterioritat a aquesta derogació normativa.

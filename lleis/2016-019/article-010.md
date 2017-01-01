@@ -1,0 +1,7 @@
+# Article 10. Règim sancionador
+1. L’incompliment de les obligacions de comunicació i diligència deguda que estableix aquesta Llei és una infracció del deure de subministrar dades, informes o antecedents amb transcendència tributària, en els termes que estableix la lletra c) de l’apartat 2 de l’article 127 de la Llei 21/2014, del 16 d’octubre, de bases de l’ordenament tributari. La quantificació de les sancions es determina en els termes que estableix la lletra c) de l’apartat 2 de l’article 128 de la mateixa Llei.
+2. L’adopció de pràctiques dirigides a eludir els procediments de comunicació d’informació i de diligència deguda que estableix aquesta Llei és una infracció tributària especial sancionada amb multa de fins a 250.000 euros. Les sancions es graduen de conformitat amb tots o alguns dels criteris següents:
+a) El grau de culpabilitat del subjecte infractor;
+b) La gravetat i la durada del fets;
+c) Les sancions fermes en via administrativa que li hagin estat imposades durant els últims cinc anys.
+3. El règim sancionador que regula aquesta Llei es complementa a efectes únicament del seu procediment i de la competència per tramitar l’expedient sancionador i imposar sancions amb les disposicions del títol IV de la Llei 21/2014, del 16 d’octubre, de bases de l’ordenament tributari, relatiu a la potestat sancionadora i, subsidiàriament, pel Codi de l’Administració, del 29 de març de 1989.
