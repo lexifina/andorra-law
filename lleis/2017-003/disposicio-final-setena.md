@@ -1,0 +1,2 @@
+# Disposició final setena
+S’encomana al Govern, que en el termini de tres mesos des de l’entrada en vigor d’aquesta llei, publiqui al Butlletí Oficial del Principat d’Andorra el text refós de la Llei 31/2008, del 18 de desembre, de mesures de reactivació econòmica i de la Llei 93/2010, del 16 de desembre, de mesures de promoció de l’activitat econòmica i social i d’optimització dels recursos de l’Administració.

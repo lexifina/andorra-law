@@ -1,0 +1,2 @@
+# Article 17. Ajuts per a l’accés a l’habitatge
+Les partides del Departament d’Afers Socials destinades al pagament d’ajuts a l’arrendament s’atorguen sobre la base dels criteris i barems establerts en el Reglament regulador de les prestacions econòmiques de serveis socials i sociosanitaris, que ha de tenir en compte de manera prioritària la situació econòmica de la llar que n’és beneficiària. Tota demanda denegada ho és de manera raonada d’acord amb criteris preestablerts.
