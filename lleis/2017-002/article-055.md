@@ -1,0 +1,7 @@
+# Article 55. Modificació de l’article 48
+Es modifica l’article 48 de la Llei 8/2004, del 27 de maig, qualificada del Cos de Policia, el qual queda redactat com segueix:
+“Article 48. Procediment subsegüent per a la provisió de les places
+1. La provisió de les places vacants o de nova creació de membre del Cos de Policia que no s’hagi pogut efectuar en virtut del procediment inicial que preveu l’article 47 es du a terme de la manera següent:
+a) La provisió de les places vacants o de nova creació que pertanyen a l’escala bàsica i al grau d’agent de Policia s’efectua mitjançant el procediment selectiu d’ingrés.
+b) La provisió de les places vacants o de nova creació que pertanyen a l’escala intermèdia i als graus de sotsoficial de Policia i sotsoficial de Policia de primera, a l’escala executiva i als graus d’oficial de Policia i oficial de Policia de primera, i a l’escala superior i als graus de comissari de Policia i comissari de Policia de primera, s’efectua per promoció interna entre membres del Cos, segons s’estableixi reglamentàriament, i, subsidiàriament, en cas que no hi concorrin candidats o els candidats no reuneixin els requisits exigits, mitjançant el procediment selectiu d’ingrés.
+2. Sense perjudici del que preveu la lletra b) anterior, de forma excepcional i amb l’informe previ del director del Cos de Policia, el ministre competent en matèria d’interior pot decidir de forma motivada que la provisió de les places vacants o de nova creació es faci només mitjançant el procediment selectiu d’ingrés.”

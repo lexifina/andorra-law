@@ -1,0 +1,7 @@
+## Capítol I. Accés i promoció”
+# Article 50. Modificació de l’article 44
+Es modifica l’article 44 de la Llei 8/2004, del 27 de maig, qualificada del Cos de Policia, el qual queda redactat com segueix:
+“Article 44. Provisió de les places de Direcció
+1. La plaça del lloc de treball de director del Cos de Policia és proveïda mitjançant la lliure designació entre funcionaris que siguin titulars de les places dels llocs de treball incloses en els grups A o B del sistema de classificació de l’Administració general, o bé entre membres del Cos que siguin titulars de les places dels llocs de treball incloses a partir de l’escala intermèdia i el grau de sotsoficial de Policia de primera, amb preferència, però, entre membres del Cos que siguin titulars de les places dels llocs de treball incloses en les escales executiva o superior.
+2. No obstant el que estableix l’apartat anterior, també es pot designar com a director del Cos de Policia una persona que no sigui funcionària de l’Administració general, de nacionalitat andorrana, com a personal de relació especial, d’acord amb les disposicions de la Llei de la funció pública.
+3. La plaça del lloc de treball de director adjunt és proveïda mitjançant la lliure designació entre membres del Cos de Policia que siguin titulars de les places dels llocs de treball incloses a partir de l’escala intermèdia i el grau de sotsoficial de Policia de primera, amb preferència, però, entre membres del Cos que siguin titulars de les places dels llocs de treball incloses en les escales executiva o superior.”

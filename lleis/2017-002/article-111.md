@@ -1,0 +1,7 @@
+# Article 111. Modificació de l’article 111
+Es modifica l’article 111 de la Llei 8/2004, del 27 de maig, qualificada del Cos de Policia, el qual queda redactat com segueix:
+“Article 111. Tramitació de l’expedient en cas de procés penal
+1. Si en el decurs de la tramitació d’un expedient disciplinari es manifesten indicis de conductes que poden constituir una infracció penal, el director del Cos de Policia ho ha de fer saber a l’òrgan jurisdiccional competent. D’altra banda, la persona competent per incoar l’expedient disciplinari o, si escau, l’instructor, han de suspendre, tot seguit, la tramitació de l’expedient esmentat, la qual cosa interromp el còmput dels terminis de prescripció i caducitat, fins que recaigui una resolució ferma en l’àmbit penal.
+2. Quan s’estigui instruint o jutjant un procés penal pels mateixos fets que han originat o han de comportar la incoació d’un expedient disciplinari, o per altres fets que hi estiguin íntimament vinculats, s’ha d’iniciar la tramitació de l’expedient disciplinari, si no s’ha iniciat amb anterioritat, i se’n suspèn tot seguit la tramitació, la qual cosa interromp el còmput dels terminis de prescripció o caducitat, fins que recaigui una resolució ferma en l’àmbit penal.
+3. La declaració de fets provats que pugui fer el tribunal penal és vinculant per a la persona o l’òrgan competent per dictar la resolució disciplinària.
+4. Els supòsits assenyalats als apartats 1 i 2 no impedeixen l’adopció o la pròrroga de les mesures cautelars oportunes. Són aplicables, en tot cas, les disposicions de l’article 106.”

@@ -1,0 +1,6 @@
+# Article 4. Addició d’un article 3 ter
+S’afegeix un article 3 ter, dins el capítol I del títol I de la Llei 8/2004, del 27 de maig, qualificada del Cos de Policia, el qual queda redactat com segueix:
+“Article 3 ter. Àmbit d’aplicació de la Llei
+1. Les disposicions d’aquesta Llei s’apliquen als membres del Cos de Policia, llevat que s’estableixi altrament de forma expressa.
+2. Les disposicions d’aquesta Llei regulen el règim específic aplicable als membres del Cos de Policia i que es diferencia del règim general aplicable a la resta de funcionaris o agents de l’Administració general. No obstant això, en els aspectes que no estiguin regulats per aquesta Llei o les normes que la desenvolupen, els membres del Cos es regeixen, de manera complementària i supletòria, per les disposicions de la Llei de la funció pública i de les normes que la desenvolupen.
+3. Els funcionaris o agents de l’Administració que pertanyen al Cos General i que estan adscrits al Departament de Policia es regeixen per les disposicions de la Llei de la funció pública i de les normes que la desenvolupen, sense perjudici que es puguin tenir en compte, mitjançant les disposicions oportunes d’aquesta Llei, les especificitats pròpies derivades de la seva adscripció a aquest Departament.

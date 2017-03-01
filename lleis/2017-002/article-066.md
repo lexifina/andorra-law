@@ -1,0 +1,6 @@
+# Article 66. Modificació de l’article 61
+Es modifica l’article 61 de la Llei 8/2004, del 27 de maig, qualificada del Cos de Policia, el qual queda redactat com segueix:
+“Article 61. Formació inicial, continuada i específica
+1. Els membres del Cos de Policia han de rebre una formació inicial, i també una formació continuada i una formació específica, que garanteixin la capacitació professional per al compliment adequat de les funcions que tenen encomanades, d’acord amb els principis d’objectivitat i igualtat d’oportunitats, sense perjudici que les formacions s’hagin d’adaptar a les necessitats específiques dels llocs de treball.
+2. El pla de formació dels membres del Cos de Policia, que ha d’incloure la formació inicial, la formació continuada i la formació específica, l’aprova el ministre competent en matèria d’interior, a proposta del director del Cos, d’acord amb el que es fixi per la via reglamentària.
+3. El Departament de Policia assumeix les despeses de formació dels membres del Cos. No obstant això, es pot establir reglamentàriament l’obligació dels membres del Cos de fer-se càrrec d’aquestes despeses en supòsits excepcionals, o de romandre al mateix lloc de treball durant un període determinat a comptar de la finalització de la formació.”

@@ -1,0 +1,2 @@
+# Disposició final cinquena
+S’encomana al Govern que en el termini màxim de tres mesos des de l’entrada en vigor d’aquesta Llei publiqui al Butlletí Oficial del Principat d’Andorra el text consolidat de la Llei 8/2004, del 27 de maig, qualificada del Cos de Policia; de la Llei qualificada de la Justícia, del 3 de setembre de 1993; de la Llei de la funció pública, del 15 de desembre del 2000, i de la Llei 33/2008, del 18 de desembre, qualificada de llibertat sindical, que inclogui les modificacions introduïdes fins ara en aquestes quatre lleis.

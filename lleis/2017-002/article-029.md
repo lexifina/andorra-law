@@ -1,0 +1,6 @@
+# Article 29. Modificació de l’article 28
+Es modifica l’article 28 de la Llei 8/2004, el 27 de maig, qualificada del Cos de Policia, el qual queda redactat com segueix:
+“Article 28. Tinença, port i ús dels mitjans de subjecció i coercitius
+1. Quan estan de servei, els membres del Cos de Policia poden dur eventualment i/o utilitzar els mitjans de subjecció i coercitius que hagin estat autoritzats reglamentàriament, segons es determini també per la via reglamentària. En qualsevol cas, però, només en poden fer ús en els supòsits i amb les condicions establerts a la lletra e) del paràgraf tercer de l’article 5.
+2. La tinença, el port i l’ús dels mitjans de subjecció i coercitius per part dels membres del Cos de Policia queden condicionats al fet que també estiguin subjectes a la tinença, el port i l’ús de l’arma o les armes de foc autoritzades. Així, en cas que se n’hagi decidit la prohibició, aquesta prohibició es fa extensiva a la tinença, el port i l’ús dels mitjans de subjecció i coercitius.
+3. La tinença, el port i l’ús dels mitjans de subjecció i coercitius per part dels membres del Cos de Policia requereixen haver rebut i superat la formació específica i continuada que en aquesta matèria estableixi el director del Cos, amb l’aprovació del ministre competent en matèria d’interior, en els termes que es prevegi reglamentàriament.”

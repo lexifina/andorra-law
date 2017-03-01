@@ -1,0 +1,6 @@
+# Article 109. Modificació de l’article 110
+Es modifica l’article 110 de la Llei 8/2004, del 27 de maig, qualificada del Cos de Policia, el qual queda redactat com segueix:
+“Article 110. Anotació i comunicació de les sancions i rehabilitació
+1. Les sancions disciplinàries es fan constar en l’expedient personal del membre del Cos de Policia sancionat i s’anoten al Registre de Membres del Cos de Policia i al Registre de la Funció Pública, amb indicació de les faltes que les han motivat.
+2. L’anotació es cancel·la, a l’efecte de rehabilitació, sempre que el membre del Cos de Policia sancionat no hagi incorregut en nova responsabilitat disciplinària, quan hagin transcorregut els terminis d’un any en el cas de sancions per faltes lleus; dos anys en el cas de sancions per faltes greus, i quatre anys en el cas de sancions per faltes molt greus, llevat de les sancions d’acomiadament i inhabilitació definitiva per prestar serveis en qualsevol lloc de treball de l’Administració general.
+3. El termini de caducitat per a la rehabilitació es compta a partir de l’endemà del dia en què s’hagi complert definitivament la sanció. La cancel·lació de l’anotació, un cop complerts els terminis indicats, es fa d’ofici o a petició del membre del Cos de Policia sancionat.”

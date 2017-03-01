@@ -1,0 +1,8 @@
+# Article 81. Modificació de l’article 77
+Es modifica l’article 77 de la Llei 8/2004, del 27 de maig, qualificada del Cos de Policia, el qual queda redactat com segueix:
+“Article 77. Vacances, permisos i dies compensatoris
+1. La distribució dels períodes de vacances, l’atorgament de permisos i l’establiment dels dies de recuperació o de compensació dels membres del Cos de Policia queden condicionats al bon funcionament de l’organització i del servei del Cos.
+2. Els membres del Cos de Policia tenen dret, amb caràcter general, a trenta-cinc dies naturals de vacances retribuïdes cada any. El període de vacances no fet durant l’any natural a què correspon, o com a màxim fins al 31 de gener de l’any següent, no es pot acumular en anys posteriors, llevat de casos excepcionals i justificats, amb l’informe previ favorable del director del Cos. Les altres particularitats en matèria de vacances es determinen reglamentàriament.
+3. Els membres del Cos de Policia tenen el dret d’obtenir els permisos administratius que s’assenyalin reglamentàriament, en les condicions que s’hi estableixin. L’atorgament i el refús dels permisos administratius correspon al director del Cos.
+4. El director del Cos de Policia comunica anyalment els dies de compensació que tenen els membres del Cos, que són proporcionals al temps efectiu treballat. Aquests dies corresponen als festius del calendari oficial publicat, dels quals es beneficien la resta de funcionaris o agents de l’Administració general, en què els membres del Cos estan obligats a treballar per raó de servei.
+5. Els membres del Cos de Policia no poden gaudir dels dies de compensació corresponents als festius durant els quals han estat de baixa mèdica per malaltia.”

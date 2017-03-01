@@ -1,0 +1,2 @@
+# Article 110. Eliminació de la referència a la secció cinquena del capítol III del títol V
+S’elimina la referència a la secció cinquena del capítol III del nou títol V de la Llei 8/2004, del 27 de maig, qualificada del Cos de Policia, denominada “Iniciació d’un procediment penal contra un membre del Cos de Policia pels mateixos fets que poden donar lloc a la tramitació d’un expedient disciplinari”.

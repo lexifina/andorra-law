@@ -1,0 +1,6 @@
+# Article 10. Modificació de l’article 6
+Es modifica l’article 6 de la Llei 8/2004, del 27 de maig, qualificada del Cos de Policia, el qual queda redactat com segueix:
+“Article 6. Àmbit d’actuació
+1. L’àmbit d’actuació del Cos de Policia, en la seva condició de Policia ordinària i integral, és tot el territori del Principat d’Andorra. També pot actuar fora del territori andorrà en supòsits excepcionals o d’emergència, quan la naturalesa de la situació ho requereixi, a petició o per ordre del ministre competent en matèria d’interior o de l’autoritat competent, o en compliment del que disposin els convenis o els acords internacionals vigents.
+2. Els membres del Cos de Policia poden rebre o impartir cursos de formació dins el territori andorrà en les matèries de la seva competència o que estiguin relacionades amb la seva missió, amb l’autorització prèvia del director del Cos.
+3. Per ordre del ministre competent en matèria d’interior o de l’autoritat competent, o en compliment del que disposin els convenis o els acords internacionals vigents, els membres del Cos de Policia també poden rebre o impartir cursos de formació fora del territori andorrà en les matèries de la seva competència o que estiguin relacionades amb la seva missió.”

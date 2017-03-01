@@ -1,0 +1,7 @@
+# Article 27. Modificació de l’article 26
+Es modifica l’article 26 de la Llei 8/2004, del 27 de maig, qualificada del Cos de Policia, el qual queda redactat com segueix:
+“Article 26. Tinença, port i ús de les armes
+1. Els membres del Cos de Policia estan subjectes a la tinença i el port de l’arma o les armes de foc que hagin estat autoritzades reglamentàriament, llevat que se n’hagi decidit la prohibició temporal o definitiva i en els altres supòsits que estableix la Llei.
+2. No obstant això, el port de l’arma o les armes de foc per part dels membres del Cos de Policia només té caràcter obligatori quan estan de servei. En cas que no estiguin de servei, el port de l’arma o les armes de foc és facultatiu, però quan es tracti de membres del Cos en període de formació o en període de prova, si la provisió de la plaça s’ha fet mitjançant el procediment selectiu d’ingrés, no poden portar l’arma o les armes de foc si no estan de servei.
+3. Els membres del Cos de Policia només poden fer ús de l’arma o les armes de foc en els supòsits i amb les condicions establerts a la lletra d) del paràgraf tercer de l’article 5. Els altres requisits i particularitats relatius a l’ús de l’arma o les armes de foc es determinen reglamentàriament.
+4. La tinença, el port i l’ús de l’arma o les armes de foc per part dels membres del Cos de Policia requereixen haver rebut i superat la formació específica i continuada que en aquesta matèria es prevegi reglamentàriament.”

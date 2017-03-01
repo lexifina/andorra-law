@@ -1,0 +1,6 @@
+# Article 57. Modificació de l’article 50
+Es modifica l’article 50 de la Llei 8/2004, del 27 de maig, qualificada del Cos de Policia, el qual queda redactat com segueix:
+“Article 50. Sistemes i proves per a la provisió de les places
+1. La provisió de les places vacants o de nova creació de membre del Cos de Policia es fa pels sistemes de concurs oposició o d’oposició, segons es determini reglamentàriament, que han de respondre als principis d’objectivitat, publicitat, igualtat i concurrència, i que tenen com a finalitat seleccionar els candidats que s’adaptin més bé als llocs de treball que s’han de cobrir d’acord amb la seva capacitació, els seus mèrits i la seva experiència.
+2. En la fase de concurs del concurs oposició es valoren els mèrits que consten als expedients personals o als currículums aportats per les persones admeses en el procés per a la provisió de les places vacants o de nova creació, segons el barem que s’indica en les bases de la convocatòria, atorgant a cada mèrit una ponderació raonable. La ponderació de la fase de concurs també s’indica en les bases de la convocatòria.
+3. En la fase d’oposició del concurs oposició o quan el sistema sigui d’oposició, els candidats fan les proves selectives o de capacitació que s’estableixin reglamentàriament, la ponderació de les quals en la valoració global s’indica en les bases de la convocatòria.”

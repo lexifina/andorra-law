@@ -1,0 +1,8 @@
+# Article 82. Modificació de l’article 78
+Es modifica l’article 78 de la Llei 8/2004, del 27 de maig, qualificada del Cos de Policia, el qual queda redactat com segueix:
+“Article 78. Comissió de serveis i adscripció temporal
+1. Els membres del Cos de Policia que així ho sol·licitin poden ser adscrits en comissió de serveis durant un termini màxim de dos anys, prorrogable de forma justificada un any més, sempre que hagin transcorregut com a mínim dos anys des que ocupen el seu lloc de treball.
+2. Un cop finalitzen l’adscripció en comissió de serveis o de forma temporal per ocupar llocs de treball amb reserva de plaça, els membres del Cos de Policia han de retornar al seu lloc de treball.
+3. L’adscripció d’un membre del Cos de Policia en comissió de serveis o de forma temporal per ocupar llocs de treball amb reserva de plaça està supeditada a l’interès públic i al bon funcionament de l’organització i del servei del Cos, i requereix l’informe previ favorable del director del Cos.
+4. L’adscripció d’un membre del Cos de Policia en comissió de serveis o de forma temporal per ocupar llocs de treball amb reserva de plaça correspon a la Secretaria d’Estat de Funció Pública, a proposta del ministre competent en matèria d’interior.
+5. Els membres del Cos de Policia que estiguin adscrits en comissió de serveis o de forma temporal per ocupar llocs de treball amb reserva de plaça queden desvinculats totalment de la funció de policia, amb la suspensió de les facultats que com a membres del Cos els corresponen. I han de lliurar al director del Cos l’arma o les armes de foc i els mitjans de subjecció i coercitius autoritzats, el carnet professional, la placa emblema i els equipaments dels quals disposen per tota la durada de l’adscripció.”

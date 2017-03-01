@@ -1,0 +1,5 @@
+# Article 112. Derogació de la disposició addicional, de les disposicions transitòries sisena a la novena, i de les disposicions finals primera i segona
+1. Es deroga la disposició addicional de la Llei 8/2004, del 27 de maig, qualificada del Cos de Policia.
+2. Es deroguen les disposicions transitòries sisena, setena, vuitena i novena de la Llei 8/2004, del 27 de maig, qualificada del Cos de Policia.
+3. Es deroguen les disposicions finals primera i segona de la Llei 8/2004, del 27 de maig, qualificada del Cos de Policia.
+4. Atès el que disposen els apartats anteriors, i que la Llei 23/2014, del 30 d’octubre, qualificada de creació i de regulació del pla de pensions de la funció pública, en aplicació del que preveu la seva disposició derogatòria, va derogar les disposicions transitòries primera, segona i tercera de la Llei 8/2004, del 27 de maig, qualificada del Cos de Policia, se’n mantenen vigents les disposicions transitòries quarta i cinquena, la disposició derogatòria i la disposició final tercera.

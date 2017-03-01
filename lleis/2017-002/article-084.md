@@ -1,0 +1,6 @@
+# Article 84. Modificació de l’article 80
+Es modifica l’article 80 de la Llei 8/2004, del 27 de maig, qualificada del Cos de Policia, el qual queda redactat com segueix:
+“Article 80. Trasllat
+1. Els membres del Cos de Policia poden sol·licitar el trasllat a una plaça vacant o de nova creació que es correspongui amb un lloc de treball igual o amb característiques similars al de la plaça que està ocupant el membre del Cos concernit, sempre que no comporti un increment de salari.
+2. Els membres del Cos de Policia també poden demanar el trasllat a una plaça que pertanyi a una escala inferior o a un grau inferior de la mateixa escala en relació amb la plaça que el membre del Cos concernit ocupava amb anterioritat al trasllat. Aquest trasllat comporta que la retribució es correspongui amb la de la nova plaça i se situï a la banda mitjana, i que el membre del Cos concernit renunciï a la part salarial que sobrepassi.
+3. Correspon al ministre competent en matèria d’interior decidir sobre el trasllat, a proposta del director del Cos de Policia, d’acord amb l’interès públic i el bon funcionament de l’organització i del servei del Cos. Aquesta decisió es comunica a la Secretaria d’Estat de Funció Pública.”

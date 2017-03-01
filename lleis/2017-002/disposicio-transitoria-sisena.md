@@ -1,0 +1,2 @@
+# Disposició transitòria sisena
+Els membres del Cos de Policia que estiguin desenvolupant funcions i responsabilitats en les unitats de policia judicial amb anterioritat a l’entrada en vigor d’aquesta Llei, poden continuar sent adscrits a aquestes unitats, i disposaran d’un termini raonable, en tot cas no inferior a la durada de la formació, per adquirir la formació necessària que es prevegi reglamentàriament.

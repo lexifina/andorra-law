@@ -1,0 +1,2 @@
+# Disposició transitòria segona
+Els membres del Cos de Policia que tinguin reconegut el grau de sotsoficial major de Policia, a l’empara de la lletra b) de l’apartat 1 de l’article 38 de la Llei 8/2004, del 27 de maig, qualificada del Cos de Policia, tal com era vigent fins a la data de l’entrada en vigor de la Llei, conserven aquest grau amb els drets i les facultats, i els deures i les obligacions que hi són associats.
