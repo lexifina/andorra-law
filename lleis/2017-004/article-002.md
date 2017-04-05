@@ -1,0 +1,7 @@
+# Article 2. Modificació de l’apartat 11 i addició d’un apartat 14 a l’article 26
+Es modifica l’apartat 11 i s’afegeix un apartat 14 a l’article 26 de la Llei de 19/2014, del 18 de setembre, qualificada de partits polítics i finançament electoral, el qual queda redactat com segueix:
+“[…]
+11. Els partits polítics no podran acceptar donacions provinents de Govern, partits polítics o entitats públiques estrangeres. Queden excloses d’aquesta prohibició les subvencions de les federacions o organismes internacionals dels quals els partits polítics en siguin membre per a projectes democràtics i concrets que es vulguin dur a terme en pro de l’interès general. En aquest cas, aquestes subvencions i el seu destí, que obligatòriament haurà de ser aquell projecte o projectes en concret, hauran de constar als comptes del partit i estan sotmeses al mateix règim de límit de quantitat, control i publicitat que les donacions fetes per persones físiques als partits polítics previst en el present article.
+I en tots els casos, les subvencions rebudes no podran superar en cap cas el 40% del cost total del referit projecte.
+[…]
+14. Si un crèdit o un préstec concedit a un partit polític és assumit per una altra persona, en virtut d’un aval o una altra figura jurídica anàloga, aquest fet es considera a tots els efectes com una donació si la persona esmentada no exerceix en un termini raonable les accions oportunes per rescabalar-se.”

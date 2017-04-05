@@ -1,0 +1,2 @@
+# Disposició final segona. Textos consolidats
+S’encomana al Govern que en el termini màxim de sis mesos des de l’entrada en vigor d’aquesta Llei publiqui al Butlletí Oficial del Principat d’Andorra els textos consolidats de la Llei 19/2014, del 18 de setembre, qualificada de partits polítics i finançament electoral, i de la Llei del Tribunal de Comptes, del 13 d’octubre del 2000, que incloguin les modificacions introduïdes fins al moment en aquestes dues lleis.

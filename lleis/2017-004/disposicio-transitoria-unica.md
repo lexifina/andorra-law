@@ -1,0 +1,2 @@
+# Disposició transitòria única
+En referencia a la subvenció de representació regulada en l’article 3 de la present llei, aquesta començarà a funcionar a partir de l’1 de Gener del 2018 i es prendrà com a referència per calcular l’import de la subvenció els resultats de les eleccions generals de l’1 de març de 2015 i les eleccions comunals del 13 de desembre de 2015 a excepció de que hagin concorregut noves eleccions abans d’aquella data, en aquest cas s’agafaria com a referència els resultats de les noves eleccions.

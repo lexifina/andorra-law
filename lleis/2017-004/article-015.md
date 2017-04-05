@@ -1,0 +1,9 @@
+# Article 15. Modificació dels apartats 1, 2, 5 i 6 de l’article 50
+Es modifiquen els apartats 1, 2, 5 i 6 de l’article 50 de la Llei 19/2014, del 18 de setembre, qualificada de partits polítics i finançament electoral, els quals queden redactats com segueix:
+“[…]
+1. Entre els seixanta i els vuitanta dies naturals següents al dia de la votació, totes les candidatures han de presentar davant el Tribunal de Comptes una comptabilitat detallada i documentada dels seus ingressos i despeses electorals respectius.
+2. La presentació la fan els administradors electorals.
+[…]
+5. El Tribunal de Comptes remet en el termini de tres dies hàbils l’informe definitiu de fiscalització al Consell General i al Govern. Aquest informe ha d’incloure un exemplar de les comptabilitats electorals corresponents, i s’ha de publicar al Butlletí del Consell General en el termini màxim d’un mes des de la data de recepció de l’informe per part del Consell General.
+6. El Govern, d’acord amb l’informe del Tribunal de Comptes, dins el termini d’un mes a comptar de la data en què el rep, ordena el pagament de les subvencions a les candidatures.
+Si l’informe preliminar de fiscalització del Tribunal de Comptes no adverteix indicis d’irregularitats, i si els partits o les candidatures afectades no fan al·legacions, el Govern ordena, dins del termini d’un mes a comptar de la data que el rep, el pagament de les subvencions a les candidatures, d’acord amb aquest informe preliminar i sense perjudici del que correspongui d’acord amb l’informe definitiu. A aquest efecte, un cop acabat el termini per fer al·legacions, el Tribunal de Comptes fa arribar l’informe preliminar al Govern, juntament amb la certificació que fa constar que les candidatures afectades no han fet al·legacions. Les quantitats rebudes s’ajusten, en el seu cas, a les que corresponguin d’acord amb l’informe definitiu.”
