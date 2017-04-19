@@ -1,0 +1,4 @@
+# Article 6. Competències
+El GESCO tindrà totes les competències que siguin definides en els seus estatuts i que permetin l’assoliment del seu objecte.
+Sense perjudici d’aquelles, el GESCO podrà emetre un informe, no vinculant, sempre a demanda de dues terceres parts dels consellers generals en exercici, a través de la Junta de Presidents, sobre qüestions que es trobin en tràmit parlamentari al Consell General. En especial, es podrà demanar l’informe sobre aquelles matèries que foren legislades i tractades de manera aprofundida en anteriors legislatures, quan l’experiència dels ex-consellers pugui enriquir el debat parlamentari del moment.
+En aquest cas, el GESCO haurà d’emetre el seu informe en un màxim de quinze (15) dies hàbils següents a la recepció de la petició per part del Consell General.

@@ -1,0 +1,2 @@
+# Article 2. Objecte
+L’objectiu del GESCO és la promoció i la defensa dels valors democràtics, la cultura andorrana i la llengua catalana. Sota aquesta perspectiva, desenvoluparà vincles de solidaritat entre els seus membres, activitats socials i culturals corresponents a l’objecte social i establirà vincles de col·laboració amb agrupacions estrangeres del mateix caire, i en particular amb les dels Estats veïns.
