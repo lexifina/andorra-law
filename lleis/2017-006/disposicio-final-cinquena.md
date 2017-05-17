@@ -1,0 +1,2 @@
+# Disposició final cinquena
+S’encomana al Govern que en el termini màxim de tres mesos des de l’entrada en vigor d’aquesta Llei publiqui al Butlletí Oficial del Principat d’Andorra els textos consolidats de la Llei 3/2007, del 22 de març, del Cos Penitenciari, i de la Llei 4/2007, del 22 de març, qualificada penitenciària, que incloguin les modificacions introduïdes fins ara en aquestes dos Lleis.

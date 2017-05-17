@@ -1,0 +1,7 @@
+# Article 30. Modificació de l’article 22
+Es modifica l’article 22 de la Llei 3/2007, del 22 de març, del Cos Penitenciari, el qual queda redactat com segueix:
+“Article 22. Procediment subsegüent per a la provisió de les places
+1. La provisió de les places vacants o de nova creació de membre del Cos Penitenciari que no s’hagi pogut efectuar en virtut del procediment inicial que preveu l’article 21 es du a terme de la manera següent:
+a) La provisió de les places vacants o de nova creació que pertanyen a l’escala bàsica i al grau d’agent penitenciari s’efectua mitjançant el procediment selectiu d’ingrés.
+b) La provisió de les places vacants o de nova creació que pertanyen a l’escala intermèdia i als graus de sotsoficial penitenciari i sotsoficial penitenciari de primera, i a l’escala executiva i als graus d’oficial penitenciari i oficial penitenciari de primera, s’efectua per promoció interna entre membres del Cos, segons s’estableixi reglamentàriament, i, subsidiàriament, en cas que no hi concorrin candidats o els candidats no reuneixin els requisits exigits, mitjançant el procediment selectiu d’ingrés.
+2. Sense perjudici del que preveu la lletra b) anterior, de forma excepcional i amb l’informe previ del director del Cos Penitenciari, el ministre competent en matèria de justícia pot decidir de forma motivada que la provisió de les places vacants o de nova creació es faci només mitjançant el procediment selectiu d’ingrés.”

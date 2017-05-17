@@ -1,0 +1,5 @@
+# Article 57. Modificació de l’article 44
+Es modifica l’article 44 de la Llei 3/2007, del 22 de març, del Cos Penitenciari, el qual queda redactat com segueix:
+“Article 44. Registre, informe, revisió, avaluació i control
+1. Per la via reglamentària s’han de determinar i desenvolupar les obligacions eventuals de registre, informe i revisió mèdica amb posterioritat a l’ús de l’arma o les armes de foc i dels mitjans de subjecció i coercitius autoritzats, i de custòdia i manteniment d’aquestes armes i mitjans. En tot cas, però, el director del Cos Penitenciari ha de comunicar i detallar l’ús que se n’hagi fet a l’òrgan jurisdiccional competent, al Ministeri Fiscal i al ministre competent en matèria de justícia.
+2. L’ús dels mitjans de subjecció i coercitius ha de ser avaluat i controlat per una comissió tècnica. Les funcions, la composició, el nomenament i el cessament dels membres, la constitució i la designació dels càrrecs, el règim de convocatòria, el quòrum i la presa de decisions, i la resta de particularitats de la comissió s’estableixen reglamentàriament.”

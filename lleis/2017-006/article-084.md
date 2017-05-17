@@ -1,0 +1,6 @@
+# Article 84. Modificació de l’article 66
+Es modifica l’article 66 de la Llei 3/2007, del 22 de març, del Cos Penitenciari, el qual queda redactat com segueix:
+“Article 66. Anotació i comunicació de les sancions i rehabilitació
+1. Les sancions disciplinàries es fan constar en l’expedient personal del membre del Cos Penitenciari sancionat i s’anoten al Registre de Membres del Cos Penitenciari i al Registre de la Funció Pública, amb indicació de les faltes que les han motivat.
+2. L’anotació es cancel·la, a l’efecte de rehabilitació, sempre que el membre del Cos Penitenciari sancionat no hagi incorregut en nova responsabilitat disciplinària, quan hagin transcorregut els terminis d’un any en el cas de sancions per faltes lleus; dos anys en el cas de sancions per faltes greus, i quatre anys en el cas de sancions per faltes molt greus, llevat de les sancions d’acomiadament i inhabilitació definitiva per prestar serveis en qualsevol lloc de treball de l’Administració general.
+3. El termini de caducitat per a la rehabilitació es compta a partir de l’endemà del dia en què s’hagi complert definitivament la sanció. La cancel·lació de l’anotació, un cop complerts els terminis indicats, es fa d’ofici o a petició del membre del Cos Penitenciari sancionat.”

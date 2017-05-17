@@ -1,0 +1,8 @@
+# Article 61. Modificació de l’article 48
+Es modifica l’article 48 de la Llei 3/2007, del 22 de març, del Cos Penitenciari, el qual queda redactat com segueix:
+“Article 48. Excedència
+1. Els membres del Cos Penitenciari estan en situació d’excedència quan se separen temporalment i voluntàriament del servei actiu per alguna de les circumstàncies que s’estableixen a la Llei de la funció pública, amb les particularitats següents:
+a) L’excedència per interès particular està supeditada a l’interès públic i al bon funcionament de l’organització i del servei del Cos.
+b) La declaració de la situació d’excedència dels membres del Cos és aprovada pel ministre competent en matèria de justícia, a proposta del director del Cos, i es comunica a la Secretaria d’Estat de Funció Pública.
+2. El reingrés al servei actiu dels membres del Cos Penitenciari en situació d’excedència s’efectua en la forma, les condicions i els efectes establerts en la Llei de la funció pública, amb la particularitat que la decisió sobre el reingrés correspon al ministre competent en matèria de justícia, a proposta del director del Cos. Aquesta decisió es comunica a la Secretaria d’Estat de Funció Pública.
+3. Els membres del Cos Penitenciari que estiguin en situació d’excedència queden desvinculats totalment de la funció d’agent penitenciari, amb la suspensió de les facultats que com a membres del Cos els corresponen. I han de lliurar al director del Cos l’arma o les armes de foc i els mitjans de subjecció i coercitius autoritzats, el carnet professional, la placa emblema i els equipaments dels quals disposen per tota la durada de l’excedència.”

@@ -1,0 +1,12 @@
+# Article 20. Modificació de l’article 14
+Es modifica l’article 14 de la Llei 3/2007, del 22 de març, del Cos Penitenciari, el qual queda redactat com segueix:
+“Article 14. Estructura funcional
+1. El Cos Penitenciari està integrat pels llocs de treball que es corresponen amb els membres del Cos que hi són adscrits, d’acord amb el sistema de classificació professional que estableix l’article 13.
+2. Els llocs de treball que es corresponen amb membres del Cos Penitenciari són proveïts en la forma i les condicions fixades en els articles 20 a 28 i en les normes que els desenvolupen.
+3. Els llocs de treball que es corresponen amb els funcionaris o agents de l’Administració que pertanyen al Cos General i que estan adscrits al Departament d’Institucions Penitenciàries són proveïts en la forma i les condicions fixades per la Llei de la funció pública i les normes que la desenvolupen.
+4. Els membres del Cos tenen encomanades les funcions pròpies i específiques que s’assenyalen a l’article 6, i, d’altra banda, exerceixen, de conformitat amb l’escala i el grau al qual pertanyen, les funcions següents:
+a) Els membres que pertanyen a l’escala bàsica, amb independència de la categoria, acompleixen les tasques operatives i executives que dimanen de les funcions que tenen encomanades, i també poden acomplir circumstancialment les funcions de comandament d’un o més membres de la mateixa escala prop del servei al qual estan adscrits, en absència d’un membre d’una escala superior, si així ho determina el ministre competent en matèria de justícia, a proposta del director del Cos.
+b) Els membres que pertanyen a l’escala intermèdia acompleixen, a més de les tasques operatives i executives que els puguin correspondre, les funcions de comandament operatiu, supervisió, coordinació i gestió dels grups i les seccions en què s’estructura el Cos.
+c) Els membres que pertanyen a l’escala executiva acompleixen, a més de les tasques operatives i executives que els puguin correspondre, les funcions de comandament operatiu, supervisió, coordinació i gestió de les unitats, i de comandament superior dels grups i les seccions en què s’estructura el Cos.
+d) Els membres que pertanyen a l’escala superior acompleixen les funcions de comandament operatiu, supervisió, coordinació i gestió de les àrees, i de comandament superior de les unitats, els grups i les seccions en què s’estructura el Cos.
+5. La concreció de les ocupacions professionals tipus i les funcions principals i les activitats bàsiques dels llocs de treball s’especifiquen reglamentàriament.”

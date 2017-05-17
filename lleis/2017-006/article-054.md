@@ -1,0 +1,7 @@
+# Article 54. Modificació de l’article 41
+Es modifica l’article 41 de la Llei 3/2007, del 22 de març, del Cos Penitenciari, el qual queda redactat com segueix:
+“Article 41. Tinença, port i ús de les armes
+1. Els membres del Cos Penitenciari estan subjectes a la tinença i el port de l’arma o les armes de foc que hagin estat autoritzades reglamentàriament, llevat que se n’hagi decidit la prohibició temporal o definitiva i en els altres supòsits que estableix aquesta Llei.
+2. No obstant això, el port de l’arma o les armes de foc per part dels membres del Cos Penitenciari només pot tenir lloc quan estan de servei i, en cas que aquest servei es dugui a terme a les dependències del Centre Penitenciari, només pot tenir lloc dins les zones autoritzades que s’assenyalin reglamentàriament. En qualsevol cas, està prohibit el port de l’arma o les armes de foc dins la zona de custòdia dels interns i el recinte interior del Centre Penitenciari, llevat que concorrin els supòsits establerts a la lletra d) del paràgraf tercer de l’article 7.
+3. Els membres del Cos Penitenciari només poden fer ús de l’arma o les armes de foc en els supòsits i amb les condicions establerts a la lletra d) del paràgraf tercer de l’article 7. Els altres requisits i particularitats relatius a l’ús de l’arma o les armes de foc es determinen reglamentàriament.
+4. La tinença, el port i l’ús de l’arma o les armes de foc per part dels membres del Cos Penitenciari requereixen haver rebut i superat la formació específica i continuada que en aquesta matèria es prevegi reglamentàriament.”

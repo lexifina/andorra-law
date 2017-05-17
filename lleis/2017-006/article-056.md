@@ -1,0 +1,6 @@
+# Article 56. Modificació de l’article 43
+Es modifica l’article 43 de la Llei 3/2007, del 22 de març, del Cos Penitenciari, el qual queda redactat com segueix:
+“Article 43. Tinença, port i ús dels mitjans de subjecció i coercitius
+1. Quan estan de servei, els membres del Cos Penitenciari poden dur eventualment o utilitzar els mitjans de subjecció i coercitius que hagin estat autoritzats reglamentàriament, segons es determini, també, per la via reglamentària. En qualsevol cas, però, només en poden fer ús en els supòsits i amb les condicions establerts a la lletra e) del paràgraf tercer de l’article 7.
+2. La tinença, el port i l’ús dels mitjans de subjecció i coercitius per part dels membres del Cos Penitenciari queden condicionats al fet que també estiguin subjectes a la tinença, el port i l’ús de l’arma o les armes de foc autoritzades. Així, en cas se n’hagi decidit la prohibició, aquesta prohibició es fa extensiva a la tinença, el port i l’ús dels mitjans de subjecció i coercitius.
+3. La tinença, el port i l’ús dels mitjans de subjecció i coercitius per part dels membres del Cos Penitenciari requereixen haver rebut i superat la formació específica i continuada que en aquesta matèria estableixi el director del Cos, amb l’aprovació del ministre competent en matèria de justícia, en els termes que es prevegi reglamentàriament.”

@@ -1,0 +1,6 @@
+# Article 4. Modificació de l’article 4
+Es modifica l’article 4 de la Llei 3/2007, del 22 de març, del Cos Penitenciari, el qual queda redactat com segueix:
+“Article 4. Àmbit d’aplicació de la Llei
+1. Les disposicions de la Llei s’apliquen als membres del Cos Penitenciari, llevat que s’estableixi altrament de forma expressa.
+2. Les disposicions de la Llei regulen el règim específic aplicable als membres del Cos Penitenciari i que es diferencia del règim general aplicable a la resta de funcionaris o agents de l’Administració general. No obstant això, en els aspectes que no estiguin regulats per la Llei o les normes que la desenvolupen, els membres del Cos es regeixen, de manera complementària i supletòria, per les disposicions de la Llei de la funció pública i de les normes que la desenvolupen.
+3. Els funcionaris o agents de l’Administració que pertanyen al Cos General i que estan adscrits al Departament d’Institucions Penitenciàries es regeixen per les disposicions de la Llei de la funció pública i de les normes que la desenvolupen, sense perjudici que es puguin tenir en compte, mitjançant les disposicions oportunes de la Llei, les especificitats pròpies derivades de la seva adscripció a aquest Departament.”

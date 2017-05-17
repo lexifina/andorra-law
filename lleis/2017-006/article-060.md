@@ -1,0 +1,8 @@
+# Article 60. Modificació de l’article 47
+Es modifica l’article 47 de la Llei 3/2007, del 22 de març, del Cos Penitenciari, el qual queda redactat com segueix:
+“Article 47. Comissió de serveis i adscripció temporal
+1. Els membres del Cos Penitenciari que així ho sol·licitin poden ser adscrits en comissió de serveis durant un termini màxim de dos anys, prorrogable de forma justificada un any més, sempre que hagin transcorregut com a mínim dos anys des que ocupen el seu lloc de treball.
+2. Un cop finalitzen l’adscripció en comissió de serveis o de forma temporal per ocupar llocs de treball amb reserva de plaça, els membres del Cos Penitenciari han de retornar al seu lloc de treball.
+3. L’adscripció d’un membre del Cos Penitenciari en comissió de serveis o de forma temporal per ocupar llocs de treball amb reserva de plaça està supeditada a l’interès públic i al bon funcionament de l’organització i del servei del Cos, i requereix l’informe previ favorable del director del Cos.
+4. L’adscripció d’un membre del Cos Penitenciari en comissió de serveis o de forma temporal per ocupar llocs de treball amb reserva de plaça correspon a la Secretaria d’Estat de Funció Pública, a proposta del ministre competent en matèria de justícia.
+5. Els membres del Cos Penitenciari que estiguin adscrits en comissió de serveis o de forma temporal per ocupar llocs de treball amb reserva de plaça queden desvinculats totalment de la funció d’agent penitenciari, amb la suspensió de les facultats que com a membres del Cos els corresponen. I han de lliurar al director del Cos l’arma o les armes de foc i els mitjans de subjecció i coercitius autoritzats, el carnet professional, la placa emblema i els equipaments dels quals disposen per tota la durada de l’adscripció.”

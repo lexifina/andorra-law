@@ -1,0 +1,6 @@
+# Article 5. Modificació de l’article 5
+Es modifica l’article 5 de la Llei 3/2007, del 22 de març, del Cos Penitenciari, el qual queda redactat com segueix:
+“Article 5. Àmbit d’actuació
+1. L’àmbit d’actuació del Cos Penitenciari són les dependències del Centre Penitenciari i, si escau, la resta del territori del Principat d’Andorra. També pot actuar fora del territori andorrà en supòsits excepcionals o d’emergència, quan la naturalesa de la situació ho requereixi, a petició o per ordre del ministre competent en matèria de justícia o de l’autoritat competent, o en compliment del que disposin els convenis o els acords internacionals vigents.
+2. Els membres del Cos Penitenciari poden rebre o impartir cursos de formació dins el territori andorrà en les matèries de la seva competència o que estiguin relacionades amb la seva missió, amb l’autorització prèvia del director del Cos.
+3. Per ordre del ministre competent en matèria de justícia o de l’autoritat competent, o en compliment del que disposin els convenis o els acords internacionals vigents, els membres del Cos Penitenciari també poden rebre o impartir cursos de formació fora del territori andorrà en les matèries de la seva competència o que estiguin relacionades amb la seva missió.”

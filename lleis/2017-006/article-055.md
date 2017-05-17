@@ -1,0 +1,6 @@
+# Article 55. Modificació de l’article 42
+Es modifica l’article 42 de la Llei 3/2007, del 22 de març, del Cos Penitenciari, el qual queda redactat com segueix:
+“Article 42. Prohibició de la tinença, el port i l’ús de les armes
+1. El director del Cos Penitenciari pot prohibir de forma motivada, preventiva i temporal, la tinença, el port i l’ús de l’arma o les armes de foc autoritzades al membre del Cos que estigui en situació de baixa mèdica per raó d’un problema psíquic, o quan hi hagi símptomes o indicis suficients per creure que li ha sobrevingut un problema físic, psíquic o sensorial que pot afectar negativament o que el pot fer no apte per a l’activitat que ha desenvolupar, o que pugui posar en perill la seva integritat física o la d’altri.
+2. El director del Cos Penitenciari ha de comunicar immediatament la prohibició de la tinença, el port i l’ús de l’arma o les armes de foc al ministre competent en matèria de justícia, que ha de convocar sense demora el comitè mèdic a què es refereix l’apartat 4 de l’article 35.
+3. El comitè mèdic, després d’examinar el membre del Cos Penitenciari concernit, emet un dictamen vinculant en què revoca o ratifica la prohibició preventiva i temporal de la tinença, el port i l’ús de l’arma o les armes de foc. En cas que en dictamini la prohibició definitiva, s’apliquen les disposicions de l’article 35 bis.”

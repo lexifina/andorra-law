@@ -1,0 +1,2 @@
+# Disposició transitòria tercera
+Els membres del Cos Penitenciari que hi hagin accedit i els funcionaris o agents de l’Administració que pertanyen al Cos General i que hagin estat adscrits al Departament d’Institucions Penitenciàries amb anterioritat a l’entrada en vigor de la Llei, encara que estiguin en període de formació o de prova en aquesta data, conserven el dret de percebre la retribució que establia la Disposició addicional segona de la Llei 3/2007, del 22 de març, del Cos Penitenciari.
