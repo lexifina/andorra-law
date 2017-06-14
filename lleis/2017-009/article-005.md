@@ -1,0 +1,5 @@
+# Article 5. Addició d’un nou article 62 bis a la Llei 9/2012, del 31 de maig, de modificació de la Llei qualificada d’immigració
+S’afegeix un nou article 62 bis, immediatament després de l’article 62, a la Llei 9/2012, del 31 de maig, de modificació de la Llei qualificada d’immigració, el qual queda redactat de la manera següent:
+“Article 62 bis. Renovació de l’autorització de residència i treball prevista a l’article 38 quater i concedida fa almenys set anys
+1. La persona estrangera titular, des de fa set anys com a mínim, d’una autorització de residència i treball concedida en virtut de l’article 38 quater, i que ha residit i treballat de manera permanent i efectiva a Andorra durant el darrer període de la renovació de l’autorització, pot sol·licitar i obtenir la renovació d’aquesta autorització per un període de deu anys.
+2. Les renovacions posteriors de l’autorització a què fa referència l’apartat anterior es concedeixen per períodes successius de deu anys, i només es poden denegar per motius d’ordre públic o si es constata la interrupció de la residència a Andorra de la persona estrangera que n’és titular.”

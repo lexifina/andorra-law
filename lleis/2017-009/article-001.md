@@ -1,0 +1,2 @@
+# Article 1. Mesures de prevenció i identificació
+El Govern, a través del ministeri competent en matèria d’interior i del ministeri competent en matèria d’afers socials, ha d’adoptar les mesures necessàries per prevenir el tràfic d’éssers humans i per identificar-ne les víctimes, de conformitat amb els principis establerts al Conveni del Consell d’Europa sobre la lluita contra el tràfic d’éssers humans, del 16 de maig del 2005.

@@ -1,0 +1,2 @@
+# Article 9. Retorn assistit
+El retorn assistit al país de procedència de la víctima del tràfic d’éssers humans a la qual s’ha concedit un període de reflexió i de recuperació, o el desplaçament a un altre país que sol·liciti la víctima i que li ofereixi seguretat i suport, s’atorga un cop aquest període s’ha esgotat, sempre que la persona interessada ho sol·liciti. Aquest retorn o desplaçament s’ha de portar a terme amb respecte de la seguretat i la dignitat de la víctima, fent una avaluació dels riscos en què pot incórrer.
