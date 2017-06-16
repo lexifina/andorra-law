@@ -1,0 +1,4 @@
+# Article 7. Membres
+1. Són membres del Cos de Prevenció i Extinció d’Incendis i Salvaments els membres que estan en actiu al moment de l’entrada en vigor de la Llei i els membres que accedeixen a la professió de bomber després d’haver superat el procés de selecció específic, d’acord amb la normativa aplicable.
+2. Els membres del Cos de Prevenció i Extinció d’Incendis i Salvaments són professionals que exerceixen les funcions intrínsecament relacionades amb la prevenció i l’extinció d’incendis, els salvaments, el transport sanitari i les actuacions en accidents i davant de situacions de perill i emergència, així com les funcions tècniques, de control i d’inspecció que els siguin encomanades.
+3. Els membres del Cos de Prevenció i Extinció d’Incendis i Salvaments que hagin perdut aquesta condició pel fet d’haver-se jubilat tenen la consideració de membres jubilats del Cos, amb el grau i la categoria que tenien en el moment en què s’hagin jubilat.

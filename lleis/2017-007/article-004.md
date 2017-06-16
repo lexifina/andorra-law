@@ -1,0 +1,4 @@
+# Article 4. Adscripció i integració
+1. El Cos de Prevenció i Extinció d’Incendis i Salvaments està adscrit funcionalment, orgànicament i pressupostàriament al Departament de Prevenció i Extinció d’Incendis i Salvaments, adscrit al seu torn al ministeri que té atribuïdes les competències en matèria d’interior.
+2. El Cos de Prevenció i Extinció d’Incendis i Salvaments està integrat pels funcionaris que hi estan adscrits específicament. Als efectes de la Llei, s’entenen per membres del Cos els funcionaris que hi estan adscrits específicament.
+3. El Departament de Prevenció i Extinció d’Incendis i Salvaments està integrat pels membres del Cos, i pels funcionaris o agents de l’Administració que pertanyen al Cos General i que hi realitzen funcions administratives, tècniques o de suport no reservades als membres del Cos.

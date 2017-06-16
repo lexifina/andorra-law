@@ -1,0 +1,2 @@
+# Disposició final cinquena
+En el termini màxim d’un any des de l’entrada en vigor de la Llei, el Govern, a proposta del ministre competent en matèria d’interior, haurà de convocar un procés de provisió de les places de nova creació d’oficial bomber de primera que es considerin necessàries d’acord amb les necessitats organitzatives, estructurals i professionals del Cos, i que s’efectuarà per promoció interna entre els membres del Cos que hagin estat classificats prèviament com a oficials bombers.

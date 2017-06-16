@@ -1,0 +1,3 @@
+# Article 14. Actuacions en representacions diplomàtiques i consulars
+1. En cas de perill o emergència en una seu diplomàtica o consular situada al Principat d’Andorra, els membres del Cos de Prevenció i Extinció d’Incendis i Salvaments només poden actuar amb l’autorització prèvia del cap de la missió diplomàtica o consular o de la persona delegada.
+2. Si no s’obté aquesta autorització, els membres del Cos de Prevenció i Extinció d’Incendis i Salvaments han d’adoptar les mesures necessàries per evitar que les persones, els animals i els béns que es trobin a prop de la seu diplomàtica o consular resultin afectats com a conseqüència de la situació de perill o emergència.

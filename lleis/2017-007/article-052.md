@@ -1,0 +1,5 @@
+# Article 52. Divises i distintiu d’identificació
+1. Quan vesteixen l’uniforme reglamentari, els membres del Cos de Prevenció i Extinció d’Incendis i Salvaments porten les divises que s’estableixin reglamentàriament, als llocs i en la forma en què també s’hi prevegi.
+2. El carnet professional és el distintiu d’identificació de tots els membres del Cos de Prevenció i Extinció d’Incendis i Salvaments. La forma i el contingut del carnet professional també s’estableixen per la via reglamentària.
+3. Els membres del Cos de Prevenció i Extinció d’Incendis i Salvaments que exerceixin les seves funcions sense vestir l’uniforme reglamentari han d’identificar-se sempre mitjançant el carnet professional i la placa emblema. Quan estiguin fora de servei, només poden utilitzar el carnet professional per identificar-se per motius estrictament vinculats a l’exercici de les seves funcions.
+4. Per la via reglamentària es pot crear un carnet distintiu per als membres del Cos de Prevenció i Extinció d’Incendis i Salvaments jubilats.

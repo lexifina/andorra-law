@@ -1,0 +1,3 @@
+# Article 18. Informació i coordinació amb els comuns
+1. Les autoritats comunals han de ser informades, en el que afecta el territori o la població de la parròquia corresponent, sobre les iniciatives o les actuacions específiques del Cos de Prevenció i Extinció d’Incendis i Salvaments que puguin tenir-hi una repercussió apreciable.
+2. El ministeri competent en matèria d’interior o la Direcció del Cos de Prevenció i Extinció d’Incendis i Salvaments han de presentar a les autoritats comunals els plans d’actuació que els concerneixin i que s’estableixin en les matèries que són competència del Cos.

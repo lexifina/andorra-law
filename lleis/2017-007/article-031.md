@@ -1,0 +1,3 @@
+# Article 31. Provisió de les places de membre del Cos
+1. El ministre competent en matèria d’interior, amb l’informe previ del director del Cos de Prevenció i Extinció d’Incendis i Salvaments, proposa al Govern el nombre i el tipus de places vacants o de nova creació de membre del Cos que cal cobrir. Aquesta proposta ha de ser motivada d’acord amb criteris objectius fonamentats en l’evolució, el creixement i les necessitats organitzatives, estructurals i professionals del Cos.
+2. D’acord amb la proposta esmentada a l’apartat anterior, el Govern determina i decideix el nombre i el tipus de places vacants o de nova creació de membre del Cos de Prevenció i Extinció d’Incendis i Salvaments que cal cobrir.

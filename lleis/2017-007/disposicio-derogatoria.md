@@ -1,0 +1,2 @@
+# Disposició derogatòria
+Es deroga el Decret del 14-1-2015 d’aprovació del Reglament regulador de les funcions, l’estructura i l’organització del Cos de Prevenció i Extinció d’Incendis i Salvaments, a excepció dels apartats 2 a 5 de l’article 28, del capítol sisè i dels annexos 2 a 4, que es mantenen en vigor fins que el Govern hagi aprovat les normes reglamentàries que desenvolupin aquesta Llei en les matèries que regula el Reglament esmentat.

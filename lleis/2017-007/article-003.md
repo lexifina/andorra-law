@@ -1,0 +1,3 @@
+# Article 3. Naturalesa
+1. El Cos de Prevenció i Extinció d’Incendis i Salvaments és un cos especial dins l’àmbit de l’Administració general, amb una estructura, una organització i unes funcions específiques i pròpies.
+2. El Cos de Prevenció i Extinció d’Incendis i Salvaments és un cos de seguretat civil al servei dels interessos del Principat d’Andorra i dels seus ciutadans, i es regeix principalment per les normes contingudes en aquesta Llei i en els reglaments que la desenvolupin, i també per les normes emanades de la Direcció superior i de la Direcció del Cos en l’exercici de les potestats que tenen atribuïdes.

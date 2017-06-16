@@ -1,0 +1,2 @@
+# Disposició transitòria tercera
+Les disposicions de l’apartat 3 de l’article 48 de la Llei, relatives a la pèrdua del complement específic, ho són sense perjudici del que estableix la Disposició transitòria cinquena de la Llei de la funció pública, del 15 de desembre del 2000, pel que fa als membres dels cossos especials que a la data de l’entrada en vigor de la Llei esmentada ocupaven places de llocs de treball que tenien assignada una retribució en concepte de complement específic.

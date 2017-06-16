@@ -1,0 +1,4 @@
+# Disposició final primera
+Es modifica l’article 20 de la Llei de navegació aèria, del 9 de novembre del 2000, que queda redactat com segueix:
+“Article 20
+Sense perjudici de les competències atribuïdes al ministeri encarregat dels transports en virtut de la Llei, correspon al ministeri encarregat de l’interior, mitjançant el Departament de Prevenció i Extinció d’Incendis i Salvaments, la gestió dels recursos i l’operativitat dels mitjans aeris, la coordinació de les operacions de recerca i salvament aeris, amb independència de les funcions operatives assignades a altres administracions i entitats públiques, el control i l’establiment de la prioritat i la necessitat real dels requeriments dels serveis de mitjans aeris, i la gestió econòmica i pressupostària dels serveis de mitjans aeris contractats per l’Administració general.”

@@ -1,0 +1,5 @@
+## Capítol tercer. Principis de col·laboració i coordinació
+# Article 17. Col·laboració institucional
+1. El director del Cos de Prevenció i Extinció d’Incendis i Salvaments autoritza, si escau, als membres del Cos a l’efecte de col·laborar amb els altres departaments i serveis de l’Administració general, i amb altres entitats i persones públiques i privades, en els àmbits preventiu, informatiu, formatiu i tècnic inherents a les seves funcions, i n’informa al ministre competent en matèria d’interior.
+2. Tots els departaments i serveis de l’Administració general tenen l’obligació de col·laborar i cooperar amb els membres del Cos de Prevenció i Extinció d’Incendis i Salvaments, en el marc de les funcions que tenen encomanades, quan les autoritats competents els ho demanin.
+3. La col·laboració institucional relacionada amb les actuacions del Cos de Prevenció i Extinció d’Incendis i Salvaments es formalitza mitjançant la signatura de protocols, convenis i acords de col·laboració entre les administracions, les entitats o les persones que tinguin la competència per fer-ho.
