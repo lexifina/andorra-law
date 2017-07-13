@@ -1,0 +1,6 @@
+# Article 5. Honoraris i despeses
+1. Els serveis dels notaris són remunerats sota la forma d’honoraris. Els honoraris dels notaris es fixen d’acord amb un barem aprovat reglamentàriament pel Govern, a proposta no vinculant de la Cambra de Notaris.
+2. Els notaris no poden percebre cap remuneració per l’assessorament o la redacció de l’instrument públic que autoritzin.
+No obstant això, poden percebre la meitat de l’import dels honoraris fixats i aprovats que s’haguessin meritat en cas que l’instrument públic hagués estat autoritzat, si la redacció d’aquest instrument ha estat enllestida i s’ha posat a la disposició de la persona que ha requerit la intervenció o l’actuació del notari, però no s’ha atorgat per motius que no són imputables al notari.
+3. Els notaris, en autoritzar un instrument públic, han de coadjuvar en les tasques de recaptació de les obligacions tributàries que s’estableixin legalment sense percebre cap remuneració a aquest efecte.
+4. Els honoraris dels notaris i les despeses que dimanen de l’exercici de les seves funcions, en el cas que no s’ajustin als barems o a les normes vigents i aplicables, poden ser impugnats davant del batlle o tribunal de la Secció Administrativa de la Batllia a qui correspongui per torn, d’acord amb el procediment aplicable als incidents d’execució de les resolucions judicials.

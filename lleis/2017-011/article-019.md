@@ -1,0 +1,6 @@
+# Article 19. Control de l’activitat
+1. Sense perjudici de l’autonomia i la independència de les quals gaudeixen els notaris en l’exercici de les seves funcions, l’activitat professional dels notaris queda sotmesa al control del ministeri competent en matèria de justícia.
+El control, que pot abastar la conformitat al dret de les diligències dutes a terme pels notaris, en el marc d’aquesta Llei i la normativa aplicable restant, es pot efectuar en qualsevol moment.
+2. El ministeri competent en matèria de justícia pot ordenar les inspeccions oportunes prop de les notaries, amb la periodicitat que es consideri convenient, a l’efecte de verificar el compliment de les disposicions que estableixen aquesta Llei i la normativa aplicable restant, i per tal de vetllar per l’exercici adequat de les funcions atribuïdes als notaris.
+El ministre encarregat de la justícia nomena la persona o les persones amb competències d’inspecció, en fixa la missió i és el destinatari del resultat de la inspecció.
+3. El ministre encarregat de la justícia comunica a l’òrgan disciplinari al qual fa referència l’article 21 les mancances o les deficiències eventuals constatades, a fi que incoï l’expedient disciplinari corresponent i dicti la resolució escaient.

@@ -1,0 +1,3 @@
+# Article 58. Contingut contractual
+1. El contingut pròpiament contractual de les escriptures públiques es redacta d’acord amb la declaració de voluntat comuna de les persones atorgants de conformitat amb allò que estableix l’apartat 2 de l’article 2.
+2. Els notaris redacten les escriptures públiques de manera que reflecteixin de forma clara, precisa i separada els pactes relatius a cadascun dels drets creats, transmesos, modificats o extingits, i l’extensió de les facultats, els drets i les obligacions de cadascuna de les persones atorgants o de les terceres persones a les quals puguin afectar els pactes i les reserves, les limitacions, les condicions o els terminis que s’imposin.
