@@ -1,0 +1,4 @@
+# Article 15. Assegurances de vida amb persones políticament exposades
+Els subjectes obligats adopten mesures raonables per determinar si els beneficiaris de pòlisses d’assegurances de vida o altres assegurances relacionades amb inversions i/o, si escau, el beneficiari efectiu, són persones políticament exposades, els seus familiars o persones reconegudes com afins. Aquestes mesures s’adopten com molt tard al moment del pagament o al moment de la cessió, total o parcial, de la pòlissa. Quan s’identifiquin riscs més elevats, a més d’adoptar les mesures de diligència deguda establertes a l’article 9 d’aquesta Llei, correspon als subjectes obligats:
+a) informar a l’alta direcció abans del pagament del rendiment de la pòlissa;
+b) procedir a un control reforçat de tots els aspectes de la relació de negocis amb el titular de la pòlissa.

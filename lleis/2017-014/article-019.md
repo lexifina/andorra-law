@@ -1,0 +1,14 @@
+## Capítol tercer. Informació sobre els beneficiaris efectius d’entitats jurídiques andorranes
+# Article 19. Obligació d’obtenció, conservació i accés a la informació sobre els beneficiaris efectius
+1. Les societats i altres persones jurídiques constituïdes al Principat d’Andorra tenen l’obligació d’obtenir i conservar informació adequada, precisa i actual sobre els seus beneficiaris efectius.
+Aquestes entitats tenen la obligació de subministrar als subjectes obligats, a més de la informació sobre el seu propietari legal, informació relativa al beneficiari efectiu quan els subjectes obligats prenen mesures de diligència deguda de conformitat amb el capítol segon d’aquesta Llei.
+2. La UIFAND i altres autoritats competents poden accedir a la informació a què es refereix l’apartat 1 en qualsevol moment.
+3. El Registre de Societats, el Registre d’Associacions i el Registre de Fundacions exigeixen la informació relativa als beneficiaris efectius de les entitats inscrites en els termes que estableix la legislació. Aquesta informació s’ha de mantenir precisa i actualitzada.
+4. La informació sobre els beneficiaris efectius que consti en el Registre de Societats, en el Registre d’Associacions i el Registre de Fundacions estarà a disposició de:
+a) la UIFAND i altres autoritats competents, sense cap restricció;
+b) els subjectes obligats, en el marc de l’aplicació de les mesures de diligència deguda de conformitat amb el capítol segon;
+c) tota persona o organització que pugui demostrar un interès legítim.
+Les persones o organitzacions a què es refereix la lletra c) tindran accés, com a mínim, al nom i cognoms, mes i any de naixement, la nacionalitat i el país de residència del beneficiari efectiu, i a l’abast de la seva participació efectiva.
+L’accés a la informació sobre els beneficiaris efectius que consti en el Registre de Societats, en el Registre d’Associacions i en el Registre de Fundacions es fade conformitat amb la legislació sobre protecció de dades i pot estar subjecte a un registre en línia i al pagament d’una taxa. Les taxes aplicades per l’obtenció d’informació no han d’excedir dels corresponents costos administratius.
+5. Els subjectes obligats no recorren exclusivament al Registre de Societats, al Registre d’Associacions o al Registre de Fundacions per complir els requisits en matèria de diligència deguda de conformitat amb el capítol segon.
+6. No existirà l’obligació d’autoritzar l’accés a la totalitat o una part de la informació sobre els beneficiaris efectius a les persones a què es refereix l’apartat 4, lletres b) i c), si tal accés pot exposar el beneficiari efectiu a un risc de frau, segrest, xantatge, violència o intimidació o si el beneficiari efectiu és un menor o té alguna incapacitat no relacionada amb l’edat. Aquesta exempció no s’aplica als subjectes obligats financers ni als notaris ni als saigs.

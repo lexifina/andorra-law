@@ -1,0 +1,2 @@
+# Disposició transitòria segona. Mesures de diligència simplificada
+L’aplicació de les mesures de diligència simplificada de l’article 11 en relació a clients i productes que, a la data d’entrada en vigor d’aquesta Llei, es beneficiaven del règim de diligència simplificada, es realitzarà conformement als criteris de risc establerts en aquesta Llei en un termini màxim d’un any a comptar des de l’entrada en vigor d’aquesta Llei.

@@ -1,0 +1,2 @@
+# Article 21. Obligació de declaració a organismes autoreguladors o col·legis professionals
+No obstant el que estableix l’article anterior, la UIFAND, mitjançant comunicat tècnic, pot designar l’organisme autoregulador o el col·legi professional de l’activitat de què es tracti com l’organisme a qui s’ha d’informar en primera instància en lloc de la UIFAND. En aquest cas, correspon als organismes autoreguladors efectuar les comunicacions corresponents a la UIFAND de manera immediata i sense filtrar.

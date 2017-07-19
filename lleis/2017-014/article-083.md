@@ -1,0 +1,6 @@
+# Article 83. Mesures cautelars
+1. Un cop incoat el procediment i en qualsevol moment d’aquest procediment, la UIFAND pot acordar les mesures cautelars que cregui convenients per tal d’assegurar l’eficàcia de la resolució que pugui recaure, sempre que hi hagin indicis d’infracció suficients.
+2. Aquestes mesures poden consistir en: prohibir provisionalment la realització de determinats tipus d’operacions financeres o comercials; disposar la suspensió provisional de les persones que, pel fet d’exercir càrrecs d’alta direcció en els subjectes obligats, apareguin com a presumptes responsables d’infraccions molt greus.
+3. Les mesures cautelars han de ser proporcionades a la finalitat perseguida i s’han d’aixecar tan aviat com perdin la seva finalitat.
+4. Es pot interposar recurs contra la decisió de la UIFAND davant la Secció Administrativa del Tribunal de Batlles, en el termini de tretze dies hàbils a comptar de l’endemà de la notificació de la mesura adoptada.
+El recurs jurisdiccional no és suspensiu d’execució, d’acord amb el que disposa el Codi de l’Administració, salvades les facultats discrecionals de la Secció Administrativa del Tribunal de Batlles que es deriven de la legislació vigent d’acord amb el mateix Codi de l’Administració i disposicions concordants.

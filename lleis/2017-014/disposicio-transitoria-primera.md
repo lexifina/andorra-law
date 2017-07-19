@@ -1,0 +1,3 @@
+# Disposició transitòria primera. Informació sobre beneficiaris efectius
+La informació sobre els beneficiaris efectius que les societats, les associacions i les fundacions constituïdes o registrades, al Principat d’Andorra tenen l’obligació d’obtenir i conservar en aplicació de l’article 19 d’aquesta Llei s’ha d’obtenir en un termini màxim d’un any a comptar des de l’entrada en vigor d’aquesta Llei.
+L’obligació de portar un llibre registre dels beneficiaris efectius i de proporcionar-ho al Registre de Societats, al Registre d’Associacions i al Registre de Fundacions en els termes establerts per les Disposicions finals segona, tercera i quarta d’aquesta Llei serà aplicable a partir de l’1 de gener de 2018.

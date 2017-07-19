@@ -1,0 +1,8 @@
+# Article 13. Relacions de corresponsalia bancària
+1. En les relacions de corresponsalia bancària amb entitats d’altres països, correspon a les entitats bancàries i financeres corresponsals andorranes:
+a) Reunir informació suficient sobre l’entitat corresponsal estrangera per comprendre la naturalesa de la seva activitat i determinar, a partir d’informacions de domini públic, la seva reputació i la qualitat de la seva supervisió, incloent si ha estat subjecta a una investigació o qualsevol altra acció reguladora de blanqueig de diners o valors o finançament del terrorisme.
+b) Avaluar que els controls contra el blanqueig de diners o valors i el finançament del terrorisme de què disposi l’entitat corresponsal són adequats i efectius.
+c) Obtenir l’autorització de l’alta direcció abans d’establir noves relacions de corresponsalia bancària.
+d) Documentar les responsabilitats respectives de cada entitat.
+e) Respecte dels comptes de transferència de pagaments en altres places (payable-through accounts), han de tenir garanties que l’entitat corresponsal estrangera ha comprovat la identitat i aplicat en tot moment les mesures de diligència deguda dels clients que tenen accés directe a comptes de l’entitat corresponsal andorrana i que, a sol·licitud d’aquesta, pot facilitar les dades necessàries a efectes d’identificació i verificació del client i el beneficiari efectiu.
+2. Queda prohibit establir o mantenir relacions de corresponsalia amb bancs pantalla. S’han d’adoptar les mesures adequades per assegurar que no s’estableixen o es mantenen relacions de corresponsalia amb bancs dels quals es coneix que permeten l’ús dels seus comptes per part de bancs pantalla.

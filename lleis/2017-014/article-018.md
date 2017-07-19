@@ -1,0 +1,11 @@
+## Secció quarta. Compliment per tercers
+# Article 18. Compliment per tercers
+1. Als efectes del compliment de les obligacions previstes en les lletres a), b) i c) de l’apartat 1 de l’article 9 d’aquesta Llei, els subjectes obligats poden delegar la seva execució en tercers. No obstant, el subjecte obligat delegant continua sent responsable del compliment d’aquestes obligacions.
+2. Als efectes de l’apartat anterior, s’entén per “tercers” els subjectes obligats enumerats a l’article 2 d’aquesta Llei o altres entitats o persones situades en altres països que:
+a) apliquin requisits de diligència deguda i de conservació de documents que siguin equivalents als establerts en aquesta Llei, i
+b) supervisin el compliment dels requisits establerts per la normativa interna en termes equivalents a la normativa andorrana.
+3. Els subjectes obligats no poden delegar el compliment de les obligacions previstes en les lletres a), b) i c) de l’apartat 1 de l’article 9 d’aquesta Llei a tercers establerts als països d’alt risc a què es refereix l’article 6 d’aquesta Llei.
+4. Els subjectes obligats, sense perjudici de mantenir la plena responsabilitat respecte del client, poden acceptar les mesures de diligència deguda practicades per les seves matrius o sucursals i filials amb participació majoritària domiciliades a Andorra o en un altre país que compleixin plenament les polítiques i els procediments a nivell de grup en els termes que estableix l’article 41 d’aquesta Llei.
+5. Els subjectes obligats obtenen dels tercers en qui deleguin la informació necessària sobre els requisits de diligència deguda establerts en l’article 9, apartat 1, paràgraf primer, lletres a), b) i c), d’aquesta Llei.
+Així mateix, adopten les mesures adequades per garantir que els tercers els transmetin immediatament, prèvia sol·licitud, les corresponents còpies de la documentació d’identificació i verificació d’identitat i altra documentació que pugui ser rellevant sobre la identitat del client o del beneficiari efectiu.
+6. Aquest règim no serà aplicable a les relacions d’externalització o agència quan, en virtut d’un acord contractual, el proveïdor de serveis o agent hagi de ser considerat com a part del subjecte obligat.

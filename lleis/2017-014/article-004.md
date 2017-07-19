@@ -1,0 +1,16 @@
+## Secció segona. Valoració del risc
+# Article 4. Valoració del risc per part de les autoritats
+1. La UIFAND coordina l’adopció de les mesures nacionals adequades per detectar, avaluar, comprendre i mitigar els riscos de blanqueig de diners o valors i de finançament del terrorisme. Aquesta avaluació es revisa periòdicament i, en particular, quan es produeixin esdeveniments o novetats importants.
+2. A partir de l’avaluació de riscos a què fa referència l’apartat 1, les autoritats competents corresponents prenen les mesures oportunes per:
+a) prevenir o mitigar el blanqueig de diners o valors i el finançament del terrorisme sobre la base d’un enfocament basat en el risc;
+b) millorar el sistema nacional de prevenció i lluita contra el blanqueig de diners o valors i el finançament del terrorisme, en particular determinant tots els àmbits en els quals els subjectes obligats han d’aplicar mesures reforçades i, si escau, especificant les mesures que hagin d’adoptar-se;
+c) identificar, si escau, els sectors o àmbits que presentin un risc menor o major de blanqueig de diners o valors i de finançament del terrorisme;
+d) determinar l’assignació i la prioritat que hagi de donar-se als recursos per combatre el blanqueig de diners o valors i el finançament del terrorisme;
+e) impulsar l’elaboració de normes adequades per a cada sector o àmbit, en funció del risc de blanqueig de diners o valors i de finançament del terrorisme;
+f) proporcionar als subjectes obligats la informació no confidencial que sigui adequada per facilitar les seves pròpies avaluacions del risc de blanqueig de diners o valors i el finançament del terrorisme.
+3. Als efectes de contribuir a l’avaluació de riscos, la UIFAND pot requerir la informació que estimi oportuna per disposar d’estadístiques exhaustives per identificar i avaluar els riscos de blanqueig de diners o valors i de finançament del terrorisme i l’eficàcia del sistema.
+Aquestes estadístiques inclouen, entre altres:
+a) dades relatives a la grandària i la importància dels diferents sectors inclosos en l’àmbit d’aplicació d’aquesta Llei, en particular el número d’entitats i persones i la importància econòmica de cadascun dels sectors;
+b) dades relatives a les fases d’informació, d’investigació i judicial del sistema nacional de lluita contra el blanqueig de diners o valors i el finançament del terrorisme i, en particular, el número de declaracions d’operacions sospitoses trameses a la UIFAND, el seguiment donat a aquestes declaracions i el número anual d’assumptes investigats, així com el número de persones processades, el número de persones condemnades per delictes relacionats amb el blanqueig de diners o valors o amb el finançament del terrorisme, els tipus de delictes previs, quan aquesta informació estigui disponible, i el valor en euros dels fons bloquejats, embargats o comissats;
+c) si es disposa d’elles, dades relatives al número i el percentatge de declaracions que condueixin a una nova investigació, juntament amb l’informe anual dirigit als subjectes obligats en el qual es detallin la utilitat i el seguiment de les declaracions formulades;
+d) dades relatives al número de sol·licituds d’informació transfrontereres que la UIFAND i altres autoritats competents hagin realitzat, rebut, denegat i contestat, totalment o parcial.

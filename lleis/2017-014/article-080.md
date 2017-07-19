@@ -1,0 +1,2 @@
+# Article 80. Actuacions prèvies
+Amb anterioritat a la incoació del procediment sancionador es poden realitzar actuacions prèvies a fi de determinar, amb caràcter preliminar, si concorren les circumstàncies que justifiquen la incoació referida. En especial, aquestes actuacions prèvies s’han d’orientar a determinar, amb la major precisió possible, els fets susceptibles de motivar la incoació del procediment, la identificació de la persona o les persones que poguessin resultar responsables i les circumstàncies rellevants que concorrin en aquest sentit.

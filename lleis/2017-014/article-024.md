@@ -1,0 +1,2 @@
+# Article 24. Efectes de la comunicació pels subjectes obligats
+La comunicació de bona fe d’informació a la UIFAND, per part d’un subjecte obligat o dels seus empleats o directius no constitueix infracció de cap restricció de la divulgació d’informació imposada per via contractual o per disposició legal, reglamentària o administrativa, i no implicarà cap tipus de responsabilitat pel subjecte obligat, els seus directius o empleats, tot i que no coneguessin l’activitat delictiva subjacent i amb independència de que l’activitat il·legal arribés o no a concretar-se realment.
