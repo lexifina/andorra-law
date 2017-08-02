@@ -1,0 +1,2 @@
+# Disposició final primera. Publicació del text refós
+S’encomana al Govern que en el termini màxim de tres mesos des de l’entrada en vigor d’aquesta Llei publiqui al Butlletí Oficial del Principat d’Andorra el text refós de la Llei 09/2005 qualificada del Codi penal, que inclogui les modificacions introduïdes fins al moment en aquesta llei i afegeixi un títol a cadascun dels articles de la llei esmentada, si escaigués.
