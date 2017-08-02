@@ -1,0 +1,3 @@
+# Article 46. Abandonament anticipat de la unitat d’allotjament
+Si el client d’un establiment turístic decideix abandonar anticipadament la unitat d’allotjament reservada amb anterioritat a la data de sortida fixada, el titular de l’establiment pot exigir el cobrament d’una penalització sobre el preu total dels serveis contractats que restin per utilitzar, llevat d’un acord específic entre les parts.
+En els supòsits que el client hagi d’abandonar anticipadament la unitat d’allotjament reservada amb anterioritat a la data de sortida fixada, per una causa major degudament justificada, no està obligat a abonar al titular de l’establiment d’allotjament turístic el preu dels serveis que restin per utilitzar.

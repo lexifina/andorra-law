@@ -1,0 +1,3 @@
+# Article 28. Definició i classificació del grup albergs
+Són albergs els establiments degudament inscrits al Registre de Comerç que ofereixen allotjament en habitacions individuals o col·lectives, amb llits o lliteres, amb bany o sense dins de l’habitació, i amb serveis de restauració o dret a cuina, d’acord amb les definicions dels articles 4 i 26, i que reuneixen els requisits mínims quant a característiques i contingut de les habitacions, les cambres de bany, els serveis d’acollida, la prestació i la qualitat dels serveis, la capacitat, i d’altres que es determinin reglamentàriament.
+Els albergs es classifiquen en una única categoria.

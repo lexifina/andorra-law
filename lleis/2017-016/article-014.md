@@ -1,0 +1,4 @@
+# Article 14. Classificació dels apartaments turístics
+Els apartaments turístics es classifiquen en cinc categories que són identificades per estrelles, les quals es podran subdividir en àrees d’avaluació que es definiran reglamentàriament.
+Per classificar-los, també es considerarà la capacitat receptiva, la prestació i la qualitat dels serveis, i les circumstàncies en què estiguin instal·lats els apartaments i estudis, les condicions i l’equipament.
+La modificació de la categoria d’un establiment de la modalitat d’apartaments turístics es pot produir a petició del titular del Registre de Comerç, sempre que acrediti el compliment dels requisits que permeten el canvi sol·licitat, o bé d’ofici, a conseqüència d’una inspecció efectuada pels serveis tècnics dels ministeris competents, en compliment d’una resolució adoptada en el marc d’un expedient sancionador obert a aquest efecte.

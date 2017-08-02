@@ -1,0 +1,2 @@
+# Article 1. Àmbit d’aplicació de la Llei
+La Llei s’aplica a l’activitat d’allotjament turístic que es presta a un consumidor a canvi de contraprestació econòmica o de qualsevol altre tipus, i a les unitats immobiliàries i instal·lacions utilitzades en el marc d’aquesta activitat. Als efectes d’aquesta Llei, qualsevol allotjament que es promocioni o comercialitzi a Internet o en qualsevol altre mitjà es considera turístic.

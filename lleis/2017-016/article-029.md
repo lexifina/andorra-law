@@ -1,0 +1,3 @@
+# Article 29. Definició i classificació del grup cases de colònies
+Són cases de colònies els establiments degudament inscrits al Registre de Comerç que ofereixen allotjament en habitacions col·lectives, amb llits o lliteres, amb bany col·lectiu i serveis de restauració, d’acord amb la descripció establerta als articles 4 i 26, i que reuneixen els requisits mínims quant a característiques i contingut de les habitacions, les cambres de bany, els serveis d’acollida, la capacitat, la prestació i la qualitat dels serveis, i d’altres que es determinin reglamentàriament.
+Les cases de colònies es classifiquen en una única categoria.

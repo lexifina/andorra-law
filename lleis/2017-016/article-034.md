@@ -1,0 +1,2 @@
+# Article 34. Revisió de les característiques de la classificació dels allotjaments turístics
+La classificació d’un establiment d’allotjament turístic i totes les seves altres característiques de categoria, elements diferenciadors i altres elements complementaris, poden ser revisades en qualsevol moment pel Govern, d’ofici o a instància de la part interessada. En cas de modificació o supressió d’alguna de les característiques de la classificació sense l’autorització prèvia corresponent, s’incoarà l’expedient oportú.

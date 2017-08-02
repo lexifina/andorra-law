@@ -1,0 +1,9 @@
+## Capítol tercer. Classificació i inscripció dels allotjaments turístics
+## Secció primera. Classificació i inscripció dels allotjaments turístics
+# Article 33. Classificació dels allotjaments turístics
+Tot allotjament turístic, de forma obligatòria, ha de complir els requisits mínims que es determinin reglamentàriament i ser pertinentment classificat d’acord amb el seu grup, motiu pel qual ha d’exhibir les plaques o els certificats identificatius corresponents al seu grup i, si escau, a la seva categoria, segons un sistema definit reglamentàriament orientat a informar adequadament el client.
+L’empresari ha de sol·licitar la classificació de l’allotjament turístic mitjançant la presentació de la documentació corresponent als requisits a què es refereix el punt anterior. Posteriorment, la unitat competent en matèria d’inspecció verifica la certesa de la informació, i en cas que aquesta informació no s’ajusti a la realitat, denega la classificació o en rebaixa la categoria, sense perjudici de la responsabilitat en què pugui incórrer l’empresari per subministrar dades falses o incorrectes en la declaració responsable.
+Els establiments d’allotjament turístic poden optar voluntàriament a obtenir identificacions relatives a elements diferenciadors, cursant la petició corresponent al Govern a aquest efecte.
+Aquestes identificacions són sempre complementàries del grup i la categoria.
+Els establiments d’allotjament turístic, una vegada homologats, tindran una placa o un certificat atorgat pel Govern que garantirà la certesa de la informació sobre el grup, la categoria i els elements diferenciadors.
+Els requisits i les particularitats de la classificació, les plaques o certificats identificatius, els grups, les categories i els elements diferenciadors de l’establiment s’han de determinar reglamentàriament.

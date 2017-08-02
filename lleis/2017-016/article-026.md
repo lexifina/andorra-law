@@ -1,0 +1,3 @@
+## Secció setena. Els establiments complementaris d’allotjament turístic
+# Article 26. Definició dels establiments complementaris d’allotjament turístic
+Són establiments complementaris d’allotjament turístic els allotjaments constituïts en una unitat empresarial d’explotació, de titularitat pública, privada o mixta, dedicats a prestar, amb altres serveis de caràcter complementari o sense, de manera habitual i professional, allotjament temporal, mitjançant contraprestació, d’acord amb els grups detallats a l’article 27. Els establiments complementaris queden radicats en edificis destinats exclusivament a aquest ús.

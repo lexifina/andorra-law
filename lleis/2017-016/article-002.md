@@ -1,0 +1,11 @@
+## Capítol primer. Definicions bàsiques
+# Article 2. Concepte, regles i principis generals dels allotjaments turístics
+Són establiments d’allotjament turístic els locals i les instal·lacions oberts al públic, degudament autoritzats administrativament, on les persones titulars ofereixen als clients allotjament temporal per a una estada turística a les unitats d’allotjament, així com altres serveis turístics d’acord amb la normativa vigent, a canvi d’una contraprestació econòmica o de qualsevol altre tipus.
+Els establiments d’allotjament turístic han de posar a disposició dels clients les seves instal·lacions i els seus equipaments en les degudes condicions de netedat, higiene, seguretat, comoditat i funcionament. Han d’estar suficientment moblats i dotats dels aparells i estris necessaris per a l’ocupació immediata, amb la finalitat de prestar un servei de qualitat en relació amb la totalitat de places ofertes dins del seu grup i la seva categoria.
+Els establiments d’allotjament turístic no es poden constituir en habitatges, amb l’única excepció dels establiments d’allotjament rural i els habitatges d’ús turístic.
+S’entén per titular d’un establiment d’allotjament turístic la persona, física o jurídica, propietària o no dels locals i/o les instal·lacions, que els gestiona o explota comercialment sota els principis d’unitat empresarial d’explotació i responsabilitat del compliment de la normativa turística davant l’Administració.
+En cas que en un establiment d’allotjament turístic el servei de restauració sigui proporcionat per una tercera persona amb un registre de comerç diferent del de l’allotjament turístic, aquest establiment haurà de complir els requisits següents:
+1. El servei ha de correspondre a l’exigit a la categoria de l’establiment.
+2. La persona física o jurídica que assumeix la responsabilitat de tots els serveis amb referència a la normativa enfront de l’Administració, pel que fa als clients de l’allotjament, és el titular del registre de l’allotjament.
+3. El servei de restauració s’ha de prestar al mateix edifici o en el mateix recinte del complex turístic que l’allotjament, i el restaurant o la cafeteria ha de tenir, preferentment, accés directe des de l’interior.
+4. El servei de restauració ha d’estar obert com a mínim en les mateixes dates que l’allotjament.

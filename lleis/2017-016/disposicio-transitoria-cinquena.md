@@ -1,0 +1,2 @@
+# Disposició transitòria cinquena
+Tots els allotjament turístics que a la data d’entrada en vigor d’aquesta Llei tinguin atorgat el nivell de qualitat i disposin de la placa corresponent, s’han de dirigir al ministeri encarregat del turisme per canviar la placa de classificació corresponent. Aquest canvi no suposarà cap cost per a l’allotjament turístic i s’ha de fer en un termini màxim de sis mesos a partir de l’entrada en vigor de la Llei.

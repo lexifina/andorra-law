@@ -1,0 +1,6 @@
+# Article 49. Gestió del Registre d’Ocupació d’Allotjaments Turístics exceptuant els refugis de muntanya, les bordes de muntanya, les àrees d’acollida d’autocaravanes i els allotjaments atípics
+1. Tot client d’allotjament turístic, salvat per als menors de 16 anys, ha de facilitar el seu document d’identitat al gerent, empresari o treballador que tingui com a tasca registrar els clients en el Registre d’Ocupació d’Allotjaments Turístics.
+2. La negativa a facilitar el document d’identitat a què es refereix l’apartat anterior s’ha de notificar al Servei de Policia en un termini màxim de 24 hores o abans de la sortida del client. La notificació esmentada es pot efectuar de manera verbal.
+3. El Servei de Policia pot exigir en qualsevol moment i sense preavís la comprovació de la fiabilitat de les dades contingudes al Registre d’Ocupació d’Allotjaments Turístics.
+4. Els allotjaments turístics estan obligats a actualitzar, amb la freqüència que s’estableixi per via reglamentària, el Registre d’Ocupació d’Allotjaments Turístics.
+5. Els allotjaments turístics estan obligats a guardar la fotocòpia del document d’identitat, salvat per als menors de 16 anys, en suport paper o digital, de tots els clients de la unitat d’allotjament, durant el termini que es determini reglamentàriament.

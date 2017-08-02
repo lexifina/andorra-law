@@ -1,0 +1,2 @@
+# Disposició transitòria primera
+Tots els allotjaments turístics del grup hostals o residències, del grup pensions, del grup albergs i del grup cases de colònies degudament classificats i amb la placa de classificació corresponent en el moment de l’entrada en vigor d’aquesta Llei, s’han de dirigir al ministeri encarregat del turisme per canviar la placa de classificació corresponent. Aquest canvi no suposarà cap cost per a l’allotjament turístic i s’ha de sol·licitar en un termini màxim de sis mesos a partir de l’entrada en vigor de la Llei.

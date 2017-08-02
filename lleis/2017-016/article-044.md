@@ -1,0 +1,2 @@
+# Article 44. Despeses de cancel·lació
+Qualsevol client té dret a desistir de la reserva efectuada amb anterioritat a la data d’arribada, d’acord amb les condicions de contractació en el moment de formalitzar la reserva. Sense perjudici d’establir unes condicions de cancel·lació específiques i de forma escrita, les condicions esmentades, així com el retorn del pagament a compte, es determinen per la via reglamentària.

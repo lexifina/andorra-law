@@ -1,0 +1,3 @@
+## Secció segona: Les empreses gestores d’HUT
+# Article 36. Definició de les EGHUT
+Tenen la consideració d’empreses de gestió d’habitatges d’ús turístic (EGHUT) les que, amb la prèvia i preceptiva autorització administrativa, la inscripció al Registre de Comerç i complint la normativa vigent, ofereixen de manera habitual i amb caràcter professional, directament o indirectament, mitjançant contraprestació, allotjament turístic en HUT dels quals són propietaris o titulars de drets reals, o bé la gestió dels quals els ha estat confiada pels propietaris dels habitatges o pels titulars de drets reals sobre els mateixos habitatges.

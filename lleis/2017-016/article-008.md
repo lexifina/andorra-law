@@ -1,0 +1,3 @@
+# Article 8. Definició dels establiments del grup hotels
+Són hotels els establiments que, de conformitat amb la descripció establerta en els articles 4 i 6, reuneixen els requisits mínims quant a capacitat, característiques i contingut de les habitacions, les cambres de bany dins les habitacions, l’esmorzar, els serveis d’acollida i d’altres que es determinin reglamentàriament.
+En el cas dels apartaments o estudis ubicats en hotels, estan autoritzats sempre que el nombre i la capacitat conjunta de totes les unitats no superi el percentatge de la capacitat general declarada com a activitat principal de l’establiment que es determini per la via reglamentària, i sempre que compleixin els requisits mínims d’aquests apartaments o estudis.

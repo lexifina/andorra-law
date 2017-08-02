@@ -1,0 +1,3 @@
+# Article 80. Constitució i competències de la inspecció d’allotjaments turístics
+1. Constitueix el sistema de la inspecció d’allotjaments turístics el conjunt de principis legals, normes, òrgans, funcionaris i mitjans materials que contribueixen a l’adequat compliment de les normes en matèria d’allotjaments turístics.
+2. La inspecció d’allotjaments turístics es constitueix com a servei públic al qual correspon exercir la vigilància i el control del compliment de les normes en matèria d’allotjaments turístics i exigir les responsabilitats pertinents, així com l’assessorament en les matèries esmentades, que ha d’efectuar de conformitat amb els principis de l’estat social i democràtic de dret que consagra la Constitució del Principat d’Andorra.

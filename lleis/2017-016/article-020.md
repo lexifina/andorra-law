@@ -1,0 +1,3 @@
+# Article 20. Definició i classificació dels establiments del grup àrees d’estada d’autocaravanes
+Tenen la consideració d’àrea d’estada d’autocaravanes els espais de terreny, degudament delimitats, oberts al públic per a l’ocupació exclusiva d’autocaravanes. No admeten cap element fix d’allotjament, com ara bungalous o mòduls.
+Els espais destinats a l’estada d’autocaravanes han de quedar definits, en les seves característiques essencials i serveis mínims, capacitat, i en la prestació i la qualitat dels serveis, mitjançant reglament, sense perjudici de la normativa vigent en cada moment en matèria de protecció del medi ambient i d’altres.
