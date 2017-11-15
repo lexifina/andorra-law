@@ -1,0 +1,4 @@
+## Capítol tercer. Règim fiscal de les persones físiques i entitats adquirents
+# Article 5. Valoració fiscal dels elements patrimonials adquirits
+1. Els elements patrimonials rebuts com a conseqüència de les transmissions derivades d’operacions en les quals el règim previst a l’apartat 1 de l’article 3 hagi estat aplicable es valoraran, a efectes de l’impost sobre societats, l’impost sobre la renda de les persones físiques o l’impost sobre la renda dels no-residents fiscals, pel mateix valor fiscal que tenien en seu del transmitent abans de realitzar-se l’operació. Els elements patrimonials adquirits conservaran la data d’adquisició que tenien en seu del transmitent.
+2. Les regles de valoració descrites a l’apartat anterior no seran aplicables en cas que el transmitent hagi exercit l’opció de renúncia prevista a l’apartat 2 de l’article 3.
