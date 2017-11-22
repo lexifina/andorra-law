@@ -1,0 +1,4 @@
+# Article 18. Anotació i registre de les voluntats anticipades pel professional
+1. Quan l’usuari del sistema sanitari que ha atorgat les voluntats anticipades, o algú en representació seva, fa entrega al professional d’aquest document, la còpia del document s’ha d’incorporar a la història clínica de l’usuari del sistema sanitari, i el seu original es diposita al Registre Nacional de Voluntats Anticipades.
+2. La persona que ha lliurat les voluntats anticipades pot dipositar el document prop del Registre Nacional de Voluntats Anticipades. Aquest dipòsit no és requisit de validesa.
+3. Tota aplicació de les voluntats anticipades, seguint les indicacions de l’usuari del sistema sanitari o justificant-ne l’excepció de la no-aplicació, requereix fer-ne l’anotació raonada a la història clínica de l’usuari del sistema sanitari.

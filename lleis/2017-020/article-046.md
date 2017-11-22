@@ -1,0 +1,4 @@
+# Article 46. Accés a la història clínica del difunt
+1. El responsable de la història clínica del centre sanitari pot permetre l’accés a la història clínica dels usuaris del sistema sanitari difunts als seus hereus, al cònjuge o situació de fet equivalent i a familiars fins a segon grau (consanguini o per afinitat), o de graus posteriors, sempre que acreditin un interès legítim per accedir-hi.
+2. En tot cas cal respectar la prohibició expressa d’accés per part de terceres persones manifestada pel difunt, amb caràcter general o que afecti només un o diversos individus concrets, sempre que consti la seva voluntat a la història clínica o d’una altra forma fefaent.
+3. En qualsevol cas l’accés d’un tercer a la història clínica motivada per un risc per a la salut es limita a les dades pertinents. No es facilita informació que afecti la intimitat del difunt ni les anotacions subjectives dels professionals.

@@ -1,0 +1,2 @@
+# Article 5. Dret a la informació epidemiològica
+La ciutadania té dret a conèixer els problemes de la col·lectivitat quan impliquin un risc per a la salut pública o per a la salut individual, i té dret que aquesta informació es difongui des del ministeri encarregat de la salut amb veracitat i transparència, així com en termes comprensibles i adequats que li permetin prendre les mesures adequades per protegir la seva salut.

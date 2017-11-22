@@ -1,0 +1,5 @@
+# Article 43. Dret d’accés de l’usuari del sistema sanitari a la història clínica
+1. L’usuari del sistema sanitari té dret d’accés a la història clínica, i en concret a tota la documentació que conté. Del seu contingut se n’ha d’informar l’usuari del sistema sanitari en els millors terminis possibles, i com a màxim en el termini de cinc dies hàbils. En cas que sol·liciti documents originals, certificats o còpies d’aquesta documentació, es lliuren en el mateix termini.
+2. S’hi pot accedir pel mitjà que prefereixi l’usuari del sistema sanitari, d’entre els que ofereixi el centre sanitari o el professional i/o el responsable del fitxer.
+3. El responsable del fitxer pot denegar l’accés a les dades personals que conté la història clínica de l’usuari del sistema sanitari i que fan referència a terceres persones.
+4. El dret d’accés de l’usuari del sistema sanitari a la història clínica també es pot exercir per representació a través d’una tercera persona, sempre que aquesta representació consti de forma fefaent.

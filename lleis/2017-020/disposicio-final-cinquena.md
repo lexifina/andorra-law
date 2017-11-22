@@ -1,0 +1,2 @@
+# Disposició final cinquena
+S’encomana al Govern que en el termini d’un any des de l’entrada en vigor d’aquesta Llei desplegui el Reglament de creació i funcionament de la Comissió d’Ètica Assistencial del centre, adscrita al ministeri corresponent, que té com a funció principal assessorar els professionals i usuaris d’una institució sanitària en tot allò relatiu als problemes ètics que puguin sorgir i en la millora de l’assistència sanitària.

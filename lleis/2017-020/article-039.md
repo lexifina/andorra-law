@@ -1,0 +1,3 @@
+# Article 39. Accés per part de professionals de la salut a la història clínica amb finalitat assistencial
+1. Els professionals de la salut que realitzin el diagnòstic o el tractament de l’usuari del sistema sanitari tenen accés directe i immediat a la història clínica en compliment de les seves funcions de prevenció o diagnòstic mèdic o de prestació d’assistència sanitària, segons els permisos d’accés corresponents al perfil d’usuari del sistema sanitari del professional.
+2. Tanmateix l’usuari del sistema sanitari pot denegar aquest accés directe davant el responsable de la història clínica compatida. La denegació s’aplica a tot professional degudament acreditat a accedir a tota la història clínica compartida de l’usuari del sistema sanitari públic.

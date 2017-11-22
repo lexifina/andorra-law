@@ -1,0 +1,2 @@
+# Article 7. Dret a la informació de l’usuari del sistema sanitari amb autonomia compromesa
+L’usuari del sistema sanitari que tingui alguna discapacitat que pugui afectar la seva capacitat de comprensió i d’expressió de la seva voluntat, té dret que la informació li sigui facilitada a través dels mecanismes que millor s’ajustin a les seves necessitats i assegurin la millor comprensió, així com a rebre els suports que pugui precisar per manifestar la seva voluntat i les seves preferències, sense perjudici d’haver-ne d’informar, també, qui en tingui la representació, si escau.

@@ -1,0 +1,2 @@
+# Disposició final quarta
+S’encomana al Govern que en el termini de dos anys des de l’entrada en vigor d’aquesta Llei desplegui el Reglament de creació i funcionament de la Comissió d’Ètica de la Investigació, adscrita al ministeri encarregat de la salut, que té com a funció principal avaluar i validar els projectes de recerca clínica i biomèdica que es duguin a terme arreu del territori nacional.

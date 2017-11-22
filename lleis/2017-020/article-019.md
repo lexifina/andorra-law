@@ -1,0 +1,2 @@
+# Article 19. Voluntat post mortem
+L’usuari del sistema sanitari té dret a recollir en el document de voluntats anticipades instruccions o indicacions perquè es compleixin amb posterioritat a la seva mort. Aquestes indicacions referents al cos i la ciència, a l’exhumació i altres processos posteriors a la mort, s’han de respectar, dintre dels límits que estableix la legalitat i sempre que no imposin càrregues excessives o que no siguin raonables.

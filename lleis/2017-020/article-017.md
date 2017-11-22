@@ -1,0 +1,3 @@
+# Article 17. Revocació de les voluntats anticipades
+1. En qualsevol moment l’atorgant pot revocar o modificar el document de voluntats anticipades, d’acord amb els requisits previstos a l’article 16.3 d’aquesta Llei.
+2. La darrera versió signada s’entén que és la que té efectes. En cas de dubte, la darrera versió és la que rep el centre sanitari o professional de la salut del mateix usuari del sistema sanitari o del seu representant, sense perjudici del deure de consulta del centre o professional prop del Registre Nacional de Voluntats Anticipades, a l’efecte de comprovar si n’hi ha una altra de més recent.

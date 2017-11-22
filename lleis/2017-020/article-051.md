@@ -1,0 +1,2 @@
+# Article 51. Dret a la protecció de la intimitat en els projectes de recerca
+L’usuari del sistema sanitari té dret que la informació i les dades recollides en la història clínica o qualsevol altra documentació sanitària no siguin utilitzades per a la recerca sense la informació prèvia completa dels objectius pretesos i amb el seu consentiment exprés i per escrit, quan aquestes dades no són segregades i suposen la identificació de l’usuari del sistema sanitari.

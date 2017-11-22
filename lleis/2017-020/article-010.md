@@ -1,0 +1,3 @@
+# Article 10. Revocació del consentiment informat
+1. En qualsevol moment la persona afectada pot revocar lliurement el seu consentiment, fins i tot un cop iniciada l’actuació, malgrat que això impliqui la retirada del tractament o de la mesura. La persona ha de ser informada prèviament de les conseqüències que la revocació pot comportar.
+2. Aquesta decisió cal que consti per escrit sempre que el consentiment informat hagi estat atorgat per escrit. Quan la revocació s’hagi expressat verbalment, aquesta revocació es pot realitzar de forma verbal. En tots dos casos, se n’ha de fer l’anotació a la història clínica.
