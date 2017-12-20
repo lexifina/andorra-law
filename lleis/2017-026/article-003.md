@@ -1,0 +1,7 @@
+# Article 3. Modificació de l’article 4
+Es modifica l’article 4 de la Llei de creació i funcionament del raonador del ciutadà, del 4 de juny de 1998, el qual queda redactat com segueix:
+“Article 4. Abast de les queixes i reclamacions
+1. El raonador del ciutadà no pot intervenir arran de les queixes i les reclamacions que se li plantegin en assumptes en els quals s’hagi instat un procés davant un òrgan jurisdiccional, ni pot anul·lar o modificar un acte administratiu, i s’ha de limitar a fer les recomanacions i els suggeriments que estimi oportuns.
+2. Les queixes i les reclamacions adreçades al raonador del ciutadà no interrompen els terminis per interposar recurs administratiu o jurisdiccional, ni en fan variar els efectes.
+3. En cas que, un cop instada la intervenció del raonador del ciutadà, el mateix assumpte esdevingui l’objecte d’un procés davant un òrgan jurisdiccional, la persona interessada li ho ha de comunicar al més aviat possible. Si el raonador del ciutadà ha iniciat les actuacions oportunes, les ha d’aturar d’acord amb el que disposa l’apartat 1 d’aquest article.
+4. No obstant el que disposa l’apartat 1 d’aquest article, malgrat que s’hagi instat un procés davant un òrgan jurisdiccional pel mateix assumpte, el raonador pot seguir exercint les funcions d’informar, ajudar, aconsellar i assistir els menors d’edat, les víctimes de qualsevol discriminació i les persones amb discapacitat. ”

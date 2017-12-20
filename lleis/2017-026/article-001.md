@@ -1,0 +1,4 @@
+# Article 1. Modificació de l’article 1
+Es modifica l’article 1 de la Llei de creació i funcionament del raonador del ciutadà, del 4 de juny de 1998, el qual va ser modificat per l’article 1 de la Llei 79/2010, del 25 d’octubre, de modificació de la Llei de creació i funcionament del raonador del ciutadà, i que queda redactat com segueix:
+“Article 1. Missió
+El raonador del ciutadà, que actua com a delegat o comissionat del Consell General, és una institució que té com a missions la defensa i la protecció dels drets i les llibertats fonamentals reconeguts a la Constitució, la supervisió del compliment i la defensa dels drets reconeguts en els convenis internacionals signats i ratificats pel Principat d´Andorra en els termes que estableix aquesta llei, en particular sobre els drets dels infants, de les persones amb discapacitat, i també la lluita contra la discriminació de tot tipus i contra les actituds racistes, xenòfobes, antisemites i intolerants.”

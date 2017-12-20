@@ -1,0 +1,2 @@
+# Disposició final primera
+S’encomana al Govern que en el termini màxim de tres mesos des de l’entrada en vigor d’aquesta Llei publiqui al Butlletí Oficial del Principat d’Andorra el text consolidat de la Llei de creació i funcionament del raonador del ciutadà, del 4 de juny de 1998, que inclogui les modificacions introduïdes fins ara en aquesta Llei, i que afegeixi un títol a cadascun dels articles que no hagin estat modificats per aquesta Llei.
