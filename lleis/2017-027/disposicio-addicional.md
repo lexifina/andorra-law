@@ -1,0 +1,2 @@
+# Disposició addicional. Conveni relatiu als drets de les persones amb discapacitat
+A partir de l’entrada en vigor d’aquesta Llei, les referències al “Conveni relatiu als drets de les persones discapacitades” o a la “Convenció sobre els drets de les persones amb discapacitat” que es contenen en qualsevol norma jurídica que forma part de l’ordenament jurídic andorrà s’entenen fetes al “Conveni relatiu als drets de les persones amb discapacitat”.

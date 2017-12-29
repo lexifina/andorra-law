@@ -1,0 +1,2 @@
+# Disposició final novena. Modificació dels protocols d’atenció a les víctimes d’infraccions penals
+S’encomana al Govern que en el període de sis mesos d’ençà de l’entrada en vigor d’aquesta Llei revisi els protocols d’atenció a les víctimes d’infraccions penals per incloure-hi la vulnerabilitat especial de les persones amb discapacitat, especialment de les dones i les nenes, i fer possible que puguin gaudir dels seus drets en igualtat de condicions.

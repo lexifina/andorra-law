@@ -1,0 +1,14 @@
+# Article 8. Modificació de l’article 16 de la Llei de garantia dels drets de les persones amb discapacitat
+Es modifica l’article 16 de la Llei de garantia dels drets de les persones amb discapacitat, del 17 d’octubre del 2002, el qual queda redactat en els termes següents:
+“Article 16. Salut
+1. Les persones amb discapacitat tenen el dret de gaudir de la salut sense discriminació mitjançant l’accés als programes de salut i a les prestacions sanitàries i rehabilitadores, en els termes i les condicions que estableixi la normativa aplicable, i amb les especificacions que preveu aquest article.
+2. Als efectes d’aquesta Llei, tenen la consideració de prestacions bàsiques:
+a) Els programes preventius de salut: consell genètic, diagnòstic i atenció precoç, vacunacions i els altres programes que s’estableixin reglamentàriament.
+b) L’assistència sanitària: assistència primària, assistència hospitalària, assistència farmacèutica i productes d’ortopèdia i de suport.
+c) La rehabilitació.
+d) El transport per a l’assistència sociosanitària i per a la rehabilitació.
+e) Les altres prestacions bàsiques que es puguin establir a la cartera de serveis i productes de salut.
+3. El dret a la salut es fa efectiu mitjançant el sistema de salut andorrà d’acord amb el procediment i els requisits establerts per la normativa aplicable en aquesta matèria.
+4. Les persones amb discapacitat tenen el dret de ser informades sobre la seva pròpia salut i sobre els serveis sanitaris als quals poden accedir i els requisits que s’exigeixen a aquest efecte. La informació ha de ser verídica i completa, i s’ha de facilitar a través dels mecanismes que millor s’ajustin a les necessitats de les persones amb discapacitat, tot garantint-ne la millor comprensió. A més, les persones amb discapacitat tenen el dret de rebre els suports necessaris per poder manifestar la seva voluntat i les seves preferències.
+5. El titular del dret a la informació és la persona amb discapacitat, sense perjudici que calgui informar-ne els pares o representants legals, i també els altres familiars o persones designats en cas que ho hagi autoritzat prèviament.
+6. Pel que fa a l’autonomia en l’àmbit de la salut, la persona amb discapacitat ha de participar en la presa de decisions durant tot el procés assistencial. Per afavorir que pugui prestar el consentiment, se li han de facilitar totes les mesures de suport adequades perquè la informació sigui accessible i comprensible per a la persona amb discapacitat. Quan d’acord amb la normativa aplicable calgui prestar el consentiment per representació, aquest consentiment ha de ser proporcionat i adequat a les circumstàncies de la persona amb discapacitat, sempre amb respecte de la seva dignitat i de les salvaguardes adequades i efectives que estableix l’article 12, apartat 4, del CDPD.”

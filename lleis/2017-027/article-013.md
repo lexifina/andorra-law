@@ -1,0 +1,5 @@
+# Article 13. Addició d’un nou article 20 a la Llei de garantia dels drets de les persones amb discapacitat
+S’introdueix un nou article 20 a la Llei de garantia dels drets de les persones amb discapacitat, del 17 d’octubre del 2002, el qual va ser derogat en virtut de la disposició derogatòria única, apartat 1, lletra a), de la Llei 6/2014, del 24 d’abril, de serveis socials i sociosanitaris, i que queda redactat en els termes següents:
+“Article 20. Prestacions econòmiques
+1. Les persones amb discapacitat tenen el dret d’accedir a les prestacions econòmiques que estableixin les administracions públiques en igualtat de condicions amb les altres persones.
+2. La pensió de solidaritat per a persones amb discapacitat ha de garantir una renda mínima a les persones amb discapacitat greu que no puguin treballar o es trobin amb problemes greus per trobar o mantenir un lloc de treball com a conseqüència de la seva discapacitat i no disposin de recursos per viure, en els termes establerts a la Llei de serveis socials i sociosanitaris.”

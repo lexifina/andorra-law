@@ -1,0 +1,6 @@
+# Article 17. Modificació dels apartats 3 i 4 de l’article 11 de la Llei d’accessibilitat
+Es modifiquen els apartats 3 i 4 de l’article 11 de la Llei d’accessibilitat, del 6 d’abril de 1995, els quals queden redactats en els termes següents:
+“Article 11. Habitatges adaptats
+[…]
+3. Per poder realitzar l’adaptació dels elements comuns de l’edifici on viu una persona amb discapacitat perquè siguin accessibles, s’han de tenir en compte els criteris del disseny universal i cal la conformitat del propietari o, si escau, de la comunitat de propietaris, d’acord amb la normativa aplicable. En tot cas, la persona amb discapacitat pot utilitzar estructures provisionals que li permetin l’accessibilitat a l’habitatge sense afectar-ne, però, l’estructura.
+4. En els casos anteriors, quan les persones que hagin realitzat les obres d’adaptació deixin l’habitatge, si aquestes obres no constitueixen millores cal deixar l’habitatge en les mateixes condicions en què es trobava abans de fer les obres, si així ho sol·licita el propietari. Tanmateix, les obres que s’ajustin als criteris del disseny universal i, per tant, puguin ser utilitzades per totes les persones, es consideren millores. En cas de discrepància, les persones concernides poden demanar un informe a la Comissió per al Foment de l’Accessibilitat a què fa referència l’article 20 d’aquesta Llei.”

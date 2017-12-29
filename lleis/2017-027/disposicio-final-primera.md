@@ -1,0 +1,2 @@
+# Disposició final primera. Llei dels drets de les persones amb discapacitat
+S’encomana al Govern que en el període de dos anys d’ençà de l’entrada en vigor d’aquesta Llei aprovi un Projecte de llei dels drets de les persones amb discapacitat que reprengui els conceptes i els principis del CDPD, i que refongui les disposicions d’aquesta Llei que modifiquen la Llei de garantia dels drets de les persones amb discapacitat, del 17 d’octubre del 2002.
