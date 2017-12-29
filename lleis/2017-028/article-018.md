@@ -1,0 +1,5 @@
+## Capítol cinquè. Marc de col·laboració institucional
+# Article 18. Convenis i acords de col·laboració entre organismes del Sistema estadístic
+1. Atenent els principis de coordinació i col·laboració establerts en l’article 19 de la Llei 2/2013, del 18 d’abril, de la funció de l’estadística pública, la col·laboració entre les institucions i els òrgans del Sistema estadístic que té com a marc el Pla d’estadística vigent, s’ha de regular per mitjà de convenis o contractes.
+2. El termini màxim per formalitzar convenis o acords que regulen activitats estadístiques previstes en els programes estadístics anuals, que s’executen sota la responsabilitat o la col·laboració de dos institucions o més, és el 31 de maig de l’any de referència del programa estadístic.
+3. Les institucions o els òrgans del Sistema estadístic que siguin organismes responsables d’activitats estadístiques incloses en els successius programes estadístics anuals han de notificar la formalització de convenis o acords que regulin les actuacions esmentades al Departament d’Estadística en un termini màxim de quinze dies naturals posteriors a la data en què se signin.

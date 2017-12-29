@@ -1,0 +1,3 @@
+# Article 15. Inclusió de noves activitats en el Pla d’estadística
+1. Mentre es desenvolupa el Pla d’estadística, el Govern pot afegir per decret noves activitats estadístiques que puguin ser d’interès públic, ja sigui per exigència de la normativa estadística internacional, per canvis en la legislació nacional o per raons d’urgència, sempre que satisfacin les garanties tècniques i jurídiques fixades per la Llei 2/2013, del 18 d’abril, de la funció de l’estadística pública i els criteris de decisió establerts per aquesta Llei.
+2. La inclusió de noves activitats estadístiques en el Pla d’estadística s’ha de notificar al Consell General en ocasió de l’aprovació del programa estadístic anual que les reculli, d’acord amb l’article 14.3.

@@ -1,0 +1,4 @@
+# Article 24. Mitjans de difusió
+1. S’han de difondre per Internet els resultats de cadascuna de les activitats estadístiques incloses en el Pla d’estadística vigent, juntament amb la seva metodologia bàsica i el calendari de difusió.
+2. Per tal de donar més visibilitat de les estadístiques públiques, els webs de cada òrgan del Sistema estadístic participant en el Pla d’estadística vigent ha d’incloure un accés denominat “Estadístiques públiques”, redirigit al web del Departament d’Estadística, des d’on s’ofereixi d’una manera sistematitzada la informació sobre l’estadística pública de la qual n’és responsable en els successius programes estadístics anuals.
+3. Amb caràcter general, els resultats de les activitats estadístiques que es derivin d’aquesta Llei s’han de difondre per Internet sota una llicència oberta que permeti utilitzar-los esmentant-ne la font.

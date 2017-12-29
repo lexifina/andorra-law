@@ -1,0 +1,2 @@
+# Disposició addicional primera
+El Departament d’Estadística i la resta d’institucions i òrgans del Sistema estadístic participants en qualsevol activitat estadística prevista en el Pla d’estadística vigent estan sotmesos als controls de l’Agència Andorrana de Protecció de Dades, tant pel que fa a tractaments de dades personals com a qualsevol ús posterior d’aquestes dades, per garantir l’acompliment de la Llei 15/2003, del 18 de desembre, qualificada de protecció de dades personals.
