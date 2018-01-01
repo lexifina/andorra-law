@@ -1,0 +1,2 @@
+# Disposició addicional quarta. Aplicació de les Normes internacionals de comptabilitat del sector públic per part dels comuns
+Els comuns han d’aplicar, en el termini de tres anys a comptar de l’entrada en vigor d’aquesta Llei, les Normes internacionals de comptabilitat del sector públic (NICSP), elaborades per la Federació Internacional de Comptables (IFAC), a través de la Junta de Normes Comptables Internacionals per al Sector Públic (IPSASB).

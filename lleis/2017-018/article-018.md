@@ -1,0 +1,4 @@
+# Article 18. Elements comuns als recursos de redistribució sostenible
+Les partides que conformen els recursos de redistribució sostenible es reparteixen únicament entre els comuns en què concorrin els paràmetres descrits en aquesta secció.
+Respecte a les partides dels recursos de redistribució sostenible que són repartides entre els comuns mitjançant el sistema de puntuació, la suma dels punts atribuïts a cada comú en aplicació dels articles anteriors és acumulable únicament en cadascuna de les partides, i determina per a cada comú un percentatge de repartiment de la partida en relació amb la totalitat dels punts atribuïts als comuns que hi concorrin.
+Si de l’aplicació de les regles d’aquesta secció en resulta vacant alguna partida, totalment o en alguna de les parts, en el sentit que no s’atribueix a cap comú, l’import íntegre d’aquesta partida es reparteix a parts iguals entre tots els comuns.

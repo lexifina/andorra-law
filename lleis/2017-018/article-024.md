@@ -1,0 +1,3 @@
+# Article 24. Suspensió
+La interposició de la impugnació per part d’un o més comuns a la liquidació formulada pel ministeri encarregat de les finances no suspèn, ni modifica, el pagament de les transferències previstes en la mateixa liquidació, ja sigui per al mateix comú impugnant, com per a la resta de comuns, llevat de resolució expressa a aquest efecte, que és igualment impugnable d’acord amb el procediment descrit en l’article precedent.
+D’acord amb la resolució ferma a la impugnació que en el seu dia s’obtingui, el Govern procedeix, si escau, a regularitzar els pagaments fets d’acord amb les disposicions de la secció anterior.

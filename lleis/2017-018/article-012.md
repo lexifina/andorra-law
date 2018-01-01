@@ -1,0 +1,3 @@
+# Article 12. Partida de criteris demogràfics
+El 16% dels recursos d’imputació general en la partida de criteris demogràfics són repartits entre tots els comuns amb caràcter proporcional a la suma de la població d’infants i de gent gran de cada parròquia.
+El nombre de població d’infants i de gent gran de cada parròquia es determina alternativament segons la població estimada o la població registrada, segons s’hagi determinat en la partida de població de l’article 10 d’aquesta Llei, de manera que el tractament del paràmetre de població general i de criteris demogràfics per a cada parròquia sigui homogeni.

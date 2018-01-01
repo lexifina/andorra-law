@@ -1,0 +1,3 @@
+# Article 20. Informe del ministeri encarregat de les finances
+Durant el segon trimestre de l’exercici el ministeri encarregat de les finances elabora un informe motivat de la liquidació per al repartiment entre els comuns de l’import destinat a les transferències en aplicació de les disposicions d’aquesta Llei.
+Si a la data d’emissió de l’informe motivat objecte del paràgraf anterior el ministeri encarregat de les finances no disposa de la totalitat de les dades o paràmetres per al càlcul del repartiment de l’import destinat a les transferències als comuns, procedeix a fer el pagament per la mateixa quantitat del trimestre anterior, i així successivament fins a disposar de la totalitat de les dades o paràmetres.

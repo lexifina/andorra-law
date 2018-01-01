@@ -1,0 +1,18 @@
+# Article 16. Partida de compromisos adquirits
+Un terç dels recursos de redistribució sostenible, que conformen la partida de compromisos adquirits, són repartits entre els comuns que hagin acomplert, en data 31 de desembre de l’exercici precedent, les obligacions que es detallen en aquest article.
+a) La meitat de la partida, en atenció al compliment del Conveni entre el Govern i els comuns de data 23 de febrer del 2005 i la seva addenda de data 6 de març del 2013 pel que fa a l’obligació d’eliminar aigües paràsites de la xarxa d’aigües residuals, d’acord amb el sistema de puntuació següent:
+i. 2 punts per als comuns que assoleixin un índex d’aigües paràsites igual o inferior al 20%.
+ii. 1,5 punts per als comuns que assoleixin un índex d’aigües paràsites inferior o igual al 50% i superior al 20%.
+iii. 1 punt per als comuns que assoleixin un índex d’aigües paràsites inferior o igual al 100% i superior al 50%.
+iv. Cap punt per als comuns que assoleixin un índex d’aigües paràsites superior al 100%.
+L’exercici posterior a l’exercici en què la totalitat dels comuns hagin assolit un índex de separació igual o inferior al 20%, aquesta partida es reparteix entre tots els comuns a parts iguals.
+El compliment de l’obligació dels comuns d’eliminar aigües paràsites que circulen per la xarxa d’aigües residuals es determina en el decurs de l’any 2019, d’acord amb un estudi elaborat pel Govern a aquest efecte. El departament encarregat del medi ambient actualitza aquest estudi amb una periodicitat de sis anys.
+Per als anys posteriors i a l’efecte del càlcul d’aquest paràmetre, és potestatiu de cada comú fer l’actualització respecte a la seva parròquia de l’estudi objecte del paràgraf anterior, a fi d’establir per al comú el nou índex de separació d’aigües paràsites respecte a les aigües residuals, i trametre aquest estudi al ministeri encarregat de les finances i al departament del Govern encarregat del medi ambient perquè el validin, o si escau, al grup de treball previst en el Conveni objecte d’aquest article. En cas que no es produeixi aquesta iniciativa d’actualització, s’aplica el paràmetre de l’any anterior fins a l’actualització de l’estudi per part del Govern.
+b) L’altra meitat de la partida, en atenció al compliment per part dels comuns del termini de deu anys que estableix la disposició transitòria tercera de la Llei 10/2003, del 27 de juny, de les finances comunals, per tal d’elaborar un Cadastre i les normatives que el regulen, d’acord amb el sistema de puntuació següent:
+i. 2 punts per als comuns que ho han acomplert en el termini legalment establert.
+ii. 1,5 punts per als comuns que ho han acomplert amb posterioritat al termini legalment establert a aquest efecte i, com a molt tard, abans del dia 31 de desembre del 2017.
+iii. 1 punt per als comuns que ho han acomplert amb posterioritat al 31 de desembre del 2017.
+iv. Cap punt per als comuns que no ho han acomplert en l’exercici anterior.
+Les obligacions en relació amb el Cadastre objecte d’aquest article s’entenen acomplertes a la data de publicació de la finalització dels treballs al Butlletí Oficial del Principat d’Andorra. A l’efecte del càlcul d’aquest paràmetre, els comuns trameten una còpia d’aquesta publicació al ministeri encarregat de les finances.
+L’exercici posterior a l’exercici en què la totalitat dels comuns hagin acomplert les obligacions esmentades en relació amb el Cadastre, aquesta partida es reparteix entre tots els comuns a parts iguals.
+D’acord amb el que estableix la disposició transitòria primera per als exercicis 2018 i 2019, la partida de compromisos adquirits es reparteix a parts iguals entre tots els comuns.

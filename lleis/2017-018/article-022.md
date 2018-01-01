@@ -1,0 +1,3 @@
+# Article 22. Regularització
+Un cop emès l’informe de liquidació previst en la secció anterior d’aquesta Llei, el Govern regularitza d’acord amb els paràmetres definitius, si escau, la diferència respecte als pagaments fets a compte, i incorpora la diferència en el pagament següent d’acord amb la previsió de l’article anterior, sense considerar en el càlcul el contingut de les impugnacions eventuals en curs.
+El Govern regularitza en el pagament següent als comuns, si escau, la diferència resultant del contingut de la resolució ferma a la impugnació de l’informe de liquidació, d’acord amb el procediment establert en el paràgraf anterior.
