@@ -1,0 +1,2 @@
+# Article 48. Solució de conflictes
+Les entitats asseguradores han d’establir mecanismes de solució dels conflictes que puguin sorgir amb els prenedors, assegurats i persones titulars de drets o obligacions derivats del contracte, que siguin alternatius als de caràcter general. En particular, han de garantir l’establiment de mecanismes voluntaris de mediació i arbitratge que siguin eficaços i econòmics.

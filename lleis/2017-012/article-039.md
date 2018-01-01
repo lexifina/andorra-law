@@ -1,0 +1,3 @@
+# Article 39. Verificació del compliment normatiu
+1. Les entitats asseguradores i reasseguradores i les entitats de les que depenen les delegacions han de disposar, d’acord amb els termes de proporcionalitat que determini el Reglament, d’una funció de verificació del compliment normatiu.
+2. La funció de verificació del compliment normatiu inclourà l’assessorament de l’òrgan d’administració en matèria de compliment de les disposicions legals, reglamentàries i administratives que afectin a l’entitat, així com de compliment de la seva normativa interna, si s’escau. Addicionalment, la funció de verificació del compliment normatiu comprendrà l’avaluació de l’impacte les modificacions de l’entorn legal en les operacions de l’entitat.

@@ -1,0 +1,4 @@
+# Article 72. Protecció dels crèdits per contracte d’assegurança
+1. En el cas d’obertura de la liquidació d’una entitat, els crèdits per contracte d’assegurança gaudeixen d’un privilegi especial de primer rang sobre els actius assignats a les provisions tècniques en el registre especial d’actius a l’efecte de liquidació i, si escau, sobre els actius que hagin estat objecte de la mesura especial de prohibició de disposar, encara que no hagi arribat a tenir constància registral.
+2. El pagament dels crèdits per contracte d’assegurança s’ha de fer amb càrrec als béns i drets afectes al privilegi especial, i s’ha de satisfer a prorrata amb preferència sobre qualsevol altre crèdit.
+3. Els apartats 1 i 2 són aplicables en tots els casos en què concorrin els crèdits per contracte d’assegurança i altres crèdits contra l’entitat, sigui dins o fora d’un procediment concursal.

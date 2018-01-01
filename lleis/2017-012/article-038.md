@@ -1,0 +1,4 @@
+# Article 38. Avaluació interna i gestió de riscos i de solvència
+1. La funció d’avaluació interna de riscos i de solvència ha de formar part de l’estratègia de negoci de l’entitat i, en conseqüència, ha de ser rellevant en el procés d’adopció de les decisions estratègiques.
+2. L’exercici de la funció d’avaluació interna de riscos i de solvència ha de donar lloc a l’emissió d’un informe anual, que s’ha de presentar en el decurs del primer semestre posterior al tancament de l’exercici de referència, i també d’informes específics en cas que es produeixi un canvi significatiu del perfil del risc de l’entitat. Aquests informes s’han d’enviar a l’Autoritat Supervisora d’Assegurances i Reassegurances dins el termini de cinc dies hàbils des del moment que s’emetin i es signin.
+3. L’avaluació interna dels riscos i de la solvència s’ha de desenvolupar de conformitat amb el que disposi el reglament.

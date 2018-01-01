@@ -1,0 +1,2 @@
+# Article 30. Entitats reasseguradores domiciliades fora del Principat d’Andorra
+Les entitats reasseguradores domiciliades fora del Principat d’Andorra que únicament tenen com activitat en el territori del Principat l’acceptació de la reassegurança de les entitats asseguradores amb domicili al Principat, poden dur a terme la mateixa sense necessitat d’autorització administrativa prèvia ni necessitat de designar delegat.

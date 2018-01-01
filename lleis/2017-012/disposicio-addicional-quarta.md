@@ -1,0 +1,2 @@
+# Disposició addicional quarta. No discriminació per motiu de discapacitat
+No es pot discriminar a les persones amb discapacitat en la contractació d’assegurances. Es prohibeix la denegació d’accés a la contractació, l’establiment de procediments de contractació diferents als habitualment utilitzats per l’assegurador o la imposició de condicions més oneroses, per motiu de discapacitat, tret que aquestes siguin fonamentades, siguin proporcionals i raonables i que siguin degudament documentades segons criteris objectius de salut pública.

@@ -1,0 +1,3 @@
+# Article 51. Deure de respecte de les limitacions aplicables en matèria de participacions significatives
+1. Les participacions directes o indirectes de les entitats bancàries en entitats asseguradores i reasseguradores no poden ser superiors al 25% del capital de l’entitat participada amb l’excepció de les entitats asseguradores exclusivament del ram de vida, tal i com es regula en aquesta Llei, en les quals poden assolir fins al 100% de la seva participació social.
+2. La infracció de la prohibició a què fa referència l’apartat 1 determina la nul·litat de ple dret de l’adquisició, la modificació estructural o l’operació o transacció de què es tracti.

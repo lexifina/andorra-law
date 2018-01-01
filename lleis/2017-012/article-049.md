@@ -1,0 +1,8 @@
+## Capítol quart. Règim especial de determinades operacions societàries
+# Article 49. Cessió de cartera
+1. Les cessions de cartera entre entitats asseguradores queden subjectes a l’autorització prèvia de l’Autoritat Supervisora d’Assegurances i Reassegurances.
+2. L’entitat cedent i la cessionària han de presentar una sol·licitud conjunta d’autorització per davant el director general de l’Autoritat Supervisora d’Assegurances i Reassegurances, i la seva resolució pot ésser objecte de recurs en alçada davant el Consell d’Administració de conformitat al que disposa l’apartat 6 de l’article 7. La impugnació en via jurisdiccional s’efectuarà de conformitat al que disposa l’apartat 7 de l’article 7.
+3. En el moment de sol·licitar l’autorització, s’ha d’acreditar a l’Autoritat Supervisora d’Assegurances i Reassegurances que l’entitat cessionària disposa de fons propis suficients per cobrir el capital de solvència obligatori.
+4. En cas que l’Autoritat Supervisora d’Assegurances i Reassegurances autoritzi una cessió parcial de cartera, la resolució de l’Autoritat ha d’expressar amb claredat els criteris objectius d’individualització de les pòlisses compreses dins l’àmbit de l’autorització.
+5. En cas que l’Autoritat Supervisora d’Assegurances i Reassegurances autoritzi una cessió total de cartera, la resolució de l’Autoritat ha de disposar, a més, la revocació de l’autorització que es va atorgar a l’entitat asseguradora cedent per operar en els rams objecte de la cessió.
+6. La cessió de cartera és oposable als prenedors i assegurats, així com a totes les persones titulars de drets o obligacions derivats dels contractes cedits, des de la seva inscripció en el Registre d’Entitats Asseguradores i Reasseguradores.

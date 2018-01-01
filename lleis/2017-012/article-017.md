@@ -1,0 +1,3 @@
+## Capítol segon. Requisits per a l’atorgament de l’autorització
+# Article 17. Requisits
+Els requisits per a atorgar l’autorització són presentar davant l’Autoritat Supervisora d’Assegurances i Reassegurances la sol·licitud corresponent i acompanyar aquesta sol·licitud amb la documentació que acrediti el compliment de les exigències que aquesta Llei i el seu desplegament reglamentari estableixen en relació amb la forma jurídica, les mencions estatutàries, el programa d’activitats, el capital social mínim, les participacions significatives i els vincles estrets, l’honorabilitat i la professionalitat de les persones a les quals s’atribueixen funcions de direcció efectiva.

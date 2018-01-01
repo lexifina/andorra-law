@@ -1,0 +1,9 @@
+# Article 19. Mencions estatutàries
+1. L’entitat sol·licitant ha de tenir el domicili social establert al Principat d’Andorra.
+2. L’entitat sol·licitant ha de delimitar el seu objecte social d’acord amb els criteris següents:
+a) Les entitats sol·licitants han de fixar en els estatuts que l’activitat d’assegurança o reassegurança, juntament amb les altres referides a l’article 3, constitueix el seu objecte social amb caràcter exclusiu.
+b) Les entitats que vulguin operar en el ram de vida poden cobrir únicament riscos propis d’aquest ram i, també, si ho sol·liciten, riscos complementaris al ram vida tal i com es defineixen a l’apartat 4 de la disposició addicional primera.
+c) Les entitats que vulguin operar en rams diferents del ram de vida també podran cobrir riscos accessoris en un altre ram en els termes establerts a l’apartat 2 de la disposició addicional primera.
+d) Fora del supòsits referits en les lletres b) i c) anteriors, les entitats que vulguin operar tant en el ram de vida com en rams diferents del ram de vida, hauran de sol· licitar una autorització per ambdós rams i portar una gestió a efectes comptables i de solvència separada per cadascun d’ells, establint-ho així en els estatuts.
+e) La limitació de l’objecte social no impedeix realitzar activitats, prestar serveis o fer operacions connexes que no desvirtuïn l’objecte social propi de l’entitat asseguradora o reasseguradora. A l’efecte d’aquest apartat, es consideren activitats, serveis o operacions connexes els estudis estadístics o actuarials, les anàlisis de riscos o investigacions per als seus clients, així com altres activitats relacionades o derivades de l’activitat asseguradora o reasseguradora.
+3. L’entitat sol·licitant ha d’incloure en la seva denominació social els termes “assegurances” i/o “reassegurances” o uns altres de similars, segons correspongui.

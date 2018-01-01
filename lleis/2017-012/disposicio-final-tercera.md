@@ -1,0 +1,2 @@
+# Disposició final tercera. Modificació de la Llei 10/2013, de l’INAF i transformació de l’Institut Nacional Andorrà de Finances en l’Institut Nacional Andorrà d’Assegurances i Finances
+El Govern ha d’impulsar la modificació de la Llei 10/2013, de l’Institut Nacional Andorrà de Finances, per tal que, abans de l’entrada en vigor de la Llei, l’Institut Nacional Andorrà de Finances es transformi en l’Institut Nacional Andorrà d’Assegurances i Finances i assumeixi les funcions de l’Autoritat Supervisora d’Assegurances i Reassegurances.

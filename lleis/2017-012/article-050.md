@@ -1,0 +1,4 @@
+# Article 50. Modificacions estructurals
+1. Totes les modificacions estructurals de transformació, escissió i fusió en què participin les entitats asseguradores i reasseguradores queden subjectes a l’autorització prèvia de l’Autoritat Supervisora d’Assegurances i Reassegurances.
+2. L’entitat o les entitats asseguradores o reasseguradores participants en la modificació estructural han de presentar una sol·licitud conjunta d’autorització prèvia davant el director general de l’Autoritat Supervisora d’Assegurances i Reassegurances. La seva resolució pot ésser objecte de recurs d’alçada davant el Consell d’Administració de conformitat amb el que disposa l’apartat 6 de l’article 7. La impugnació en via jurisdiccional s’efectuarà d’acord amb el que disposa l’apartat 7 de l’article 7.
+3. En tot allò que no reguli aquest article, s’ha d’aplicar la Llei 20/2007.
