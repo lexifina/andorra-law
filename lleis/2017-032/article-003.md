@@ -1,0 +1,7 @@
+# Article 3. Informació mútua
+1. L’Administració general i els comuns s’han de facilitar mútuament la informació que estigui al seu abast i que resulti necessària perquè cada part pugui exercir adequadament les seves competències.
+2. A l’efecte de l’apartat primer, l’Administració general i els comuns poden sol·licitar a les altres administracions referides a l’apartat 3 de l’article 1 que els facilitin la informació que sigui necessària per a l’exercici adequat de les seves competències. La sol·licitud d’informació s’ha de motivar.
+3. L’Administració general i els comuns poden denegar la informació requerida per l’altra part si no està degudament justificada per raó de la competència o si existeix qualsevol altre imperatiu que derivi de les lleis.
+4. Queda exclosa de l’intercanvi la informació que afecti el secret professional i la propietat intel·lectual, la igualtat de les parts en els procediments judicials, el secret de les deliberacions dels òrgans que així ho tinguin establert per llei i la garantia de confidencialitat dels procediments de decisió i actuació, així com qualsevol altra informació que la llei restringeixi o que pugui causar perjudicis als drets legítims de tercers.
+Les autoritats i el personal que rebin informació de les altres administracions queden subjectes als mateixos deures de reserva que afecten l’administració que l’ha transmès i només poden utilitzar-ne amb la finalitat d’exercir les competències pròpies.
+5. L’intercanvi d’informació se sotmet a la Llei qualificada de protecció de dades personals.
