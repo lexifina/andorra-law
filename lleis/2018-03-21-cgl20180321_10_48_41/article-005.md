@@ -1,0 +1,4 @@
+# Article 5. Competències del cap de Govern
+El cap de Govern, a proposta dels ministeris afectats, pot autoritzar les transferències de crèdits pressupostaris que resultin necessàries a conseqüència de possibles reorganitzacions administratives que afectin un o més ministeris.
+A proposta del ministeri encarregat de les finances, el cap de Govern també pot autoritzar les transferències de crèdits pressupostaris que resultin necessàries a conseqüència de possibles reclassificacions comptables pel que fa als comptes de l’Administració general i de les entitats dependents, fruit de l’aplicació de les Normes internacionals de comptabilitat del sector públic (NICSP) que s’apliquen amb el caràcter de Pla marc per al sector públic estatal del Principat d’Andorra.
+Aquestes operacions no poden comportar, en cap cas, un increment de crèdit dins el pressupost i s’han de comunicar al Consell General en el decurs dels trenta dies hàbils que segueixen l’autorització.

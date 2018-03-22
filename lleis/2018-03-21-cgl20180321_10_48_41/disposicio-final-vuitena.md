@@ -1,0 +1,24 @@
+# Disposició final vuitena
+S’encomana al Govern que en el termini màxim de sis mesos des de l’entrada en vigor d’aquesta Llei publiqui al Butlletí Oficial del Principat d’Andorra els textos consolidats de les lleis que es detallen a continuació, que inclogui les modificacions efectuades mitjançant disposicions derogatòries o finals amb caràcter permanent per les lleis de pressupostos dels exercicis 2016, 2017 i 2018, així com totes les modificacions introduïdes fins a la data en les mateixes.
+- Llei de guarderies infantils, de l’11 de maig de 1995.
+- Llei general de les finances públiques, del 19 de desembre de 1996.
+- Llei d’arrendaments de finques urbanes, del 30 de juny del 1999.
+- Llei de contractació pública, del 9 de novembre del 2000.
+- Llei de l’impost sobre transmissions patrimonials del 29 de desembre del 2000.
+- Llei 30/2007, del 20 de desembre, de la comptabilitat dels empresaris, modificada per la Llei 8/2010, del 22 d’abril, i per la Llei 26/2011, del 29 de desembre.
+- Llei 31/2007, del 20 de desembre, d’acompanyament del Projecte de llei de pressupost per a l’exercici 2008, d’actualització dels tipus de gravamen de diversos tributs.
+- Llei 17/2008, del 3 d’octubre, de la seguretat social.
+- Llei 31/2008, del 18 de desembre, de mesures de reactivació econòmica.
+- Llei 93/2010, del 16 de desembre, de mesures de promoció de l’activitat econòmica i social i d’optimització dels recursos de l’Administració.
+- Llei 95/2010, del 29 de desembre, de l’impost sobre societats.
+- Llei 2/2012, del 15 de març, de mesures de contenció de la despesa pública en matèria de personal.
+- Llei 9/2012, del 31 de maig, de modificació de la Llei qualificada d’immigració.
+- Llei 11/2012, del 21 de juny, de l’impost general indirecte.
+- Llei 14/2012, del 12 de juliol, de salut animal i seguretat alimentària.
+- Llei 6/2014, del 24 d’abril, de serveis socials i sociosanitaris.
+- Llei 24/2014, del 30 d’octubre, de plaques de matrícula personalitzada de vehicles.
+- Llei 25/2014 del 30 d’octubre del Butlletí Oficial del Principat d’Andorra.
+- Llei 27/2014, del 30 d’octubre, de taxes de l’Oficina de Patents.
+- Llei 32/2014, del 27 de novembre, de sostenibilitat de les finances públiques i d’estabilitat pressupostària i fiscal.
+- Llei 37/2014, de l’11 de desembre, de regulació dels jocs d’atzar.
+- Llei 4/2016, del 10 de març, de foment del vehicle elèctric.”

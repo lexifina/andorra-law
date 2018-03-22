@@ -1,0 +1,5 @@
+# Disposició final setena
+Es modifica el punt 2 de l’article 147, de la Llei 18/2014, del 24 de juliol, de modificació de la Llei 17/2008, del 3 d’octubre, de la seguretat social, que queda redactat de la manera següent:
+“2. La percepció de la prestació econòmica per incapacitat temporal és compatible amb la percepció d’altres pensions, en els termes que segueixen.
+Si la persona assegurada en situació d’incapacitat temporal percep una pensió per invalidesa o per jubilació, ha d’optar entre percebre solament la pensió i no la prestació per incapacitat temporal, o bé percebre l’import mensual que resulti d’aplicar, sobre la suma de la pensió i de la base de càlcul de la prestació d’incapacitat temporal, els percentatges que corresponguin d’acord amb l’apartat 1 d’aquest article en funció del tipus de malaltia o accident i del temps durant el qual es meritin ambdós prestacions.
+En aquest darrer cas l’import de la prestació d’incapacitat temporal correspon a la diferència entre l’import mensual calculat en el paràgraf anterior i la quantia de la pensió.”

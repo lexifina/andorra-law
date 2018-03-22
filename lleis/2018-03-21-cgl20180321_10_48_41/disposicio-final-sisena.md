@@ -1,0 +1,2 @@
+# Disposició final sisena
+Adquireix la condició d’agent de l’Administració de caràcter indefinit, en els termes previstos per la Llei de la funció pública, del 15 de desembre del 2000, el personal del Servei Andorrà d’Atenció Sanitària (SAAS) que formava part del Programa d’atenció domiciliària i que es va integrar al Govern l’1 de juliol del 2017, en aplicació de la Llei 6/2014, del 24 d’abril, de serveis socials i sociosanitaris, i del conveni signat el 29 de juny del 2017 entre el Govern i el Servei Andorrà d’Atenció Sanitària (SAAS).

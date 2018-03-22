@@ -1,0 +1,2 @@
+# Article 14. Obres subjectes a noves formes de contractació
+D’acord amb la disposició addicional sisena de la Llei 5/2008, a continuació es detallen els quadres on figura l’inventari dels contractes d’obra pública finançats mitjançant el procediment establert en la Llei de referència que precisa les modalitats contractuals escollides, el règim jurídic dels contractes formalitzats corresponents a les obres acabades els anys 2012 i 2013 i dels nous contractes proposats, i els terminis previstos per al finançament de les obres
