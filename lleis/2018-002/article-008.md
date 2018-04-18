@@ -1,0 +1,3 @@
+# Article 8. Obligacions comptables
+1. Els operadors de mercaderies sensibles han de registrar totes les factures i tots els albarans corresponents a l’adquisició o a la venda de mercaderies sensibles, i també han de registrar les operacions d’emmagatzematge en la forma com s’estableixi reglamentàriament.
+2. El ministeri encarregat de les finances pot autoritzar, amb les comprovacions que estimi oportunes, sistemes de registre diferents, inclosos els mitjans informàtics, sempre que quedi garantida la comprovació de les dades sobre les seves obligacions. Aquestes autoritzacions poden ser revocades en qualsevol moment, si no queda garantida la fiabilitat de les dades.

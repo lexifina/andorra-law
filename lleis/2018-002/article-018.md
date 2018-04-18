@@ -1,0 +1,6 @@
+# Article 18. Suspensió cautelar i revocació definitiva de la llicència
+1. Quan es deixen de complir les condicions exigides per atorgar la llicència, o quan el titular d’una llicència no respecta les obligacions establertes en aquesta Llei, l’organisme delegat pel ministeri encarregat de les finances pot suspendre la llicència de manera cautelar, sense perjudici de l’aplicació del règim sancionador vigent.
+2. La decisió de suspensió cautelar de la llicència s’ha de motivar i, en cas que l’operador no hagi respectat les obligacions establertes en aquesta Llei i els fets puguin constituir una infracció, no pot anar més enllà d’un mes sense que s’hagi incoat un expedient sancionador. En cas que es deixin de complir les condicions exigides per atorgar la llicència, la suspensió cautelar es pot mantenir fins que es restableixin aquestes condicions.
+3. Una vegada incoat l’expedient sancionador corresponent, el termini de suspensió cautelar no pot superar els terminis de suspensió temporal previstos a l’article 14.
+4. El temps transcorregut sota suspensió cautelar computa a l’efecte de l’execució de la sanció eventual.
+5. Si no es poden restablir les condicions exigides per atorgar la llicència, el Govern ha de revocar definitivament la llicència en qüestió a proposta de l’organisme delegat pel ministeri encarregat de les finances.

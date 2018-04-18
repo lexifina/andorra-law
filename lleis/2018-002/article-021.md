@@ -1,0 +1,4 @@
+# Article 21. Preus del tabac
+Per a les mercaderies de les subposicions 24 02 10, 24 02 20, 24 03 19, i 24 03 99 es té en compte, per determinar-ne el valor en el moment de la imposició d’una sanció, el que resulti del càlcul següent:
+- Per a la subposició 24 02 10, el preu resulta de multiplicar per 50 els drets de duana per unitat (kg) d’aquesta subposició, en funció de la classificació tarifària que correspongui. Per al tabac manufacturat a Andorra s’aplica la subposició que finalitza amb el terme CE.
+- Per a les subposicions 24 02 20, 24 03 19, i 24 03 99, el preu resulta de multiplicar per 1,3 els drets de duana per unitat (paquet o kg) d’aquesta subposició, en funció de la classificació tarifària que correspongui. Per al tabac manufacturat a Andorra s’apliquen les subposicions que finalitzen amb el terme CE.
