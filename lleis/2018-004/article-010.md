@@ -1,0 +1,3 @@
+# Article 10. Accés al treball i a la formació
+1. El Govern ha de promoure les accions necessàries perquè les persones beneficiàries puguin accedir a una activitat laboral durant la vigència de l’autorització de sojorn en règim de protecció temporal i transitòria o de la seva pròrroga.
+2. El Govern ha de promoure les accions necessàries perquè les persones beneficiàries que ho desitgin i que compleixin els requisits aplicables a aquest efecte puguin accedir a les formacions per a adults, els cursos de formació professional i les altres formacions que es proposin a Andorra, durant la vigència de l’autorització de sojorn o de sojorn i treball en règim de protecció temporal i transitòria o de la seva pròrroga.

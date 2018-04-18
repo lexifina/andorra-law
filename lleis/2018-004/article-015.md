@@ -1,0 +1,2 @@
+# Article 15. Retorn voluntari al país de provinença o a un país tercer
+Quan la persona beneficiària d’una autorització de sojorn o de sojorn i treball en règim de protecció temporal i transitòria no pugui retornar al seu país d’origen i, al mateix temps, no es vulgui acollir a qualsevol de les opcions que li permetrien romandre al Principat d’Andorra, el Govern li ha de facilitar el retorn al país de provinença o a un país tercer on se li atorgui la possibilitat de sojornar.
