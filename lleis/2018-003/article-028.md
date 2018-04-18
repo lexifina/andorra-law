@@ -1,0 +1,2 @@
+# Article 28. Actuacions desenvolupades per mitjans electrònics
+Les parts poden acordar que totes o alguna de les actuacions de la mediació convencional, inclosa la sessió constitutiva, es duguin a terme per mitjans electrònics, per videoconferència o per qualsevol altre mitjà analògic de transmissió de la veu o la imatge, sempre que quedi garantida la identitat de les persones que hi intervenen i el respecte dels principis de la mediació que estableix aquesta Llei.

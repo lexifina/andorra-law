@@ -1,0 +1,6 @@
+## Capítol segon. Principis de la mediació
+# Article 10. Principis de voluntarietat i de bona fe
+1. La mediació es basa en el principi de voluntarietat, segons el qual les parts són lliures d’acollir-s’hi o no, i també de desistir-ne en qualsevol moment. Ningú està obligat a mantenir-se en el procés de mediació ni a concloure’l mitjançant un acord.
+2. La persona mediadora, i també les parts, assisteixen al procés de mediació de forma voluntària. La persona mediadora pot renunciar a desenvolupar la mediació, amb l’obligació de lliurar una acta a les parts en què consti la renúncia. Les parts també poden optar per cercar en qualsevol moment un nou mediador i seguir el procés de mediació amb aquest nou mediador.
+3. Quan existeixi un pacte per escrit que expressi el compromís de sotmetre a mediació les controvèrsies sorgides o que puguin sorgir, s’ha d’intentar el procés pactat de bona fe, abans de cercar l’empara jurisdiccional o qualsevol altra solució extrajudicial. Aquesta clàusula és efectiva fins i tot quan la controvèrsia faci referència a la validesa o l’existència del contracte en què consti la clàusula esmentada.
+4. En tot moment durant el procés de mediació, les parts i la persona mediadora han d’actuar d’acord amb les exigències de la bona fe.

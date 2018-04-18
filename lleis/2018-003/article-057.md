@@ -1,0 +1,3 @@
+# Article 57. Mesures cautelars
+1. L’òrgan disciplinari pot acordar, mitjançant resolució motivada, la suspensió cautelar de l’exercici de la mediació de la persona mediadora contra la qual se segueix un expedient disciplinari, tenint en compte la gravetat dels fets comesos i les circumstàncies que concorrin.
+2. El període de suspensió cautelar no pot ser superior al de la sanció que pugui ser imposada per la infracció presumptament comesa, i el temps transcorregut s’ha de tenir en compte a l’efecte de computar el període de la sanció eventual d’inhabilitació que es pugui imposar al terme de l’expedient disciplinari.

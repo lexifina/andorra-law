@@ -1,0 +1,3 @@
+# Article 45. Funcions registrals
+1. El responsable del Registre de Mediadors verifica la legalitat del contingut dels actes que són objecte d’inscripció d’acord amb el que resulta dels documents en virtut dels quals se sol·licita la inscripció i dels assentaments registrals.
+2. El responsable del Registre de Mediadors practica la inscripció corresponent en el termini màxim de dos mesos des de la recepció de la sol·licitud si no presenta cap defecte o mancança, des del moment en què s’hagi corregit el defecte o la mancança observats, o des de la data en què tingui coneixement fefaent del fet que genera l’acte inscriptible, i ho comunica a la persona que ha presentat la sol·licitud.

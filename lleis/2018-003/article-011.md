@@ -1,0 +1,5 @@
+# Article 11. Principis d’independència, imparcialitat i neutralitat
+1. La persona mediadora exerceix la seva funció amb independència, imparcialitat i neutralitat, garantint la igualtat entre les parts. En conseqüència, no pot adoptar actituds que manifestin un interès personal en el procés de mediació o en l’assumpte que és matèria del conflicte.
+2. La persona mediadora és independent de les parts i de terceres persones alienes al conflicte. Per tant, no pot acceptar cap influència externa orientada a la resolució del conflicte.
+3. La persona mediadora ha d’evitar qualsevol conducta discriminatòria o de preferència cap a una de les parts, sigui quin sigui el motiu. En cas que la igualtat i la llibertat de decidir de les parts no estigui garantida, especialment com a conseqüència de situacions de violència, ha d’interrompre el procés de mediació.
+4. Les actuacions en el procés de mediació es desenvolupen de manera que permetin a les parts en conflicte assolir per si mateixes un acord de mediació. La persona mediadora no pot imposar cap solució ni cap mesura concreta, atès que ha d’acompanyar les parts amb imparcialitat i neutralitat.

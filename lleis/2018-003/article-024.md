@@ -1,0 +1,4 @@
+# Article 24. Sessió informativa
+1. La persona mediadora o l’entitat de mediació, un cop reben la sol·licitud d’inici de la mediació convencional, convoquen les parts perquè assisteixin a la sessió informativa.
+2. En cas que qualsevol de les parts no assisteixi de forma injustificada a la sessió informativa, s’entén que desisteix de la mediació sol·licitada. Aquesta circumstància no impedeix que en un futur les parts puguin tornar a sol·licitar l’inici d’un nou procés de mediació.
+3. En la sessió informativa, la persona mediadora explica a les parts les característiques de la mediació, els principis que inspiren el procés, i l’organització, els avantatges i el cost d’aquest procés. En funció d’aquesta explicació i del cas concret de què es tracti, les parts decideixen si opten o no per prosseguir el procés de mediació convencional. La persona mediadora també les informa que, un cop iniciada la mediació, les parts poden donar-la per acabada en qualsevol moment.

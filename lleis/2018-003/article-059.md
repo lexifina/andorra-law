@@ -1,0 +1,5 @@
+# Article 59. Prescripció de les infraccions
+1. Les infraccions molt greus prescriuen al cap de quatre anys, les greus al cap de dos anys i les lleus al cap de sis mesos. Aquests terminis es computen a partir de la data del fet causant o des del dia en què se n’hagi hagut de tenir coneixement.
+2. El termini de prescripció s’interromp per qualsevol actuació realitzada amb coneixement formal de la persona expedientada que s’adreci a la iniciació, la tramitació o la resolució de l’expedient disciplinari.
+La interrupció deixa de tenir efecte si no s’incoa l’expedient disciplinari o queda paralitzat durant més de sis mesos per causa no imputable a la persona expedientada. En aquest cas, el còmput del termini de prescripció s’inicia de nou a partir de la data de la darrera actuació que consti en l’expedient disciplinari.
+3. En el cas de suspensió de la tramitació de l’expedient per causa de prejudicialitat penal, el termini de prescripció de la infracció resta suspès fins que l’òrgan disciplinari tingui constància fefaent de la resolució ferma recaiguda en l’àmbit penal.

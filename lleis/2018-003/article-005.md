@@ -1,0 +1,9 @@
+# Article 5. Requisits per exercir la mediació
+1. Les persones físiques que volen exercir la mediació han d’acreditar, en tot cas, els requisits següents:
+a) Estar en plena possessió dels drets civils i polítics. En el cas de nacionals no andorrans, aquesta possessió s’entén referida als seus estats d’origen.
+b) Tenir la nacionalitat andorrana, ser titular d’una autorització d’immigració de residència i treball o d’una autorització d’immigració de treball fronterer que autoritza a desenvolupar una activitat al Principat d’Andorra, o complir els requisits per exercir una activitat professional titulada per a treballs de curta durada d’acord amb la normativa aplicable.
+c) Estar en possessió d’un títol d’ensenyament superior oficial andorrà o reconegut al Principat d’Andorra en l’àmbit de la mediació, o estar en possessió d’un títol d’ensenyament superior oficial andorrà o reconegut al Principat d’Andorra en qualsevol altra disciplina si s’ha superat una formació d’extensió universitària específica en l’àmbit de la mediació d’almenys cent cinquanta hores de durada.
+d) No estar condemnades per delictes dolosos, o imprudents vinculats amb l’exercici de la funció pública o jurisdiccional, o amb l’exercici de la mediació, mentre no s’hagi produït la cancel·lació dels antecedents penals, ni al Principat d’Andorra ni a l’estranger.
+e) No estar incapacitades per a l’exercici de la mediació, ni trobar-se compreses en cap causa d’incompatibilitat o de prohibició de l’exercici de la mediació.
+2. Les persones jurídiques que es dediquen a la mediació, tant si es tracta de societats professionals com de qualsevol altra modalitat establerta en la normativa aplicable, han de designar com a mínim una persona física d’entre els seus socis que reuneixi els requisits establerts a l’apartat 1 anterior.
+3. En qualsevol supòsit, els mediadors han d’estar inscrits en el Registre de Mediadors.

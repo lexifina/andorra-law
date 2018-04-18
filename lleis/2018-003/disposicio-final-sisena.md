@@ -1,0 +1,2 @@
+# Disposició final sisena. Publicació de text consolidat
+S’encomana al Govern que, en el termini màxim de sis mesos des de l’entrada en vigor d’aquesta Llei, publiqui al Butlletí Oficial del Principat d’Andorra el text consolidat de la Llei 90/2010, del 16 de desembre, del voluntariat d’Andorra i de la Llei 23/2011, del 29 de desembre, per la qual es constitueix la Societat de Gestió Col·lectiva de Drets d’Autor i Drets Veïns del Principat d’Andorra, que incloguin les modificacions introduïdes fins a l’actualitat en aquestes dos lleis.
