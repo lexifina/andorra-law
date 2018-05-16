@@ -1,0 +1,3 @@
+# Disposició final primera. Modificació de la Llei 5/2014, del 24 d’abril, de l’impost sobre la renda de les persones físiques
+S’inclou un nou apartat 5 a la disposició addicional quarta de la Llei 5/2014, del 24 d’abril, de l’impost sobre la renda de les persones físiques, amb el redactat següent:
+“5. Els guanys de capital o els rendiments positius que es generin en relació amb els actius, operacions, contractes, instruments o plans esmentats als apartats anteriors, i que es determinin aplicant les regles indicades anteriorment, no podran superar l’import del guany o del rendiment positiu total que hagués resultat d’aplicar les disposicions generals de la Llei.”
