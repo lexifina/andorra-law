@@ -1,0 +1,4 @@
+# Article 7. Condicions de transparència i requisits d’informació per a serveis de pagament
+1. Les normes de desenvolupament que s’aprovin en cada moment han d’especificar la informació general prèvia que s’ha de proporcionar abans que un usuari de serveis de pagament quedi obligat, la informació que s’ha de proporcionar abans de l’execució d’operacions de pagament individuals, la utilització i el règim jurídic dels contractes marc i les excepcions a aquestes normes.
+2. Les normes de desenvolupament que correspongui han d’indicar la transparència de les condicions aplicables a les operacions de pagament únic o els contractes marc i les operacions de pagament cobertes per aquestes normes.
+3. Els proveïdors de serveis de pagament no poden cobrar als usuaris dels serveis de pagament per facilitar informació, excepte en els termes i subjectes als límits que es puguin determinar en el posterior desenvolupament reglamentari d’aquesta norma.

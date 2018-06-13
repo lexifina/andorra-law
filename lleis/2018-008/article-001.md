@@ -1,0 +1,3 @@
+## Títol I. Àmbit, objecte i definicions
+# Article 1. Objecte
+L’objecte d’aquesta Llei és regular la prestació de serveis de pagament i l’emissió de diner electrònic i la supervisió per part de l’INAF de les activitats de serveis de pagament i d’emissió de diner electrònic dins del territori del Principat d’Andorra, incloent-hi algunes disposicions relatives al règim jurídic i sense perjudici de l’aplicació de la legislació de protecció del consumidor, els drets i obligacions relacionats amb la disposició i ús dels serveis de pagament i la transparència de les condicions i requisits d’informació per als serveis de pagament.

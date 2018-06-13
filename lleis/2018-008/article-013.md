@@ -1,0 +1,2 @@
+# Article 13. Responsabilitat
+Les normes de desenvolupament han de fixar els termes de la responsabilitat del proveïdor de serveis de pagament, concretant la responsabilitat en el cas d’utilitzar identificadors únics incorrectes, la responsabilitat en el cas de no-execució o execució defectuosa, el dret a recurs d’un proveïdor de serveis de pagament contra un altre proveïdor de serveis de pagament o intermediari i les exclusions de responsabilitat aplicables.

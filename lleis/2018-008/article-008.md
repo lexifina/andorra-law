@@ -1,0 +1,3 @@
+# Article 8. Autorització d’operacions de pagament
+1. Una operació de pagament únicament es pot autoritzar si l’ordenant ha atorgat el seu consentiment per executar l’operació de pagament en la forma acordada entre l’ordenant i el proveïdor del servei de pagament. L’ordenant pot autoritzar una operació de pagament abans o, si s’acorda entre l’ordenant i el proveïdor de servei de pagament, després de l’execució de l’operació de pagament. A falta d’aquest consentiment, l’operació de pagament es considera no autoritzada.
+2. L’ordenant pot retirar el consentiment en els termes i amb les limitacions establerts en el posterior desenvolupament reglamentari.
