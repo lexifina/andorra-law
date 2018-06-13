@@ -1,0 +1,2 @@
+# Article 5. Estructura i funcionament
+L’estructura interna i el funcionament del Col·legi Oficial d’Odontòlegs i Estomatòlegs del Principat d’Andorra han de ser democràtics. El Col·legi es regeix en les seves actuacions per la normativa bàsica estatal en matèria de col·legis professionals, per aquesta Llei, pels seus propis estatuts, per la resta de normativa interna i per tota la normativa restant que li sigui d’aplicació general o subsidiària.
