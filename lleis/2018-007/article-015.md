@@ -1,0 +1,11 @@
+# Article 15. Modificació de l’article 117 de la Llei general d’ordenació del territori i urbanisme
+Es modifica l’article 117 de la Llei general d’ordenació del territori i urbanisme, que queda redactat en els termes següents:
+“Article 117. Contingut, redacció i aprovació dels plans especials
+1. Els plans especials han de contenir la justificació, les precisions i la informació documental necessàries per permetre l’execució material de les obres que hi són previstes i, en tot cas, la mateixa que es requereix per als plans parcials.
+2. El comú o, si escau, el Govern redacten el projecte de Pla especial i el posen en coneixement recíproc i dels propietaris compresos dins de la unitat d’actuació, per tal que cadascun d’ells efectuï les observacions que consideri pertinents en el termini màxim de dos mesos.
+3. Transcorregut aquest termini, i efectuades, quan sigui el cas, les modificacions que el redactor introdueixi a resultes de les observacions presentades, el comú o, si escau, el Govern, fa públic el projecte de Pla especial durant un termini de vint dies.
+4. Durant el termini d’informació pública, tots els administrats poden consultar el projecte i, eventualment, formular al·legacions i observacions.
+5. Abans d’aprovar el Pla especial, el comú i, si escau, el Govern, ha de demanar i obtenir un informe favorable dels ministeris amb competències sectorials per raó de la matèria. Els ministeris disposen d’un termini de dos mesos per emetre els informes.
+6. Igualment, abans de l’aprovació del Pla especial, el redactor ha de demanar i obtenir un informe favorable de la Comissió Tècnica d’Urbanisme, en els termes de l’article 121.
+7. En un termini màxim de tres mesos comptats a partir del final del període d’informació pública, el redactor analitza les al·legacions i les observacions rebudes i, sense perjudici d’introduir al projecte les rectificacions o les esmenes que consideri pertinents, dicta el decret d’aprovació i el fa públic.
+8. El decret d’aprovació del Pla especial és susceptible de recurs d’acord amb el que preveu l’article 146 d’aquesta Llei. Quan es tracti de plans especials que desenvolupin plans sectorials o projectes d’interès nacional d’iniciativa del Govern, els recursos administratius i, si és el cas, jurisdiccionals, que s’hi interposin, no poden donar lloc a mesures de suspensió cautelar.”

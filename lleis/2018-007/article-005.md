@@ -1,0 +1,6 @@
+# Article 5. Modificació de l’article 63 de la Llei general d’ordenació del territori i urbanisme
+Es modifica l’article 63 de la Llei general d’ordenació del territori i urbanisme, que queda redactat de la manera següent:
+“Article 63. Competències en projectes d’interès nacional i plans sectorials
+1. Sense perjudici de les competències dels comuns per redactar, aprovar i executar conjuntament plans especials o programes d’interès interparroquial de conformitat amb aquesta Llei, els projectes d’interès nacional i els plans sectorials són aprovats pel Govern, amb informe previ dels comuns el terme parroquial dels quals sigui afectat pel projecte o el pla.
+2. Quan es tracti de projectes d’interès nacional o plans sectorials relatius a algun dels equipaments inclosos en la relació continguda a la disposició addicional primera d’aquesta Llei, l’informe dels comuns té caràcter preceptiu però no vinculant; en els altres supòsits, l’informe dels comuns té caràcter preceptiu i vinculant.
+3. Si un informe preceptiu i vinculant d’un comú sobre un projecte d’interès nacional o un pla sectorial és negatiu, el Govern no el pot executar, però pot sotmetre al Consell General un projecte de llei que l’autoritzi a executar-lo. Si la Llei s’aprova, el projecte es pot executar.”

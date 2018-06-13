@@ -1,0 +1,7 @@
+# Article 14. Modificació de l’article 116 de la Llei general d’ordenació del territori i urbanisme
+Es modifica l’article 116 de la Llei general d’ordenació del territori i urbanisme, que queda redactat de la manera següent:
+“Article 116. Obligacions dels propietaris en un Pla especial
+Els propietaris de terrenys compresos dins d’un Pla especial queden subjectes a les obligacions següents:
+a) Col·laborar i participar amb el comú i, si escau, amb el Govern, en el procediment de redacció, reparcel·lació, si és necessària, i aprovació del pla, per tal d’establir i delimitar el pas dels vials necessaris i els terrenys de cessió obligatòria.
+b) Cedir gratuïtament i fer remesa al comú o, bé directament al Govern, quan abans de la cessió s’hagi subscrit un acord entre el comú i el Govern, de les vies, vials o trams de vial que s’hagin d’incorporar a la xarxa de carreteres generals, i dels terrenys previstos en els projectes d’interès nacional i dels plans sectorials; dels terrenys destinats a vialitat de titularitat comunal, i els de cessió obligatòria, per tal que s’executin les obres que justifiquen el mateix Pla especial.
+c) Sufragar totes les despeses d’urbanització, així com la part que els pertoqui per aquelles que, en profit seu, ja hagi realitzat el comú o, si és el cas, el Govern, quan manifestin interès d’executar, sigui totalment o sigui en part, els treballs d’urbanització restants previstos al pla. Aquestes despeses es xifren a preu de cost, incrementat amb l’IPC anual.”
