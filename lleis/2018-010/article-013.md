@@ -1,0 +1,5 @@
+# Article 13. Modificació de la lletra b de l’article 101 de la Llei 9/2012
+Es modifica la lletra b de l’article 101 de la Llei 9/2012, del 31 de maig, de modificació de la Llei qualificada d’immigració, la qual queda redactada de la manera següent:
+“Article 101. Règim aplicable
+[…]
+b) El titular principal d’una autorització de residència per raons d’interès científic, cultural i esportiu ha de fer efectiu i dipositar a l’Institut Nacional Andorrà de Finances l’import de cinquanta mil euros (50.000 euros) no remunerats. A més, el titular principal també ha de dipositar l’import de deu mil euros (10.000 euros) no remunerats per a cadascuna de les persones al seu càrrec que adquireixin la condició de resident per raons d’interès científic, cultural i esportiu. En cas que el titular de l’autorització es doni de baixa, o en cas que s’anul·li o no es renovi l’autorització, es restitueix el dipòsit, amb la reserva de les retencions que es puguin produir per incompliment de les obligacions contretes al Principat d’Andorra.”

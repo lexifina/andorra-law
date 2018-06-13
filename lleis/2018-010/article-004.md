@@ -1,0 +1,11 @@
+# Article 4. Modificació de l’apartat 3 i addició d’un nou apartat 7 a l’article 30 de la Llei 9/2012
+Es modifica l’apartat 3 i s’afegeix un nou apartat 7 a l’article 30 de la Llei 9/2012, del 31 de maig, de modificació de la Llei qualificada d’immigració, el qual queda redactat de la manera següent:
+“Article 30. Autorització d’immigració per estudis, en pràctiques formatives, per entrenaments esportius d’alt nivell o per recerca
+[…]
+3. L’autorització d’immigració per estudis en un establiment d’ensenyament radicat al Principat d’Andorra i reconegut pel Govern, que imparteixi formacions destinades a obtenir titulacions oficials o formacions pròpies que tinguin el vistiplau del ministeri encarregat de l’educació, o l’autorització d’immigració en pràctiques formatives per entrenaments esportius d’alt nivell o per recerca, pressuposa en tots els casos la justificació d’una assegurança que cobreixi de forma suficient i vàlida per al Principat d’Andorra qualsevol tipus de despesa mèdica o sanitària. La suficiència de l’assegurança es determina reglamentàriament.
+[…]
+7. La persona estrangera titular d’una autorització d’immigració per estudis en un establiment d’ensenyament radicat al Principat d’Andorra i reconegut pel Govern pot treballar al Principat d’Andorra mentre sigui vigent l’autorització, si concorren els requisits següents:
+a) Que treballi com a màxim durant vint hores en còmput setmanal. En el cas de treballs en el sector sanitari o sociosanitari que requereixin guàrdies d’atenció continuada, es pot treballar com a màxim durant vint-i-quatre hores en còmput setmanal.
+b) Que el treball que desenvolupa estigui relacionat amb els estudis que cursa al Principat d’Andorra o formi part d’un sector d’activitat declarat per la via reglamentària com a estratègic o prioritari pel Govern, d’acord amb les necessitats quantitatives o qualitatives de l’economia i de la societat andorranes en matèria d’immigració, així com la situació nacional del treball.
+c) Que la persona interessada justifiqui la conformitat del centre d’ensenyament on està cursant els estudis en relació amb el treball que vol desenvolupar.
+d) Que el treball es desenvolupi amb respecte de la normativa laboral vigent”.

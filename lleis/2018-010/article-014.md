@@ -1,0 +1,5 @@
+# Article 14. Modificació de l’article 109 de la Llei 9/2012
+Es modifica l’article 109 de la Llei 9/2012, del 31 de maig, de modificació de la Llei qualificada d’immigració, el qual queda redactat de la manera següent:
+“Article 109. Principi general de concessió d’una autorització d’immigració per raons de reagrupament
+1. La persona que reuneix els requisits exigits per al reagrupament familiar amb el titular d’una autorització de residència i treball obté una autorització de residència per raons de reagrupament. L’autorització de residència per raons de reagrupament es lliura per una durada inicial màxima d’un any, i es renova tres vegades per períodes de dos anys. Transcorreguts set anys a comptar de la data de la concessió inicial de l’autorització, les renovacions successives es lliuren per períodes de deu anys.
+2. No obstant el que estableix l’apartat anterior, la vigència de l’autorització de residència per raons de reagrupament queda supeditada a la vigència de l’autorització de residència i treball de la persona que ha sol·licitat el reagrupament familiar.”

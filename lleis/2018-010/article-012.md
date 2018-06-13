@@ -1,0 +1,6 @@
+# Article 12. Modificació de l’apartat 2 de l’article 100 de la Llei 9/2012
+Es modifica l’apartat 2 de l’article 100 de la Llei 9/2012, del 31 de maig, de modificació de la Llei qualificada d’immigració, el qual queda redactat de la manera següent:
+“Article 100. Concepte de resident per raons d’interès científic, cultural o esportiu
+[…]
+2. Les persones que obtinguin l’autorització de residència per raons d’interès científic, cultural i esportiu poden desenvolupar les activitats necessàries per gestionar el seu propi patrimoni i, en particular, les funcions que els corresponguin com a administradors de les entitats en el capital o en els fons propis dels quals tinguin una participació igual o superior al cinquanta per cent, sempre que el càrrec d’administrador no sigui remunerat. També poden continuar desenvolupant les activitats professionals que els siguin pròpies, sempre que tinguin com a destinataris principals persones o entitats no residents al Principat d’Andorra. S’entén complert aquest requisit si almenys el 85% dels serveis prestats pel resident per raons d’interès científic, cultural i esportiu són utilitzats en qualsevol altre país o territori diferent de l’andorrà.
+[…].”

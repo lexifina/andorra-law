@@ -1,0 +1,12 @@
+# Article 6. Modificació de l’apartat 1 i de la lletra B de l’apartat 2 de l’article 38 ter de la Llei 9/2012
+Es modifiquen l’apartat 1 i la lletra B de l’apartat 2 de l’article 38 ter de la Llei 9/2012, del 31 de maig, de modificació de la Llei qualificada d’immigració, la qual queda redactada de la manera següent:
+“Article 38 ter. Criteris per a la concessió de les autoritzacions d’immigració de residència i treball per compte propi
+1. La persona estrangera que sol·licita residir al Principat d’Andorra i exercir-hi una activitat per compte propi pot obtenir una autorització d’immigració de residència i treball per compte propi, segons el que disposa l’article 23.12 de la Llei.
+[…]
+B) En tots els altres casos:
+a) Haver obtingut l’autorització d’inversió estrangera corresponent per constituir una societat andorrana en la qual tingui una participació superior al 20%, i haver constituït legalment la societat esmentada.
+b) Exercir un càrrec en l’òrgan d’administració de la societat esmentada a la lletra a anterior, i exercir-hi també una funció de direcció efectiva i de control de la gestió de l’activitat.
+c) Acreditar, en el termini màxim de tres mesos a comptar de la data del registre d’entrada de la sol·licitud d’autorització d’immigració, que la societat esmentada a la lletra a anterior és titular d’un comerç registrat degudament i en activitat al Principat d’Andorra. Aquesta activitat s’ha de demostrar, en el moment de la renovació de l’autorització, mitjançant els ingressos que hagi generat la societat i el comerç de la qual és titular.
+d) Fer efectiu i dipositar a l’Institut Nacional Andorrà de Finances, en el mateix moment en què es presenta la sol·licitud d’autorització d’immigració, l’import de quinze mil euros (15.000 euros) no remunerats. En cas que el titular de l’autorització es doni de baixa, o en cas que s’anul·li o no es renovi l’autorització, es restitueix el dipòsit, amb la reserva de les retencions que es puguin produir per incompliment de les obligacions contretes al Principat d’Andorra.
+En cas que la societat andorrana constituïda en virtut de la qual se sol·licita l’autorització d’immigració ho hagi estat amb la finalitat de portar a terme un projecte empresarial seleccionat per part d’una de les entitats reconegudes prèviament pel Govern a aquest efecte, no és necessari que el titular de l’autorització esmentada faci efectiu ni dipositi l’import a què fa referència el paràgraf anterior.
+e) Complir les altres condicions establertes en aquesta Llei.”
