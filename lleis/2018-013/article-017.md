@@ -1,0 +1,3 @@
+# Article 17. Formulació i aprovació dels comptes anuals i liquidació pressupostària
+1. La Secretaria General del Tribunal d’Arbitratge del Principat d’Andorra elabora la proposta dels comptes anuals i la liquidació pressupostària. La proposta dels comptes anuals, inclosa la proposta de liquidació pressupostària, ha de ser sotmesa al Ple del Tribunal d’Arbitratge del Principat d’Andorra perquè es formuli i s’aprovi en el termini màxim de tres mesos a comptar de la data del tancament de l’exercici.
+2. El Ple del Tribunal d’Arbitratge del Principat d’Andorra pot sotmetre els comptes anuals a una auditoria de comptes.
