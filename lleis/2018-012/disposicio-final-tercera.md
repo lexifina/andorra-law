@@ -1,0 +1,2 @@
+# Disposició final tercera. Textos consolidats
+S’encomana al Govern que en el termini màxim de sis mesos des de l’entrada en vigor d’aquesta Llei publiqui al Butlletí Oficial del Principat d’Andorra els textos consolidats de la Llei 10/2013, del 23 de maig, de l’Institut Nacional Andorrà de Finances i de la Llei 12/2017, del 22 de juny, d’ordenació i supervisió d’assegurances i reassegurances del Principat d’Andorra, que inclogui totes les modificacions introduïdes fins a l’actualitat en aquestes dos lleis.
