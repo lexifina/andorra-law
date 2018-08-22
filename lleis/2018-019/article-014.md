@@ -1,0 +1,4 @@
+# Article 14
+Es modifica la Secció VIII.C.1.a) de l’Annex I de la Llei 19/2016, del 30 de novembre, d’intercanvi automàtic d’informació en matèria fiscal, amb la redacció següent:
+“1. Per “compte financer” s’entén un compte obert en una institució financera, i comprèn el compte de dipòsit, el compte de custòdia i:
+a) En el cas d’una entitat d’inversió, tota participació en el capital o en el deute de la institució financera. No obstant això, el concepte “compte financer” no inclou cap participació en el capital o en el deute d’una entitat que sigui una entitat d’inversió pel sol fet de (i) prestar assessorament financer a un client i actuar en nom d’aquest client, o (ii) gestionar carteres d’un client i actuar en nom d’aquest client, amb la finalitat d’invertir, gestionar o administrar actius financers dipositats a nom del client en una altra institució financera diferent de l’entitat considerada.”

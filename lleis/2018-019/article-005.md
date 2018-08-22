@@ -1,0 +1,5 @@
+# Article 5
+Es modifica l’apartat 1 de l’article 10 de la Llei 19/2016, del 30 de novembre, d’intercanvi automàtic d’informació en matèria fiscal, amb la redacció següent:
+“1. L’incompliment de les obligacions de comunicació i diligència deguda que estableix aquesta Llei és una infracció del deure de subministrar dades, informes o antecedents amb transcendència tributària, en els termes que estableix la lletra c) de l’apartat 2 de l’article 127 de la Llei 21/2014, del 16 d’octubre, de bases de l’ordenament tributari.
+No comunicar dades a la institució financera o comunicar-li dades falses, incompletes o inexactes en les autocertificacions per identificar la residència fiscal del titular del compte o de les persones que exerceixen el control del compte constitueix una infracció en els termes que estableix la lletra a) de l’apartat 2 de l’article 127 de la Llei 21/2014, del 16 d’octubre, de bases de l’ordenament tributari.
+La quantificació de les sancions es determina en els termes que estableix la lletra c) de l’apartat 2 de l’article 128 de la mateixa Llei.”
