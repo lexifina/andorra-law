@@ -1,0 +1,4 @@
+# Article 27
+1. El docent que intervé al nivell educatiu de primera ensenyança ha de posseir una titulació oficial, com a mínim, de primer cicle universitari. Alhora, el pla d’estudi de la seva formació ha de contenir una part important de matèries d’àmbit didàctic o pedagògic que es determina reglamentàriament.
+2. El personal docent que imparteixi les àrees d’educació visual i plàstica, música, educació física i l’ensenyament de la llengua estrangera ha de posseir, a més de la titulació requerida, una formació capacitadora en l’especialitat corresponent. També poden impartir aquestes àrees persones que posseeixen, com a mínim, una titulació universitària de primer cicle en l’especialitat corresponent.
+3. Cal igualment que els ensenyants segueixin els plans de formació que amb aquesta finalitat estableixi el ministeri encarregat de l’educació.

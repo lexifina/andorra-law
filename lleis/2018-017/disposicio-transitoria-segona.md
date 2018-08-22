@@ -1,0 +1,2 @@
+# Disposició transitòria segona. Procediments de selecció en curs
+A efectes de la titulació requerida als candidats, els procediments de selecció que s’hagin iniciat abans de l’entrada en vigor d’aquesta Llei es continuen tramitant i resolent d’acord amb les normes vigents en aquell moment. S’entén que el procediment de selecció comença amb la fase de promoció interna i conclou amb la de procediment selectiu d’ingrés.
