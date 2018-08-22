@@ -1,0 +1,7 @@
+# Article 39. Sancions
+1. Les infraccions a què es refereix aquest capítol són sancionades per aplicació de les mesures següents:
+a) Les infraccions lleus, amb una multa de 150 € fins a 1.500 €.
+b) Les infraccions greus, amb una multa de 1.501 € a 30.000 € i la retirada dels termes referits a la producció ecològica o acollida a règims de qualitat en els lots dels productes afectats. Es pot ultrapassar aquest import fins al quíntuple del valor de les mercaderies no conformes.
+c) Les infraccions molt greus, amb una multa de 30.001 € a 90.000 € i la retirada dels termes referits a la producció ecològica o acollida a règims de qualitat en els lots dels productes afectats. Es pot ultrapassar aquest import fins al dècuple del valor de les mercaderies no conformes.
+2. En cas d’infraccions greus, l’òrgan al qual correspon de resoldre l’expedient sancionador pot acordar, com a sanció accessòria, la suspensió temporal de la inscripció en el registre d’operadors corresponent per un període màxim d’un any. En el cas d’infraccions molt greus, per un període mínim d’un any i màxim de cinc anys.
+3. La imposició de les sancions pecuniàries s’ha de fer de manera que la comissió de les infraccions no sigui més beneficiosa per als infractors que no pas el compliment de les normes infringides, sempre d’acord amb el principi de proporcionalitat i amb l’adequació deguda entre la gravetat del fet constitutiu de la infracció i la sanció a imposar.

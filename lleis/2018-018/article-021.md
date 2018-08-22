@@ -1,0 +1,2 @@
+# Article 21. Especialitats tradicionals garantides
+S’estableix un règim d’especialitats tradicionals garantides per protegir els mètodes de producció i les receptes tradicionals ajudant els productors de productes tradicionals a comercialitzar els seus productes i a informar els compradors i els consumidors dels atributs que confereixen valor afegit a les seves receptes i als seus productes tradicionals.

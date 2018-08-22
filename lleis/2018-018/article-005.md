@@ -1,0 +1,2 @@
+# Article 5. Ajuts a la producció ecològica i a la producció subjecta a règims de qualitat
+L’autoritat competent pot proposar al Govern atorgar ajuts per fomentar pràctiques que permetin obtenir productes ecològics o sotmesos a règims de qualitat, als titulars d’explotacions agràries i d’empreses operadores destinades a la producció de productes ecològics o subjectes a règims de qualitat, d’acord amb les condicions i els criteris d’atorgament establerts reglamentàriament.

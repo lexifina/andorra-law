@@ -1,0 +1,11 @@
+# Article 35. Infraccions lleus
+Són infraccions lleus en matèria de producció ecològica i règims de qualitat:
+1. La no presentació dels registres o la documentació quan siguin requerits per al control en el marc de les actuacions d’inspecció i control, sempre que es consideri una omissió de caràcter ocasional.
+2. Les inexactituds o els errors de quantitat de caràcter ocasional en els registres, els documents d’acompanyament, les declaracions o en general en la documentació que sigui preceptiva, quan la diferència entre la quantitat consignada i la correcta no superi el cinc per cent.
+3. El retard en les anotacions dels registres, la presentació de declaracions i en general la documentació que sigui preceptiva quan no hagi transcorregut més d’un mes des de la data en què hagués hagut de practicar-se el primer assentament no reflectit o la data límit per presentar la declaració o documentació, sempre que es consideri un error o omissió de caràcter ocasional.
+4. La falta de comunicació de qualsevol variació que afecti les dades subministrades en el moment de la inscripció en els registres oficials, quan no hagi transcorregut més d’un mes des que hagi acabat el termini fixat.
+5. El subministrament incomplet a l’autoritat competent, a l’autoritat de control o a l’organisme de control d’informació o documentació necessàries per a les funcions d’inspecció i control.
+6. L’expressió en forma diferent de la indicada en el respectiu plec de condicions o en la normativa específica d’indicacions obligatòries o facultatives en l’etiquetatge o en la presentació dels productes regulats en aquesta Llei, ja siguin inexactituds, errades o omissions.
+7. L’aplicació de forma diferent de tractaments, pràctiques o processos autoritzats en l’elaboració o transformació de productes regulats en aquesta Llei, sempre que no afectin la naturalesa, la qualitat, les característiques, la composició, la procedència o l’origen dels productes.
+8. El trasllat físic de les mercaderies intervingudes cautelarment sense autorització de l’òrgan competent, sempre que no es violin els precintes ni les mercaderies surtin de les instal·lacions on van ser intervingudes, excepte per causes de força major degudament justificades.
+9. La no presentació de les etiquetes comercials als organismes de control, quan tinguin atribuïda aquesta funció.
