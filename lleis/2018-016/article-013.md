@@ -1,0 +1,3 @@
+# Article 13. Funcionament del Punt Empresa
+1. Reglamentàriament, el Govern ha de desenvolupar les funcions, composició i funcionament del Punt Empresa, així com determinar els serveis que tenen caràcter gratuït i els que es poden oferir mitjançant contraprestació econòmica.
+2. El Govern pot signar els convenis de col·laboració que consideri necessaris per la implementació efectiva d’aquesta Llei. De manera enunciativa, amb les agències d’inversió, la Cambra de Comerç, Indústria i Serveis, les administracions públiques locals, les entitats parapúbliques i entitats de dret públic i de dret privat, entre d’altres.
