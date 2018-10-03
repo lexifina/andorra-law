@@ -1,0 +1,3 @@
+# Article 3. Beneficiaris del Fagadi i del SAGI
+Són beneficiaris del Fagadi els dipositants que són persones físiques i jurídiques, qualsevol que sigui la seva nacionalitat o el seu domicili, que mantinguin dipòsits a les entitats bancàries andorranes. Els beneficiaris tenen dret a la devolució dels dipòsits en els termes establerts en aquesta Llei.
+Són beneficiaris del SAGI els inversors persones físiques i jurídiques, qualsevol que sigui la seva nacionalitat o domicili, que mantinguin inversions dipositades, administrades o en custòdia a les entitats bancàries o a les entitats financeres d’inversió andorranes. Els beneficiaris tenen dret a la devolució de les inversions en els termes establerts en aquesta Llei.

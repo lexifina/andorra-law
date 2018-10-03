@@ -1,0 +1,8 @@
+# Article 8. Límit de cobertura per beneficiari
+1. L’import garantit dels dipòsits té com a límit la quantia de 100.000 euros o, en el cas de dipòsits nominats en una altra divisa, el seu equivalent si s’apliquen els tipus de canvi corresponents a la data en què es produeixi un dels fets a què fa referència el paràgraf 1 de l’article 7 d’aquesta Llei.
+2. Addicionalment, es garanteixen durant tres mesos amb un límit de 300.000 euros els dipòsits següents:
+a) Els procedents de transaccions amb béns immobles de naturalesa residencial i caràcter privat;
+b) Els que derivin de pagaments rebuts pel dipositant amb caràcter puntual i estiguin vinculats al matrimoni, el divorci, la jubilació, l’acomiadament, la invalidesa o la defunció;
+c) Els que estiguin basats en el pagament de prestacions d’assegurances o en la indemnització per perjudicis que siguin conseqüència d’un delicte o d’un error judicial.
+El termini de tres mesos es computa des de la data en què el dipòsit hagi estat abonat o a partir de la data en què els fons siguin legalment transferibles.
+3. El Govern d’Andorra, a proposta de la Comissió Gestora del Fagadi, ha de revisar i proposar l’actualització, si escau, de l’import de cobertura per beneficiari, amb una periodicitat mínima de cinc anys a comptar de l’entrada en vigor d’aquesta Llei, tenint especialment en compte l’evolució del sector bancari i la situació econòmica d’Andorra i l’evolució de l’índex de preus de consum al Principat d’Andorra. La primera revisió no ha de tenir lloc abans de complir-se cinc anys des de l’entrada en vigor d’aquesta Llei, tret que a causa d’esdeveniments imprevistos sigui necessària la revisió en una data anterior.

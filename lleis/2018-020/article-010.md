@@ -1,0 +1,15 @@
+# Article 10. Reemborsament als titulars de dipòsits
+1. El Fagadi ha de satisfer els imports reemborsables determinats en funció del que estableixen els articles 8 i 9 d’aquesta Llei dins dels set dies hàbils següents a les dates de referència establertes a l’apartat 2 de l’article 9 d’aquesta Llei.
+2. El reemborsament dels dipòsits previst a l’apartat 1 d’aquest article i a la disposició transitòria primera pot ajornar-se en qualsevol dels casos següents:
+a) Quan no hi hagi certesa sobre si una persona és el beneficiari efectiu del dipòsit o quan el dipòsit sigui objecte de litigi;
+b) Quan el dipòsit sigui objecte de mesures restrictives imposades per governs nacionals i organismes internacionals que restringeixin les facultats de disposició dels seus titulars;
+c) Quan no s’hagi produït cap operació en relació amb el dipòsit en els últims vint-i-quatre mesos;
+d) Quan, conforme a l’apartat 2 de l’article 8 d’aquesta Llei, l’import a reemborsar sigui superior a 100.000 euros;
+e) Quan, eventualment, l’import hagi de ser pagat pel sistema de garantia de dipòsits d’un estat de la Unió Europea o d’un altre país tercer en què operi la sucursal d’una entitat membre del Fagadi.
+3. Els dipòsits a què es refereix el primer paràgraf de l’apartat 3 de l’article 9 poden estar subjectes a un termini de reemborsament més llarg, que no excedeixi tres mesos a partir de les dates de referència establertes a l’apartat 2 de l’article 9, si la Comissió Gestora ho considera escaient.
+4. El Fagadi posa a disposició els imports reemborsables sense que sigui necessari que els dipositants ho sol·licitin. A aquest efecte, les entitats membres transmeten tota la informació necessària sobre els dipòsits i els dipositants tan aviat com ho sol·liciti el Fagadi.
+El reemborsament es fa en euros i mitjançant transferència bancària.
+El reemborsament significa posar a disposició els imports reemborsables dins del termini establert. El reemborsament s’entén per la mobilització de l’import reemborsable, de manera que es pugui reintegrar tan aviat com el dipositant hagi pres les mesures necessàries per permetre el reemborsament efectiu de l’import corresponent, proporcionant dades bancàries per realitzar el pagament mitjançant transferència bancària de l’import reemborsable al compte bancari de l’elecció del dipositant d’entre les entitats bancàries autoritzades a operar a Andorra.
+5. El Fagadi no efectua cap pagament si no hi ha hagut cap operació relacionada amb el dipòsit en els últims vint-i-quatre mesos i el valor del dipòsit és inferior a les despeses administratives que comportaria el pagament pel Fagadi.
+6. El dret a obtenir els imports reemborsables prescriu al cap de cinc anys a partir de les dates de referència que regula l’apartat 2 de l’article 9 d’aquesta Llei.
+7. Ni l’Estat, ni l’AFA ni l’AREB garanteixen els dipòsits que estan garantits pel Fagadi en els termes que estableix aquesta Llei. La responsabilitat de l’Estat, de l’AFA i de l’AREB davant dels dipositants de les entitats membres es limita a vetllar per l’establiment del Fagadi.
