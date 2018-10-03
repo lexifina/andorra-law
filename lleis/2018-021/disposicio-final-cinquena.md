@@ -1,0 +1,5 @@
+# Disposició final cinquena
+S’afegeix un article 11 a la Llei 21/2013, que queda redactat de la manera següent:
+“Article 11. Responsabilitats, infraccions i sancions
+Les responsabilitats, les infraccions i les sancions d’aquesta Llei relacionades amb el projecte, l’execució, la conservació, el manteniment i el control d’obres d’edificació es regulen pel que disposa el títol XI de la Llei general d’ordenació del territori i urbanisme.
+Les responsabilitats, les infraccions i les sancions d’aquesta Llei relacionades amb la fabricació, la importació, la instal·lació i la venda de productes industrials relacionats amb la construcció o amb els equipaments industrials, així com el projecte, l’execució, la conservació, el manteniment i el control d’instal·lacions de producció, transport, distribució i consum d’energia no sotmesos a legislació específica, es regulen pel que disposa el títol V de la Llei de seguretat i qualitat industrial.”

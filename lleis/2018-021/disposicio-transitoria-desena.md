@@ -1,0 +1,2 @@
+# Disposició transitòria desena
+Les previsions a les quals es refereix l’apartat 1 de l’article 31, relatives a la informació sobre la qualificació relativa a l’eficiència energètica en l’edificació en tota transmissió onerosa de domini de béns immobles, esdevenen de caràcter obligatori per a tots els edificis i els habitatges a comptar de l’1 de gener del 2020. En el cas dels habitatges de lloguer d’edificació anterior, s’exigeix la informació sobre la qualificació relativa a l’eficiència energètica a partir de l’1 de gener del 2023.

@@ -1,0 +1,9 @@
+# Disposició final sisena
+S’afegeix un nou article a la Llei general d’ordenació del territori i urbanisme, amb el contingut següent:
+“Article 22 bis. Servituds i limitacions a la propietat immobiliària
+1. Es declaren d’utilitat pública, als efectes d’expropiació forçosa i exercici de la servitud de pas, les instal·lacions següents:
+a) Les instal·lacions i els serveis necessaris per a l’establiment de les infraestructures de serveis energètics definides en els instruments d’ordenació del Govern.
+b) Les xarxes destinades a serveis públics urbanístics, és a dir, les galeries i xarxes de distribució d’aigües, col·lectors d’aigües residuals, energia, telèfon i xarxes de telecomunicacions definides en els instruments d’ordenació del Govern.
+2. Per al reconeixement de la utilitat pública de les instal·lacions i serveis previstos en l’apartat anterior cal seguir els tràmits que estableix la Llei d’expropiació, en relació amb la preparació de l’expedient i els tràmits de publicació al Butlletí Oficial del Principat d’Andorra de la iniciació de l’expedient d’expropiació, la notificació als interessats i la informació pública. Conclosa la tramitació, li correspon al govern el reconeixement de la utilitat pública, únicament quan es tracti de les instal·lacions i serveis previstos en els projectes d’interès nacional o plans sectorials relatius als equipaments inclosos a la disposició addicional de la Llei 19/2017, del 20 d’octubre, qualificada de modificació de la Llei de delimitació de competències dels comuns. Per la resta de casos, el reconeixement de la utilitat pública li correspon al Consell General.
+3. El reconeixement de la utilitat pública per part del Govern porta implícita la necessitat d’ocupació dels béns i/o l’adquisició dels drets afectats.
+4. La publicació i notificació a tots els interessats coneguts de l’acord del Govern inicia la fase d’execució de l’expropiació en els termes previstos a la Llei d’expropiació.”

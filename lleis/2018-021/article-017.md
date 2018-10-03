@@ -1,0 +1,5 @@
+# Article 17. Tarifes elèctriques i serveis afins
+1. Les tarifes de venda de l’electricitat i dels serveis afins prestats per les entitats distribuïdores són públiques i comunes a tot el país. El decret del Govern de tarifes elèctriques i de serveis afins en fixa els imports.
+2. Els serveis afins han de ser oferts i prestats obligatòriament per les entitats distribuïdores, en funció de les previsions del decret esmentat en l’apartat anterior. El mateix decret n’especifica, per a cadascun i en relació amb els clients, el caràcter obligatori o facultatiu.
+3. Es consideren serveis afins els que, amb la finalitat de subministrar energia elèctrica, de permetre’n el subministrament o de millorar la informació i la interacció dels clients, són prestats per les entitats distribuïdores, sense perjudici dels serveis que han estat declarats com a afins per aquesta Llei.
+4. Els serveis afins són facturables als clients finals quan així hagin estat declarats mitjançant decret pel Govern, i la resta de serveis no són repercutibles als clients. En el cas de rebre la condició de facturable, les característiques del servei queden establertes en el mateix decret.

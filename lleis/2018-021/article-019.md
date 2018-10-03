@@ -1,0 +1,6 @@
+## Secció segona. Energies renovables i tecnologies d’alta eficiència energètica
+# Article 19. Foment de les fonts d’energia renovables
+1. El Govern defineix en l’Estratègia energètica nacional els potencials de les energies renovables per a les fonts d’origen hidràulic, solar i eòlic, així com d’altres que l’evolució tecnològica permeti considerar, a l’efecte que serveixin per a la presa de decisió dels ciutadans, del sector públic i del sector privat en relació amb les inversions que vulguin efectuar en la matèria.
+2. L’Estratègia incorpora igualment la quantificació del potencial energètic de l’aprofitament de la biomassa forestal. Sense perjudici de la disposició transitòria tercera, els comuns aprofiten el potencial energètic de la biomassa comunal, de preferència, per donar resposta a les necessitats tèrmiques dels edificis comunals, d’acord amb un estudi ambiental, tècnic i econòmic.
+3. Sobre la base dels potencials d’energies renovables, el Govern estableix en l’Estratègia energètica nacional un conjunt d’objectius que permetin transformar el model energètic en un model basat en les energies renovables i en energia baixa en carboni.
+4. El Govern desenvolupa els objectius esmentats a l’apartat anterior d’acord amb la planificació territorial determinada en el Pla sectorial d’infraestructures energètiques (PSIE).

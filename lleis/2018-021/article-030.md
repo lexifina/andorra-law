@@ -1,0 +1,2 @@
+# Article 30. Informació sobre el preu dels hidrocarburs
+Les empreses subministradores d’hidrocarburs fan públics els preus de venda al públic de cada producte per a cada estació de servei en el cas dels hidrocarburs líquids, i per a cada distribuïdor per als hidrocarburs gasosos, a través dels mitjans que posa a disposició el Govern. Sobre la base d’aquesta informació, el Govern en determina un preu de referència i el publica per a informació.

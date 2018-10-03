@@ -1,0 +1,2 @@
+# Article 40. Vehicles
+El Govern afavoreix la transició de vehicles motoritzats que utilitzen actualment gasolines i gasoils, cap a l’ús de fonts d’energia menys emissores de gasos d’efecte d’hivernacle, com ara l’electricitat, el dihidrogen, el gas natural, els biocombustibles, els alcohols o els gasos liquats del petroli, entre altres fonts més respectuoses amb el medi ambient que els avenços científics i tecnològics puguin identificar en el futur. L’Estratègia nacional de transició energètica i de canvi climàtic incorpora les mesures escaients en aquest sentit.

@@ -1,0 +1,5 @@
+# Article 32. Repartiment dels costos en instal·lacions tèrmiques centralitzades
+1. Tota instal·lació tèrmica que doni servei a més d’un usuari ha de disposar d’algun sistema que permeti el repartiment de les despeses corresponents a cada servei (calor i aigua calenta sanitària) entre els diversos usuaris.
+2. El Govern defineix per la via reglamentària el sistema de repartiment, que pot consistir en sistemes de mesura o en mètodes de repartició dels costos de calefacció, d’aigua calenta sanitària i, si escau, de refrigeració en tota instal·lació tèrmica que doni servei a més d’un usuari.
+3. Sense perjudici de la disposició transitòria onzena, un cop publicats, els mètodes de repartició de costos esmentats són emprats en totes les instal·lacions centralitzades que donin servei a més d’un usuari.
+4. S’exceptuen de les previsions de l’apartat anterior les instal·lacions operades per empreses de serveis energètics, les quals es retribueixen d’acord amb les previsions de l’article 36, i les instal·lacions de cogeneració i trigeneració, els serveis de les quals queda regulat mitjançant el Decret de tarifes publicat al Butlletí Oficial del Principat d’Andorra.

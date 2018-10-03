@@ -1,0 +1,2 @@
+# Article 16. Funció de l’operador del sistema elèctric en la transició energètica
+A més de les funcions previstes per la Llei 5/2016, l’operador del sistema elèctric ha de tenir un paper actiu en la gestió del sistema elèctric que persegueixi l’optimització de l’oferta i de la demanda elèctrica, la reducció dels costos de l’energia elèctrica i la reducció de les emissions del mix elèctric nacional resultant.

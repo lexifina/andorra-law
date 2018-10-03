@@ -1,0 +1,4 @@
+# Article 45. Precarietat energètica
+1. Les accions d’aquest article s’apliquen a tota la població que acrediti la residència legal, efectiva i permanent, d’acord amb el que s’estableix en l’article 5, “Requisits”, de la Llei 6/2014, del 24 d’abril, de serveis socials i sociosanitaris.
+2. Es prohibeix a les empreses i entitats del sector energètic que subministren energia tallar el subministrament a les persones en risc potencial o real de patir precarietat energètica, sense una valoració social prèvia, preceptiva i vinculant del ministeri encarregat de l’atenció social.
+3. Amb la voluntat de preservar l’interès vital de les persones en risc potencial o real de precarietat energètica, el Govern, a través del ministeri encarregat de l’atenció social, comunica a les empreses a les quals es refereix l’apartat anterior els casos susceptibles de respondre a una situació de risc potencial o real de precarietat energètica.

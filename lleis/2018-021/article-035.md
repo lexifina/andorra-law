@@ -1,0 +1,6 @@
+# Article 35. Qualificació de l’eficiència energètica en l’edificació
+1. La qualificació de l’eficiència energètica és aplicable tant als edificis i a les seves unitats, a través de la certificació energètica, com a les seves unitats individualment, a través de l’etiqueta energètica. Té per objectiu millorar la transparència i la informació relativa a l’eficiència energètica en el mercat immobiliari.
+2. El Govern estableix mitjançant reglament els requisits d’elaboració i registre de la qualificació de l’eficiència energètica, la metodologia de càlcul, així com la seva validesa i els supòsits que la invaliden i fan necessari revisar-la.
+3. El Govern posa a disposició dels professionals que estableixen la qualificació de l’eficiència energètica en l’edificació una eina que permet l’elaboració i el registre de les qualificacions energètiques. El preu màxim de les etiquetes energètiques l’estableix el Govern.
+4. En edificis de nova planta, la certificació energètica s’elabora en finalitzar les obres.
+5. S’encomana al Govern el registre de les certificacions i de les etiquetes energètiques. Per ser vàlida, la qualificació energètica ha de complir els requisits del Reglament esmentat i ha d’estar registrada pel Govern.

@@ -1,0 +1,6 @@
+# Article 11. Comissió Nacional de l’Energia i del Canvi Climàtic
+1. Es crea la Comissió Nacional de l’Energia i del Canvi Climàtic, com a òrgan consultiu en els àmbits d’acció previstos per aquesta Llei, i en especial en relació amb l’avaluació i el seguiment de l’Estratègia nacional prevista a l’article 10.
+2. El Govern estableix mitjançant un reglament la composició de la Comissió, que integra la representació dels actors clau, i com a mínim, de l’Administració general, de l’Administració comunal, de Forces Elèctriques d’Andorra (FEDA), de les entitats distribuïdores, de les empreses del sector elèctric, de les empreses del sector dels carburants, dels col·legis professionals, del sector empresarial del país, del sector universitari i de recerca, així com de les associacions ciutadanes l’objectiu de les quals es relacioni amb els objectius i finalitats d’aquesta Llei. La participació en aquesta comissió no serà en cap cas remunerada.
+3. La Comissió té com a funció fer el seguiment de l’Estratègia energètica nacional i de lluita contra el canvi climàtic, dels seus programes d’acció, i participar en la revisió, modificació i adaptació dels seus objectius.
+4. La Comissió adopta un reglament intern de funcionament.
+5. Es poden establir subcomissions de treball per treballar temes específics.

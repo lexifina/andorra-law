@@ -1,0 +1,3 @@
+# Article 28. Informació sobre els consums
+1. Les entitats distribuïdores d’electricitat informen els seus clients finals sobre la contribució de cada font energètica, sobre les emissions resultants del mix energètic, així com sobre l’historial de consums i de facturació dels darrers 14 mesos.
+2. Els clients de les entitats distribuïdores d’energia elèctrica tenen dret a ser informats per aquestes entitats dels seus consums, en temps real, amb la finalitat de facilitar el canvi d’hàbits i el control del consum. La prestació efectuada per l’entitat distribuïdora es considera un servei afí, d’acord amb la definició de l’article 17.

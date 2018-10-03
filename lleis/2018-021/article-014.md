@@ -1,0 +1,6 @@
+## Capítol tercer. Mesures de la transició energètica
+## Secció primera. Sector elèctric
+# Article 14. Comptatge d’energia elèctrica
+1. Són objecte de comptatge sistemàtic la importació, l’exportació, la producció i la venda d’energia elèctrica, sense perjudici d’altres comptatges que siguin necessaris per a l’eventual repartiment de costos en el marc de les excepcions relatives a la transmissió d’energia elèctrica previstes per l’article 18.
+2. El comptatge d’energia elèctrica previst a l’apartat 1 d’aquest article s’ha d’efectuar mitjançant comptadors intel·ligents, capaços de comunicar a distància la informació mesurada, sense perjudici del que preveu la disposició transitòria primera.
+3. En l’àmbit de la producció i la venda, la informació mesurada en el marc del comptatge d’energia elèctrica és concentrada a escala local per les entitats distribuïdores d’energia elèctrica que operen a les zones respectives, i traslladada a escala nacional per aquestes entitats d’acord amb les previsions de l’article 44. En l’àmbit de la importació i l’exportació, correspon a FEDA mesurar i concentrar la informació, així com traslladar-la posteriorment, d’acord amb les previsions de l’article 44.

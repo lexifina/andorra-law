@@ -1,0 +1,6 @@
+# Disposició final quarta
+Es modifica l’article 10 de la Llei 21/2013, que queda redactat de la manera següent:
+“Article 10. Gestió del programa
+1. L’Oficina de l’Energia i del Canvi Climàtic és l’òrgan encarregat de gestionar el programa per al foment de la rehabilitació del parc immobiliari, la millora de l’eficiència energètica dels edificis i l’ús de les energies renovables.
+2. Tenint en compte el caràcter pluridisciplinari del programa, es crea la Comissió Tècnica de Rehabilitació (CTR) com a òrgan amb funcions consultives, d’avaluació, de seguiment i de control. La CTR està presidida per un representant de l’Oficina de l’Energia i del Canvi Climàtic nomenat pel Govern. El president pot delegar l’aplicació de qualsevol de les seves funcions en els seus substituts, d’acord amb l’ordre de prelació previst en el Decret que estableix la composició nominal de la CTR. S’ha d’establir reglamentàriament el funcionament de la CTR.
+3. L’Oficina de l’Energia i del Canvi Climàtic exerceix, a través del seu personal o mitjançant la Comissió Tècnica de Rehabilitació (CTR), la valoració de les sol·licituds per acollir-se al programa, la proposta de resolució de les sol·licituds i la valoració de les sol·licituds de pagament, així com altres procediments administratius relacionats amb el programa.”

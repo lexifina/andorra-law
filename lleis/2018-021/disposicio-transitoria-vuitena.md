@@ -1,0 +1,2 @@
+# Disposició transitòria vuitena
+Les condicions de retribució de les instal·lacions que hagin adquirit la inscripció al registre de tarifa retribuïda (RTR) a l’empara de la Llei 85/2010, del 18 de novembre, de mesures provisionals en relació amb el règim de l’energia elèctrica, i que estiguin publicades al Butlletí Oficial del Principat d’Andorra abans de l’entrada en vigor d’aquesta Llei, es mantenen durant la vigència prevista en les seves respectives resolucions i en les de la convocatòria mitjançant la qual van obtenir-les.
