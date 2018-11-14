@@ -1,0 +1,8 @@
+# Article 8
+Es modifiquen els apartats 2, 4, 5, 6, 12 i 13 de l’article 6 de la Llei de creació de la Cambra de Comerç, Indústria i Serveis d’Andorra amb el redactat següent:
+“2. El Ple està compost per un mínim de 20 membres en funció del nombre de col·legis que s’estableixi i els membres assignats als mateixos. Els membres són de condició única i indelegable, elegits mitjançant sufragi lliure, igual, directe i secret, entre tots els electors de la Cambra.
+4. Cadascun dels quatre sectors esmentats en l’apartat anterior se subdivideix en activitats. La repartició dels membres del Ple en sectors i, doncs d’aquest, en activitats, es fa d’acord amb criteris de proporcionalitat, segons la importància econòmica i social de cada sector i activitat. Al seu torn, en matèria electoral, les activitats es distribueixen reglamentàriament en col·legis electorals, seguint els mateixos criteris de proporcionalitat i importància econòmica i social de les activitats. Els criteris de repartició dels membres del Ple es determinaran en el Reglament de règim intern.
+5. Per ésser elegit membre del Ple de la Cambra, s’ha d’ésser elector, portar com a mínim un any d’exercici en l’activitat del comerç, de la indústria o dels serveis en el territori del Principat, i s’han d’haver complert totes les obligacions econòmiques envers la Cambra que es disposen en aquesta Llei.
+6. Cap dels quatre sectors podrà tenir un nombre de membres que abasti la majoria absoluta del Ple de la Cambra i cap de les activitats pot tenir més de quatre membres al Ple.
+12. Cada tres anys es renova la meitat del nombre de membres que componen el Ple.
+13. La provisió de les vacants produïdes en un altre moment es fa en la forma que determini el Reglament intern.”

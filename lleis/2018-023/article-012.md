@@ -1,0 +1,14 @@
+# Article 12
+Es modifica l’article 14 de la Llei de creació de la Cambra de Comerç, Indústria i Serveis d’Andorra amb el redactat següent:
+“1. Per al finançament de les seves activitats la Cambra disposa dels següents recursos econòmics ordinaris:
+a) Els provinents de les transferències assignades en el Pressupost General del Principat en la quantia anual fixa de 600.000 euros. Aquest import s’actualitzarà anualment en funció de l’increment de l‘IPC i, es revisarà periòdicament, per garantir el normal desenvolupament de les activitats de l’Entitat.
+b) De forma addicional, anualment, la CCIS percebrà un import variable en funció de la creació neta de societats mercantils i d’establiments comercials, durant l’exercici immediatament anterior al d’elaboració del pressupost anual. Aquest import variable correspon a la quantia resultant d’aplicar a la creació neta d’establiments comercials i de societats mercantils, un 10% sobre l’import recaptat de la taxa sobre el Registre de Titulars d’Activitats Econòmiques en concepte d’inscripció als registres de Comerç i Indústria i de Societats Mercantils durant l’any immediatament anterior al d’elaboració del pressupost anual.
+c) Els ingressos obtinguts pels serveis prestats i, en general, per l’exercici de les seves activitats.
+d) Les aportacions voluntàries dels seus electors.
+e) Els productes, les rendes i els increments del seu patrimoni.
+2. La Cambra disposa també dels següents recursos econòmics extraordinaris:
+a) Els provinents de les transferències assignades en el Pressupost General del Principat, amb la proposta prèvia xifrada de les activitats o serveis de la Cambra als quals s’aplicaran i que, prèviament aprovada pel Ple, s’ha de sotmetre al Govern a través del Ministeri que en tingui la tutela. L’acord del Ple ha de concretar els recursos econòmics propis que la Cambra ha d’aportar per a la realització de les activitats o per a la prestació de serveis de què es tracti.
+b) Les subvencions, els llegats i les donacions que rebi.
+c) Els procedents de les operacions de crèdit o d’emprèstit que realitzi.
+d) Qualsevols altres que li puguin ésser atribuïts o reconeguts per Llei, en virtut de conveni o per un altre procediment lícit.
+3. Anualment, les transferències assignades al Pressupost General a la Cambra es poden incrementar en un màxim del 10% del pressupost anual fixe per a poder realitzar projectes d’alt valor afegit en l’àmbit de les activitats inherents a les funcions de la CCIS. Als efectes d’identificar els projectes i de realitzar una planificació, la Cambra elaborarà i elevarà al Govern, mitjançant el ministeri de tutela, una proposta de marc pressupostari, que inclogui el calendari d’execució dels projectes proposats i un pla de sostenibilitat financera, per a realitzar els referits projectes d’alt valor afegit. El Govern pot aprovar, parcial o totalment, o denegar el marc pressupostari proposat.”

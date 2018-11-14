@@ -1,0 +1,9 @@
+# Article 14
+Es modifica el contingut de l’article 20 de la Llei de creació de la Cambra de Comerç, Indústria i Serveis d’Andorra amb el redactat següent:
+“Article 20. Pressupostos i liquidacions
+1. La Cambra ha d’elaborar cada any un pressupost ordinari de despeses i d’ingressos i n’ha d’aprovar la liquidació un cop finalitzat l’exercici econòmic, que ha de coincidir amb l’any natural.
+2. Per a la realització d’activitats, obres o serveis sense consignació en el pressupost ordinari, la Cambra ha de formalitzar pressupostos extraordinaris.
+3. El Ministeri que en tingui la tutela ha d’aprovar els pressupostos ordinaris i extraordinaris de la Cambra, controlant llurs liquidacions i orientant-la en la confecció dels mateixos.
+4. Cada any el Comitè Executiu ha de presentar davant del Ple de la Cambra els estats financers en els quals s’ha de reflectir la situació patrimonial, econòmica i financera de la corporació.
+5. Amb independència del control de la liquidació dels pressupostos per part del ministeri tutelant, els estats financers de la Cambra són auditats anyalment per una empresa independent. Els comptes auditats han de fiscalitzar-se anyalment pel Tribunal de Comptes en exercici de les seves funcions.
+6. Un cop aprovada la liquidació de comptes, sempre que no s’hagi compromès el total de la despesa pressupostada, la Cambra ha de retornar al Govern els ingressos obtinguts amb la transferència i no utilitzats durant l’exercici pressupostari. El Govern, abans de ser aprovada la liquidació de comptes de la Cambra, amb sol·licitud prèvia d’aquesta, pot autoritzar-la a mantenir els ingressos obtinguts amb la transferència i no utilitzats durant l’exercici pressupostari perquè no està afectada per finançar diferències de venciment entre els drets i les obligacions durant l’exercici, sempre que la Cambra acrediti al Govern aquestes necessitats de tresoreria i per finançar romanents de tresoreria negatius.”

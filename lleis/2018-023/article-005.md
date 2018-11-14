@@ -1,0 +1,7 @@
+# Article 5
+Es modifica la lletra a) i s’afegeixen les lletres m), n) i o) a l’apartat 1 de l’article 3 de la Llei de creació de la Cambra de Comerç, Indústria i Serveis d’Andorra amb el redactat següent:
+“a) Portar un cens general propi de les activitats comercials, industrials i de serveis que complementi, amb caràcter estadístic i informatiu, el Registre de Comerç i Indústria del Govern. A tal efecte la Cambra rep la informació necessària, i en la forma que es determini entre les parts, dels Registres de Societats Mercantils i de Comerç i Indústria.
+Es declara obligatòria la inscripció dels comerciants, industrials i titulars de serveis al cens de la Cambra, al qual han de facilitar les dades de la seva activitat relatives a les finalitats estadístiques i d’informació que reglamentàriament es determinin.
+m) Dur a terme funcions de mediació i de conciliació, dins del seu marc competencial, en els àmbits nacional i internacional, i emprar qualsevol altre sistema alternatiu de resolució de conflictes, de conformitat amb la legislació vigent.
+n) Col·laborar en els programes de formació permanent establerts per les empreses, pels centres docents públics o privats i, si és el cas, per les administracions públiques competents, i difondre i impartir, si escau, formació referent a l’empresa.
+o) Prestar serveis d’atenció i informació als empresaris, orientant-los en la tramitació de documents relacionats amb la creació, vida i extinció de l’empresa.”
