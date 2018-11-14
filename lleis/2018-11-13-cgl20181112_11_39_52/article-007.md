@@ -1,0 +1,5 @@
+# Article 7. Modificació de la disposició addicional primera
+Es modifica la disposició addicional primera de la Llei 18/2017, del 20 d’octubre, qualificada de transferències als comuns, que queda redactada en els termes següents:
+“Disposició addicional primera. Revisió normativa
+Per tal d’assegurar la capacitat econòmica dels comuns en el desenvolupament de les seves competències, aquesta Llei és objecte de modificació, si escau, en el termini de cinc anys.
+S’encomana al Govern que, com a molt tard, abans del termini de cinc anys a comptar de l’entrada en vigor d’aquesta Llei, i després de consultar els comuns, elabori un informe sobre l’avaluació del funcionament dels criteris i paràmetres de repartiment establerts en aquesta Llei, amb referència especial a la correspondència entre ingressos i despeses en el desenvolupament de les seves competències, amb requeriment previ als comuns d’aquesta informació a l’efecte d’establir, si escau, els criteris per a les modificacions oportunes; i que trameti aquest informe als comuns i al Consell General perquè en tinguin coneixement.”

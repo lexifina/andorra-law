@@ -1,0 +1,2 @@
+# Disposició final primera. Text consolidat de la Llei qualificada de transferències als comuns
+S’encomana al Govern que en el termini màxim de sis mesos des de l’entrada en vigor d’aquesta Llei publiqui al Butlletí Oficial del Principat d’Andorra el text consolidat de la Llei 18/2017, del 20 d’octubre, qualificada de transferències als comuns, que inclogui les modificacions introduïdes per aquesta Llei.

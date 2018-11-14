@@ -1,0 +1,13 @@
+# Article 4. Modificació de l’article 17
+Es modifica l’article 17 de la Llei 18/2017, del 20 d’octubre, qualificada de transferències als comuns, que queda redactat en els termes següents:
+“Article 17. Partida de solidaritat i particularitats comunals
+Els recursos corresponents a la partida de solidaritat i particularitats comunals són repartits entre els comuns d’acord amb els criteris següents:
+i) La meitat de la partida es reparteix entre tots els comuns d’acord amb el percentatge que s’obtingui amb caràcter inversament proporcional al nombre d’establiments comercials registrats a la parròquia, de manera que la parròquia amb menys establiments comercials obté una major part de la partida i, a l’inrevés, la parròquia amb més establiments comercials rep una part menor de la partida.
+ii) L’altra meitat de la partida es reparteix entre els comuns atenent les particularitats parroquials que es detallen en aquest article, segons el sistema de puntuació següent:
+a) 1 punt per als comuns que en els dos exercicis immediatament precedents hagin exigit dels obligats tributaris la totalitat dels impostos comunals descrits en l’article 28 de la Llei 10/2003, del 27 de juny, de les finances comunals, mitjançant liquidacions o autoliquidacions segons que escaigui. Els comuns han de comunicar al ministeri encarregat de les finances els canvis normatius en relació amb l’exigibilitat d’aquests impostos comunals.
+No s’entén l’exigibilitat tributària als efectes d’aquest article quan en resulti un supòsit de no subjecció, d’exempció o de tipus de gravamen zero, llevat de l’impost de la propietat immobiliària per a les propietats no edificades.
+b) 1 punt per als comuns en el territori dels quals la suma de la llargada de totes les carreteres secundàries superi la xifra de 60 quilòmetres.
+c) 1 punt per als comuns que disposin en l’exercici precedent d’una societat pública participada únicament pel Comú, amb una despesa superior a la despesa liquidada pel Comú en el mateix exercici.
+d) 1,5 punts per als comuns en el territori dels quals es trobin radicats dos nuclis amb una població de més de 2.000 habitants i que alhora estiguin separats per una distància superior a 15 quilòmetres.
+D’acord amb el que estableix la disposició transitòria primera, la partida de solidaritat i particularitats comunals per als exercicis 2018 i 2019 inclou un paràmetre addicional d’acord amb les necessitats financeres.
+La suma de punts atribuïts a cada comú en aplicació dels criteris establerts en l’apartat anterior determina per a cada comú un percentatge de repartiment d’aquesta part de la partida en relació amb la totalitat dels punts atribuïts a tots els comuns.”
