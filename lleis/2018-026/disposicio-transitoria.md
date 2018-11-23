@@ -1,0 +1,3 @@
+# Disposició transitòria. Addició d’una disposició transitòria a la Llei 17/2008, del 3 d’octubre, de la seguretat social
+S’afegeix una disposició transitòria a la Llei 17/2008, del 3 d’octubre, de la seguretat social, que queda redactat en els termes següents:
+“Les prestacions de la seguretat social atorgades abans del moment d’entrada en vigor d’aquesta Llei que tinguin una continuïtat després d’entrar en vigor, es regulen per la legislació en vigor en el moment de produir-se el fet causant, sempre que aquesta Llei no sigui més favorable i prèvia petició de l’assegurat en un termini no superior a quinze dies naturals.”

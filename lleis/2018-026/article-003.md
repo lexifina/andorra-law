@@ -1,0 +1,6 @@
+# Article 3. Modificació de l’article 145 de la Llei 17/2008, del 3 d’octubre, de la seguretat social.
+Es modifica l’article 145 de la Llei 17/2008, del 3 d’octubre, de la seguretat social, modificat per la Llei 18/2014, del 24 de juliol, que queda redactat en els termes següents:
+“Article 145. Taules de patologies i de donació d’òrgans o teixits en viu destinats al transplantament, durada de baixa i especialitat dels facultatius
+1. S’ha d’establir per reglament les taules que relacionin les patologies més corrents i les donacions d’òrgans o teixits en viu destinats al transplantament, el nombre de dies de baixa que corresponen habitualment com a màxim a cada patologia i donació i les persones prestadores de serveis de salut habilitades per prescriure la baixa i les eventuals pròrrogues.
+Aquestes relacions es fonamenten en estudis elaborats per l’Organització Mundial de la Salut o per altres organismes internacionals i es fan amb la consulta prèvia a les persones prestadores de serveis de salut en exercici a Andorra i als col·legis que les representen.
+2. Si la baixa s’ha de prorrogar, el metge tractant, a requeriment de la Caixa Andorrana de Seguretat Social, ha de presentar un informe mèdic complementari detallat que justifiqui la pròrroga.”
