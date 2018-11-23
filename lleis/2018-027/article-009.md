@@ -1,0 +1,4 @@
+# Article 9. Modificació del Títol III
+1. El Títol III de la Llei 8/2018, del 17 de maig, dels serveis de pagament i el diner electrònic, passa a numerar-se Títol V i el seu enunciat queda redactat en els termes següents: “Emissió i reemborsament de diner electrònic”.
+2. Es renumeren els articles 14 i 15 de la Llei 8/2018, del 17 de maig, dels serveis de pagament i el diner electrònic, que passen a numerar-se articles 31 i 32, respectivament i l’apartat 3 del renumerat article 31 queda redactat en els termes següents:
+“3. El contracte entre l’emissor de diner electrònic i el titular de diner electrònic ha d’indicar de manera clara i explícita les condicions de reemborsament, incloent-hi qualsevol despesa relacionada, i el titular de diner electrònic ha d’estar informat d’aquestes condicions abans de quedar obligat per un contracte o oferta.”
