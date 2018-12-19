@@ -1,0 +1,2 @@
+# Disposició final primera
+S’encomana al Govern que en el termini màxim de tres mesos des de l’entrada en vigor d’aquesta Llei publiqui al Butlletí Oficial del Principat d’Andorra el text refós de la Llei 23/2014, del 30 d’octubre, qualificada de creació i de regulació del Pla de pensions de la funció pública, i de la Llei qualificada de la Justícia, del 3 de setembre de 1993, que inclogui les modificacions introduïdes en aquesta Llei.

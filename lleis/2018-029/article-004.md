@@ -1,0 +1,7 @@
+# Article 4. Modificació dels apartats 3 i 4 de l’article 7
+Es modifiquen els apartats 3 i 4 de l’article 7 de la Llei 23/2014, del 30 d’octubre, qualificada de creació i de regulació del Pla de pensions de la funció pública, que queden redactats com segueix:
+“3. Als efectes del que preveu aquesta Llei, s’estableixen com a edats de jubilació obligatòria dels partícips les següents:
+a) Per als funcionaris del Cos General, els agents de l’Administració de caràcter indefinit, el personal adscrit al Consell Superior de la Justícia, els batlles, magistrats i fiscals, el Cos Especial d’Ensenyament i els assimilats, 65 anys.
+b) Per als cossos especials de Duana, Prevenció i Extinció d’Incendis i Salvament, Penitenciaria, Policia i Cos de Banders, 60 anys.
+4. La jubilació obligatòria comporta per a tots els partícips, excepte per als batlles, magistrats i fiscals, i els assimilats, la finalització de la situació de treballador en actiu del partícip, que ha de cessar per tant en l’exercici de l’activitat professional que li ha permès tenir la condició de partícip.
+Els batlles, els magistrats, els fiscals i els assimilats podran continuar en actiu a partir dels 65 anys, d’acord amb el que està previst en la normativa específica que regula la seva activitat. Sense perjudici d’això i als efectes d’aquesta Llei, a partir dels 65 anys d’edat aquests col·lectius passaran a la condició de beneficiaris del Pla de pensions de la funció pública en els termes previstos en aquesta Llei.”
