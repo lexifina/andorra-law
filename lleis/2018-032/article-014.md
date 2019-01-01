@@ -1,0 +1,5 @@
+# Article 14. Drets dels representants sindicals
+1. Els assalariats que exerceixin càrrecs electes en les organitzacions sindicals més representatives i representatives tenen dret a:
+a) Assistir i accedir als centres de treball per participar en les activitats pròpies de la seva organització sindical o del conjunt dels assalariats, amb comunicació prèvia a l’empresari i sense que l’exercici d’aquest dret pugui interrompre el desenvolupament normal del procés productiu.
+b) Obtenir els permisos no retribuïts necessaris per a l’exercici de les funcions sindicals pròpies del càrrec, que poden estar subjectes a limitacions en funció de les necessitats del funcionament normal de l’empresa.
+2. Els representants sindicals que participen en les comissions negociadores d’acords o convenis col·lectius i són assalariats de l’empresa tenen dret, en els termes fixats a la Llei de relacions laborals i als acords o els convenis col·lectius corresponents, a obtenir els permisos retribuïts necessaris per exercir la tasca negociadora, sempre que l’empresa esmentada estigui afectada pel procés de negociació col·lectiva.

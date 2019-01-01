@@ -1,0 +1,2 @@
+# Article 15. Discriminació sindical
+Són nuls i sense efecte els preceptes reglamentaris, les clàusules dels acords o els convenis col·lectius, els pactes individuals i les decisions unilaterals de l’empresari que continguin o suposin qualsevol tipus de discriminació en l’accés a l’ocupació, en el desenvolupament professional o en les condicions de treball, tant favorables com adverses, per motiu de l’afiliació o la no afiliació a una organització sindical, de l’adhesió o la no adhesió als seus acords o de l’exercici, en general, de qualsevol activitat sindical.

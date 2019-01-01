@@ -1,0 +1,4 @@
+# Article 19. Dret de constitució d’organitzacions empresarials
+1. Tots els empresaris tenen dret a constituir organitzacions empresarials, i també a cessar-ne les activitats i a dissoldre-les, d’acord amb el procediment regulat en aquesta Llei i els estatuts de cada organització.
+2. Per promoure la constitució d’una organització empresarial es requereix l’acord mínim de tres o més empresaris, que han de manifestar la voluntat de constituir-la i dotar-la d’uns estatuts on s’estableixin les normes d’organització i funcionament, que han de complir la legislació vigent.
+3. Els empresaris que no reuneixen els requisits previstos a l’article 18.2 no poden constituir organitzacions empresarials, sense perjudici de la seva capacitat per constituir associacions, d’acord amb la legislació específica en aquesta matèria.

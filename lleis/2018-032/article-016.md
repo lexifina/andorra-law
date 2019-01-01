@@ -1,0 +1,2 @@
+# Article 16. Garanties laborals
+Els assalariats que exerceixin càrrecs electes en les organitzacions sindicals tenen les mateixes garanties laborals que les establertes a la Llei de relacions laborals per als delegats dels assalariats i els membres dels comitès d’empresa escollits en les eleccions a representants dels assalariats en l’empresa, a més de les que se’ls atribueixin mitjançant la negociació col·lectiva.

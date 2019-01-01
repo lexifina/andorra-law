@@ -1,0 +1,13 @@
+# Article 9. Procediment d’inscripció i publicitat
+1. La inscripció de les organitzacions sindicals, que es duu a terme mitjançant el dipòsit, el registre i la publicació dels seus estatuts, s’ha d’ajustar al procediment següent i a les normes reglamentàries sobre la matèria.
+2. Les persones que han constituït una organització sindical n’han de sol·licitar al Registre d’Organitzacions Sindicals la inscripció, adjuntant a la sol·licitud la documentació següent:
+a) L’acta fundacional de l’organització sindical protocol·litzada, en la qual ha de constar la identitat de les persones que han constituït l’organització i, si escau, de les persones que les representen legalment.
+b) El text íntegre dels estatuts signats a cadascuna de les pàgines per les persones que han constituït l’organització sindical.
+c) L’acreditació que les persones que han constituït l’organització sindical reuneixen els requisits que estableix aquesta Llei.
+d) La certificació de la designació de les persones que ocupen els càrrecs de direcció, expedida pel secretari o la persona que tingui assignades unes funcions equivalents.
+3. El Registre d’Organitzacions Sindicals, en rebre la sol·licitud d’inscripció, ha de decidir, en el termini de deu dies hàbils, sobre el dipòsit i el registre dels estatuts o, si és el cas, ha de demanar a les persones que han constituït l’organització que corregeixin els defectes o les mancances observats i atorgar-los un nou termini de deu dies hàbils per tal que s’efectuï la correcció esmentada.
+4. Un cop transcorregut aquest segon termini, es fan efectius el dipòsit i el registre dels estatuts o, si escau, es refusen el dipòsit i el registre esmentats mitjançant una resolució motivada, que només es pot fonamentar en defectes o mancances relatius al contingut mínim dels estatuts establert a l’article 7, o en l’incompliment dels altres requisits exigits per aquesta Llei.
+5. En el termini màxim de deu dies hàbils des del dipòsit i el registre, els estatuts s’han de publicar al Butlletí Oficial del Principat d’Andorra, fent constar, com a mínim, la denominació de l’organització sindical, el seu àmbit territorial i funcional i la identitat de les persones que han constituït l’organització.
+6. La modificació dels estatuts de les organitzacions sindicals s’ha d’ajustar al mateix procediment previst als apartats anteriors.
+7. Qualsevol persona està facultada per consultar els estatuts dipositats al Registre d’Organitzacions Sindicals i en pot obtenir una còpia autèntica.
+8. Les autoritats públiques i les persones que acreditin un interès directe, personal i legítim poden sol·licitar a l’òrgan jurisdiccional competent que declari que els estatuts d’una organització sindical dipositats, registrats i publicats no són conformes al dret.
