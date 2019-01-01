@@ -1,0 +1,5 @@
+# Article 15. Serveis i treballs de manteniment
+1. Correspon a l’empresari o els empresaris concernits i al comitè de vaga designar de forma pactada les funcions que s’han d’assegurar i els assalariats que han de garantir la realització dels serveis i els treballs de manteniment necessaris per a la represa normal de les activitats quan finalitzi la vaga.
+2. En cas que aquesta designació pactada no sigui possible quan manquin dos dies hàbils per a l’inici de la vaga, correspon a l’empresari o els empresaris concernits la designació de les funcions i els assalariats assenyalats a l’apartat anterior.
+3. Aquesta designació pot ser impugnada pel comitè de vaga davant el ministeri competent en matèria de treball, que ha de dictar una resolució motivada en un termini d’un dia hàbil. Aquesta resolució és susceptible de recurs, en els termes que estableix el Codi de l’Administració, però la interposició de recurs no en suspèn l’execució immediata.
+4. Sempre que sigui possible, els serveis i els treballs de manteniment han de ser desenvolupats per assalariats que optin per exercir el seu dret de treballar durant la vaga.

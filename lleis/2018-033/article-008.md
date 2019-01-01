@@ -1,0 +1,4 @@
+# Article 8. Contingut
+1. El contingut individual del dret de vaga abasta el dret dels assalariats d’aturar temporalment la prestació del treball, en qualsevol de les seves manifestacions i modalitats, i també l’adhesió a una vaga convocada i la decisió de donar per acabada la participació en aquesta vaga.
+2. El contingut col·lectiu del dret de vaga abasta la convocatòria de la vaga, la publicitat i les altres mesures de desenvolupament de la vaga, i també la desconvocatòria de la vaga.
+3. La renúncia individual del dret de vaga per part de l’assalariat és nul·la. Tanmateix, es poden pactar clàusules mitjançant un conveni col·lectiu en virtut de les quals les parts es comprometen a no fer vaga durant el seu període de vigència, sempre que el conveni col·lectiu millori, en el seu conjunt, les condicions laborals vigents amb anterioritat.

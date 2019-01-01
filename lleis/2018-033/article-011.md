@@ -1,0 +1,4 @@
+# Article 11. Aprovació
+1. Quan la convocatòria de la vaga sigui feta pels assalariats de l’empresa o del centre de treball d’una empresa, s’ha d’aprovar en assemblea mitjançant una votació secreta, per majoria simple dels assalariats de l’empresa o del centre de treball.
+2. Quan la convocatòria de la vaga sigui feta pels representants dels assalariats en l’empresa, o per les organitzacions sindicals representatives o més representatives en els àmbits sectorial i intersectorial, respectivament, s’ha d’aprovar en una reunió conjunta dels representants dels assalariats o de les organitzacions esmentats, per majoria simple dels representants presents, i és necessari un quòrum mínim d’assistència del 50% d’aquests representants.
+3. En tots els casos s’ha d’estendre una acta on consti l’acord de l’assemblea o la reunió en què es decideixi l’aprovació de la convocatòria de la vaga, la relació d’assistents i els vots emesos.

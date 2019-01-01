@@ -1,0 +1,6 @@
+# Article 18. Protecció
+1. Durant la vaga, resta prohibit per part de l’empresari o els empresaris concernits:
+a) Substituir els assalariats que decideixin exercir el dret de vaga per altres assalariats que no es trobin en situació d’alta a l’empresa en el moment en què es convoca la vaga.
+b) Substituir els assalariats que decideixin exercir el dret de vaga per altres assalariats que, tot i trobar-se en situació d’alta a l’empresa en el moment en què es convoca la vaga, no desenvolupen una activitat al centre de treball afectat per la convocatòria de la vaga, en els supòsits d’empreses que comptin amb altres centres de treball no afectats per la vaga.
+c) Substituir els assalariats que decideixin exercir el dret de vaga per altres assalariats que, tot i trobar-se en situació d’alta a l’empresa en el moment en què es convoca la vaga i desenvolupar una activitat al centre de treball afectat per la convocatòria de la vaga, pertanyen a un altre grup professional.
+2. Únicament és possible la substitució dels assalariats que, tenint l’obligació de realitzar els serveis o els treballs de manteniment acordats que garanteixin la represa normal de l’activitat un cop acabada la vaga, no els realitzin.

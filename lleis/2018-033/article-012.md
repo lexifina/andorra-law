@@ -1,0 +1,4 @@
+# Article 12. Notificació
+1. Un cop aprovada la convocatòria de la vaga, els assalariats o els representants dels assalariats o de les organitzacions sindicals representatives o més representatives ho han de notificar a l’empresari o els empresaris concernits i al Departament de Treball, amb una antelació mínima de cinc dies hàbils respecte a la data de l’inici de la vaga.
+2. Si la vaga afecta empreses públiques o empreses privades que realitzen un servei públic o faciliten béns o serveis de primera necessitat, la convocatòria s’ha de notificar amb una antelació mínima de vuit dies hàbils respecte a la data de l’inici de la vaga.
+3. La notificació s’ha de fer mitjançant un escrit que inclogui els objectius de la vaga, la data en què s’inicia i la durada prevista, i la composició del comitè de vaga.

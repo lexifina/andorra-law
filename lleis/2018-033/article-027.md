@@ -1,0 +1,3 @@
+# Article 27. Notificació
+1. L’empresari o els empresaris que vulguin fer efectiu el tancament patronal han de notificar-ho als assalariats afectats i als seus representants en l’àmbit de l’empresa, a les organitzacions sindicals representatives i més representatives en cas de conflicte en els àmbits sectorial o intersectorial, respectivament, i al Departament de Treball, en el termini màxim d’un dia hàbil a comptar de la presa de la decisió i, com a mínim, dos dies hàbils abans de fer efectiu el tancament.
+2. La notificació s’ha de fer mitjançant un escrit que inclogui una exposició raonada de les causes del tancament patronal i la data en què s’inicia.
