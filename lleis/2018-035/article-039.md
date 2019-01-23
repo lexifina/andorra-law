@@ -1,0 +1,6 @@
+# Article 39. Distribucions basades en instruments de fons propis
+1. Els instruments de capital pels quals una entitat té discreció per decidir pagar distribucions en una forma diferent de l’efectiu o un instrument de fons propis, no qualifica com a instruments de capital de nivell 1 ordinari, ni instrument de capital de nivell 1 addicional ni com a instrument de capital de nivell 2, tret que l’entitat hagi rebut l’autorització prèvia de l’AFA.
+2. Els instruments de capital pels quals una persona jurídica, diferent de l’entitat que els emet, té discreció per decidir o requerir que el pagament de distribucions basats en l’instrument es realitzi en una forma diferent de l’efectiu o d’un instrument de fons propis, no té la consideració d’instrument de capital de nivell 1 ordinari, ni d’instruments de capital de nivell 1 addicional ni d’instruments de capital de nivell 2.
+3. El Govern, a proposta del Ministeri de Finances, ha d’elaborar el reglament d’aplicació, per especificar el contingut següent:
+a) les condicions perquè les entitats puguin obtenir l’autorització esmentada en l’apartat 1;
+b) els mètodes admissibles per determinar els nivells de distribucions basades en els instruments de capital de nivell 1 addicional i en els de nivell 2.

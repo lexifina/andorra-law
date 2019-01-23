@@ -1,0 +1,9 @@
+# Article 71. Requisits de fons propis en relació al risc de crèdit de la contrapart
+1. Per “risc de crèdit de contrapart” s’ha d’entendre el risc que la contrapart d’una transacció pugui incórrer en impagament abans de la liquidació definitiva dels fluxos d’efectiu d’aquesta transacció.
+2. Les entitats han de determinar el valor d’exposició dels instruments derivats enumerats a les lletres d) a g), j) i k) del punt 11 de l’article 2 de la Llei 8/2013, del 9 de maig, sobre els requisits d’organització i les condicions de funcionament de les entitats operatives del sistema financer, la protecció dels inversors, els abusos de mercat i els acords de garantia financera, subjecte al compliment de determinats requisits i d’acord amb un dels mètodes que es determini reglamentàriament.
+3. Una entitat pot determinar el valor d’exposició de les operacions de recompra, les operacions de préstecs de valors o de matèries primeres o d’adquisició de valors o matèries primeres en préstec, les operacions amb liquidació diferida i les operacions d’emprèstit amb reposició del marge, en lloc de fer ús de les tècniques de mitigació del risc de crèdit establertes en l’article 69, subjecte al compliment de certes condicions a definir reglamentàriament.
+4. El Govern, a proposta del Ministeri de Finances, ha d’elaborar el reglament d’aplicació, per especificar el contingut següent:
+a) els mètodes per calcular el valor d’exposició;
+b) els requisits en relació amb els acords de compensació contractual en el context de risc de crèdit de contrapart a efectes de reducció del risc;
+c) els requisits en relació amb el càlcul de les exposicions ponderades de risc de contrapart d’instruments derivats de la cartera de negociació;
+d) els requisits de fons propis per a les exposicions en front de les entitats de contrapartida central.

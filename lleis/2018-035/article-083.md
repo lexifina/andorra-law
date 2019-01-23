@@ -1,0 +1,2 @@
+# Article 83. Compliment dels requisits de liquiditat
+Quan una entitat no compleixi, o quan prevegi que no pot complir el requisit establert a l’article 81, o l’obligació general que estableix l’apartat 1 de l’article 82, fins i tot durant els períodes de tensió, ho ha de notificar immediatament a l’AFA i presentar a aquest, sense demores injustificades, un pla per restablir ràpidament el compliment de l’article 81 o l’apartat 1 de l’article 82.

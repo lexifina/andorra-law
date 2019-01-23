@@ -1,0 +1,3 @@
+# Article 21. Risc de titulització
+1. Les entitats han de valorar i controlar mitjançant polítiques i procediments adequats els riscos derivats d’operacions de titulització en les quals les entitats bancàries actuïn com a inversores, originadores o patrocinadores, incloent-hi el risc reputacional, així com els que sorgeixen en relació amb estructures o productes complexos, per assegurar que el contingut econòmic de l’operació queda plenament reflectit en les decisions d’avaluació i gestió del risc.
+2. Les entitats originadores d’operacions de titulització renovables que inclouen clàusules d’amortització anticipada han de disposar de plans de liquiditat per fer front a les implicacions derivades tant de l’amortització programada com de l’anticipada.

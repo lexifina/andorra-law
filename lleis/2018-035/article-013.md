@@ -1,0 +1,2 @@
+# Article 13. Empreses d’altres països
+A efectes de l’aplicació de la supervisió en base consolidada en mèrits a les seccions segona i tercera d’aquest capítol, els termes «empresa d’inversió», «entitat bancària», «entitat financera» i «entitat» són aplicables així mateix a les empreses establertes a altres països que, d’estar establertes al Principat d’Andorra, entrarien en la definició que d’aquests termes figura en l’article 3.

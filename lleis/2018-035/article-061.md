@@ -1,0 +1,4 @@
+# Article 61. Reconeixement d’un percentatge de coixí de capital contra riscos sistèmics de països tercers
+1. L’AFA pot reconèixer el percentatge de coixí de capital contra riscos sistèmics establert per l’autoritat competent d’un país tercer i pot aplicar aquest percentatge de coixí de capital a les entitats autoritzades al Principat d’Andorra per a les exposicions ubicades en aquest país tercer.
+2. A l’hora de decidir si ha de reconèixer el percentatge de coixí de capital contra riscos sistèmics de països tercers, l’AFA ha de prendre en consideració la informació presentada per l’autoritat competent del país tercer que estableixi el percentatge de coixí de capital contra riscos sistèmics.
+3. El Govern, a proposta del Ministeri de Finances, ha d’elaborar el reglament d’aplicació, per establir disposicions addicionals relatives al reconeixement dels percentatges de coixí de capital contra riscos sistèmics de països tercers.

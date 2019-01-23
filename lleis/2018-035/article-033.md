@@ -1,0 +1,11 @@
+# Article 33. Deduccions en els elements del capital de nivell 1 addicional
+1. Les entitats han de deduir dels elements del capital de nivell 1 addicional, subjecte al que es determini reglamentàriament en relació al mètode de càlcul, límits i les exempcions aplicables, els conceptes següents:
+a) les tinences directes, indirectes i sintètiques d’instruments propis de capital de nivell 1 addicional posseïdes per les entitats, inclosos els instruments propis de capital de nivell 1 addicional que l’entitat pugui estar obligada a adquirir com a conseqüència de compromisos contractuals vigents;
+b) les tinences directes, indirectes i sintètiques d’instruments de capital de nivell 1 addicional en ens del sector financer, quan l’entitat tingui una tinença recíproca que, segons el parer de l’AFA, estigui destinada a incrementar artificialment els fons propis de l’entitat;
+c) l’import pertinent dels instruments de capital de nivell 1 addicional que l’entitat tingui, de manera directa, indirecta i sintètica, en ens del sector financer, conforme es determini reglamentàriament, quan l’entitat no mantingui una inversió significativa en aquests ens;
+d) les tinences directes, indirectes i sintètiques d’instruments de capital de nivell 1 addicional en ens del sector financer, quan l’entitat mantingui una inversió significativa en aquests ens, excloses les posicions d’assegurament mantingudes durant cinc o menys dies hàbils;
+e) l’import de les partides que hagin de deduir-se dels elements del capital de nivell 2, d’acord amb l’article 36, que excedeixi dels elements del capital de nivell 2 de l’entitat;
+f) tot impost connex als elements del capital de nivell 1 addicional que resulti previsible en el moment del càlcul d’aquest, excepte quan l’entitat ajusti degudament l’import dels elements del capital de nivell 1 addicional, en la mesura que tals impostos redueixin la quantia màxima d’aquests elements que pot destinar-se a la cobertura de riscos o pèrdues.
+2. El Govern, a proposta del Ministeri de Finances, ha d’elaborar el reglament d’aplicació, per especificar el contingut següent:
+a) el procediment de càlcul i límits aplicables en l’aplicació de les deduccions als elements del capital de nivell 1 addicionals;
+b) les exempcions de deduccions dels elements de capital de nivell 1 addicional i alternatives possibles a l’aplicació de deduccions.

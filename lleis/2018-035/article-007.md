@@ -1,0 +1,2 @@
+# Article 7. Excepció a l’aplicació dels requisits de liquiditat de forma individual
+L’AFA pot eximir, totalment o parcialment, prèvia sol·licitud, de l’aplicació a nivell individual del capítol sisè del títol III, a una entitat i a totes o diverses de les seves filials ubicades al Principat d’Andorra, supervisant-les com un subgrup únic de liquiditat, sempre que es compleixin les condicions que es determinin reglamentàriament.

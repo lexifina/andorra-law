@@ -1,0 +1,6 @@
+# Article 18. Risc de crèdit i contrapart
+En matèria de risc de crèdit i de contrapart, les entitats:
+a) han de basar la concessió de crèdits en criteris sòlids i ben definits i que el procediment d’aprovació, modificació, renovació i refinançament de crèdits estigui clarament establert;
+b) han de disposar de metodologies internes que els permetin avaluar el risc de crèdit de les exposicions davant dels diferents deutors, valors o posicions de titulització, així com el risc de crèdit del conjunt de la cartera. Concretament, les metodologies internes no se sustenten únicament o mecànicament en les qualificacions creditícies externes. El fet que els requisits de recursos propis es basin en l’avaluació d’una ECAI o en la inexistència d’una qualificació de l’exposició, no impedeix que les entitats tinguin en compte una altra informació pertinent per avaluar la seva assignació de capital intern;
+c) han d’utilitzar mètodes eficaços per administrar i supervisar de manera permanent les diverses carteres i exposicions amb risc de crèdit, així com per identificar i gestionar els crèdits dubtosos i fer els ajustaments de valor i les dotacions de provisions adequats;
+d) han de diversificar les carteres de crèdits de manera adequada, tenint en compte els mercats objectius i l’estratègia global de l’entitat en matèria de crèdit.
