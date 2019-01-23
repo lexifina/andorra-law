@@ -1,0 +1,5 @@
+# Article 5. Identificació dels conglomerats financers
+1. L’AFA identificarà, d’acord amb els articles 2, 3 i 5 d’aquesta Llei, qualsevol grup comprès en l’àmbit d’aplicació de la Llei.
+A aquests efectes, les autoritats competents que hagin autoritzat entitats regulades del grup cooperaran estretament. Si una autoritat competent considera que una entitat regulada autoritzada és membre d’un grup que podria constituir un conglomerat financer encara sense identificar de conformitat amb aquesta Llei, ho comunicarà a la resta d’autoritats competents interessades.
+2. L’AFA informarà l’empresa matriu que encapçali el grup o, a falta d’empresa matriu, a l’entitat regulada amb major balanç total en el sector financer més important del grup, de la qual el grup ha sigut identificat com a conglomerat financer.
+L’AFA també informarà les autoritats competents pertinents que hagin autoritzat les entitats regulades del grup i, si és el cas, les autoritats competents del país tercer en què tingui la seva seu principal la societat financera mixta de cartera.

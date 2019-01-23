@@ -1,0 +1,3 @@
+# Article 10. Accés a la informació
+1. El Govern d’Andorra o, amb la seva habilitació específica, l’AFA, vetllarà perquè no hi hagi impediments legals que impedeixin que les persones físiques i jurídiques incloses en l’àmbit de la supervisió addicional, ja siguin entitats regulades o no, intercanviïn entre si informació que sigui pertinent a l’efecte de la supervisió addicional.
+2. El Govern d’Andorra o, amb la seva habilitació específica, l’AFA, disposarà que, quan es dirigeixin directament o indirectament a les entitats d’un conglomerat financer, ja siguin entitats regulades o no, l’AFA, que és responsable de la supervisió addicional, pugui tenir accés a qualsevol informació que sigui pertinent a efectes de la supervisió addicional.

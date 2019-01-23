@@ -1,0 +1,4 @@
+# Article 11. Mesures d’execució
+1. Quan no es compleixin les obligacions establertes en l’article 7 d’aquesta Llei i en el desenvolupament reglamentari, quan es compleixin però la solvència en el nivell del conglomerat financer pugui veure’s compromesa o quan les operacions intragrup o les concentracions de riscos suposin una amenaça per la situació financera d’aquell, seran d’aplicació a les entitats regulades les mesures definides reglamentàriament.
+2. L’AFA està facultada per adoptar qualsevol mesura de supervisió que estimi necessària per evitar o remeiar l’elusió de normes sectorials per part de les entitats regulades d’un conglomerat financer.
+3. El que disposen els apartats anteriors d’aquest article s’entendrà en tot cas sense perjudici de l’aplicació, quan sigui procedent, de les sancions administratives aplicables per l’incompliment de les disposicions d’aquesta Llei previstes en la Llei de regulació del règim disciplinari del sistema financer.
