@@ -1,0 +1,5 @@
+# Article 8. Vigilància dels incidents i reaccions adverses greus
+1. L’autoritat competent ha d’establir un sistema per notificar, investigar, registrar i transmetre informació pertinent i rellevant sobre reaccions i incidents adversos greus relacionats amb les SOH. El sistema de vigilància d’incidents i reaccions adverses greus s’estableix per reglament.
+2. Els centres implicats en la donació i la utilització de les SOH han de notificar a l’autoritat competent qualsevol reacció o incident advers greu relacionat amb l’obtenció, l’estudi, l’emmagatzematge, la distribució i la utilització de les SOH. També han de disposar de procediments que descriguin les mesures de gestió dels incidents i reaccions adverses greus.
+3. Aquests centres també han d’establir el procediment perquè, quan escaigui, les SOH relacionades amb una notificació de reacció o incident advers siguin retirades de manera precisa i eficaç.
+4. Els intercanvis de SOH entre països han de garantir la comunicació dels incidents i de les reaccions adverses greus.

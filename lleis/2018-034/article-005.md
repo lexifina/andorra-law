@@ -1,0 +1,6 @@
+# Article 5. Promoció i publicitat
+1. L’autoritat competent ha dur a terme actuacions de promoció de les donacions de caràcter altruista que incloguin la informació i l’educació de la població i dels professionals sanitaris, i que incorporin informació sobre els beneficis que proporcionen a les persones que els necessiten, així com de les condicions, els requisits i les garanties que suposen.
+2. La promoció i la publicitat de la donació o l’obtenció de SOH s’han de fer sempre de manera general, sense buscar un benefici per a persones concretes.
+3. Es prohibeix fer publicitat sobre la necessitat de SOH o sobre la disponibilitat de les mateixes substàncies d’origen humà amb l’objectiu d’oferir o tractar d’obtenir un benefici econòmic o un avantatge comparable.
+4. Es prohibeix dur a terme publicitat enganyosa en relació amb les SOH. La publicitat és enganyosa quan indueix a error sobre la utilitat real de l’obtenció, el processament i la preservació de cèl·lules i teixits humans, d’acord amb els coneixements i l’experiència disponibles.
+5. Els establiments sanitaris o entitats que vulguin dur a terme activitats de promoció i publicitat per donar suport a la donació d’òrgans, cèl·lules, teixits i sang han de notificar-ho al ministeri encarregat de la salut i presentar el contingut de les activitats.

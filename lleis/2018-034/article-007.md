@@ -1,0 +1,5 @@
+# Article 7. Protecció de dades i confidencialitat
+1. No es poden facilitar ni divulgar informacions que permetin la identificació de donants i receptors de cèl·lules, sang, teixits o òrgans, ni es poden facilitar als donants o als seus familiars les dades identificadores dels receptors o a l’inrevés.
+2. Aquesta limitació no és aplicable a les persones directament interessades en el trasplantament d’òrgans de donants vius entre persones relacionades genèticament, per parentiu o per amistat íntima o en casos de donació creuada.
+3. La informació relativa a donants i receptors de cèl·lules, teixits, sang i òrgans es recull, es tracta i es custodia en la més estricta confidencialitat i amb mètodes segurs que evitin la pèrdua, la modificació o la supressió d’informació i d’acord amb el que estableix la normativa de protecció de dades i la Llei de drets i deures dels pacients.
+4. El deure de confidencialitat no impedeix l’adopció de mesures preventives quan se sospiti l’existència de riscos per a la salut individual o per a la salut col·lectiva en els termes previstos en els articles 47 bis, apartat 2, 58 i 59 de la Llei general de sanitat.

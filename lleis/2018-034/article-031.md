@@ -1,0 +1,4 @@
+# Article 31. Processament de cèl·lules i teixits
+1. L’establiment de teixits ha d’incloure en els seus manuals de procediments tot procés que afecti la qualitat i la seguretat de les cèl·lules i els teixits i ha de vetllar perquè es dugui a terme en condicions controlades. L’establiment de teixits ha de verificar que l’equipament utilitzat, l’entorn de treball i el disseny, la validació i les condicions de control del procés s’ajustin als requisits que s’estableixin per reglament.
+2. Qualsevol modificació dels processos utilitzats en la preparació de cèl·lules i teixits també ha de complir els criteris establerts en l’apartat 1.
+3. L’establiment de teixits ha d’incloure disposicions especials en els seus manuals de procediments relatius a la manipulació de les cèl·lules i els teixits de rebuig amb la finalitat d’evitar la contaminació d’altres cèl·lules i teixits, de l’entorn de processament i del personal.

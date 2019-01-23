@@ -1,0 +1,6 @@
+# Article 4. Principis generals de la donació i de la utilització de SOH
+1. L’obtenció i la utilització de substàncies d’origen humà (SOH) s’han de dur a terme respectant el principi de precaució per prevenir i evitar riscos per a la vida i la salut.
+2. En l’obtenció i la utilització de SOH s’han de respectar els drets fonamentals de la persona i els postulats ètics que s’apliquen en la pràctica clínica i en la recerca biomèdica.
+3. Les donacions de SOH de donants vius o difunts han de ser voluntàries i no retribuïdes, respectant en tot moment la confidencialitat de la donació. L’obtenció de SOH s’ha d’efectuar sense ànim de lucre amb excepció de l’obtenció de cèl·lules i teixits per a conservació per a un ús autòleg eventual.
+4. El principi de no retribució no impedeix que els donants vius de cèl·lules, teixits i òrgans puguin rebre una compensació de la institució responsable de l’extracció, limitada només a cobrir les despeses i els inconvenients derivats de l’obtenció, en concepte de dietes, restitució d’ingressos econòmics perduts o similars.
+5. Els procediments mèdics relacionats amb l’extracció i la conservació de SOH no són, en cap cas, costosos per al donant viu, ni per a la família en el cas del donant mort. S’ha de garantir l’assistència del donant viu per al seu restabliment.

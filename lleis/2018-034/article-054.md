@@ -1,0 +1,5 @@
+# Article 54. Locals, material i instrumental
+1. La mida i la ubicació dels locals on s’instal·lin els centres de transfusió han de ser adequats per facilitar-ne l’ús, la neteja i la conservació correcta d’acord amb les normes d’higiene, i han de disposar d’espai, il·luminació i ventilació suficients per dur a terme les seves funcions.
+En els casos en què s’utilitzin unitats mòbils per a l’extracció de sang o components sanguinis, han de tenir les condicions idònies d’higiene, espai i ventilació per prestar assistència adequada als donants que puguin patir algun tipus de reacció adversa i evitar riscos en la sang o els components extrets, així com a l’equip encarregat de l’extracció.
+Els espais habilitats per fer les extraccions han de permetre preservar la intimitat del donant.
+2. El material i l’instrumental utilitzat en l’extracció, la preparació, la conservació i la distribució de la sang i els seus components s’han de sotmetre periòdicament a les operacions de neteja, manteniment i control de qualitat que corresponguin.

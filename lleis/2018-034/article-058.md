@@ -1,0 +1,2 @@
+# Article 58. Serveis de transfusió
+Els serveis de transfusió han de complir el que estableixen els articles anteriors en matèria de personal, persona responsable, creació i manteniment d’un sistema de qualitat, conservació de documentació, traçabilitat, notificació d’incidents i reaccions adverses greus, condicions d’emmagatzematge, transport i distribució de sang i protecció de dades i confidencialitat.

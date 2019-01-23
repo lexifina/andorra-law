@@ -1,0 +1,5 @@
+# Article 37. Traçabilitat de cèl·lules i teixits
+1. D’acord amb el que estableix l’article 6, hi ha d’haver traçabilitat de les cèl·lules i els teixits des que s’obtenen fins que s’apliquen en l’ésser humà o s’eliminen, i a la inversa. Aquesta traçabilitat es fixa a través de la documentació i de la utilització d’un codi únic.
+2. Els teixits i les cèl·lules utilitzats per als medicaments de teràpia avançada han de poder rastrejar-se de conformitat amb aquesta norma, almenys fins que siguin transferits a l’establiment fabricant de medicaments de teràpia avançada.
+3. Els establiments de teixits i les organitzacions responsables de la seva aplicació en humans han de conservar les dades que s’estableixin mitjançant reglament durant un mínim de trenta anys, en un mitjà de conservació adequat i llegible.
+4. En el cas dels teixits i les cèl·lules obtinguts de donant mort per equips d’obtenció que treballen per a més d’un establiment de teixits, s’ha de garantir un sistema de traçabilitat adequat.
