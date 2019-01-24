@@ -1,0 +1,5 @@
+# Article 134. Comissió negociadora
+1. La designació dels membres de la comissió negociadora correspon a les parts. Els membres designats elegeixen de mutu acord les persones que han d’actuar com a president i secretari. Les comissions negociadores poden tenir assessors amb veu però sense vot.
+2. Cadascuna de les parts, els representants dels assalariats o de les organitzacions sindicals, d’una banda, i els empresaris o els representants de les organitzacions empresarials, d’altra banda, pot estar representada pel nombre màxim de representants següents: cinc representants en les negociacions d’àmbit empresarial, d’acord amb l’article 144, set representants en les negociacions d’àmbit sectorial, i nou representants en les negociacions d’àmbit intersectorial.
+3. De cada reunió s’estén l’acta corresponent que han de signar els membres que actuïn com a president i secretari.
+4. El temps emprat pels representants dels assalariats en la negociació dels acords i els convenis col·lectius és remunerat com a temps de treball ordinari.

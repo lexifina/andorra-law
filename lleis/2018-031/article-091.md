@@ -1,0 +1,13 @@
+# Article 91. Desistiment justificat de la persona assalariada
+1. La persona assalariada pot rescindir unilateralment i sense preavís el contracte, sigui quina sigui la seva modalitat, en els supòsits següents:
+a) L’incompliment greu, o lleu però reiterat, per part de l’empresa de les mesures de seguretat i salut en el treball, o l’exposició de la persona assalariada a un risc superior a l’estricte que sigui inherent a l’exercici de la seva professió.
+b) L’exigència de realitzar funcions diferents de les estipulades, dins del seu grup professional, salvats els supòsits extraordinaris o d’urgència.
+c) La falta o els retards injustificats i reiterats en el pagament del salari.
+d) La manca d’afiliació de la persona assalariada a la Caixa Andorrana de Seguretat Social o el falsejament per part de l’empresa de les declaracions corresponents.
+e) L’incompliment greu del contracte per part de l’empresa.
+f) El perjudici dolós o per imprudència greu ocasionat per l’empresa o els seus representants a la persona assalariada.
+g) No donar ocupació efectiva a la persona assalariada, assignar-li tasques inferiors a les corresponents al seu grup professional, o sotmetre-la a assetjament laboral.
+h) En general, qualsevol acte de l’empresari o dels seus representants que de qualsevol manera sigui vexatori per a la persona assalariada, ofengui la seva dignitat com a persona, l’obligui a conculcar l’ordenament jurídic, o suposi una discriminació o una conducta constitutiva d’assetjament moral o sexual.
+2. El desistiment s’ha de fer amb exposició de la causa, mitjançant carta certificada amb avís de recepció o mitjançant l’entrega directa a l’empresari, que n’ha de signar la recepció amb la menció de la data, i si aquest es nega a signar, en presència de dos testimonis, o per conducte notarial.
+3. La concurrència de qualsevol dels supòsits esmentats dóna dret a la persona assalariada a exigir la indemnització prevista a l’article 92 per a l’acomiadament injustificat. La inexistència dels motius esmentats en aquest article pot ser considerada per l’empresa desistiment unilateral de la persona assalariada.
+4. Quan el desistiment tingui com a causa un acte de discriminació per raó de naixement, raça, sexe, orientació sexual, origen, religió, discapacitat, opinió o qualsevol altra condició personal, social o cultural, així com d’afiliació, o no, a una organització sindical o política, la persona assalariada pot optar per la indemnització esmentada al paràgraf anterior o bé exigir la reincorporació a l’empresa amb la reparació de l’acte discriminatori i la indemnització pel perjudici ocasionat, que fixa la jurisdicció corresponent.

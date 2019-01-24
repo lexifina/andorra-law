@@ -1,0 +1,5 @@
+# Article 32. Incapacitat temporal
+1. El contracte de treball queda en suspens durant el termini en què la persona assalariada es troba en situació de baixa mèdica, ja sigui per causa de malaltia o per accident, ja sigui per causa d’accident de treball o malaltia professional. La persona assalariada ha de comunicar a l’empresa, directament o mitjançant una persona degudament mandatada, en el termini màxim de 48 hores, la situació de baixa mèdica, les renovacions eventuals de la baixa mèdica i l’alta mèdica. La suspensió del contracte de treball s’acaba un cop obtinguda l’alta mèdica del metge tractant o l’alta administrativa o mèdica comunicada per la Caixa Andorrana de Seguretat Social.
+2. A l’efecte del càlcul d’antiguitat a l’empresa, el termini de suspensió per raó d’incapacitat temporal es computa sempre. Per meritar vacances, es computa de la manera següent:
+a) En el supòsit de baixa mèdica per causa d’accident de treball o malaltia professional, es computa tot el període.
+b) En els supòsits de baixa mèdica per causa de malaltia comuna o accident que no sigui de treball, només es meriten vacances durant els primers quatre mesos de la baixa mèdica.

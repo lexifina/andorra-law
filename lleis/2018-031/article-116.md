@@ -1,0 +1,6 @@
+# Article 116. Mesa electoral
+1. A les empreses que tenen entre 11 i 30 assalariats es constitueix una mesa electoral amb un únic col·legi electoral.
+A les empreses amb més de 30 assalariats en què s’han d’elegir els membres del comitè d’empresa, es constitueix una mesa electoral per cada 150 assalariats amb dret de sufragi o fracció d’aquest nombre, per cada col·legi electoral, un que integra els comandaments, els tècnics i els administratius, i un altre que integra la resta d’assalariats.
+2. La mesa està composta per tres membres: la persona assalariada de més antiguitat a l’empresa, que ocupa la presidència, i els assalariats de més i menys edat, que són els vocals. La persona assalariada de menys edat actua com a secretari. Es designen com a suplents els qui els segueixen en l’ordre fixat d’antiguitat o edat. Els components de la mesa no poden ser candidats. Si un component de la mesa vol ser candidat, l’ha de substituir el suplent que correspongui segons el cas.
+3. En les eleccions de membres del comitè d’empresa i de delegats dels assalariats cada candidat pot nomenar un interventor per mesa, perquè assisteixi a la votació i a l’escrutini.
+4. L’empresa pot designar un interventor per mesa, perquè assisteixi a la votació i a l’escrutini.

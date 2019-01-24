@@ -1,0 +1,3 @@
+# Article 42. Disposicions generals per suspensió de contracte
+1. La persona assalariada que en el termini màxim de tres dies laborables, exhaurit el període de suspensió del contracte de treball regulat en aquest capítol, no es reincorpori a la seva empresa, es considera desistida de forma unilateral del contracte de treball.
+2. Durant el període de suspensió del contracte de treball regulat en aquest capítol, la persona assalariada interessada no pot exercir cap activitat laboral, per compte propi o d’altri, ni directament ni indirectament, llevat que obtingui l’autorització escrita de l’empresa a excepció del cas fortuït o de força major.

@@ -1,0 +1,3 @@
+# Article 61. Descans setmanal
+1. La persona assalariada té dret, com a mínim i en tots els casos, a una jornada completa de descans setmanal, que és obligatòria i irrenunciable.
+2. El període de descans setmanal només pot ser modificat per acord entre les parts. Excepcionalment, per raons extraordinàries o de força major, l’empresa pot modificar-lo, avisant amb una antelació mínima de 24 hores. També pot modificar-lo de forma excepcional per motius d’organització, sempre que no es produeixin més de dues modificacions en un termini de dotze mesos, avisant amb una antelació mínima de trenta dies naturals.

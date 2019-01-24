@@ -1,0 +1,5 @@
+## Secció segona. Contracte d’aprenentatge o formació
+# Article 24. Contracte d’aprenentatge o formació
+1. S’entén per contracte d’aprenentatge o formació el contracte mitjançant el qual l’empresari s’obliga a ensenyar de manera teòrica, tècnica i pràctica un ofici o un treball a un menor d’edat, a un menor o un major d’edat amb discapacitat, o a un major d’edat que necessiti formar-se per incorporar-se novament al mercat de treball en una professió o activitat diferent de la que ha desenvolupat anteriorment o que necessiti formar-se en noves tècniques o competències de la mateixa professió o activitat, utilitzant l’empresari el treball de l’aprenent, a qui ha de retribuir, i tenint una especial cura en l’elecció de les tasques encomanades a l’aprenent, de manera que es puguin dur a terme amb seguretat.
+2. Les normes d’aquesta secció són aplicables als contractes d’aprenentatge o formació que no estiguin regulats per una normativa específica.
+3. La durada, la forma, les prestacions i les altres particularitats relatives al contracte d’aprenentatge o formació es regeixen per la normativa reglamentària que determini el Govern.

@@ -1,0 +1,4 @@
+# Article 131. Criteri de representativitat
+1. Les organitzacions sindicals i empresarials més representatives, d’acord amb el que s’estableix en la Llei qualificada d’acció sindical i patronal, representen els assalariats i els empresaris, respectivament, en la negociació dels convenis col·lectius intersectorials.
+2. Les organitzacions sindicals i empresarials més representatives i representatives, d’acord amb el que s’estableix en la Llei qualificada d’acció sindical i patronal, representen els assalariats i els empresaris, respectivament, en la negociació dels convenis col·lectius sectorials i dels acords col·lectius sectorials.
+3. Els delegats dels assalariats, els membres del comitè d’empresa o, si és el cas, els assalariats amb mandat i els empresaris, representen els assalariats i els empresaris, respectivament, en la negociació dels acords i convenis col·lectius d’empresa.

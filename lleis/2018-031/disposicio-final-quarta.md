@@ -1,0 +1,2 @@
+# Disposició final quarta
+Per derogació de l’article 21.1 de la Llei 1/2018, de l’1 de març, del pressupost per a l’exercici del 2018, s’autoritza el Govern a crear les places d’agents de l’Administració amb caràcter indefinit que siguin necessàries per assumir convenientment les noves competències atribuïdes per aquesta Llei al ministeri competent en matèria de treball i al departament competent en matèria de treball.

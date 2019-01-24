@@ -1,0 +1,3 @@
+# Article 105. Dret de reunió en assemblea
+1. Els assalariats d’una mateixa empresa tenen dret a reunir-se en assemblea, la qual pot ser convocada pel comitè d’empresa, pels delegats dels assalariats, pels assalariats amb mandat o per un terç dels assalariats amb dret de sufragi.
+2. La reunió en assemblea s’ha de realitzar als locals de l’empresa, quan això sigui possible, després de la comunicació prèvia escrita a l’empresari amb una antelació mínima de 72 hores, i fora de l’horari de treball. Tan sols s’hi poden tractar els assumptes que hagin estat inclosos en l’ordre del dia de la convocatòria, llevat del que preveu l’article 112.2.

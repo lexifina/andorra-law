@@ -1,0 +1,5 @@
+## Secció tercera. Altres modalitats específiques de contractes
+# Article 25. Contracte d’inclusió sociolaboral
+1. El Govern ha de fomentar la contractació de persones que pertanyen a col·lectius amb dificultats específiques per accedir a llocs de treball o que es troben en situació o risc d’exclusió social. Amb aquesta finalitat, el ministeri competent en matèria de treball pot autoritzar contractes d’inclusió sociolaboral per treballar en empreses ordinàries o empreses d’inclusió sociolaboral que incloguin les mesures de suport i les adaptacions necessàries per garantir a aquestes persones el dret al treball, en els termes que s’estableixin per reglament.
+2. Als efectes d’aquesta Llei, es considera empresa d’inclusió sociolaboral la que porta a terme qualsevol activitat econòmica que té com a finalitat primordial la inclusió sociolaboral de persones en situació o risc d’exclusió social, i que compleixin els altres requisits que s’estableixin reglamentàriament.
+3. Per fer efectives les contractacions a què fa referència l’apartat 1 anterior, els ministeris competents en matèria de treball i d’afers socials han de coordinar les accions i els suports escaients.

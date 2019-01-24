@@ -1,0 +1,8 @@
+# Article 120. Desenvolupament del procés electoral
+1. L’acte de la votació s’efectua a les dependències habilitades per l’empresa dins les seves instal·lacions, durant la jornada laboral.
+2. El vot és lliure, secret, personal i directe.
+3. Les paperetes, que són facilitades per l’empresa, han de contenir la totalitat dels candidats proclamats per cada col·legi electoral, ordenats per ordre alfabètic; al costat dels noms i cognoms hi ha de constar la seva afiliació sindical o la condició d’independent o no afiliat, amb la mateixa tipografia per a tots, i es dipositen en un sobre tancat en urnes precintades.
+4. Cada elector pot votar, entre tots els candidats de la llista continguda a les paperetes, fins a un màxim equivalent als llocs que s’han de cobrir en el col·legi electoral al qual pertany, marcant amb una “x” el nom dels candidats que vol elegir. Si la papereta conté més candidats marcats dels que corresponen, es considera nul·la.
+5. Es prohibeix la delegació del vot. El vot es pot dipositar de manera anticipada a la mesa electoral fins el dia abans de la data de la votació, d’acord amb el que hagi previst la mesa.
+6. L’empresa ha de facilitar els mitjans per al desenvolupament normal de la votació i de la resta del procés electoral. També pot organitzar la manera en què els assalariats han d’exercir el dret de sufragi per tal que es pertorbi el menys possible el funcionament normal de l’empresa.
+7. El ministeri competent en matèria de treball vetlla perquè el procés se celebri amb les garanties degudes i es compleixin i respectin els drets laborals, i pot dictar les disposicions necessàries a aquest efecte.

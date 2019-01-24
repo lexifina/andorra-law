@@ -1,0 +1,7 @@
+# Article 74. Salaris en efectiu i en espècie
+1. Si s’estableix una part del salari en espècie, la part de salari que s’ha de percebre en efectiu mai pot ser inferior al salari mínim.
+2. La pensió alimentària i l’allotjament proveït per l’empresa formen part del salari. El seu valor en diners, que no pot ser d’una quantia superior al 25% del salari mínim, és determinat pel Govern en el moment de fixar el salari mínim.
+3. Llevat del supòsit de resolució de la relació laboral, no es pot efectuar la substitució per salari en efectiu de l’habitació o la pensió alimentària sense l’acord de les parts. Si en el moment de la contractació s’havien pactat avantatges materials i la persona assalariada no desitja continuar-ne gaudint, ha de notificar a l’empresari amb un preavís de quinze dies naturals la seva voluntat de deixar-ne de gaudir i té dret a rebre’n el valor equivalent en salari en efectiu.
+4. El salari en espècie forma part del salari a l’hora de calcular altres aspectes retributius.
+5. Durant la suspensió del contracte per baixa mèdica, la persona assalariada té dret a gaudir de la pensió alimentària i de l’allotjament pactats, sempre que satisfaci a l’empresari el valor corresponent d’acord amb el que estableixi el Govern.
+6. En cas de resolució del contracte de treball per acomiadament no causal o per causes objectives, la persona assalariada pot continuar gaudint de l’allotjament proveït per l’empresa durant un període màxim de quinze dies naturals, amb la finalitat que pugui cercar un habitatge.

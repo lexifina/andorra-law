@@ -1,0 +1,11 @@
+# Article 27. Contracte de pràctiques formatives remunerades
+1. Per formalitzar el contracte de pràctiques formatives remunerades és necessari que es compleixin els requisits següents:
+a) Que l’estudiant estigui matriculat en un centre educatiu amb un pla d’estudis que inclogui la formació teòrica al centre i la pràctica a l’empresa.
+b) Que les seves funcions permetin a l’estudiant obtenir la pràctica professional adequada al pla d’estudis de la formació que cursa.
+c) Que l’estudiant no supleixi cap persona assalariada de l’empresa, i que tingui un tutor d’empresa.
+2. Les pràctiques formatives tenen lloc en les condicions següents:
+a) Els estudiants andorrans o estrangers titulars d’una autorització d’immigració matriculats en centres d’ensenyament autoritzats pel Govern, o en centres d’ensenyament estrangers radicats fora del Principat d’Andorra reconeguts oficialment com a centres de formació reglada, poden realitzar pràctiques formatives en el si d’una empresa o entitat pública o parapública per tal de complir la formació pràctica exigida en el pla d’estudis. Aquesta formació pràctica no pot tenir una durada superior al 60% del total de la formació, i les pràctiques han de ser remunerades, d’acord amb el que pactin les parts en el contracte.
+b) L’estudiant en pràctiques formatives ha d’acreditar que és beneficiari d’una assegurança pública o privada, de manera que sempre i en tot cas es trobi cobert en els supòsits de malaltia, accident i responsabilitat civil i, si escau, una assegurança que cobreixi els riscos inherents i específics de les pràctiques formatives.
+3. En cas de treballs perillosos, s’ha de nomenar una persona encarregada de la seguretat de l’estudiant de conformitat amb l’article 23.4.
+4. La formalització del contracte i la documentació necessària per a la realització de les pràctiques formatives es fa d’acord amb la normativa reglamentària que determini el Govern.
+5. Resten exclosos de la regulació del contracte de pràctiques formatives els contractes d’estudiants estrangers que efectuïn les pràctiques a Andorra en virtut de convenis d’intercanvi formatiu signats i tutelats pel ministeri competent en matèria d’educació i els organismes oficials estrangers, que es regeixen pel conveni corresponent.

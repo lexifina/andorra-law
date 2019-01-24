@@ -1,0 +1,2 @@
+# Article 48. Treball en exclusiva
+Es pot pactar la dedicació exclusiva a l’empresa mentre duri la relació laboral, amb prohibició que la persona assalariada treballi per a una altra empresa o autònomament. En aquest cas, s’ha de fer constar la compensació econòmica que es pacti per la dita exclusivitat, la qual no pot ser inferior al 15% del salari fix. La prima d’exclusivitat té la consideració de salari.

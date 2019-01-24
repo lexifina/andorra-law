@@ -1,0 +1,5 @@
+# Article 37. Descans per risc durant l’embaràs
+1. La relació laboral queda en suspens en el cas que l’assalariada embarassada es trobi en situació de baixa mèdica per risc, degudament acreditat, durant l’embaràs.
+2. Poden gaudir d’aquesta baixa mèdica les assalariades que es puguin acollir al que disposa l’article 31.3 de la Llei 34/2008 del 18 de desembre, de la seguretat i la salut en el treball.
+3. El període de descans per risc durant l’embaràs inclou tot el període necessari per protegir-ne la seguretat o la salut i mentre persisteixi la impossibilitat que la dona embarassada es reincorpori a les seves funcions anteriors o a unes altres que siguin compatibles amb el seu estat o fins al moment del part que aleshores es transforma en descans per maternitat a partir de la data del part.
+4. El termini de suspensió per risc durant l’embaràs computa a efectes de vacances i del càlcul d’antiguitat a l’empresa i no altera cap de les condicions laborals de què disposa la mare abans del descans per risc durant l’embaràs.

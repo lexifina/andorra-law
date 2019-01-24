@@ -1,0 +1,12 @@
+# Article 30. Contracte de treball a distància o teletreball
+1. El treball a distància o teletreball es refereix a la forma d’organització d’una activitat laboral en la qual un treball que es pot realitzar dins els locals de l’empresa, s’efectua per la persona assalariada fora d’aquests locals de manera voluntària i utilitzant les tecnologies de la informació i de la comunicació.
+2. Qualsevol persona assalariada pot ser contractada a través de qualsevol tipologia de contracte mitjançant la modalitat del treball a distància o teletreball. La persona assalariada té el dret a percebre la retribució total establerta d’acord amb el seu grup professional i té els mateixos drets i deures que les persones assalariades que presten els seus serveis dins els locals de l’empresa, excepte els que siguin inherents a la realització del treball de manera presencial.
+3. El contracte de treball a distància o teletreball s’estableix en el marc d’un conveni col·lectiu o mitjançant un reglament intern de l’empresa. A manca de conveni col·lectiu o reglament intern, es pot establir mitjançant un acord entre la persona assalariada i l’empresari.
+4. El treball a distància o teletreball es pot constituir en el moment inicial de la contractació o posteriorment i, en tot cas, caldrà que l’empresari informi d’aquest canvi de modalitat contractual a la Caixa Andorrana de Seguretat Social.
+5. Per poder establir el treball a distància o teletreball, la persona assalariada i l’empresari han de convenir com a mínim i per escrit:
+a) Les modalitats d’execució de l’organització del treball a distància o teletreball per part de la persona assalariada.
+b) Les modalitats de control del temps de treball o de regulació de la càrrega de treball.
+c) La determinació de les franges horàries en què l’empresari pot contactar amb la persona assalariada.
+d) Les condicions de reversibilitat del treball a distància o teletreball en el treball dins els locals de l’empresa.
+6. El refús per part de la persona assalariada d’acceptar la modalitat de treball a distància o teletreball no és motiu d’extinció, suspensió o modificació del contracte de treball inicial.
+7. L’accident esdevingut en el lloc on la persona assalariada executa el treball a distància o teletreball durant l’exercici de la seva activitat professional es presumeix un accident de treball, d’acord amb el que estableix la Llei de la Seguretat Social.

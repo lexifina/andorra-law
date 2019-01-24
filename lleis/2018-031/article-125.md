@@ -1,0 +1,2 @@
+# Article 125. Definició
+La negociació col·lectiva consisteix en el procés a través del qual els representants dels assalariats i els empresaris o els seus representants, incloses si escau les organitzacions sindicals i empresarials, en virtut de la seva autonomia col·lectiva, acorden les mesures reguladores tant pel que fa a les condicions de treball i de productivitat, com pel que fa a les relacions entre empresaris i assalariats i les seves organitzacions respectives.

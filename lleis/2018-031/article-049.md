@@ -1,0 +1,4 @@
+# Article 49. Seguretat i salut en el treball
+1. La persona assalariada té dret a una protecció eficaç en matèria de seguretat i salut en el treball i, ensems, té l’obligació de realitzar la seva tasca d’acord amb la normativa vigent en la matèria.
+2. L’incompliment de les obligacions en matèria de prevenció de riscos per part de la persona assalariada té la consideració d’incompliment laboral de caràcter lleu, greu o molt greu, segons les circumstàncies, als efectes previstos al títol III.
+3. L’incompliment molt greu, greu, o lleu però reiterat, per part de l’empresa de les seves obligacions de garantir la seguretat i la salut de la persona assalariada, de conformitat amb la normativa vigent en la matèria, pot donar lloc al desistiment justificat de la persona assalariada previst a l’article 91.

@@ -1,0 +1,4 @@
+# Article 38. Víctima de violència de gènere
+1. La relació laboral queda en suspens fins a un màxim de tres mesos en el cas que la persona assalariada sigui víctima de violència de gènere. Aquest termini pot ser ampliat per decisió de l’autoritat judicial competent.
+2. La persona assalariada ha de notificar en el termini de tres dies naturals a l’empresari, directament o per persona mandatada, la seva absència al treball a causa de ser víctima de violència de gènere, acreditant aquesta circumstància mitjançant la denúncia interposada davant l’autoritat competent i l’informe facultatiu corresponent, o a través d’un informe del Servei especialitzat d’atenció a les dones víctimes de violència de gènere.
+3. Aquest termini de suspensió computa a efectes de vacances i del càlcul d’antiguitat a l’empresa.

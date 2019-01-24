@@ -1,0 +1,6 @@
+## Secció primera. Negociació dels acords i els convenis col·lectius
+# Article 133. Capacitat jurídica i legitimació per negociar i obligar-se
+1. La iniciativa de la negociació d’un conveni col·lectiu sectorial o intersectorial o d’un acord col·lectiu sectorial correspon a la representació dels assalariats i dels empresaris.
+La iniciativa de la negociació d’un acord o un conveni col·lectiu d’empresa correspon a la representació dels assalariats i als empresaris.
+2. Són reconeguts com a part i tenen capacitat jurídica per negociar i obligar-se mitjançant un conveni col·lectiu sectorial o intersectorial o un acord col·lectiu sectorial els representants de les organitzacions sindicals i empresarials, d’acord amb el que estableix la Llei qualificada d’acció sindical i patronal.
+Són reconeguts com a part i tenen capacitat jurídica per negociar i obligar-se mitjançant un acord o un conveni col·lectiu d’empresa els delegats dels assalariats, el comitè d’empresa o si escau, els assalariats amb mandat escollits amb aquesta finalitat en una assemblea convocada a aquest efecte i que hagin obtingut com a mínim la meitat més un dels vots dels assalariats electors, d’una banda, i l’empresari d’altra banda.

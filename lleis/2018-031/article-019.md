@@ -1,0 +1,3 @@
+# Article 19. Contracte per a treballs de curta durada
+1. El contracte per a treballs de curta durada és el que es pacta per contractar assalariats per a activitats de curta durada, que en cap cas no pot excedir trenta dies naturals consecutius dins el període d’un any. Aquest contracte s’ha de notificar a la Caixa Andorrana de Seguretat Social. En cas de contractar assalariats que no tenen una autorització d’immigració de treball vigent, cal comunicar-ho al Servei d’Immigració abans que comenci la relació laboral.
+2. Els assalariats contractats per a activitats de curta durada tenen els mateixos drets i les mateixes obligacions que la resta d’assalariats.

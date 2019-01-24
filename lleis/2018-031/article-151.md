@@ -1,0 +1,2 @@
+# Article 151. Adhesió
+Les parts concernides en un procés de negociació col·lectiva poden, de mutu acord, adherir-se a la totalitat o a una part d’un acord o un conveni col·lectiu vigent, sempre que no existeixi un altre acord o un altre conveni col·lectiu que els sigui aplicable. En aquest cas, ho comuniquen per escrit al Departament de Treball a l’efecte de registre i publicitat. A manca de comunicació, l’adhesió no té efecte.

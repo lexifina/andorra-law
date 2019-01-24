@@ -1,0 +1,6 @@
+# Article 6. Període de prova
+1. En cas que es pacti un període de prova, s’ha de fer constar al contracte, sigui quina sigui la durada o la modalitat, i no pot ser superior a dos mesos, excepte en els casos establerts en aquest article o en el conveni col·lectiu aplicable.
+2. Si el salari pactat és igual o superior a tres vegades el salari mínim vigent, el període de prova es pot fixar per un termini màxim de tres mesos, i si el salari pactat és igual o superior a cinc vegades el salari mínim vigent, el període de prova es pot fixar per un termini màxim de sis mesos.
+3. No és possible pactar un període de prova si la persona assalariada ja ha estat contractada anteriorment per l’empresa en un lloc de treball de les mateixes característiques, en els tres anys anteriors, independentment de la durada de la relació laboral anterior.
+El temps treballat durant el període de prova computa, a tots els efectes, en l’antiguitat de la persona assalariada a l’empresa, sempre que la persona assalariada superi el període de prova.
+4. Durant el període de prova tant la persona assalariada com l’empresari poden resoldre lliurement i en qualsevol moment el contracte establert, sempre que es faci per escrit i de manera fefaent.
