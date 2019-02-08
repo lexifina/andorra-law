@@ -1,0 +1,2 @@
+# Disposició transitòria segona. Càlcul del complement d’antiguitat
+Als funcionaris i agents de l’Administració de caràcter indefinit que es trobin en situació de servei actiu en el moment d’entrada en vigor d’aquesta Llei no se’ls comença a aplicar el còmput del complement d’antiguitat per quinquennis que estableix la lletra f) de l’article 77 fins que hagin completat el període que es trobi en curs. El període en curs es computa, encara, d’acord amb el sistema de triennis vigent amb anterioritat.

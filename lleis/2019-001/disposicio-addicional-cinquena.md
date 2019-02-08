@@ -1,0 +1,2 @@
+# Disposició addicional cinquena. Integració del personal del SAAS del Programa d’atenció domiciliària
+Adquiriran la condició de treballadors públics indefinits, en els termes previstos en aquesta Llei, el personal del Servei Andorrà d’Atenció Sanitària (SAAS) que formava part del Programa d’atenció domiciliària i que ha estat integrat al Govern l’1 de juliol del 2017, en aplicació de la Llei 6/2014, del 24 d’abril, de serveis socials i sociosanitaris, i del conveni signat el 29 de juny del 2017 entre el Govern i el Servei Andorrà d’Atenció Sanitària (SAAS).

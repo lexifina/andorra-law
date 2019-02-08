@@ -1,0 +1,2 @@
+# Article 60. Acords i convenis per a formació
+Per aconseguir els objectius de formació esmentats a l’article 58, el ministre competent en matèria de funció pública, o el responsable del Departament de Funció Pública, amb l’autorització prèvia del ministre competent en matèria de funció pública i, si escau, del Govern, poden subscriure acords o convenis amb altres entitats i persones públiques i privades, nacionals o estrangeres, tot respectant quan sigui el cas els requisits establerts per als tractats internacionals.

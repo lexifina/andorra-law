@@ -1,0 +1,6 @@
+## Secció tercera. Igualtat d’oportunitats
+# Article 45. Igualtat d’oportunitats
+1. L’Administració general ha de garantir la igualtat d’oportunitats en totes les etapes laborals a totes les persones que hi treballin, segons els principis d’igualtat i de no-discriminació que proclama la Constitució i les lleis que desenvolupen la defensa d’aquests principis.
+2. L’Administració general ha d’adoptar les mesures adients per donar plena accessibilitat a totes les persones interessades a fer les proves o entrevistes corresponents als processos de selecció o de mobilitat interna i d’accés a la formació, i ha d’utilitzar sistemes d’avaluació de l’acompliment accessibles i que no discriminin la persona avaluada per raó de les seves característiques personals.
+3. L’Administració general reserva un 2% de les places previstes en cada exercici pressupostari perquè les cobreixin preferentment persones discapacitades, a condició que superin el procés de selecció i que puguin desenvolupar les condicions del lloc de treball; en aquest cas, tenen prioritat per ocupar la plaça encara que hi hagi altres candidats amb millors puntuacions finals.
+4. L’Administració general ha de dur a terme accions dirigides a adaptar el lloc de treball a les característiques i les necessitats de les persones amb discapacitat.

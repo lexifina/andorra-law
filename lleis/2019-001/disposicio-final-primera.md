@@ -1,0 +1,2 @@
+# Disposició final primera. Caràcter de llei qualificada
+Els articles de la Secció primera i tercera del capítol tercer del títol II, que regulen el sistema de provisió de places; la Disposició addicional cinquena que estableix la integració de determinat personal del SAAS, i la disposició derogatòria tenen caràcter de llei qualificada. La resta de disposicions d’aquesta Llei tenen caràcter de llei ordinària.

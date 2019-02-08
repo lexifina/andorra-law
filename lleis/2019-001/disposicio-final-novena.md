@@ -1,0 +1,2 @@
+# Disposició final novena. Textos refosos
+S’encomana al Govern que en el termini màxim de sis mesos des de l’entrada en vigor d’aquesta Llei publiqui al Butlletí Oficial del Principat d’Andorra el text refós de la Llei 5/2004, del 14 d’abril, del Codi de Duana, de la Llei 32/2008, del 18 de desembre, del Cos de Banders, de la Llei 7/2017, del 20 d’abril, del Cos de Prevenció i Extinció d’Incendis i Salvaments del 30 d’octubre, i de la Llei 23/2014, del 30 d’octubre, qualificada de creació i de regulació del Pla de pensions de la funció pública.

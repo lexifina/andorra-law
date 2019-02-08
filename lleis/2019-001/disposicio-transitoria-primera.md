@@ -1,0 +1,4 @@
+# Disposició transitòria primera. Complement d’absorció
+Els funcionaris i agents de l’Administració de caràcter indefinit que perceben un complement d’absorció, per raó de les diferències retributives al seu favor derivades de l’aplicació del sistema anterior, mantindran aquest complement.
+El complement d’absorció, per la seva naturalesa, és compensable i absorbible, conforme als criteris que, d’acord amb els intervals retributius i el grau d’absorció, estableixi la Llei de pressupost per a cada exercici. La compensació i l’absorció esmentades es faran efectives amb els increments futurs dels conceptes del nou sistema, i quan es promocioni a places de llocs de treball de nivell superior al de la plaça de què cada persona sigui titular.
+El complement d’absorció ha de figurar a la nòmina amb aquest nom i es percep en tretze pagaments de la mateixa quantia.

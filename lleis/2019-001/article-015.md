@@ -1,0 +1,3 @@
+# Article 15. Integració dels funcionaris i dels treballadors públics en cossos
+1. Els funcionaris i els treballadors públics de l’Administració general s’integren en el Cos general o en els cossos especials segons la naturalesa de la seva prestació; en qualsevol dels casos, la integració esmentada implica l’adscripció a un lloc de treball classificat dins d’una família professional i vinculat a una plaça pressupostada.
+2. Les condicions de treball dels funcionaris i treballadors públics integrats en algun dels cossos especials es regeixen supletòriament per aquesta Llei i per les normes que la desenvolupen, en tot el que no estigui expressament regulat per la llei de creació del cos especial de què es tracti i per les normes que la desenvolupen.

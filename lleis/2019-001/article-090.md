@@ -1,0 +1,4 @@
+## Secció segona. Procediment disciplinari
+# Article 90. Òrgans competents
+1. Són competents per incoar un expedient disciplinari el superior jeràrquic de la persona expedientada, quan es tracti de conductes que es qualifiquin de faltes lleus; el director o responsable del departament al qual estigui adscrita, en el cas de conductes que es qualifiquin de faltes greus, i el ministre competent en matèria de funció pública, quan les conductes es qualifiquin de faltes molt greus.
+2. Són competents per resoldre l’expedient disciplinari el director o responsable del departament al qual estigui adscrit el funcionari o treballador públic o el càrrec de comandament equivalent, quan es tracti de faltes lleus; el ministre competent en matèria de funció pública, quan es tracti de faltes greus, i el Govern quan es tracti de faltes molt greus.

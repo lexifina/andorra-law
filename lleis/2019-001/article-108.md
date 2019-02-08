@@ -1,0 +1,7 @@
+# Article 108. Notificacions i suspensió per incapacitat temporal
+1. Les notificacions es practiquen per qualsevol mitjà que permeti tenir constància de la recepció per part de la persona expedientada o de qui la representi, inclosos els sistemes de comunicació interns de l’Administració, si permeten acreditar la recepció. L’acreditació de la notificació practicada s’incorpora a l’expedient.
+2. Per regla general, la notificació es practica al lloc de treball o al domicili de la persona expedientada.
+3. Quan la notificació es practica al domicili de la persona expedientada, si aquesta persona no es troba present en el moment del lliurament, se’n pot fer càrrec qualsevol altra persona que convisqui en el domicili i que faci constar la seva identitat.
+4. Quan la persona expedientada, o qui la representi, rebutja la notificació d’una actuació administrativa, se n’ha de deixar constància a l’expedient, juntament amb l’acreditació de dos testimonis. El rebuig de la notificació no impedeix la continuació del procediment.
+5. Quan la notificació personal resulta infructuosa, la notificació es practica mitjançant la publicació d’un anunci al Butlletí Oficial del Principat d’Andorra.
+6. La situació d’incapacitat temporal de la persona expedientada no impedeix la tramitació de l’expedient disciplinari, si està en condicions d’exercir la seva defensa. Altrament, s’ha de suspendre la tramitació del procediment fins que acabi aquella situació.

@@ -1,0 +1,2 @@
+# Disposició transitòria cinquena. Expedients disciplinaris en curs
+Els expedients disciplinaris que s’estiguin tramitant a la data d’entrada en vigor d’aquesta Llei es continuen regint per les disposicions de la Llei de la funció pública vigents a la data de la incoació de l’expedient, llevat que les disposicions substantives d’aquesta Llei sobre tipificació de les faltes i determinació de les sancions siguin més beneficioses per a la persona expedientada, en quin cas s’apliquen aquestes.

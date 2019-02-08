@@ -1,0 +1,2 @@
+# Disposició transitòria tercera. Complement de reconeixement de la funció directiva
+Els funcionaris i agents de l’Administració que, a l’entrada en vigor de la Llei, perceben un complement de reconeixement de la funció directiva, i els que en aquell moment ja hagin adquirit el dret a percebre’l quan es produeixi el seu cessament, d’acord amb la normativa anterior, tenen dret a percebre aquest complement fins a la data de pèrdua de la condició de funcionari o treballador públic.

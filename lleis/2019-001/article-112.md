@@ -1,0 +1,2 @@
+# Article 112. Cessament del personal interí
+Els treballadors públics interins perden la seva condició quan no calen els seus serveis, quan la plaça a la qual estan adscrits és ocupada per un funcionari o treballador públic de caràcter indefinit, pel transcurs del temps especificat en el nomenament, o en cas de renúncia. Perden també la seva condició quan s’acorda revocar-ne el nomenament, per manca de rendiment, per incapacitat manifesta, o per altra causa justificada, sempre prèvia audiència de l’interessat. El cessament del personal interí no genera dret a indemnització.

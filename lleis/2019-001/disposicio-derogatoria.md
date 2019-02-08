@@ -1,0 +1,3 @@
+# Disposició derogatòria
+1. Es deroga la Llei de la funció pública, el 15 de desembre del 2000, modificada posteriorment per la disposició final primera de la Llei 23/2014, del 30 d’octubre, qualificada de creació i de regulació del pla de pensions de la funció pública, i per la disposició final segona de la Llei 2/2017, del 9 de febrer, qualificada de modificació de la Llei 8/2004, del 27 de maig, qualificada del Cos de Policia, i totes aquelles altres disposicions de rang igual o inferior que s’oposin al que estableix aquesta Llei.
+2. Es deroga l’article 5 de la Llei 31/2008, del 18 de desembre, de mesures de reactivació econòmica.

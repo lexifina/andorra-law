@@ -1,0 +1,2 @@
+# Article 42. Gestió dels processos de provisió de places vacants o de nova creació
+El Departament de Funció Pública és l’òrgan responsable de gestionar el procés selectiu per proveir les places vacants o de nova creació de l’Administració general. Per nomenar els membres del Comitè Tècnic de Selecció que provenen del Departament al qual estigui adscrita la plaça a cobrir, demana una proposta al director o responsable del Departament.

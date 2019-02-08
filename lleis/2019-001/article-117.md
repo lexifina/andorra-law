@@ -1,0 +1,2 @@
+# Article 117. Nomenament i cessament d’un funcionari o treballador públic en règim de relació especial
+Quan la persona nomenada com a personal de relació especial té la condició de funcionari o treballador públic de caràcter indefinit, passa a la situació d’excedència amb reserva de plaça mentre dura la relació especial. Una vegada cessa com a personal de relació especial, el funcionari o treballador públic de caràcter indefinit es pot reintegrar a la plaça que ocupava anteriorment; el temps de servei prestat es computa com de servei actiu a tots els efectes.

@@ -1,0 +1,5 @@
+# Article 79. Avaluació de riscos laborals
+L’avaluació dels riscos laborals és el procés adreçat a valorar els riscos que no s’hagin pogut evitar, per tal d’obtenir la informació necessària perquè l’Administració general estigui en condicions de prendre una decisió adequada sobre la necessitat d’adoptar mesures preventives.
+Els elements i factors de risc s’identifiquen a partir de la informació que s’obtingui sobre l’organització, les característiques i la complexitat del treball, els materials i els equips de treball, i l’estat de salut de les persones que hi treballen.
+L’avaluació dels riscos s’ha d’efectuar mitjançant la intervenció de personal competent i s’ha d’actualitzar i revisar quan canviïn les condicions de treball. Els riscos s’han d’avaluar de forma regular per garantir la seguretat i la salut del personal funcionari i els treballadors públics, i en tot cas cada tres anys com a màxim.
+Si el resultat de l’avaluació ho requereix, l’Administració general ha de planificar l’activitat preventiva necessària amb la finalitat de garantir un nivell de protecció adequat de la seguretat i la salut del seu personal.
