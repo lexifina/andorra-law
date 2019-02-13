@@ -1,0 +1,2 @@
+# Article 7. Activitats
+La Fundació pot dur a terme serveis i activitats socials i mercantils, mitjançant convenis de col·laboració amb les administracions públiques i parapúbliques. Així mateix, pot desenvolupar altres activitats i serveis amb altres entitats o persones, públiques o privades, sempre que es facin en el marc de les seves finalitats estatutàries i no desvirtuïn la seva naturalesa com a entitat sense ànim de lucre.

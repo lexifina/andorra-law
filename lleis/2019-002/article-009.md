@@ -1,0 +1,5 @@
+# Article 9. Patrimoni
+El patrimoni de la Fundació està constituït pels recursos econòmics següents, amb els quals ha d’acomplir les seves finalitats:
+a) La dotació inicial de la Fundació, constituïda per la globalitat dels actius i passius provinents de la liquidació de l’Associació Escola Especialitzada Nostra Senyora de Meritxell.
+b) Els béns i els drets susceptibles de valoració econòmica que la Fundació obtingui o adquireixi després de constituir-se, com també els productes i els rendiments del seu patrimoni i de l’exercici de les seves activitats.
+c) Les aportacions, les herències, els llegats, les donacions, les subvencions, les aportacions dels benefactors i altres tipus de liberalitats de les entitats fundadores o de terceres persones, físiques o jurídiques, i públiques o privades, fetes després de la seva constitució. Amb aquest objectiu, la Fundació pot signar tota mena de convenis, acords i contractes, inclosos contractes de patrocini, amb persones o entitats, públiques o privades. Els contractes de patrocini poden cobrir esdeveniments puntuals o conjunts d’actuacions o activitats.

@@ -1,0 +1,5 @@
+# Article 23. Forma de deliberació i adopció dels acords
+1. El Patronat queda vàlidament constituït en primera convocatòria quan hi siguin presents o representats, com a mínim, les tres quartes parts dels patrons; i, en segona convocatòria, que es podrà fixar amb un mínim de trenta minuts després de la primera convocatòria, si es troben presents o representats com a mínim la meitat dels patrons.
+2. A les sessions del Patronat hi assisteix amb caràcter permanent el director general, amb veu però sense vot, excepte que el Patronat decideixi el contrari. També hi poden assistir, a criteri del mateix Patronat, amb veu però sense vot, els altres directius de la Fundació i les persones restants que el Patronat consideri convenient convidar-hi.
+3. Els acords es prenen per majoria simple dels patrons presents o representats a les sessions del Patronat, a excepció dels acords que requereixin una majoria qualificada per ser adoptats d’acord amb aquests estatuts.
+4. Els acords relatius a l’obertura i el tancament de serveis, programes o seccions, i el nomenament del director general, requereixen el vot favorable de la majoria absoluta dels patrons.

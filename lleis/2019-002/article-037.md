@@ -1,0 +1,4 @@
+# Article 37. Liquidació i destinació dels béns
+1. L’extinció de la Fundació comporta la liquidació dels seus actius i passius, de conformitat amb la normativa aplicable.
+2. Correspon al Patronat, amb la ratificació del Protectorat, determinar a què s’ha d’aplicar l’haver resultant, que es pot traspassar a una altra fundació, a una entitat pública o una altra entitat sense ànim de lucre amb uns fins similars als de la Fundació.
+3. En qualsevol cas, els terrenys integrants del patrimoni de la Fundació provinents de la donació modal objecte de l’escriptura autoritzada per l’antic notari del Principat d’Andorra Sr. Rossend Jordana i Besolí, el 30 de maig de 1973, sota el número 403 del seu protocol, continuen quedant subjectes a les condicions d’ús i disponibilitat contingudes en l’escriptura pública esmentada, i sempre han de tenir un destí benèfic.

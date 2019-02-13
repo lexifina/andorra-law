@@ -1,0 +1,3 @@
+# Article 5. Règim jurídic
+La Fundació es regeix pel dret vigent al Principat d’Andorra i, en particular, per la Llei de la Fundació Nostra Senyora de Meritxell. En el que no estigui regulat expressament per les disposicions d’aquesta Llei i sempre que no contradigui aquestes disposicions, la Fundació es regeix per la Llei 11/2008, del 12 de juny, de fundacions; per la legislació específica que li sigui aplicable per raó de la naturalesa de les activitats que desenvolupa; pels seus estatuts, i pels acords adoptats vàlidament pels seus òrgans decisoris.
+III. Finalitats, activitats i beneficiaris de la Fundació

@@ -1,0 +1,3 @@
+# Article 21. Règim de responsabilitat
+1. Els patrons són responsables davant la Fundació pels danys i perjudicis eventuals que causin per actes contraris a la normativa aplicable, així com per l’incompliment de les seves obligacions, amb concurrència de dol o culpa.
+2. L’acció per exigir la responsabilitat a què fa referència l’apartat 1 anterior, en nom de la Fundació, pot ser exercida d’acord amb la normativa aplicable, amb l’acord previ motivat del Patronat i sense la participació dels patrons afectats. També pot ser exercida pel Protectorat i pels patrons que hagin votat en contra o s’hagin absentat en la sessió en què s’aprovi l’acte lesiu que origina l’exigència de la responsabilitat.
