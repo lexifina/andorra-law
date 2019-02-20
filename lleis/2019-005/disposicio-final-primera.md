@@ -1,0 +1,2 @@
+# Disposició final primera
+S’encomana al Govern que, en el termini màxim de dos mesos des de l’entrada en vigor d’aquesta Llei, publiqui al Butlletí Oficial del Principat d’Andorra tots els estatuts del col·legis professionals existents que encara no hagin estat publicats i que siguin conformes a la normativa vigent. En el cas d’aquells estatuts que no siguin conformes a la normativa vigent, el Govern ha de comunicar al col·legi professional escaient les modificacions a dur a terme en el termini màxim de dos mesos des de l’entrada en vigor d’aquesta Llei.

@@ -1,0 +1,5 @@
+# Article 3. Modificació de l’article 15 de la Llei 6/2008, del 15 de maig, d’exercici de professions titulades i de col·legis i associacions professionals
+Es modifica l’apartat 3 de l’article 15 de la Llei 6/2008, del 15 de maig, d’exercici de professions titulades i de col·legis i associacions professionals, que queda redactat com segueix:
+“Article 15. Requisits de creació
+[…]
+3. El Govern ha d’emetre un informe sobre el projecte d’estatuts, després d’haver-ne efectuat el control de legalitat, en un termini màxim de tres mesos a comptar de la data de la presentació del projecte esmentat. Si l’informe és positiu, el Govern ha de trametre al Consell General el projecte de llei de creació del col·legi professional de què es tracti en el termini màxim d’un mes a comptar de la data d’emissió de l’informe. Una vegada aprovat el projecte de llei, i en el termini màxim d’un mes des de la seva entrada en vigor, el Govern ha de publicar al Butlletí Oficial del Principat d’Andorra els estatuts del col·legi professional.”
