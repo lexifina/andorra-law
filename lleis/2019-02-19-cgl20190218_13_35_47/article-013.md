@@ -1,0 +1,3 @@
+# Article 13. Obligacions dels usuaris del Servei d’Ocupació
+1. Les persones usuàries del Servei d’Ocupació han de col·laborar-hi facilitant en tot moment les dades, la documentació i la informació que se’ls pugui sol·licitar. Així mateix, estan obligades a presentar-se davant del Servei d’Ocupació quan siguin requerides en el marc dels programes i serveis dels quals siguin beneficiàries.
+2. Les empreses i altres entitats usuàries del Servei d’Ocupació estan obligades, a més, a formular les ofertes d’ocupació de manera clara i neutra, sense incórrer en cap contingut discriminatori, i a complir amb les exigències addicionals de contingut que s’estableixin reglamentàriament.

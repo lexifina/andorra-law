@@ -1,0 +1,2 @@
+# Article 28. Assessorament a les empreses en la contractació
+En el marc de les competències que té atribuïdes el Servei d’Ocupació, s’han de desenvolupar mesures a favor del teixit empresarial amb l’objectiu de millorar la contractació i, per tant, contribuir a elevar la qualitat de l’ocupació. Aquestes mesures han d’incloure eines d’informació, formació i assessorament que contribueixin a aquest objectiu, d’acord amb el que s’estableixi per la via reglamentària.

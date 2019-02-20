@@ -1,0 +1,2 @@
+# Article 53. Obligacions addicionals a la imposició de les sancions
+Sense perjudici de les sancions imposades, les empreses, els treballadors autònoms i les entitats col·laboradores estan obligats a retornar totalment o parcialment els beneficis obtinguts en concepte de mesures de foment de l’ocupació. Aquesta devolució s’acorda en el marc de l’expedient de revocació o revisió previst reglamentàriament.

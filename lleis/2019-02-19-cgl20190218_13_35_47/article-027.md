@@ -1,0 +1,2 @@
+# Article 27. Promoció del desenvolupament parroquial i de les zones allunyades
+El Servei d’Ocupació ha de desenvolupar accions i mesures adreçades a generar ocupació, fomentar l’activitat empresarial i dinamitzar i impulsar el desenvolupament econòmic en entorns parroquials específics. De manera especial, procura, a través dels instruments pertinents, la posada en marxa de projectes innovadors per millorar el mercat de treball a les parròquies, i, en especial, a les zones allunyades dels nuclis de població principals.

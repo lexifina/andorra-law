@@ -1,0 +1,3 @@
+# Article 40. Prescripció de les infraccions i les sancions
+1. Les infraccions molt greus prescriuen al cap de cinc anys; les greus, al cap de tres anys; i les lleus, al cap d’un any. El termini de prescripció es comença a comptar des del darrer dia en el qual s’ha comès la infracció.
+2. Les sancions imposades per les infraccions molt greus prescriuen al cap de tres anys; les imposades per infraccions greus, al cap de dos anys; i les imposades per infraccions lleus, al cap d’un any. El termini de prescripció es comença a comptar des de l’endemà del dia en què ha esdevingut ferma la resolució per la qual s’imposa la sanció.

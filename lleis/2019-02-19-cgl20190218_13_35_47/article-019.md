@@ -1,0 +1,4 @@
+# Article 19. Agents d’intermediació laboral
+1. Les tasques d’intermediació laboral són desenvolupades pel Servei d’Ocupació.
+2. No obstant el que preveu l’apartat 1 anterior, quan sigui necessari per a una adequada prestació del servei, es poden encomanar les funcions d’intermediació laboral a persones jurídiques andorranes, públiques o privades, amb capacitat i mitjans per dur a terme aquesta activitat, i que hagin estat acreditades i autoritzades degudament pel Govern, en els termes que s’estableixin reglamentàriament.
+3. El Govern pot establir acords de col·laboració amb serveis d’ocupació d’altres estats, i amb altres entitats públiques o privades estrangeres, per facilitar l’accés a demandes i ofertes de treball d’interès per al mercat de treball andorrà, tot respectant, quan sigui el cas, els requeriments establerts per als tractats internacionals.

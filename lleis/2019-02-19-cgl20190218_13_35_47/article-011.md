@@ -1,0 +1,5 @@
+## Capítol tercer. Usuaris i entitats del Sistema d’ocupació
+# Article 11. Usuaris del Servei d’Ocupació
+1. Són usuàries del Servei d’Ocupació les persones físiques que sol·liciten els seus serveis, tant si es troben en situació de desocupació com si estan ocupades, sempre que compleixin les condicions que s’estableixin reglamentàriament. D’entre les persones usuàries han de ser objecte d’atenció específica les persones amb discapacitat i les altres persones en situació de vulnerabilitat.
+2. També poden ser usuàries del Servei d’Ocupació les persones en situació de baixa mèdica superior a sis mesos. A aquest efecte, han d’aportar un certificat mèdic del facultatiu de la Caixa Andorrana de Seguretat Social que acrediti la compatibilitat de la seva situació amb el seguiment de programes de qualificació professional o altres de similars.
+3. També són usuàries del Servei d’Ocupació les empreses i altres entitats, amb independència de la seva forma jurídica, amb l’abast que prevegi la normativa reglamentària. A aquest efecte poden formular ofertes d’ocupació i tenen dret a sol·licitar els altres serveis que es determinin reglamentàriament.
