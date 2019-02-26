@@ -1,0 +1,2 @@
+# Disposició derogatòria
+Es deroga la disposició addicional quinzena de la Llei 17/2008, del 3 d’octubre, de la seguretat social, la qual va ser introduïda per l’article 14 de la Llei 25/2011, del 29 de desembre, de modificació de la Llei 17/2008, del 3 d’octubre, de la seguretat social, i modificada per l’article 6 de la Llei 9/2013, del 23 de maig, de modificació de les lleis 25/2011, del 29 de desembre, i 17/2008, del 3 d’octubre, de la seguretat social.
