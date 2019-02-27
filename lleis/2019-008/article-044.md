@@ -1,0 +1,2 @@
+# Article 44. Adaptació o canvi del lloc de treball per motius de salut
+S’apliquen als membres del Cos d’Educació les normes de la Llei de la funció pública sobre adaptació o canvi del lloc de treball per motius de salut. Quan l’adaptació del lloc de treball no és possible, s’ha d’adscriure el membre del Cos d’Educació a un lloc de treball del Cos General adequat a les seves condicions, amb preferència dins del ministeri competent en matèria d’educació i, si no és possible, de la resta de l’Administració general.

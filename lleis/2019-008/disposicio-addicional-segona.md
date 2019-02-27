@@ -1,0 +1,2 @@
+# Disposició addicional segona. Jubilació durant els sis darrers mesos del curs escolar
+Per excepció al que estableix l’apartat 1 de l’article 24, si en el moment en què el membre del Cos d’educació arriba a l’edat de jubilació obligatòria falten sis mesos o menys per a l’acabament del curs escolar, aquest i el ministre competent en matèria d’educació poden pactar la prolongació de la relació de treball fins a l’acabament del curs escolar.

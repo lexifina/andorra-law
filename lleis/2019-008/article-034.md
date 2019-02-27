@@ -1,0 +1,5 @@
+# Article 34. Reubicació
+El personal del Cos d’Educació pot ser reubicat en els supòsits i d’acord amb el procediment previstos per la Llei de la funció pública, amb les especificitats pròpies d’aquest cos especial, que es poden desenvolupar per reglament. Quan la reubicació no es faci dins del Cos d’Educació, o quan es reubiqui en una plaça d’un lloc de treball del Cos d’Educació un funcionari o un treballador públic indefinit que provingui del cos general o d’un altre cos especial, es tenen en compte les equivalències següents:
+a) Les famílies professionals de personal amb responsabilitat de gestió administrativa i/o pedagògica i d’inspectors d’educació es consideren equivalents a la família de comandaments del sistema de classificació professional del Cos General.
+b) La família professional de tècnics d’educació es considera equivalent a la família de tècnics del sistema de classificació professional del Cos General.
+c) La família professional de personal de suport educatiu es considera equivalent a les famílies professionals d’administratius i de manteniment i serveis tècnics del sistema de classificació professional del Cos General.

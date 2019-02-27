@@ -1,0 +1,9 @@
+# Article 28. Carrera professional horitzontal
+1. La carrera horitzontal és un itinerari de desenvolupament dins del mateix lloc de treball que pot comportar l’atribució de funcions associades, dona lloc a la progressió dins de la banda salarial corresponent al nivell de classificació del lloc de treball, i/o a l’atribució d’incentius de caràcter no salarial o la reducció de la càrrega horària. La progressió al llarg de la carrera horitzontal es duu a terme per mitjà del procediment d’avaluació de competències professionals.
+2. S’entén per competència professional una actuació o intervenció que mobilitza i integra un conjunt organitzat de recursos per resoldre amb èxit una situació professional complexa. Es reconeixen tres nivells de desenvolupament de les competències professionals:
+a) Nivell inicial: la persona exerceix la pràctica professional de manera correcta seguint habitualment de forma autònoma les instruccions que se li han proporcionat.
+b) Nivell consolidat: la persona és competent i autònoma en l’exercici de les conductes professionals i personalitza la seva intervenció.
+c) Nivell expert: la persona és un model professional reconegut, introdueix habitualment processos d’innovació i aconsegueix una pràctica professional d’alta qualitat.
+Cada nivell se subdivideix en graus. Els graus de desenvolupament professional, un cop assolits, són consolidables sense perjudici del que disposa la regulació sobre el règim disciplinari i sempre que no s’observi una regressió en el desenvolupament de les competències professionals per part del treballador públic indefinit.
+3. Qualsevol treballador públic indefinit es pot sotmetre voluntàriament a aquest procediment, des que assoleixi l’antiguitat en la plaça que es determini reglamentàriament.
+4. Els mecanismes de la carrera professional horitzontal es desenvolupen reglamentàriament.

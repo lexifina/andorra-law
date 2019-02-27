@@ -1,0 +1,2 @@
+# Disposició transitòria primera. Comissions de serveis en curs
+Les comissions de serveis acordades a l’empara del règim anterior i que es trobin en curs en el moment de l’entrada en vigor d’aquesta Llei poden ser prorrogades, amb el consentiment de la persona afectada, una o diverses vegades, però el termini total en règim de comissió de serveis, incloses les pròrrogues, no pot excedir els sis anys.

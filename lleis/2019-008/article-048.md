@@ -1,0 +1,4 @@
+# Article 48. Òrgans competents
+1. Són competents per incoar un expedient disciplinari: el superior jeràrquic de la persona expedientada, quan es tracti de conductes que es qualifiquin de faltes lleus; el director o responsable del departament al qual estigui adscrita la persona expedientada, en el cas de conductes que es qualifiquin de faltes greus, i el ministre competent en matèria d’educació, quan les conductes es qualifiquin de faltes molt greus.
+2. Són competents per resoldre l’expedient disciplinari: el director o responsable del departament al qual estigui adscrita la persona expedientada, quan es tracti de faltes lleus; el ministre competent en matèria d’educació, quan es tracti de faltes greus, i el Govern quan es tracti de faltes molt greus.
+3. L’instructor dels expedients disciplinaris ha de ser, sempre que sigui possible, un inspector educatiu, salvat que l’expedient s’adreci contra un altre inspector educatiu.

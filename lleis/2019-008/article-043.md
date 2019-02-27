@@ -1,0 +1,2 @@
+# Article 43. Compatibilitat d’altres activitats
+El personal que no treballa a temps complet i el personal interí amb nomenament per a un termini no superior a un any poden desenvolupar, fora del seu horari laboral, treballs remunerats per compte de tercers, sempre que no entrin en conflicte d’interès amb les seves funcions ni perjudiquin la bona imatge de l’Administració pública. Han de notificar-ho prèviament a l’àrea responsable dels recursos humans del ministeri competent en matèria d’educació perquè verifiqui que es compleixen aquestes condicions.
