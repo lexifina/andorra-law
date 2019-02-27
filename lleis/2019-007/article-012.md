@@ -1,0 +1,4 @@
+# Article 12. Informació sobre la biodiversitat
+1. La informació sobre la biodiversitat d’Andorra s’incorpora en una base de dades informàtica i/o en un sistema d’informació geogràfica, que s’actualitzen periòdicament. La creació i la gestió d’aquesta base de dades i del sistema d’informació geogràfica correspon al ministeri competent en matèria de medi ambient.
+2. Pel que fa a les espècies, aquesta base de dades informàtica i/o el sistema d’informació geogràfica s’estructuren en seccions corresponents als principals grups taxonòmics, i recullen la condició per a cada una, d’acord amb l’article 9.
+3. L’accés a aquestes informacions es fa seguint el procediment de consulta de documents establert per la legislació vigent. Excepcionalment, els documents i les informacions referits a la biodiversitat són confidencials quan el fet de divulgar-los pugui fer-ne perillar la protecció i quedi tècnicament justificat en les resolucions corresponents.

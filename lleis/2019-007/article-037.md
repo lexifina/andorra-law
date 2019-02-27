@@ -1,0 +1,4 @@
+## Títol VI. Protecció, gestió i ordenació del paisatge
+# Article 37. Política nacional del paisatge
+1. Es reconeix el paisatge com un component essencial de l’entorn de vida i del benestar individual i col·lectiu dels habitants del Principat d’Andorra, com l’expressió de la diversitat del seu patrimoni comú natural i cultural, i com un fonament de la seva identitat.
+2. L’actuació de les administracions i de la ciutadania s’ha d’orientar vers la preservació paisatgística del Principat i la conservació dels entorns agrícoles i urbans, inclosos els paisatges quotidians i els paisatges degradats, seguint els principis del desenvolupament sostenible. En aquest sentit, les actuacions de les administracions han de vetllar perquè la societat civil se sensibilitzi respecte del valor del paisatge, el seu paper i la seva transformació.

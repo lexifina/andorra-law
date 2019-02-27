@@ -1,0 +1,2 @@
+# Article 32. Establiment de servituds
+En els parcs i reserves naturals es poden constituir servituds forçoses de pas de persones o de vehicles i d’accés a xarxes de subministraments de serveis, quan siguin necessàries per al desenvolupament d’alguna de les activitats previstes en la seva norma de declaració i fins que sigui necessari aquest mateix servei. La constitució d’una servitud comporta la compensació dels danys o menyscabaments que es causin al propietari afectat.

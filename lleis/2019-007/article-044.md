@@ -1,0 +1,6 @@
+# Article 44. Regulació de l’aprofitament de certes espècies
+1. La recollida a la natura i l’aprofitament d’espècimens d’espècies silvestres han de ser compatibles amb el manteniment del seu estat de conservació favorable.
+2. Es poden declarar d’aprofitament regulat o prohibit les espècies o els grups d’espècies que, no sent la seva captura o recol·lecció objecte de regulació expressa, manifestin una particular sensibilitat a la forma, extensió o intensitat d’aquest aprofitament. Per tant, és necessari regular-ne l’aprofitament per tal de garantir-ne la sostenibilitat, o bé prohibir-lo per tal de vetllar per la conservació de l’espècie.
+3. La declaració d’una espècie d’aprofitament regulat o prohibit es fa per decret del Govern.
+4. Per a les espècies d’aprofitament regulat, el Govern, previ informe de la CENBA, pot establir una normativa específica en la qual es delimita la forma, l’extensió o la intensitat de l’aprofitament per tal que sigui sostenible. Així mateix, el Govern pot condicionar-ne la pràctica a l’obtenció d’autoritzacions expresses o prohibir-la en l’espai o en el temps.
+5. Per a les espècies d’aprofitament prohibit, aquesta prohibició s’estén a la recol·lecció, la captura, la mort, el deteriorament, la destrucció, la tinença, el comerç o la naturalització no autoritzada dels exemplars.

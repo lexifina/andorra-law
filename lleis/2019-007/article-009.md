@@ -1,0 +1,5 @@
+## Títol III. Conservació de la biodiversitat
+# Article 9. Principis d’actuació
+1. En les seves actuacions, les administracions han d’adoptar les mesures necessàries per garantir la conservació, la protecció i la recuperació de les espècies autòctones de flora i fauna que viuen en estat silvestre i dels seus hàbitats naturals, amb una atenció especial als hàbitats prioritaris.
+2. Les administracions han d’atorgar preferència a les mesures de conservació de les espècies en els seus hàbitats naturals, considerant, quan sigui necessari, l’adopció de mesures addicionals de conservació ex situ.
+3. El Govern, amb l’informe previ de la CENBA, estableix per via reglamentària els nivells de protecció de les espècies, que tindran les condicions d’espècie protegida, amenaçada, en perill d’extinció o extingida. Aquestes categories són acumulatives, i cadascuna pressuposa la classificació en la o les anteriors. Les qualificacions esmentades es poden aplicar tant a espècies com a subespècies, varietats o poblacions concretes, o bé a totes les espècies d’un determinat grup taxonòmic.

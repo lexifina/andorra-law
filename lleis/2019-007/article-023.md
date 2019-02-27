@@ -1,0 +1,4 @@
+# Article 23. Monuments naturals
+1. Els monuments naturals són espais de dimensió reduïda que han de ser protegits perquè són elements naturals de singularitat notòria, per la seva raresa o bellesa, amb valor científic, cultural o estètic.
+2. Es creen per via reglamentària amb l’acord previ preceptiu del comú de la parròquia on estan situats i amb l’informe previ de la CENBA que en justifiqui l’interès. La gestió dels monuments naturals és compartida entre el Govern i el comú de la parròquia on estan situats.
+3. La declaració d’un espai com a monument natural comporta necessàriament qualificar-lo com a zona de protecció natural en el pla d’ordenació i urbanisme parroquial corresponent, i queda inclòs en el catàleg de patrimoni nacional, d’acord amb l’article 46.2 de la Llei general d’ordenació del territori i urbanisme.

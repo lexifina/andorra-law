@@ -1,0 +1,2 @@
+# Article 5. Recerca
+El Govern impulsa la recerca aplicada a la conservació del medi natural en els àmbits que considera prioritaris per al Principat. En aquest marc pot establir convenis amb institucions de recerca, institucions científiques i amb entitats i associacions de protecció de la natura, degudament registrades, per tal de facilitar que s’executin les investigacions i els estudis necessaris.

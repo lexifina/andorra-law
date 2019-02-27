@@ -1,0 +1,2 @@
+# Article 61. Restabliment del dany a compte del responsable
+Les administracions públiques, d’acord amb les seves respectives competències, poden restablir el dany i la realitat física i biològica afectada a càrrec de la persona responsable de la infracció, sens perjudici d’aplicar el principi de repercussió econòmica en l’expedient sancionador de totes les despeses esmerçades en el procés de reparació i restabliment.

@@ -1,0 +1,4 @@
+# Article 6. Procediment d’avaluació ambiental
+1. Les actuacions, les planificacions i les activitats que puguin afectar espais naturals protegits o espècies amenaçades, s’han de sotmetre al procediment d’avaluació ambiental abans d’iniciar-les. Aquesta avaluació ha de preveure les mesures a aplicar per evitar que es produeixin pèrdues de la biodiversitat i dels serveis que aquesta biodiversitat procura. En cas que no es puguin evitar impactes, l’avaluació ha de preveure mesures per minimitzar-ne els efectes i compensar-ne els impactes, si escau.
+2. Aquest procediment s’integra en el marc del procediment d’autorització administrativa que correspon d’acord amb la normativa d’aplicació.
+3. Per garantir la pertinència científica, les empreses que realitzin estudis d’impacte ambiental i que assumeixin tasques de direcció de vigilància ambiental estan sotmeses als requisits i a les disposicions que es determinin per via reglamentària.

@@ -1,0 +1,7 @@
+# Article 22. Reserves naturals
+1. Les reserves naturals són menys extenses que els parcs naturals. Són espais de gran valor científic, la declaració dels quals té com a finalitat la protecció d’hàbitats, d’ecosistemes, d’espècies o de poblacions en el seu estat natural o d’altres elements biològics o geològics que, per la seva raresa, fragilitat, representativitat, importància o singularitat, mereixen una atenció especial.
+2. Les reserves naturals es classifiquen en:
+a) Reserves naturals integrals: són els espais en els quals la conservació dels seus valors no és compatible amb la intervenció humana aliena a fins científics.
+b) Reserves naturals parcials: són els espais en els quals la conservació dels seus valors no és compatible amb la intervenció humana aliena a fins científics o educatius, però pot ser-ho amb els usos tradicionals necessaris per a la preservació dels valors objecte de protecció.
+3. Les reserves naturals es creen per llei amb l’acord previ preceptiu dels comuns de les parròquies en els quals estan situades i amb l’informe previ de la CENBA que en justifiqui l’interès. La gestió de les reserves naturals és compartida entre el Govern i els comuns del territori en el qual estan situades.
+4. La declaració d’una zona com a reserva natural comporta necessàriament la qualificació de tota l’àrea com zona de protecció natural en el pla d’ordenació i urbanisme parroquial corresponent, d’acord amb l’article 46.1 de la Llei general d’ordenació del territori i urbanisme.

@@ -1,0 +1,2 @@
+# Article 26. Protecció preventiva durant la tramitació de l’expedient
+A partir de la publicació al Butlletí Oficial del Principat d’Andorra de l’acord d’incoació de l’expedient i durant la seva tramitació no es poden efectuar actes que suposin una transformació sensible de la realitat física o biològica de l’espai afectat que pugui fer impossible o dificultar de manera important la consecució dels objectius a què respon la futura declaració.

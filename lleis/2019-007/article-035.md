@@ -1,0 +1,3 @@
+# Article 35. Classificació general dels usos
+1. Els usos en un parc o en una reserva natural tenen la consideració de “permesos”, “autoritzables” o “no permesos”.
+2. Són “permesos” els usos o les activitats que per la seva pròpia naturalesa siguin compatibles amb els objectius de protecció de cada espai; són “autoritzables” els que sota determinades condicions poden ser tolerats pel medi natural sense un deteriorament apreciable dels seus valors; i són “no permesos” els que suposen un perill present o futur, directe o indirecte, per a l’espai natural o qualsevol dels seus elements o característiques.

@@ -1,0 +1,4 @@
+# Article 31. Règim financer
+1. Els recursos econòmics necessaris per gestionar els parcs i les reserves naturals són els que estableix la norma de declaració, d’acord amb l’article 27.
+2. Les administracions també poden contribuir a sufragar-ne la gestió, de manera directa o bé mitjançant programes específics. Qualsevol col·laboració ha de comptar amb el conveni corresponent, que ha de ser autoritzat per l’òrgan rector corresponent.
+3. Les organitzacions no governamentals, les entitats i les associacions i els privats en general poden participar en el manteniment dels parcs i les reserves naturals. En tot cas, però, s’ha de vetllar pel caràcter públic dels parcs i les reserves naturals, en particular en tot el que es refereix a la direcció, la vigilància i la gestió en general. Qualsevol col·laboració o aportació possible ha de comptar amb el conveni corresponent, que ha de ser autoritzat per l’òrgan rector corresponent.

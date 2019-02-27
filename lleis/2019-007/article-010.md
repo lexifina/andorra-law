@@ -1,0 +1,2 @@
+# Article 10. Salut i biodiversitat
+En el marc de l’ENBA i tenint en compte l’estreta relació que hi ha entre salut humana i biodiversitat, el Govern pot reduir i/o prohibir l’ús de certs productes químics utilitzats com a verins, pesticides, insecticides i herbicides i altres productes susceptibles d’interferir en la salut de les persones, la qualitat del medi ambient i la conservació de la biodiversitat, en particular dels insectes pol·linitzadors.
