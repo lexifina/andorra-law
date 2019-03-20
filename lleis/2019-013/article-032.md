@@ -1,0 +1,2 @@
+# Article 32. Programa d’inclusió social de les persones nouvingudes
+El Govern, a proposta dels ministeris responsables de la immigració i dels afers socials, ha d’aprovar amb una periodicitat quadriennal un programa d’inclusió social de les persones nouvingudes amb l’objectiu d’afavorir la seva integració en tots els àmbits de la vida social a través del foment de la interacció amb el seu entorn i el reconeixement del seu valor cultural i social.

@@ -1,0 +1,6 @@
+# Article 9. Assetjament discriminatori, assetjament sexual i assetjament per raó de sexe
+1. L’assetjament discriminatori és qualsevol comportament basat en alguna de les causes de discriminació que preveu aquesta Llei, amb l’objectiu o l’efecte d’atemptar contra la dignitat i la integritat física, psíquica o moral d’una persona i de crear-li un entorn intimidatori, hostil, degradant, humiliant o ofensiu.
+2. Sense perjudici del que disposa el Codi penal, als efectes d’aquesta Llei l’assetjament sexual es defineix com qualsevol comportament, verbal, no verbal o físic, de naturalesa sexual, adreçat contra una dona, que tingui la finalitat o produeixi l’efecte d’atemptar contra la seva dignitat i de crear-li un entorn intimidatori, hostil, degradant, humiliant o ofensiu.
+3. Constitueix assetjament per raó de sexe qualsevol comportament realitzat en funció del sexe o gènere femení, amb la finalitat o l’efecte d’atemptar contra la seva dignitat i de crear-li un entorn intimidatori, hostil, degradant, humiliant o ofensiu.
+4. El condicionament d’un dret o d’una expectativa de dret a l’acceptació d’una situació constitutiva d’assetjament sexual o d’assetjament per raó de sexe constitueix una conducta discriminatòria per raó de sexe.
+5. Constitueixen conductes discriminatòries per raó de sexe l’assetjament sexual i l’assetjament per raó de sexe.

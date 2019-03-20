@@ -1,0 +1,3 @@
+# Article 21. Mesures d’acció positiva
+1. Amb la finalitat de fer efectiu el dret a la igualtat de tracte i a la no-discriminació, els poders públics han d’adoptar mesures específiques a favor de determinats grups de persones o col·lectius per corregir i compensar una situació patent de desigualtat de fet i de discriminació en què es puguin trobar i, en particular, a favor de les dones i de les persones que integren els col·lectius relacionats a l’apartat 3 de l’article 2.
+2. Aquestes mesures han de ser raonables i proporcionades en relació amb la finalitat que pretenguin complir i, en tot cas, només resulten aplicables mentre persisteixi la situació de desigualtat i de discriminació que es pretén corregir.

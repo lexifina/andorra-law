@@ -1,0 +1,2 @@
+# Article 16. Victimització secundària
+La victimització secundària es defineix específicament com les conseqüències derivades d’una deficient o incompleta actuació dels serveis públics o per la omissió dels mateixos, en els que a la víctima se li provoca un greuge addicional al propi acte discriminatori o violent on la seva integritat moral, física, psicològica, política, social o laboral s’ha vist perjudicada. La victimització secundària necessita d’un pla integral que contingui reglaments i protocols d’actuació que la regulin.

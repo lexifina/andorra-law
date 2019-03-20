@@ -1,0 +1,3 @@
+# Article 26. Indemnització dels danys i perjudicis
+1. Quan la sentència declari l’existència de la vulneració del dret a la igualtat de tracte i a la no-discriminació, l’òrgan judicial ha de pronunciar-se sobre la quantia de la indemnització que correspongui a la part demandant, en funció tant del dany moral vinculat a la vulneració del dret fonamental com dels danys i perjudicis materials que se’n derivin.
+2. Un cop acreditada la situació de discriminació, es presumeix l’existència de dany moral, i s’ha de fixar la seva quantia atenent les circumstàncies concretes del cas i la gravetat de la conducta i dels seus efectes.

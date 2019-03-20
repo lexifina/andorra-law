@@ -1,0 +1,2 @@
+# Article 11. Violència de gènere envers les dones
+S’entén per violència de gènere envers les dones una violació dels drets humans i un tipus de discriminació contra les dones, i designa tots els actes de violència basats en el gènere que comporten o són susceptibles de comportar per a les dones danys o patiments de naturalesa física, sexual, psicològica o econòmica, incloent-hi l’amenaça de dur a terme aquests actes, i la coacció o la privació arbitrària de llibertat, tant en la vida pública com en la privada.

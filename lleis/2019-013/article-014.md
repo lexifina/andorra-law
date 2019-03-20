@@ -1,0 +1,4 @@
+# Article 14. Ordre de discriminar i represàlia discriminatòria
+1. S’entén per ordre de discriminar qualsevol instrucció duta a terme per una autoritat, un òrgan o un superior jeràrquic que impliqui la discriminació per alguna de les causes que preveu aquesta Llei.
+2. Constitueix una represàlia discriminatòria qualsevol tracte advers o efecte negatiu que es produeix contra una persona com a conseqüència de la presentació d’una queixa, reclamació, denúncia o recurs, de qualsevol tipus, adreçat a evitar, disminuir o denunciar qualsevol tipus de greuge o discriminació o l’assetjament al que la persona denunciant és sotmesa o ha estat sotmesa.
+3. També constitueix una represàlia discriminatòria qualsevol tracte advers o efecte negatiu que es produeixi contra una persona que col·labori o participi en un procediment iniciat arran d’aquesta queixa, reclamació, denúncia, demanda o recurs.

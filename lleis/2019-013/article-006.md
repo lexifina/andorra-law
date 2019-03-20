@@ -1,0 +1,4 @@
+## Capítol segon. Definicions bàsiques
+# Article 6. Discriminació directa i indirecta
+1. S’entén per discriminació directa qualsevol diferència de tracte menys favorable basada en una de les causes previstes en aquesta Llei i que manca de justificació objectiva i raonable, és a dir, que no persegueix una finalitat legítima o en què no hi ha proporcionalitat entre els mitjans emprats i la finalitat perseguida.
+2. S’entén per discriminació indirecta el fet que un factor aparentment neutre, com ara una norma, un criteri o una pràctica, no pugui ser respectat amb la mateixa facilitat per persones que pertanyen a un grup determinat per qualsevol de les causes previstes en aquesta Llei i els desafavoreixi, llevat que aquest factor tingui una justificació objectiva, raonable i proporcionada tal com es defineix a l’apartat anterior.

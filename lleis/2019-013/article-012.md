@@ -1,0 +1,3 @@
+# Article 12. Discriminació en l’accés a béns i serveis
+1. Constitueix discriminació en l’accés als béns i serveis el fet de donar a una persona o a un grup de persones un tracte diferent i desfavorable respecte a altres, en funció d’un o més trets o característiques o de la seva pertinença a un grup determinat a l’hora d’accedir a qualsevol bé o servei públic o privat, com ara en l’accés a l’habitatge, l’educació, la sanitat o als locals d’oci i de temps lliure.
+2. No constitueix discriminació en l’accés a béns i serveis els esdeveniments no-mixtes que pugui realitzar un col·lectiu determinat sempre i quan el seu objectiu sigui fomentar la no-discriminació en totes les formes previstes.

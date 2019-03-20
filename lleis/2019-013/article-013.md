@@ -1,0 +1,3 @@
+# Article 13. Principi d’igualtat retributiva per raó de sexe
+1. El principi d’igualtat retributiva per raó de sexe implica l’obligació de pagar per la prestació d’un treball d’igual valor la mateixa retribució, qualsevol que sigui la naturalesa d’aquesta retribució, sense que es pugui produir cap mena de discriminació per raó de sexe femení en cap dels elements o les condicions de la prestació esmentada.
+2. Són d’igual valor les feines que exigeixen de les persones treballadores un conjunt comparable de coneixements professionals, de capacitats i d’esforços, de responsabilitats, i de càrrega física, mental i psicosocial.

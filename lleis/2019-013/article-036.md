@@ -1,0 +1,2 @@
+# Article 36. Plataforma d’Entitats Socials
+El Govern, a proposta del ministeri responsable dels afers socials, ha de donar suport a la Plataforma d’Entitats Socials o a qualsevol altre tipus d’organització que aglutini i representi el sector social andorrà, com a instrument de participació i relació amb la ciutadania, les entitats socials i les administracions públiques, amb l’objectiu de disposar d’una xarxa estable de col·laboració i comunicació mútues.

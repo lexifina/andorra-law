@@ -1,0 +1,3 @@
+# Article 25. Inversió de la càrrega de la prova
+1. En els processos en què la part actora al·legui discriminació i aporti indicis fonamentats sobre la seva existència, correspon a la part demandada aportar una justificació objectiva i raonable, suficientment provada, de les mesures adoptades i de la seva proporcionalitat. A aquests efectes, l’òrgan judicial, d’ofici o a instància de part, pot demanar un informe dels organismes públics competents en matèria d’igualtat de tracte i no-discriminació.
+2. L’apartat anterior no és aplicable als processos penals ni als procediments administratius sancionadors.

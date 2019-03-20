@@ -1,0 +1,3 @@
+# Article 38. Concurrència d’actuacions amb la jurisdicció penal
+1. En els supòsits en què la conducta objecte d’una de les infraccions que regula aquesta Llei pugui ser constitutiva d’una infracció penal, l’Administració ha d’iniciar les accions penals que escaiguin i, al mateix temps, ha de suspendre la tramitació del procediment sancionador, la qual cosa interromp el còmput dels terminis de prescripció i caducitat, fins que recaigui una resolució ferma en l’àmbit penal.
+2. En qualsevol cas, la declaració de fets provats que pugui fer el tribunal penal és vinculant per a l’òrgan sancionador.

@@ -1,0 +1,11 @@
+# Disposició final segona. Modificació de la Llei de la jurisdicció administrativa i fiscal
+1. Es modifica l’article 23 de la Llei de la jurisdicció administrativa i fiscal, del 15 de novembre de 1989, el qual queda redactat en els termes següents:
+“Article 23. Legitimació activa
+1. Pot demandar legítimament davant la jurisdicció administrativa i fiscal:
+a) Qualsevol persona física o jurídica, pública o privada, en relació amb els actes sotmesos al control de la jurisdicció administrativa i fiscal segons l’article 1, lletra a, d’aquesta Llei.
+b) Qualsevol persona física o jurídica, pública o privada, que tingui un interès, dret o expectativa de dret vinculats amb els actes sotmesos a la jurisdicció administrativa i fiscal segons l’article 1, lletra b, d’aquesta Llei.
+c) L’Administració pública per obtenir la declaració de nul·litat de ple dret d’un acte administratiu, d’acord amb el Codi de l’Administració.
+2. Per a la defensa del dret a la igualtat de tracte i a la no-discriminació, també estan legitimades per intervenir, en nom i interès de les persones afiliades o associades, i sempre que comptin amb la seva autorització, les organitzacions sindicals i les associacions i organitzacions constituïdes legalment que tinguin com a finalitat primordial la defensa i la promoció de la igualtat de tracte i la no-discriminació i desenvolupin la seva activitat en el territori andorrà. No és necessària aquesta autorització quan les persones afectades són una pluralitat indeterminada o difícil de determinar, sense perjudici de la legitimació processal de les persones que puguin arribar a identificar-se com a afectades.”
+2. S’afegeix un nou article 44 bis a la Llei de la jurisdicció administrativa i fiscal, del 15 de novembre de 1989, el qual queda redactat com segueix:
+“Article 44 bis. Càrrega de la prova
+En els processos en què es justifiqui la concurrència d’indicis que s’ha produït una conducta lesiva dels drets fonamentals o de les llibertats públiques, o una conducta discriminatòria per algun dels motius prohibits per la Constitució i les lleis, correspon a la part demandada aportar una justificació objectiva i raonable, suficientment provada, de les mesures adoptades i de la seva proporcionalitat.”

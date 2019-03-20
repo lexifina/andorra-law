@@ -1,0 +1,2 @@
+# Article 17. Accions positives
+Es defineixen com a accions positives les mesures que suposen una diferència de tracte adreçada a corregir i compensar situacions patents de desigualtat de fet i de discriminació per alguna de les causes previstes en aquesta Llei. Aquestes mesures han de ser raonables i proporcionades en relació amb la finalitat que pretenguin complir i, en tot cas, només resulten aplicables mentre persisteixi la situació de desigualtat i de discriminació que es pretén corregir.
