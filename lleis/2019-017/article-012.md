@@ -1,0 +1,6 @@
+# Article 12. Modificació de l’article 13 de la Llei 8/2013, del 9 de maig, sobre els requisits organitzatius i les condicions de funcionament de les entitats operatives del sistema financer, la protecció de l’inversor, l’abús de mercat i els acords de garantia financera
+S’afegeix un nou paràgraf a l’apartat 3 i s’afegeix l’apartat 4 a l’article 13 de la Llei 8/2013, del 9 de maig, sobre els requisits organitzatius i les condicions de funcionament de les entitats operatives del sistema financer, la protecció de l’inversor, l’abús de mercat i els acords de garantia financera, que queda redactat de la manera següent:
+“Article 13. Gestió dels conflictes d’interès
+[…]
+3. […] Quan l’entitat sigui membre d’un grup, la política ha de tenir també en compte qualsevol circumstància que la dita entitat conegui o hagi de conèixer, en cas que pugui provocar un conflicte d’interès com a conseqüència de l’estructura i les activitats d’altres membres del grup.
+4. El Govern, a proposta del Ministeri de Finances, ha d’elaborar el reglament aplicable que estableixi les disposicions relatives als informes d’inversions i als requisits organitzatius addicionals quan una entitat operativa del sistema financer elabora i divulga informes sobre inversions.”

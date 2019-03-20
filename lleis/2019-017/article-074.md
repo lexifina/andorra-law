@@ -1,0 +1,3 @@
+# Article 74. Objecte i àmbit d’aplicació
+1. L’objecte d’aquest capítol és definir el règim aplicable als acords de compensació contractuals financers, així com als acords de garantia financera.
+2. Les normes d’aquest capítol s’apliquen a les operacions financeres que es porten a terme en el marc d’un acord de compensació contractual atorgat atenent els requisits establerts en l’article 77, i als acords de garantia financera, tant de caràcter singular com si formen part d’un acord marc, que compleixen els requisits i les formalitats establerts en l’article 78 i els apartats 1 i 2 de l’article 80, i a les garanties financeres prestades de conformitat amb el que disposen l’article 79 i els apartats 1 i 2 de l’article 80.

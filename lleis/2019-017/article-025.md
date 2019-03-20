@@ -1,0 +1,6 @@
+# Article 25. Modificació de l’article 23 de la Llei 8/2013, del 9 de maig, sobre els requisits organitzatius i les condicions de funcionament de les entitats operatives del sistema financer, la protecció de l’inversor, l’abús de mercat i els acords de garantia financera
+Es modifica l’article 23 de la Llei 8/2013, del 9 de maig, sobre els requisits organitzatius i les condicions de funcionament de les entitats operatives del sistema financer, la protecció de l’inversor, l’abús de mercat i els acords de garantia financera, que queda redactat de la manera següent:
+“Article 23. Sol·licituds d’inscripció i informació periòdica
+1. Les entitats operatives del sistema financer han de presentar a l’AFA les sol·licituds d’inscripció relatives als actes referits als apartats 2 i 3 de l’article 20 i als actes referits a l’apartat 2 de l’article 20 bis en el termini màxim de set dies hàbils a comptar de la data en què es produeix l’acte que s’ha de registrar.
+2. Les entitats operatives del sistema financer han de presentar a l’AFA la comunicació periòdica referida a l’apartat 4 de l’article 20 durant el primer mes natural de cada semestre.
+3. S’habilita l’AFA per ampliar aquests terminis, amb una sol·licitud prèvia.”

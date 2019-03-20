@@ -1,0 +1,9 @@
+# Article 73. Normes complementàries del règim sancionador en relació amb l’abús de mercat
+Pel que fa al règim de prescripció de les infraccions relacionades amb l’abús de mercat, així com als procediments associats a l’ingrés de l’import de les sancions associades i a la inscripció i publicitat de les dites sancions, és aplicable el que s’estableix el capítol sisè de la Llei de regulació del règim disciplinari del sistema financer, del 27 de novembre del 1997.”
+Article 49. Modificació del capítol cinquè de la Llei 8/2013, del 9 de maig, sobre els requisits organitzatius i les condicions de funcionament de les entitats operatives del sistema financer, la protecció de l’inversor, l’abús de mercat i els acords de garantia financera
+1. Es modifica l’enunciat del capítol cinquè de la Llei 8/2013, del 9 de maig, sobre els requisits organitzatius i les condicions de funcionament de les entitats operatives del sistema financer, la protecció de l’inversor, l’abús de mercat i els acords de garantia financera, que queda redactat en els termes següents: “Acords de compensació contractual i garantia financera”.
+2. S’introdueixen dos seccions al capítol cinquè de la Llei 8/2013, del 9 de maig, sobre els requisits organitzatius i les condicions de funcionament de les entitats operatives del sistema financer, la protecció de l’inversor, l’abús de mercat i els acords de garantia financera, que queden redactats en els termes següents:
+“Secció primera. Disposicions generals”.
+“Secció segona. Règim dels acords de compensació contractual i de les garanties financeres”.
+3. Els articles 55 a 63 de la Llei 8/2013, del 9 de maig, sobre els requisits organitzatius i les condicions de funcionament de les entitats operatives del sistema financer, la protecció de l’inversor, l’abús de mercat i els acords de garantia financera passen a substituir-se pels articles 74 a 88, que queden redactats en els termes següents:
+“Secció primera. Disposicions generals

@@ -1,0 +1,6 @@
+# Article 35. Modificació de l’article 33 de la Llei 8/2013, del 9 de maig, sobre els requisits organitzatius i les condicions de funcionament de les entitats operatives del sistema financer, la protecció de l’inversor, l’abús de mercat i els acords de garantia financera
+S’afegeix l’apartat 4 a l’article 33 de la Llei 8/2013, del 9 de maig, sobre els requisits organitzatius i les condicions de funcionament de les entitats operatives del sistema financer, la protecció de l’inversor, l’abús de mercat i els acords de garantia financera, que queden redactats de la manera següent:
+“Article 33. Contraparts elegibles
+[…]
+4. Poden ser reconegudes com a contraparts elegibles les entitats de tercers països que siguin equivalents a les entitats que es delimiten en l’apartat 2. En cas d’una operació en la qual les contraparts potencials estiguin situades en diferents jurisdiccions, l’entitat operativa del sistema financer ha de respectar l’estatut de l’altre client, tal com ho determini la legislació o les mesures del tercer país en què estigui establert aquest client.
+Així mateix, també es poden reconèixer com a contraparts elegibles els clients de tercers països que reuneixin les condicions i els requisits de l’apartat 3.”

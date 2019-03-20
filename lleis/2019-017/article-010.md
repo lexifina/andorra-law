@@ -1,0 +1,11 @@
+# Article 10. Modificació de l’article 12 de la Llei 8/2013, del 9 de maig, sobre els requisits organitzatius i les condicions de funcionament de les entitats operatives del sistema financer, la protecció de l’inversor, l’abús de mercat i els acords de garantia financera
+S’afegeix una nova lletra f) a l’apartat 3, i s’afegeixen els apartats 5, 6 i 7 a l’article 12 de la Llei 8/2013, del 9 de maig, sobre els requisits organitzatius i les condicions de funcionament de les entitats operatives del sistema financer, la protecció de l’inversor, l’abús de mercat i els acords de garantia financera, que queda redactat de la manera següent:
+“Article 12. Protecció dels actius dels clients
+[…]
+3. En tot cas, les entitats operatives del sistema financer que siguin dipositàries, o custòdies o dipositin en tercers instruments financers o efectiu, han de complir els requisits següents:
+[…]
+f) Han d’adoptar mesures organitzatives adequades per minimitzar el risc de pèrdua o disminució del valor dels actius dels clients, o dels drets relacionats amb aquests actius, com a conseqüència d’una mala utilització dels actius, frau, administració deficient, manteniment inadequat de registres o negligència.
+[…]
+5. Quan les mesures per salvaguardar els drets dels clients no siguin suficients, l’AFA pot fixar les mesures que les entitats operatives del sistema financer hagin d’adoptar per complir les obligacions de salvaguarda dels actius dels clients.
+6. Si la legislació aplicable del país en què estiguin dipositats els instruments financers o fons dels clients impedeix que les entitats operatives del sistema financer compleixin el que disposen les lletres c) o e) de l’apartat 3 d’aquest article, l’AFA, mitjançant un comunicat tècnic, ha d’establir requisits que tinguin un efecte equivalent en termes de protecció dels drets dels clients.
+7. El Govern, a proposta del Ministeri de Finances, ha d’elaborar el reglament aplicable que estableixi les disposicions relatives al dipòsit d’instruments financers de clients i al dipòsit dels fons de clients, i les disposicions relatives als requisits organitzatius concrets que s’exigeixin a les entitats operatives del sistema financer que realitzin serveis d’inversió i serveis auxiliars.”

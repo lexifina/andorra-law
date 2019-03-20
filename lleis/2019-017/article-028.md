@@ -1,0 +1,11 @@
+# Article 28. Modificació de l’article 26 de la Llei 8/2013, del 9 de maig, sobre els requisits organitzatius i les condicions de funcionament de les entitats operatives del sistema financer, la protecció de l’inversor, l’abús de mercat i els acords de garantia financera
+Es modifica l’article 26 de la Llei 8/2013, del 9 de maig, sobre els requisits organitzatius i les condicions de funcionament de les entitats operatives del sistema financer, la protecció de l’inversor, l’abús de mercat i els acords de garantia financera, que queda redactat de la manera següent:
+“Article 26. Termini de resolució i notificació
+1. L’AFA ha de resoldre i notificar les sol·licituds de no oposició i d’autorització prèvia en els terminis màxims establerts a l’apartat següent a comptar de la data de presentació de les sol·licituds o, si escau, de la data de lliurament de la informació complementària, a més d’informar de les vies de recurs existents.
+2. Els terminis màxims per resoldre i notificar les sol·licituds són els següents:
+a) Respecte a l’incís i) de la lletra b) de l’apartat 2 de l’article 20 i a l’apartat 2 de l’article 20 bis, l’AFA disposa d’un termini màxim de seixanta dies hàbils.
+b) Respecte als actes dels incisos ii) a iv) de la lletra a) de l’apartat 2 de l’article 20 i als actes dels incisos ii) a ix), xii) a xvii) de la lletra b) de l’apartat 2 de l’article 20, es disposa d’un termini de dos mesos.
+c) Respecte a l’acte de l’incís i) de la lletra a) de l’apartat 2 de l’article 20 i a l’acte de l’incís xi) de la lletra b) de l’apartat 2 de l’article 20, es disposa d’un termini de tres mesos.
+d) Respecte als actes dels incisos x), xviii) i xix) de la lletra b) de l’apartat 2 de l’article 20, es disposa d’un termini de sis mesos.
+3. L’AFA pot fixar un període màxim per a la conclusió de l’adquisició proposada a la qual es fa referència a la lletra a) de l’apartat 2 anterior i ampliar-la quan correspongui.
+4. L’AFA ha de resoldre i notificar les sol·licituds d’inscripció en el termini màxim de trenta dies hàbils a comptar de la data de presentació de les sol·licituds o, si escau, de la data de lliurament de la informació complementària, a més d’informar de les vies de recurs existents.”
