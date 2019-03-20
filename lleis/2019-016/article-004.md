@@ -1,0 +1,4 @@
+# Article 4. Conductes prohibides
+1. Està prohibida la venda de productes del tabac per sota dels preus mínims de venda al públic establerts o aprovats pel Govern i publicats al Butlletí Oficial del Principat d’Andorra. Així mateix, també està prohibida la venda de productes de tabac els preus mínims de venda al públic dels quals no hagin estat publicats al Butlletí Oficial del Principat d’Andorra.
+2. Els productes del tabac no poden ser objecte de cap pràctica o tipologia específica de venda que tingui com a finalitat o efecte vendre’ls per sota dels preus mínims publicats al Butlletí Oficial del Principat d’Andorra, com ara la promoció o el regal de productes del tabac.
+3. El valor, a preu de cost, dels articles que s’utilitzin per promocionar els productes del tabac no pot ser superior al 5% del preu de venda al públic dels productes del tabac que es pretenguin promocionar.

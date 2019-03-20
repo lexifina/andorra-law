@@ -1,0 +1,3 @@
+# Disposició addicional. Fixació del preu mínim inicial dels productes del tabac
+La Comissió Consultiva definida a l’article 2 proposarà al Govern, segons les dades obtingudes del mercat, el preu mínim inicial de venda al públic dels productes del tabac. La proposta elevada al Govern ha de respectar les condicions establertes a l’article 3 i ha de ser adoptada per unanimitat dels membres d’aquesta Comissió.
+Si el Govern no aprova la proposta elevada per la Comissió Consultiva per a la fixació del preu mínim inicial dels productes del tabac, l’ha de retornar a la Comissió perquè n’elabori una de nova.

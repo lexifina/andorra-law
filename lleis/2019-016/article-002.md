@@ -1,0 +1,4 @@
+# Article 2. Comissió Consultiva
+1. Es crea la Comissió Consultiva com a òrgan de caràcter consultiu del Govern.
+2. La Comissió Consultiva es compon de quatre membres, dos designats pel Govern, d’entre funcionaris dels ministeris competents en matèria de comerç i de finances, un designat per l’Associació de Fabricants de Productes de Tabac d’Andorra, i un designat per la Cambra de Comerç, Indústria i Serveis d’Andorra, d’entre els seus afiliats que pertanyin al sector del comerç del tabac. Els nomenaments han de ser publicats al Butlletí Oficial del Principat d’Andorra.
+3. La funció de la Comissió Consultiva és la d’elaborar a petició de Govern informes previs a la publicació de cada modificació de la llista de preus mínims del tabac sobre l’evolució dels preus als països veïns i el manteniment de les condicions establertes a l’article 3. La Comissió pot demanar assessoraments interns o externs sobre matèries o afers de la seva competència.
