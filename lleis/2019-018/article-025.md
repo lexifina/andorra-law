@@ -1,0 +1,2 @@
+# Article 25. Revaloració de les prestacions econòmiques pagades per la Caixa Andorrana de Seguretat Social
+La persona assegurada que percep una o més pensions pagades per la Caixa Andorrana de Seguretat Social la suma de les quals, un cop deduïdes les cotitzacions de la persona assegurada, sigui inferior a dues vegades el salari mínim establert per a l’any 2019, es revaloren durant l’any 2019 d’acord amb l’índex de preus de consum (IPC). La resta de prestacions econòmiques pagades per la Caixa Andorrana de Seguretat Social no es revaloren.

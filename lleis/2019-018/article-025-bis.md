@@ -1,0 +1,7 @@
+# Article 25 bis. Increment de les pensions reconegudes per la Caixa Andorrana de Seguretat Social d’un import brut inferior a 1.050 euros
+Les pensions de la seguretat social subjectes a revaloració d’acord amb l’índex de preus de consum a les que fa referència l’article 25, s’incrementen fins al 3,2% si a la data del 31 de desembre del 2018 l’import mensual percebut per totes les pensions és inferior a 1.050 euros bruts, la persona beneficiària resideix a Andorra i compleix els altres requisits següents:
+a) Per a la pensió de jubilació, la persona beneficiària ha d’acreditar un període mínim de cotització de 25 anys a la branca jubilació.
+b) Per a la pensió de viduïtat, la persona beneficiària ha d’acreditar que la persona assegurada difunta ha cotitzat un període mínim de 25 anys a la branca jubilació.
+c) Per a la pensió d’invalidesa derivada d’accident no laboral o malaltia comuna o la pensió d’invalidesa derivada d’accident laboral o malaltia professional, la persona beneficiària ha d’acreditar un període mínim de cotització de 25 anys a la branca general.
+S’assimilen als períodes cotitzats els períodes en què la persona beneficiària o la persona assegurada difunta hagi percebut una pensió d’invalidesa.
+Aquest increment té caràcter extraordinari i no contributiu per la Caixa Andorrana de Seguretat Social i es manté mentre la persona assegurada continuï complint els requisits establerts.
