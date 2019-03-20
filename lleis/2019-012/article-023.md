@@ -1,0 +1,6 @@
+## Capítol vuitè. Registre de Reproducció Humana Assistida
+# Article 23. Registre de Reproducció Humana Assistida
+1. El Registre de Reproducció Humana Assistida s’adscriu al ministeri responsable de la salut i s’hi inscriuen els donants de gàmetes i embrions in vitro amb finalitats de reproducció humana, amb les garanties precises de confidencialitat de les dades dels donants; també consigna els fills nascuts de cadascun dels donants, la seva identitat i localització al moment de la donació i de la utilització dels gàmetes i embrions in vitro.
+2. Al Registre també es consigna l’activitat dels centres i serveis de reproducció humana assistida en relació amb les tècniques i els procediments per als quals estiguin autoritzats, el nombre de procediments que es practiquin de cada tipus, així com les taxes d’èxit en termes de reproducció obtingudes per cada centre amb cada tècnica, i qualsevol altra dada que es consideri necessària perquè els usuaris de les tècniques de reproducció humana assistida puguin valorar la qualitat de l’atenció proporcionada per cada centre.
+3. El Registre recull també el nombre d’embrions crioconservats que es conservin en cada centre a l’efecte d’exercir el control que s’estableix a l’anterior article 14.
+4. El Govern regula l’organització i el funcionament del Registre.

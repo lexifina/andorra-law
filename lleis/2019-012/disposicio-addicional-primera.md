@@ -1,0 +1,3 @@
+# Disposició addicional primera. Garantia de no-discriminació de les persones amb discapacitat
+De conformitat amb el que disposa la normativa reguladora dels drets de les persones amb discapacitat, les persones gaudeixen dels drets i facultats reconeguts en aquesta Llei, i no poden ser discriminades per raons de discapacitat pel que fa a l’accés i la utilització de les tècniques de reproducció humana assistida.
+Així mateix, la informació i l’assessorament als quals es refereix aquesta Llei es presten a les persones amb discapacitat en condicions i formats accessibles apropiats a les seves necessitats.

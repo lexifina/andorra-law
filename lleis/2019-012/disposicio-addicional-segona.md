@@ -1,0 +1,2 @@
+# Disposició addicional segona. Desenvolupament dels mecanismes necessaris de coordinació entre el Principat d’Andorra i altres països
+El Govern pot desenvolupar els mecanismes necessaris que permetin coordinar la informació sobre les tècniques de reproducció humana assistida dutes a terme al Principat d’Andorra amb altres països; tot això, amb la finalitat que les garanties que s’estableixen en aquesta Llei puguin ser veritablement efectives.

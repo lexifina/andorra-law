@@ -1,0 +1,9 @@
+## Capítol cinquè. Finalitats preventives i terapèutiques de les tècniques
+# Article 16. Diagnòstic genètic preimplantacional
+1. Les tècniques de diagnòstic genètic preimplantacional amb l’objecte de detectar les possibles anomalies cromosòmiques o alteracions genètiques que podrien tenir els embrions in vitro abans de ser transferits a l’úter matern es poden realitzar amb el degut consell genètic per a:
+a) La detecció de malalties hereditàries greus no susceptibles de tractament curatiu postnatal i amb resultat de mort, ja sigui durant l’embaràs, el part o, com a molt tard, pocs anys després del naixement.
+b) La detecció de les malalties hereditàries greus no susceptibles de tractament curatiu postnatal en funció dels coneixements científics actuals.
+c) La detecció d’altres alteracions que puguin comprometre la viabilitat de l’embrió in vitro o de la gestació.
+2. L’aplicació de tècniques de diagnòstic preimplantacional per a qualsevol altra finalitat no compresa als apartats anteriors, o quan es pretengui practicar-ne en combinació amb la determinació dels antígens d’histocompatibilitat dels embrions in vitro amb finalitats terapèutiques per a tercers, requereix l’autorització expressa, cas per cas, del ministre responsable de la salut, amb l’informe previ favorable de la Comissió de Reproducció Humana Assistida.
+3. Només es pot fer un diagnòstic genètic preimplantacional mitjançant la selecció embrionària dels embrions in vitro, centrat en la selecció del sexe, si és amb la finalitat d’excloure embrions afectats per una malaltia vinculada al sexe.
+4. En tots els casos i per tal de garantir la transparència, el centre ha de comunicar al ministeri responsable de la salut, la pràctica del procediment de diagnòstic genètic preimplantacional amb la freqüència i en les condicions reglamentàriament establertes,.
