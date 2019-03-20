@@ -1,0 +1,10 @@
+# Article 14. Addició d’un article 133
+S’introdueix un nou article 133 al Codi de l’Administració, que queda redactat en els termes següents:
+“Article 133. El Portal Electrònic de l’Administració pública
+1. El Portal Electrònic de l’Administració pública és l’adreça electrònica, a disposició dels ciutadans a través de sistemes de comunicacions electròniques, quina titularitat correspon a una o diverses Administracions públiques.
+2. El Portal Electrònic de l’Administració pública conté la informació institucional de cada Administració pública, i suposa el mitjà d’accés als recursos electrònics que posa cada Administració pública al servei dels ciutadans mitjançant les corresponents Seus Electròniques.
+3. L’Administració pública titular és la responsable de garantir la veracitat, la integritat, la seguretat, i l’actualització de la informació i dels serveis als quals es pot accedir, havent de complir així mateix els principis d’accessibilitat, neutralitat, qualitat i interoperabilitat del sistema.
+4. Cada Administració pública ha d’identificar l’òrgan responsable del portal electrònic i l’autoritat o personal de l’Administració pública titular d’aquest òrgan.
+5. Normes de responsabilitat:
+a) L’Administració pública no és responsable, excepte que s’indiqui el contrari, del contingut, la integritat, la veracitat o l’actualització de cap dels vincles o enllaços que puguin trobar-se inclosos en el Portal Electrònic de l’Administració pública, que corresponen a un organisme o Administració pública diferent. Tampoc és responsable de l‘accés per part dels usuaris, ni del resultat obtingut com a conseqüència d’aquest accés, ni dels danys i perjudicis que se’n puguin derivar.
+b) En aquest cas, el Portal Electrònic de l’Administració pública estableix els mitjans necessaris perquè l’usuari conegui si el vincle o hiperenllaç al qual accedeix correspon a un organisme o Administració pública diferent.”

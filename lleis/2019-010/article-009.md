@@ -1,0 +1,6 @@
+# Article 9. Addició d’un article 108 bis
+S’introdueix un nou article 108 bis al Codi de l’Administració, que queda redactat en els termes següents:
+“Article 108 bis. Formes d’identificació de la persona interessada o del seu representant
+1. L’Administració pública ha d’identificar personalment la persona interessada o el seu representant. Per això, n’han de verificar el nom i cognoms; raó social, nom comercial o qualsevol altra denominació de l’entitat o empresa, i que constin en el document oficial d’identificació de la persona física o jurídica.
+2. Quan la relació amb l’Administració pública s’efectua per mitjans electrònics, el sistema utilitzat ha de tenir un mecanisme previ que permeti garantir la identitat de la persona. Per reglament, es determinaran els sistemes admesos.
+3. L’Administració pública ha de requerir la signatura o segell de la persona que compareix, de forma electrònica o manual, per presentar sol·licituds; declaracions responsables; formular al·legacions i proposar proves; interposar recursos; desistir d’accions i renunciar als seus drets.”

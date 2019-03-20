@@ -1,0 +1,2 @@
+# Disposició transitòria primera
+Durant el període transitori en què no es pugui practicar la notificació per mitjans electrònics, la notificació dels actes administratius a les persones físiques i jurídiques previstes a l’article 108 quater 2, s’ha de fer mitjançant sistemes de notificació no electrònica, i s’aplica el règim jurídic de notificació de la inclusió al servei de notificació electrònica, regulat al apartat 5 de l’article 47 ter d’aquesta Llei.

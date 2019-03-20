@@ -1,0 +1,5 @@
+# Article 17. Addició d’un article 136
+S’introdueix un nou article 136 al Codi de l’Administració, que queda redactat en els termes següents:
+“Article 136. Signatura electrònica de les autoritats i del personal al servei de l’Administració Pública
+1. L’autoritat o el personal de l’Administració pública que té competències atribuïdes, quan realitza actuacions mitjançant la utilització de sistemes electrònics, s’ha d’identificar mitjançant la utilització d’un certificat electrònic qualificat.
+2. Cada Administració pública ha de determinar el sistema de signatura electrònica utilitzat en la seva organització, que ha de garantir la identificació de l’autoritat o del personal de l’Administració pública, i la denominació de l’òrgan del qual sigui titular. Per raons de seguretat i de privacitat, la identificació personal es pot substituir per un codi alfanumèric.”

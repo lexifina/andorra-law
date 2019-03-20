@@ -1,0 +1,2 @@
+# Disposició final tercera
+S’encomana al Govern que en el termini de 6 mesos des de l’entrada en vigor d’aquesta llei, publiqui al Butlletí Oficial del Principat d’Andorra els texts refosos del codi de l’Administració, del 29 de març de 1989, de la Llei 35/2014, del 27 de novembre, de serveis de confiança electrònica i de la Llei 15/2003, del 18 de desembre qualificada de protecció de dades personals.

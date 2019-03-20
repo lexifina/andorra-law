@@ -1,0 +1,5 @@
+# Disposició final primera
+S’introdueix un nou apartat 5 a l’article 7 de la Llei 35/2014, del 27 de novembre, de serveis de confiança electrònica, que queda redactat en els termes següents:
+“ (…)
+5. Sense perjudici de les disposicions legals i reglamentàries relatives a la representació de persones jurídiques, un segell electrònic qualificat que s’utilitzi en el marc d’actes jurídics subjectes a la legislació andorrana és equivalent a la signatura manuscrita de la persona física que representa la persona jurídica que va crear el segell.
+El titular d’un certificat de segell electrònic qualificat ha de prendre les mesures necessàries per establir el nom, la qualitat i els poders de la persona física que representa la persona jurídica i que utilitza el segell electrònic qualificat, de manera que cada vegada que s’utilitzi el segell, el seu propietari i, si escau, les autoritats administratives o judicials competents que intervinguin en la investigació i detecció d’infraccions puguin establir la identitat i els poders de representació de la persona física.”
