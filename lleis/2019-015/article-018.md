@@ -1,0 +1,3 @@
+# Article 18. Ordenança penal
+1. A les persones menors d’edat a les quals no procedeixi aplicar les disposicions de l’article 15, se’ls pot aplicar el procediment de l’ordenança penal que regula la Llei qualificada de modificació del Codi de procediment penal.
+2. Si el menor d’edat al qual s’aplica el procediment de l’ordenança penal s’hi oposa i el seu representant legal o, si escau, el representant ad hoc, no s’hi oposa, o en el supòsit contrari, el batlle pot considerar que preval l’opinió del menor d’edat si té maduresa suficient. A l’efecte que preveu aquest apartat, es presumeix que el menor d’edat té maduresa suficient a partir de setze anys.

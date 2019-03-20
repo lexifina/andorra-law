@@ -1,0 +1,4 @@
+# Article 42. Suspensió de mesures
+1. El Tribunal de Corts o el batlle pot suspendre l’execució de la mesura disciplinària, educativa o de seguretat imposada durant un termini màxim de tres anys, sempre que no es tracti d’una mesura disciplinària d’internament d’una durada superior a dos anys o en què quedi pendent de complir una durada superior a dos anys.
+2. La suspensió de la mesura queda condicionada al fet que a la persona menor d’edat no se li imposi una altra mesura disciplinària, educativa o de seguretat, o no sigui condemnada durant el període fixat pel Tribunal de Corts o el batlle, i que compleixi les mesures educatives que s’hagin pogut establir i es repari el dany causat.
+3. En cas d’incompliment total o parcial de les condicions establertes, el Tribunal de Corts o el batlle revoca la suspensió i decideix que es compleixi o es continuï complint la mesura suspesa.

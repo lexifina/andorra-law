@@ -1,0 +1,3 @@
+# Article 3. Competència per instruir
+1. La instrucció dels processos penals que se segueixen contra una persona menor d’edat a la qual és aplicable aquesta Llei correspon als batlles als quals correspongui pel torn de la Secció d’Instrucció General o de la Secció d’Instrucció Especialitzada del Tribunal de Batlles, d’acord amb el que estableix la Llei qualificada de la Justícia.
+2. També correspon a les seccions d’instrucció del Tribunal de Batlles, d’acord amb el que estableix l’apartat 1 anterior, l’execució de les ordenances penals que es dictin contra els menors d’edat als quals és aplicable aquesta Llei.

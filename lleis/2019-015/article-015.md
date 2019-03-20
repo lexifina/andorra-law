@@ -1,0 +1,4 @@
+# Article 15. Arxivament
+1. Quan sigui manifest i clar que els fets comesos no són constitutius d’infracció penal, el batlle instructor no incoa unes diligències prèvies i arxiva les actuacions com a diligències indeterminades.
+2. Si el batlle instructor considera que els fets comesos no són suficientment greus i la comissió futura d’altres fets constitutius d’infracció penal es pot evitar tenint en compte l’àmbit educatiu o familiar de la persona menor d’edat, pot arxivar en qualsevol moment el procés, amb l’audiència prèvia del Ministeri Fiscal. En aquest cas, el batlle instructor dona compte del procés a l’àrea competent del ministeri encarregat de la justícia perquè faci el seguiment oportú i, si escau, també n’informa el batlle competent al qual correspon per torn de jurisdicció de menors.
+3. Les disposicions de l’apartat 2 anterior no es poden tornar a aplicar al menor d’edat al qual ja s’hagin aplicat amb anterioritat.

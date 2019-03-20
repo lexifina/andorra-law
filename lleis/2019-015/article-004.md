@@ -1,0 +1,3 @@
+# Article 4. Imputabilitat
+1. Quan qui hagi comès un fet delictiu sigui una persona menor de dotze anys, una vegada s’hagi constatat la comissió d’aquest fet se l’ha de posar a disposició dels seus representants legals, i informar-ne l’àrea competent del ministeri encarregat dels afers socials a l’efecte de valorar si existeix una situació de risc o de desemparament del menor d’edat.
+2. La persona menor de dotze anys és inimputable, raó per la qual les accions en reclamació dels danys i perjudicis derivats d’una infracció penal que hagi comès s’han d’interposar i resoldre davant la jurisdicció civil competent.

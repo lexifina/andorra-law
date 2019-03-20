@@ -1,0 +1,3 @@
+# Article 39. Recursos d’audiència i de revisió
+1. Contra les sentències dictades en rebel·lia pel Tribunal de Corts, la persona menor d’edat a la qual s’ha imposat una mesura disciplinària, educativa o de seguretat pot interposar un recurs d’audiència d’acord amb les disposicions de la Llei qualificada de modificació del Codi de procediment penal.
+2. Els acords, les sentències i les ordenances penals fermes i executòries dictades pel Tribunal de Corts o el batlle poden ser objecte d’un recurs de revisió, d’acord amb les disposicions de la Llei qualificada de modificació del Codi de procediment penal.

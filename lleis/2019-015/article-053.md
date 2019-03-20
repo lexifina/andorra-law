@@ -1,0 +1,3 @@
+# Article 53. Trasllats
+1. Els trasllats de persones menors d’edat internades per a un ingrés hospitalari, per assistir a consultes mèdiques o per raó de les actuacions judicials que els afectin els han de dur a terme membres del Cos de Policia o del Cos Penitenciari, en els termes que es determinin reglamentàriament. Els ingressos en centres hospitalaris s’han de comunicar al tribunal o el batlle competent, al Ministeri Fiscal i al ministre encarregat de la justícia.
+2. Els trasllats dels menors d’edat internats s’han de fer de forma que se’n garanteixi la dignitat, la privadesa, la seguretat i els altres drets que els reconeix la normativa aplicable.

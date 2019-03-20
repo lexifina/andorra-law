@@ -1,0 +1,5 @@
+# Article 2. Competència per jutjar
+1. El Tribunal de Corts, en composició unipersonal, és competent per jutjar en primera instància els fets comesos per les persones majors de dotze anys i menors de divuit anys tipificats com a contravencions penals al Codi penal, i també per executar les resolucions que hagi adoptat a aquest efecte.
+2. El Tribunal de Corts, en composició col·legiada, és competent per jutjar en primera instància els fets comesos per les persones majors de dotze anys i menors de divuit anys tipificats com a delictes majors i delictes menors al Codi penal, i també per executar les resolucions judicials que hagi adoptat a aquest efecte.
+3. També correspon al Tribunal de Corts, d’acord amb el que estableixen els apartats 1 i 2 anteriors, resoldre sobre les responsabilitats civils derivades dels fets comesos pels menors d’edat a les quals és aplicable aquesta Llei.
+4. La jurisdicció del Tribunal de Corts, d’acord amb els apartats anteriors, s’estén a tots els supòsits aplicables de la llei penal en els termes que estableix el Codi penal.

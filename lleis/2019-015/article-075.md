@@ -1,0 +1,3 @@
+# Article 75. Extinció de la responsabilitat
+1. La responsabilitat disciplinària s’extingeix pel compliment de la sanció, la defunció de la persona menor d’edat expedientada, la prescripció de la falta i la prescripció de la sanció.
+2. Si durant la tramitació de l’expedient disciplinari el menor d’edat expedientat deixa d’estar internat en el centre, s’ha de dictar una resolució en què es declara extingida la responsabilitat disciplinària i s’arxiva el procediment, sense perjudici de la responsabilitat civil o penal que es derivi de les faltes comeses eventualment durant el temps en què el menor d’edat va estar internat en el centre.

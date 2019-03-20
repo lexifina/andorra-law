@@ -1,0 +1,4 @@
+# Article 60. Intervenció i restricció de les comunicacions
+1. Les comunicacions orals i escrites només poden ser intervingudes o restringides quan ho determini el tribunal o el batlle competent.
+2. Les cartes que entrin al centre i vagin adreçades a una persona menor d’edat internada s’han d’obrir en presència seva, a l’únic efecte de verificar que no s’utilitzen per introduir al centre articles o productes prohibits. Aquesta comprovació ha de respectar en tot cas el secret de les comunicacions.
+3. La Direcció del centre pot demanar al tribunal o el batlle competent que decideixi, mitjançant un aute motivat, la intervenció o la restricció de les comunicacions quan hi hagi indicis raonables per creure que les persones que es comuniquen poden estar preparant una actuació delictiva o que pugui comprometre la seguretat i la convivència dins el centre.

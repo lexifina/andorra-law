@@ -1,0 +1,24 @@
+# Article 33. Mesures disciplinàries
+Les mesures disciplinàries que el Tribunal de Corts o el batlle poden imposar són les següents:
+a) L’internament en règim tancat:
+- En aquest cas, el menor d’edat roman de manera continuada en un centre on porta a terme totes les activitats.
+- Aquesta mesura només es pot imposar als menors d’edat que tinguin catorze anys com a mínim i que hagin comès un delicte major, o als quals s’hagi imposat una altra mesura disciplinària, educativa o de seguretat amb anterioritat per dos o més delictes menors comesos en els darrers dos anys.
+- La durada d’aquesta mesura no pot excedir la tercera part de la pena assenyalada per al delicte comès en el Codi penal.
+- Es poden concedir permisos de sortida als menors d’edat a partir del compliment d’una tercera part de la durada d’aquesta mesura, amb l’audiència prèvia del Ministeri Fiscal, de la Direcció del centre on es compleixi la mesura i de l’àrea competent del ministeri encarregat de la justícia.
+b) L’internament en règim semiobert:
+- En aquest cas, el menor d’edat roman de manera continuada en un centre on porta a terme la major part de les activitats, i se li concedeix com a mínim un permís d’un cap de setmana al mes, sense perjudici que es puguin concedir permisos addicionals, amb l’audiència prèvia del Ministeri Fiscal, en funció de les circumstàncies personals, familiars i de reinserció del menor d’edat. Tanmateix, aquests permisos no poden superar dos mesos l’any o la part proporcional.
+- Aquesta mesura només es pot imposar als menors d’edat que tinguin catorze anys com a mínim i que hagin comès un delicte major o un delicte menor.
+- La durada màxima d’aquesta mesura és de dos anys.
+c) L’internament en règim obert:
+- En aquest cas, el menor d’edat roman en el centre però pot portar a terme activitats laborals, educatives o lúdiques fora del centre, amb respecte dels horaris fixats i amb l’obligació de pernoctar al centre. També pot sortir cada cap de setmana i els períodes de vacances que el Tribunal de Corts o el batlle consideri oportuns.
+- La durada màxima d’aquesta mesura és d’un any.
+En els supòsits que estableixen les lletres a, b i c anteriors, el menor d’edat ha d’estar sota la vigilància dels representants legals o, en cas contrari, de l’àrea competent del ministeri encarregat de la justícia o de les altres persones o entitats en qui delegui la responsabilitat el ministeri esmentat. A més, en aquests mateixos tres supòsits, si el menor d’edat requereix el seguiment d’un tractament mèdic, psicològic o terapèutic que aconselli o obligui un internament o un acolliment de protecció intensiva, el termini durant el qual es porta a terme aquest internament o acolliment s’abona en relació amb la durada de la mesura disciplinària imposada.
+L’internament de menors d’edat, en qualsevol cas, s’ha de dur a terme en instal·lacions específiques i separades de les instal·lacions destinades als majors d’edat.
+d) L’obligació de romandre al domicili familiar durant els caps de setmana, amb control monitoritzat o sense. La durada màxima d’aquesta mesura és de dotze caps de setmana.
+e) L’obligació de romandre al domicili familiar durant el període del dia o de la nit que estableixi el Tribunal de Corts o el batlle, fins a un màxim de deu hores, amb control monitoritzat o sense. La durada màxima d’aquesta mesura és de sis mesos.
+f) La realització de serveis en benefici de la comunitat:
+- En aquest cas, el menor d’edat fa una activitat en benefici de la col·lectivitat en conjunt, o bé de persones en situació de precarietat. S’intenta que la naturalesa de l’activitat tingui relació amb els fets comesos pel menor d’edat.
+- La durada diària d’aquesta mesura no pot excedir sis hores i el compliment no pot suposar una interferència greu en l’activitat laboral o escolar del menor d’edat. L’extensió mínima és de trenta hores i la màxima de cent cinquanta.
+- L’àrea competent del ministeri encarregat de la justícia porta a terme la mesura de serveis en benefici de la comunitat. Li correspon la recerca d’activitats d’utilitat pública i el seguiment i l’avaluació posterior del compliment d’aquesta mesura, i ha d’emetre l’informe corresponent per al Tribunal de Corts o el batlle, i el Ministeri Fiscal. L’activitat que hagi de realitzar el menor d’edat la proposa l’àrea competent del ministeri encarregat de la justícia al Tribunal de Corts o el batlle, el qual, amb l’audiència prèvia del Ministeri Fiscal, hi ha de donar la conformitat.
+- Aquesta mesura no es pot imposar sense l’acceptació del menor d’edat i del seu representant legal o, si escau, del representant ad hoc, i la resolució que s’estableix té a tots els efectes la consideració d’aute d’execució.
+g) La privació d’entrar o romandre a determinats locals o llocs públics. Aquesta mesura té una durada màxima de dos anys.

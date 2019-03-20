@@ -1,0 +1,3 @@
+# Article 5. Intervenció del Ministeri Fiscal
+1. Correspon al Ministeri Fiscal la defensa dels drets que aquesta Llei i les altres lleis aplicables reconeixen a les persones menors d’edat i l’observança de les garanties degudes en el marc dels processos penals que se segueixin contra aquestes persones. També li correspon fer el seguiment de qualsevol altra actuació que s’efectuï en interès del menors d’edat.
+2. El Ministeri Fiscal intervé directament en els processos penals que se segueixin contra els menors d’edat per sol·licitar les diligències que siguin més adequades per comprovar els fets presumptament comesos i la participació eventual d’aquests menors en relació amb aquests fets.

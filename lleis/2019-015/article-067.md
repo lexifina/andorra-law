@@ -1,0 +1,4 @@
+# Article 67. Prescripció de les faltes
+1. Les faltes lleus prescriuen al cap d’un mes; les faltes greus, al cap de sis mesos, i les faltes molt greus, al cap d’un any. Aquests terminis es comencen a comptar a partir de la data del fet causant o des del dia en què se n’hagi hagut de tenir coneixement.
+2. El termini de prescripció s’interromp per qualsevol actuació realitzada amb coneixement formal de la persona menor d’edat interessada i del seu representant legal que s’adreci a la iniciació, la tramitació o la resolució de l’expedient disciplinari.
+3. La interrupció deixa de tenir efecte si no s’incoa l’expedient disciplinari o queda paralitzat durant més de sis mesos per causa no imputable a la persona menor d’edat interessada o al seu representant legal. En aquest cas, el còmput del termini de prescripció s’inicia de nou a partir de la data de la darrera actuació que consti en l’expedient disciplinari.

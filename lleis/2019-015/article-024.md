@@ -1,0 +1,2 @@
+# Article 24. Aute de conclusió
+Quan s’hagin practicat les diligències a què fa referència l’article anterior o se n’hagi desestimat la pràctica mitjançant un aute motivat, el batlle instructor dicta un aute de conclusió de la instrucció, que es notifica al Ministeri Fiscal i a les altres parts, i els convoca perquè compareguin davant del Tribunal de Corts en el termini màxim de quinze dies. Tot seguit el batlle instructor tramet el procés penal al Tribunal de Corts.

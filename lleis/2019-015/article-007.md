@@ -1,0 +1,3 @@
+# Article 7. Comissió conjunta i connexió dels fets delictius
+1. No obstant el que estableix l’article 18, quan una infracció penal hagi estat comesa alhora per persones majors i menors d’edat, la instrucció es fa conjuntament, malgrat que es pot formar una peça separada per a tot el que concerneixi les persones menors d’edat, tenint en compte que cal preservar-ne sempre les dades personals. L’enjudiciament també es porta a terme conjuntament.
+2. Els diferents fets constitutius d’infraccions penals que hagi comès presumptament un menor d’edat i que siguin connexos es poden incorporar a un mateix i únic procés.
