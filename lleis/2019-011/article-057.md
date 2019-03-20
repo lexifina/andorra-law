@@ -1,0 +1,2 @@
+# Article 57. Incompatibilitats
+Sense perjudici de les incompatibilitats generals establertes per als funcionaris en la legislació de la funció pública, els funcionaris del cos especial de la carrera diplomàtica destinats a l’estranger, d’acord amb el que estipula la Convenció de Viena sobre relacions diplomàtiques i la Convenció de Viena sobre relacions consulars, no poden desenvolupar en el país de destinació cap mena d’activitat lucrativa professional, industrial o comercial.

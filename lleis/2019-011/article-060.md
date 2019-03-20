@@ -1,0 +1,2 @@
+# Article 60. Missions especials
+Els funcionaris del cos especial de la carrera diplomàtica amb rang d’ambaixador poden ser nomenats al capdavant d’una missió especial per dur a terme una tasca determinada als serveis centrals del Ministeri, davant un estat tercer o en un organisme internacional en funció de les necessitats del Govern i del Ministeri per a la consecució dels objectius de la política exterior de l’Estat.

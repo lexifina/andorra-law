@@ -1,0 +1,3 @@
+# Disposició transitòria
+S’integren a la carrera diplomàtica i adquireixen la condició de funcionaris del cos especial de la carrera diplomàtica, amb el rang diplomàtic que els correspongui segons l’annex que s’adjunta a aquesta Llei, els funcionaris i agents de l’Administració de caràcter indefinit del Ministeri que en el moment de l’entrada en vigor d’aquesta Llei ocupin els llocs de treball propis de la carrera diplomàtica als serveis centrals del Ministeri o a les missions diplomàtiques, tinguin una excedència amb reserva de plaça, o estiguin adscrits temporalment a altres Departaments.
+Tanmateix, la progressió professional prevista pel reglament relatiu a la carrera diplomàtica s’aplicarà a partir de l’entrada en vigor d’aquest reglament.

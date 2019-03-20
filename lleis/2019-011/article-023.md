@@ -1,0 +1,3 @@
+# Article 23. Designació del cap de missió diplomàtica i del cap d’oficina consular
+1. El cap de missió diplomàtica, de nacionalitat andorrana, és designat i destituït lliurement pel Govern, a proposta del ministre, entre els funcionaris del cos especial de la carrera diplomàtica amb el rang diplomàtic d’ambaixador o de ministre conseller, en qualitat d’ambaixador.
+2. El cap d’oficina consular és designat i destituït lliurement pel Govern, a proposta del ministre, entre els funcionaris de la carrera diplomàtica amb el rang d’ambaixador, ministre conseller o conseller, de conformitat amb el reglament relatiu a la mobilitat.

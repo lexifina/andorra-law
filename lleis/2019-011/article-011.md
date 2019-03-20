@@ -1,0 +1,3 @@
+# Article 11. Introductor d’ambaixadors
+1. L’introductor d’ambaixadors, de nacionalitat andorrana, és designat i destituït lliurement pel Govern, a proposta del ministre, entre els funcionaris del cos especial de la carrera diplomàtica amb un mínim de 16 anys d’experiència, mitjançant un decret publicat al Butlletí Oficial del Principat d’Andorra.
+2. La designació d’un funcionari del cos especial de la carrera diplomàtica com a introductor d’ambaixadors, d’acord amb el que estableix l’apartat anterior, implica l’assignació d’un complement retributiu previst en el reglament relatiu al sistema de compensacions propi de la carrera diplomàtica. Quan es produeix el cessament, el funcionari concernit deixa de percebre el complement retributiu esmentat.

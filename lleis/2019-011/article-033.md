@@ -1,0 +1,3 @@
+## Capítol segon. Accés i carrera diplomàtica
+# Article 33. Provisió de les places de funcionari del cos especial de la carrera diplomàtica
+El Govern aprova, a proposta del ministre, amb l’informe previ del director general, el nombre de places de nova creació a la carrera diplomàtica. Aquesta proposta ha de ser motivada d’acord amb criteris objectius fonamentats en l’evolució, el creixement i les necessitats organitzatives, estructurals i professionals del cos especial de la carrera diplomàtica. D’altra banda, el Govern també aprova, a proposta del ministre, amb l’informe previ del director general o del director, la cobertura de les places vacants existents.

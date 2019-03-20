@@ -1,0 +1,3 @@
+# Article 21. Caps d’oficina consular
+1. Les oficines consulars del Principat d’Andorra, definides en l’article 6.3 d’aquesta Llei, tenen com a responsable un ambaixador o un cònsol amb rang de ministre conseller o conseller, designat i destituït lliurement pel Govern, a proposta del ministre, mitjançant un decret publicat al Butlletí Oficial del Principat d’Andorra.
+2. En cas d’absència o impossibilitat del cònsol, el ministre nomena, un encarregat de negocis a.i., el qual assumeix temporalment la direcció de l’oficina consular i s’ha de comunicar a l’estat on està acreditada l’oficina consular de conformitat amb el que estableix la Convenció de Viena sobre relacions consulars.

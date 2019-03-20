@@ -1,0 +1,2 @@
+# Disposició final quarta. Signatura de convenis o acords
+El ministre o el director general o el director, amb l’autorització prèvia del Govern, poden subscriure convenis o acords bilaterals que reconeguin les condicions en què s’ha de desenvolupar l’accés al treball dels cònjuges i familiars dependents dels agents diplomàtics i consulars, tot respectant els requeriments establerts per als tractats internacionals.

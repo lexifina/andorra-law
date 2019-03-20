@@ -1,0 +1,2 @@
+# Article 17. Caps d’unitat
+El cap d’unitat és un lloc de treball al qual s’hi accedeix a través del procediment de selecció establert en el reglament relatiu a la carrera diplomàtica, no té un caràcter permanent i està subjecte al principi de mobilitat, les modalitats del qual s’establiran en el reglament relatiu a la mobilitat i en el reglament relatiu a la carrera diplomàtica. Per poder optar a la plaça de cap d’unitat s’ha de tenir com a mínim el rang diplomàtic de primer secretari.
