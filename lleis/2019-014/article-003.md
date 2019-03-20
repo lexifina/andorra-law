@@ -1,0 +1,3 @@
+# Article 3. Àmbit subjectiu d’aplicació de la Llei
+1. Les normes d’aquesta Llei i les que en siguin complementàries s’han d’entendre referides als drets dels quals són titulars els infants i els adolescents, des que neixen fins que són majors d’edat.
+2. Atesa la capacitat progressiva dels infants i els adolescents per exercir de manera responsable els drets dels quals són titulars, i en consonància amb el lliure desenvolupament de la seva personalitat, s’entén que els infants són les persones amb una edat compresa entre el naixement i els onze anys, i que els adolescents són les persones amb una edat compresa entre els dotze anys i la majoria d’edat que estableixin les lleis aplicables.

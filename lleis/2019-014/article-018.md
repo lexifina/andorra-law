@@ -1,0 +1,2 @@
+# Article 18. Deures dels infants i els adolescents en general
+La configuració dels drets dels infants i els adolescents s’ha d’entendre des de la idea general de potenciar la cultura del deure com a exercici responsable dels drets esmentats, del respecte cap a la resta de ciutadans, i de l’assumpció de les conseqüències dels comportaments propis, de forma que darrere de cada dret sempre hi ha un deure.

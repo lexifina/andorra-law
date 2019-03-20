@@ -1,0 +1,16 @@
+## Capítol segon. Protecció als infants i els adolescents en situació de risc o de desemparament
+## Secció primera. Disposicions generals
+# Article 77. Drets específics dels infants i els adolescents en situació de risc o desemparament
+Tots els infants i els adolescents que es trobin en una situació de risc o de desemparament juntament amb els altres drets que els reconeix aquesta Llei són, segons correspongui, titulars dels drets específics següents:
+a) Ser protegits, fins i tot amb l’oposició dels seus progenitors o de les persones que en tenen atribuïda la tutela o la guarda, una vegada es constati la situació de risc o de desemparament.
+b) Que el seu interès superior sigui valorat i considerat com a prioritari en totes les actuacions i les decisions que es derivin de l’acció protectora.
+c) Rebre, d’acord amb la seva edat i el seu grau de maduresa, informació respecte de la seva situació personal, de les mesures que es volen adoptar i de la seva durada i el seu contingut, i dels drets que els corresponen. La informació ha de ser veraç, comprensible, adequada a les condicions de l’infant o l’adolescent concernit, contínua i tan completa com sigui possible durant tot el procés d’intervenció.
+d) Ser escoltats i, sempre que tinguin dotze anys complerts o la maduresa i la capacitat suficients, participar en la presa de decisions sobre la seva situació, sense perjudici dels supòsits en què hagi de prestar el seu consentiment de conformitat amb el que estableix la normativa aplicable.
+e) Proporcionar-los la seguretat jurídica i emocional necessàries mitjançant una tramitació tan eficaç i ràpida com sigui possible de la intervenció. En aquest sentit, s’ha d’impedir la prolongació innecessària de les mesures de caràcter provisional, evitar les intromissions en l’esfera de la intimitat de l’infant o l’adolescent més enllà del que sigui estrictament imprescindible i restringir tant com sigui possible les interferències en la seva vida personal i familiar.
+f) Comptar amb un professional de referència que determini el ministeri encarregat dels afers socials, el qual ha de disposar de la informació conjunta de la situació, i poder accedir amb facilitat al professional esmentat perquè informi i escolti l’infant o l’adolescent.
+g) Que es respecti la seva identitat i idiosincràsia.
+h) Ser beneficiaris dels drets establerts en l’article 5 de la Llei 1/2015, de 15 de gener, per l’eradicació de la violència de gènere i de la violència domèstica, quan el risc derivi d’una situació de violència de gènere o domèstica.
+i) Que es respecti la confidencialitat total i la reserva sobre les seves circumstàncies personals i de la seva família, llevat del que sigui estrictament necessari per assegurar una intervenció eficaç, i sempre d’acord amb el seu interès superior.
+j) Relacionar-se directament amb el batlle competent de la jurisdicció de menors, el Ministeri Fiscal, i els responsables tècnics i administratius de la seva protecció.
+k) En els supòsits d’acolliment, i sempre d’acord amb la seva edat i les seves condicions de maduresa, conèixer la seva història personal i familiar en els termes establerts en aquesta Llei.
+l) Fer saber al Ministeri fiscal o al Raonador del Ciutadà les queixes i reclamacions oportunes en relació amb les mesures de protecció que s’hagin adoptat i que els afectin.

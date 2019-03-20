@@ -1,0 +1,5 @@
+# Article 119. Visites i sortides en l’acolliment de protecció intensiva
+1. Les visites dels adolescents en l’acolliment de protecció intensiva es poden suspendre o limitar en atenció al seu interès superior, sempre de manera motivada, quan el tractament educatiu així ho aconselli. Aquesta suspensió o limitació s’ha de decidir de mutu acord pel servei especialitzat d’atenció a la infància i l’adolescència i el director del centre de protecció intensiva o la persona en qui s’hagi delegat aquesta funció.
+2. Les visites no poden ser suspeses ni limitades com a conseqüència de l’aplicació d’una mesura disciplinària.
+3. El director del centre de protecció intensiva o la persona en qui s’hagi delegat aquesta funció pot restringir o suprimir les sortides dels adolescents per un període màxim d’un mes, de manera que es puguin desenvolupar programes intensius d’atenció individual. La restricció o la supressió de les sortides s’han de revisar setmanalment com a mínim.
+4. S’apliquen a les visites i les sortides les disposicions dels apartats 3 i 4 de l’article 117, sempre que no contradiguin les disposicions d’aquest article.

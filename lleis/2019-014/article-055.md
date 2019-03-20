@@ -1,0 +1,4 @@
+# Article 55. Accés a espais i a serveis
+1. Les administracions públiques, en l’àmbit de les seves competències, han de vetllar perquè els espais d’esbarjo, esportius i oberts al públic, i els serveis de què són usuaris habitualment els infants i els adolescents, disposin de les condicions físiques, ambientals, sanitàries, higièniques, d’accessibilitat i de seguretat adequades, d’acord amb el que estableixi la normativa aplicable.
+2. Les activitats de lleure i els espectacles públics en què assisteixin com a usuaris o espectadors els infants i adolescents han de comptar amb el personal suficient i degudament qualificat per evitar accidents. Els requisits que han de reunir aquest tipus d’activitats i espectacles s’han de desenvolupar reglamentàriament.
+3. Es prohibeix l’accés a les sales de joc i la participació dels infants i adolescents en jocs d’atzar, d’acord amb el que estableixi la normativa aplicable.

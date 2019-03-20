@@ -1,0 +1,2 @@
+# Article 83. Impugnació de les decisions de la Comissió d’Atenció a la Infància i l’Adolescència
+Les decisions que adopta la Comissió d’Atenció a la Infància i l’Adolescència, a proposta del servei especialitzat d’atenció a la infància i l’adolescència, i que no hagin estat ratificades mitjançant un aute del batlle competent de la jurisdicció de menors, poden ser impugnades davant el batlle esmentat en el termini màxim d’un mes a comptar de la data en què es notifiqui la decisió impugnada, sense que calgui haver exhaurit prèviament la via administrativa.

@@ -1,0 +1,3 @@
+# Article 62. Prevenció de la situació de risc en l’àmbit comunitari
+1. Les administracions públiques, en l’àmbit de les seves competències, han de dur a terme campanyes informatives d’abast comunitari sobre els factors de risc que poden comportar situacions de maltractament, així com sobre les actuacions necessàries per evitar aquestes situacions.
+2. En particular, la identificació d’indicadors o factors de risc específics respecte d’un conjunt d’infants o adolescents amb unes característiques socials, culturals o d’origen concretes, i amb una concentració de desigualtat més gran, requereix l’elaboració de plans d’intervenció social preventiva i comunitària dirigits especialment a aquest col·lectiu, que no estigmatitzin i si escau amb l’ajut de mediadors culturals.

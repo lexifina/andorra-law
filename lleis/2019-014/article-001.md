@@ -1,0 +1,6 @@
+## Títol I. Disposicions generals
+## Capítol primer. Disposicions generals, definicions i principis rectors
+## Secció primera. Disposicions generals
+# Article 1. Marc general d’aplicació i interpretació de la Llei
+1. Les normes d’aquesta Llei i les que en siguin complementàries, així com la resta de disposicions jurídiques sobre els drets dels infants i els adolescents, s’han d’interpretar en concordança amb els convenis internacionals ratificats per l’Estat andorrà, especialment la Convenció de les Nacions Unides sobre els drets de l’infant, del 20 de novembre de 1989, els seus protocols facultatius i les Observacions generals del Comitè dels Drets de l’Infant, i també d’acord amb els principis establerts en la Constitució i en la resta de la normativa que forma part de l’ordenament jurídic andorrà.
+2. Aquesta Llei fixa el marc en el qual es consolida un principi de corresponsabilitat social entre les administracions públiques, la família i la ciutadania, amb el protagonisme destacat dels infants i els adolescents, amb l’objectiu de promoure i garantir el respecte i el compliment efectius dels seus drets i deures, i l’exercici responsable dels drets esmentats per part de les persones que en són titulars.

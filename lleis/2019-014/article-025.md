@@ -1,0 +1,3 @@
+# Article 25. Dret a la llibertat d’expressió
+1. Els infants i els adolescents tenen el dret a expressar i difondre lliurement les seves opinions, sense cap tipus de censura prèvia, a través de qualsevol mitjà i en els termes legalment establerts. Aquesta llibertat d’expressió té el seu límit en la protecció de l’honor, la intimitat i la imatge del mateix infant o adolescent i de terceres persones.
+2. El dret a la llibertat d’expressió dels infants i els adolescents s’estén especialment a la publicació i la difusió de les seves opinions, a l’edició i producció de mitjans de difusió i a l’accés als ajuts que les administracions públiques estableixin amb aquesta finalitat.

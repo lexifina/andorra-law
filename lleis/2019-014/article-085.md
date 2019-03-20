@@ -1,0 +1,3 @@
+# Article 85. Servei de suport puntual amb persona o família col·laboradora
+1. L’acompanyament i el suport d’un infant o un adolescent en situació de risc durant períodes curts per una persona o una família col·laboradora o de l’àmbit del voluntariat han de tenir lloc en les condicions que s’estableixin reglamentàriament.
+2. La persona o la família col·laboradora o de l’àmbit del voluntariat ha de vetllar per l’infant o l’adolescent en situació de risc, tenir-lo en la seva companyia i assistir-lo durant els períodes esmentats a l’apartat 1 anterior, sempre sota la supervisió i amb l’acompanyament del servei especialitzat d’atenció a la infància i l’adolescència.

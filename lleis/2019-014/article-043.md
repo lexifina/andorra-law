@@ -1,0 +1,6 @@
+# Article 43. Dret al nivell de benestar adequat
+1. Els infants i els adolescents tenen el dret a un nivell bàsic de benestar adequat al seu desenvolupament integral. Els progenitors, o els titulars de la tutela o la guarda, han d’oferir aquest nivell de benestar, i les administracions públiques, en l’àmbit de les seves competències, han d’oferir-los els programes, les prestacions i els ajuts de protecció social i seguretat social necessaris per assolir-lo.
+2. Les administracions públiques, en l’àmbit de les seves competències, han d’emprendre actuacions dirigides a reduir la taxa d’infants i adolescents que es troben en situació de vulnerabilitat socioeconòmica.
+3. Les administracions públiques, en l’àmbit de les seves competències, han d’establir els criteris que determinin el nivell bàsic de benestar dels infants i els adolescents, tant material com emocional.
+4. Els infants i adolescents tenen el dret a viure de forma estable en un habitatge i a accedir als subministraments bàsics, d’acord amb el que estableixi la normativa aplicable.
+5. Les administracions públiques, en l’àmbit de les seves competències, han d’assegurar a tots els infants i els adolescents l’accés a una alimentació suficient, saludable, nutritiva i adequada a la seva edat i al seu estat de desenvolupament, d’acord amb el que estableixi la normativa aplicable.

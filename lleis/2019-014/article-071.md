@@ -1,0 +1,5 @@
+# Article 71. Registre de maltractament
+1. El ministeri encarregat dels afers socials ha de crear un registre unificat de maltractament als infants i els adolescents, per prevenir-ne casos o per intervenir-hi. El registre també ha de desenvolupar funcions estadístiques.
+2. El registre de maltractament té la funció de centralitzar totes les notificacions i les informacions que qualsevol administració o servei conegui o detecti en relació amb el maltractament als infants i els adolescents, en qualsevol moment.
+3. La creació, el funcionament, les funcions i les altres normes relatives al registre de maltractament es fan per la via reglamentària.
+4. En la gestió de la informació del Registre de maltractament s’ha de garantir la confidencialitat i la privacitat de les dades, i que l’accés, la utilització i la transmissió d’aquestes dades sigui conforme a la normativa aplicable en la matèria. No obstant això, no és necessari comptar amb el consentiment de les persones interessades per valorar la situació individual, familiar o social de l’infant o l’adolescent concernit, sempre que això es faci d’acord amb el seu interès superior.

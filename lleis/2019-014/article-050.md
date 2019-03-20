@@ -1,0 +1,7 @@
+## Secció tercera. Dret al lleure i a la cultura
+# Article 50. Dret al descans, al lleure i a les activitats d’esbarjo, culturals i artístiques
+1. Els infants i els adolescents tenen el dret al descans i a les activitats de lleure, d’esbarjo i al joc, incloses les activitats esportives, culturals i artístiques, d’acord amb la seva edat i les seves necessitats de desenvolupament.
+2. Les activitats escolars requerides i les activitats programades per als infants i als adolescents han de permetre el descans i la possibilitat de dur a terme activitats de lleure.
+3. Les administracions públiques, en l’àmbit de les seves competències, han de promocionar i donar suport a les associacions i les altres entitats culturals, esportives i socials dedicades a oferir aquestes activitats, i assegurar que l’oferta de lleure sigui suficient, variada i estable.
+4. Les administracions públiques, en l’àmbit de les seves competències, han de promocionar i fomentar la intervenció dels infants i els adolescents en programes i activitats de voluntariat, a través d’entitats públiques o privades, d’acord amb el que estableixi la normativa aplicable.
+5. Les administracions públiques, en l’àmbit de les seves competències, han de facilitar l’accés equitatiu a les activitats de lleure i d’esbarjo, al joc, i a les activitats esportives, culturals i artístiques, i han de promoure que es proveeixin els ajustos necessaris segons la diversitat de capacitats.

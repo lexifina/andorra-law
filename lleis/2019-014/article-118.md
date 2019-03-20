@@ -1,0 +1,4 @@
+# Article 118. Aïllament en l’acolliment de protecció intensiva
+1. L’aïllament d’un adolescent en l’acolliment de protecció intensiva, mitjançant la seva permanència en un espai adequat en què se’n limiti la sortida, només es pot portar a terme en els casos en què sigui imprescindible per prevenir actes violents, autolesions o lesions a terceres persones, així com per evitar danys greus a les instal·lacions del centre de protecció intensiva.
+2. L’aïllament no es pot aplicar en cap cas com una mesura disciplinària i s’ha de dur a terme preferentment en la mateixa habitació de l’adolescent o, en cas que no sigui possible, en un altre espai habilitat degudament amb aquesta finalitat. No pot excedir cinc hores consecutives i, mentre dura l’aïllament, l’adolescent ha de ser supervisat per personal especialitzat.
+3. S’apliquen a l’aïllament les disposicions dels apartats 3 i 4 de l’article 117, sempre que no contradiguin les disposicions d’aquest article.

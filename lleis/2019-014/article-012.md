@@ -1,0 +1,4 @@
+## Secció segona. Principis rectors
+# Article 12. Principi d’igualtat i no-discriminació
+1. Les administracions públiques, en l’àmbit de les seves competències, han de garantir el ple respecte al principi d’igualtat de tracte i d’oportunitats en la diversitat social dels infants i els adolescents, en el sentit d’evitar o eliminar qualsevol obstacle injustificat en termes d’equitat i de prohibir-ne la discriminació per causa de naixement, edat, raça, ètnia, gènere, orientació sexual, identitat o expressió de gènere, llengua, religió, opinió, estat de salut, condicions físiques o psíquiques, discapacitat, o qualssevol altra situació o circumstància social, econòmica o personal o de les seves famílies.
+2. Les administracions públiques, en l’àmbit de les seves competències, tenen la funció d’establir les mesures adients per evitar i eliminar els factors discriminatoris que impedeixin l’exercici efectiu dels drets regulats en aquesta Llei.

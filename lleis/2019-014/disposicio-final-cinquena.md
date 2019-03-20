@@ -1,0 +1,7 @@
+# Disposició final cinquena. Modificació de la Llei qualificada de protecció civil als drets a la intimitat, a l’honor i a la pròpia imatge
+Es modifica l’apartat 3 de l’article 5 de la Llei 30/2014, de 27 de novembre, qualificada de protecció civil als drets a la intimitat, a l’honor i a la pròpia imatge, el qual queda redactat en els termes següents:
+“Article 5. Consentiment
+[…]
+3. En el cas d’una persona menor d’edat, només es pot prestar el consentiment per a l’accés legítim en la intimitat o la pròpia imatge, i s’ha de prestar per ella mateixa, si les seves condicions de maduresa li ho permeten. En aquest sentit, es presumeix que tota persona major de setze anys té aquestes condicions de maduresa. En cas contrari, el consentiment l’han de prestar els seus representants legals.
+En tot cas, és nul el consentiment per a l’accés legítim en el dret a la intimitat o la pròpia imatge de la persona menor d’edat si la utilització del seu nom o imatge produeixen un perjudici de la seva reputació, o si és contrària als seus interessos. Quan un operador de mitjans de comunicació o un proveïdor de continguts hagin actuat diligentment en la sol·licitud del consentiment d’una persona menor d’edat, ni aquests darrers, ni terceres persones per ells autoritzades, ni prestadors de serveis d’intermediació no són responsables en el cas que, amb posterioritat, es declari nul el consentiment. El consentiment per a l’accés legítim en el dret a l’honor de la persona menor d’edat és nul en tots els casos.
+[…].”

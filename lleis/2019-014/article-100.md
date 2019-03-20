@@ -1,0 +1,4 @@
+# Article 100. Formalització de l’acolliment familiar
+1. L’acolliment familiar, temporal o permanent, s’ha de formalitzar per escrit, i hi ha de constar el consentiment de la persona o la família acollidora i de l’adolescent acollit. En el cas dels infants, han de ser escoltats abans de formalitzar l’acolliment si tenen la capacitat i la maduresa suficients.
+2. En el moment de formalitzar l’acolliment, el servei especialitzat d’acolliments familiars ha de facilitar a la persona o la família acollidora tota la documentació i la informació necessàries per exercir adequadament la guarda de l’infant o l’adolescent.
+3. Els criteris de valoració de les persones o les famílies acollidores s’han d’establir per la via reglamentària, i han de tenir en compte en tot cas l’edat, l’aptitud educadora, la situació familiar i les altres circumstàncies que incideixin en l’interès superior de l’infant o l’adolescent acollit.

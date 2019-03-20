@@ -1,0 +1,5 @@
+# Article 106. Concepte d’acolliment residencial
+1. L’acolliment en un centre residencial s’ha de decidir quan es prevegi que la situació de desemparament o la necessitat de separació de la pròpia família són transitoris, i no ha estat possible o aconsellable l’acolliment familiar per part d’una persona o família, o quan les necessitats de l’adolescent així ho requereixin. També és aplicable quan, malgrat que s’acompleixen els requisits per a la preadopció, aquesta preadopció no s’ha pogut constituir.
+2. L’acolliment en un centre residencial consisteix en el fet que l’infant o l’adolescent resideixi en un centre adequat a les seves característiques per tal que rebi l’atenció i l’educació necessàries.
+3. Els centres on es porta a terme l’acolliment residencial han de ser oberts, integrats en un barri o en una comunitat, i s’han d’organitzar sempre en unitats que permetin un tracte afectiu i una vida quotidiana personalitzats.
+4. L’acolliment en un centre residencial es constitueix mitjançant un aute del batlle competent de la jurisdicció de menors.

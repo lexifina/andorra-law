@@ -1,0 +1,2 @@
+# Article 96. Concepte d’acolliment familiar
+S’entén per acolliment familiar la mesura de protecció d’un infant o un adolescent en situació de desemparament en virtut de la qual es produeix la plena participació d’aquest infant o adolescent en la vida d’una família, que assumeix les obligacions de vetllar per ell, tenir-lo en la seva companyia, alimentar-lo, educar-lo i procurar-li una formació completa en un entorn afectiu estable que faci possible el desenvolupament integral de la seva personalitat.

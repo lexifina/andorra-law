@@ -1,0 +1,3 @@
+# Article 37. Deures en l’àmbit familiar
+1. Els infants i els adolescents han de participar en la vida de família i han de respectar i potenciar una relació personal i familiar sana i afectiva en relació amb els seus progenitors, els titulars de la tutela o la guarda, els germans i els altres familiars i persones que visquin a la llar, d’acord amb el que estableixi la normativa aplicable.
+2. Els infants i adolescents han de col·laborar en les tasques domèstiques de la llar on visquin, d’acord amb la seva edat, el seu grau de desenvolupament i la seva capacitat, i amb independència del seu gènere.

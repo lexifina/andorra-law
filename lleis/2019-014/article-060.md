@@ -1,0 +1,6 @@
+## Secció segona. Actuacions preventives
+# Article 60. Prevenció
+1. Les administracions públiques, en l’àmbit de les seves competències, han de desenvolupar de forma prioritària, i amb l’assignació pressupostària específica, les actuacions preventives necessàries per abordar els indicadors i els factors de risc i per prevenir les situacions que puguin posar els infants i els adolescents en una situació de desprotecció.
+2. Les actuacions preventives a què fa referència l’apartat 1 anterior suposen també considerar les causes estructurals que poden donar lloc a la desprotecció, ja siguin individuals, familiars o socials, i relatives a la salut pública, la pobresa, la vulnerabilitat socioeconòmica o la discriminació per diferents causes, entre d’altres.
+3. Per desenvolupar actuacions de prevenció dels maltractaments als infants i els adolescents, les administracions públiques, en l’àmbit de les seves competències, poden subscriure acords de col·laboració amb altres entitats públiques i privades.
+4. En l’elaboració de polítiques i programes de sensibilització i educació per prevenir el maltractament als infants i els adolescents, s’ha de fomentar la participació dels mateixos infants i adolescents, així com de la societat civil i del sector privat que incideixi en aquestes matèries.

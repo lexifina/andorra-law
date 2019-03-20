@@ -1,0 +1,2 @@
+# Article 6. Coordinació
+Les administracions públiques amb competències en matèria dels drets dels infants i els adolescents han d’actuar de manera coordinada entre si i amb les entitats ciutadanes i les famílies, per garantir la millor atenció conduent a la realització plena dels drets i el benestar dels infants i els adolescents. Aquesta actuació coordinada s’ha de fer comptant sempre amb la participació directa dels infants i els adolescents, d’acord amb la seva edat i les seves condicions de maduresa.

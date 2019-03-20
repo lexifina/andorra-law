@@ -1,0 +1,3 @@
+# Article 109. Programa de suport i atenció temporal
+1. L’estada durant períodes de temps curts, durant els caps de setmana o durant les vacances d’un infant o un adolescent en situació de desemparament mitjançant un acolliment residencial o amb una persona o família col·laboradora, es porta a terme en les condicions que s’estableixin reglamentàriament, atenent de manera prioritària els infants o adolescents en situacions que dificultin l’establiment d’un acolliment familiar, temporal o permanent.
+2. La persona o la família col·laboradora ha de vetllar per l’infant o l’adolescent, tenir-lo en la seva companyia, alimentar-lo i assistir-lo, sempre sota la supervisió i amb l’acompanyament del servei especialitzat d’atenció a la infància i l’adolescència.

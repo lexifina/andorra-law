@@ -1,0 +1,3 @@
+# Article 48. Drets en matèria de formació professional i d’accés al món laboral
+1. Les administracions públiques, en l’àmbit de les seves competències, han d’incentivar l’existència de programes de formació i inserció laboral per a adolescents en edat laboral que afavoreixin la transició a un treball digne. En aquests programes, s’ha de prestar una atenció especial als infants i adolescents en situació de vulnerabilitat.
+2. S’ha de garantir als adolescents en edat laboral la informació i l’orientació oportunes, lliure d’estereotips per raó de gènere, sobre les possibilitats educatives i professionals existents, se’ls ha d’oferir un ensenyament i una formació adequats, i s’ha de fomentar la vessant pràctica d’aquesta formació sempre que sigui possible.

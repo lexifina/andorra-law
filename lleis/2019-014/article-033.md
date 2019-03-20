@@ -1,0 +1,5 @@
+## Secció segona. Drets en l’àmbit familiar
+# Article 33. Responsabilitat en la criança i en el desenvolupament integral
+1. La millor atenció a les necessitats dels infants i els adolescents es dona de manera natural en el si de la seva família. La responsabilitat primordial de la cura, la criança i la formació integral dels infants i els adolescents correspon als progenitors o a les persones que en tinguin atribuïda la tutela o la guarda, d’acord amb el que disposa la normativa aplicable.
+2. Els progenitors i les persones que tenen atribuïda la tutela o la guarda dels infants i els adolescents han de garantir el seu benestar i han de procurar-los un entorn de vida adequat i saludable, sempre d’acord amb les seves possibilitats.
+3. Els progenitors o les persones que tenen atribuïda la tutela o la guarda dels infants i els adolescents tenen l’obligació d’exercir responsablement les seves funcions, sense perjudici de l’actuació subsidiària de les administracions públiques, en els termes que estableixi la normativa aplicable.

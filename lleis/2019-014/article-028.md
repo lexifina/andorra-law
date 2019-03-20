@@ -1,0 +1,3 @@
+# Article 28. Drets de participació social
+1. Els infants i els adolescents tenen el dret a participar plenament en els nuclis de convivència més propers i en la vida social, cultural, artística i recreativa del seu entorn, així com a incorporar-se progressivament a la ciutadania activa, d’acord amb el seu grau de desenvolupament personal.
+2. Les administracions públiques, en l’àmbit de les seves competències, han de promoure mesures destinades a facilitar i garantir la participació dels infants i els adolescents en espais destinats a recollir les seves opinions amb relació a les normes, les polítiques, els projectes, els programes o les decisions que els afectin, així com en l’avaluació que se’n dugui a terme.

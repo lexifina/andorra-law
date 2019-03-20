@@ -1,0 +1,3 @@
+# Article 27. Dret a la llibertat de pensament, consciència i religió
+1. Els infants i els adolescents tenen dret a la llibertat de pensament, de consciència i de religió, en els termes que estableixi la normativa aplicable, i sempre respectant els drets i les llibertats fonamentals de la resta de ciutadans.
+2. Els progenitors i els titulars de la tutela o de la guarda tenen el dret i el deure prioritari d’afavorir i de cooperar perquè els infants i els adolescents exerceixin aquesta llibertat, d’acord amb la seva edat i les seves condicions de maduresa, de manera que contribueixin al seu desenvolupament integral, sempre en consonància amb el seu interès superior.

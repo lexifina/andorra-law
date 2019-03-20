@@ -1,0 +1,3 @@
+# Article 9. Avaluació
+1. La Comissió Nacional de la Infància i l’Adolescència té la missió d’avaluar periòdicament i de manera permanent la situació real dels infants i els adolescents i, en especial, l’impacte de les polítiques, els plans, els programes i els protocols que s’implementin en aplicació d’aquesta Llei.
+2. Amb caràcter previ a l’aprovació dels textos normatius i les polítiques, els plans i els programes que incideixin, directament o indirectament, en els drets dels infants i els adolescents, la Comissió Nacional de la Infància i l’Adolescència o l’organisme en qui delegui aquesta funció ha d’elaborar una memòria d’anàlisi de l’impacte que poden tenir respecte dels drets dels infants i els adolescents, en els termes que s’estableixin reglamentàriament.

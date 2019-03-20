@@ -1,0 +1,2 @@
+# Article 10. Prioritat pressupostària
+Les administracions públiques, en l’àmbit de les seves competències, han de tenir entre les seves prioritats pressupostàries les activitats de promoció, prevenció, protecció, formació, integració, reinserció i participació dels infants i els adolescents. Aquest pressupost ha de ser específic i amb una fonamentació clara i estable, així com d’identificació, seguiment i avaluació fàcils.

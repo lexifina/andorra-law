@@ -1,0 +1,3 @@
+# Article 121. Programes de transició a la vida adulta i de suport a l’autonomia personal
+1. Les administracions públiques, en l’àmbit de les seves competències, han d’oferir programes de transició a la vida adulta i de suport a l’autonomia personal que incloguin, entre d’altres, mesures de formació, inserció sociolaboral, ajuts econòmics, allotjament o suport psicològic.
+2. Aquests programes s’han d’adaptar a les necessitats de cada adolescent i jove, i són de participació voluntària. Els destinataris d’aquests programes són adolescents a partir dels setze anys i joves que, més enllà de la majoria d’edat, es trobin en una situació vulnerable, fonamentalment els que estan o han estat subjectes d’una mesura de protecció.

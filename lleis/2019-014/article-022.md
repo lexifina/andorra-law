@@ -1,0 +1,3 @@
+# Article 22. Intervenció en els processos judicials i de mediació
+1. La intervenció dels infants i els adolescents en un procés judicial davant qualsevol jurisdicció o en un procés de mediació s’ha de fer en un entorn favorable i en unes condicions que permetin prendre en consideració la seva edat, el seu grau de maduresa i desenvolupament, i les seves dificultats de comunicació eventuals.
+2. Les autoritats i els professionals que participen en processos judicials o de mediació en què intervinguin infants i adolescents han d’haver rebut una formació específica per comunicar-se d’una forma amigable i evitar perjudicis ulteriors a l’infant o l’adolescent.

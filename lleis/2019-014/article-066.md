@@ -1,0 +1,2 @@
+# Article 66. Recerca en matèria de maltractaments
+Les administracions públiques, en l’àmbit de les seves competències, han de promoure la recerca sobre el maltractament dels infants i els adolescents. Aquesta recerca ha de comportar l’anàlisi de les causes, les conseqüències i les estratègies necessàries per eradicar el maltractament, i ha d’incloure la recopilació de dades i una difusió oportuna dels resultats.

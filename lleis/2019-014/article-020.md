@@ -1,0 +1,4 @@
+# Article 20. Raonador del Ciutadà
+1. El Raonador del Ciutadà, d’acord amb la llei que regula aquesta institució, té la missió de promoure i defensar els drets i les llibertats dels infants i els adolescents i de vetllar pel ple compliment de les condicions del seu desenvolupament integral.
+2. També correspon al Raonador del Ciutadà, d’acord amb la llei que regula aquesta institució, elaborar d’ofici informes o recomanacions sobre qüestions d’interès general en matèria d’infància i adolescència; fomentar la divulgació dels drets dels infants i els adolescents, tot promovent-ne l’exercici; orientar les administracions públiques en relació amb les polítiques d’infància i adolescència, i proposar reformes legislatives i administratives a favor dels drets esmentats.
+3. El Raonador del Ciutadà ha d’incloure en el seu informe anyal un capítol específic relatiu a les seves actuacions per promoure, fer respectar i protegir els drets dels infants i els adolescents.

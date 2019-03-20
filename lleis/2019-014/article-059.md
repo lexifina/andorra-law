@@ -1,0 +1,9 @@
+## Títol II. Protecció als infants i els adolescents
+## Capítol primer. Protecció als infants i els adolescents contra qualsevol tipus de maltractament
+## Secció primera. Disposicions generals
+# Article 59. Protecció contra qualsevol tipus de maltractament
+1. Les administracions públiques, en l’àmbit de les seves competències, han de protegir els infants i els adolescents contra qualsevol tipus de maltractament, per garantir el seu benestar i el seu desenvolupament sa i ple.
+2. El sistema de protecció dels infants i els adolescents comprèn el conjunt d’actuacions, mesures i serveis dirigits a prevenir, detectar, notificar, derivar, intervenir, prestar atenció i facilitar la recuperació i la reinserció social, segons correspongui, de qualsevol forma de maltractament que pateixin aquests infants i adolescents.
+3. S’entén per maltractament qualsevol tipus de violència, física o psicològica, com ara els càstigs corporals, la negligència, els abusos sexuals, la violència de gènere, domèstica o familiar i l’explotació sexual, laboral o amb qualsevol altra finalitat, incloent-hi quan es du a terme mitjançant les tecnologies de la informació i la comunicació, amb independència de l’entorn o la persona o la institució que el genera. També ho és la manca d’atenció de les necessitats bàsiques de l’infant que afectin al seu desenvolupament.
+4. Les administracions públiques, les altres entitats públiques i privades i els professionals que intervenen en el sistema de protecció als infants i els adolescents han de col·laborar i actuar de forma coordinada i transversal per garantir una actuació integral contra qualsevol tipus de maltractament.
+5. Constitueixen situacions de desprotecció social dels infants i els adolescents en l’àmbit familiar les situacions de risc i de desemparament, que es desenvolupen en el capítol segon d’aquest títol.
