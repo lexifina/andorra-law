@@ -1,0 +1,7 @@
+## Capítol cinquè. Convivència ciutadana
+# Article 43. Tranquil·litat pública i dret al descans
+1. Tots els ciutadans estan obligats a respectar la tranquil·litat pública i el dret al descans dels altres ciutadans, evitant de fer sorolls que alterin la convivència ciutadana.
+2. S’entén que el període durant el qual regeix el dret al descans dels ciutadans és el que està comprès entre les 22:00 hores i les 8:00 hores els dies laborables, i entre les 22:00 hores i les 9:00 hores els caps de setmana i els dies festius.
+3. Resta prohibit pertorbar la tranquil·litat pública i el descans dels veïns mitjançant l’ús inadequat o anormal d’aparells de televisió, ràdio o música, o de qualsevol altre aparell sonor, o mitjançant cants, crits, baralles o qualsevol altre acte molest, i, en general, mitjançant l’emissió de qualsevol soroll, àdhuc els sorolls que produeixin els animals domèstics.
+4. Resta prohibit que els vehicles estacionats a la via pública o en aparcaments o altres espais públics o privats facin sorolls que pertorbin la tranquil·litat pública o el dret al descans dels ciutadans. En aquest cas, si els vehicles són a la via pública o en aparcaments o altres espais públics, el Cos de Policia, juntament amb els agents de circulació, els pot retirar.
+5. La prohibició a què fa referència l’apartat 3 anterior es pot modular en virtut de l’atorgament de l’autorització administrativa corresponent, sempre que la normativa aplicable en matèria de contaminació acústica o en qualsevol altra matèria així ho estableixi.
