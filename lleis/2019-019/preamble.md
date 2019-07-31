@@ -1,0 +1,7 @@
+Llei 19/2019, de l’11 de juliol, de modificació de la Llei 24/2018, del 18 d’octubre, del Codi de procediment civil
+Llei 19/2019, de l’11 de juliol, de modificació de la Llei 24/2018, del 18 d’octubre, del Codi de procediment civil
+Atès que el Consell General en la seva sessió del dia 11 de juliol del 2019 ha aprovat la següent:
+Llei 19/2019, de l’11 de juliol, de modificació de la Llei 24/2018, del 18 d’octubre, del Codi de procediment civil
+Exposició de motius
+La Llei 24/2018, del 18 d’octubre, va ser aprovada pel Consell General amb l’objectiu de disposar d’un instrument per resoldre els conflictes en l’àmbit civil amb una aposta decidida per la introducció plena a la Llei de les noves tecnologies, tenint en compte el procés coetani d’implantació d’un sistema informàtic prop de l’Administració de justícia que ha de permetre la comunicació, la notificació i l’arxivament dels documents processals mitjançant sistemes electrònics i que al seu torn suposi una millora del sistema de procediment civil en termes de temps i d’estalvi econòmic, així com una garantia més gran per a tots els intervinents en el sistema de justícia.
+En aquest sentit, es promou una modificació de la Llei del Codi de procediment civil per tal de diferir la seva entrada en vigor, amb l’objectiu que, a l’entrada en vigor d’aquesta Llei, hi hagi les màximes garanties d’un òptim funcionament de tots els elements logístics i tecnològics previstos en aquest Codi.
