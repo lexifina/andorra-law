@@ -1,0 +1,4 @@
+# Article 409. Entrega de coses genèriques o indeterminades
+1. El tribunal ha de posar l’executant en possessió de les coses genèriques o indeterminades, d’acord amb el que estableixi l’aute d’execució, una vegada transcorregut el termini fixat en el requeriment que s’hi conté, si l’executat no ho ha fet voluntàriament.
+2. En cas que sigui impossible entregar les coses genèriques o indeterminades, l’executant pot sol·licitar al tribunal que el faculti per adquirir aquestes coses a les costes de l’executat, al preu de mercat. El tribunal decideix mitjançant un aute quin és el cost d’adquirir les coses genèriques o indeterminades.
+3. Un cop el tribunal fixa el cost d’adquirir les coses genèriques o indeterminades, l’execució forçosa en relació amb aquesta quantitat correspon al tribunal o al saig, d’acord amb els articles 374 i 375 d’aquesta Llei i d’acord amb la Llei del saig.

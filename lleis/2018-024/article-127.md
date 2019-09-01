@@ -1,0 +1,4 @@
+# Article 127. Presentació d’escrits i documents
+1. Les parts han de presentar al tribunal competent els escrits i els documents que aportin al procés, ja sigui en suport de paper, ja sigui en suport electrònic i amb la signatura electrònica reconeguda.
+2. La presentació dels documents que han de tenir efectes en el procés es produeix per mitjà del servei informàtic de comunicació processal establert a les oficines judicials o als tribunals, als despatxos o bufets d’advocats i procuradors, i prop de les altres persones i entitats públiques o privades que es relacionen o col·laboren amb l’Administració de justícia.
+3. La demanda i la contesta, així com els documents processals i materials inicials del procés, es poden presentar de forma excepcional mitjançant l’entrega material davant el tribunal competent de l’escrit o el document acompanyat de tantes còpies literals com altres parts personades hi hagi en el procés.

@@ -1,0 +1,3 @@
+# Disposició transitòria primera. Normes processals
+1. Els processos judicials que s’estiguin tramitant en la primera instància, en fase de recurs o en període d’execució forçosa en el moment de l’entrada en vigor d’aquesta Llei, se seguiran substanciant d’acord amb les normes processals vigents amb anterioritat. No obstant això, sempre que sigui possible, un cop finalitzi la instància, la fase o el període de què es tracti, els processos judicials se seguiran substanciant, si escau, d’acord amb les normes d’aquesta Llei.
+2. En qualsevol cas, els processos judicials a què fa referència l’apartat 1 anterior han d’haver estat resolts definitivament en fase declarativa en el termini màxim de dos anys des de la data de l’entrada en vigor d’aquesta Llei.

@@ -1,0 +1,3 @@
+# Article 312. Admissió de les proves i assenyalament del judici oral
+1. Un cop finalitzen els tràmits d’al·legacions, el tribunal dicta un aute dins els tretze dies hàbils següents en què admet o no admet les proves proposades, d’acord amb els criteris de legalitat, utilitat, pertinència, necessitat i proporcionalitat establerts en aquesta Llei.
+2. El tribunal assenyala la data en què se celebra el judici oral dins els vint dies hàbils següents al dia en què finalitzen els tràmits d’al·legacions, prorrogables vint dies hàbils més com a màxim en els casos en què sigui menester per practicar les proves admeses.

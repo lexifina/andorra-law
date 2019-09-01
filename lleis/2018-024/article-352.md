@@ -1,0 +1,3 @@
+# Article 352. Costes processals en cas d’aplanament
+1. El tribunal només imposa les costes processals al demandat si s’aplana amb posterioritat al termini concedit per contestar a la demanda.
+2. No obstant el que estableix l’apartat anterior, si el tribunal estima que concorre mala fe del demandat, li imposa les costes processals encara que s’hagi aplanat dins el termini concedit per contestar a la demanda. Es considera que concorre mala fe del demandat quan, malgrat que el demandant ha requerit extrajudicialment al demandat que compleixi les seves obligacions, o malgrat que hi ha hagut un procediment de mediació o una demanda de conciliació previs, el demandant s’ha vist compel·lit a interposar la demanda.

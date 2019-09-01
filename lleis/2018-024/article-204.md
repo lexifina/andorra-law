@@ -1,0 +1,2 @@
+# Article 204. Testimonis amb deure de guardar secret
+Els testimonis que, per raó de la seva professió, tinguin el deure de guardar secret sobre els fets en relació amb els quals se’ls interroga, han de manifestar-ho raonadament al tribunal. En cas que una llei no impedeixi que el testimoni declari, el tribunal considera el fonament de la negativa a declarar i resol sobre si el testimoni concernit queda alliberat o no de declarar.

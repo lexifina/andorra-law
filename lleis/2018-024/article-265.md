@@ -1,0 +1,3 @@
+# Article 265. Pagament i incompareixença o no oposició del deutor
+1. Si el deutor atén el requeriment de pagament o acredita que ha satisfet l’import del deute reclamat en el termini assenyalat a aquest efecte, el tribunal arxiva les actuacions sense cap altre tràmit, sense imposar les costes processals.
+2. En cas que el deutor no atengui el requeriment de pagament o no acrediti que ha satisfet l’import del deute reclamat, i al mateix temps no comparegui dins el termini assenyalat a aquest efecte o comparegui però no al·legui que s’oposa al deute reclamat, el tribunal dicta un aute dins els tretze dies hàbils següents en què despatxa l’execució contra el deutor, i li imposa les costes processals. Contra aquest aute no es pot interposar cap recurs.

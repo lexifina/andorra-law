@@ -1,0 +1,5 @@
+# Article 403. Ampliació de l’execució forçosa dinerària
+1. La quantitat que és objecte de l’execució forçosa es pot ampliar d’acord amb el venciment futur dels terminis de la mateixa obligació continguda en el títol executiu i en virtut de la qual l’execució és procedent.
+2. L’executant ha de sol·licitar l’ampliació de l’execució forçosa en la demanda o la sol·licitud d’execució, tot aportant un resum dels terminis i les quantitats que han de vèncer.
+3. En cas que el tribunal o el saig admeti l’ampliació de l’execució forçosa, ha d’advertir l’executat de l’obligació de pagament que en resulta, i, si a les dates de venciment no ha satisfet les quantitats corresponents, l’execució forçosa s’amplia de forma automàtica.
+4. Si el saig ha admès l’ampliació de l’execució forçosa, ha de presentar al tribunal que ha dictat la resolució judicial executòria una liquidació final del deute executat que inclogui els venciments i els terminis en què han tingut lloc, i els interessos meritats durant l’execució.

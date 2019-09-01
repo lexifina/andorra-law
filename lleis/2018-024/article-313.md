@@ -1,0 +1,4 @@
+# Article 313. Especificitats durant el judici oral
+1. Durant el judici oral, el tribunal ha de procedir al reconeixement judicial de la persona que és subjecte del procés de modificació de la capacitat i l’ha de consultar en relació amb la persona o les persones proposades per ser titulars de la institució de protecció o de suport.
+2. El tribunal també ha d’escoltar la persona o les persones proposades per ser titulars de la institució de protecció o de suport i, si ho considera oportú, pot escoltar els parents més pròxims i el facultatiu tractant de la persona que és subjecte del procés de modificació de la capacitat.
+3. Durant la tramitació del procés de modificació de la capacitat s’ha d’encomanar, d’ofici o a instància de part, un dictamen pericial d’un facultatiu independent. El perit designat ha de ratificar aquest dictamen durant el judici oral, i n’ha d’exposar el contingut i les conclusions.

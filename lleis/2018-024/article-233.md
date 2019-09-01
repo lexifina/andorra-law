@@ -1,0 +1,2 @@
+# Article 233. Documents públics no susceptibles de confrontació o comprovació
+En cas que els documents públics no siguin susceptibles de confrontació o comprovació per la seva antiguitat, pel fet que no tenen original, protocol o matriu, o pel fet que l’original, el protocol o la matriu han desaparegut, el tribunal en valora la força probatòria d’acord amb la resta de les proves practicades i les regles de la sana crítica.

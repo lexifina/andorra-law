@@ -1,0 +1,5 @@
+## Capítol sisè. Judici oral
+## Secció primera. Celebració del judici oral
+# Article 240. Compareixença de les parts
+1. Les parts han de comparèixer al judici oral assistides de l’advocat. Les parts que siguin persones jurídiques també han de comparèixer-hi representades pel procurador, i les parts que siguin persones físiques poden comparèixer-hi personalment, i si no hi compareixen personalment han de ser representades per l’advocat o el procurador. En cas contrari, se les considera com a no comparegudes al judici oral.
+2. Si cap de les parts compareix al judici oral, es fa constar a l’acta i el tribunal declara el procés vist per a sentència. Si només hi compareix alguna de les parts, se celebra el judici oral, llevat que no hi comparegui el demandant i el demandat al·legui que no té interès en la continuació del procés i que sol·licita al tribunal que consideri que el demandant desisteix del procés. En aquest cas, el tribunal dicta un aute en què estima aquesta sol·licitud i arxiva les actuacions sense cap altre tràmit, tot imposant les costes processals al demandant.

@@ -1,0 +1,5 @@
+# Article 63. Competència funcional
+1. Els tribunals civils que tenen competència per conèixer i resoldre un procés fan extensiva la seva competència als incidents que s’hi puguin plantejar, i també són competents per executar les resolucions interlocutòries que dictin durant la tramitació del procés.
+2. És competent per conèixer i resoldre un procés el mateix tribunal que hagi conegut i resolt en relació amb les diligències preliminars, les mesures d’assegurament de la prova o l’anticipació de la prova que porten causa d’aquest procés, o en relació amb les mesures provisionals prèvies al procés que se substanciï pel procediment de família.
+3. És competent per despatxar l’execució de les sentències fermes el mateix tribunal que hagi dictat la sentència en primera instància, sense perjudici de les competències atribuïdes al saig en aquesta matèria, d’acord amb la Llei del saig.
+4. La competència per conèixer i resoldre els recursos ve determinada per aquesta Llei. Si el tribunal conclou que no és competent per conèixer i resoldre un recurs, dicta un aute en què no admet el recurs i on indica, si escau, quin és el tribunal competent a aquest efecte.

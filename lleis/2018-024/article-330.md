@@ -1,0 +1,3 @@
+# Article 330. Àmbit del recurs d’apel·lació
+1. El recurs d’apel·lació contra les sentències definitives obre la segona instància del procés, que té com a finalitat la revisió de la sentència en els termes dels pronunciaments que s’hi contenen i que han estat impugnats, d’acord amb els motius d’apel·lació que formulin les parts.
+2. En la segona instància les parts no poden formular peticions, fer valer fonaments de fet o de dret, o proposar proves que no ho hagin estat en la primera instància, llevat que al·leguin fets nous o de nova notícia o proposin la pràctica de proves d’acord amb el que estableix aquesta secció.

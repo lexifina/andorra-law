@@ -1,0 +1,2 @@
+# Article 342. Procediment
+El recurs d’apel·lació contra els autes definitius i els altres autes, si aquesta Llei o les altres lleis aplicables ho estableixen, s’interposa, es tramita i es resol d’acord amb el que preveuen els articles 334, 335 i 337 a 339 per a les sentències dictades en els processos que se substancien pels procediments especials, en el que siguin aplicables. No obstant això, el recurs d’apel·lació es resol mitjançant un aute en tots els casos.

@@ -1,0 +1,7 @@
+## Capítol tercer. Audiència prèvia
+## Secció primera. Citació i intervenció, finalitats de l’audiència prèvia i conciliació
+# Article 150. Citació i intervenció en l’audiència prèvia
+1. Un cop finalitzen els tràmits d’al·legacions i en el termini màxim de vint dies hàbils, el tribunal cita les parts personades en el procés a una audiència prèvia que s’ha de celebrar dins els vint dies hàbils següents al dia en què es fa la citació.
+2. Les parts han de comparèixer a l’audiència prèvia assistides de l’advocat. Les parts que siguin persones jurídiques també han de comparèixer-hi representades pel procurador, i les parts que siguin persones físiques poden comparèixer-hi personalment, i si no hi compareixen personalment han de ser representades per l’advocat o el procurador. En cas contrari, se les considera com a no comparegudes a l’audiència prèvia.
+3. Si cap de les parts no compareix a l’audiència prèvia, es fa constar a l’acta i el tribunal dicta un aute en què decideix que el procés ha finalitzat i que l’acció ha quedat imprejutjada, i també l’arxivament de les actuacions sense cap altre tràmit.
+4. Si el demandant no compareix a l’audiència prèvia, es procedeix d’acord amb el que estableix l’apartat anterior, llevat que el demandat al·legui un interès legítim en la continuació del procés perquè es dicti una sentència sobre el fons d’aquest procés. Si el demandat no compareix a l’audiència prèvia, se celebra amb la presència del demandant.

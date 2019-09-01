@@ -1,0 +1,3 @@
+# Article 129. Omissió i inexactitud dels escrits i documents
+1. Les parts responen dels escrits i els documents presentats al procés i de les seves còpies, i en concret de la seva exactitud.
+2. L’omissió o la inexactitud en relació amb els escrits i els documents presentats al procés, i en relació amb les seves còpies, es pot esmenar a requeriment del tribunal, d’ofici o a instància de part. En aquest cas, el tribunal requereix a la part concernida que ho esmeni en el termini de cinc dies hàbils, i en cas contrari aquests escrits i documents, o les seves còpies, es tenen per no presentats a tots els efectes.

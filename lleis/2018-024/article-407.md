@@ -1,0 +1,5 @@
+# Article 407. Requeriment i mesures de garantia de l’execució forçosa no dinerària
+1. El tribunal fixa en l’aute d’execució la forma i el termini de compliment de l’obligació no dinerària, que s’estableix segons la naturalesa del fer i les altres circumstàncies que concorrin. En cas d’una obligació d’entrega d’un bé immoble, el tribunal fixa el termini màxim per desallotjar aquest bé immoble.
+2. El tribunal requereix a l’executat, en virtut de l’aute d’execució, que compleixi, dins el termini que s’hi preveu, l’obligació continguda en el títol executiu. En el cas d’una obligació d’entrega d’un bé immoble, s’adverteix específicament a l’aute d’execució del termini per fer-ho.
+3. El tribunal, a instància de l’executant, pot decidir les mesures de garantia oportunes per assegurar l’efectivitat de l’execució forçosa.
+4. El tribunal pot decidir mitjançant un aute, a instància de l’executant, embargar els béns i drets de l’executat en la quantitat suficient per assegurar el pagament de la quantitat pecuniària equivalent i les costes de l’execució. Contra aquest aute no es pot interposar cap recurs.

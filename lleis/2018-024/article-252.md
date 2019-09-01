@@ -1,0 +1,4 @@
+# Article 252. Demanda. Al·legacions posteriors i litispendència
+1. El procés que se substancia pel procediment abreujat comença amb la demanda, que ha de tenir la forma i el contingut que estableix l’article 130.
+2. El demandant ha d’aportar amb la demanda, si escau, els dictàmens pericials i ha de proposar les altres proves que consideri útils, pertinents i necessàries per acreditar les seves pretensions, i sol·licitar-ne l’admissió al tribunal. Així, ha d’indicar i facilitar les dades de les parts, els testimonis i els perits que han de ser citats per al judici oral, i ha de sol·licitar la designació d’un perit judicial, si escau.
+3. Dins els cinc dies hàbils següents al dia en què es rep la demanda, el president del Tribunal de Batlles designa, mitjançant una providència, el tribunal al qual correspon per torn el coneixement del procés.

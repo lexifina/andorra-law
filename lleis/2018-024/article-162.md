@@ -1,0 +1,5 @@
+## Secció tercera. Al·legacions complementàries i aportació de documents
+# Article 162. Al·legacions i peticions complementàries
+1. Les parts poden fer al·legacions complementàries, a l’audiència prèvia, tenint en compte el que hi exposin les altres parts; aclarir les al·legacions que hagin fet en els escrits que han presentat, o rectificar aspectes accessoris de les peticions que han formulat, sempre que no alterin substancialment les peticions ni els fonaments en què se sustenten i que es contenen en els escrits que han presentat.
+2. Les parts també poden afegir, a l’audiència prèvia, peticions complementàries de les peticions que han formulat en els escrits que han presentat, sempre que les altres parts hi estiguin d’acord. Tanmateix, si les altres parts s’hi oposen, el tribunal decideix sobre si admet aquestes peticions complementàries tenint en compte que no han d’impedir que aquestes parts puguin exercir el seu dret a la defensa en condicions d’igualtat.
+3. El demandant pot presentar, a l’audiència prèvia, l’escrit d’oposició a les excepcions de nul·litat o de compensació a què fa referència l’article 138.

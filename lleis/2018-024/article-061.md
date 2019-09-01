@@ -1,0 +1,3 @@
+# Article 61. Apreciació de la manca de competència objectiva
+1. El tribunal aprecia d’ofici i tan aviat com ho adverteixi la manca de competència objectiva. A aquest efecte, després que el secretari judicial hagi decidit mitjançant una interlocutòria la suspensió del procés, el tribunal dona audiència a les parts personades en el procés en el termini de tretze dies hàbils, i decideix mitjançant un aute dins els tretze dies hàbils següents. Aquest aute indica quin és el tribunal competent.
+2. El demandat també pot denunciar la manca de competència objectiva mitjançant la declinatòria que regula aquesta Llei.

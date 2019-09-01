@@ -1,0 +1,3 @@
+# Article 128. Trasllat de còpies d’escrits i documents
+1. El secretari judicial trasllada una còpia dels escrits i els documents presentats a les parts personades en el procés per mitjà del servei informàtic de comunicació processal, d’acord amb les normes del capítol tercer del llibre primer.
+2. Els escrits i els documents originals formen part de l’expedient judicial que ha de conservar i custodiar el secretari judicial. No en poden ser extrets ni retirats fins que el procés hagi finalitzat, llevat que se’n deixi una còpia autèntica a l’expedient judicial tot deixant constància per diligència de l’entrega que se n’ha fet.

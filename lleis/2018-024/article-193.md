@@ -1,0 +1,3 @@
+# Article 193. Respostes de la confessió en judici o interrogatori de les parts
+1. La part que és subjecte de l’interrogatori ha de respondre en nom propi i de paraula, i no pot utilitzar cap esborrany de respostes. No obstant això, pot consultar documents, notes o apunts quan, a criteri del tribunal, siguin convenients per auxiliar-ne la memòria.
+2. Les respostes de la part que és subjecte de l’interrogatori han de ser afirmatives o negatives i, si això no és possible segons el tenor de les preguntes, han de ser precises i concretes. La part pot afegir, si així ho accepta el tribunal, les explicacions que consideri convenients i que tinguin relació amb les preguntes que se li formulen.

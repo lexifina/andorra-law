@@ -1,0 +1,5 @@
+## Llibre primer. Disposicions comunes als processos civils
+## Títol I. Disposicions generals i principis del procés
+# Article 1. Dret a la jurisdicció i resolució extrajudicial de les controvèrsies
+1. L’accés al procés judicial és un dret inclòs en el dret constitucional a la jurisdicció que s’exerceix de conformitat amb la llei i que atorga el dret d’obtenir una decisió fonamentada en dret, mitjançant un procés degut substanciat per un tribunal imparcial predeterminat per la llei, i el dret d’obtenir-ne l’execució tal com està previst a la llei.
+2. Els mitjans extrajudicials de prevenció i resolució de les controvèrsies són escollits de comú acord per les persones interessades. Aquests mitjans són principalment la negociació entre les parts, la mediació i l’arbitratge en què les parts recorren a l’assistència d’una tercera persona, o qualsevol altre mitjà que considerin convenient. Els ciutadans han de tenir en compte el recurs a aquests mitjans i les administracions competents n’han de fomentar el coneixement i l’ús.

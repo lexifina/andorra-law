@@ -1,0 +1,3 @@
+# Article 311. Contesta i reconvenció
+1. Un cop admesa la demanda i dins els cinc dies hàbils següents, el tribunal la trasllada personalment a la persona subjecte del procés de modificació de la capacitat perquè la contesti en el termini de tretze dies hàbils, i la informa del seu contingut i del dret a ser assistida d’un defensor judicial. Si no pot o no vol designar un defensor judicial, el tribunal li’n designa un d’ofici.
+2. Un cop admesa la demanda i dins els cinc dies hàbils següents, el tribunal també la trasllada al Ministeri Fiscal, llevat que hagi instat el procés, perquè comparegui en el procés i la contesti en el termini de tretze dies hàbils.

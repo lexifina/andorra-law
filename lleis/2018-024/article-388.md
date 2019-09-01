@@ -1,0 +1,3 @@
+# Article 388. Denegació del despatx de l’execució i recurs
+1. El tribunal o el saig dicta un aute o un acord, respectivament, en què denega el despatx de l’execució en els casos en què no es compleixin les condicions que estableix l’article 386, o en qualsevol altre cas en què no concorrin els pressupòsits i els requisits legals a aquest efecte.
+2. Contra l’aute que denega el despatx de l’execució es pot interposar un recurs d’apel·lació. L’acord que denega el despatx de l’execució es pot impugnar d’acord amb el que estableix l’article 376. Aquest recurs o aquesta impugnació es tramita i es resol tenint com a part només l’apel·lant.

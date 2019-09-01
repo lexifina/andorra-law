@@ -1,0 +1,3 @@
+# Article 377. Tercers del procés en període d’execució forçosa
+1. No tenen la condició de part del procés en període d’execució forçosa les persones en relació amb les quals no s’ha despatxat l’execució.
+2. No obstant el que estableix l’apartat anterior, les persones que no tenen la condició de part del procés en període d’execució forçosa poden fer ús dels mitjans de defensa que aquesta Llei i les altres lleis aplicables atribueixen a l’executat si, per qualsevol raó, l’execució afecta els seus béns o els seus drets. En aquest cas han de plantejar les sol·licituds d’acord amb el procediment que estableix el capítol quart d’aquest títol.

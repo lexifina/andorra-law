@@ -1,0 +1,3 @@
+# Article 305. Declaracions escrites de testimonis
+1. En cas que el procediment de família no sigui contenciós, i sempre que no s’hi oposi el Ministeri Fiscal, si escau, el tribunal pot admetre com a prova les declaracions escrites de testimonis, sempre que aquestes declaracions estiguin datades i signades pel testimoni, i s’hi acompanyi una còpia del passaport o del document d’identitat del testimoni.
+2. El tribunal també pot admetre com a prova les declaracions escrites de testimonis que compleixin els requisits establerts a l’apartat anterior en els processos de separació i divorci del matrimoni o la unió civil, quan s’aportin amb la finalitat exclusiva d’acreditar la causa de la separació o el divorci.

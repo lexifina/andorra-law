@@ -1,0 +1,3 @@
+# Article 372.Acumulació de processos en període d’execució forçosa
+1. El tribunal pot decidir, d’ofici o a instància de part, l’acumulació de processos en període d’execució forçosa i que se substanciïn entre un mateix executant i un mateix executat, quan ho consideri més convenient per satisfer tots els creditors executants. La sol·licitud d’acumulació es tramita i resol d’acord amb el que estableixen els articles 103 a 113, en el que siguin aplicables.
+2. En el cas d’un procés en què s’executin béns afectats a crèdits hipotecaris, només se’n pot decidir l’acumulació a altres processos en període d’execució forçosa quan aquests altres processos se segueixin per fer efectives altres garanties hipotecàries sobre els mateixos béns.

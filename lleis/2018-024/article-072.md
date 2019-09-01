@@ -1,0 +1,5 @@
+# Article 72. Competència i sol·licitud de les mesures d’assegurament de la prova
+1. La competència per conèixer i resoldre la sol·licitud de mesures d’assegurament de la prova correspon al tribunal que conegui el procés o, en cas que el procés no s’hagi iniciat, al tribunal que l’hagi de conèixer i resoldre.
+2. La sol·licitud de mesures d’assegurament de la prova es pot formular en qualsevol classe de procediment.
+3. La sol·licitud de mesures d’assegurament de la prova en el marc d’un procés ja iniciat s’ha de formular abans de l’inici del judici oral.
+4. Les mesures d’assegurament de la prova que s’hagin adoptat abans de l’inici del procés queden sense efecte si la persona sol·licitant no interposa la demanda corresponent en el termini dels vint dies hàbils següents al dia en què se li hagi notificat l’aute que decideix adoptar aquestes mesures. En aquest cas, el tribunal decideix mitjançant un aute la revocació de les mesures d’assegurament de la prova adoptades i imposa les costes processals a la persona sol·licitant, sense perjudici de la responsabilitat en què pugui incórrer pels danys i perjudicis ocasionats arran de la pràctica d’aquestes mesures.

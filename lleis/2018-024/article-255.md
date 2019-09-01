@@ -1,0 +1,3 @@
+# Article 255. Admissió de les proves
+1. Un cop finalitzen els tràmits d’al·legacions, el tribunal dicta un aute dins els tretze dies hàbils següents en què admet o no admet les proves proposades, d’acord amb els criteris de legalitat, utilitat, pertinència, necessitat i proporcionalitat establerts en aquesta Llei.
+2. Contra l’aute en què el tribunal decideix admetre o no admetre les proves es pot interposar oralment un recurs de reposició a l’inici del judici oral. Aquest recurs de reposició se substancia i resol en el mateix acte, i en cas que es desestimi no es pot interposar cap altre recurs, sense perjudici que es pugui formular la protesta oportuna per poder fer valer la impugnació en la segona instància.

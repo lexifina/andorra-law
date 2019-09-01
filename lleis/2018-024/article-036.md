@@ -1,0 +1,5 @@
+## Capítol segon. Intervenció de tercers
+# Article 36. Intervenció voluntària
+1. Qualsevol persona que acrediti tenir un interès directe i legítim en el resultat del procés pot demanar de ser-hi admesa com a demandant o demandada. Aquesta sol·licitud s’ha de formular abans de l’inici del judici oral.
+2. El tribunal trasllada la sol·licitud d’intervenció voluntària a les parts personades en el procés perquè facin les al·legacions oportunes en el termini de tretze dies hàbils, i decideix mitjançant un aute dins els tretze dies hàbils següents. En cas que admeti la intervenció, l’intervinent és considerat com a part en el procés a tots els efectes i pot defensar les pretensions que exerceixi ell mateix o el seu litisconsort.
+3. La intervenció no retrotrau les actuacions practicades en el procés, però l’intervinent pot fer les al·legacions necessàries per defensar els seus drets que no hagi pogut formular en un moment processal anterior a la intervenció. En aquest cas, el tribunal les trasllada a les altres parts personades en el procés perquè facin les al·legacions oportunes en el termini de tretze dies hàbils i practica les actuacions processals que escaiguin.

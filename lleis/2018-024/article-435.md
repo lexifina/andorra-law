@@ -1,0 +1,3 @@
+# Article 435. Admissió i trasllat de la sol·licitud de jurisdicció voluntària
+1. Un cop ha admès la sol·licitud de jurisdicció voluntària, en cas que es compleixin els requisits i les condicions establerts al capítol primer d’aquest llibre, el tribunal o el notari la trasllada a les persones interessades i identificades per la persona sol·licitant i, si escau, al Ministeri Fiscal, perquè facin les al·legacions oportunes dins els tretze dies hàbils següents.
+2. El tribunal o el notari pot traslladar la sol·licitud de jurisdicció voluntària a les persones que consideri que poden tenir interès a participar en el procés, malgrat que no hagin estat identificades per la persona sol·licitant.

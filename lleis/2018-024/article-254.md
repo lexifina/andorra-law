@@ -1,0 +1,5 @@
+# Article 254. Contesta i reconvenció
+1. La contesta ha de tenir la forma i el contingut que estableix l’article 133.
+2. El demandat ha d’aportar amb la contesta, si escau, els dictàmens pericials i ha de proposar les altres proves que consideri útils, pertinents i necessàries per acreditar les seves pretensions, i sol·licitar-ne l’admissió al tribunal. Així, ha d’indicar i facilitar les dades de les parts, els testimonis i els perits que han de ser citats per al judici oral, i ha de sol·licitar la designació d’un perit judicial, si escau.
+3. La reconvenció s’admet sempre que no suposi la inadequació del procediment per raó de la matèria o per raó de la quantia, i sempre que hi hagi una connexió entre les pretensions que són objecte de la reconvenció i les que són objecte de la demanda. D’altra banda, el demandat ha de formular les excepcions de compensació i de nul·litat mitjançant una reconvenció expressa.
+4. Un cop admesa la demanda reconvencional, regeixen les normes dels articles 134 a 137, en el que siguin aplicables.

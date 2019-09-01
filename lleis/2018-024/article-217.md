@@ -1,0 +1,3 @@
+# Article 217. Operacions pericials
+1. Quan l’emissió del dictamen pericial requereixi el reconeixement de llocs, objectes o persones, o la realització d’operacions semblants, les parts, els advocats i els procuradors poden sol·licitar al tribunal d’assistir-hi. En aquest cas, si el tribunal considera que l’assistència no impedeix o no destorba la tasca dels perits, ni afecta excessivament els drets personals, els cita amb una antelació de cinc dies hàbils com a mínim, i els comunica el dia, l’hora i el lloc on es portaran a terme les operacions pericials.
+2. Si així ho decideix el tribunal, les operacions pericials també es poden fer en presència del batlle o els magistrats que en formen part.

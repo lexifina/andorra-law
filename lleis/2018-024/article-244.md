@@ -1,0 +1,6 @@
+# Article 244. Conclusions
+1. Una vegada practicades les proves, les parts personades al judici oral formulen oralment les conclusions sobre els fets controvertits, i al·leguen de manera ordenada, clara i concisa si els fets que són objecte del procés han estat provats o no.
+2. Cada part inicia les conclusions fent al·legacions en relació amb els fets que han fonamentat les seves peticions, i continua amb els fets al·legats per les altres parts amb la mateixa finalitat. Les parts també poden fer un breu resum de les proves practicades sobre aquests fets. Així mateix, poden fer al·legacions sobre la càrrega de la prova en relació amb els fets controvertits.
+3. Després d’haver formulat les conclusions sobre els fets controvertits, les parts poden formular conclusions sobre els arguments jurídics en què han fonamentat les seves peticions.
+4. Posteriorment, el tribunal pot preguntar i sol·licitar a les parts els aclariments en relació amb les conclusions que han formulat que siguin necessaris per resoldre el procés.
+5. Un cop ha acabat el tràmit de conclusions, el tribunal declara el procés vist per a sentència. No obstant això, dins els cinc dies hàbils següents al dia en què ha finalitzat el judici oral, les parts poden presentar un escrit al tribunal per completar de forma succinta les conclusions que hagin formulat oralment durant el judici oral.

@@ -1,0 +1,3 @@
+# Article 166. Fixació dels fets controvertits i acció contradictòria
+1. Després que s’hagin pronunciat sobre els documents i els dictàmens aportats al procés, l’audiència prèvia continua a l’efecte que les parts fixin els fets sobre els quals hi ha conformitat o disconformitat.
+2. El tribunal pot requerir a les parts que fixin l’acció exercida, facin els aclariments o les precisions necessaris respecte dels fets i els arguments continguts a la demanda, la contesta i, si escau, la reconvenció, i concretin les peticions que s’hi formulen. Si aquests aclariments i precisions no s’efectuen, el tribunal adverteix les parts que pot considerar admesos els fets i els arguments adduïts per les parts contràries.

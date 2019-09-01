@@ -1,0 +1,2 @@
+# Article 104. No admissió de la sol·licitud d’acumulació de processos
+El tribunal no admet la sol·licitud d’acumulació de processos quan aquesta acumulació no és procedent per raó de la classe dels processos, el seu estat processal o la manca de concurrència dels requisits establerts en les seccions primera i segona d’aquest capítol, mitjançant un aute que dicta en el termini de tretze dies hàbils des de la presentació de la sol·licitud.

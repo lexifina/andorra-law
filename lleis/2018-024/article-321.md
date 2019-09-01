@@ -1,0 +1,2 @@
+# Article 321. Termini per interposar els recursos
+El termini per interposar els recursos contra les resolucions del tribunal, del secretari judicial, del saig i del notari es compta a partir de l’endemà del dia en què es notifica la resolució o l’acord recorregut o, si escau, a partir de l’endemà del dia en què es notifica l’aute o l’acord de rectificació o aclariment, o en què es resol la petició de rectificació o aclariment.

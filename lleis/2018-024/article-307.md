@@ -1,0 +1,4 @@
+## Capítol setè. Procediment de modificació de la capacitat
+# Article 307. Àmbit del procediment de modificació de la capacitat
+1. El procediment de modificació de la capacitat s’aplica als processos en què es pretén obtenir una declaració judicial de modificació de la capacitat de les persones majors d’edat o menors d’edat emancipades que per qualsevol causa es troben en la situació habitual de no tenir l’aptitud d’adoptar decisions, i en què també es pretén la constitució d’una institució de protecció o de suport, la designació de la persona o les persones titulars d’aquesta institució i, si escau, l’internament de la persona en relació amb la qual es pretén modificar-ne la capacitat.
+2. Les persones menors d’edat només poden ser subjecte d’un procés de modificació de la capacitat en els termes que estableix la Llei qualificada d’incapacitació i organismes tutelars.

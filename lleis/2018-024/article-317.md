@@ -1,0 +1,4 @@
+# Article 317. Revocació o canvis en la modificació de la capacitat
+1. Les persones o les institucions esmentades a l’apartat 1 de l’article 308, i la persona o les persones que tinguin la representació legal o la guarda de la persona amb la capacitat modificada, poden sol·licitar la revocació o canvis en la declaració judicial de modificació de la capacitat, de manera que se n’ampliïn o redueixin l’extensió o els límits que se’n deriven, en els termes que estableix la Llei qualificada d’incapacitació i organismes tutelars.
+2. El procés de revocació o de canvis en la modificació de la capacitat es regeix per les normes dels articles 309 a 315, en el que siguin aplicables.
+3. La sentència ha d’establir si revoca o canvia la declaració judicial de modificació de la capacitat, i ha de determinar, si escau, l’ampliació o la reducció de l’extensió o els límits de la capacitat modificada establerts amb anterioritat.

@@ -1,0 +1,4 @@
+# Article 205. Preguntes generals de l’interrogatori de testimonis
+1. Els testimonis declaren separadament i successivament, en l’ordre en què les parts n’hagin proposat l’interrogatori, llevat que el tribunal decideixi alterar aquest ordre per motius justificats.
+2. El tribunal pregunta inicialment als testimonis el nom i els cognoms, la data de naixement, i el domicili. A més, els pregunta si hi concorre alguna de les circumstàncies que fan possible el rebuig dels testimonis i que estableix l’apartat 1 de l’article 201. Si és així, les parts poden rebutjar els testimonis de què es tracti i el tribunal valora aquest rebuig en el moment de dictar la sentència.
+3. El tribunal també pot preguntar als testimonis sobre altres circumstàncies diferents de les que estableix l’apartat 1 de l’article 201 i que en poden condicionar la imparcialitat, a l’efecte de valorar-ne la declaració en el moment de dictar sentència.

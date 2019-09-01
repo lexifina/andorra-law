@@ -1,0 +1,3 @@
+# Article 81. Pràctica de la prova anticipada
+1. Un cop el tribunal ha decidit mitjançant un aute la pràctica de la prova anticipada, el secretari judicial cita les parts personades en el procés a aquest efecte, i aquesta pràctica es desenvolupa d’acord amb les normes pròpies de cada mitjà de prova que estableix aquesta Llei. La documentació acreditativa de la prova practicada queda sota la custòdia del secretari judicial del tribunal que l’hagi decidit i practicat.
+2. A l’inici del judici oral, les parts poden sol·licitar novament la pràctica de la prova que s’hagi practicat anticipadament, sempre que sigui necessari i possible de fer-ho. El tribunal valora tots dos resultats probatoris d’acord amb les regles de la sana crítica.

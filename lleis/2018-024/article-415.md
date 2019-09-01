@@ -1,0 +1,3 @@
+# Article 415. Obligacions d’emetre una declaració de voluntat
+1. L’obligació d’emetre una declaració de voluntat s’executa, en cas d’incompliment de l’executat, mitjançant la decisió del tribunal segons la qual es té per emesa la declaració de voluntat esmentada, d’acord amb els elements essencials del negoci que han d’estar determinats en el títol executiu.
+2. L’executant pot demanar que el secretari judicial lliuri testimoni de l’aute d’execució, que té eficàcia civil plena sense perjudici de l’observança i el compliment de les normes civils i mercantils sobre la forma i la documentació dels actes i els negocis jurídics.

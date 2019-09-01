@@ -1,0 +1,5 @@
+## Secció cinquena. Reiteració, modificació, manteniment i revocació de les mesures cautelars. Determinació dels danys i perjudicis
+# Article 91. Reiteració i modificació de les mesures cautelars
+1. La decisió del tribunal de no adoptar les mesures cautelars sol·licitades no impedeix que el demandant pugui tornar a sol·licitar aquestes mesures amb posterioritat, si la sol·licitud es basa en fets i circumstàncies que ho justifiquen i que no concorrien o no s’havien pogut conèixer amb anterioritat.
+2. El tribunal pot modificar les mesures cautelars que hagi adoptat si el demandant o el demandat al·leguen i acrediten la concurrència de fets i circumstàncies que no es van poder tenir en compte entre el dia en què aquestes mesures es van adoptar i el dia en què va finalitzar el termini per oposar-s’hi. També pot modificar les mesures cautelars que hagi adoptat si el demandat ofereix la prestació d’una caució suficient a criteri del tribunal o proposa una mesura cautelar substitutòria i equivalent d’aquestes mesures.
+3. La sol·licitud de modificació de les mesures cautelars adoptades se substancia i es resol de conformitat amb les normes d’aquest capítol.

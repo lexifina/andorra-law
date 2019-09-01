@@ -1,0 +1,3 @@
+# Article 281. Enervació de l’acció
+1. Quan la resolució del contracte d’arrendament que és objecte del procés hagi tingut lloc per la manca de pagament de la renda o de les quantitats que s’hi assimilen d’acord amb la Llei d’arrendaments de finques urbanes, el demandat pot enervar l’acció exercida pel demandant mitjançant la consignació judicial de les rendes degudes i les quantitats assimilades, sempre que ho faci dins el termini assenyalat per contestar a la demanda.
+2. L’enervació de l’acció no s’admet si el mateix arrendatari ja n’ha enervat una altra contra el mateix arrendador, o si l’arrendador ha requerit fefaentment de pagament a l’arrendatari com a mínim un mes abans del dia en què ha interposat la demanda.

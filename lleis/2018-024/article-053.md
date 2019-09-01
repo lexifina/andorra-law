@@ -1,0 +1,4 @@
+# Article 53. Suspensió del procés
+1. Les parts poden sol·licitar la suspensió del procés en qualsevol moment. No obstant això, a partir de l’inici del judici oral i fins al moment en què es dicti la sentència, el període total de la suspensió del procés no pot ser superior a tres mesos, a partir dels quals es reprèn d’ofici la tramitació del procés.
+2. El secretari judicial ha d’acordar la suspensió del procés mitjançant un acord, si així ho demanen totes les parts personades en el procés i aquesta suspensió no va en contra de l’interès general o en perjudici de terceres persones. El termini de suspensió es correspon amb el que hagin demanat les parts.
+3. Amb posterioritat a la suspensió del procés, el secretari judicial decideix mitjançant una interlocutòria deixar sense efecte aquesta suspensió i reprendre la tramitació del procés si així ho sol·licita qualsevol de les parts abans del dia en què se’n produeixi la caducitat.

@@ -1,0 +1,5 @@
+# Article 66. Competència i sol·licitud de les diligències preliminars
+1. La competència per conèixer i resoldre la sol·licitud de diligències preliminars correspon al tribunal que hagi de conèixer i resoldre el procés futur.
+2. La sol·licitud de diligències preliminars pot ser formulada en qualsevol classe de procediment per la persona que pretengui demandar contra el futur demandat o una tercera persona que pugui proveir aquesta sol·licitud.
+3. En la sol·licitud de diligències preliminars, la persona sol·licitant ha d’expressar de forma concreta les diligències preliminars que sol·licita i els fonaments d’aquesta sol·licitud, amb la referència circumstanciada a la controvèrsia objecte del procés futur que vol iniciar i a la necessitat de practicar les diligències. També ha de fer constar els fets o documents que pretén conèixer o esbrinar.
+4. La validesa de les diligències preliminars queda condicionada al fet que la persona sol·licitant interposi la demanda corresponent en el termini dels vint dies hàbils següents al dia en què se li hagi notificat l’aute que decideix admetre aquestes diligències preliminars.

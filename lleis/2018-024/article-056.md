@@ -1,0 +1,3 @@
+# Article 56. Apreciació de la manca de jurisdicció i de competència internacional
+1. El tribunal aprecia d’ofici i tan aviat com ho adverteixi la manca de jurisdicció o de competència internacional. En aquest cas, després que el secretari judicial hagi decidit mitjançant una interlocutòria la suspensió del procés, el tribunal dona audiència a les parts que hi són personades i al Ministeri Fiscal en el termini de tretze dies hàbils, i decideix mitjançant un aute dins els tretze dies hàbils següents.
+2. El demandat també pot denunciar la manca de jurisdicció o de competència internacional mitjançant la declinatòria que regula aquesta Llei.
