@@ -1,0 +1,4 @@
+# Article 4
+Es modifica l’article 91 punt 1 de la Llei 17/2008, del 3 d’octubre, de la seguretat social, el qual queda redactat en els termes següents:
+“Article 91. Rescabalament en cas d’accident de treball o malaltia professional
+1. Sense perjudici de l’article anterior, quan la causa de l’accident de treball o de la malaltia professional es consideri una falta inexcusable de l’empresari, la CASS pot exigir-li el pagament de la totalitat de les despeses ocasionades per l’atenció sanitària íntegra de la persona assegurada que ha comportat aquest accident o aquesta malaltia professional, així com de la resta de prestacions que hagi de satisfer per aquest concepte, sense perjudici d’altres compensacions econòmiques a les quals pugui tenir dret la persona assegurada, amb el límit màxim de 30 vegades el salari mínim.”

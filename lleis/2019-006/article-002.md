@@ -1,0 +1,7 @@
+# Article 2
+Es modifica l’article 38 de la Llei 17/2008, del 3 d’octubre, de la seguretat social, el qual queda redactat en els termes següents:
+“Article 38. Utilització de mitjans electrònics, informàtics o telemàtics
+1. Tots els tràmits prop de la CASS poden formalitzar-se subministrant els documents i les dades corresponents per mitjans o procediments electrònics, informàtics o telemàtics.
+2. La CASS també pot usar els mitjans o procediments electrònics o telemàtics a efectes de comunicacions i notificacions d’acord amb la legislació aplicable en matèria de notificació d’actes administratius per mitjans electrònics.
+3. Les dades dels afiliats queden emparades per la legislació sobre protecció de dades de caràcter personal d’Andorra i per les disposicions establertes a la legislació relativa als drets i deures dels usuaris i dels professionals del sistema sanitari i sobre la història clínica. La CASS assegura, i se’n responsabilitza, que aquestes dades romanen protegides de qualsevol ús fraudulent. Igualment estableix les mesures tècniques i d’organització necessàries per garantir la confidencialitat i la seguretat de les dades personals que siguin objecte de tractament.”
+4. La CASS assigna a cada persona afiliada una targeta sanitària personal i intransferible que permet la identificació de la persona, la tramitació electrònica de prestacions de la branca general i la comunicació electrònica de dades necessàries per a la verificació del compliment dels requisits legals i la convenció dels prestadors de salut.”

@@ -1,0 +1,7 @@
+# Article 20
+Es modifica l’article 154 de la Llei 17/2008, del 3 d’octubre, de la seguretat social, el qual queda redactat en els termes següents:
+“Article 154. Durada de la prestació
+1. Es té dret a la prestació econòmica d’ençà del mateix dia que comença el període de descans corresponent, d’acord amb la legislació laboral.
+2. En el cas que el pare o la parella que hagi reconegut legalment l’infant substitueixi la mare, d’acord amb la regulació continguda en la normativa laboral, té dret a la prestació econòmica d’ençà del dia següent en què es produeix la substitució i per tot el període que manca fins a l’extinció de la prestació.
+3. En cas de mort del fill, la mare té dret a la prestació econòmica durant els dies que falten per completar el període de descans per maternitat o adopció.
+4. La persona treballadora per compte propi té dret a la prestació econòmica d’ençà del mateix dia que comenci el període de descans corresponent, d’acord amb la suspensió de l’activitat econòmica, i té una durada màxima de vint setmanes, excepte en el cas de part o adopció múltiple, i en el supòsit d’una discapacitat de la mare reconeguda degudament, si el grau de menyscabament és del 60% o més, o d’una discapacitat de l’infant dictaminada per un metge pediatra que hagi atorgat un conveni amb la Caixa Andorrana de Seguretat Social, en tots els casos d’acord amb el barem de valoració de la Comissió Nacional de Valoració (Conava), en què s’amplia en dos setmanes més per cada fill o infant adoptat.”
