@@ -1,0 +1,2 @@
+# Article 9. Revaloració dels salaris més baixos
+L’1 de gener del 2020, l’empresariat definit a l’article 11 de la Llei 31/2018, del 6 de desembre, de relacions laborals, està obligat a incrementar, com a mínim, el salari dels treballadors que percebin un salari global brut que, en còmput anual i per a la jornada legal ordinària de treball, sigui inferior a 24.000 euros, en el mateix percentatge en què s’hagi establert l’IPC de l’any 2019.

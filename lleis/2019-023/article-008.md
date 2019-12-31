@@ -1,0 +1,3 @@
+# Article 8. Increment de la pensió de solidaritat per a persones amb discapacitat i de la pensió de solidaritat per a la gent gran
+L’1 de gener del 2020, la quantia de la pensió de solidaritat per a persones amb discapacitat i de la pensió de solidaritat per a la gent gran, regulades respectivament als articles 25 i 26 de la Llei 6/2014, del 24 d’abril, de serveis socials i sociosanitaris i modificacions posteriors, s’incrementarà en el 3,2%.
+El conjunt d’ingressos que percebi la persona beneficiària de la pensió de solidaritat no pot superar el llindar econòmic de cohesió social, definit a la Llei 6/2014, del 24 d’abril, de serveis socials i sociosanitaris.
