@@ -1,0 +1,3 @@
+# Article 4. Titulació i integració
+El Col·legi Oficial d’Arquitectes Tècnics del Principat d’Andorra (COATA) agrupa els professionals de l’arquitectura tècnica i l’edificació que disposin d’una titulació oficial d’ensenyament superior degudament reconeguda al Principat d’Andorra i els arquitectes tècnics, aparelladors o altres professionals homòlegs habilitats per la Llei reguladora de l’exercici dels professionals liberals de l’arquitectura del 30 de juny del 1999, sempre que hagin renunciat a la seva col·legiació al Col·legi Oficial d’Arquitectes d’Andorra.
+La integració s’ha de fer d’acord amb el que disposen els estatuts del Col·legi i les normes reguladores dels col·legis professionals.
