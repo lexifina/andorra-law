@@ -1,0 +1,2 @@
+# Article 11. Retroacció d’efectes
+Les persones assegurades afectades per una mesura d’aïllament en aplicació del procediment d’actuació per evitar la propagació del SARS-CoV-2, seguint les instruccions del Ministeri de Salut, o que han estat efectivament diagnosticades del SARS-CoV-2 abans de l’entrada en vigor d’aquesta Llei, poden obtenir un certificat d’incapacitat temporal equiparable a accident laboral o malaltia professional, amb data d’inici anterior a la data d’entrada en vigor d’aquesta Llei, en les condicions dels articles 7 i 8.

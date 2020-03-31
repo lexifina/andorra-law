@@ -1,0 +1,2 @@
+# Article 13. Suspensió de la via d’atenció preferent
+Se suspèn l’entrada en vigor dels articles 13, 14 i 15 de la Llei 6/2019, del 31 de gener, de modificació de la Llei 17/2008, del 3 d’octubre, de la seguretat social, modificada al seu torn per la Llei 20/2019, del 12 de setembre, de modificació de la Llei 6/2019, del 31 de gener, de modificació de la Llei 17/2008, del 3 d’octubre, de la seguretat social. El Govern determina, per decret, la data en què entraran en vigor aquestes disposicions, que no pot ser posterior a l’1 de gener del 2021.

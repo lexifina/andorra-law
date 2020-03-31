@@ -1,0 +1,5 @@
+# Article 4. Absència per tenir cura de fills a càrrec
+1. Mentre els centres educatius i de lleure extraescolar romanguin obligatòriament tancats a causa de la situació d’emergència sanitària causada pel SARS-CoV-2, les persones assalariades amb fills o filles menors de 14 anys o fills o filles amb discapacitat que treballen en sectors l’activitat dels quals no ha estat objecte de suspensió es poden absentar del seu lloc de treball per tenir-ne cura, si compleixen cumulativament les condicions següents:
+a) Els dos progenitors es troben en la mateixa circumstància, o es tracta de famílies monoparentals. En el primer cas, es pot acollir a la mesura un sol dels progenitors, o ambdós en règim de torns, que ha de ser per jornades senceres de treball.
+b) Els dos progenitors acrediten que cap d’ells no té cap familiar fins al segon grau de consanguinitat o d’afinitat que pugui tenir cura raonablement dels fills o les filles. Es considera que no poden tenir cura dels infants els seus avis.
+2. Les hores de treball no realitzades per aquesta causa són compensades pel Govern mitjançant un mecanisme que s’ha d’establir per la via reglamentària.

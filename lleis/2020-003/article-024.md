@@ -1,0 +1,5 @@
+# Article 24. Suspensió de terminis administratius
+1. Se suspenen els terminis per a la tramitació de tota classe d’expedients, en totes les administracions públiques, amb efectes des del dia 14 de març del 2020 inclòs, fins al moment en què el Govern declari la fi la situació d’emergència sanitària causada pel SARS-CoV2. Tots els dies compresos en aquest període tenen la consideració de dies no hàbils a efectes del procediment.
+2. Per excepció al que disposa l’apartat 1 anterior, l’òrgan competent pot acordar, mitjançant una resolució motivada, les mesures d’ordenació i d’instrucció necessàries per evitar perjudicis greus en els drets i interessos de les persones interessades en el procediment, sempre que aquestes manifestin la seva conformitat.
+3. Aquesta disposició no s’aplica als procediments i resolucions que estiguin directament relacionals amb la situació d’emergència sanitària causada pel SARS-CoV-2 i amb l’aplicació de les mesures excepcionals establertes per fer-hi front.
+4. Sense perjudici de la suspensió, tots els tràmits i actuacions que hagin estat realitzades durant el període de suspensió de terminis són vàlids i eficaços.
