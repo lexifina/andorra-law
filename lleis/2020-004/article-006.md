@@ -1,0 +1,2 @@
+# Article 6. Altres mesures
+A més de les mesures previstes en l’article 5, mentre dura l’estat d’alarma, l’autoritat competent pot adoptar per si mateixa, si escau, les mesures que estableixen les normes relatives a la lluita contra les malalties infeccioses, les intoxicacions i les contaminacions, a la protecció del medi ambient, a la protecció i l’ús de les aigües i els boscos, o qualsevol altra prevista per una norma que sigui d’aplicació.

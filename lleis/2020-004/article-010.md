@@ -1,0 +1,3 @@
+# Article 10. Mesures que es poden adoptar durant l’estat d’emergència
+1. El decret que declara l’estat d’emergència i, quan sigui el cas, els que el modifiquen o prorroguen, poden suspendre o limitar l’exercici dels drets reconeguts en els articles 9.2, 12, 15, 16, 19 i 21 de la Constitució, mitjançant l’adopció de totes o algunes de les mesures previstes en els articles següents.
+2. Les mesures que s’han d’adoptar en l’estat d’emergència són les estrictament necessàries per assegurar el manteniment de l’ordre públic i el restabliment de la normalitat; han de ser proporcionades a la gravetat de les circumstàncies.

@@ -1,0 +1,4 @@
+## Capítol segon. Estat d’emergència
+# Article 7. Pressupòsits
+1. El Govern, d’acord amb les facultats que li atorga l’article 42 de la Constitució, pot demanar al Consell General autorització per declarar l’estat d’emergència en aquells supòsits en què s’hagi produït la interrupció del normal funcionament de la convivència democràtica.
+2. Als efectes de l’apartat 1 anterior, es considera que interrompen el normal funcionament de la convivència democràtica aquelles situacions en què el lliure exercici dels drets i llibertats dels ciutadans, el funcionament dels serveis públics essencials per a la comunitat, el funcionament de les institucions democràtiques, el proveïment dels productes de primera necessitat o qualsevol altre aspecte de l’ordre públic resultin alterats d’una forma tan greu que l’exercici de les potestats ordinàries de l’Administració no sigui suficient per restablir-lo i mantenir-lo.

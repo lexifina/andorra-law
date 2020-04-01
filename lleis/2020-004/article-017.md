@@ -1,0 +1,3 @@
+# Article 17. Prohibició d’entrada i sortida del país i de circular-hi lliurement
+1. Mitjançant la suspensió de l’article 21 de la Constitució, l’autoritat competent pot prohibir l’entrada o la sortida del país de les persones, o limitar-la. També pot prohibir o limitar la circulació o la permanència de persones o de vehicles durant les hores i els llocs que es determinin, o condicionar-les al compliment dels requisits que s’estableixin.
+2. Els estrangers no residents que participin en actes que pertorbin l’ordre públic poden ser expulsats immediatament del país, per resolució motivada de l’autoritat competent.

@@ -1,0 +1,4 @@
+# Article 15. Prohibició de reunions i manifestacions
+1. Mitjançant la suspensió de l’article 16 de la Constitució, l’autoritat competent pot sotmetre a autorització prèvia o prohibir la celebració de reunions i manifestacions, i dissoldre les que s’estiguin celebrant.
+2. No poden ser dissoltes, prohibides ni sotmeses a autorització prèvia les reunions orgàniques que celebrin els partits polítics i les agrupacions polítiques, i els sindicats i les associacions empresarials que estiguin legalment constituïts i inscrits en el registre corresponent.
+3. Els agents de l’autoritat que penetrin en els locals on se celebrin reunions prohibides o no autoritzades han d’anar proveïts d’una autorització escrita lliurada per l’autoritat competent. Aquesta autorització no és necessària en el cas que en el local o des del local es produïssin alteracions greus de l’ordre públic, agressions als agents de l’autoritat o en qualsevol altre cas de delicte flagrant.

@@ -1,0 +1,4 @@
+# Article 25. Obstaculització, resistència i desobediència
+1. L’obstaculització, la resistència i la desobediència a les disposicions i ordres de l’autoritat competent en l’estat d’alarma o d’emergència, i dels seus agents, se sancionen d’acord amb el Codi Penal.
+2. Quan l’obstaculització, la resistència o la desobediència siguin comeses per funcionaris o personal al servei de les administracions, aquests poden ser immediatament suspesos de l’exercici de les seves funcions, i els fets han de ser posats en coneixement del batlle o del Ministeri Fiscal, sense perjudici de l’obertura de l’expedient disciplinari oportú.
+3. Si l’obstaculització, la resistència o la desobediència són comeses per autoritats, les facultats d’aquestes autoritats que siguin necessàries per al compliment de les mesures acordades poden ser assumides per una altra autoritat competent, durant la vigència dels estats d’alarma o d’emergència.

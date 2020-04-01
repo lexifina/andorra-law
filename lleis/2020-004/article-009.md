@@ -1,0 +1,5 @@
+# Article 9. Modificació, pròrroga i finalització de l’estat d’emergència
+1. Si durant l’estat d’emergència el Govern considera necessària l’adopció de mesures diferents de les previstes en el decret que el declara, pot demanar al Consell General autorització per modificar-lo. El procediment és el mateix que estableix l’article 8.
+2. Si persisteixen les circumstàncies que van donar lloc a la declaració de l’estat d’emergència, el Govern pot sol·licitar de forma motivada al Consell General l’aprovació d’una pròrroga. El Consell General pot aprovar més d’una pròrroga, però cada una d’elles no pot tenir una durada superior a trenta dies naturals.
+3. Aprovada pel Consell General la pròrroga de l’estat d’emergència, es publica immediatament al Butlletí Oficial del Principat d’Andorra.
+4. L’estat d’emergència finalitza a les 24:00 del darrer dia del termini establert en el decret que el declara o el prorroga, llevat que, prèviament, n’hagi estat acordada una pròrroga en les condicions previstes a l’apartat 2 anterior. Això no obstant, el Govern, per decret, pot posar fi a l’estat d’emergència abans que finalitzi aquell termini.
