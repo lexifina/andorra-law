@@ -1,0 +1,5 @@
+# Disposició final tercera. Modificació de la Llei 2/2020, del 27 de febrer, del pressupost per a l’exercici del 2020
+1. Es modifica la lletra f) de l’apartat 1 de l’article 22 de la Llei 2/2020, del 27 de febrer, del pressupost per a l’exercici del 2020, que queda redactat en els termes següents:
+“f) Emetre deute públic o concertar operacions de crèdit d’un import de 208.875.778,44 euros per finançar el dèficit de caixa previst (199.120.745,28 euros) en l’exercici del 2020 i respondre al pagament de les quotes, que vencen durant l’exercici, dels préstecs contrets per l’Administració general (9.755.033,16 euros).”
+2. S’afegeix una nova lletra i) a l’apartat 1 de l’article 22 de la Llei 2/2020, del 27 de febrer, del pressupost per a l’exercici del 2020, que queda redactat de la manera següent:
+“i) Concertar operacions de crèdit en concepte de prestació de garanties mitjançant avals, destinats al finançament d’empreses i negocis que s’acullin als supòsits fixats per decret, per un import total màxim de 130 milions d’euros.”

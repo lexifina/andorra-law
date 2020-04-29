@@ -1,0 +1,3 @@
+# Article 31. Reducció de la cotització de les persones que realitzen una activitat per compte propi
+1. Les persones que realitzen una activitat per compte propi i que declarin tenir una reducció significativa d’aquesta activitat degut a la situació d’emergència sanitària causada pel SARS-CoV-2, poden acollir-se a una base de cotització equivalent al salari mínim mentre el Govern no declari, per decret, la fi de la situació d’emergència sanitària ocasionada per la pandèmia del SARS-CoV-2.
+2. La persona interessada ha de presentar una sol·licitud mitjançant el formulari facilitat per la Caixa Andorrana de Seguretat Social abans de la data límit per pagar la cotització del mes que correspongui, i la reducció de la cotització s’aplica a la mensualitat natural completa.

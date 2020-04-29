@@ -1,0 +1,5 @@
+# Article 28. Competència i procediment sancionadors
+1. La competència per instruir l’expedient sancionador correspon al departament competent en matèria de treball, mitjançant el Servei d’Inspecció de Treball.
+El Servei d’Inspecció de Treball, d’ofici o a instància de part, es presenta a l’empresa o a qualsevol dels seus centres de treball, examina la documentació, verifica el compliment dels requisits i de les mesures i aixeca una acta de la inspecció efectuada. Les actes del Servei d’Inspecció de Treball tenen la presumpció d’exactitud, llevat de prova en contra.
+2. La constatació d’una infracció per part del Servei d’Inspecció de Treball comporta la incoació de l’expedient sancionador corresponent d’acord amb el que disposen el Codi de l’Administració, el Reglament regulador del procediment sancionador i les disposicions complementàries aplicables.
+3. Contra la resolució dictada pel Govern en l’expedient sancionador es pot interposar recurs en els termes del Codi de l’Administració.

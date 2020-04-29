@@ -1,0 +1,2 @@
+# Article 37. Reducció del termini de preavís per renunciar al contracte d’arrendament de local per a negoci
+Durant el termini comprès entre el 14 de març del 2020 i el 31 de desembre del 2020, la part arrendatària pot renunciar unilateralment al contracte d’arrendament d’un local per a negoci abans que transcorri el termini pactat mitjançant un preavís d’un mes com a mínim. Si la part arrendatària no compleix aquesta obligació, ha d’indemnitzar la part arrendadora amb una quantitat equivalent a la meitat d’una mensualitat de la renda contractual vigent.

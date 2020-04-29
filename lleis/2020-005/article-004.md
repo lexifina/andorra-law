@@ -1,0 +1,2 @@
+# Article 4. Canvi de funcions
+Fins que el Govern no declari, per decret, la fi de la situació d’emergència sanitària ocasionada per la pandèmia del SARS-CoV-2, l’empresa pot canviar de funcions la persona assalariada, quan aquest canvi tingui com a finalitat reorganitzar el treball o els torns de treball per complir de forma més eficaç les recomanacions o les instruccions dictades per les autoritats competents. Aquesta modificació de funcions no pot comportar una reducció del salari convingut en el contracte de treball.

@@ -1,0 +1,5 @@
+# Article 24. Disposicions generals del règim sancionador
+1. Són infraccions, en el marc de la tramitació de les sol·licituds de suspensió dels contractes de treball o de reducció de la jornada laboral, les accions i les omissions contràries a la norma legal sempre que estiguin tipificades i sancionades per aquesta secció o per les normes generals del dret administratiu o laboral.
+2. La responsabilitat de l’empresari ho és sense perjudici del dret de repetició contra les responsabilitats individuals dels professionals o les persones assalariades a càrrec de l’empresari que hagin col·laborat en els actes constitutius de la infracció.
+3. Són subjectes responsables de les infraccions regulades als articles 25 i següents les persones físiques o jurídiques que entrin dins l’àmbit aplicable d’aquesta secció i que incorrin en les accions o omissions tipificades com a infracció en els articles esmentats.
+4. Les infraccions, que es classifiquen en lleus, greus i molt greus, no poden ser objecte de sanció sense la instrucció prèvia de l’expedient corresponent de conformitat amb el procediment administratiu ordinari.

@@ -1,0 +1,10 @@
+# Article 18. Prestacions de les persones que realitzen una activitat per compte propi
+1. Les persones que realitzen una activitat per compte propi que hagi estat suspesa, tant obligatòriament per decret del Govern com voluntàriament, o que estigui sotmesa a un règim de guàrdia o permanència per decret del Govern, tenen dret a percebre mensualment les prestacions que es detallen a continuació fins que el Govern decideixi altrament per decret, amb el benentès que un cop la suspensió obligatòria o el règim de guàrdia o permanència deixin de ser vigents, cal justificar una davallada significativa de la xifra de negoci. Aquesta prestació es calcula d’acord amb la base de cotització corresponent al mes de febrer del 2020 prop de la Caixa Andorrana de Seguretat Social, sempre que sigui alguna de les bases de cotització esmentades en el quadre següent, tal com s’hi estableix:
+Cotització | Quota (euros) | Sou base (euros) | Prestació (euros)
+25,0% | 117,12 | 532,36 | 541,67
+50,0% | 234,24 | 1.064,72 | 1.083.33
+62,5% | 292,80 | 1.330,90 | 1.083.33
+75,0% | 351,36 | 1.597,08 | 1.083.33
+100,0% | 468,48 | 2.129,44 | 1.083.33
+2. Les persones que realitzen una activitat per compte propi i que al mateix temps, durant el mes anterior, siguin assalariades per compte d’una altra empresa o pensionistes i percebin una pensió o un salari global o, en cas que s’hagi suspès temporalment el seu contracte de treball o s’hagi reduït la seva jornada laboral, una prestació, no poden percebre per tots aquests conceptes una quantitat acumulada superior a la que els correspondria d’acord amb l’apartat 1 anterior. En aquest cas, l’import de la prestació a què fa referència l’apartat esmentat es minora d’acord amb el que s’ha mencionat. Tampoc no poden percebre les prestacions esmentades a l’apartat 1 anterior els administradors de societats, excepte que siguin professionals que duguin a terme la seva activitat de manera efectiva a través d’una societat mercantil de la qual siguin els administradors.
+3. El pagament de les prestacions esmentades a l’apartat 1 anterior va a càrrec del Govern.

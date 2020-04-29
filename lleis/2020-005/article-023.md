@@ -1,0 +1,3 @@
+# Article 23. Principis aplicables al règim sancionador
+1. Són aplicables al règim sancionador derivat de la suspensió temporal dels contractes de treball i de la reducció de la jornada laboral els principis de legalitat, tipicitat, no concurrència, responsabilitat i proporcionalitat.
+2. Les empreses i les persones que regularitzin voluntàriament la informació facilitada en el marc de la sol·licitud presentada, o que l’esmenin amb anterioritat a la notificació de la incoació de l’expedient de revisió corresponent, no incorren en responsabilitat per les infraccions tipificades als articles 25 i següents, sempre que aquesta regularització no afecti les prestacions efectivament percebudes.
