@@ -1,0 +1,6 @@
+# Article 3. Modificació de l’intitulat i dels apartats 1 i 3 de l’article 14
+Es modifiquen l’intitulat i els apartats 1 i 3 de l’article 14 de la Llei 11/2017, del 25 de maig, del notariat, els quals queden redactats en els termes següents:
+“Article 14. Custòdia dels protocols en cas de cessament per jubilació
+1. El protocol del notari que cessa en el càrrec per causa de jubilació queda sota la custòdia del notari que el succeeix. Tanmateix, mentre el notari que el succeeix no pren possessió del càrrec, la Cambra de Notaris designa un dels seus membres per fer-se càrrec provisionalment de la custòdia del protocol, en el termini màxim de tres dies naturals des del dia en què esdevé efectiu el cessament.
+[…]
+3. Un cop estesa la diligència esmentada a l’apartat anterior, el president de la Cambra de Notaris ho comunica al ministeri competent en matèria de justícia. A partir de llavors i fins que el notari que el succeeix no en prengui la custòdia o bé, si escau, fins que la Cambra de Notaris no designi un dels seus membres per fer-se càrrec provisionalment de la custòdia del protocol del notari que ha cessat en el càrrec, no s’hi pot incorporar cap altre instrument públic ni cap altre document.”
