@@ -1,0 +1,3 @@
+## Capítol quart. Mesures en matèria de cessació de pagaments i fallides
+# Article 5. Règim especial per a la sol·licitud de declaració de cessació de pagaments
+Fins al 31 de desembre del 2020, els comerciants, siguin persones físiques o jurídiques, que es trobin en el supòsit de cessació de pagaments previst als articles 7 i 8 del Decret del 4 d’octubre de 1969, de cessació de pagaments i fallides, no tenen l’obligació de sol·licitar a l’òrgan judicial la declaració de cessació de pagaments, sense que es pugui exigir cap tipus de responsabilitat pel fet de no haver dut a terme aquesta sol·licitud.

@@ -1,0 +1,3 @@
+## Capítol tercer. Mesura relativa als terminis en l’àmbit del Registre Civil
+# Article 4. Represa del termini de caducitat en els expedients previs a la celebració de matrimonis civils o d’unions civils
+En els expedients previs a la celebració de matrimonis civils o d’unions civils a Andorra en què la resolució estimatòria del registrador civil no hagi caducat abans del 14 de març del 2020, el termini de caducitat previst a l’article 105 de la Llei del Registre Civil, de l’11 de juliol de 1996, es reprèn des de l’inici, és a dir, torna a computar-se íntegrament a partir de l’endemà del dia en què el Govern declari, per decret, la fi de la situació d’emergència sanitària ocasionada per la pandèmia del SARS-CoV-2.

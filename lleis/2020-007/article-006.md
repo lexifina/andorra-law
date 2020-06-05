@@ -1,0 +1,5 @@
+## Capítol cinquè. Mesures relatives a les societats mercantils
+# Article 6. Suspensió de la causa de dissolució per pèrdues
+1. Als sols efectes de determinar la concurrència de la causa de dissolució prevista a la lletra c de l’apartat 5 de l’article 85 de la Llei 20/2007, del 18 d’octubre, de societats anònimes i de responsabilitat limitada, no s’han de prendre en consideració les pèrdues de l’exercici 2020.
+2. Si en el resultat de l’exercici 2021 o posteriors s’evidencien pèrdues que deixin reduït el patrimoni net a una quantitat inferior a la meitat del capital social, els administradors han de procedir a convocar la junta general dins el termini de dos mesos, a comptar del tancament de l’exercici, als efectes que adopti l’acord de dissolució o, si escau, les mesures adequades per evitar la dissolució, de conformitat amb les disposicions de l’article 86 de la Llei 20/2007, del 18 d’octubre, de societats anònimes i de responsabilitat limitada.
+3. El que disposa l’apartat 2 anterior s’entén sense perjudici del deure de sol·licitar la declaració de concurs de conformitat amb la normativa aplicable.
