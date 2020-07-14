@@ -1,0 +1,3 @@
+# Disposició final tercera. Habilitació de dies a efectes processals
+1. Per derogació excepcional del que estableix l’article 41 bis, apartat 2, de la Llei qualificada de la Justícia, es declaren hàbils, per a totes les actuacions judicials, els dies 1 al 15 del mes d’agost de l’any 2020, ambdós inclosos.
+2. S’exceptuen d’aquesta disposició els dissabtes, diumenges, els dies de festa nacional, les festes comunals, i tots els festius a efectes laborals, segons el calendari establert pel Govern, llevat per a les actuacions judicials per a les quals aquests dies siguin hàbils de conformitat amb les lleis processals aplicables.

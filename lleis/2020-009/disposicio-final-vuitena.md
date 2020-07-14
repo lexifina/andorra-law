@@ -1,0 +1,2 @@
+# Disposició final vuitena. Text consolidat
+S’encomana al Govern, en els termes previstos a l’article 116 del Reglament de Consell General, que en el termini màxim de quinze dies des de l’entrada en vigor d’aquesta Llei, presenti al Consell General el projecte de consolidació de la Llei 5/2020, del 18 d’abril, de noves mesures excepcionals i urgents per la situació d’emergència sanitària causada per la pandèmia del SARS-CoV-2, integrant la legislació vigent sobre la matèria regulada.
