@@ -1,0 +1,5 @@
+# Article 6. Modificació del títol i de l’apartat 2 de l’article 10 de la Llei 9/2014, del 3 de juny, d’ajuts a l’estudi
+Es modifica el títol i l’apartat 2 de l’article 10 de la Llei 9/2014, del 3 de juny, d’ajuts a l’estudi, el qual queda redactat de la manera següent:
+“Article 10. Educació especial de maternal, primera i segona ensenyança, batxillerat i formació professional no superior a l’estranger
+[…]
+2. Tots els alumnes amb necessitats educatives especials de nivells educatius preobligatoris, obligatoris, de batxillerat i de formació professional no superior que s’hagin d’escolaritzar a l’estranger per recomanació de l’informe oficial corresponent, emès per una autoritat andorrana, gaudeixen de matrícula gratuïta, que es finança amb càrrec al pressupost de l’Estat. Els estudis s’han de dur a terme en centres degudament reconeguts per les autoritats competents del país on s’ubiquin, i els ministeris andorrans encarregats de l’educació i de la salut i el benestar han de reconèixer-los com a centres autoritzats.”
