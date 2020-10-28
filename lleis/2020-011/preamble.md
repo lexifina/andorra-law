@@ -1,0 +1,11 @@
+Llei 11/2020, del 8 d’octubre, qualificada de modificació de la Llei 9/2005, del 21 de febrer, qualificada del Codi Penal
+Llei 11/2020, del 8 d’octubre, qualificada de modificació de la Llei 9/2005, del 21 de febrer, qualificada del Codi Penal
+Atès que el Consell General en la seva sessió del dia 8 d’octubre del 2020 ha aprovat la següent:
+Llei 11/2020, del 8 d’octubre, qualificada de modificació de la Llei 9/2005, del 21 de febrer, qualificada del Codi Penal
+Exposició de motius
+El Capítol tercer del Llibre segon del Títol VII de la Llei 9/2005, del 21 de febrer, qualificada del Codi Penal estipula quins són els delictes relatius a la prostitució, així com les seves penes. L’article 150 castiga amb pena de presó de tres mesos a tres anys el qui faci funcionar o financi un establiment de prostitució. També s’estableix com a punible l’afavoriment de la prostitució (article 151), i el proxenetisme, (article 152).
+Centrant-nos en l’article 151, es castiga amb penes de presó de tres mesos a tres anys el qui recluti per a la prostitució, promogui, faciliti o afavoreixi la prostitució d’altri.
+En aquest punt, considerem necessari ampliar el concepte de l’afavoriment de la prostitució també a aquelles persones i empreses que, tenint en compte la seva capacitat de comunicar i fer arribar els seus missatges a la població andorrana, fomentin la prostitució i incitin a la seva pràctica. I més si aquesta comunicació, que es fa a través de la publicitat, serveix per rebre un guany econòmic a canvi. És de coherència considerar delicte la publicitat relacionada amb la prostitució, si el Codi penal ja especifica clarament la il·legalitat de fomentar-la.
+És un neguit, a més, que ens han exposat partint d’un sentiment general de la nostra ciutadania.
+Per a aquest motiu, introduïm un nou apartat a l’article 151, per estipular com a delicte la publicitat explícita o implícita de la prostitució d’altri a través dels mitjans. El director de la publicació o programa en què es difongui serà considerat el responsable del delicte, i haurà de ser castigat amb pena de multa fins a 30.000 euros, o fins al triple del benefici obtingut, si és superior.
+La present Proposició de Llei qualificada, de modificació de la Llei 9/2005, del 21 de febrer, qualificada del Codi Penal, conté quatre articles de modificació i una Disposició final.
