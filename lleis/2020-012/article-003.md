@@ -1,0 +1,8 @@
+# Article 3. Modificació de l’article 55
+Es modifica l’article 55 de la Llei 17/2018, del 26 de juliol, d’ordenament del sistema educatiu andorrà, el qual queda redactat de la manera següent:
+“Article 55
+1. El docent que imparteixi estudis que condueixin a obtenir un títol acadèmic o professional de caràcter oficial o d’un certificat oficial ha de posseir, com a mínim, una titulació oficial de segon cicle universitari. Una de les seves titulacions oficials universitàries ha de ser de l’àmbit de l’especialitat corresponent.
+2. El docent que imparteix formació bàsica pot posseir, si no es compleix el punt anterior, una titulació d’ensenyament superior oficial de primer cicle el pla d’estudis de la qual contingui una part important de matèries d’àmbit didàctic o pedagògic.
+3. En cas excepcional, sempre que no s’hagi pogut garantir la docència de forma continuada al llarg de 15 dies naturals en una mateixa àrea d’aprenentatge i havent esgotat els recursos de contractació existents, es pot contractar temporalment, i com a màxim per la durada del curs escolar per al qual es realitza la contractació, personal interí que posseeixi una titulació oficial de primer cicle universitari de l’àmbit de l’especialitat corresponent. Aquesta contractació temporal no dona dret al personal interí a accedir als processos de selecció ni a formar part de la borsa de treball d’aquest nivell educatiu.
+4. Els docents destinats a determinades assignatures o programes tecnicoprofessionals han de posseir una titulació oficial en l’especialitat o bé acreditar una experiència professional suficient en l’àmbit corresponent.
+5. Cal igualment que els docents segueixin els plans de formació que amb aquesta finalitat estableixi el ministeri encarregat de l’educació.”
