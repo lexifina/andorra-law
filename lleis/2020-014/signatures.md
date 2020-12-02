@@ -1,0 +1,7 @@
+# Casa de la Vall, 12 de novembre del 2020
+Roser Suñé Pascuet
+Síndica General
+Nosaltres els coprínceps la sancionem i promulguem i n’ordenem la publicació en el Butlletí Oficial del Principat d’Andorra.
+Emmanuel Macron Joan Enric Vives Sicília
+President de la República Francesa Bisbe d’Urgell
+Copríncep d’Andorra Copríncep d’Andorra

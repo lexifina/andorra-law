@@ -1,0 +1,4 @@
+# Article 15. Modificació de l’article 16
+Es modifica l’apartat 1 de l’article 16 de la Llei 9/2016, del 28 de juny, de creació de l’Agència de Qualitat de l’Ensenyament Superior d’Andorra (AQUA), el qual queda redactat com segueix:
+“Article 16. Criteris de col·laboració externa
+1. Per completar les tasques de l’Agència de Qualitat de l’Ensenyament Superior d’Andorra, la persona que dirigeix l’AQUA pot establir relacions de col·laboració amb altres organismes i agències estrangers que tinguin atribuïdes funcions d’avaluació, d’acreditació i de certificació. S’han de prioritzar les que siguin membres de l’Associació Europea per a la Garantia de la Qualitat a l’Ensenyament Superior (European Association for Quality Assurance in Higher Education (ENQA)) o estiguin inscrites al Registre Europeu de Garantia de la Qualitat per a l’Ensenyament Superior (European Quality Assurance Register for Higher Education (EQAR)).”.
