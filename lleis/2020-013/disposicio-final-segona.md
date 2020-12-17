@@ -1,0 +1,2 @@
+# Disposició final segona. Accions, programes i serveis
+S’encomana al Govern, per tal de que en el termini de 3 mesos procedeixi a l’actualització del Pla nacional contra les drogodependències tenint en compte les noves realitats socials, garantint la coordinació efectiva entre els Ministeris encarregats d’afers socials, interior, salut, benestar, educació, esports, joventut i els comuns, i desplegant els instruments necessaris que permetin de forma efectiva la implicació de les famílies i dels joves en el desenvolupament del Pla.

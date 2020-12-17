@@ -1,0 +1,2 @@
+# Disposició final cinquena. Textos consolidats
+S’encomana al Govern que en el termini màxim de tres mesos des de l’entrada en vigor d’aquesta Llei i en els termes previstos en l’article 116 del Reglament del Consell General, presenti els Projectes de consolidació de la Llei 9/2005, del 21 de febrer, qualificada el Codi Penal; així com de la Llei 30/2018,del 6 de desembre, qualificada de seguretat pública; que integrin la legislació vigent sobre la matèria regulada.”

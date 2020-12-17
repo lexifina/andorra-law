@@ -1,0 +1,3 @@
+# Disposició final quarta. Reglaments
+En el període màxim d’un any des de l’entrada en vigor d’aquesta Llei, el Govern ha d’aprovar el Reglament de creació i de funcionament del Programa alternatiu de rehabilitació per a persones menors d’edat, que ha de comportar l’assistència a sessions informatives relatives a les addicions, i altres mesures preventives i educacionals, que potenciïn la promoció del civisme prevenint, alhora, els riscos per a la salut.
+En el període màxim de 6 mesos des de l’entrada en vigor d’aquesta Llei, el Govern ha d’aprovar el Reglament que determini els nivells objectius de soroll per sobre dels quals s’ha d’entendre que queda pertorbada la tranquil·litat pública i els criteris objectius de mesurament.
