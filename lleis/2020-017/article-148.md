@@ -1,0 +1,3 @@
+# Article 148
+1. L’autorització de perfeccionament passiu s’atorga a demanda de la persona que fa efectuar les operacions de perfeccionament.
+2. Per derogació de l’apartat 1, es pot concedir el benefici del règim de perfeccionament passiu a una altra persona quan l’operació de perfeccionament consisteix a incorporar aquestes mercaderies a mercaderies obtingudes fora del Principat d’Andorra i importades com a productes compensadors, en la mesura que el recurs al règim contribueixi a afavorir la venda de les mercaderies d’exportació, sense que perjudiqui els interessos essencials dels productors andorrans de productes idèntics o similars als productes compensadors importats.

@@ -1,0 +1,4 @@
+# Article 83
+1. Sense perjudici de l’article 84, quan es reuneixen les condicions per posar una mercaderia sota un cert règim, sempre que les mercaderies no siguin objecte de mesures de prohibició o de restricció, les autoritats duaneres atorguen el dret de disposar de les mercaderies a partir del moment que els enunciats de la declaració han estat comprovats o admesos sense comprovació. Igualment, les autoritats duaneres atorguen el dret de disposar de les mercaderies si la comprovació no es pot acabar en els terminis raonables i si la presència d’aquestes mercaderies no és necessària per dur a terme aquesta comprovació.
+2. El dret de disposar de les mercaderies es dona en una sola vegada per a totes les mercaderies que formen part d’una mateixa declaració.
+Per a l’aplicació del present apartat, quan un formulari de declaració inclou més d’un article, els enunciats relatius a cada article es consideren com una declaració separada.

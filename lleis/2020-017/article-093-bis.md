@@ -1,0 +1,15 @@
+## Secció 2 bis. Mesures adreçades a prohibir la posada en lliure pràctica, l’exportació, la reexportació i la posada sota un règim suspensiu de les mercaderies falsificades i de les mercaderies pirates
+# Article 93 bis
+1. Les disposicions d’aplicació del present Codi determinen:
+a) les condicions d’intervenció de les autoritats duaneres quan mercaderies sospitoses de ser mercaderies falsificades o mercaderies pirates:
+- es declaren per a la posada en lliure pràctica, l’exportació o la reexportació;
+- es descobreixen, arran d’un control efectuat en mercaderies sota un règim suspensiu o reexportades mitjançant notificació;
+b) les mesures que les autoritats competents han d’adoptar en relació amb aquestes mercaderies quan s’estableix que efectivament són mercaderies falsificades o mercaderies pirates.
+2. A l’efecte del present Codi s’entén per:
+a) mercaderies falsificades:
+- les mercaderies, inclòs el seu condicionament, en les quals s’ha posat sense autorització una marca de fàbrica o de comerç idèntica a la marca de fàbrica o de comerç degudament registrada per als mateixos tipus de mercaderies, o que no es poden diferenciar, en els aspectes essencials, d’aquesta marca de fàbrica o de comerç, i que per aquesta raó perjudiquen els drets del titular de la marca en qüestió segons la legislació del Principat d’Andorra on s’ha fet la demanda d’intervenció de les autoritats duaneres,
+- qualsevol signe de marca (logo, etiqueta, adhesiu, prospecte, instruccions d’utilització, document de garantia), fins i tot presentat separadament, en les mateixes condicions que les mercaderies esmentades al primer guió,
+- els embalatges que porten les marques de les mercaderies falsificades, fins i tot presentats separadament, en les mateixes condicions que les mercaderies esmentades al primer guió;
+b) mercaderies pirates: les mercaderies que són, o que contenen, còpies fabricades sense el consentiment del titular del dret d’autor o dels drets semblants o del titular del dret relatiu al disseny o al model registrat o no en dret nacional, o d’una persona degudament autoritzada pel titular al país de producció en els casos en què la realització d’aquestes còpies perjudiqui el dret en qüestió segons la legislació del Principat d’Andorra, on s’ha fet la demanda d’intervenció de les autoritats duaneres;
+c) titular del dret: el titular d’una marca de fàbrica o de comerç esmentada al punt a) i/o d’un dels drets esmentats al punt b), com també qualsevol altra persona autoritzada a utilitzar aquesta marca i/o aquests drets, o el seu representant.
+3. S’assimila a mercaderies falsificades o a mercaderies pirates, segons el cas, qualsevol motlle o matriu destinat o adaptat específicament per a la fabricació d’una marca falsificada o d’una mercaderia que porta una marca com aquesta o a la fabricació d’una mercaderia pirata, amb la condició que la utilització d’aquests motlles o matrius perjudiqui els drets del titular del dret segons la legislació del Principat d’Andorra, on s’ha fet la demanda d’intervenció de les autoritats duaneres.

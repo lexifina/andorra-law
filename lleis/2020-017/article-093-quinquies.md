@@ -1,0 +1,4 @@
+# Article 93 quinquies
+Quan, en el decurs d’un control dut a terme en el marc d’un dels procediments duaners esmentats a l’article 93 bis paràgraf 1 punt a) i abans que es dipositi o s’accepti una demanda del titular del dret, es fa palès al despatx de duana que la mercaderia és una mercaderia falsificada o una mercaderia pirata, l’autoritat duanera pot informar el titular del dret, si es coneix, del risc d’infracció. En aquest cas, l’autoritat duanera està autoritzada a suspendre el dret de disposar o està autoritzada a retenir la mercaderia en qüestió durant un termini de tres dies laborables, per tal de permetre al titular del dret de dipositar una demanda d’intervenció de conformitat amb l’article 93 quater.
+Article 93 sexties
+La decisió favorable a la demanda del titular del dret es comunica immediatament als despatxos de duana.

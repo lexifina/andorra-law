@@ -1,0 +1,2 @@
+# Article 26
+Qualsevol informació confidencial, o lliurada a títol confidencial, està protegida pel secret professional. Les autoritats duaneres no la poden divulgar sense l’autorització expressa de la persona o de l’autoritat que l’ha lliurada. Es permet la transmissió de les informacions en la mesura que les autoritats duaneres puguin estar obligades o autoritzades a fer-ho d’acord amb les disposicions vigents, principalment en matèria de protecció de dades o en el marc de procediments judicials.

@@ -1,0 +1,7 @@
+# Article 187
+1. Quan la reglamentació duanera preveu la constitució d’una garantia a títol obligatori, i sota reserva de les disposicions particulars previstes reglamentàriament per al règim del trànsit duaner, les autoritats duaneres fixen l’import d’aquesta garantia a un nivell igual a:
+a) l’import exacte del deute duaner o dels deutes duaners en qüestió, si aquest import es pot determinar de manera segura en el moment que s’exigeix la garantia,
+b) l’import més elevat, estimat per les autoritats duaneres, del deute duaner o dels deutes duaners nascuts o susceptibles de néixer en els altres casos.
+En el cas d’una garantia global constituïda per deutes duaners la suma dels quals varia en el temps, l’import d’aquesta garantia s’ha de fixar a un nivell que permeti cobrir en tot moment l’import dels deutes duaners en qüestió.
+2. Quan la reglamentació duanera preveu la constitució d’una garantia a títol facultatiu i les autoritats duaneres ho exigeixen, aquestes fixen l’import de la garantia de tal manera que aquest nivell no excedeixi el que es preveu a l’apartat 1.
+3. L’autoritat duanera, d’acord amb les condicions d’aplicació, determina els casos i les condicions en què es pot constituir una garantia estipulada.

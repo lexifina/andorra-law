@@ -1,0 +1,5 @@
+# Article 93 decies
+1. L’acceptació d’una demanda establerta de conformitat amb l’article 93 quater, paràgraf 2, no confereix al titular del dret un dret a indemnització en cas en que mercaderies falsificades o mercaderies pirates escapin al control d’un despatx de duana mitjançant l’atorgament del dret de disposar o per absència d’una mesura de retenció de conformitat amb l’article 93 septies paràgraf 1.
+2. L’exercici, per un despatx de duana o per una autoritat habilitada a aquest efecte, de les competències atribuïdes en matèria de lluita contra les mercaderies falsificades i les mercaderies pirates només compromet la seva responsabilitat envers les persones afectades per les operacions esmentades a l’article 93 bis paràgraf 1 punt a) i a l’article 93 quinquies, en cas de perjudici sofert per aquestes pel fet de la seva intervenció, en les condicions previstes en la matèria per la reglamentació vigent al Principat.
+Article 93 undecies
+Les mercaderies sense caràcter comercial que els viatgers porten en els seus equipatges personals s’exclouen del camp d’aplicació del present Codi, dins els límits fixats per a l’atorgament d’una franquícia duanera.

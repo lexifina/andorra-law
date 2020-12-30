@@ -1,0 +1,3 @@
+# Article 124
+1. Amb la reserva de l’article 125, quan neix un deute duaner, l’import d’aquest deute es determina prenent com a base els elements de taxació propis de les mercaderies d’importació en el moment de l’acceptació de la declaració de posada d’aquestes mercaderies sota el règim de perfeccionament actiu.
+2. Quan les mercaderies d’importació compleixen, en el moment esmentat a l’apartat 1, les condicions per beneficiar-se d’un tractament aranzelari preferencial en el marc de contingents aranzelaris o de sostres aranzelaris, aquestes mercaderies es poden beneficiar del tractament aranzelari preferencial eventualment previst per a mercaderies idèntiques en el moment de l’acceptació de la declaració de posada en lliure disposició.

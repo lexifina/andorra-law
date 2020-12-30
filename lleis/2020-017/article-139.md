@@ -1,0 +1,2 @@
+# Article 139
+El règim de l’admissió temporal permet la utilització al territori duaner del Principat d’Andorra, amb exoneració total o parcial dels drets a la importació i sense estar sotmeses a les eventuals mesures de política comercial, de mercaderies d’importació destinades a ser reexportades, sense haver estat modificades, exceptuant la seva depreciació normal com a conseqüència de la utilització que se n’hagi fet.
