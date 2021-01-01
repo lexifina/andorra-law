@@ -1,0 +1,2 @@
+# Disposició final primera. Textos consolidats
+S’encomana al Govern que, en el termini màxim de sis mesos des de l’entrada en vigor d’aquesta Llei i en els termes previstos a l’article 116 del Reglament del Consell General, trameti al Consell General el Projecte de text consolidat de la Llei 21/2013, del 10 d’octubre, per al foment de la rehabilitació del parc immobiliari, la millora de l’eficiència energètica dels edificis i l’ús de les energies renovables i el Projecte de text consolidat de la Llei d’arrendaments de finques urbanes, del 30 de juny de 1999.
