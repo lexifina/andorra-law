@@ -1,0 +1,3 @@
+# Article 15. Contractes de gestió de serveis públics mitjançant el procediment establert a l’article 16 de la Llei 5/2008
+D’acord amb l’article 29.8 de la Llei general de les finances públiques, del 19 de desembre de 1996 i les seves modificacions posteriors, amb l’article 2 i la disposició addicional sisena de la Llei 5/2008, a continuació es detallen els quadres on figura l’inventari dels contractes que tenen per objecte les actuacions previstes a l’article 34 de la Llei de contractació pública –“Contracte de gestió de serveis públics”–, finançats mitjançant el procediment establert a l’article 16 de la Llei 5/2008, que precisa les modalitats contractuals escollides i el règim jurídic dels contractes formalitzats i que són vigents.
+Taula.pdf

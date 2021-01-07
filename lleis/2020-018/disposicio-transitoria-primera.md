@@ -1,0 +1,4 @@
+# Disposició transitòria primera
+Respecte a la pensió de viduïtat temporal, en cas que s’apliqui en el moment del fet causant la Llei 17/2008 del 3 d’octubre, de la seguretat social, i es compleixin els requisits que estableixen l’article 180 de l’esmentada llei modificat per la Llei 9/2019, així com l’article 182, modificat per la Llei 18/2014, les persones vídues disposen d’un termini d’un any a comptar de la data de l’entrada en vigor d’aquesta Llei per sol·licitar l’aplicació de les disposicions que contenen els articles referits de la Llei de la seguretat social esmentada si els són més favorables.
+El reconeixement de la prestació corresponent pren efectes a comptar de la data de la sol·licitud corresponent.
+La Caixa Andorrana de Seguretat Social publicarà per tots els mitjans al seu abast el contingut d’aquesta disposició per tal que les persones concernides puguin beneficiar-se’n.

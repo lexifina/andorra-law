@@ -1,0 +1,2 @@
+# Disposició addicional primera
+S’aprova l’actualització del pla d’equilibri financer del pressupost extraordinari destinat a finançar les despeses derivades de la situació d’emergència sanitària causada per la pandèmia del SARS-CoV-2, aprovat mitjançant la disposició addicional primera de la Llei 5/2020, del 18 d’abril, de noves mesures excepcionals i urgents per la situació d’emergència causada per la pandèmia del SARS-CoV-2, que s’annexa a aquesta Llei.

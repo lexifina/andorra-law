@@ -1,0 +1,7 @@
+# Disposició final sisena
+Es modifica l’apartat 2, es crea un apartat 3 i es transforma l’actual apartat 3 en un nou apartat 4 de l’article 19 de la Llei 32/2014, de sostenibilitat de les finances públiques i d’estabilitat pressupostària i fiscal, i les seves modificacions posteriors, que queda redactat de la manera següent. Per coherència es modificarà la numeració de l’apartat següent.
+Article 19. Compte de compensació
+[…]
+2. Els pressupostos generals de l’Estat i dels comuns inclouran una partida pressupostària corresponent al zero coma cinquanta per cent (0,50%) del total de les seves despeses que anirà destinada a la dotació del compte de compensació. En els exercicis en que es tingui un pla d’equilibri financer vigent, segons el previst en aquesta Llei, no caldrà obligatòriament fer aportacions al compte de compensació.
+3. Pels càlculs associats amb l’apartat anterior es tindrà en consideració el pressupost de despeses liquidat sense considerar les operacions de refinançament de deute o d’amortitzacions de capital. L’aportació al compte de compensació s’efectuarà abans de finalitzar el primer trimestre de l’any pressupostari següent, tenint en consideració la dada del PIB nominal publicada per govern.
+4. En cas que el seu volum superi l’ú per cent (1%) del producte interior brut nominal, i si no existeix cap pressupost extraordinari viu, el Consell General, a proposta del Govern i els comuns, podrà decidir aplicar-ne la part excedent a la reducció del deute públic o a constituir o dotar un fons sobirà.
