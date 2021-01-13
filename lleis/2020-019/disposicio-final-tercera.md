@@ -1,0 +1,2 @@
+# Disposició final tercera. Textos consolidats
+S’encomana al Govern, en els termes previstos a l’article 116 del Reglament del Consell General, que en el termini màxim de sis mesos des de l’entrada en vigor d’aquesta Llei presenti al Consell General el projecte de consolidació de la Llei 30/2018, del 6 de desembre, qualificada de seguretat pública i de la Llei general de sanitat, del 20 de març de 1989, amb la incorporació de totes les modificacions que s’hi han produït.
