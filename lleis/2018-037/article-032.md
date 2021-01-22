@@ -1,0 +1,3 @@
+# Article 32. Relacions entre SAOE i club esportiu
+1. Les relacions entre el club esportiu i la SAOE que ha creat el club es regeixen pel conveni que aproven els seus representants legals respectius.
+2. El conveni, que inclou, a més de les condicions d’utilització o cessió a la SAOE dels signes distintius del club, la informació obligatòria al club de les deliberacions dels òrgans socials de la SAOE, entra en vigor després de l’aprovació de l’òrgan governamental competent en matèria d’esports i, en tot cas, al cap de dos mesos d’haver-lo presentat a aprovació sense que hi hagi hagut oposició de l’òrgan governamental competent en matèria d’esports.

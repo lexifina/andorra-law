@@ -1,0 +1,6 @@
+## Títol I. Organització de l’esport
+# Article 1. Objecte de la Llei
+1. L’objecte d’aquesta Llei és l’ordenació de l’activitat física i de l’esport al territori del Principat d’Andorra amb l’establiment d’un sistema que garanteixi el dret de tots els ciutadans a desenvolupar les facultats físiques, intel·lectuals i morals mitjançant l’accés lliure a una formació física adequada i a la pràctica de l’esport professional, competitiu, privat, educatiu, formatiu, de lleure o de qualsevol altra mena.
+2. Correspon als poders públics establir els instruments necessaris per tal de garantir i promoure l’accés a l’activitat física, a l’educació física i a la pràctica de l’esport de totes les persones sense cap tipus de distinció per raó de sexe, gènere, raça, religió, nacionalitat o de qualsevol altra índole.
+3. Especialment, correspon als poders públics establir els instruments necessaris per garantir i promoure l’accés a l’activitat física, a l’educació física i a la pràctica de l’esport de les persones amb discapacitat i l’eliminació de barreres que puguin comportar exclusió o discriminació.
+4. Correspon als poders públics vetllar perquè qualsevol pràctica esportiva es dugui a terme en condicions respectuoses amb el medi ambient.

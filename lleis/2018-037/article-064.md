@@ -1,0 +1,3 @@
+# Article 64. Coordinació governamental
+1. Correspon a l’òrgan governamental competent en matèria d’esports, en coordinació amb tots els ministeris i organismes afectats, impulsar les mesures necessàries amb la cooperació de les federacions esportives per protegir la seguretat i la salut dels esportistes, i per lluitar contra el dopatge.
+2. El Govern ha d’impulsar actuacions de prevenció i orientació dels efectes que l’esport i l’activitat física tenen sobre la salut, i ha de garantir que les persones participants en competicions esportives tinguin accés a informació i recomanacions sobre els riscos i els beneficis de la seva participació en aquestes competicions.

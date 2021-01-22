@@ -1,0 +1,3 @@
+# Article 47. Cessió d’ús de les instal·lacions esportives
+1. El Govern ha de fomentar la utilització de les instal·lacions esportives escolars fora de les hores lectives per a la pràctica de l’esport, d’acord amb les condicions de cessió, les prioritats i els preus públics establerts.
+2. Els centres escolars i qualssevol altres entitats que rebin suport públic han de promoure la utilització de les seves instal·lacions esportives fora de les hores lectives o d’activitat programada, a altres entitats, d’acord amb la normativa de foment de l’ús social de les instal·lacions públiques del Govern i dels comuns.

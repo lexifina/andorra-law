@@ -1,0 +1,3 @@
+# Article 13. Constitució d’una secció d’acció esportiva
+1. Per a la constitució d’una secció d’acció esportiva, els representants legals de les entitats han de presentar a l’òrgan governamental competent la seva voluntat de constituir l’associació en una acta fundacional, s’han de dotar d’uns estatuts on s’expressin les regles d’organització i funcionament i han de dur a terme la resta de formalitats establertes en aquesta llei i en la legislació en matèria d’associacions vigent en cada moment.
+2. Per a la inscripció al Registre d’Associacions s’han de presentar, a més dels estatuts, el certificat de validació de l’òrgan governamental.

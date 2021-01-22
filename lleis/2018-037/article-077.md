@@ -1,0 +1,5 @@
+# Article 77. Llista de prohibicions
+1. La relació de les substàncies i els mètodes prohibits tant en les competicions com fora de les competicions i tenint en compte les especificitats de cada esport constitueix l’Estàndard internacional d’harmonització de les polítiques de lluita contra el dopatge i és la que aprova, actualitza i fa pública periòdicament l’Agència Mundial Antidopatge en compliment de l’article 4 del Codi mundial antidopatge.
+2. Les condicions de les prohibicions de les substàncies i els mètodes prohibits esmentats al paràgraf 1 s’estableixen a les Regles antidopatge de l’Agència Andorrana Antidopatge.
+3. La Llista de substàncies i mètodes prohibits actualitzada ha de ser publicada per l’Agència Andorrana Antidopatge al Butlletí Oficial del Principat d’Andorra i al seu web. L’òrgan governamental competent en matèria d’esports coopera en la difusió mitjançant la publicació de la llista als mitjans físics i telemàtics oficials.
+4. L’ús d’una substància prohibida per part d’un esportista per raons terapèutiques pot ser autoritzat en les condicions establertes a les Regles antidopatge de l’Agència Andorrana Antidopatge.

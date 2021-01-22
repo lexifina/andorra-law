@@ -1,0 +1,2 @@
+# Article 65. Reconeixement mèdic
+Per autoritzar la participació en una competició esportiva federada, les federacions esportives han d’exigir com a requisit previ i imprescindible que l’esportista se sotmeti a un reconeixement mèdic d’aptitud per a la pràctica de la modalitat o la disciplina esportiva corresponent i el superi. Reglamentàriament es determinaran les proves que el reconeixement mèdic ha d’incloure per obtenir el certificat mèdic oficial d’aptitud.

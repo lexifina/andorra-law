@@ -1,0 +1,3 @@
+# Quarta
+1. Els requisits de titulació introduïts per aquesta Llei per als professionals esportius entraran en vigor amb l’aprovació del marc general de titulacions i homologacions de professions esportives, que ha d’aprovar el Govern dins un termini de dos anys a comptar de l’entrada en vigor d’aquesta Llei.
+2. El marc general de titulacions i homologacions de professions esportives ha de regular les condicions d’homologació dels professionals que en el moment de l’entrada en vigor dels nous requisits acreditin una experiència mínima de tres anys en una professió esportiva sense la titulació exigida.

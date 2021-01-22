@@ -1,0 +1,3 @@
+# Article 11. Constitució d’un club esportiu
+1. Per a la constitució d’un club esportiu, un mínim de tres fundadors han de manifestar la seva voluntat de constituir l’associació en una acta fundacional, s’han de dotar d’uns estatuts on s’expressin les regles d’organització i funcionament de l’associació i han de dur a terme la resta de formalitats establertes en la legislació en matèria d’associacions vigent en cada moment.
+2. Sense perjudici de l’establert en l’apartat anterior, l’òrgan governamental competent en matèria d’esports haurà d’emetre el certificat de validació corresponent, que haurà de ser lliurat, amb la resta de documentació, en el moment de la constitució de l’associació.

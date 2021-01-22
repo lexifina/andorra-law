@@ -1,0 +1,3 @@
+# Article 23. Codi de bones pràctiques
+1. Les federacions esportives han d’adoptar un codi que estableixi les pràctiques de bon govern inspirades en els principis de democràcia i participació. El Codi ha de contenir normes sobre la gestió, la transparència i el control de totes les transaccions econòmiques i de direcció i organització que efectuïn, tant si estan finançades amb ajudes públiques com si no ho estan.
+2. Les bones pràctiques establertes i realment executades per les federacions i les entitats que en formen part constitueixen un dels criteris de la classificació regulada a l’article 37 i es tenen en compte per a l’accés a les subvencions i les ajudes públiques, d’acord amb la resta de legislació.

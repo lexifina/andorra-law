@@ -1,0 +1,4 @@
+# Article 73. Cooperació i intercanvi d’informació en la lluita contra el dopatge
+1. Qualsevol organisme, entitat esportiva o entitat organitzadora d’una manifestació esportiva que, en l’exercici de les seves competències, té coneixement de la comissió d’una infracció relacionada amb la lluita contra el dopatge té l’obligació d’informar-ne l’Agència Andorrana Antidopatge i de cooperar-hi.
+2. Els òrgans administratius que rebin informació sobre el tràfic o la venda de substàncies i procediments prohibits per aquesta Llei han de crear mecanismes de cooperació i intercanvi de dades amb vista al compliment dels objectius de lluita contra el dopatge.
+3. L’Agència Andorrana Antidopatge està habilitada per intercanviar informació sobre el tràfic i la venda de substàncies i els procediments prohibits esmentats al paràgraf anterior amb els organismes reconeguts per l’Agència Mundial Antidopatge amb competències anàlogues.

@@ -1,0 +1,2 @@
+# Article 83. Confidencialitat
+L’Agència Andorrana Antidopatge només pot recollir, conservar, tractar o divulgar dades personals sobre una infracció de les Regles antidopatge en les condicions estrictes establertes a l’Estàndard internacional per a la protecció de les dades personals i la resta d’estàndards internacionals de l’Agència Mundial Antidopatge, d’acord amb les Regles antidopatge de l’Agència Andorrana Antidopatge i amb la legislació andorrana sobre protecció de dades personals aplicable al Principat d’Andorra.

@@ -1,0 +1,2 @@
+# Tercera
+La societat Bàsquet Club Andorra, SA disposa del termini de dos anys a comptar de la data d’entrada en vigor d’aquesta Llei per adaptar-se a les disposicions previstes per a les SAOE. Sense perjudici de l’anterior, per al Bàsquet Club Andorra, SA no s’aplicarà l’establert en els apartats 1 i 2 de l’article 27 d’aquesta Llei, tot i reconeixent-se la propietat de les accions d’aquesta societat anònima a favor dels seus actuals propietaris de conformitat amb el que consti inscrit en el Registre de Societats.

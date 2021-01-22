@@ -1,0 +1,4 @@
+# Article 70. Funcions del Govern
+1. D’acord amb el Conveni internacional contra el dopatge en l’esport, del 19 d’octubre de 2005, i amb la resta de l’ordenament jurídic andorrà, correspon al Govern l’impuls i la realització d’una política pública activa per a la prevenció i repressió del dopatge en l’àmbit de l’activitat física, en general, i de l’activitat esportiva, en particular.
+2. A aquest efecte presta el suport necessari a l’Agència Andorrana Antidopatge en l’objectiu de l’Estat de prevenir i evitar l’ús intencional o no intencional de substàncies i mètodes prohibits o la comissió de qualsevol altra infracció de les Regles antidopatge.
+3. El Govern, per mitjà dels diversos òrgans implicats en la prevenció i la lluita contra el dopatge, potencia els instruments de col·laboració entre administracions, organitzacions responsables de lluita contra el dopatge i entitats esportives.

@@ -1,0 +1,2 @@
+# Article 45. Responsabilitat de les entitats organitzadores
+Tota manifestació esportiva obliga l’entitat organitzadora, d’acord amb les característiques de l’acte, a la concertació prèvia d’una modalitat específica d’assegurança que cobreixi els danys eventuals i els perjudicis que es puguin causar tant als participants com a terceres persones amb motiu de la seva realització, així com, quan s’escaigui, a les instal·lacions en les quals es dugui a terme la manifestació esportiva de què es tracti.

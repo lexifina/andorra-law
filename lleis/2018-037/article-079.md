@@ -1,0 +1,3 @@
+# Article 79. Gestió de resultats
+1. L’Agència Andorrana Antidopatge és responsable de la gestió dels resultats de les persones sobre les quals exerceix la competència antidopatge, en les condicions establertes a les Regles antidopatge.
+2. La gestió dels resultats inclou l’examen de resultats anormals o atípics dels controls, l’examen de les formes de dopatge establertes a l’article 2 (del 2.2 al 2.6), la verificació d’eventuals vulneracions anteriors i d’eventuals autoritzacions per a ús terapèutic de la persona afectada, les condicions de l’establiment de la mesura de suspensió provisional i de resolució sense audiència, la notificació de les decisions sobre gestió de resultats i el procediment en cas de retirada esportiva.

@@ -1,0 +1,5 @@
+# Article 54. Entrenadors i tècnics
+1. Es consideren entrenadors o tècnics esportius les persones que, amb la titulació exigida en l’ordenament jurídic andorrà, exerceixen funcions d’entrenament, planificació, formació, perfeccionament, prevenció de lesions, direcció tècnica i altres funcions anàlogues en relació amb una modalitat o especialitat esportiva.
+2. L’entrenador esportiu que exerceix en el marc d’una federació esportiva, a més, ha de disposar de la llicència federativa corresponent, d’acord amb els estatuts federatius.
+3. Els entrenadors de les seleccions nacionals que participen en competicions d’alt nivell es poden beneficiar de les mesures de suport de l’article 51.
+4. Correspon al Govern, mitjançant els òrgans competents en educació i esports, establir la formació i la titulació necessària per exercir les funcions d’aquest article amb la concreció del marc general de titulacions esportives, i fomentar la realització dels cursos i les activitats per a la formació i el perfeccionament dels entrenadors i tècnics esportius.

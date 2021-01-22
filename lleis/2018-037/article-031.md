@@ -1,0 +1,4 @@
+# Article 31. Dividends i préstecs
+1. Les SAOE no poden repartir dividends fins que no estigui constituïda una única reserva legal igual, almenys, a la mitjana de les despeses realitzades en els tres últims exercicis. Durant els tres primers exercicis aquesta quantitat s’ha de calcular sobre la mitjana de les despeses realitzades o sobre l’import del pressupost inicial si no es disposa del tancament anyal.
+2. Els accionistes i administradors que realitzin préstecs a favor de les SAOE no els poden exigir si la societat no ha obtingut beneficis en l’últim exercici anterior al seu venciment. En aquest cas, els préstecs queden renovats fins al tancament de l’exercici, moment en què seran retornats si s’han obtingut beneficis.
+3. En cas d’obtenir beneficis, les SAOE poden fer aportacions a la Fundació de l’Esport amb les bonificacions que es puguin establir en el pagament de l’impost sobre societats.

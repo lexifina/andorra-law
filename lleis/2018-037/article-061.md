@@ -1,0 +1,4 @@
+# Article 61. Formació tècnica esportiva
+1. És missió de l’Escola de Formació de Professions Esportives i de Muntanya i del ministeri encarregat de l’educació proporcionar, als tècnics esportius, una formació tècnica esportiva mitjançant cursos temporals o permanents de formació o reciclatge, teòrics i pràctics.
+2. La supervisió de la formació tècnica esportiva que duen a terme altres institucions, públiques o privades, correspon a l’òrgan governamental competent en matèria d’esports en coordinació amb al ministeri encarregat de l’educació i l’Escola de Formació de Professions Esportives i de Muntanya.
+3. El Govern pot acreditar altres institucions públiques o privades per realitzar formacions mitjançant cursos temporals o permanents de formació o reciclatge, teòrics i pràctics, als tècnics esportius i als directors tècnics de federacions i entitats esportives.

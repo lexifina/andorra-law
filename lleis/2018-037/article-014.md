@@ -1,0 +1,4 @@
+# Article 14. Definició i constitució d’una agrupació esportiva
+1. Són agrupacions esportives, a l’efecte d’aquesta Llei, les associacions privades sense ànim de lucre constituïdes per persones físiques relacionades per vincles de caràcter personal, professional o social, que s’associïn per a l’estudi, la promoció o la pràctica d’activitats fisicoesportives, i que no tinguin una finalitat essencialment competitiva.
+2. Per a la constitució d’una agrupació esportiva, un mínim de tres persones físiques han de manifestar la seva voluntat de constituir-se com associació en una acta fundacional i dur a terme les formalitats establertes en la legislació en matèria d’associacions vigents en cada moment.
+3. Per a la inscripció al Registre d’Associacions s’han de presentar, a més dels estatuts, el certificat de validació de l’òrgan governamental.

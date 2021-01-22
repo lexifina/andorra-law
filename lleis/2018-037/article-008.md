@@ -1,0 +1,5 @@
+# Article 8. El Comitè Paralímpic Andorrà
+1. D’acord amb els objectius de foment d’una societat més inclusiva mitjançant l’esport, es reconeix el Comitè Paralímpic Andorrà com a organisme encarregat del foment de l’esport paralímpic i de la coordinació amb les organitzacions esportives d’àmbit internacional que regulen l’esport paralímpic.
+2. El Comitè Paralímpic Andorrà, constituït d’acord amb els principis i les normes del Comitè Paralímpic Internacional, és un organisme amb personalitat jurídica, plena capacitat d’obrar, patrimoni propi i duració il·limitada, sense finalitat de lucre.
+3. El Comitè Paralímpic Andorrà fixa els criteris de qualitat dels esportistes de cada especialitat o prova, d’acord amb les federacions nacionals esportives de cada especialitat, a les quals correspon dissenyar i executar els programes de tecnificació dels esportistes paralímpics.
+4. El Comitè Paralímpic Andorrà té les mateixes competències en l’esport paralímpic que les que estableix aquesta Llei per al Comitè Olímpic Andorrà en l’esport olímpic.

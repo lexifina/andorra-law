@@ -1,0 +1,3 @@
+# Article 6. L’esport inclusiu
+1. Correspon al Govern i als comuns, en l’àmbit de les competències respectives, fomentar la pràctica de l’esport com a vehicle d’integració i desenvolupament personal dels ciutadans i com a mitjà de cohesió i igualtat social.
+2. En l’àmbit de la diversitat funcional, es reconeix la funció de “Special Olympics Andorra” com a entitat promotora i coordinadora de la pràctica esportiva per a persones amb discapacitat intel·lectual per afavorir-ne la plena integració i l’autonomia progressiva. Es reconeix la funció de la FADEA com a entitat esportiva encarregada del foment i de la coordinació de la pràctica esportiva per a persones amb discapacitats motrius i/o sensorials.

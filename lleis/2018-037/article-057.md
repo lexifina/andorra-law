@@ -1,0 +1,2 @@
+# Article 57. Voluntaris
+Es consideren agents de la pràctica esportiva les persones que efectuen una prestació voluntària de serveis relacionats amb la pràctica de l’esport o l’organització d’alguna manifestació esportiva que comporti un compromís d’actuació a favor de la societat, d’acord amb el concepte de voluntariat establert a la Llei 90/2010, del 16 de desembre, del voluntariat d’Andorra o la norma que la substitueixi.
