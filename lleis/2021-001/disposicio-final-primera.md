@@ -1,0 +1,2 @@
+# Disposició final primera. Text consolidat
+S’encomana al Govern que en el termini màxim d’un mes des de l’entrada en vigor d’aquesta Llei i en els termes previstos en l’article 116 del Reglament del Consell General, presenti el Projecte de consolidació de la Llei 16/2020, del 4 de desembre, de noves mesures excepcionals i urgents per la situació d’emergència sanitària causada per la pandèmia del SARS-CoV-2 que integri la legislació vigent sobre la matèria regulada.

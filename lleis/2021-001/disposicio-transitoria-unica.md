@@ -1,0 +1,2 @@
+# Disposició transitòria única. Suspensions temporals dels contractes de treball o reduccions de la jornada laboral autoritzades amb anterioritat
+Les suspensions temporals dels contractes de treball o les reduccions de la jornada laboral autoritzades, expressament o tàcitament, pel ministeri competent en matèria de treball amb anterioritat a l’entrada en vigor d’aquesta Llei poden ser prolongades automàticament per decret del Govern, de conformitat amb les disposicions de l’apartat 2 bis de l’article 16, addicionat per l’article 4 d’aquesta Llei.
