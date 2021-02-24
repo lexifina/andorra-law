@@ -1,0 +1,5 @@
+# Article 14. Modificació de l’article 37 de la Llei 32/2008, del 18 de desembre, del Cos de Banders
+Es modifica l’article 37 de la Llei 32/2008, del 18 de desembre, del Cos de Banders, que queda redactat de la manera següent:
+“Article 37. Suspensió de l’autorització de portar arma
+1. El director, després de comunicar-ho immediatament al ministre responsable del Cos de Banders, pot prohibir o retirar de manera preventiva i amb caràcter d’urgència el port d’arma a qualsevol membre del Cos de Banders que estigui de baixa per raons psíquiques, que tingui un estat de salut que pugui representar un perill per a la seva integritat o la integritat d’altres o que no superi les formacions específiques de port d’arma.
+2. El ministre titular responsable del Cos de Banders, després de rebre la comunicació del director del Cos, ha de convocar tan aviat com sigui possible el Comitè Mèdic previst en l’article 31. El Comitè Mèdic ha d’emetre el dictamen corresponent i proposar al ministre titular responsable del Cos de Banders la mesura definitiva que calgui adoptar.”

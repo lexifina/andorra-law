@@ -1,0 +1,6 @@
+# Article 6. Modificació de l’article 16 de la Llei 32/2008, del 18 de desembre, del Cos de Banders
+Es modifica l’article 16 de la Llei 32/2008, del 18 de desembre, del Cos de Banders, que queda redactat de la manera següent:
+“Article 16. Provisió de places
+La provisió de places vacants o de nova creació de membres del Cos de Banders es du a terme de la manera següent:
+a) La provisió de les places vacants o de nova creació que pertanyen a l’escala bàsica, que comprèn els llocs de treball de bander alumne i bander, s’efectua mitjançant el procediment selectiu d’ingrés establert per la Llei de la funció pública i els reglaments que la desenvolupen.
+b) La provisió de places vacants o de nova creació que pertanyen a l’escala de gestió, que comprèn els llocs de treball de cap d’àrea i cap d’unitat, s’efectua mitjançant promoció interna entre membres del Cos, segons s’estableixi reglamentàriament, i, subsidiàriament, en cas que no concorrin candidats o els candidats no reuneixin els requisits exigits, mitjançant el procediment selectiu d’ingrés.”

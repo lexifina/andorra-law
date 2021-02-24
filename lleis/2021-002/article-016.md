@@ -1,0 +1,4 @@
+# Article 16. Addició d’un article 37 ter a la Llei 32/2008, del 18 de desembre, del Cos de Banders
+S’addiciona un article 37 ter, dins el capítol tercer del Títol III de la Llei 32/2008, del 18 de desembre, del Cos de Banders, amb el redactat següent:
+“Article 37 ter. Registre, informe i revisió
+Per la via reglamentària, s’han de determinar i desenvolupar les obligacions eventuals de registre, informe i revisió mèdica amb posterioritat a l’ús de les armes i dels mitjans coercitius autoritzats, i de custòdia i manteniment d’aquestes armes i mitjans. En tot cas, però, el director del Cos de Banders ha de comunicar i detallar l’ús que se hagi fet dels mitjans coercitius al ministre titular responsable del Cos de Banders, al Ministeri Fiscal i, si escau, també a l’autoritat judicial competent.”

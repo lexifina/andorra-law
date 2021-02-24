@@ -1,0 +1,23 @@
+# Disposició final segona. Modificació de la Llei 13/2016, del 28 de juliol, de caça
+1. Es modifica l’article 46 de la Llei 13/2016, del 28 de juliol, de caça, que queda redactat de la manera següent:
+“Article 46. Competència
+1. La potestat sancionadora arran de la comissió d’infraccions molt greus correspon al ministre competent en matèria de caça, el qual la pot delegar en un alt càrrec del ministeri, segons prevegi l’acord de delegació.
+2. La potestat sancionadora arran de la comissió d’infraccions lleus i greus correspon al director del Cos de Banders.”
+2. S’introdueix un nou article 47 a la Llei 13/2016, del 28 de juliol, de caça, que queda redactat de la manera següent:
+“Article 47. Procediment sancionador per infraccions greus previstes als articles 40.2, 40.3, 40.4 i 40.5 i per infraccions molt greus previstes a l’article 41
+El procediment sancionador per imposar sancions per les infraccions greus previstes als articles 40.2, 40.3, 40.4 i 40.5 i per les infraccions molt greus previstes a l’article 41 se subjecta a les disposicions del Codi de l’Administració, del 29 de març de 1989 i dels reglaments que el desenvolupen.”
+3. S’introdueix un nou article 48 a la Llei 13/2016, del 28 de juliol, de caça, que queda redactat de la manera següent:
+“Article 48. Procediment sancionador per infraccions lleus i greus previstes als articles 39 i 40.1
+1. El procediment sancionador a l’empara d’aquest article l’inicia el Cos de Banders mitjançant la constatació per part d’un dels seus membres de qualsevol de les infraccions previstes als articles 39 i 40.1 d’aquesta Llei. Aquesta constatació, que té la consideració de denúncia, s’ha de notificar a la persona expedientada i ha de contenir la data de la presumpta infracció, una descripció detallada dels fets, les disposicions legals presumptament infringides, l’import de les sancions que comporten aquestes infraccions i una indicació clara del termini per formular al·legacions.
+2. La persona expedientada disposa d’un termini improrrogable de deu dies hàbils, a partir de l’endemà de la notificació a què fa referència l’apartat anterior, per contestar la denúncia, fer les al·legacions que consideri oportunes al respecte i aportar la documentació que consideri escaient.
+3. Si la persona expedientada fa al·legacions durant el termini esmentat a l’apartat anterior, l’expedient sancionador es completa amb aquestes al·legacions i els documents que s’hi acompanyen eventualment, i s’eleva al director del Cos de Banders perquè dicti la resolució corresponent. Aquesta resolució s’ha de notificar a la persona sancionada i s’hi pot interposar recurs d’acord amb el Codi d’Administració, del 29 de març de 1989.
+4. En cas que hagi transcorregut el termini de deu dies hàbils que preveu l’apartat 2 d’aquest article sense que la persona expedientada hagi fet al·legacions, l’expedient sancionador es considera resolt de manera ferma i definitiva, i la resolució es considera notificada degudament, d’acord amb les infraccions i les sancions que s’hagin fet constar a la denúncia, les quals esdevenen executives.
+5. La persona sancionada disposa del termini d’un mes per fer efectiu l’import de les sancions pels mitjans de pagament acceptats per l’Administració general, a comptar de l’endemà del dia en què s’hagi de considerar notificada la resolució, segons els apartats 3 i 4 anteriors.
+6. Un cop transcorregut el termini d’un mes que estableix l’apartat 5 anterior sense que la persona sancionada hagi fet efectiu l’import de les sancions i sense que hagi interposat un recurs contra la resolució dictada, es cobra aquest import per la via de l’execució forçosa. En aquest cas, s’aplica automàticament un recàrrec del 20% sobre l’import de les sancions.”
+4. S’introdueix un nou article 49 a la Llei 13/2016, del 28 de juliol, de caça, que queda redactat de la manera següent:
+“Article 49. Reducció per conformitat
+1. En cas que la persona sancionada pagui voluntàriament l’import de les sancions per infraccions lleus i greus previstes als articles 39 i 40.1 en el mateix moment en què s’inicia el procediment sancionador previst a l’article 48, o dins del termini dels deu dies hàbils següents, l’import de la sanció es redueix en un 40%.
+2. El pagament voluntari previst a l’apartat 1 comporta:
+a) La renúncia a fer al·legacions i que, en cas que se’n facin, es tinguin per no formulades.
+b) La finalització i l’arxivament del procediment sancionador en el mateix moment en què es fa el pagament, sense que calgui dictar una resolució expressa a aquest fi. A aquest efecte serveix el document acreditatiu de pagament.
+c) La fermesa de les sancions imposades amb efectes plens a comptar del dia en què es fa el pagament.”

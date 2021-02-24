@@ -1,0 +1,2 @@
+# Disposició final sisena. Textos consolidats
+S’encomana al Govern que, en el termini màxim de sis mesos des de l’entrada en vigor d’aquesta Llei i en els terme previstos a l’article 116 del Reglament del Consell General, presenti el projecte de consolidació de la Llei 32/2008, del 18 de desembre, del Cos de Banders; de la Llei de pesca i de gestió del medi aquàtic, del 28 de juny del 2002; de la Llei 13/2016, del 28 de juliol, de caça i de la Llei 11/2016, del 28 de juny, de tinença i de protecció d’animals.
