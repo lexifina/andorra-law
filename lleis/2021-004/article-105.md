@@ -1,0 +1,3 @@
+# Article 105. Recursos
+Les sancions pronunciades pel Govern poden ser objecte de recurs davant de la jurisdicció administrativa, per part de les persones sancionades. El recurs no és suspensiu. Es pot sol·licitar, tanmateix, que el tribunal suspengui la decisió fins que s’hagi pronunciat sobre el recurs, si es considera que l’execució de la sanció pot causar perjudicis d’impossible o difícil reparació.
+El procediment que cal seguir és l’establert per la Llei de la jurisdicció administrativa i fiscal vigent o una altra que la substitueixi. En aquest sentit, la decisió del Tribunal de Batlles pot ser recorreguda davant del Tribunal Superior de Justícia, Sala Administrativa.

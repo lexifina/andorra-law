@@ -1,0 +1,2 @@
+# Disposició derogatòria tercera
+En el moment d’entrada en vigor d’aquesta Llei queden derogades totes les disposicions d’igual rang o inferior, que contradiguin el seu contingut, com la Llei 37/2014, de l’11 de desembre, de regulació dels jocs d’atzar, el Text refós de la Llei 37/2014, de l’11 de desembre, de regulació dels jocs d’atzar, del 21 de març del 2018 i el Text refós de la Llei 37/2014, de l’11 de desembre, de regulació dels jocs d’atzar, de l’11 d’abril del 2018.

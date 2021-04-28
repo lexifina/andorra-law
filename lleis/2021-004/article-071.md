@@ -1,0 +1,3 @@
+# Article 71. Destinació dels premis il·lícits
+1. Si es comprova que una persona que ha obtingut un premi no tenia dret a jugar a causa de l’edat o de limitacions en la capacitat d’obrar, l’operador del casino ha de posar el premi a disposició del Govern d’Andorra, el qual n’ha de determinar la destinació segons les circumstàncies, però tenint en compte que en cap cas no es pot lliurar a la persona que l’ha obtingut il·lícitament. Els imports provinents d’aquests premis s’han de destinar a fomentar el joc responsable.
+2. Si el supòsit a què fa referència l’apartat 1 es dona per causes imputables a l’operador del casino, el Consell Regulador Andorrà del Joc ha d’iniciar l’expedient sancionador corresponent.

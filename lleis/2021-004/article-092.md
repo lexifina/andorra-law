@@ -1,0 +1,3 @@
+# Article 92. Distribució de la recaptació
+El rendiment dels tributs sobre el joc es destina a finançar indistintament el conjunt de les obligacions econòmiques de les finances públiques.
+En qualsevol cas, el 60% de la tributació provinent de les activitats de joc presencial s’ha de destinar a projectes o actuacions en benefici de la societat, com són, sense ànim d’exhaustivitat: els plans de mesures per a la gestió responsable del joc, la reparació dels efectes negatius del joc, l’ajuda als sectors socialment marginats o amb economies precàries, l’educació, la investigació, la cultura, el finançament de la seguretat social i d’altres similars.
