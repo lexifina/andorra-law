@@ -1,0 +1,2 @@
+# Article 12. Àmbit temporal aplicable
+L’aplicació de la suspensió temporal dels contractes de treball i de la reducció de la jornada laboral se circumscriu al període comprès entre l’1 de gener del 2021 i fins als noranta dies naturals posteriors al dia en què el Govern declari, per decret, la fi de la situació d’emergència sanitària ocasionada per la pandèmia del SARS-CoV-2. En tot cas, aquest àmbit temporal no pot anar més enllà del 30 de juny del 2021.

@@ -1,0 +1,3 @@
+# Disposició final tercera. Desenvolupament reglamentari
+1. S’encomana al Govern l’adaptació de la reglamentació general per tal d’acomodar-la a les disposicions d’aquesta Llei i, en particular, del Decret del 10 de juny del 2020 d’aprovació del Reglament regulador del permís retribuït extraordinari per absència laboral per tenir cura dels fills a càrrec durant el període d’emergència sanitària causada per la pandèmia del SARS-CoV-2, als efectes d’adequar-lo a les disposicions de l’article 7.
+2. El text dels reglaments modificats ha d’estar aprovat i publicat en un termini no superior a quinze dies naturals des de la data d’entrada en vigor d’aquesta Llei.

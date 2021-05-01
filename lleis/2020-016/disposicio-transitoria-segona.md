@@ -1,0 +1,2 @@
+# Disposició transitòria segona. Procediments sancionadors
+Els procediments sancionadors iniciats abans o després de l’entrada en vigor d’aquesta Llei, en relació amb les sol·licituds de suspensió temporal dels contractes de treball i de reducció de la jornada autoritzades en mèrits de la Llei 5/2020, del 18 d’abril, de noves mesures excepcionals urgents per la situació d’emergència sanitària per la pandèmia del SARS-CoV-2 i de les seves normes de desenvolupament, es continuen tramitant i resolent d’acord amb les normes vigents en aquell moment.

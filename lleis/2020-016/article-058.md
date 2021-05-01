@@ -1,0 +1,4 @@
+## Capítol vuitè. Mesures relatives a les actuacions davant de batlles i tribunals
+# Article 58. Actuacions per videoconferència
+1. Totes les actuacions davant dels batlles i tribunals es poden fer per mitjà de videoconferència o un altre sistema similar que permeti la comunicació bidireccional i simultània de la imatge i el so, i la interacció visual i verbal entre dos persones o grups de persones que no es trobin físicament en el mateix indret, sempre que quedin assegurats el dret a la defensa i la possibilitat de contradicció de les parts, quan així ho acordi el batlle o el tribunal.
+2. Quan s’utilitzi aquest sistema, el secretari judicial o el mateix òrgan jurisdiccional han d’acreditar prèviament la identitat de les persones que intervinguin en la videoconferència, mitjançant la remissió prèvia o l’exhibició directa de la documentació, per coneixement personal o per qualsevol altre mitjà idoni.

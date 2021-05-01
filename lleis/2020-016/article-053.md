@@ -1,0 +1,2 @@
+# Article 53. Reducció de la base de tributació de tots els impostos pels arrendaments no percebuts
+Els ingressos no percebuts per causa de les reduccions en matèria d’arrendaments que estableix el capítol tercer no s’inclouen en la base de tributació de l’impost de societats, de l’impost sobre la renda dels no-residents fiscals i de l’impost sobre la renda de les persones físiques. Tanmateix, són deduïbles les despeses relacionades amb aquestes rendes.
