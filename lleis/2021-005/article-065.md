@@ -1,0 +1,6 @@
+# Article 65. Modificació de l’apartat 2 de l’article 422
+Es modifica l’apartat 2 de l’article 422 de la Llei 24/2018, del 18 d’octubre, del Codi de procediment civil, el qual queda redactat com segueix:
+“Article 422. Decisió sobre el reconeixement i l’execució de resolucions judicials estrangeres que adopten mesures cautelars o provisionals i recurs
+[…]
+2. Si el tribunal considera que estan acreditades, en vista de les al·legacions formulades i de les proves practicades, la validesa i la suficiència de la resolució judicial estrangera, i que alhora s’ha prestat una caució suficient, si escau, admet la sol·licitud de reconeixement i execució. En aquest cas adopta les mesures cautelars o provisionals que s’estableixen en la resolució judicial estrangera i el règim a què han d’estar sotmeses, i determina la quantia, i la forma de la caució i el moment en el qual el sol·licitant l’ha de prestar. El tribunal també pot decidir que se substitueixin les mesures cautelars o provisionals adoptades per una mesura cautelar o provisional equivalent, o bé que es revoquin les mesures adoptades com a conseqüència de la prestació d’una caució suficient per la persona afectada per aquestes mesures.
+[…].”

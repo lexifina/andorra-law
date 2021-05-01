@@ -1,0 +1,5 @@
+# Article 64. Supressió de l’apartat 3 de l’article 419
+Se suprimeix l’apartat 3 de l’article 419 de la Llei 24/2018, del 18 d’octubre, del Codi de procediment civil, el qual queda redactat com segueix:
+“Article 419. Oposició del deutor i vista
+1. En cas que l’executat o la persona que hagi de pagar la quantitat que es pretén liquidar s’oposi motivadament, i dins el termini concedit, a la quantitat fixada per l’executant en la petició de liquidació, o als conceptes o les partides que s’hi inclouen, pot aportar els documents o els dictàmens que consideri oportuns, i ha de proposar les proves que consideri útils, pertinents i necessàries per acreditar les seves pretensions.
+2. Un cop s’ha plantejat l’oposició i dins els tretze dies hàbils següents, el tribunal dicta un aute en què admet o no admet les proves proposades i assenyala la data en què se celebra la vista. La vista es desenvolupa d’acord amb les normes que estableix l’article 257 per al judici oral en el procediment abreujat, en el que siguin aplicables, dins els tretze dies hàbils següents.”
