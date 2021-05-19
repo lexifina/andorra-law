@@ -1,0 +1,5 @@
+# Article 8. Addició d’un article 21 quater
+S’afegeix un nou article 21 quater a la Llei 35/2014, del 27 de novembre, de serveis de confiança electrònica, que queda redactat com segueix:
+“Article 21 quater. Requisits dels repositoris electrònics personals de dades qualificats
+1. Els repositoris electrònics personals de dades qualificats permeten l’emmagatzematge de certificats de signatura o segell electrònics i de certificats d’atributs verificats d’identitat, en condicions de seguretat i control, pel titular dels certificats pertinents, i d’accés i compartició dels mateixos repositoris.
+2. El Govern pot dictar disposicions reglamentàries per definir de forma més precisa els requisits dels repositoris electrònics personals de dades qualificats, així com establir números de referència de normes relatives als mateixos repositoris, que s’han de publicar al Butlletí Oficial del Principat d’Andorra. Es presumeix el compliment dels requisits de l’apartat 1 quan el servei s’ajusti a aquestes normes.”
