@@ -1,0 +1,15 @@
+# Article 43. Passius exclosos obligatòriament de la recapitalització interna
+1. Queden exclosos de la recapitalització interna els passius següents:
+a) Dipòsits garantits, fins al nivell garantit per la normativa del sistema andorrà de garantia de dipòsits.
+b) Passius garantits de tal manera que, conforme a la normativa concursal aplicable, siguin crèdits privilegiats especials, fins al valor de la garantia.
+c) Passius que resultin de la tinença per l’entitat, l’entitat financera o la societat de cartera afectada d’actius o de diners de clients, inclosos els dipositats en nom d’organismes d’inversió col·lectiva o d’entitats de capital de risc quan el client estigui protegit conformement a la normativa concursal aplicable.
+d) Passius que resultin d’una relació fiduciària entre l’entitat, l’entitat financera o la societat de cartera afectada, com a fideïcomissària, i una altra persona, com a beneficiària, quan el client estigui protegit conformement a la normativa concursal aplicable.
+e) Passius d’entitats, excloses les societats que formin part del mateix grup, el termini de venciment inicial dels quals sigui inferior a set dies.
+f) Passius que tinguin un termini de venciment restant inferior a set dies, respecte de sistemes de pagaments o operadors de sistemes de pagament i de liquidació de valors, o dels seus participants, i que resultin de la participació en un d’aquests sistemes.
+g) Passius contrets amb:
+i. Els empleats, en concepte de salaris, pensions o altres remuneracions fixes meritades. Aquesta exclusió no s’aplica quan es tracti del component variable de la remuneració que no estigui regulat per convenis o acords col·lectius.
+ii. Els creditors comercials, pel subministrament a l’entitat, l’entitat financera o la societat de cartera afectada de béns i serveis que són essencials per al desenvolupament quotidià de les seves activitats, inclosos els serveis de tecnologies de la informació, els subministraments de caràcter bàsic, i el lloguer, el manteniment i la neteja de locals.
+iii. L’Administració general i comunal o de la seguretat social.
+iv. Sistemes de garantia de dipòsits sorgits de contribucions degudes.
+El que s’estableix a l’incís i de la lletra g), no es d’aplicació al component variable de la remuneració d’aquells empleats de les entitats, de les entitats financeres o de les societats de cartera que assumeixin riscos significatius, tal com s’indica a la Llei 8/2013, del 9 de maig, sobre els requisits organitzatius i les condicions de funcionament de les entitats operatives del sistema financer, la protecció de l’inversor, l’abús de mercat i els acords de garantia financera.
+2. Tots els actius garantits relacionats amb un conjunt de cobertura d’obligacions garantides han de quedar immutables i segregats i disposar del finançament suficient. Aquesta regla i l’exclusió prevista en la lletra b) de l’apartat anterior no afecten la part del passiu que excedeixi el valor dels actius, la pignoració, la penyora o la garantia que constitueixen la seva contrapart.

@@ -1,0 +1,15 @@
+## Secció segona. Amortització i conversió d’instruments de capital
+# Article 39. Amortització i conversió d’instruments de capital
+1. L’AREB, amb consulta prèvia no vinculant a l’AFA, pot amortitzar o convertir els instruments de capital pertinents d’una entitat, d’una entitat financera o d’una societat de cartera:
+a) Independentment de qualsevol mesura de resolució, inclosa la recapitalització interna.
+b) Conjuntament amb qualsevol mesura de resolució, quan es donin les circumstàncies previstes a l’article 19.
+2. L’AREB, amb consulta prèvia no vinculant a l’AFA, ha de procedir immediatament a l’amortització i conversió d’instruments de capital quan es doni alguna de les circumstàncies següents:
+a) Que l’entitat, l’entitat financera o la societat de cartera compleixi les condicions de resolució previstes a l’article 19.
+b) Que, si no s’exerceix aquesta competència, l’entitat, l’entitat financera o la societat de cartera esdevingui inviable.
+c) Que l’entitat, l’entitat financera o la societat de cartera necessiti ajut financer públic extraordinari, excepte quan adopti la forma prevista a l’incís iii de la lletra d) de l’article 20.
+d) En el cas dels instruments de capital emesos per una matriu andorrana i si aquests instruments es reconeixen als efectes de compliment dels requisits de fons propis amb caràcter individual al nivell de l’empresa matriu o en base consolidada, que l’AREB, a iniciativa pròpia o de l’AFA, apreciï que, excepte que s’exerceixi la competència d’amortització o conversió en relació amb aquests instruments, el grup esdevindrà inviable.
+3. A l’efecte del que s’estableix en aquest article s’entén que una entitat, una entitat financera o una societat de cartera és inviable si es troba en alguna de les circumstàncies previstes a l’article 20 i, a més, es compleix la condició prevista a la lletra b) de l’apartat 1 de l’article 19.
+En el cas de grups d’entitats, d’entitats financeres o de societats de cartera, s’entén que es compleix el que preveu l’article 20 si el grup infringeix, o hi ha elements objectius que facin probable que infringeixi en el futur pròxim, els seus requisits de solvència a nivell consolidat de tal manera que justifiqui l’adopció de mesures per part de l’AFA, fins i tot en el cas que el grup hagi incorregut en pèrdues que esgotin la totalitat o una part significativa dels seus recursos propis.
+4. Els instruments de capital emesos per una filial no s’han d’amortitzar o convertir en major grau o en termes més desfavorables, en el supòsit que preveu la lletra d) de l’apartat 2, que els altres instruments de capital de rang igual emesos per la matriu.
+5. Les autoritats competents de supervisió i les competents de resolució, de manera individual o consolidada, han de cooperar i dur a terme les notificacions oportunes per determinar que es compleixen les circumstàncies i condicions que preveu aquest article.
+6. L’amortització i conversió d’instruments de capital han de ser precedides de la valoració oportuna, en els termes que preveu l’article 5, que ha de servir també de base per aplicar els coeficients d’amortització i conversió.

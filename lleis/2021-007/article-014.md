@@ -1,0 +1,12 @@
+# Article 14. Plans de resolució de grup
+1. L’AREB aprova i manté actualitzats els plans de resolució dels grups la supervisió dels quals en base consolidada correspongui a l’AFA.
+Quan en virtut de l’article 17 s’apreciïn obstacles per a la resolubilitat d’una entitat, entitat financera o societat de cartera, l’obligació d’elaborar el pla de resolució de grup queda suspesa fins que s’adoptin les mesures oportunes per eliminar aquests obstacles.
+2. Els plans de resolució de grup han de preveure un pla per a la resolució del grup, bé mitjançant la resolució a nivell de l’empresa matriu o bé mitjançant la segregació i resolució de les filials.
+3. El procediment d’elaboració i el contingut específic dels plans de resolució de grup es desenvolupen reglamentàriament, així com la informació que pot ser requerida a les entitats per elaborar-los i actualitzar-los i que ha de ser facilitada per l’AREB a l’AFA. En tot cas, els plans de resolució de grup han d’identificar les mesures per a la resolució de:
+a) L’empresa matriu.
+b) Les filials del grup amb domicili social al Principat d’Andorra.
+c) Les societats financeres de cartera, les societats financeres mixtes de cartera i les societats mixtes de cartera amb domicili social al Principat d’Andorra.
+d) Les filials del grup amb domicili social en un país tercer, d’acord amb el que s’estableix a l’article 62.
+4. L’AREB ha de transmetre a l’AFA la informació facilitada per la matriu en relació amb el pla de resolució; igualment, l’AREB ha de transmetre a l’AFA els plans de resolució individuals i de grup i els canvis que s’hagin produït en els mateixos.
+5. L’AREB, si així ho estima convenient i sempre que es compleixin les condicions previstes a l’article 62, pot transmetre a les autoritats competents de països tercers en què el grup hagi establert sucursals o filials la informació relativa als plans de resolució de grup o implicar-les en l’elaboració i el manteniment dels plans de resolució de grup.
+6. L’AREB, quan actuï en la seva qualitat d’autoritat de resolució d’una entitat, entitat financera o societat de cartera filial autoritzada al Principat d’Andorra la matriu de la qual estigui situada en un país tercer i la supervisió en base consolidada de la qual no correspongui a l’AFA, pot cooperar amb l’autoritat de resolució a nivell de grup en l’elaboració, actualització i aprovació del pla de resolució de grup d’acord amb el que preveu l’article 62.

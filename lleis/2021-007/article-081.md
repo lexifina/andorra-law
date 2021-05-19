@@ -1,0 +1,8 @@
+## Capítol desè. Règim sancionador
+## Secció primera. Disposicions generals
+# Article 81. Disposicions generals
+1. Les entitats, les entitats financeres o les societats de cartera, totes les persones físiques o jurídiques que ostentin càrrecs d’administració o formin part de la direcció general en les mateixes entitats o societats, i les persones físiques que infringeixin les normes previstes en aquesta Llei incorren en responsabilitat administrativa sancionable d’acord amb el que s’estableix en aquest capítol.
+2. La responsabilitat imputable a una entitat o societat és independent de la imputable als càrrecs d’administració o als membres de la direcció general de la mateixa entitat o societat. La manca d’incoació d’un expedient sancionador o l’arxiu o sobreseïment de l’incoat contra una entitat o societat no afecta necessàriament la responsabilitat en què poden incórrer els càrrecs d’administració o els membres de la direcció general de la mateixa entitat o societat, i viceversa.
+3. Quan les infraccions es refereixin a obligacions dels grups consolidables d’entitats, s’ha de sancionar l’empresa matriu i, si escau, els seus administradors i membres de la direcció general.
+4. Les sancions per incompliment o per infracció de les disposicions establertes en aquesta Llei són de caràcter administratiu, sense perjudici que la normativa legal pugui preveure sancions de tipus penal.
+5. Les sancions que imposi l’AREB en l’exercici de les funcions i de la capacitat sancionadora que li correspon d’acord amb aquesta Llei, com també les que imposi l’AFA en l’exercici de les funcions i de la capacitat sancionadora que es preveuen en aquesta Llei com a autoritat de supervisió, són les previstes en aquest capítol.

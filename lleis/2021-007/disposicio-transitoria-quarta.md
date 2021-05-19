@@ -1,0 +1,2 @@
+# Disposició transitòria quarta. Normes sobre la recapitalització interna
+Les normes sobre la recapitalització interna que s’estableixen al capítol quart de la Llei 8/2015, del 2 d’abril, de mesures urgents per implantar mecanismes de reestructuració i resolució d’entitats bancàries, mantenen la seva vigència fins a la implementació efectiva de les normes sobre recapitalització interna que s’estableixen al capítol sisè d’aquesta Llei, d’acord amb la disposició final quarta.

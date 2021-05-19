@@ -1,0 +1,2 @@
+# Disposició addicional primera. Referències a la Llei 8/2015, del 2 d’abril, de mesures urgents per implantar mecanismes de reestructuració i resolució d’entitats bancàries
+Les referències que hi hagi en l’ordenament jurídic a la Llei 8/2015, del 2 d’abril, de mesures urgents per implantar mecanismes de reestructuració i resolució d’entitats bancàries, s’entenen relatives al precepte corresponent d’aquesta Llei.

@@ -1,0 +1,8 @@
+# Article 12. Seguiment de les mesures d’actuació primerenca i informació a l’AREB
+1. Amb la periodicitat que fixi l’AFA i, com a mínim, trimestralment, l’entitat, entitat financera o societat de cartera ha de remetre un informe a l’AFA sobre el grau de compliment de les mesures adoptades d’acord amb l’article 10. De manera individual i cas per cas, l’AFA pot fixar una periodicitat inferior si així ho estima convenient. En tot cas, l’AFA ha de donar trasllat de l’informe a l’AREB.
+2. Amb la finalitat que l’AREB pugui exercir les competències previstes en aquesta Llei, l’AFA l’ha d’informar quan es donin alguna de les circumstàncies següents:
+a) Que una entitat o un grup o subgrup consolidable d’entitats es troba en alguna de les condicions descrites a l’apartat 1 de l’article 9 o a la normativa de desenvolupament establerta en aquell mateix article.
+b) De l’aprovació del pla d’actuació al qual fa referència a la lletra b) de l’apartat 2 de l’article 10, si n’hi ha.
+c) de la resta de mesures requerides per l’AFA d’acord amb l’article 10 i l’article 11 així com de qualsevol mesura contemplada a l’article 97 de la Llei 35/2018, del 20 de desembre, de solvència, liquiditat i supervisió prudencial d’entitats bancàries i empreses d’inversió.
+d) De la finalització de la situació d’actuació primerenca d’acord amb l’apartat 2 de l’article 9.
+Durant la fase d’actuació primerenca, l’AREB pot sol·licitar a l’AFA tota la informació relacionada amb l’entitat, entitat financera o societat de cartera o el seu grup o subgrup consolidable que sigui necessària per preparar-ne l’eventual resolució.

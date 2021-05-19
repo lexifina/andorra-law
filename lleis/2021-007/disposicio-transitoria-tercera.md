@@ -1,0 +1,2 @@
+# Disposició transitòria tercera. Normes sobre reestructuració
+Les normes sobre reestructuració que s’estableixen al capítol segon de la Llei 8/2015, del 2 d’abril, de mesures urgents per implantar mecanismes de reestructuració i resolució d’entitats bancàries, mantenen la seva vigència fins a la implementació efectiva de les normes sobre actuació primerenca i fase preventiva de la resolució que s’estableixen al capítol segon i tercer d’aquesta Llei, d’acord amb la disposició final quarta.

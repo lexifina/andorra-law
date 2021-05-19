@@ -1,0 +1,4 @@
+# Article 24. Notificació i publicació de l’acte d’obertura del procés de resolució
+1. L’AREB ha de notificar sense demora el text íntegre de la decisió, amb indicació de la data a partir de la qual tenen efecte les mesures adoptades, a l’entitat objecte de resolució, al ministeri encarregat de les finances i a l’AFA.
+2. L’AREB també ha de publicar al Butlletí Oficial del Principat d’Andorra l’acte pel qual s’acorden les mesures de resolució, o una comunicació resumida dels efectes d’aquestes mesures, en particular les que afectin els clients minoristes, i, si escau, les modalitats i la duració de la suspensió o la restricció prevista a l’article 74.
+3. El Govern, a proposta del ministeri encarregat de les finances, ha de desenvolupar reglamentàriament les obligacions de notificació i publicació.

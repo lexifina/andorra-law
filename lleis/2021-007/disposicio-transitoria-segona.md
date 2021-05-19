@@ -1,0 +1,2 @@
+# Disposició transitòria segona. Procediments administratius i judicials iniciats anteriorment a l’entrada en vigor
+Els procediments administratius i judicials iniciats amb anterioritat a l’entrada en vigor d’aquesta Llei o que s’iniciïn en relació amb les procediments de reestructuració o de resolució iniciats amb anterioritat a l’entrada en vigor d’aquesta Llei, han de ser tramitats i resolts d’acord amb la Llei 8/2015, del 2 d’abril, de mesures urgents per implantar mecanismes de reestructuració i resolució d’entitats bancàries.

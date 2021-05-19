@@ -1,0 +1,2 @@
+# Disposició addicional sisena. Facultats de suspensió de contractes relatius a dipòsits
+En supòsits en els quals l’AREB apreciï la necessitat de preservar els interessos dels clients i de salvaguardar l’estabilitat i el valor d’una entitat, d’una entitat financera o d’una societat de cartera, pot suspendre, excepcionalment i mitjançant una decisió amb caràcter d’acte administratiu, qualsevol obligació de pagament o entrega que es derivi de qualsevol contracte en relació amb els dipòsits elegibles pel temps estrictament necessari per aconseguir els objectius esmentats.

@@ -1,0 +1,9 @@
+## Secció tercera. Sancions
+# Article 89. Sancions per la comissió d’infraccions molt greus
+1. Per la comissió d’infraccions molt greus s’ha d’imposar a l’entitat, a l’entitat financera o a la societat de cartera infractora una multa de 300.001 a 600.000 euros, o de fins al 3% del capital social mínim exigit a l’entitat, a l’entitat financera o a la societat de cartera si aquest import és superior a 600.000 euros, o de fins al doble dels beneficis derivats de la infracció quan aquests beneficis es puguin quantificar i aquest import sigui superior, o de fins el 5 % del volum de negocis net anual total, inclosos els ingressos bruts procedents d’interessos a percebre i ingressos assimilats, els rendiments d’accions i altres valors de renda fixa o variable, i les comissions o corretatges a cobrar que hagi realitzat l’entitat en l’exercici anterior, o en l’exercici en curs en cas d’entitats de nova creació i aquest import sigui superior.
+2. Addicionalment, es poden imposar les mesures accessòries següents:
+a) Requeriment a l’infractor perquè posi fi a la seva conducta i s’abstingui de repetir-la.
+b) Amonestació pública amb la publicació al Butlletí Oficial del Principat d’Andorra i al web de l’autoritat sancionadora de la identitat de l’infractor, la naturalesa de la infracció i les sancions imposades.
+c) Pel que fa a les persones físiques:
+- Prohibició temporal d’exercir qualsevol funció a qualsevol membre de la direcció general o de l’òrgan d’administració de les entitats, de les entitats financeres o de les societats de cartera o a qualsevol altra persona física considerada responsable.
+- Multa de fins a 1.000.000 d’euros o el seu valor corresponent al canvi en la moneda del país on es trobi el subjecte infractor a la data en què s’hagi comès la infracció o, en les infraccions que es produeixin en una activitat continuada, en la data en què cessi l’activitat, o en la de l’últim acte constitutiu de la infracció.

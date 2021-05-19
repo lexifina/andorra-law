@@ -1,0 +1,14 @@
+## Capítol tercer. Fase preventiva de la resolució
+## Secció primera. Planificació de la resolució
+# Article 13. Plans de resolució
+1. Amb caràcter preventiu, l’AREB elabora i aprova, després d’haver consultat a l’AFA, un pla de resolució per a cada entitat que no formi part d’un grup objecte de supervisió en base consolidada. El pla ha de contenir les accions de resolució que l’AREB pot aplicar en cas que l’entitat, entitat financera o societat de cartera compleixi les condicions previstes a l’article 19, sense perjudici d’altres mesures que pugui aplicar tenint en compte les circumstàncies del cas.
+L’AREB ha de comunicar a l’entitat, entitat financera o societat de cartera del resum dels elements fonamentals del pla.
+Quan d’acord amb l’article 17 s’apreciïn obstacles per a la resolubilitat, l’obligació d’elaborar el pla de resolució queda en suspens fins que s’adoptin les mesures oportunes per eliminar aquests obstacles.
+L’AREB pot exigir a les entitats la seva ajuda per elaborar i actualitzar els plans de resolució.
+2. El Govern, a proposta del ministeri encarregat de les finances, ha de desenvolupar reglamentàriament el procediment d’elaboració i el contingut específic dels plans de resolució. A aquest efecte, les entitats resten obligades a cooperar per elaborar i actualitzar els plans, i l’AREB pot requerir a l’entitat, entitat financera o societat de cartera la informació necessària per elaborar, aprovar, actualitzar i posar en pràctica els plans de resolució corresponents.
+El pla de resolució no pressuposa l’existència d’ajut financer públic extraordinari al marge dels mecanismes de finançament establerts d’acord amb l’article 57; l’existència d’ajudes en forma de provisió urgent de liquiditat d’un banc central; o l’existència d’ajudes en forma de provisió de liquiditat d’un banc central d’acord amb criteris no convencionals en relació amb garanties, venciment i tipus d’interès.
+3. Els plans de resolució s’actualitzen, de conformitat amb el procediment previst a l’apartat 2, com a mínim anualment, i en els casos següents:
+a) sempre que es produeixi un canvi en l’estructura jurídica o organitzativa de l’entitat, entitat financera o societat de cartera, en les seves activitats o en la seva situació financera que pugui afectar significativament l’eficàcia del pla o requerir-hi una revisió del mateix, o
+b) sempre que l’AREB ho consideri convenient.
+Als efectes de la revisió o actualització dels plans de resolució, l’AFA i les entitats han de comunicar immediatament a l’AREB qualsevol canvi que suposi una revisió o una actualització del pla de resolució corresponent.
+4. L’AREB pot exigir que una entitat, entitat financera o societat de cartera conservi registres detallats dels contractes financers dels quals sigui part i pot especificar el termini dins del qual els ha de presentar. L’AREB pot fixar terminis diferents pels diferents contractes financers.
