@@ -1,0 +1,5 @@
+# Article 3. Àmbit d’aplicació de la Llei
+1. Dins l’objecte definit a l’article 1, en l’àmbit d’aplicació d’aquesta Llei s’hi inclouen les activitats següents:
+a) Les competicions o els esdeveniments d’esports electrònics que es desenvolupen de forma presencial dins del territori del Principat d’Andorra.
+b) Les competicions o els esdeveniments d’esports electrònics que tenen una naturalesa no presencial, que es desenvolupen per mitjans remots i que es dirigeixen de forma específica a residents en el territori del Principat d’Andorra. Als efectes d’aquesta disposició, s’entén que una competició o un esdeveniment d’esports electrònics de naturalesa no presencial es dirigeix de forma específica a residents en el territori del Principat d’Andorra quan la competició o l’esdeveniment ha estat dissenyat específicament i promocionat i comercialitzat activament, com a mínim, per al públic resident al territori d’Andorra, encara que també es pot dirigir a altres territoris.
+2. S’inclouen així mateix en l’àmbit d’aplicació d’aquesta Llei les entitats i els agents implicats en l’àmbit dels esports electrònics que s’estableixen en el títol II.

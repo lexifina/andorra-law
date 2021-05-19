@@ -1,0 +1,6 @@
+## Capítol segon. Lluita contra el dopatge
+# Article 30. Funcions de la Comissió Andorrana d’Esports Electrònics
+1. Correspon a la Comissió Andorrana d’Esports Electrònics l’impuls i la realització d’una política pública activa per a la prevenció i repressió del dopatge en l’àmbit dels esports electrònics.
+2. A aquest efecte, la Comissió Andorrana d’Esports Electrònics presta el suport necessari a l’Agència Andorrana Antidopatge amb l’objectiu de prevenir i evitar l’ús intencional o no intencional de substàncies i mètodes prohibits o la comissió de qualsevol altra infracció de les regles antidopatge en l’àmbit dels esports electrònics.
+3. Els jugadors d’esports electrònics estan sotmesos a les regles antidopatge de l’Agència Andorrana Antidopatge. A aquest efecte, correspon a la Comissió Andorrana d’Esports Electrònics garantir que tots els jugadors que participen en competicions o esdeveniments d’esports electrònics dirigits al territori del Principat d’Andorra estan informats i accepten les regles antidopatge de l’Agència Andorrana Antidopatge.
+4. La Comissió Andorrana d’Esports Electrònics comunica qualsevol informació relativa a una infracció de les regles antidopatge a l’Agència Andorrana Antidopatge, i coopera en les investigacions que duguin a terme les organitzacions antidopatge competents.
