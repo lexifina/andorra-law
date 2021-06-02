@@ -1,0 +1,2 @@
+# Article 2. Personalitat jurídica i capacitat d’obrar
+La Fundació té personalitat jurídica pròpia i plena capacitat d’obrar. En conseqüència, des del moment de la inscripció de la seva escriptura de constitució al Registre de Fundacions, la Fundació pot fer tots els actes que siguin necessaris o convenients per al compliment de les seves finalitats fundacionals, ajustant-se en tot moment al que s’estableix en la seva llei de creació, en l’ordenament jurídic vigent i en aquests estatuts.

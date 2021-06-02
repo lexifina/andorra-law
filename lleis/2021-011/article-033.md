@@ -1,0 +1,4 @@
+## Capítol VI. Modificació dels estatuts i dissolució
+# Article 33. Modificació dels estatuts
+33.1. Sempre que resulti convenient per als interessos de la Fundació, aquests estatuts poden ser modificats per acord del Patronat, el qual s’ha de formalitzar per mitjà d’escriptura pública i s’ha d’inscriure al Registre de Fundacions. El notari autoritzant cursa al Registre de Fundacions dos còpies autèntiques de l’escriptura que formalitza la modificació d’aquests estatuts, dins del termini de tres dies hàbils des de l’atorgament. La modificació d’aquests estatuts requereix en tot cas l’aprovació prèvia del Protectorat, que ha de decidir mitjançant una resolució motivada.
+33.2. Per adoptar acords de modificació es requereix la meitat més un dels vots de tots els membres del Patronat, en tot cas amb el vot favorable dels patrons nats.

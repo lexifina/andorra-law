@@ -1,0 +1,6 @@
+## Secció primera. El Patronat
+# Article 11. Llibertat d’actuació del Patronat
+11.1. El Patronat és l’òrgan de govern i representació de la Fundació, i en la seva actuació no té altres limitacions que les disposicions legals vigents que li siguin aplicables i les normes contingudes en la llei de creació de la Fundació i aquests estatuts.
+11.2. El Patronat té plena llibertat per determinar les activitats i la forma d’actuació de la Fundació, encaminades a aconseguir els objectius concrets que, a judici seu i per al compliment de les seves finalitats fundacionals, siguin més convenients en cada moment.
+11.3. Sense perjudici de les delegacions que el Patronat pot efectuar en favor d’altres òrgans o personal intern o extern a la Fundació, es prohibeix expressament i formalment que cap persona o organisme, sigui quin sigui el títol que invoqui, no s’atribueixi ni assumeixi funcions de la Fundació o dels seus òrgans, ni hi intervingui; en tot cas, els actes d’aquests organismes i persones són considerats nuls i ineficaços.
+11.4. El que està establert en els apartats anteriors és sense perjudici de les facultats d’intervenció del Protectorat o d’altres òrgans en la gestió de la Fundació conforme a les competències, atribucions i funcions que els atorguin les disposicions legals vigents.

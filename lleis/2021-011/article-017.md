@@ -1,0 +1,3 @@
+# Article 17. Representació dels patrons
+17.1. Si els patrons són persones jurídiques, s’han de fer representar en el Patronat d’una manera estable per una persona física, el nomenament de la qual cal notificar al president del Patronat, després d’haver acceptat expressament la persona jurídica el càrrec de patró i la persona física, la representació de la persona jurídica.
+17.2. Les persones físiques que integren el Patronat exerceixen personalment i no poden delegar les seves funcions. No obstant això, els patrons nats que representen els òrgans de l’Estat, les administracions públiques i les entitats de dret públic, tant del Principat d’Andorra com de l’estranger, es poden fer representar, per escrit i de forma específica per a cada reunió, per un altre patró.

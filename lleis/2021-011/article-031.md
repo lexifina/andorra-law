@@ -1,0 +1,2 @@
+# Article 31. Presentació dels comptes anuals
+La Fundació ha de presentar els seus comptes anuals al Protectorat en un termini de trenta dies hàbils a comptar de la data en què es van aprovar; en cas que no es faci, la Fundació estarà sotmesa a les sancions que estableix la normativa aplicable en vigor. La documentació relativa als comptes l’ha d’adreçar al Protectorat una persona degudament facultada per fer-ho; aquesta obligació no afecta la documentació lliurada a efectes estadístics.

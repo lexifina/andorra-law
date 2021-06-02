@@ -1,0 +1,3 @@
+# Article 3. Règim normatiu
+3.1. La Fundació es regeix, en el que no estigui regulat en la seva llei de creació i en aquests estatuts, per la legislació, els reglaments i l’altra eventual normativa aplicable en matèria de fundacions vigent en cada moment, així com pels reglaments interns, les normes de règim interior i els acords adoptats vàlidament pels seus òrgans de govern.
+3.2. Pel que fa a aquests estatuts, que expressen la voluntat fundacional, la Fundació també es regeix per les actuacions subsegüents de modificació, d’interpretació i de desenvolupament d’aquests estatuts que pugui fer el Patronat o, si escau, el Protectorat o altres disposicions legals vigents. Les modificacions dels estatuts de la Fundació requeriran sempre l’aprovació prèvia del Protectorat.
