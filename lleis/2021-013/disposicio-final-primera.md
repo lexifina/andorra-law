@@ -1,0 +1,2 @@
+# Disposició final primera. Text consolidat
+S’encomana al Govern que en el termini màxim de sis mesos des de l’entrada en vigor d’aquesta Llei, i en els termes previstos en l’article 116 del Reglament del Consell General, presenti el Projecte de consolidació del Codi de l’Administració, del 29 de març de 1989, i de la Llei general d’ordenació del territori i urbanisme, del 29 de desembre del 2000, que integri la legislació vigent sobre la matèria regulada.
