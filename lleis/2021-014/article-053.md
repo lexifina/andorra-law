@@ -1,0 +1,7 @@
+# Article 53. Representació
+1. La intervenció de les persones atorgants s’expressa en la compareixença de les escriptures públiques indicant si ho fan en nom propi o en representació d’altres persones físiques o jurídiques.
+2. La representació legal s’ha de fer constar però no és necessari justificar-la si consta als notaris per notorietat.
+3. La representació voluntària s’ha d’acreditar en el mateix acte de l’atorgament o, amb la conformitat de les altres persones atorgants, en un moment posterior.
+En aquest darrer cas, l’acreditació es fa constar mitjançant diligència a l’escriptura matriu i els notaris adverteixen a les persones atorgants que l’eficàcia de l’acte queda condicionada a l’acreditació de la representació voluntària, ressenyen aquesta advertència a l’escriptura pública i s’han d’abstenir de lliurar còpies fins que els hagi estat acreditat aquest requisit, excepte que concorri una causa justificada i apreciada lliurement pel notari que ha autoritzat l’escriptura pública.
+4. La representació s’acredita inserint mitjançant transcripció a l’escriptura pública el contingut dels documents acreditatius presentats pel representant, o protocol·litzant amb l’escriptura aquests documents en original, còpia autèntica o testimoni.
+En el primer cas, n’hi ha prou d’inserir i transcriure el contingut necessari i oportú dels documents acreditatius presentats, però els notaris s’han d’assegurar que en la part omesa no hi hagi cap menció o circumstància que restringeixi, modifiqui o condicioni la part transcrita.

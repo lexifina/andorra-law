@@ -1,0 +1,3 @@
+# Article 49. Infracció dels requisits
+1. Els instruments públics que siguin contraris, en tot o en part, a les lleis, o que hagin estat autoritzats amb infracció de les causes d’abstenció que preveu l’apartat 1 de l’article 4, o dels altres requisits essencials establerts en aquesta Llei, no tenen la consideració d’instrument públic, sense perjudici que produeixin efectes com a document privat, i amb independència de la responsabilitat en què puguin incórrer els notaris que els hagin autoritzat.
+2. Les disposicions que preveu l’apartat anterior s’entenen sense perjudici del que estableix l’article 50.

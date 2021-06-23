@@ -1,0 +1,7 @@
+## Capítol tercer. Exercici de la professió
+# Article 13. Protocols notarials
+1. Els protocols notarials pertanyen a l’Estat andorrà i comprenen el conjunt d’instruments públics que consisteixen en les escriptures i les actes originals autoritzades per un notari en el transcurs d’un any natural.
+2. Els notaris numeren correlativament els instruments públics en l’ordre cronològic de la seva autorització, els folis dels quals també han de ser numerats correlativament, i els incorporen al seu protocol de l’any natural en curs.
+3. Abans que finalitzi el mes de juny de cada any, els notaris relliguen el protocol de l’any anterior en volums que incorporen els instruments públics ordenats segons la seva numeració. Al final del darrer volum hi incorporen l’índex anyal.
+4. Durant la primera setmana de cada mes, els notaris presenten al president de la Batllia un índex, en doble exemplar, dels instruments públics que han autoritzat durant el mes anterior, on ha de constar el número de protocol, la data, el nom i els cognoms de les persones atorgants, l’acte de què es tracta i el nombre de folis. El president de la Batllia segella i visa els índexs i els retorna tot seguit als notaris, que en conserven un exemplar i sol·liciten el dipòsit de l’altre exemplar a l’arxiu de la Cambra de Notaris en el termini màxim d’un mes.
+5. Els notaris han de vetllar per la perennitat i la bona conservació dels instruments públics que custodien i, en cas contrari, incorren en la responsabilitat civil i disciplinària corresponent.

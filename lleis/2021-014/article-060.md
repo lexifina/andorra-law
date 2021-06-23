@@ -1,0 +1,5 @@
+# Article 60. Lectura i signatura
+1. Els notaris donen fe d’haver llegit l’escriptura pública a les persones compareixents, i d’haver-les advertit del dret a llegir-la ells mateixos.
+2. Si alguna de les persones compareixents és sorda, llegeix ella mateixa l’escriptura pública. Si és cega, la llegeixen també els testimonis en el mateix acte i manifesten que el text és coincident amb el que ha llegit el notari. Si la persona compareixent és sorda i no sap o no pot llegir, la llegeixen el notari i els testimonis i tots ells declaren que el text és coincident amb la voluntat manifestada per les persones atorgants. Si la persona compareixent és sordmuda i no sap o no pot llegir, el notari no autoritza l’escriptura pública.
+3. Una vegada llegida, l’escriptura pública és signada al final per les persones compareixents i pel notari, que l’autoritza amb la seva rúbrica, el seu signe i el seu segell.
+4. Quan alguna de les persones compareixents no sap o no pot firmar, els notaris fan menció d’aquesta circumstància.
