@@ -1,0 +1,2 @@
+# Disposició addicional. Publicació de guies i consultes escrites no vinculants
+Es faculta el ministeri competent en matèria de treball, perquè pugui, mitjançant comunicats tècnics, emetre guies no vinculants en relació amb l’aplicació de les mesures previstes en aquesta Llei i perquè pugui informar sobre les seves respostes no vinculants a les consultes de caràcter general formulades en relació amb les mesures referides o a les consultes escrites comunicades a les persones consultants, les quals únicament poden ser publicades preservant-ne la privacitat.
