@@ -1,0 +1,6 @@
+# Article 19. Addició d’uns nous apartats 3 i 4 a l’article 40 de la Llei qualificada del règim electoral i del referèndum
+S’addicionen uns nous apartat 3 i 4 a l’article 40 de la Llei qualificada del règim electoral i del referèndum, que queden redactats de la manera següent:
+“Article 40. Procediment per votar al col·legi electoral
+[…]
+3. Per tal de fer efectiu el dret de vot de les persones amb discapacitat amb greus problemes de mobilitat, el Govern i els Comuns han de facilitar el desplaçament mitjançant un dispositiu específic de transport adaptat o l’assistència. Les persones concernides hauran de sol·licitar-ho amb una antelació mínima de deu dies hàbils abans de la data fixada per a les votacions.
+4. Quan sigui necessari, les persones amb discapacitat podran sol·licitar, amb una antelació mínima de deu dies hàbils abans de la data fixada per a les votacions, a la Junta Electoral, que se’ls permeti que una persona de la seva elecció els presti assistència per votar. En aquests casos, s’establiran les salvaguardes adequades i efectives per impedir els abusos, en els termes establerts a l’apartat 4 de l’article 12 del Conveni relatiu als drets de les persones amb discapacitat, fet a Nova York el 13 de desembre del 2006.”

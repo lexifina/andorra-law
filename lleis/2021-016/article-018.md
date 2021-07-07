@@ -1,0 +1,4 @@
+# Article 18. Modificació de l’article 39 de la Llei qualificada del règim electoral i del referèndum
+Es modifica l’article 39 de la Llei qualificada del règim electoral i del referèndum, que queda redactat de la manera següent:
+“Article 39. Cabines aïlladores
+Al local on tindran lloc les votacions hi haurà una o més cabines aïlladores, degudament il·luminades i accessibles, amb una taula o escriptori damunt de la qual hi haurà un nombre suficient de paperetes de cada candidatura proclamada, i d’altres en blanc. Els col·legis electorals disposaran del material de vot accessible, contenint aquell que facilita el Govern, o de paperetes electorals en Braille per a les persones amb discapacitat visual o sordceguesa que ho hagin sol·licitat segons les condicions previstes en l’article 30. El format d’aquest material de vot accessible ha de ser compatible, en tots els casos, amb el secret del vot.”
