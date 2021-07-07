@@ -1,0 +1,2 @@
+# Disposició final setena. Normes de valoració de béns immobles
+S’encomana al Govern que en el termini màxim d’un any des de l’entrada en vigor d’aquesta Llei aprovi un reglament sobre normes de valoració de béns immobles i de determinats drets que reguli les normes per calcular el valor de taxació de béns immobles i de determinats drets reals. Aquestes normes han d’establir la qualitat tècnica i formal de les valoracions amb l’objectiu últim de protegir els interessos públics i privats.

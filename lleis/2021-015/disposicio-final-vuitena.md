@@ -1,0 +1,2 @@
+# Disposició final vuitena. Modificació del Reglament regulador del Servei d’Atenció i Mediació prop de l’Administració de Justícia
+S’encomana al Govern que en el període d’un any des de l’entrada en vigor d’aquesta Llei modifiqui les competències del Servei d’Atenció i Mediació prop de l’Administració de Justícia per tal d’incloure-hi la mediació en l’àmbit dels conflictes derivats de les relacions contractuals en matèria d’arrendaments d’habitatge.”

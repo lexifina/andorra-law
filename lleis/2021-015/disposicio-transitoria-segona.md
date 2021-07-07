@@ -1,0 +1,4 @@
+# Disposició transitòria segona
+Un cop s’aprovi el Reglament regulador dels fitxers de dades de l’article 27 d’aquesta Llei, les persones arrendatàries que no ho hagin fet, han de facilitar, en el termini de 18 mesos des de la seva entrada en vigor, les dades dels contractes d’arrendament del seu habitatge al Comú de residència d’acord amb el que disposa l’article 28.
+L’obligatorietat d’inscripció d’aquestes dades abasta tant els contractes d’arrendament d’habitatges escrits com verbals. En el supòsit de contracte d’arrendament d’habitatge verbal, la part arrendatària ha de declarar les dades relatives al contracte d’arrendament objecte d’inscripció acompanyada del rebut o documentació acreditativa del pagament de la renda davant el Comú de la parròquia en què estan censada.
+El Comú ha de verificar aquestes dades mitjançant la consulta als registres administratius públics corresponents abans d’incorporar-les a la plataforma vinculada al fitxer de dades.

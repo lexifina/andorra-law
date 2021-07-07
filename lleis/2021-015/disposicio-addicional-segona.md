@@ -1,0 +1,2 @@
+# Disposició addicional segona. Taxes d’autorització, inscripció i supervisió del Fons d’Habitatge
+El Fons d’Habitatge està exclòs del compliment del pagament de la taxa d’inscripció per a la creació, baixa o modificació dels organismes d’inversió col·lectiva (OIC) de dret andorrà, de la taxa d’autorització per a la creació o modificació dels OIC de dret andorrà i de la taxa anual de supervisió dels OIC de dret andorrà, previst a la Llei 10/2013, del 23 de maig, de l’Autoritat Financera Andorrana.

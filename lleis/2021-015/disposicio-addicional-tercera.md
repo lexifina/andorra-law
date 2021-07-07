@@ -1,0 +1,3 @@
+# Disposició addicional tercera. Estats reservats i financers públics del Fons d’Habitatge
+Els estats reservats, previstos en la regulació dels organismes d’inversió col·lectiva, del Fons d’Habitatge s’elaboren amb una periodicitat semestral.
+Els estats reservats i els estats financers públics es trameten al ministeri amb competència en matèria d’habitatge, a l’Autoritat Financera Andorrana i al Tribunal de Comptes. Pel que fa als primers, aquesta obligació s’ha de complir durant el mes següent a la finalització del semestre; i respecte als segons, en el decurs dels tres mesos següents al tancament de l’exercici en qüestió, i, en el cas que s’elaborin amb una periodicitat superior a l’any, dins els tres mesos següents al tancament de l’auditoria.

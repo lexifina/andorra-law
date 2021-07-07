@@ -1,0 +1,3 @@
+# Article 4. Intercanvi de dades
+1. El Govern, els comuns, els organismes autònoms, les entitats parapúbliques i les empreses subministradores de serveis, ja siguin públiques o privades, han de facilitar les dades requerides per l’Institut Nacional de l’Habitatge que siguin estrictament necessàries per exercir les funcions encomanades, en el marc de l’exercici, per part dels poders públics, del deure de promoció de les condicions necessàries per fer efectiu el dret de tothom a gaudir d’un habitatge digne, complint allò establert a la Llei qualificada de protecció de dades personals en vigor.
+2. Les dades que poden ser requerides han d’estar vinculades al Sistema d’indicadors d’habitatge aprovat pel Govern.

@@ -1,0 +1,5 @@
+# Article 3. Definicions
+1. Habitatges de protecció pública: habitatges construïts sobre terrenys de titularitat pública o privada destinats únicament al lloguer i adjudicats en funció de les necessitats socials detectades.
+2. Habitatges de preu assequible: habitatges resultants d’actuacions de promoció pública o rehabilitació i destinats al lloguer amb un preu inferior al preu del mercat, amb la finalitat de facilitar l’accés a l’habitatge a les persones i famílies amb una capacitat econòmica limitada però superior al llindar econòmic de cohesió social.
+3. Cessió d’ús: la cessió d’ús privatiu de béns immobles que sense afectar el dret de propietat atorga a la persona beneficiària de la cessió el dret d’ús i gaudi del bé immoble per un temps que no pot ultrapassar els noranta-nou anys.
+4. Fons d’Habitatge: organisme d’inversió col·lectiva publicoprivat promogut per l’Institut Nacional de l’Habitatge i destinat a la promoció d’habitatge de lloguer a un preu assequible al Principat d’Andorra.
