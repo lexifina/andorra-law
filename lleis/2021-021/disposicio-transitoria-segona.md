@@ -1,0 +1,2 @@
+# Disposició transitòria segona
+Per als estudis de formació professional que no siguin de l’àmbit sanitari i social ni de l’àmbit de l’estètica, la cosmètica i la perfumeria, s’aplicaran les normes vigents establertes a la Llei 17/2018, del 26 de juliol, d’ordenament del sistema educatiu andorrà fins que el Govern decreti els nous programes de formació corresponents, garantint sempre que els alumnes puguin finalitzar els seus estudis amb les mateixes condicions amb què van iniciar el procés formatiu.
