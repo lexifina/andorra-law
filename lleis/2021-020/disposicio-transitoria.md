@@ -1,0 +1,2 @@
+# Disposició transitòria
+Les institucions que en l’actualitat tenen títols creats disposen d’un període de dos anys a partir de l’aprovació de la Llei per omplir les respectives fitxes del Repertori nacional de qualificacions segons els termes i les condicions que preveu l’article 7 d’aquesta norma, i lliurar-los a la Comissió Nacional de Qualificació perquè els inclogui en el Repertori nacional de qualificacions.
