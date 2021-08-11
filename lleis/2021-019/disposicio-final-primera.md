@@ -1,0 +1,6 @@
+# Disposició final primera. Modificació de la Llei 21/2013, del 10 d’octubre, per al foment de la rehabilitació del parc immobiliari, la millora de l’eficiència energètica dels edificis i l’ús de les energies renovables
+Es modifica l’apartat 1 de l’article 7 de la Llei 21/2013, del 10 d’octubre, per al foment de la rehabilitació del parc immobiliari, la millora de l’eficiència energètica dels edificis i l’ús de les energies renovables, que queda redactat de la manera següent:
+“1. El programa estableix l’import màxim de les subvencions i dels préstecs preferents segons les característiques de l’actuació.
+Aquest import màxim pot consistir en un percentatge del cost de l’obra, en una quantitat determinada, o ser proporcional al cost de l’obra, en funció de la millora obtinguda en termes d’eficiència energètica, mesurada pel que disposi la certificació de l’eficiència energètica de l’edifici.
+En qualsevol cas les subvencions no poden superar un màxim del 60% del cost real de l’actuació protegible.
+Els pagaments dels ajuts consistents en una subvenció directa s’efectuen un cop el beneficiari de l’ajut acredita la conformitat de les actuacions efectuades d’acord amb les condicions que han conduït a l’atorgament de l’ajut.”
