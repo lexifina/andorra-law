@@ -1,0 +1,4 @@
+# Article 25. Marxa enrere
+1. Quan un vehicle inicia la marxa enrere, el conductor ha de comprovar prèviament, mitjançant els retrovisors del vehicle i baixant del vehicle a comprovar-ho si és necessari, que no hi ha cap altre vehicle parat ni cap altre obstacle que li impedeixi la maniobra.
+2. Es prohibeix circular marxa enrere, llevat dels casos en què no sigui possible circular endavant, ni canviar de direcció en sentit de la marxa, i en les maniobres complementàries d’alguna altra que ho exigeixi, sempre realitzant el recorregut mínim indispensable i sent aplicable el que disposa l’article 16.
+3. El conductor d’un vehicle que pretengui efectuar marxa enrere ha d’advertir el seu propòsit en la forma prevista a l’article 35 i ha d’efectuar la maniobra amb la màxima precaució i detenint el vehicle ràpidament si un altre vehicle, persona o animal, es troba a prop o ho exigeixen motius de seguretat, i desistint de la maniobra si és necessari.

@@ -1,0 +1,4 @@
+# Article 9. Reducció de velocitat
+1. No s’ha de reduir bruscament la velocitat, excepte en casos de perill imminent, a fi d’evitar el risc de col·lisió amb els vehicles que circulen al darrere. El conductor ha de cerciorar-se que pot reduir la velocitat sense risc per a altres conductors i ha d’advertir la maniobra de la forma prevista a l’article 35.
+2. No s’ha de circular a una velocitat anormalment reduïda que dificulti la marxa dels altres vehicles sense causa justificada.
+3. El vehicle que, amb motiu justificat, circuli a una velocitat anormalment reduïda i dificulti el trànsit en una via urbana o interurbana, s’ha d’aturar a la seva dreta per permetre el pas dels vehicles que el segueixen quan sigui possible, sense crear cap situació de perill i sempre que la visibilitat ho permeti.

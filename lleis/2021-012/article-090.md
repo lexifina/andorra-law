@@ -1,0 +1,4 @@
+# Article 90. Homologació i bescanvi de permisos estrangers
+1. Les persones de nacionalitat andorrana que tinguin la residència habitual a Andorra, així com les estrangeres amb autorització de residència o residència i treball al Principat de qualsevol de les categories previstes en la Llei, titulars d’un permís de conduir expedit per un estat estranger obtingut anteriorment a la data d’obtenció de la residència al Principat d’Andorra, queden obligades a bescanviar-lo per un d’andorrà, un cop homologat pel Registre de Permisos de Conduir.
+2. En cap cas no es bescanvia un permís de conducció estranger si no és vigent el dia en què es presenta o si ha estat obtingut sent la persona interessada ja resident al Principat d’Andorra.
+3. Reglamentàriament s’han d’establir els requisits, els procediments i els terminis de bescanvi dels permisos de conduir estrangers.

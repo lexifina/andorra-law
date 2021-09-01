@@ -1,0 +1,6 @@
+## Capítol tretzè. Vehicles de mobilitat personal (VMP)
+# Article 47. Característiques generals
+1. Com a regla general, l’edat mínima per circular amb un VMP per les vies i els espais públics és de setze anys. Com a excepció, es permet circular als menors d’edat, compresos entre els catorze i setze anys, sempre que no circulin per les vies interurbanes. Aquests darrers, si estan en possessió de la llicència per conduir ciclomotors de fins 49cc, també poden circular amb un VMP per les vies interurbanes si van degudament equipats amb el casc reglamentari i circulen pel carril bici. Els menors de setze anys poden circular fent ús d’un VMP quan resulti adequat a la seva edat, alçada i pes, en espais tancats al trànsit, amb l’obligatorietat de dur el casc degudament cordat. En cas de transportar persones en un vehicle homologat o certificat a aquest efecte, el conductor ha de tenir divuit anys.
+2. És aplicable als conductors dels VMP el respecte a les normes de la circulació, la senyalització i la seguretat viària establertes en aquesta Llei.
+3. Es prohibeix la circulació amb la taxa d’alcohol superior a les establertes en aquesta Llei, o sota els efectes d’estupefaents, psicotròpics, estimulants i substàncies anàlogues.
+4. Els VMP, en funció de les característiques tècniques, es classifiquen en les tipologies que es determinin reglamentàriament.

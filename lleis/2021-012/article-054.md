@@ -1,0 +1,2 @@
+# Article 54. Circulació nocturna
+Si circulen de nit per una via insuficientment il·luminada o amb condicions meteorològiques o ambientals que disminueixen sensiblement la visibilitat, els conductors han de dur al costat més pròxim al centre de la calçada llums en nombre necessari per precisar la seva situació i dimensions, que han de ser de color blanc o groc cap al davant i de color vermell cap al darrere (poden constituir, si escau, un únic conjunt).

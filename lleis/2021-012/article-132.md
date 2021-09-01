@@ -1,0 +1,3 @@
+# Article 132. Tractament residual del vehicle
+1. Els comuns poden ordenar el trasllat del vehicle a un gestor de residus de vehicles autoritzat per desballestar-ne transcorreguts més de dos mesos des de la immobilització o la retirada del vehicle de la via pública, amb la publicació prèvia de l’edicte corresponent al Butlletí Oficial del Principat d’Andorra.
+2. En els casos en què s’estimi convenient, es pot acordar la substitució del desballestament del vehicle per la seva adjudicació a l’Administració, que podrà alienar-lo pel procediment de pública subhasta, en tractar-se de béns patrimonials, de conformitat amb el procediment previst en la normativa vigent en matèria d’embargament.

@@ -1,0 +1,3 @@
+# Article 18. Vehicles de transport col·lectiu de persones
+1. A les zones urbanes, els autobusos i els autocars tenen prioritat davant els altres vehicles, llevat dels vehicles en servei d’urgència. A fi de facilitar la circulació dels vehicles de transport col·lectiu de persones, els conductors dels altres vehicles han de disminuir la velocitat i, si és necessari, parar per deixar-los efectuar les maniobres necessàries per aturar-se o tornar a iniciar la marxa després de les parades que tenen assenyalades.
+2. Els conductors dels vehicles de transport col·lectiu de persones, després d’advertir el canvi de direcció mitjançant els indicadors òptics de conformitat amb l’article 35, han de prendre totes les precaucions necessàries per evitar tot risc d’accident.

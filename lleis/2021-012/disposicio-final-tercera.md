@@ -1,0 +1,2 @@
+# Disposició final tercera
+S’habilita expressament el Govern per aprovar les disposicions reglamentàries necessàries per regular tant la realització de proves i assaigs de vehicles autònoms com la circulació d’aquests vehicles. Les disposicions esmentades han de prendre en consideració les diferents categories de vehicles autònoms, els nivells d’automatització existents i les recomanacions internacionals en la matèria.

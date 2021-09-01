@@ -1,0 +1,5 @@
+# Article 62. Apagada del motor
+1. Tot conductor que es trobi obligat a romandre aturat amb el seu vehicle a l’interior d’un túnel o d’un altre lloc tancat durant un període de temps superior a dos minuts, ha d’interrompre el funcionament del motor de combustió fins que hagi de reprendre la marxa i ha de tenir encès l’enllumenat de posició i, si escau, el d’urgència.
+2. Per carregar combustible al dipòsit d’un vehicle, s’ha de parar el motor de combustió. Els propietaris dels aparells distribuïdors de combustible o els empleats d’aquests últims no poden facilitar el combustible per carregar-lo si no està parat el motor de combustió i apagats els llums, o els altres dispositius elèctrics com la ràdio, i sense utilitzar els telèfons mòbils.
+3. En absència dels propietaris d’aparells distribuïdors de combustible o d’empleats d’aquests últims, el conductor del vehicle o, si escau, la persona que carregui el combustible del vehicle ha de complir els mateixos requisits establerts en l’apartat anterior.
+4. Qualsevol vehicle en situació d’estacionament ha d’estar amb el motor parat.

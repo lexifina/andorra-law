@@ -1,0 +1,3 @@
+# Article 21. Divisió de la via en calçades
+1. A les vies dividides en dos calçades per jardins centrals, voreres, mitjanes, separadors o dispositius similars, els vehicles han d’utilitzar la calçada de la dreta en el seu sentit de la marxa.
+2. Quan hi hagi tres calçades, la central és destinada a la circulació en ambdós direccions, o en sentit únic, de forma permanent o temporal, segons el que es disposi amb els senyals corresponents. Pel que fa a les laterals, es destinen a la circulació en una sola direcció, sense perjudici que l’autoritat responsable de la regulació del trànsit pugui establir un altre sentit de la circulació, que ha d’estar convenientment senyalitzat.

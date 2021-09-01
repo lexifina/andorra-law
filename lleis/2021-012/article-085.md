@@ -1,0 +1,4 @@
+# Article 85. Tipus i significat dels senyals de circulació
+1. Reglamentàriament, el Govern determina els tipus i el significat dels senyals i de les ordres dels agents encarregats de la vigilància i la disciplina del trànsit; de la senyalització d’abalisament o circumstancial; dels semàfors; dels senyals verticals de circulació i de les marques viàries. Aquest reglament regula també els senyals i tipus de missatges dels panells de missatges variables, l’obligatorietat o no de complir-los i la seva equivalència a efectes de tipus de senyals.
+2. Aquest reglament inclou el Catàleg oficial de senyals de circulació, que especifica la forma, els símbols, el color, el disseny i el significat dels senyals així com les seves dimensions, en funció de cada tipus de via i els seus sistemes de col·locació.
+3. Tota senyalització ha d’ajustar-se al que estableixen les reglamentacions i recomanacions internacionals en la matèria.

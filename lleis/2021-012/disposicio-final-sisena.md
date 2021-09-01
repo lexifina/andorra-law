@@ -1,0 +1,2 @@
+# Disposició final sisena
+S’encomana a Govern a realitzar noves disposicions reglamentàries acústiques sobre el nivell sonor dels vehicles de motor, basant-se en aquells límits sonors establerts pel Reglament (UE) 540/2014 del Parlament Europeu i del Consell de 16 d’abril de 2014 sobre el nivell sonor dels vehicles de motor i dels sistemes silenciadors de recanvi, i per al qual es modifica la Directiva 2007/46 / CE i es deroga la Directiva 70/157 / CEE, o pels reglaments que els modifiquin en el futur.

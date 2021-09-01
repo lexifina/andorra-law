@@ -1,0 +1,2 @@
+# Disposició derogatòria
+Queda derogada la Llei del Codi de la circulació, del 10 de juny de 1999, així com les successives modificacions de la mateixa llei, excepció feta de les previsions contingudes al seu article 209, que restaran vigents fins al moment en que entri en vigor el reglament previst a la Disposició final quarta. També queden derogades totes les normes de rang igual o inferior que s’oposin a aquesta Llei o la contradiguin.

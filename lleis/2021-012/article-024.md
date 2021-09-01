@@ -1,0 +1,3 @@
+## Capítol cinquè. Aturada, inici de la marxa i marxa enrere
+# Article 24. Aturada i inici de la marxa
+El conductor de qualsevol vehicle ha de comprovar, abans d’iniciar la marxa per incorporar-se a la via pública o d’aturar-se per abandonar-la, que disposa del temps suficient per efectuar la maniobra sense causar perill o alteració del trànsit. Especialment, ha de comprovar que els vehicles que s’aproximen estan a una distància suficient per permetre la incorporació a la circulació o bé l’aturada del seu vehicle sense causar cap mena de pertorbació o perill. La maniobra s’ha d’anunciar amb la senyalització òptica tal com s’estipula a l’article 35.

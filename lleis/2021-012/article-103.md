@@ -1,0 +1,6 @@
+## Títol IV. Condicions tècniques dels vehicles
+## Capítol únic. Homologacions i condicions tècniques
+# Article 103. Homologacions
+1. Els vehicles, nous o d’ocasió, els seus equips i els seus recanvis i accessoris que es pretenguin matricular han de correspondre a tipus prèviament homologats i han de complir les especificacions tècniques que figuren en aquesta Llei i en els reglaments que la desenvolupin, els quals han de tenir en compte les normes internacionalment adoptades referents a les mesures de seguretat dels vehicles i de protecció del medi ambient. El Registre de Vehicles pot requerir la presentació dels assaigs i les comprovacions oportuns referents al seu compliment, efectuats per un organisme acreditat.
+2. Reglamentàriament es determinen les excepcions a l’apartat 1 anterior relatives a l’homologació de tipus dels vehicles de motor, els remolcs i els semiremolcs i la possibilitat d’homolgar-los de forma unitària.
+3. Es prohibeix la posada en servei o la venda per a aquest fi dels components i les unitats tècniques independents que passin a ser muntats en vehicles destinats a circular per les vies públiques i no compleixin els requisits de la legislació que sigui aplicable a aquells vehicles.

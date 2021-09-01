@@ -1,0 +1,2 @@
+# Article 104. Característiques dels vehicles
+Reglamentàriament es fixen les condicions tècniques que han de complir els vehicles de motor, els remolcs i els semiremolcs, les seves parts i peces, perquè puguin ser matriculats o posats en circulació amb les limitacions i les excepcions que es creguin convenients, tenint en compte les prescripcions tècniques i les normes de seguretat dels vehicles i de protecció del medi ambient de la Unió Europea.

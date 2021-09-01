@@ -1,0 +1,2 @@
+# Article 31. Entrada i sortida dels usuaris dels vehicles
+Els usuaris dels vehicles han d’entrar-hi i sortir-ne pel costat més pròxim a la vorera. Si, per qualsevol circumstància, s’ha de fer per la part de la calçada, s’ha d’observar que aquesta maniobra no comporti perill ni molèstia per a altres usuaris. Queda prohibit deixar les portes dels vehicles obertes sense assegurar-se que no es crea un perill per als altres usuaris de la calçada.

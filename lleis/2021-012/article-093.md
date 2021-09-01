@@ -1,0 +1,4 @@
+# Article 93. Centres de formació de conductors
+1. L’ensenyament dels coneixements i de les tècniques necessaris per conduir, com també el perfeccionament posterior i la renovació de coneixements, han de ser impartits per centres de formació dotats de l’autorització prèvia necessària per desenvolupar la seva activitat de la forma que es determini reglamentàriament.
+2. Amb l’objectiu de garantir la seguretat viària, el Govern ha de determinar per la via reglamentària els elements personals i els materials mínims dels centres d’ensenyament i les condicions per autoritzar-los, i regular-ne el règim docent i el funcionament. La titulació i l’acreditació dels professors i directors s’han de fonamentar en proves objectives que permetin valorar els coneixements, l’aptitud pedagògica i l’experiència pràctica.
+3. Es pot autoritzar l’ensenyament no professional en les condicions que es determinin reglamentàriament.

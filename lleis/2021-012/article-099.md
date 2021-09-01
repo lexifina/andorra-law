@@ -1,0 +1,6 @@
+# Article 99. Inspecció tècnica de vehicles
+1. Els vehicles matriculats i donats d’alta al Registre de Vehicles, sigui quina sigui la seva categoria i les seves funcions, han de ser sotmesos a una inspecció tècnica en els supòsits establerts amb la periodicitat, els requisits i les excepcions que es fixin reglamentàriament.
+2. El Govern determina reglamentàriament els controls i les verificacions mínimes, la regulació de l’avaluació, la classificació i el seguiment de les deficiències detectades.
+3. Una vegada comprovada la identificació del vehicle i la vigència de l’assegurança obligatòria, la inspecció tècnica té per objecte les condicions del vehicle en relació amb la seguretat viària, la protecció del medi ambient, les reformes i, quan així es determini, la vigència dels certificats per als transports específics.
+4. Les inspeccions tècniques dels vehicles són efectuades a l’estació del Servei d’Inspecció Tècnica de Vehicles autoritzada pel ministeri competent en matèria de vehicles.
+5. Obtingut, com a resultat dels controls i de les proves, un dictamen oficial favorable del bon estat del vehicle, es lliura el distintiu de la inspecció tècnica de vehicles o targeta ITV, la qual s’ha de portar en un lloc que no dificulti la visibilitat, a la part interior del parabrisa davanter.

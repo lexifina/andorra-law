@@ -1,0 +1,3 @@
+# Article 102. Suspensió provisional
+1. En el curs dels procediments de nul·litat, d’anul·labilitat i de pèrdua de vigència de les autoritzacions administratives s’ha d’acordar la suspensió provisional de l’autorització en qüestió quan el seu manteniment comporti un perill greu per a la seguretat viària. En aquest cas, l’autoritat que tingui coneixement dels fets ha d’ordenar, mitjançant resolució fonamentada, la intervenció immediata de l’autorització i la pràctica de les mesures que siguin necessàries per impedir l’exercici efectiu de la mateixa autorització.
+2. La suspensió provisional del permís de conduir es fa d’acord amb el que disposa a aquest efecte l’article 94.3 lletra c) d’aquesta Llei.

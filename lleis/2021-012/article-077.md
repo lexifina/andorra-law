@@ -1,0 +1,4 @@
+# Article 77. Enlluernament
+1. Cal substituir l’enllumenat de carretera pel d’encreuament tan bon punt s’adverteixi la possibilitat d’enlluernar altres usuaris de la mateixa via o de qualsevol altra via de comunicació, especialment els conductors que circulen en sentit contrari encara que aquests últims no compleixin aquesta prescripció, i no s’ha de restablir l’enllumenat de carretera fins a ultrapassar, en l’encreuament, la posició del conductor del vehicle creuat.
+2. La mateixa prescripció s’ha de guardar respecte dels vehicles que circulin en el mateix sentit i quan els seus conductors puguin ser enlluernats pels miralls retrovisors.
+3. En cas d’enlluernament, es redueix la velocitat tant com calgui, si convé fins a la detenció total, per evitar qualsevol topada amb els vehicles que circulin en el mateix sentit. La maniobra s’ha de dur a terme en tot cas evitant de provocar cap situació de perill per als altres usuaris.

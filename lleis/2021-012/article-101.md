@@ -1,0 +1,7 @@
+## Capítol quart. Nul·litat, anul·labilitat i pèrdua de vigència
+# Article 101. Declaració de nul·litat o anul·labilitat i pèrdua de vigència
+1. Les autoritzacions administratives regulades en aquest títol poden ser objecte de declaració de nul·litat o anul·labilitat quan concorri algun dels supòsits previstos en la normativa vigent.
+2. El procediment per declarar nul·litat o anul·labilitat s’ha d’ajustar al que disposa el Codi de l’Administració.
+3. Amb independència del que es disposa en els apartats anteriors, la vigència de les autoritzacions administratives regulades en aquest títol està subordinada al fet que es mantinguin els requisits exigits per atorgar-les.
+4. Els ministeris competents poden declarar la pèrdua de vigència de les autoritzacions regulades en aquest títol quan s’acredita la desaparició dels requisits sobre coneixements, habilitats o aptituds psicofísiques exigits per atorgar l’autorització de conducció; la modificació no autoritzada de les característiques originals del vehicle que van donar lloc a l’autorització per poder circular o quan el funcionament del vehicle en qüestió suposi un risc per a la seguretat viària. Abans de declarar la pèrdua de vigència, l’autoritat competent ha de notificar a l’interessat la presumpta manca del requisit exigit i ha de donar-li la facultat d’acreditar-ne l’existència en la manera i els terminis que es determinin reglamentàriament.
+5. El titular d’una autorització amb pèrdua de vigència pot obtenir-la de nou si segueix el procediment i supera les proves que es determinin en els reglaments.

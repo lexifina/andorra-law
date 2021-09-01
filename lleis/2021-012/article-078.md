@@ -1,0 +1,10 @@
+# Article 78. Altres supòsits d’utilització de l’enllumenat
+1. Les motocicletes i els ciclomotors que circulin per qualsevol via objecte d’aquesta Llei han de portar encès durant el dia l’enllumenat d’encreuament.
+2. Les bicicletes, quan circulin entre la posta i la sortida del sol, quan les condicions meteorològiques o ambientals disminueixin sensiblement la visibilitat o quan circulin per túnels o passos senyalitzats amb el senyal obligatori d’enllumenat, han de disposar dels dispositius següents:
+a) Enllumenat de posició al davant de color blanc i al darrere de color vermell.
+b) Els elements reflectors que es determinin reglamentàriament.
+3. Tot vehicle que per qualsevol circumstància es trobi immobilitzat entre la posta i la sortida del sol o en condicions ambientals que disminueixen la visibilitat, a la calçada o al voral d’una via, ha de tenir encès els llums de posició i, si escau, el de gàlib.
+4. Tot vehicle parat o estacionat entre la posta i la sortida del sol o en condicions ambientals que disminueixin la visibilitat a la calçada o al voral d’una via insuficientment il·luminada o fora d’aparcament ha de tenir encès els llums de posició, que pot substituir pels d’estacionament, o pels dos llums de posició del costat que correspon a la calçada, quan estigui estacionat en línia. Si, per qualsevol causa, l’estacionament pot crear alguna dificultat als altres usuaris, s’ha de connectar la senyalització d’emergència.
+En vies urbanes, llevat de les travesseres, no és obligatori que els vehicles estacionats tinguin encès l’enllumenat de posició quan la il·luminació permeti als altres usuaris distingir-los a una distància suficient.
+5. Si, per inutilització o avaria irreparable en carretera de l’enllumenat corresponent, calgués circular amb enllumenat d’intensitat inferior, s’ha de reduir la velocitat fins que es permeti la detenció del vehicle dins la zona il·luminada.
+Capítol vint-i-quatrè. Controls d’alcoholèmia, estupefaents i substàncies que alterin la capacitat d’obrar

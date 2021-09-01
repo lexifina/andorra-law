@@ -1,0 +1,4 @@
+# Article 17. Circulació en zona d’obres
+1. Quan en una via s’efectuen obres, els vehicles han de circular per l’indret assenyalat a aquest efecte, a excepció dels vehicles en urgència del Servei de Policia, de Duana, de Bombers, de Banders, dels serveis de circulació, d’assistència sanitària i d’altres vehicles oficials que poden passar pel tram de via en reparació sempre que adverteixin aquest pas mitjançant l’ús de la senyalització corresponent i no causin cap perill ni dany a l’obra en qüestió.
+2. Tot vehicle que s’aproximi a una zona en la qual es realitzin obres de reparació de la via i, en arribar-hi, en trobi un altre esperant en el mateix sentit de circulació, ha de col·locar-se al darrere de l’arribat en primer lloc, al més a prop possible al costat dret de la calçada i sense intentar avançar el que el precedeix.
+3. Els usuaris de la via estan obligats a seguir les indicacions del personal destinat a la regulació del pas de vehicles.

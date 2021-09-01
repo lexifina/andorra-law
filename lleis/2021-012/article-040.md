@@ -1,0 +1,6 @@
+## Capítol desè. Seguretat de la via pública: obstrucció de la via pública, realització d’obres o d’instal·lacions, esdeveniments, i prevenció d’incendis
+# Article 40. Obstrucció de la via pública
+1. Es prohibeix llençar, dipositar o abandonar sobre la via objectes o matèries que puguin entorpir la lliure circulació, la parada o l’estacionament, fer-los perillosos o deteriorar la via o les seves instal·lacions, o produir a la mateixa via o als voltants efectes que modifiquin les condicions apropiades per circular, parar o estacionar.
+2. Si, per alguna classe d’obstacle a la via pública, només hi ha espai per al pas d’un sol vehicle, i s’hi apropen dos vehicles que van en sentit contrari l’un de l’altre, té preferència de pas el que troba l’obstacle a l’esquerra.
+3. Els que han situat voluntàriament o involuntàriament a la via pública algun obstacle o han creat algun perill, han de fer-lo desaparèixer al més aviat possible, i adoptar immediatament, i mentre l’obstacle o el perill subsisteixi, les mesures necessàries perquè pugui ser advertit pels altres usuaris i perquè no es dificulti la circulació.
+4. Per advertir de la presència a la via de qualsevol obstacle o perill creat, qui l’hagi causat ha de senyalitzar-ho de forma eficaç, tant de dia com de nit, de conformitat amb el que especifiquen els articles 41 i 59 d’aquesta Llei.

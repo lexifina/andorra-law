@@ -1,0 +1,13 @@
+# Article 131. Retirada del vehicle
+1. Els agents encarregats de la vigilància i la disciplina del trànsit poden retirar o ordenar retirar un vehicle de la via pública i mantenir-lo en dipòsit en el lloc que es designi, si la persona obligada no ho fa, en els supòsits següents:
+a) Quan constitueixi, obstaculitzi, dificulti o suposi un perill per a la circulació de vehicles o vianants o deteriori algun servei o patrimoni públic.
+b) En cas d’estacionament als marges o a les voreres d’emergència de les carreteres o de les vies públiques situades fora de l’àrea urbana, excepte en cas d’absoluta necessitat o d’autorització expressa de l’autoritat competent.
+c) En cas d’accident que impedeixi continuar la marxa.
+d) Quan, procedint legalment a la immobilització del vehicle, no es disposi d’un indret adequat per efectuar-la sense obstaculitzar la circulació de vehicles o de vianants.
+e) Quan un vehicle immobilitzat pels agents de l’autoritat romangui més de 48 hores en les mateixes condicions que han produït la immobilització.
+f) Quan un vehicle romangui estacionat en una zona d’aparcament reservada per a ús de persones amb discapacitat sense haver col·locat el distintiu que autoritzi l’ocupació d’aquest espai o quan, havent-lo col·locat, ultrapassi el temps màxim d’autorització que indiqui el senyal corresponent.
+g) Quan un vehicle romangui estacionat en els carrils o parts de les vies reservades exclusivament per a la circulació o per al servei de determinats usuaris i en les zones reservades a càrrega i descàrrega.
+h) Quan un vehicle romangui estacionat en indrets habilitats per a l’estacionament horari sense col·locar el distintiu que l’autoritza, quan s’ultrapassi el temps abonat conforme al que estableixen les ordinacions comunals o quan el vehicle es troba en altres zones reservades d’estacionament regulades pels comuns.
+i) Quan el vehicle estigui estacionat en un mateix indret de la via pública durant un període superior a quinze dies.
+2. La retirada se suspèn a l’acte si el propietari o una altra persona autoritzada fan acte de presència i adopten les mesures necessàries. El vehicle es restitueix al propietari o al conductor que hagi comès la presumpta infracció.
+3. Les despeses motivades per la disposició i l’ús dels mitjans de transport del vehicle, encara que no es porti a terme per la compareixença del propietari o d’una persona autoritzada, són a càrrec seu, llevat del cas d’utilització il·legítima. Independentment de les sancions que pugui ser procedent imposar, el pagament d’aquestes despeses és efectuat en el moment de la restitució del vehicle.

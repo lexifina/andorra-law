@@ -1,0 +1,2 @@
+# Article 2. Àmbit d’aplicació
+Els preceptes d’aquesta Llei obliguen els titulars i usuaris de les vies i els terrenys públics aptes per a la circulació, tant urbans com interurbans, els de les vies i terrenys que, sense tenir aquesta condició, siguin d’ús comú i, en defecte d’altres normes, els titulars de les vies i els terrenys privats que siguin utilitzats per una col·lectivitat indeterminada d’usuaris.

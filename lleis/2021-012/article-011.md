@@ -1,0 +1,7 @@
+## Capítol tercer. Canvi de direcció i prioritat de pas
+# Article 11. Canvi de direcció
+1. Tot conductor que pretengui girar a la dreta o a l’esquerra ha de comprovar prèviament que pot efectuar la maniobra sense risc de col·lisió amb altres vehicles i sense obligar-los a executar maniobres sobtades, i adaptar la seva velocitat a aquest efecte.
+S’ha d’abstenir de fer la maniobra quan es tracti d’un canvi de direcció a l’esquerra i no hi hagi visibilitat suficient.
+2. Tota maniobra que impliqui un canvi de carril ha de portar-se a terme respectant la prioritat del que circuli pel carril que es pretén ocupar.
+3. El canvi de direcció s’ha d’advertir als vehicles que circulin al darrere o en sentit contrari, amb antelació suficient, amb el braç o mitjançant indicadors òptics de la forma prevista a l’article 35. Per desviar-se a la dreta, el conductor ha d’aproximar-se al costat dret de la calçada. Si és a la part esquerra, el conductor ha d’aproximar-se tant a la vora com li sigui possible de l’eix central de la calçada, sense sobrepassar-lo, quan la circulació s’efectuï en ambdós sentits, o al costat esquerre quan la circulació sigui en sentit únic.
+4. De forma excepcional, si per les dimensions del vehicle o per altres circumstàncies que ho justifiquin no és possible efectuar el canvi de direcció amb subjecció estricta al que es disposa en els apartats anteriors, el conductor ha d’adoptar les precaucions necessàries a fi d’evitar tot perill a l’hora de dur a terme la maniobra.

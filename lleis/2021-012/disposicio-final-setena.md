@@ -1,0 +1,5 @@
+# Disposició final setena
+S’encomana a Govern que, en el termini de sis mesos a comptar de l’endemà de la publicació d’aquesta Llei al Butlletí Oficial del Principat d’Andorra, desenvolupi un reglament per implementar un sistema nacional d’etiquetatge energètic i d’emissions dels vehicles, que alhora permeti homologar els vehicles registrats al Principat d’Andorra amb els sistemes d’etiquetatge seguits pels països membres de la Unió Europea.
+Aquest etiquetatge es basarà en la normativa d’emissions en vigor en cada moment, i inclourà, com a mínim una etiqueta ZERO emissions i una etiqueta ECO emissions per les categories de vehicles que es determinin reglamentàriament.
+Aquesta etiqueta s’incorpora a la informació prevista a l’article 31.2 de la Llei 21/2018, del 13 de setembre, d’impuls de la transició energètica i del canvi climàtic (Litecc).
+El corresponent distintiu adhesiu es col·loca al marge inferior dret del parabrises del vehicle. L’Automòbil Club d’Andorra serà l’encarregat de subministrar les etiquetes.

@@ -1,0 +1,3 @@
+## Capítol setzè. Accidents
+# Article 56. Norma general
+Els conductors i acompanyants d’un vehicle que estiguin implicats en un accident de circulació, que el presenciïn o que en tinguin coneixement, estan obligats a auxiliar o sol·licitar auxili per atendre les víctimes, si n’hi ha, prestar la seva col·laboració per evitar majors perills o danys i restablir, en la mesura que sigui possible, la seguretat de la circulació i esclarir els fets. També han de facilitar als agents encarregats de la vigilància i la disciplina del trànsit les seves dades per poder ser localitzats en cas que sigui necessari.

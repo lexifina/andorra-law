@@ -1,0 +1,4 @@
+# Article 41. Realització d’obres o d’instal·lacions que afecten la circulació
+1. La realització d’obres o d’instal·lacions, sigui a la via pública, sigui en un lloc pròxim on puguin afectar la circulació, necessita l’autorització administrativa corresponent de conformitat amb la legislació sectorial de carreteres.
+2. Les obres o instal·lacions que dificultin de qualsevol manera la circulació o la seguretat viària han de ser senyalitzades, tant de dia com de nit, i abalisades lluminosament durant les hores nocturnes o quan les condicions meteorològiques o ambientals ho exigeixin, a càrrec del realitzador de l’obra.
+3. La senyalització que s’ha d’emprar en la realització d’obres o d’instal·lacions que afecten la circulació és la senyalització d’abalisament o circumstancial que modifica el règim normal de la via, a la qual fa referència la lletra b) de l’article 84 d’aquesta Llei i la normativa que la desenvolupa.

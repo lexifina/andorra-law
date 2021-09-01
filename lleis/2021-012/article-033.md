@@ -1,0 +1,8 @@
+# Article 33. Forma de realització de la parada o l’estacionament
+1. La parada i l’estacionament es fan situant el vehicle en paral·lel a la vora de la calçada. Excepcionalment, es permet una col·locació diferent quan les característiques de la via o altres circumstàncies així ho aconsellin.
+2. El conductor ha de parar o estacionar el vehicle de forma que es permeti la millor utilització possible de la resta de l’espai disponible.
+3. En cas de vehicle de motor o ciclomotor, si el conductor ha de deixar el seu lloc, ha d’aplicar les mesures següents:
+a) Parar el motor i desconnectar el sistema d’arrencada. Si s’allunya del vehicle, ha d’adoptar les precaucions necessàries per impedir que s’usi sense autorització.
+b) Deixar accionat el fre d’estacionament.
+c) En cas de vehicle proveït de caixa de canvis, deixar col·locada la primera velocitat en pendent ascendent i la marxa enrere en descendent o, si es cau, la posició d’estacionament.
+d) Si es tracta d’un vehicle de més de 3.500 kg de massa màxima autoritzada, d’un autobús o d’un conjunt de vehicles, i la parada o l’estacionament es fa en un indret amb un pendent sensible, el conductor ha de deixar-lo degudament calçat amb una trava o dispositiu anàleg, sense que es puguin utilitzar amb aquesta finalitat altres mitjans no destinats específicament a aquesta funció com, per exemple, pedres. Alternativament, el conductor pot optar per recolzar una de les rodes directrius a la vorera, inclinar-les cap al centre de la calçada en pendents ascendents i cap enfora en pendents descendents. Un cop utilitzades i abans de reprendre la marxa, les traves han de ser retirades de la via.

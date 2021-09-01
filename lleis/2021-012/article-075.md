@@ -1,0 +1,3 @@
+# Article 75. Normes generals
+1. Tots els vehicles que circulin entre la posta i la sortida del sol o a qualsevol hora del dia en els túnels, passos inferiors i trams de via afectats pel senyal de Túnel han de portar encès l’enllumenat que correspongui, segons el que es determina en aquest capítol.
+2. La regulació dels sistemes d’enllumenat que no estiguin prohibits, o tot el que no estigui expressament previst en aquesta Llei, s’ha d’ajustar al que preveuen les normes reguladores dels vehicles que determinen les condicions tècniques i d’utilització que s’exigeixen als diferents tipus i sistemes d’enllumenat.
