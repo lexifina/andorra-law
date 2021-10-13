@@ -1,0 +1,4 @@
+# Article 149. Perpetuació de l’estat de les coses o les persones
+1. Les alteracions de l’estat de les coses o de les persones que han fonamentat la demanda i, si escau, la reconvenció, i que es produeixin un cop s’ha iniciat el procés, no tenen cap efecte en la sentència que es dicti sobre el fons d’aquest procés.
+2. No obstant el que estableix l’apartat anterior, en cas que les pretensions hagin quedat privades d’interès legítim perquè han estat satisfetes extraprocessalment o per qualsevol altra causa, s’apliquen les normes sobre el dret de disposició de les parts que preveu aquesta Llei.
+3. Sense perjudici del que estableix l’apartat anterior, el tribunal, amb l’audiència prèvia de les parts personades en el procés, pot dictar un aute en què arxiva aquest procés sense cap altre tràmit en cas que quedi sense objecte de forma sobrevinguda.

@@ -1,0 +1,3 @@
+# Article 169. Admissió de les proves
+1. El tribunal resol, a l’audiència prèvia, sobre l’admissió de cadascuna de les proves proposades per les parts, d’acord amb els criteris de legalitat, utilitat, pertinència, necessitat i proporcionalitat establerts en aquesta Llei.
+2. Contra l’aute en què el tribunal decideix admetre o no admetre les proves es pot interposar oralment un recurs de reposició. Aquest recurs de reposició se substancia i resol en el mateix acte, i en cas que es desestimi no es pot interposar cap altre recurs, sense perjudici que es pugui formular la protesta oportuna per poder fer valer la impugnació en la segona instància.

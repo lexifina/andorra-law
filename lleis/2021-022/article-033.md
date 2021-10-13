@@ -1,0 +1,3 @@
+# Article 33. Apreciació de la falta de capacitat
+1. La falta de capacitat per ser part o de capacitat processal pot ser apreciada d’ofici pel tribunal a l’audiència prèvia si el procés se substancia pel procediment ordinari, o a l’inici del judici oral si el procés se substancia pel procediment abreujat.
+2. La falta de capacitat per ser part o de capacitat processal també pot ser denunciada pel demandat com a excepció processal en virtut de la contesta, o pel demandant a l’audiència prèvia si el procés se substancia pel procediment ordinari, o a l’inici del judici oral si el procés se substancia pel procediment abreujat.

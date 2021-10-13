@@ -1,0 +1,4 @@
+# Article 308. Legitimació activa i passiva
+1. Poden ser part demandant en el procediment de modificació de la capacitat la mateixa persona interessada, el cònjuge o la persona amb qui mantingui una situació de convivència anàloga, els descendents, els ascendents, els germans, el guardador de fet, el Ministeri Fiscal i el ministeri competent en matèria d’afers socials.
+2. No obstant el que estableix l’apartat anterior, la modificació de la capacitat d’una persona menor d’edat no emancipada només la poden promoure els seus pares si estan habilitats per exercir la pàtria potestat, el Ministeri Fiscal i el ministeri competent en matèria d’afers socials.
+3. La persona que és subjecte del procés de modificació de la capacitat ha de comparèixer-hi defensada i assistida per un advocat, que té la consideració de defensor judicial, i, si escau, del procurador, sense perjudici de la intervenció necessària del Ministeri Fiscal.

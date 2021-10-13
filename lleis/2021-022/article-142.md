@@ -1,0 +1,2 @@
+# Article 142. Interposició de recursos pel rebel
+El demandat rebel pot interposar els recursos ordinaris que escaiguin contra la sentència o la resolució que posi fi al procés, en el termini establert en aquesta Llei. Aquests terminis es compten a partir de l’endemà del dia en què es notifica personalment la sentència o la resolució o, en cas contrari, des de l’endemà que es publiqui l’edicte de notificació al Butlletí Oficial del Principat d’Andorra.

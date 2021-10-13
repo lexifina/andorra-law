@@ -1,0 +1,3 @@
+# Article 347. Designació del magistrat ponent i trasllat de la demanda
+1. En cas que la Sala Civil del Tribunal Superior de Justícia admeti la demanda de revisió, el president de la Sala Civil designa mitjançant una providència el magistrat ponent del judici de revisió dins els tretze dies hàbils següents.
+2. Un cop ha estat designat i dins els tretze dies hàbils següents, el magistrat ponent trasllada la demanda a les parts del procés que es pretén revisar, al Ministeri Fiscal i a les altres persones els drets i interessos de les quals puguin resultats afectats com a conseqüència del judici de revisió, perquè la contestin en el termini de tretze dies hàbils.

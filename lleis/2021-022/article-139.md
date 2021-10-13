@@ -1,0 +1,4 @@
+## Secció tercera. Al·legacions posteriors a la demanda i la contesta
+# Article 139. Fets nous o de nova notícia
+1. Un cop preclòs el termini per formular les al·legacions i abans que finalitzi el judici oral, si s’esdevé o es coneix algun fet nou o de nova notícia rellevant per resoldre el procés, les parts poden fer valer i al·legar aquest fet dins el termini de cinc dies hàbils des del dia en què n’hagin tingut coneixement, llevat que l’al·legació es pugui fer a la vista o la compareixença prevista al procediment de què es tracti.
+2. El tribunal resol sobre si admet el fet nou o de nova notícia, i sobre si practica la prova que escaigui per acreditar-lo, amb l’audiència de les altres parts personades en el procés, a l’audiència prèvia o al judici oral segons si el fet nou o de nova notícia s’ha al·legat abans o després de l’audiència prèvia, respectivament.

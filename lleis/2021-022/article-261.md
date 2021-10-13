@@ -1,0 +1,5 @@
+# Article 261. Petició
+1. El procés que se substancia pel procediment d’injunció comença amb la petició en què s’han d’indicar les dades i les circumstàncies que permeten identificar el creditor i el deutor, el domicili o la residència on pot ser emplaçat el deutor, l’import i la naturalesa del deute que es reclama, i la identitat de l’advocat i el procurador que hi intervenen eventualment. A la petició també s’ha d’adjuntar l’original de qualsevol dels documents esmentats a l’apartat 2 de l’article anterior.
+2. La petició es pot formular, si escau, mitjançant l’imprès o el formulari corresponent que posi a disposició l’Administració de justícia, i on s’han d’indicar i adjuntar les dades, les circumstàncies i els documents esmentats a l’apartat 1 anterior.
+3. En qualsevol cas, el creditor ha de presentar una còpia de la petició i dels documents que s’hi adjunten.
+4. Dins els cinc dies hàbils següents al dia en què es rep la petició, el president del Tribunal de Batlles designa mitjançant una providència el tribunal al qual correspon per torn el coneixement del procés.

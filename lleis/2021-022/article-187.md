@@ -1,0 +1,3 @@
+# Article 187. Deure d’exhibició de documents de les entitats públiques
+1. Les administracions públiques i les altres entitats públiques han d’expedir les certificacions i els testimonis, i exhibir els documents que hi hagi a les seves dependències i arxius, excepte quan es tracti de documents declarats legalment o classificats com de caràcter reservat o secret. En aquest cas, l’entitat pública ha d’adreçar al tribunal una exposició raonada sobre aquest caràcter reservat o secret.
+2. Les administracions públiques i les altres entitats públiques han d’expedir les certificacions i els testimonis, o exhibir els documents, en el termini màxim dels vint dies hàbils següents al dia que se’ls notifica el requeriment, llevat que el tribunal disposi altrament.

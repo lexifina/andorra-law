@@ -1,0 +1,3 @@
+# Article 159. Inadequació del procediment per raó de la quantia
+1. El tribunal s’até a l’acord al qual puguin arribar les parts personades en el procés en relació amb el valor de la cosa litigiosa, a l’efecte de determinar el procediment que escau per raó de la quantia. En cas contrari, el tribunal resol a l’audiència prèvia tenint en compte els documents, els informes i qualsevol altre element útil que les parts hagin aportat al procés per calcular el valor de la cosa litigiosa.
+2. Si el tribunal decideix que el procediment que s’ha de seguir per raó de la quantia és el procediment abreujat, dona per conclosa l’audiència prèvia i assenyala una data per al judici oral.

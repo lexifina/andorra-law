@@ -1,0 +1,3 @@
+# Article 111. Efectes de l’acceptació o no acceptació del requeriment
+1. Si els tribunals requerits accepten el requeriment, els secretaris judicials dicten una interlocutòria en què ho notifiquen a les parts personades en els processos dels quals siguin coneixedors i les emplacen a comparèixer davant el tribunal que ha decidit l’acumulació en el termini de tretze dies hàbils. Tot seguit trameten els processos esmentats al tribunal que ha decidit l’acumulació.
+2. Si els tribunals requerits no accepten el requeriment, ho decideixen mitjançant un aute que comuniquen al tribunal que pretén l’acumulació.

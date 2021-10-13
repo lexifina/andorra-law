@@ -1,0 +1,3 @@
+# Article 396. Suspensió de l’execució forçosa en casos de recursos i impugnacions
+1. La interposició de recursos contra les resolucions i els acords que es dictin en període d’execució forçosa, o la impugnació dels actes que s’hi porten a terme, no comporta la suspensió del procés corresponent.
+2. No obstant el que estableix l’apartat anterior, l’executat pot sol·licitar al tribunal o al saig la suspensió de l’acte impugnat si en cas contrari se’n pot derivar un perjudici greu o de difícil reparació, sempre que presti una caució suficient a criteri del tribunal per respondre dels danys i perjudicis que es puguin ocasionar a l’executant.

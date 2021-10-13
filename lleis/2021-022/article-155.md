@@ -1,0 +1,4 @@
+# Article 155. Falta de capacitat per ser part o de capacitat processal
+1. La falta de capacitat per ser part o de capacitat processal es pot esmenar a l’audiència prèvia i, si no és possible fer-ho a l’audiència prèvia, el tribunal la suspèn i concedeix un termini no superior a cinc dies hàbils a aquest efecte.
+2. Si la falta de capacitat per ser part o de capacitat processal concerneix el demandat i no s’esmena en el termini assenyalat a aquest efecte, el tribunal el declara en rebel·lia i deixa sense efecte les actuacions que hagi portat a terme fins llavors.
+3. Si la falta de capacitat per ser part o de capacitat processal concerneix el demandant i no es pot esmenar o no s’esmena en el termini assenyalat a aquest efecte, el tribunal dona per conclosa l’audiència prèvia i, dins els cinc dies hàbils següents, dicta un aute en què decideix la finalització del procés i deixa imprejutjada l’acció, tot imposant les costes processals al demandant.

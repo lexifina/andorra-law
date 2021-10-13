@@ -1,0 +1,3 @@
+# Article 335. Trasllat i oposició al recurs d’apel·lació
+1. Un cop admès el recurs d’apel·lació contra les sentències definitives, el tribunal el trasllada a les altres parts personades en el procés perquè facin les al·legacions oportunes en el termini de vint dies hàbils, o de tretze dies hàbils si es tracta de processos que se substancien per procediments especials.
+2. Els apel·lats es poden oposar al recurs interposat per l’apel·lant, i en concret poden fer les al·legacions que considerin oportunes en relació amb els arguments formulats i les proves proposades per l’apel·lant, i en relació amb l’admissibilitat del recurs. També poden proposar la pràctica de proves en els casos que estableix l’article 333.

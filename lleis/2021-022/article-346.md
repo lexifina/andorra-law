@@ -1,0 +1,3 @@
+# Article 346. Admissió de la demanda
+1. La demanda de revisió ha de ser motivada, i s’hi han d’adjuntar els documents que siguin necessaris per fonamentar aquesta revisió. En concret, s’ha d’adjuntar una còpia de la sentència penal ferma, si escau, i de la sentència o les sentències que s’han dictat en el procés civil i que es pretenen revisar.
+2. La Sala Civil del Tribunal Superior de Justícia admet o no admet la demanda de revisió, mitjançant una providència o un aute, respectivament, dins els tretze dies hàbils següents al dia en què s’ha presentat. La demanda de revisió només s’admet si es compleixen els requisits establerts als articles 343 a 345. Contra l’aute en què es decideix no admetre la demanda de revisió es pot interposar un recurs de reposició.

@@ -1,0 +1,4 @@
+# Article 371. Execució impròpia de les sentències declaratives i constitutives
+1. Les sentències declaratives i constitutives, certificades pel secretari judicial, es poden inscriure en els registres públics i produeixen els efectes que corresponguin sense que calgui despatxar-ne l’execució forçosa. Totes les persones, i en concret les persones encarregades dels registres públics, han de complir el que disposen les sentències constitutives.
+2. Sense perjudici de l’efecte directe de les sentències constitutives, les parts del procés o les persones que acreditin un interès directe i legítim poden demanar al tribunal que ordeni les actuacions necessàries perquè aquestes sentències tinguin l’eficàcia oportuna.
+3. Els pronunciaments condemnatoris de les sentències constitutives s’executen d’acord amb el que preveu aquest llibre.

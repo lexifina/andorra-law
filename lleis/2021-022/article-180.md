@@ -1,0 +1,3 @@
+# Article 180. Obligatorietat de comparèixer al judici oral
+1. Els testimonis i els perits que han estat citats degudament tenen el deure de comparèixer al judici oral. En cas contrari poden incórrer en una multa coercitiva d’un import màxim de 750 euros, compatible amb la responsabilitat penal que se’n pugui deduir, després d’haver estat advertits a aquest efecte mitjançant la citació. Contra l’aute en què el tribunal imposa una multa coercitiva només es pot interposar un recurs de reposició.
+2. En cas que un testimoni o un perit no comparegui al judici oral, el tribunal dona audiència a les parts personades al judici oral i, tot seguit, resol si suspèn o continua el judici oral.

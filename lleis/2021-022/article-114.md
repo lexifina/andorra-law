@@ -1,0 +1,5 @@
+## Secció quarta. Acumulació de processos singulars a processos universals
+# Article 114. Acumulació de processos singulars a processos universals
+1. És procedent l’acumulació de processos singulars al procés concursal o successori al qual estigui subjecte el cabal contra el qual s’hagi formulat o es formuli una demanda. En aquests casos, es procedeix d’acord amb les normes d’aquest capítol, amb les especialitats que estableixin eventualment el Decret sobre la cessació de pagaments i fallides i la Llei de la successió per causa de mort.
+2. S’exceptuen de l’acumulació de processos esmentada a l’apartat anterior els processos d’execució que només tinguin com a objecte béns hipotecats o pignorats, que en cap cas no s’incorporen al procés concursal o successori, sigui quina sigui la data en què s’hagi iniciat l’execució.
+3. L’acumulació de processos se sol·licita davant el tribunal que coneix el procés universal i es fa en aquest procés, amb independència de quin sigui el procés més antic.

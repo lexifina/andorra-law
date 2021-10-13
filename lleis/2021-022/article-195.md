@@ -1,0 +1,3 @@
+# Article 195. Declaració sobre fets no personals
+1. Si la part que és subjecte de l’interrogatori és preguntada sobre fets que no li són personals, ha de respondre segons els seus coneixements i donar raó de l’origen d’aquests coneixements, però també pot proposar que hi respongui una tercera persona que tingui coneixement personal dels fets.
+2. El tribunal només admet la substitució esmentada a l’apartat anterior si la part que ha proposat la prova ho accepta. En cas contrari, la part que és subjecte de l’interrogatori pot sol·licitar al tribunal que la tercera persona que tingui coneixement personal dels fets sigui interrogada com a testimoni.

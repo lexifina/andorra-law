@@ -1,0 +1,3 @@
+# Article 110. Recepció del requeriment i audiència de les parts
+1. Un cop rebuts l’ofici i el testimoni pels tribunals requerits, els secretaris judicials els traslladen a les parts personades en els processos dels quals siguin coneixedors perquè facin les al·legacions oportunes en el termini de tretze dies hàbils.
+2. Si cap de les parts personades en els processos dels quals siguin coneixedors els tribunals requerits no s’oposa a l’acumulació o fa al·legacions diferents de les que hagi fet davant el tribunal que pretén l’acumulació, els tribunals requerits només poden rebutjar el requeriment per raó de la manca de concurrència dels requisits establerts en aquest capítol.

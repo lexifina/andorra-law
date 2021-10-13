@@ -1,0 +1,5 @@
+## Secció quarta. Sentència i recurs
+# Article 306. Sentència i recurs
+1. El tribunal dicta la sentència dins els tretze dies hàbils següents al dia en què finalitza el judici oral o en què dicta l’aute en què decideix que no se celebri el judici oral. En el processos que se substancien de comú acord el termini esmentat es computa des del dia següent al dia en què finalitza el tràmit d’al·legacions del Ministeri Fiscal o, si escau, el termini del requeriment previst a l’apartat 4 de l’article 303 d’aquesta Llei.
+2. Contra les sentències dictades en els processos que se substancien pel procediment de família es pot interposar un recurs d’apel·lació.
+3. En cas que les parts hagin sol·licitat l’adopció de mesures paternofilials que siguin incompatibles amb les mesures de protecció adoptades anteriorment pel batlle competent de la jurisdicció de menors, la sentència no es pronuncia en relació amb aquestes mesures, sense perjudici que resolgui les peticions restants que no siguin incompatibles amb les mesures de protecció esmentades.

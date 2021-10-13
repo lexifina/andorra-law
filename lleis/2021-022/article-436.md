@@ -1,0 +1,3 @@
+# Article 436. Mesures cautelars i vista
+1. El tribunal pot adoptar, a instància de part, del Ministeri Fiscal o del notari, les mesures cautelars que siguin necessàries per garantir el bon fi del resultat del procés.
+2. Un cop les persones interessades han fet les al·legacions oportunes o un cop ha transcorregut el termini concedit a aquest efecte sense que ho hagin fet, el tribunal pot decidir de celebrar una vista dins els tretze dies hàbils següents. La vista es desenvolupa d’acord amb les normes que estableix l’article 257 per al judici oral en el procediment abreujat, en el que siguin aplicables.

@@ -1,0 +1,3 @@
+# Article 402. Deute en moneda estrangera
+1. Les obligacions en una moneda que no sigui la moneda de curs legal a Andorra s’executen en els seus propis termes en la mesura que sigui possible. Les costes de l’execució se satisfan en la moneda de curs legal a Andorra.
+2. La quantitat en moneda estrangera que és objecte de l’execució forçosa es computa segons el canvi oficial corresponent al dia en què es dicta l’aute o l’acord d’execució. En cas que es tracti d’una moneda estrangera sense cotització oficial, el còmput es fa aplicant el canvi que el tribunal o el saig consideri adequat d’acord amb les al·legacions que faci i els documents que aporti l’executant en la demanda o la sol·licitud d’execució.

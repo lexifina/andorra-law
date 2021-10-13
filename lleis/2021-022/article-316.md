@@ -1,0 +1,3 @@
+# Article 316. Pretensions accessòries
+1. Les pretensions relatives a la guarda de la persona sotmesa a una institució de protecció o de suport, inclòs l’establiment eventual d’un règim de visites i el pagament d’una pensió d’aliments, es resolen en execució de la sentència que ha establert la modificació de la capacitat d’aquesta persona, llevat que la persona o les persones titulars d’aquesta institució hagin instat un procés que se substanciï pel procediment de família i en què es plantegin aquestes pretensions.
+2. El tribunal competent pot segregar en el temps les decisions relatives a la guarda de la persona sotmesa a una institució de protecció o de suport, al règim de visites i a la pensió d’aliments.

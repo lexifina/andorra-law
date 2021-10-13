@@ -1,0 +1,3 @@
+# Article 401. Quantitats objecte de l’execució forçosa dinerària
+1. L’execució forçosa es despatxa per la quantitat que es reclami en concepte de principal en la demanda o la sol·licitud d’execució, que ha de ser conforme a l’obligació continguda al títol executiu. La quantitat principal s’incrementa amb els interessos vençuts.
+2. L’executant també pot demanar una quantitat per fer front a les costes de l’execució. La quantitat en concepte de les costes de l’execució es fixa provisionalment en l’aute o l’acord d’execució, a manca de la liquidació definitiva que es faci un cop s’ha acabat el procés en període d’execució forçosa.

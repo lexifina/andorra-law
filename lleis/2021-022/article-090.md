@@ -1,0 +1,7 @@
+## Secció quarta. Pràctica i execució de les mesures cautelars
+# Article 90. Pràctica i execució de les mesures cautelars
+1. Si s’ha decidit l’embargament preventiu, el dipòsit, l’anotació preventiva o l’administració judicial, són aplicables les normes de la Llei de l’embargament, amb les especialitats que estableix aquest article.
+2. Si les mesures cautelars consisteixen en l’embargament dels salaris, s’han de respectar els límits que estableix la Llei de l’embargament.
+3. Si les mesures cautelars consisteixen en l’embargament de comptes corrents o de dipòsit, l’entitat bancària o financera ha de facilitar al tribunal l’extracte dels comptes on figurin els saldos inicial i final del darrer any com a mínim. En aquest mateix cas, i també quan les mesures cautelars consisteixin en l’embargament d’altres productes bancaris i financers dineraris, el tribunal ordena que se segueixin pagant els rebuts de la part contra la qual s’han decidit aquestes mesures que es refereixin a despeses ordinàries i necessàries.
+4. La caució sempre s’ha de prestar abans de qualsevol acte d’execució de les mesures cautelars adoptades. Un cop es presta la caució, el tribunal executa d’ofici i de forma immediata aquestes mesures, fent ús dels mitjans necessaris a aquest efecte i, quan calgui, d’acord amb les normes sobre l’execució de les sentències que preveu aquesta Llei.
+5. El tribunal controla l’execució de les mesures cautelars adoptades i la garantia dels drets del demandant i el demandat, i de les altres persones interessades.

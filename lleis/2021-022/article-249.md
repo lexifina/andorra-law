@@ -1,0 +1,2 @@
+# Article 249. Motivació de la sentència
+Les sentències s’han de motivar suficientment, amb l’expressió dels raonaments fàctics i jurídics que condueixen a l’apreciació i la valoració de les proves, així com a l’aplicació i la interpretació del dret. La motivació ha d’incidir en els elements fàctics i jurídics del procés, considerats individualment o de forma conjunta, i s’ha d’ajustar sempre a les regles de la lògica i la raó.

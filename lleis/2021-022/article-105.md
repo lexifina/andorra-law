@@ -1,0 +1,4 @@
+# Article 105. Decisió sobre l’acumulació de processos i recurs
+1. Un cop admesa la sol·licitud d’acumulació de processos, el secretari judicial la trasllada, mitjançant una interlocutòria, a les altres parts personades en els processos que es pretenen acumular perquè facin les al·legacions oportunes en el termini de tretze dies hàbils, i el tribunal decideix mitjançant un aute dins els tretze dies hàbils següents.
+2. Si l’acumulació de processos la promou d’ofici el tribunal, el secretari judicial dona audiència mitjançant una interlocutòria a totes les parts personades en els processos que es pretenen acumular perquè facin les al·legacions oportunes en el termini de tretze dies hàbils, i decideix mitjançant un aute dins els tretze dies hàbils següents.
+3. Contra l’aute que resol l’acumulació de processos no es pot interposar cap recurs.

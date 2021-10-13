@@ -1,0 +1,3 @@
+# Article 29. Comunicació per edictes
+1. Si de conformitat amb les normes d’aquest capítol no es pot saber el parador del destinatari de l’acte processal de comunicació, o no es pot portar a terme la comunicació amb eficàcia plena per qualsevol altre motiu, el secretari judicial ordena que aquesta comunicació es faci mitjançant la publicació de la part dispositiva de la resolució o l’actuació judicial, de la cèdula d’emplaçament o citació, o del requeriment, al Butlletí Oficial del Principat d’Andorra.
+2. La comunicació per edictes s’ha de fer tot protegint els drets dels menors d’edat i de les altres persones que puguin resultar afectades per les mesures de publicitat adoptades.

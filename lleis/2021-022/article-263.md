@@ -1,0 +1,3 @@
+# Article 263. Clàusules abusives
+1. En els contractes d’adhesió, si el tribunal, d’ofici o a instància de part, considera que qualsevol clàusula que fonamenti la petició o determini la quantitat exigible pot ser abusiva, dona audiència prèvia al creditor i al deutor en el termini de tretze dies hàbils, i decideix mitjançant un aute dins els tretze dies hàbils següents.
+2. En cas que el tribunal consideri alguna de les clàusules enumerades a l’apartat anterior com a abusiva, determina en el mateix aute les conseqüències aplicables, ja sigui la improcedència i l’arxivament de la petició, ja sigui la continuació del procediment sense aplicar les clàusules que entén abusives. Contra aquest aute només es pot interposar un recurs de reposició.

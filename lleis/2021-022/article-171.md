@@ -1,0 +1,3 @@
+# Article 171. Assenyalament del judici oral
+1. El tribunal assenyala la data en què se celebra el judici oral dins els vint dies hàbils següents al dia en què conclou l’audiència prèvia, prorrogables vint dies hàbils més com a màxim en els casos en què sigui menester per practicar les proves admeses.
+2. Si per raó de les proves admeses es preveu que el judici oral no pugui finalitzar en una sola sessió del dia assenyalat, la citació així ho ha d’indicar. Si la sessió o les sessions posteriors s’han de portar a terme durant diversos dies, successius o no, la citació també ho ha d’indicar, i expressar l’hora en què la sessió o les sessions del judici oral han de començar.

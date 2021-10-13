@@ -1,0 +1,4 @@
+# Article 399. Acabament i sobreseïment de l’execució forçosa
+1. El procés en període d’execució forçosa s’acaba amb l’extinció o la cancel·lació total del deute pel qual es va despatxar l’execució. En aquest cas, el tribunal o el saig decideix mitjançant un aute o un acord, respectivament, l’arxivament del procés.
+2. El procés en període d’execució forçosa se sobreseu provisionalment en cas que el tribunal o el saig, d’ofici o a instància de part, decideixi mitjançant un aute o un acord, respectivament, que el deute pel qual es va despatxar l’execució sigui totalment o parcialment incobrable. En aquest cas, el procés d’execució pot continuar a instància de l’executant si té notícia posterior de la solvència de l’executat.
+3. Contra l’aute d’arxivament o de sobreseïment del procés en període d’execució forçosa es pot interposar un recurs d’apel·lació, sense efectes suspensius.

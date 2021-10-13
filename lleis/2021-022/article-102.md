@@ -1,0 +1,3 @@
+# Article 102. Procés en què s’ha de demanar i decidir l’acumulació
+1. L’acumulació d’un procés que se segueix pel procediment abreujat a un procés que se segueix pel procediment ordinari se sol·licita i la decideix el tribunal que coneix aquest darrer procés.
+2. L’acumulació de processos de la mateixa classe se sol·licita i la decideix el tribunal que coneix el procés més antic. L’antiguitat del procés es determina per la data de la presentació de la demanda, i si les demandes s’han presentat el mateix dia, es considera que el procés més antic és el que s’hagi atribuït en primer lloc pel torn que correspongui.

@@ -1,0 +1,2 @@
+# Article 95. Acumulació subjectiva d’accions
+Les accions que una persona tingui contra altres persones, que diverses persones tinguin contra una altra persona, o que diverses persones tinguin contra diverses altres persones, es poden acumular i s’exerceixen simultàniament, sempre que entre aquestes accions hi hagi un nexe per raó del títol o la causa de demanar. S’entén que el títol o la causa de demanar són idèntics o connexos quan les accions es fonamenten en els mateixos fets.

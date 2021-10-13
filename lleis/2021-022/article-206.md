@@ -1,0 +1,5 @@
+# Article 206. Respostes de l’interrogatori de testimonis
+1. Una vegada respostes les preguntes generals, els testimonis responen les preguntes de la part que els ha proposat i, si han estat proposats per més d’una part, responen en primer lloc les preguntes del demandant.
+2. Un cop respostes les preguntes de la part que els ha proposat, els advocats de les altres parts poden formular altres preguntes que es considerin útils, pertinents i necessàries per determinar els fets del procés.
+3. Els testimonis han de respondre en nom propi i de paraula, han d’expressar la raó del coneixement del que declaren, i no poden utilitzar cap esborrany de respostes. No obstant això, poden consultar documents, notes o apunts quan, a criteri del tribunal, siguin convenients per auxiliar-ne la memòria.
+4. Les respostes dels testimonis han de ser afirmatives o negatives i, si això no és possible segons el tenor de les preguntes, han de ser precises i concretes. Els testimonis poden afegir, si així ho accepta el tribunal, les explicacions que considerin convenients i que tinguin relació amb les preguntes que se’ls formulen.

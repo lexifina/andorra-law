@@ -1,0 +1,3 @@
+# Article 144. Termini i procediment de rescissió de sentències fermes
+1. El demandat rebel pot sol·licitar la rescissió de la sentència ferma dins el termini dels vint dies hàbils següents al dia en què aquesta sentència li hagi estat notificada personalment, sempre que no hagin transcorregut més de dos anys des del dia en què es va dictar. En la sol·licitud de rescissió es pot demanar, si escau, que se suspengui l’execució forçosa de la sentència.
+2. La sol·licitud de rescissió s’interposa davant el tribunal que ha dictat la sentència ferma i se substancia de conformitat amb les normes de l’incident de nul·litat d’actuacions contra les resolucions fermes que estableix la Llei transitòria de procediments judicials.

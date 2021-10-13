@@ -1,0 +1,4 @@
+# Article 50. Transacció
+1. En qualsevol moment del procés les parts poden posar-hi fi en virtut d’un acord o un conveni, i sol·licitar al tribunal que homologui aquesta transacció.
+2. Si la transacció convinguda per les parts s’ajusta a l’objecte del procés i no s’ha convingut en frau de llei, en contra de l’interès general o de l’ordre públic, o en perjudici de terceres persones, el tribunal que estigui coneixent el procés dicta un aute en què homologa aquesta transacció.
+3. L’aute que homologa la transacció no imposa les costes processals a cap de les parts. Per aquest motiu cada part satisfà les costes causades a instància seva i les costes comunes per meitat, llevat que ho hagin acordat altrament. Aquest aute no és susceptible de recurs i es pot executar d’acord amb les normes sobre l’execució de les sentències que preveu aquesta Llei.
