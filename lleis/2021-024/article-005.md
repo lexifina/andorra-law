@@ -1,0 +1,2 @@
+# Article 5. Prohibició de l’elusió
+A l’efecte de l’aplicació dels límits esmentats a l’article 4, és considerada part de la taxa d’intercanvi qualsevol retribució acordada, inclosa la compensació neta, que tingui un objecte o efecte equivalent al de la taxa d’intercanvi, rebuda per un emissor de l’esquema de targetes de pagament, l’adquirent o qualsevol altre intermediari a les operacions de pagament o activitats connexes.
