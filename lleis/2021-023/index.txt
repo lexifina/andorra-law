@@ -1,0 +1,9 @@
+preamble.md
+article-001.md
+article-002.md
+article-003.md
+disposicio-addicional.md
+disposicio-transitoria.md
+disposicio-final-primera.md
+disposicio-final-segona.md
+signatures.md

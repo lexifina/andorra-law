@@ -1,0 +1,8 @@
+Llei 23/2021, del 14 d’octubre, de taxes de l’Agència de Qualitat de l’Ensenyament Superior d’Andorra
+Atès que el Consell General en la seva sessió del dia 14 d’octubre del 2021 ha aprovat la següent:
+Llei 23/2021, del 14 d’octubre, de taxes de l’Agència de Qualitat de l’Ensenyament Superior d’Andorra
+Exposició de motius
+La llei 9/2016, del 28 de juny, de creació de l’Agència de Qualitat de l’Ensenyament Superior d’Andorra, en endavant AQUA, concretament a l’article 2, defineix l’Agència com una institució de dret públic que ajusta la seva activitat al dret administratiu, essent la seva funció més rellevant la d’avaluar, acreditar i certificar la qualitat de l’ensenyament superior que s’imparteix a Andorra.
+L’AQUA es finança essencialment a través del pressupost del Consell General, si bé, l’article 6 de la predita llei l’habilita per a que pugui cercar noves fonts de finançament a través de la percepció de recursos econòmics facilitats pels organismes avaluats o assessorats en funció de les tasques desenvolupades. En aquest sentit, i amb l’ànim de dotar a l’AQUA d’una nova font de recursos que permeti un millor desenvolupament de les funcions que té atribuïdes, així com d’ajustar-se als criteris de sostenibilitat de les finances públiques i d’estabilitat pressupostària, la modificació de la llei 9/2016, de creació de l’Agència de Qualitat de l’ensenyament Superior d’Andorra (AQUA) aprovada mitjançant la Llei 14/2020, de 12 de novembre, va preveure la creació de taxes per gravar la prestació dels serveis que realitza l’AQUA.
+El desplegament legislatiu de les taxes es realitza en un text independent, doncs en suposar la creació d’un nou Tribut.
+En seguiment de l’exposat es proposa l’adopció de la següent llei.
