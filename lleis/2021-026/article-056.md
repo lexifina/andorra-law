@@ -1,0 +1,3 @@
+# Article 56
+En el moment de constatar-se la infracció, la persona expedientada ha de comunicar el seu domicili al Principat d’Andorra o a l’estranger per a la notificació de les resolucions que recaiguin en l’expedient sancionador. Les notificacions s’efectuen al Principat d’Andorra en la forma legalment establerta o per carta certificada amb acusament de recepció o un altre sistema que acrediti de forma fefaent la notificació en cas que la persona expedientada tingui el seu domicili a l’estranger.
+Si la persona expedientada no es troba al domicili indicat les resolucions es notifiquen mitjançant publicació al Butlletí Oficial del Principat d’Andorra.

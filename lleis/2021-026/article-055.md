@@ -1,0 +1,4 @@
+# Article 55
+1. En cas d’incoar-se un expedient sancionador per comissió de la infracció prevista a l’article 43 apartat 1, el ministeri responsable de la pesca acorda immediatament, i de forma cautelar, el cessament del dipòsit o l’acumulació de material.
+2. En cas d’incoar-se un expedient sancionador per comissió de la infracció prevista a l’article 43 apartat 2, el ministeri responsable de la pesca acorda immediatament, i de forma cautelar, l’aturada immediata de les obres que s’estiguin realitzant. Aquest atur cautelar es pot acordar per la totalitat de les obres o per aquella part de les mateixes obres per les quals no s’hagi obtingut autorització o els treballs realitzats no s’adaptin a l’autorització concedida.
+3. Amb caràcter general, el ministeri responsable de la pesca pot ordenar, amb caràcter cautelar, el cessament de qualsevol acció que pugui ser constitutiva d’infracció i per la qual s’acordi la tramitació d’un expedient sancionador.
