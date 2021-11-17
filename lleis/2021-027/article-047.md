@@ -1,0 +1,2 @@
+# Article 47. Procediment sancionador per infraccions greus previstes als articles 40.2, 40.3, 40.4 i 40.5 i per infraccions molt greus previstes a l’article 41
+El procediment sancionador per imposar sancions per les infraccions greus previstes als articles 40.2, 40.3, 40.4 i 40.5 i per les infraccions molt greus previstes a l’article 41 se subjecta a les disposicions del Codi de l’Administració, del 29 de març de 1989 i dels reglaments que el desenvolupen.
