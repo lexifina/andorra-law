@@ -1,0 +1,2 @@
+# Article 38. Registre, informe i revisió
+Per la via reglamentària, s’han de determinar i desenvolupar les obligacions eventuals de registre, informe i revisió mèdica amb posterioritat a l’ús de les armes i dels mitjans coercitius autoritzats, i de custòdia i manteniment d’aquestes armes i mitjans. En tot cas, però, el director del Cos de Banders ha de comunicar i detallar l’ús que s’hagi fet dels mitjans coercitius al ministre titular responsable del Cos de Banders, al Ministeri Fiscal i, si escau, també a l’autoritat judicial competent.

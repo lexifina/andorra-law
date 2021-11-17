@@ -1,0 +1,3 @@
+# Article 37. Tinença, port i ús dels mitjans coercitius
+1. Quan estan de servei, els membres del Cos de Banders poden dur eventualment i utilitzar els mitjans coercitius que hagin estat autoritzats reglamentàriament. En qualsevol cas, però, només en poden fer ús en els supòsits i amb les condicions establerts a la lletra f de l’apartat 2 de l’article 8 d’aquesta Llei.
+2. La tinença, el port i l’ús dels mitjans coercitius per part dels membres del Cos de Banders requereixen haver rebut i superat la formació específica i continuada necessària per conèixer la tècnica i la pràctica degudes del seu ús.
