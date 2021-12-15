@@ -1,0 +1,4 @@
+# Article 38
+En cas de sol·licitud de comís per una autoritat judicial estrangera d’instruments del delicte o dels seus productes, diners, valors o béns adquirits amb aquests, o la seva contrapartida, procedents d’un delicte de blanqueig de diners o valors o de qualsevol altre delicte major, la demanda és presentada pel Ministeri Fiscal al Tribunal de Corts, el qual, després d’una audiència prèvia de les parts interessades, decideix per aute que pot ser objecte de recurs davant el Tribunal Superior de Justícia.
+El Tribunal no pot revisar ni modificar la decisió de comís estrangera, si bé ha de resoldre sobre les reivindicacions de tercers de bona fe que no hagin estat resoltes en la decisió esmentada.
+El mateix procediment és aplicable de manera general, d’ofici o a petició de l’estat demandant, als béns, diners o valors procedents de qualsevol infracció penal que no tenen propietaris legítims identificats.

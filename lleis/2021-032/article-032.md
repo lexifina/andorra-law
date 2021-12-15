@@ -1,0 +1,2 @@
+# Article 32
+Les comissions rogatòries que es refereixen als comptes bancaris i a la intercepció dels mitjans personals de comunicació com telèfon, teleescriptors i altres mitjans anàlegs són executades pel batlle o el tribunal competent, després d’oir el Ministeri Fiscal i amb la verificació prèvia de la conformitat de la demanda amb la llei andorrana, sense perjudici de preservar el secret bancari.
