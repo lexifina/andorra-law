@@ -1,0 +1,3 @@
+# Article 61. Infraccions comeses per persones estrangeres no residents
+1. Les persones estrangeres no residents al Principat d’Andorra que cometin qualsevol de les infraccions establertes a l’article 58 i no paguin voluntàriament, han de constituir un dipòsit equivalent a l’import de la sanció que correspongui des del mateix moment en què el membre del Cos de Policia constati aquesta infracció i fins que es dicti una resolució ferma i definitiva.
+2. En cas que la persona interessada no pugui constituir el dipòsit a què fa referència l’apartat anterior, pot aportar una caució o un aval suficient emès per qualsevol entitat bancària del Principat d’Andorra, o per qualsevol persona solvent a criteri del membre del Cos de Policia.

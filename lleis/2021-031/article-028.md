@@ -1,0 +1,4 @@
+# Article 28. Armeries, tallers de reparació d’armes, camps i galeries de tir, i dipòsits de substàncies explosives
+1. L’obertura i l’explotació d’armeries, tallers de reparació d’armes, camps i galeries de tir estan subjectes a l’autorització prèvia del director del Cos de Policia. El Govern determina reglamentàriament les condicions d’explotació dels establiments o llocs esmentats anteriorment.
+2. Els membres del Cos de Policia poden fer en qualsevol moment les inspeccions necessàries en els establiments i les instal·lacions esmentats a l’apartat anterior amb la finalitat que es compleixin les disposicions d’aquest article i de les normes que el desenvolupin.
+3. Els membres del Cos de Policia també poden fer en qualsevol moment les inspeccions necessàries en els establiments i en les instal·lacions on es trobin dipositades substàncies explosives amb la finalitat que es compleixin les disposicions normatives aplicables a les substàncies esmentades.

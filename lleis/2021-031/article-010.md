@@ -1,0 +1,2 @@
+# Article 10. Recurs jurisdiccional
+La resolució del ministre competent en matèria d’interior que declara que una manifestació degudament comunicada, d’acord amb els articles 7 i 9, no es pot celebrar o no ho pot ser en les condicions sol·licitades, i en què suggereix modificacions, és impugnable directament per la via jurisdiccional, d’acord amb el procediment urgent i preferent de tutela dels drets fonamentals previst a l’article 41, apartat 1, de la Constitució.

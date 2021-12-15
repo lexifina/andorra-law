@@ -1,0 +1,6 @@
+# Article 48. Prescripció de les infraccions
+1. Les infraccions molt greus, greus i lleus que estableixen els articles 50, 51 i 52 d’aquesta Llei prescriuen al cap de tres anys, dos anys i un any, respectivament. Les infraccions que estableix l’article 58 prescriuen al cap d’un any.
+2. El termini de prescripció de les infraccions es computa des de la data del fet causant o des del dia en què se n’hagi hagut de tenir coneixement.
+3. El termini de prescripció s’interromp per qualsevol actuació realitzada amb coneixement formal de la persona expedientada que s’adreci a la iniciació, la tramitació o la resolució del procediment sancionador.
+4. La interrupció deixa de tenir efecte si no s’inicia el procediment sancionador o queda paralitzat durant més de sis mesos per causa no imputable a la persona interessada. En aquest cas, el còmput del termini de prescripció s’inicia de nou a partir de la data de la darrera actuació que consti al procediment sancionador.
+5. En el cas de suspensió de la tramitació del procediment sancionador per causa de prejudicialitat penal, el termini de prescripció de la falta resta suspès fins que el ministre competent en matèria d’interior o el director del Cos de Policia tingui coneixement formal de la resolució ferma recaiguda en l’àmbit penal.

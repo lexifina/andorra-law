@@ -1,0 +1,2 @@
+# Disposició transitòria quarta. Normativa aplicable als titulars d’escopetes de caça menor
+Les persones que, a la data d’entrada en vigor de les disposicions reglamentàries a què fan referència l’apartat 1 de l’article 28 i l’apartat 2 de l’article 29, siguin titulars d’escopetes de caça menor continuaran eximides de l’obligació de disposar del permís d’arma i de la guia de tinença corresponents, sense perjudici de l’obligació de declaració de les referides armes que s’estableixi per la via reglamentària.

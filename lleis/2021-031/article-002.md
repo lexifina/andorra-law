@@ -1,0 +1,4 @@
+# Article 2. Àmbit territorial i competencial
+1. Les disposicions contingudes en aquesta Llei són aplicables a tot el territori del Principat d’Andorra.
+2. Sense perjudici de les competències atribuïdes als comuns d’acord amb la Llei qualificada de delimitació de competències dels comuns, correspon al Govern garantir l’exercici dels drets fonamentals i les llibertats públiques dels ciutadans, i mantenir l’ordre públic i la seguretat ciutadana.
+3. Les competències del Govern esmentades a l’apartat anterior s’exerceixen a través del ministeri competent en matèria d’interior i del Cos de Policia, que hi és adscrit, i comprenen l’exercici de les potestats administratives previstes en aquesta Llei i a la Llei qualificada del Cos de Policia, amb la finalitat de garantir la convivència ciutadana i la tranquil·litat pública, lluitar contra la violència, vetllar per la utilització pacífica dels espais públics i prevenir els actes delictius.

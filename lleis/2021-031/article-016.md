@@ -1,0 +1,5 @@
+## Títol IV. Actuacions de manteniment de la seguretat ciutadana
+# Article 16. Entrada i escorcoll en domicilis i altres béns immobles
+1. Els membres del Cos de Policia només poden entrar als domicilis i els altres béns immobles i escorcollar-los d’acord amb el que estableixen l’article 15 de la Constitució i del Codi de procediment penal.
+2. No obstant el que estableix l’apartat anterior, els membres del Cos de Policia poden entrar a un domicili o un altre bé immoble sense l’autorització del seu propietari, arrendatari o ocupant, ni de l’autoritat judicial, en cas que l’accés al domicili o a l’altre bé immoble tingui com a finalitat evitar danys imminents i greus a les persones i els béns, en supòsits de catàstrofe, calamitat o ruïna imminent, o en qualsevol altre supòsit d’extrema i urgent necessitat.
+3. En cas que els membres del Cos de Policia hagin entrat a un domicili o un altre bé immoble a l’empara del que disposa l’apartat anterior, han de remetre l’informe corresponent al Ministeri Fiscal i a l’autoritat judicial competent en el termini màxim de vint-i-quatre hores.

@@ -1,0 +1,3 @@
+## Títol VI. Establiments o activitats rellevants per a la seguretat ciutadana
+# Article 27. Establiments i instal·lacions vulnerables
+Les armeries, les joieries, les entitats bancàries, les empreses de seguretat o de venda de material de seguretat, o qualsevol altre establiment o instal·lació que es pugui considerar especialment vulnerable o exposat en matèria de seguretat, han de disposar de les mesures de protecció que s’estableixin per la via reglamentària, per prevenir la comissió d’actes delictius contra aquests establiments o instal·lacions i les persones que hi treballen o s’hi troben, o per evitar que generin riscos pel que fa a aquestes persones o terceres persones.

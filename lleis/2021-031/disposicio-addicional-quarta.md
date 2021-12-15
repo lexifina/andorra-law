@@ -1,0 +1,2 @@
+# Disposició addicional quarta. Accions, programes i serveis
+Les administracions públiques, en l’àmbit de les seves competències, han de promoure accions, programes i serveis que tinguin com a objectiu la sensibilització i el foment del civisme i la convivència i la prevenció dels riscos per a la salut que comporta el consum de begudes alcohòliques i drogues tòxiques, per a les persones menors d’edat.

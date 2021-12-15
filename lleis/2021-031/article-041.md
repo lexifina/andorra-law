@@ -1,0 +1,5 @@
+# Article 41. Procediment d’autorització
+1. Les sol·licituds d’autorització per instal·lar alarmes sonores s’han d’adreçar al director del Cos de Policia.
+2. A l’escrit de sol·licitud de l’autorització, la persona interessada ha d’adjuntar-hi un informe detallat del sistema d’alarma sonora previst, en el qual consti la marca i el tipus del dispositiu, i el certificat d’homologació d’acord amb la normativa vigent a la Unió Europea. Així mateix, s’hi ha d’incloure la identificació i les dades de contacte de dos persones com a mínim que puguin fer-se responsables de l’anul·lació de l’emissió de sorolls en cas de falses alarmes.
+3. Una vegada rebuda la sol·licitud d’autorització per instal·lar una alarma sonora, i abans de prendre una decisió, el director del Cos de Policia encomana una enquesta. A aquest efecte, pot demanar a la persona sol·licitant l’accés al domicili o el local on es pretengui instal·lar l’alarma sonora.
+4. Contra la resolució expressa o tàcita del director del Cos de Policia es pot interposar un recurs, de conformitat amb el que estableix el Codi de l’Administració.

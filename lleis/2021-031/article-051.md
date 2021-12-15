@@ -1,0 +1,16 @@
+# Article 51. Infraccions greus
+1. Són infraccions greus:
+a) Pertorbar el desenvolupament d’una reunió o manifestació.
+b) Instal·lar sistemes de videovigilància sense haver-ho comunicat prèviament o amb característiques diferents de les indicades en la sol·licitud d’autorització o en la comunicació prèvia que vulnerin les condicions d’utilització establertes a l’autorització d’instal·lació.
+c) Destruir els enregistraments fora del termini establert en aquesta Llei.
+d) Resistir-se o negar-se a les actuacions d’inspecció o de control del ministeri competent en matèria d’interior o de la Comissió Nacional de Videovigilància, o obstruir-les.
+e) Incomplir, els establiments i les instal·lacions vulnerables definits a l’article 27, les mesures de protecció que s’estableixen a l’article esmentat o que es prevegin per la via reglamentària.
+f) Posseir o portar una arma no prohibida sense disposar del permís d’arma o de la guia de tinença, o amb un permís d’arma no vigent.
+g) Incomplir, les persones físiques o jurídiques que portin a terme activitats rellevants per a la seguretat ciutadana, les obligacions de registre documental i informació que s’estableixin legalment o reglamentàriament, sempre que l’incompliment d’aquestes obligacions no sigui l’objecte d’una infracció tipificada en una altra llei.
+h) Sol·licitar o obtenir relacions de naturalesa sexual amb una persona que es dedica a la prostitució, àdhuc de manera ocasional, a canvi d’una remuneració, d’una promesa de remuneració, de la prestació d’un benefici en espècie o de la promesa d’un benefici semblant.
+i) Promoure o organitzar esdeveniments que requereixen ser comunicats prèviament, tal com els regula l’apartat 1 de l’article 32, sense haver-ho comunicat prèviament al director del Cos de Policia, o en condicions diferents de les comunicades.
+j) Consumir begudes alcohòliques fora del recinte delimitat i autoritzat on se celebra un esdeveniment que requereix ser comunicat prèviament, tal com els regula l’apartat 1 de l’article 32.
+k) Promoure o organitzar esdeveniments o reunions que incompleixin les restriccions sobre el nombre màxim de persones que es poden reunir en espais i locals, públics i privats, decretades pel Govern per motius de protecció de la salut pública.
+l) Cometre dos o més infraccions lleus, encara que siguin de diferent naturalesa, sempre que es cometin dintre d’un període de dos anys des de la comissió de la primera infracció i que la persona interessada hagi estat sancionada mitjançant una resolució ferma.
+2. La infracció que estableix la lletra j) de l’apartat 1 anterior s’entén comesa pels promotors o organitzadors dels esdeveniments que requereixen ser comunicats prèviament, tal com els regula l’apartat 1 de l’article 32, i es pot declarar la responsabilitat solidària de tots ells. A més, s’entén que els promotors, organitzadors i responsables esmentats cometen una infracció diferent per cada persona que consumeixi begudes alcohòliques fora del recinte de l’esdeveniment que requereix ser comunicat prèviament, tal com es regula a l’apartat 1 de l’article 32.
+3. La infracció que estableix la lletra j) de l’apartat 1 d’aquest article també s’entén comesa pel client o el treballador de l’esdeveniment que requereix ser comunicat prèviament, tal com el regula l’apartat 1 de l’article 32, i que consumeix begudes alcohòliques.

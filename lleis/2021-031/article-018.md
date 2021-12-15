@@ -1,0 +1,3 @@
+# Article 18. Incautació d’objectes
+1. Els membres del Cos de policia que intervinguin objectes, béns o productes que puguin constituir indicis o proves de la comissió d’una infracció administrativa, han d’adjuntar-los a les diligències a aquest efecte.
+2. Una vegada el procediment administratiu finalitzi amb una resolució ferma, els objectes, béns o productes esmentats a l’apartat anterior queden definitivament incautats per l’Administració i poden, si són de comerç lícit, ser destinats a la venda en pública subhasta. En el cas que aquests objectes, béns o productes no siguin de comerç lícit o el seu estat així ho aconselli, poden ser destruïts.

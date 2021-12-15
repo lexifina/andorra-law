@@ -1,0 +1,3 @@
+# Article 14. Identificació dels ciutadans no andorrans
+1. Els ciutadans no andorrans que estiguin en el territori andorrà tenen el dret i l’obligació de conservar i dur la documentació que acrediti la seva identitat, expedida per les autoritats competents del seu país d’origen o de procedència, i la documentació que acrediti la seva situació immigratòria regular al Principat d’Andorra en el cas dels ciutadans residents.
+2. Els ciutadans no andorrans no poden ser privats de la documentació que acredita la seva identitat expedida pel seu país d’origen o de procedència, llevat que així ho estableixin les lleis aplicables.
