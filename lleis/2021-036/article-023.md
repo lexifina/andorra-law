@@ -1,0 +1,3 @@
+# Article 23. Període impositiu i meritament
+1. Els deutes tributaris derivats de les taxes es meriten a l’inici de l’ús privatiu o aprofitament especial del domini públic, o a la data d’inici de la prestació del servei o de la realització de l’activitat que se sol·licita, encara que a la data de l’autorització es pot exigir el pagament anticipat o dipòsit previ del seu import total o parcial.
+2. En els supòsits en què les ordinacions estableixen un meritament periòdic, aquest té lloc l’1 de gener de cada any i el període impositiu correspon a l’any natural, excepte els casos d’inici o finalització del fet generador, on el període impositiu es prorrateja mensualment, d’acord amb la corresponent ordinació.

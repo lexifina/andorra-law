@@ -1,0 +1,2 @@
+# Article 67. Compliment
+Si l’Administració comunal no paga al creditor de les finances comunals en el termini de dos mesos a partir del reconeixement de l’obligació o de la notificació a l’interessat de la sentència judicial o de la resolució administrativa ferma, ha d’abonar-li l’interès legal sobre la quantitat deguda, des del dia en què hauria d’haver fet efectiu el pagament, amb la reclamació prèvia per escrit del creditor.

@@ -1,0 +1,5 @@
+# Article 102. Organització
+1. La Intervenció comunal s’adscriu orgànicament a la comissió encarregada de les finances i la seva estructura orgànica l’estableix, a proposta de l’interventor comunal, el Ple del Comú, amb la conformitat prèvia del conseller encarregat de les finances.
+2. L’interventor comunal és el cap de la Intervenció comunal. És lliurement nomenat i revocat pel Consell de Comú, a proposta dels cònsols, escoltat el conseller encarregat de les finances, sense perjudici de la possibilitat de dimissió o cessament, de conformitat amb el que estableixi la normativa en cada moment vigent.
+És nomenat pel mandat comunal i roman en el càrrec fins a la realització d’un nou nomenament en el decurs dels tres primers mesos del mandat següent.
+3. Els interventors comunals que prèviament a l’exercici d’aquest càrrec tinguin la condició de funcionaris o treballadors públics, tenen dret a sol·licitar l’excedència del seu lloc de treball previ amb reserva de plaça, d’acord amb els termes establerts en la Llei de la funció pública.

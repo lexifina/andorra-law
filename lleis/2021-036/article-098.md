@@ -1,0 +1,3 @@
+# Article 98. Control d’eficàcia
+1. El control d’eficàcia té per objecte la comprovació periòdica del grau de compliment dels objectius dels programes inclosos al pressupost de l’exercici precedent, així com l’anàlisi dels costos de funcionament i del rendiment o utilitat dels serveis prestats pel comú, les obres i les adquisicions realitzades.
+2. D’acord amb els requeriments establerts en la normativa vigent en matèria de sostenibilitat de les finances públiques i d’estabilitat pressupostària i fiscal, anualment la Intervenció comunal ha de remetre al Ple del Comú i al Tribunal de Comptes un informe global sobre l’exercici del control d’eficàcia que s’hagi realitzat sobre òrgans o departaments del comú o de les societats participades per l’Administració comunal.

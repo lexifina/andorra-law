@@ -1,0 +1,3 @@
+# Article 53. Autorització de les operacions
+1. Les operacions d’emissió de deute públic, de formalització de préstecs, les línies i pòlisses de crèdit i les operacions financeres a llarg termini han de ser autoritzades, previ informe de la Intervenció comunal, pel Ple del Comú, en aprovar l’ordinació anual del pressupost comunal o bé en aprovar les ordinacions de crèdit extraordinari o de suplement de crèdit.
+2. Les operacions de tresoreria han de ser autoritzades, previ informe de la Intervenció comunal, pel Ple del Comú, prenent en consideració el topall màxim per a aquestes operacions previst a l’apartat 2 de l’article 56.

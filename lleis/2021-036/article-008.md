@@ -1,0 +1,2 @@
+# Article 8. Potestat sancionadora
+Els comuns regulen infraccions i apliquen multes i sancions administratives per incompliment de les ordinacions, reglaments i decrets, d’acord amb les potestats que tenen atribuïdes. Per al seu cobrament, s’ha de recórrer a l’execució forçosa, per la via de constrenyiment patrimonial, d’acord amb les normes que regulen el procediment de recaptació tributària en període executiu.

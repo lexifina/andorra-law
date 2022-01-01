@@ -1,0 +1,19 @@
+# Article 39. Impost sobre la construcció
+1. Definició: L’impost sobre la construcció és un impost de naturalesa directa que grava la realització d’edificacions de nova planta o l’ampliació d’edificacions existents.
+2. Fet generador: El fet generador de l’impost és la realització, dins del terme de la parròquia, d’edificacions de nova planta o bé d’obres d’ampliació d’edificacions existents.
+3. Obligat tributari: És obligat tributari de l’impost la persona, física o jurídica, que sol·licita la llicència de construcció o ampliació de l’edifici, i en el cas que aquesta llicència no sigui preceptiva, és obligat tributari la persona, física o jurídica, que presenti el projecte d’interès nacional o el pla sectorial.
+4. Base de tributació: La base de tributació és la superfície de l’edificació de nova planta, o de l’ampliació, expressada en metres quadrats i ponderada per un índex de localització. A efectes de l’impost, s’entén per superfície de l’edificació de nova planta, o de l’ampliació, la superfície de l’obra efectivament construïda, inclosos els soterranis i els cossos volats.
+Els comuns han d’establir una escala d’índex de localització per tal de considerar la categoria del lloc o del carrer on es troba situat l’immoble. El valor dels índexs de localització se situa entre 0,5 i 2.
+La indexació dels llocs o els carrers de cada parròquia s’estableix en l’ordinació tributària comunal, en què es distingeixen un nombre màxim de cinc categories.
+5. Tipus de gravamen: El tipus de gravarem aplicable està comprès entre 10 i 50 euros per metre quadrat, i ha de ser aprovat per cada comú mitjançant ordinació.
+6. Quota tributària: La quota tributària és el resultat d’aplicar a la base de tributació el tipus de gravamen.
+7. Bonificacions obligatòries: Cada comú estableix, en la seva ordinació tributària, les bonificacions següents sobre la quota tributària:
+a) Una bonificació de la quota tributària de fins al 90% per a les edificacions de nova planta o ampliació d’edificacions ja existents que es destinin a ús d’habitatge.
+En el cas que l’obligat tributari sigui una persona física, la bonificació és aplicable indiferentment si l’habitatge és per a l’ús propi o en règim de lloguer; si l’obligat és una persona jurídica, la bonificació només s’aplica si l’ús de l’habitatge és en règim de lloguer.
+b) Una bonificació de la quota tributària de fins al 90% per a les edificacions de nova planta o ampliació d’edificacions existents que es destinin exclusivament a ús d’aparcament.
+c) Una bonificació de la quota tributària de fins al 90% per a les edificacions de nova planta o ampliació d’edificacions existents que es destinin exclusivament a ús agrícola i ramader.
+Les ordinacions tributàries de cada comú han de preveure l’obligació de restitució de les bonificacions tributàries concedides per raó de la destinació de l’edificació o ampliació, en el cas que es canviés aquella destinació dins dels 10 anys següents a la data de liquidació de l’impost. La restitució abasta l’import íntegre de la bonificació, incrementat amb els interessos meritats al tipus resultant de sumar dos punts percentuals al de l’interès moratori, a comptar a partir de la data d’obtenció de la primera llicència.
+Aquesta restitució només s’admet per edificis sencers independents, no per unitats immobiliàries producte de la divisió horitzontal.
+8. Meritament: L’impost es merita en el moment d’obtenir la llicència corresponent, i en el cas que aquesta no sigui preceptiva, en el moment de validar el projecte corresponent per part del comú.
+9. Gestió i liquidació: La gestió i la liquidació de l’impost sobre la construcció corresponen al comú, que les determina per ordinació, seguint les disposicions d’aquesta Llei.
+Els obligats tributaris han d’ingressar el deute tributari en el lloc, la forma, els terminis i segons els models que estableixi cada comú.
