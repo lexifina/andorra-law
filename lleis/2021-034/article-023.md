@@ -1,0 +1,2 @@
+# Article 23. Reducció de la cotització de les persones que realitzen una activitat per compte propi
+Les persones que perceben la prestació prevista a l’article 18.1.b), poden acollir-se a una base de cotització equivalent al salari mínim mentre el Govern no declari, per decret, la fi de la situació d’emergència sanitària ocasionada per la pandèmia del SARS-CoV-2 i com a màxim fins al 30 de juny del 2022.

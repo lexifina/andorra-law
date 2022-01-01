@@ -1,0 +1,3 @@
+# Disposició final segona. Ratificació de les mesures adoptades pel Govern
+1. Es ratifiquen les mesures excepcionals adoptades pel Govern mitjançant els decrets aprovats a partir de l’1 de juliol del 2021 i fins al dia en què s’aprovi aquesta Llei, excepte en allò en què hagin estat modificades per aquesta Llei.
+2. El Govern pot acordar, per decret, la modificació de les mesures excepcionals adoptades en els decrets esmentats a l’apartat 1, en funció de l’evolució de la situació d’emergència sanitària ocasionada per la pandèmia del SARS-CoV-2, i ha d’acordar-ne l’aixecament, quan les circumstàncies ho permetin.
