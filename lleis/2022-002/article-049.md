@@ -1,0 +1,6 @@
+# Article 49
+Des del moment de la dissolució, per la causa que sigui, la societat està en liquidació. Mentre dura l’estat de liquidació, la societat ha de fer constar, en la seva denominació, l’expressió en liquidació.
+La Junta General conserva els mateixos poders que tenia durant la vida social. Les accions continuen essent negociables, fins al tancament de la liquidació.
+La Junta General nomenarà un o diversos liquidadors, als quals correspondrà la representació de la societat a l’efecte dels fins de la liquidació. En defecte de nomenament, el Consell d’Administració es converteix en comissió liquidadora i actua en forma col·legiada.
+La liquidació es durà a terme d’acord amb les normes legals. En particular, els liquidadors han de formular un inventari i un balanç de la societat referit al dia de la dissolució i sotmetre’ls a l’aprovació de la Junta General, i efectuar les operacions de liquidació necessàries i adequades per a l’extinció ordenada de la societat, mitjançant la pràctica de la liquidació patrimonial i la divisió del patrimoni resultant entre els socis.
+Una vegada extingida la totalitat de les obligacions de la societat, el sobrant serà repartit entre els accionistes, a prorrata del capital social desembossat que representin.

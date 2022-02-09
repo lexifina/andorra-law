@@ -1,0 +1,5 @@
+# Article 30
+La societat és regida, representada i administrada pel Consell d’Administració, compost per un mínim de dos membres i un màxim de cinc. Els membres del Consell d’Administració, que poden ser persones jurídiques representades per persones físiques o persones físiques, són nomenats per acord de la Junta General, per temps indefinit, amb possibilitat de renovació també indefinida.
+Tots els càrrecs del Consell són gratuïts quan els exerceixi una persona que percep alguna retribució pública, ja sigui com a càrrec polític o bé com a personal al servei d’una administració pública, d’una entitat parapública o d’una societat pública.
+En el cas que la Junta General nomeni per a un càrrec del Consell una persona que no percep cap retribució pública, ha de fixar, en el mateix acord, la forma i quantia de la seva retribució.
+Els membres del Consell d’Administració poden ser destituïts en qualsevol moment per acord de la Junta General, encara que aquest punt no figuri a l’ordre del dia, i sense haver d’acreditar la concurrència d’una causa justa.
