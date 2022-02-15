@@ -1,0 +1,3 @@
+# Disposició final divuitena
+Aquesta Llei entra en vigor l’endemà que es publiqui al Butlletí Oficial del Principat d’Andorra, excepte l’apartat 2 de la disposició final sisena, que entra en vigor l’1 de juliol del 2022 i l’apartat 4 de l’article 96 de la Llei 17/2008, del 3 d’octubre, de la seguretat social, de la disposició final sisena, que entra en vigor l’1 de gener del 2023.
+La disposició final catorzena, és aplicable en les promeses de compravenda on s’estipuli el pagament d’un preu superior al vint per cent del preu total que s’hagi pactat, formalitzades a comptar de l’1 de gener del 2019.

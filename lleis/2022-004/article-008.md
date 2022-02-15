@@ -1,0 +1,6 @@
+# Article 8. Contractes menors
+S’entén per “contractes menors” els contractes que tenen un import igual o inferior a 7.500 euros. En els contractes menors, la tramitació de l’expedient solament exigeix la incorporació de la factura a la liquidació.
+En aquests contractes la factura corresponent ha de substituir el document contractual i l’acta de conformitat del subministrament, la recepció de les obres o dels treballs tècnics i serveis, i d’altres, segons correspongui.
+Aquests contractes no poden tenir una durada superior a un any, ni ser objecte de pròrroga ni de revisió de preus.
+Per a l’adjudicació d’aquests contractes cal fer una consulta, sempre que sigui possible, per tenir tres pressupostos diferents.
+Excepcionalment, en els contractes d’una durada superior a un any l’import dels quals –per tota la durada, incloses les pròrrogues i les revisions de preus– sigui igual o inferior a 7.500 euros, la tramitació de l’expedient es fa mitjançant contractació directa, d’acord amb el que estableix aquest article pel que fa als contractes menors. En aquest contracte, però, la tramitació de l’expedient requereix la formalització d’un contracte.
