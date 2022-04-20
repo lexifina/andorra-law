@@ -1,0 +1,18 @@
+# Disposició final sisena. Modificació de la Llei qualificada de la justícia, del 3 de setembre de 1993
+1. Es modifica l’apartat 1 de l’article 35 ter de la Llei qualificada de la justícia en els termes següents:
+“Article 35 ter
+1. El Consell Superior de la Justícia és competent per ordenar i gestionar l’estadística judicial. En particular, ha de recollir i registrar les dades desglossades per sexe i edat en relació amb l’accés a la justícia, inclosa la participació de les dones en el sistema judicial. Així mateix, ha de recollir i registrar les dades sobre totes les formes de violència de gènere contra les dones, diferenciant-les de les dades relatives a la violència domèstica, amb indicació del sexe i l’edat de la víctima i de l’agressor i llur vincle, del tipus de violència i la naturalesa, gravetat i durada de les penes imposades, així com sobre l’emissió de mesures de protecció, incloent-hi el nombre de mesures de protecció sol·licitades i de les concedides, el nombre d’incompliments d’aquestes mesures i les sancions imposades com a conseqüència d’aquests incompliments”.
+2. S’incorpora un nou apartat 3 a l’article 37 en els termes següents:
+“Article 37
+(…)
+3. El Consell Superior de la Justícia ha d’elaborar i elevar anualment al Consell General i al Govern un informe sobre l’impacte de gènere en l’àmbit judicial, incloent-hi, si escau, la proposta de mesures per aplicar efectivament el dret a la igualtat de tracte i d’oportunitats i a la no-discriminació entre dones i homes en aquest àmbit”.
+3. Es modifica l’article 38 bis en els termes següents:
+“Article 38 bis
+El Consell Superior de la Justícia pot organitzar, directament o mitjançant convenis amb altres institucions, també estrangeres i internacionals, les activitats formatives que consideri convenients per al bon funcionament de l’Administració de justícia.
+De manera especial, ha de determinar els programes formatius i de pràctiques que han de seguir els batlles en pràctiques que hagin superat les proves d’accés, les activitats formatives necessàries per passar als graus segon, tercer o superior dins de cada categoria judicial, i els nivells mínims d’activitat de formació continuada que ha de rebre l’autoritat judicial durant el seu mandat.
+També ha de garantir que l’autoritat judicial i el Ministeri fiscal en tots els ordres jurisdiccionals rebin una formació completa inicial i continuada en matèria d’igualtat de tracte i no-discriminació entre dones i homes, en particular, en matèria de violència de gènere contra les dones i de discriminació múltiple i interseccional que pateixen les dones en situacions de vulnerabilitat”.
+4. Es modifica l’apartat 3 de l’article 66 bis en els termes següents:
+“Article 66 bis
+(…)
+3. En la fase d’oposició, les persones participants efectuen com a mínim tres proves: una de caràcter teòric sobre el temari publicat prèviament pel Consell Superior de la Justícia en les bases de la convocatòria, que ha d’incloure l’estudi del principi d’igualtat de tracte i no-discriminació entre dones i homes, incloent-hi les mesures contra la violència de gènere envers les dones, i la seva aplicació transversal en la interpretació i l’aplicació de les normes jurídiques; una de caràcter pràctic, en la qual es proposa la resolució de dos casos, en els àmbits jurídics indicats a les bases de la convocatòria, i una tercera d’idiomes, que consisteix en la traducció de dos o més textos de contingut jurídic. Les dos primeres proves han de contenir, almenys, una exposició de caràcter oral. Les bases de la convocatòria indiquen la ponderació de cada prova en la valoració global del procés.
+(…)”.

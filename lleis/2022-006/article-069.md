@@ -1,0 +1,3 @@
+# Article 69. Prescripció
+1. Les infraccions previstes en aquesta Llei prescriuen al cap d’un any si són lleus, al cap de tres anys si són greus i al cap de cinc anys si són molt greus. El termini de prescripció es comença a comptar des del darrer dia en el qual s’ha comès la infracció.
+2. Les sancions imposades per infraccions lleus prescriuen al cap d’un any, les imposades per infraccions greus al cap de dos anys i les imposades per infraccions molt greus al cap de tres anys. El termini de prescripció es comença a comptar des de l’endemà del dia en què ha esdevingut ferma la resolució per la qual s’imposa la sanció.

@@ -1,0 +1,6 @@
+# Article 39. Creació artística i cultural
+1. Les administracions públiques han d’adoptar les mesures necessàries per a garantir el dret de les dones a la cultura, a ser considerades agents culturals i a visibilitzar la cultura que els és pròpia.
+2. Les administracions públiques, els organismes i les entitats que participin en el sistema de gestió cultural han d’eliminar tot tipus de discriminació per raó de sexe i han de promoure la igualtat d’oportunitats de dones i homes en la creació artística i cultural i en la seva difusió.
+3. Les administracions públiques amb competències en matèria de gestió cultural han de donar suport i visibilitat a la creació artística i cultural d’autoria femenina amb la finalitat de garantir la igualtat efectiva d’oportunitats de dones i homes.
+4. Les administracions públiques amb competències en matèria de gestió cultural han de promoure la presència equilibrada de dones i homes en l’oferta artística i cultural i en la composició dels òrgans consultius i de decisió, així com en els jurats, que hi hagi dins l’organigrama artístic i cultural.
+5. Les administracions públiques amb competències en matèria de gestió cultural han d’impulsar actuacions que facin visibles el llegat històric i les aportacions de les dones al patrimoni artístic i cultural del Principat d’Andorra.

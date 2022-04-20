@@ -1,0 +1,2 @@
+# Article 68. Sancions accessòries
+Quan les infraccions siguin molt greus, l’òrgan que resolgui l’expedient sancionador, mitjançant una resolució motivada, pot imposar com a sanció accessòria, a més de la multa que escaigui, la prohibició de rebre ajuts o subvencions per un període de tres anys com a màxim, o la prohibició de contractar amb l’Administració i els ens públics que en depenen per un període de dos anys com a màxim.

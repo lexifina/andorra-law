@@ -1,0 +1,3 @@
+# Article 10. Assetjament sexual i assetjament per raó de sexe
+1. Sense perjudici del que disposa el Codi penal, als efectes d’aquesta Llei l’assetjament sexual es defineix com qualsevol comportament, verbal, no verbal o físic, de naturalesa sexual, adreçat contra una dona, que tingui la finalitat o produeixi l’efecte d’atemptar contra la seva dignitat i de crear-li un entorn intimidatori, hostil, degradant, humiliant o ofensiu.
+2. Constitueix assetjament per raó de sexe qualsevol comportament realitzat en funció del sexe o gènere femení, amb la finalitat o l’efecte d’atemptar contra la dignitat de la persona i de crear-li un entorn intimidatori, hostil, degradant, humiliant o ofensiu.

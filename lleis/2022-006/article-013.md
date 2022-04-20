@@ -1,0 +1,3 @@
+# Article 13. Coeducació
+S’entén per coeducació l’acció educadora que valora indistintament l’experiència, les aptituds i l’aportació social i cultural de dones i homes, en igualtat de drets, sense estereotips sexistes.
+La coeducació consisteix a educar els infants i el jovent sense tenir en compte els rols de gènere que se’ls exigeix complir en una societat sexista, per ser d’un sexe o de l’altre. Entre els pilars de la coeducació cal situar l’ús del llenguatge no sexista, la visibilització de la contribució de les dones al llarg de la història, l’educació sexual en igualtat i en llibertat, i la lluita contra la violència envers les dones i contra la LGBTI-fòbia.

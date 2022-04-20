@@ -1,0 +1,2 @@
+# Disposició addicional primera. Assistència tècnica
+Amb la finalitat de fomentar la implantació efectiva de plans d’igualtat i de mesures de prevenció i abordatge de l’assetjament sexual i per raó de sexe, el ministeri i la secretaria d’estat amb competències en matèria d’igualtat, en col·laboració amb l’Institut Andorrà de les Dones, ha d’elaborar guies i manuals de referència i promoure i dur a terme accions formatives.

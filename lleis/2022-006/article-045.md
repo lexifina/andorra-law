@@ -1,0 +1,5 @@
+# Article 45. Ordenació del territori, urbanisme i accés a l’habitatge
+1. Les administracions públiques han d’incorporar la perspectiva de gènere en el disseny i en la configuració dels espais urbans, en la construcció d’infraestructures de serveis, en la planificació urbanística, en l’ordenació del territori i en l’accés a l’habitatge.
+2. Les administracions públiques han d’incorporar en el disseny i en la configuració dels espais urbans, en la construcció d’infraestructures de serveis, en la planificació urbanística, en l’ordenació del territori i en l’accés a l’habitatge les necessitats i les prioritats derivades del treball de mercat i del domèstic i de cura de persones.
+3. Les administracions públiques han de promoure l’accés de les dones a l’habitatge en igualtat d’oportunitats que els homes, així com el de col·lectius en situació de necessitat o en risc d’exclusió social, amb una atenció especial a les famílies monoparentals i a les dones víctimes de violència de gènere.
+4. Les administracions públiques han de promoure un model de seguretat en els espais públics que eviti entorns i elements que puguin provocar situacions d’inseguretat per a les dones.

@@ -1,0 +1,2 @@
+# Article 14. Accions positives
+Es defineixen com a accions positives les mesures que suposen una diferència de tracte adreçada a corregir i compensar situacions patents de desigualtat de fet i de discriminació envers les dones. Aquestes mesures han de ser raonables i proporcionades en relació amb la finalitat que pretenguin complir i, en tot cas, només resulten aplicables mentre persisteixi la situació de desigualtat que es pretén corregir.

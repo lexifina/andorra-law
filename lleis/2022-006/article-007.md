@@ -1,0 +1,3 @@
+# Article 7. Gènere i estereotips de gènere
+1. A efectes d’aquesta Llei, s’entén per gènere la construcció social i cultural que, basada en les diferències biològiques entre els sexes, assigna diverses característiques emocionals, intel·lectuals i actitudinals a dones i homes. A partir d’aquestes diferències biològiques, el gènere configura les relacions socials i de poder entre dones i homes.
+2. A efectes d’aquesta Llei, s’entén per estereotips de gènere el conjunt de clixés o imatges simplificades que uniformen les persones i adjudiquen uns rols, característiques, capacitats i comportaments determinats a les dones i als homes.

@@ -1,0 +1,4 @@
+# Article 11. Ordre de discriminar i represàlia discriminatòria
+1. S’entén per ordre de discriminar qualsevol instrucció que impliqui la discriminació, directa o indirecta, per raó de sexe.
+2. Constitueix una represàlia discriminatòria qualsevol tracte advers o efecte negatiu que es produeix contra una persona com a conseqüència de la presentació d’una queixa, reclamació, denúncia, demanda o recurs, de qualsevol tipus, adreçat a evitar, disminuir o denunciar qualsevol tipus de greuge o discriminació per raó de sexe o l’assetjament sexual o per raó de sexe al qual la persona denunciant és sotmesa o ha estat sotmesa.
+3. També constitueix una represàlia discriminatòria qualsevol tracte advers o efecte negatiu que es produeixi contra una persona que col·labori o participi en un procediment iniciat arran d’aquesta queixa, reclamació, denúncia, demanda o recurs.

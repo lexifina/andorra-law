@@ -1,0 +1,11 @@
+## Capítol segon. Competències i organització administrativa
+# Article 33. Competències i organització administrativa
+1. Els ministeris de l’Administració general i els comuns, les societats i els organismes públics vinculats o que en depenen han d’establir en llurs decrets organitzatius l’òrgan o persona responsable de l’aplicació de la transversalitat de la perspectiva de gènere en la planificació, la gestió i l’avaluació de llurs polítiques respectives.
+2. Els òrgans o les persones responsables d’aplicar la transversalitat de la perspectiva de gènere tenen les funcions següents:
+a) Executar plans i programes transversals de polítiques d’igualtat de gènere en l’àmbit funcional del ministeri o organisme d’acord amb les directrius i les mesures establertes en el Programa per a la igualtat efectiva de dones i homes aprovat pel Govern i pels comuns.
+b) Emetre informes sobre la igualtat de dones i homes en llur àmbit funcional.
+c) Integrar sistemàticament la perspectiva de gènere en totes les fases, àrees i nivells d’intervenció de llur àmbit funcional, en col·laboració i coordinació amb el ministeri competent en matèria d’igualtat de tracte i no-discriminació i la secretaria d’estat amb competències en matèria d’igualtat de tracte i no-discriminació.
+d) Garantir la formació del personal dels ministeris, els departaments, els serveis i els organismes en matèria d’igualtat efectiva de dones i homes.
+e) Assegurar el compliment efectiu d’aquesta Llei en l’àmbit funcional corresponent, que han de dur a terme professionals amb formació específica sobre igualtat i gènere.
+f) Exercir qualsevol altra funció necessària per implantar la perspectiva de gènere.
+3. El ministeri competent en matèria d’igualtat de tracte i no-discriminació ha d’assumir la coordinació i l’alta inspecció de l’aplicació transversal del principi d’igualtat de tracte i no-discriminació entre dones i homes en tots els ministeris, departaments i serveis de l’Administració general, dels comuns i de les societats i organismes dependents a través de llurs òrgans competents. A aquest efecte, poden obrir expedient informatiu amb la finalitat d’efectuar observacions per escrit adreçades als òrgans administratius, incloent-hi el Cos de Policia i altres cossos especials, perquè integrin la perspectiva de gènere en llur actuació.

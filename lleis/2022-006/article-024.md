@@ -1,0 +1,3 @@
+# Article 24. Inversió de la càrrega de la prova
+1. En els processos en què la part actora al·legui discriminació per raó de sexe i n’aporti indicis fonamentats, correspon a la part demandada aportar una justificació objectiva i raonable, suficientment provada, de les mesures adoptades i de la seva proporcionalitat. A aquest efecte, l’òrgan judicial, d’ofici o a instància de part, pot demanar un informe dels organismes públics competents en matèria d’igualtat de tracte i no-discriminació per raó de sexe.
+2. L’apartat anterior no és aplicable als processos penals ni als procediments administratius sancionadors.

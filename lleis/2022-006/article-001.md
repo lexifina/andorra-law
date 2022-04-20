@@ -1,0 +1,4 @@
+## Títol I. Objecte i àmbit d’aplicació de la Llei
+# Article 1. Objecte i rang de la Llei
+1. Aquesta Llei té per objecte fer efectiu el dret a la igualtat de tracte i a la no-discriminació per raó de sexe, en desenvolupament de l’article 6, apartat 1, i de l’article 1, apartat 1, de la Constitució. A aquest efecte, la Llei estableix els principis d’actuació i les mesures adreçades a eliminar la desigualtat estructural que pateixen les dones respecte dels homes en tots els àmbits de la vida, derivada d’un sistema de relacions de poder dels homes sobre les dones, i a garantir la igualtat d’oportunitats de dones i homes i la no-discriminació.
+2. Les disposicions finals primera, sisena i setena i dissetena d’aquesta Llei modifiquen les Lleis qualificades d’Educació, de la Justícia i del Règim Electoral i del Referèndum, i del Codi Penal, i tenen rang de llei qualificada.

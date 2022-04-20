@@ -1,0 +1,4 @@
+# Article 16. Abast del dret a la igualtat de tracte i a la no-discriminació per raó de sexe
+1. El dret a la igualtat de tracte i a la no-discriminació per raó de sexe exigeix als poders públics que garanteixin la igualtat de tracte i d’oportunitats entre dones i homes en tots els àmbits de la vida per tal que les dones puguin fer efectiu l’exercici dels drets i les llibertats fonamentals i socials en igualtat de condicions amb els homes, incloent-hi l’adopció de mesures d’acció positiva.
+2. Les persones físiques o jurídiques del sector privat estan obligades a aplicar i respectar el dret a la igualtat de tracte i a la no-discriminació per raó de sexe en totes les seves actuacions relacionades amb les disposicions d’aquesta Llei.
+3. La igualtat de tracte i d’oportunitats entre dones i homes s’integrarà i s’observarà en la interpretació i l’aplicació de les normes jurídiques.
