@@ -1,0 +1,2 @@
+# Disposició final quarta. Textos consolidats
+S’encomana al Govern, en els termes previstos a l’article 116 del Reglament del Consell General, que, en el termini màxim de sis mesos des de l’entrada en vigor d’aquesta Llei, presenti al Consell General els projectes de consolidació de la Llei qualificada d’educació, de la Llei del Cos d’Educació, de la Llei de l’Escola Andorrana i de la Llei d’ordenament del sistema educatiu andorrà, amb la incorporació de totes les modificacions que s’hi han produït.

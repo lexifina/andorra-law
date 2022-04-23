@@ -1,0 +1,4 @@
+# Disposició final primera. Addició de la lletra h a l’article 49.1 de la Llei 8/2019, del 7 de febrer, del Cos d’Educació
+S’afegeix la lletra h a l’apartat primer de l’article 49 de la Llei 8/2019, del 7 de febrer, del Cos d’Educació, redactat en els termes següents:
+“Article 49.1
+h) Usar de manera ostensible signes o símbols religiosos durant l’horari escolar, les activitats lectives i les activitats complementàries que formen part del programa educatiu, llevat que aquest ús sigui inherent o resulti necessari en l’activitat en la qual s’utilitzen. La incoació d’un procediment disciplinari per aquest motiu només es produeix després que el responsable del centre hagi advertit de manera fefaent la persona que incorre en l’incompliment i si, transcorreguts set dies des d’aquest advertiment, aquesta persona persisteix en l’ús ostensible dels signes o dels símbols.”
