@@ -1,0 +1,4 @@
+# Article 1. Addició de l’article 26 ter a la Llei qualificada d’immigració
+S’addiciona l’article 26 ter a la Llei qualificada d’immigració, el qual queda redactat en els termes següents:
+“Article 26 ter
+Amb caràcter excepcional, se suspèn l’aplicació de l’apartat 5 de l’article 26 de la Llei 9/2012, del 31 de maig, de modificació de la Llei qualificada d’immigració, per a les autoritzacions d’immigració temporals presentades l’any 2021 o el 2022, de manera que els seus titulars poden sol·licitar una nova autorització temporal sense que sigui necessari que hagin transcorregut cinc mesos des de la data de venciment de l’autorització anterior. En acabar la temporada d’hivern 2022-2023 queda sense efecte la suspensió de l’aplicació de l’apartat 5 de l’article 26 de la Llei 9/2012, del 31 de maig, de modificació de la Llei qualificada d’immigració.”
