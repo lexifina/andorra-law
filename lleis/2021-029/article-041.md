@@ -1,0 +1,11 @@
+# Article 41. Supervisió de codis de conducta aprovats
+1. Sense perjudici de les funcions i els poders de l’Agència Andorrana de Protecció de Dades, la supervisió del compliment del codi de conducta la pot fer un organisme que tingui el nivell adequat de perícia en relació amb l’objecte del codi i que estigui acreditat amb aquesta finalitat per l’autoritat de control.
+2. L’organisme a què es refereix l’apartat 1 pot estar acreditat per supervisar el compliment d’un codi de conducta, si, cumulativament:
+a) Ha demostrat la seva independència i perícia en relació amb l’objecte del codi, a satisfacció de l’autoritat de control competent.
+b) Ha establert procediments que li permetin avaluar la idoneïtat dels responsables i els encarregats corresponents per aplicar el codi, per supervisar que se’n compleixen les disposicions i per examinar periòdicament la seva aplicació.
+c) Ha establert procediments i estructures per tramitar les reclamacions relatives a infraccions del codi o a la manera en què un responsable o un encarregat del tractament ha aplicat o està aplicant el codi, i per fer que aquests procediments i aquestes estructures siguin transparents per als interessats i per al públic.
+d) Ha demostrat, a satisfacció de l’Agència Andorrana de Protecció de Dades, que les seves tasques i funcions no donen lloc a conflicte d’interessos.
+3. Reglamentàriament s’han d’establir els requisits d’acreditació dels organismes previstos a l’apartat 1.
+4. Sense perjudici de les funcions i els poders de l’Agència Andorrana de Protecció de Dades i del règim sancionador previst en aquesta Llei, en cas d’infracció del codi per un responsable o encarregat del tractament, un organisme acreditat a tenor de l’apartat 1, ha de prendre, amb subjecció a garanties adequades, les mesures oportunes, inclosa la suspensió o l’exclusió de l’infractor. Ha d’informar l’Agència Andorrana de Protecció de Dades d’aquestes mesures i de les raons de les mateixes.
+5. L’Agència Andorrana de Protecció de Dades ha de revocar l’acreditació de l’organisme, si els requisits d’acreditació no es compleixen o han deixat de complir-se o si l’actuació de l’organisme infringeix aquesta Llei.
+6. Aquest article no s’aplica al tractament efectuat per autoritats i organismes públics.

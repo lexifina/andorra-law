@@ -1,0 +1,9 @@
+# Article 2. Àmbit d’aplicació
+1. Aquesta Llei és aplicable al tractament totalment o parcialment automatitzat de dades personals, així com al tractament no automatitzat de dades personals continguts o destinats a ser inclosos en un fitxer, i a qualsevol ús posterior d’aquestes dades, tant en el sector públic com privat.
+S’aplica a tot tractament de dades personals realitzat per responsables o encarregats del tractament, públics o privats, amb domicili al Principat d’Andorra, o constituïts d’acord amb les lleis del Principat d’Andorra.
+2. També és aplicable als tractaments de dades realitzats per responsables o encarregats del tractament no domiciliats al Principat o no constituïts conforme a les lleis del Principat d’Andorra, quan facin servir mitjans de tractament ubicats en el territori andorrà, automatitzats o no. Aquests responsables o encarregats del tractament han de designar prop de l’Agència Andorrana de Protecció de Dades un representant establert al Principat d’Andorra.
+3. A l’efecte d’aplicació d’aquest article, s’entén per domicili o establiment, amb independència de la seva forma jurídica, qualsevol ubicació estable que permeti l’exercici efectiu i real d’una activitat.
+4. S’exclouen de l’àmbit d’aplicació d’aquesta Llei:
+a) El tractament de dades efectuat en el marc d’activitats exclusivament personals o domèstiques, sense cap connexió amb una activitat professional o comercial.
+b) El tractament de dades de persones difuntes, sense perjudici del que estableix l’article 3.
+c) El tractament de dades efectuat per part de les autoritats competents amb finalitats de prevenció, investigació, detecció o enjudiciament d’infraccions penals, o d’execució de sancions penals, incloent la protecció contra les amenaces per a la seguretat pública i la prevenció d’aquestes, sense perjudici del que estableix l’apartat 4 de l’article 5.

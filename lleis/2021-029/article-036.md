@@ -1,0 +1,10 @@
+# Article 36. Notificació d’una violació de la seguretat de les dades personals a l’autoritat de control
+1. En cas de violació de la seguretat de les dades personals, el responsable del tractament l’ha de notificar a l’Agència Andorrana de Protecció de Dades, sense dilació indeguda i, si és possible, en un termini màxim de setanta-dues hores després que n’hagi tingut constància; tret que sigui improbable que aquesta violació de la seguretat constitueixi un risc per als drets i les llibertats de les persones físiques. Si la notificació no es produeix en el termini de setanta-dues hores, s’han de justificar els motius de la dilació.
+2. L’encarregat del tractament ha de notificar al responsable del tractament, sense dilació, les violacions de la seguretat de les dades personals de les quals té coneixement.
+3. La notificació que preveu l’apartat 1, com a mínim, ha de:
+a) Descriure la naturalesa de la violació de la seguretat de les dades personals, incloent-hi, si és possible, les categories i el nombre aproximat de persones interessades afectades, i les categories i el nombre aproximat de registres de dades personals afectats.
+b) Comunicar el nom i les dades de contacte del delegat de protecció de dades o d’un altre punt de contacte on es pot obtenir més informació.
+c) Descriure les possibles conseqüències de la violació de la seguretat de les dades personals.
+d) Descriure les mesures adoptades o proposades pel responsable del tractament per fer front a la violació de la seguretat de les dades personals, incloses, si escau, les mesures adoptades per mitigar-ne els possibles efectes negatius.
+4. Si tota la informació no es pot facilitar simultàniament, en la mesura que no es pugui, s’ha de facilitar de manera gradual sense dilació indeguda.
+5. El responsable del tractament ha de documentar qualsevol violació de la seguretat de les dades personals, inclosos els fets que hi estan relacionats, els seus efectes i les mesures correctores que s’han adoptat, per tal de permetre a l’autoritat de control verificar el compliment de la notificació.

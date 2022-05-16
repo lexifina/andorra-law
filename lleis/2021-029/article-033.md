@@ -1,0 +1,10 @@
+# Article 33. Consulta prèvia
+1. El responsable ha de consultar a l’Agència Andorrana de Protecció de Dades abans de procedir al tractament si una avaluació d’impacte relativa a la protecció de les dades personals, en virtut del que disposa l’article 32, mostra que el tractament comporta un alt risc, si el responsable no pren mesures per mitigar-lo.
+2. Quan l’Agència Andorrana de Protecció de Dades consideri que el tractament a què es refereix l’apartat 1 pot infringir aquesta Llei, especialment quan el responsable no ha identificat o mitigat suficientment el risc, en un termini de vuit setmanes des de la sol·licitud de la consulta, ha d’assessorar el responsable per escrit, i si escau l’encarregat, i pot utilitzar qualsevol dels poders que li atribueix aquesta Llei. Aquest termini es pot prorrogar sis setmanes, segons la complexitat del tractament previst. L’Agència Andorrana de Protecció de Dades ha d’informar el responsable, i si escau l’encarregat, d’aquesta pròrroga, en el termini d’un mes a partir de la recepció de la sol·licitud de consulta, i indicar-li els motius de la dilació. Aquests terminis es poden suspendre fins que l’Agència Andorrana de Protecció de Dades obtingui la informació sol·licitada per a les finalitats de la consulta.
+3. Quan consulti a l’Agència Andorrana de Protecció de Dades de conformitat amb l’apartat 1, el responsable del tractament li ha de facilitar la informació següent:
+a) Si escau, les responsabilitats respectives del responsable, dels corresponsables i dels encarregats implicats en el tractament, especialment en cas de tractament dins d’un grup empresarial.
+b) Les finalitats i els mitjans del tractament previst.
+c) Les mesures i les garanties establertes per protegir els drets i les llibertats dels interessats, de conformitat amb aquesta Llei.
+d) Si escau, les dades de contacte del delegat de protecció de dades.
+e) L’avaluació d’impacte relativa a la protecció de dades personals que estableix l’article 32.
+f) Qualsevol altra informació que sol·liciti l’autoritat de control.

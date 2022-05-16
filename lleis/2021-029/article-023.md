@@ -1,0 +1,7 @@
+# Article 23. Dret a la portabilitat de les dades
+1. Amb la finalitat de reforçar encara més el control sobre les seves pròpies dades, quan el tractament s’efectua per mitjans automatitzats, la persona interessada té dret a la portabilitat de les seves dades. Aquest dret consisteix en sol·licitar, rebre i obtenir per part de la persona interessada, en un format estructurat, d’ús comú i de lectura mecànica, les dades personals que l’afecten i que ha facilitat a un responsable del tractament, incloses les dades que l’afecten derivades de la mateixa activitat del responsable del tractament, en el termini fixat per l’apartat 3 de l’article 15. Té dret a transmetre-les a un altre responsable, sense que ho impedeixi el responsable al qual les havia facilitades, quan:
+a) El tractament està basat en el consentiment, o en un contracte.
+b) El tractament s’efectua per mitjans automatitzats.
+2. En exercir el seu dret a la portabilitat de les dades d’acord amb l’apartat 1 d’aquest article, la persona interessada té dret que les dades personals es transmetin directament de responsable a responsable, quan sigui tècnicament possible.
+3. L’exercici del dret a la portabilitat de les dades s’entén sense perjudici del dret de supressió. Aquest dret no s’aplica al tractament necessari per complir una missió realitzada en interès públic o en l’exercici de poders públics conferits al responsable del tractament.
+4. L’exercici d’aquest dret no ha de perjudicar els drets i llibertats de persones diferents de la interessada.

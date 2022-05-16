@@ -1,0 +1,3 @@
+# Article 10. Tractament de dades personals relatives a condemnes i a infraccions penals
+El tractament de dades personals relatives a condemnes i a infraccions penals, o mesures de seguretat connexes, ha de cenyir-se estrictament a les dades que siguin necessàries i només es pot dur a terme quan ho autoritza la Llei o sota la supervisió de les autoritats públiques, amb salvaguardes adequades acompanyades de mesures de caràcter tècnic i organitzatiu.
+Únicament es pot portar un registre complet de les dades referides a condemnes i infraccions penals sota el control de les autoritats públiques competents en la matèria.

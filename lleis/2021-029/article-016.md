@@ -1,0 +1,17 @@
+# Article 16. Informació que s’ha de facilitar quan les dades personals s’obtenen de la persona interessada
+1. Quan les dades personals que fan referència a la persona interessada s’obtenen d’aquesta, en el moment de recollir-les el responsable del tractament li ha de facilitar la informació següent:
+a) La identitat i les dades de contacte del responsable i, si escau, del seu representant.
+b) Les dades de contacte del delegat de protecció de dades, si escau.
+c) Les finalitats del tractament a què es destinen les dades personals i de la base jurídica del tractament.
+d) Els interessos legítims del responsable o d’un tercer si el tractament és necessari per a satisfer interessos legítims perseguits pel responsable del tractament o per un tercer, sempre que no hi prevalguin els interessos o els drets i les llibertats fonamentals de la persona interessada que requereixen la protecció de les seves dades personals, especialment si la persona interessada és un menor d’edat.
+e) Els destinataris o les categories dels destinataris de les dades personals, si escau.
+f) Si escau, la intenció del responsable d’efectuar una transferència internacional de les dades personals recollides, i si hi ha o no una decisió d’adequació segons l’article 43, o, en el cas de les transferències esmentades a l’article 44 o a l’article 45, apartat 2, referència a les garanties adequades o apropiades i als mitjans per obtenir-ne una còpia, o al fet que s’hagin prestat.
+2. A més de la informació esmentada a l’apartat 1, en el moment d’obtenir les dades personals el responsable del tractament ha de facilitar a la persona interessada la informació següent, necessària per garantir un tractament de dades lleial i transparent:
+a) El termini durant el qual es conservaran les dades personals; i, si això no és possible, els criteris utilitzats per a determinar aquest termini.
+b) El dret a sol·licitar al responsable del tractament l’accés a les dades personals relatives a la persona interessada, a rectificar-les o a suprimir-les, a limitar-ne el tractament o a oposar-s’hi, així com el dret a la portabilitat de les dades.
+c) Quan el tractament està basat en la lletra a) de l’apartat 1 de l’article 6, o en la lletra a) de l’apartat 2 de l’article 9, l’existència del dret a retirar el consentiment en qualsevol moment, sense que això afecti la licitud del tractament basat en el consentiment previ a la seva retirada.
+d) El dret a presentar una reclamació davant l’autoritat de control.
+e) Si la comunicació de dades personals és un requisit legal o contractual, o bé un requisit necessari per subscriure un contracte, així com de si la persona interessada està obligada a facilitar les dades personals, essent informada en aquest cas de les possibles conseqüències de no fer-ho.
+f) L’existència de decisions automatitzades, inclosa l’elaboració de perfils; com a mínim en aquests casos, se li ha de facilitar informació significativa sobre la lògica aplicada així com la importància i les conseqüències previstes d’aquest tractament per a la persona interessada.
+3. Si el responsable del tractament preveu el tractament posterior de les dades personals per a una finalitat que no sigui aquella per a la què es van recollir inicialment, el responsable del tractament ha de proporcionar a la persona interessada informació sobre aquesta nova finalitat i qualsevol informació addicional pertinent, d’acord amb l’apartat 2.
+4. Les disposicions dels apartats anteriors no s’apliquen si, i en la mesura en què, la persona interessada ja disposa d’aquesta informació.

@@ -1,0 +1,3 @@
+# Article 66. Procediment d’urgència, mesures provisionals i de garantia dels drets
+1. En circumstàncies extraordinàries i excepcionals, si l’Agència Andorrana de Protecció de Dades considera que és urgent intervenir per protegir els drets i les llibertats de les persones interessades, pot adoptar immediatament, de manera motivada, mesures provisionals destinades a produir efectes jurídics.
+2. Durant la pràctica de les actuacions prèvies d’investigació o iniciat un procediment sancionador, l’Agència Andorrana de Protecció de Dades també pot acordar motivadament les mesures provisionals necessàries i proporcionades per salvaguardar el dret fonamental a la intimitat.

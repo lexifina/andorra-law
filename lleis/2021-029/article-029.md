@@ -1,0 +1,7 @@
+# Article 29. Representant dels responsables o encarregats del tractament no domiciliats al Principat o no constituïts conforme a les lleis del Principat d’Andorra
+1. Quan responsables o encarregats del tractament no domiciliats al Principat, o no constituïts conforme a les lleis del Principat d’Andorra, fan servir mitjans de tractament ubicats en el territori andorrà, automatitzats o no, han de designar prop de l’Agència Andorrana de Protecció de Dades un representant establert al Principat d’Andorra.
+2. L’obligació que estableix l’apartat 1 d’aquest article no s’aplica:
+a) Al tractament ocasional, que no inclou el maneig a gran escala de categories especials de dades personals, o de dades relatives a condemnes i a infraccions penals, i que és improbable que comporti un risc per als drets i les llibertats de les persones físiques, tenint en compte la naturalesa, el context, l’abast i els objectius del tractament;
+b) A les autoritats i als organismes públics.
+3. El responsable o l’encarregat del tractament ha d’encomanar al representant que atengui les consultes sobre tots els assumptes relatius al tractament.
+4. La designació d’un representant del responsable o de l’encarregat del tractament s’ha d’entendre sense perjudici de les accions que es poden emprendre contra aquest responsable o encarregat del tractament i de l’exercici per part del representant de l’acció de repetició prop de qui escaigui.

@@ -1,0 +1,18 @@
+# Article 32. Avaluació d’impacte en relació a la protecció de dades personals
+1. Quan sigui probable que un tipus de tractament, especialment si utilitza noves tecnologies, i tenint en compte la seva naturalesa, abast, context o finalitats, pot comportar un alt risc per als drets i les llibertats de les persones físiques, abans del tractament, el responsable, ja sigui públic o privat, ha d’avaluar l’impacte de les operacions de tractament en la protecció de dades personals. Una única avaluació pot abordar una sèrie d’operacions de tractament similars que comportin alts riscos similars.
+2. El responsable del tractament ha de demanar l’assessorament del delegat de protecció de dades, si l’ha designat, en el moment de realitzar l’avaluació d’impacte relativa a la protecció de dades.
+3. L’avaluació d’impacte relativa a la protecció de les dades a què es refereix l’apartat 1 s’ha de requerir, en particular, en cas de:
+a) Avaluació sistemàtica i exhaustiva d’aspectes personals de persones físiques basada en un tractament automatitzat, com l’elaboració de perfils, sobre la base de la qual es prenen decisions que produeixen efectes jurídics per a les persones físiques o que les afecten significativament de manera similar.
+b) Tractament a gran escala de les categories especials de dades a què es refereix l’article 9, o de les dades personals relatives a condemnes i infraccions penals a què es refereix l’article 10.
+c) Observació sistemàtica a gran escala d’una zona d’accés públic.
+4. L’Agència Andorrana de Protecció de Dades ha d’establir i publicar una llista dels tipus d’operacions de tractament que requereixen una avaluació d’impacte relativa a la protecció de dades, de conformitat amb l’apartat 1.
+5. L’Agència Andorrana de Protecció de Dades també pot establir i publicar la llista dels tipus de tractament que no requereixen avaluacions d’impacte relatives a la protecció de dades.
+6. L’avaluació ha d’incloure, com a mínim:
+a) Una descripció sistemàtica de les operacions de tractament previstes i de les finalitats del tractament, inclòs, si escau, l’interès legítim perseguit pel responsable del tractament.
+b) Una avaluació de la necessitat i la proporcionalitat de les operacions de tractament, en relació amb la seva finalitat.
+c) Una avaluació dels riscos per als drets i les llibertats de les persones interessades a què es refereix l’apartat 1.
+d) Les mesures previstes per afrontar els riscos, incloses garanties, mesures de seguretat i mecanismes que garanteixen la protecció de dades personals i per demostrar la conformitat amb aquesta Llei, tenint en compte els drets i interessos legítims de les persones interessades i d’altres persones afectades.
+7. El compliment dels codis de conducta pels responsables o encarregats corresponents, s’ha de tenir degudament en compte en avaluar les repercussions de les operacions de tractament efectuades per aquests responsables o encarregats, en particular a l’efecte de l’avaluació d’impacte relativa a la protecció de dades.
+8. Si escau, el responsable ha de recollir l’opinió de les persones interessades o dels seus representants en relació amb el tractament previst, sense perjudici de la protecció d’interessos públics o comercials o de la seguretat de les operacions de tractament.
+9. Si cal, el responsable ha d’examinar si el tractament es fa d’acord amb l’avaluació d’impacte relativa a la protecció de dades, com a mínim quan hi hagi un canvi del risc que representen les operacions de tractament.
+10. Reglamentàriament es fixen la resta de condicions en què s’efectua l’avaluació, així com l’escala de riscos.

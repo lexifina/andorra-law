@@ -1,0 +1,5 @@
+# Article 19. Dret de rectificació
+1. La persona interessada té dret a obtenir del responsable del tractament la rectificació de les dades personals inexactes que l’afecten, sense dilació indeguda. La correcció efectiva de les dades s’ha de comunicar a la persona interessada en el termini fixat per l’apartat 3 de l’article 15.
+2. Tenint en compte les finalitats del tractament, la persona interessada té dret a que es completin les dades personals incompletes, fins i tot mitjançant una declaració addicional.
+3. La persona interessada ha d’indicar en la seva sol·licitud a quines dades es refereix i quina correcció s’hi ha de fer. I ha d’adjuntar a la sol·licitud, quan sigui necessari, la documentació justificativa de la inexactitud o del caràcter incomplet de les dades objecte de tractament.
+4. El responsable del tractament ha de comunicar a cadascun dels destinataris als quals s’han comunicat les dades personals qualsevol rectificació d’aquestes, tret que sigui impossible o requereixi un esforç desproporcionat. Si la persona interessada ho sol·licita, el responsable l’ha d’informar sobre aquests destinataris.
