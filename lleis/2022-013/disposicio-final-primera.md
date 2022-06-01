@@ -1,0 +1,4 @@
+# Disposició final primera. Modificació de la Llei 2/2013, de 18 d’abril, de la Funció de l’estadística pública
+Es modifica l’article 19 de la Llei 2/2013, del 18 d’abril, de la Funció de l’estadística pública, que queda redactat en els termes següents:
+“Article 19. Coordinació, cooperació i obligació
+L’activitat estadística s’ha d’adequar als principis d’estricta coordinació de l’activitat estadística interna i de promoció de la cooperació i col·laboració externa, a través dels convenis i els acords de compliment obligatori en matèria estadística entre el Departament d’estadística i altres administracions públiques, organismes públics i para públiques i ens privats, amb el fi de garantir la màxima utilització de l’activitat estadística d’interès comú i d’evitar la duplicitat innecessària d’aquestes operacions.”

@@ -1,0 +1,7 @@
+# Article 17. Normalització dels registres administratius als efectes estadístics
+1. Per tal de fer efectiu i eficient el mandat establert a l’article 16.1 de la Llei 2/2013, de 18 d’abril, de la funció de l’estadística pública, i a fi de conèixer-ne el grau d’aprofitament estadístic, els responsables de l’Administració central i la comunal, els organismes públics, els organismes parapúblics i els òrgans que en depenen han de trametre al Departament d’Estadística els projectes de creació, modificació o supressió de registres o arxius administratius susceptibles d’aprofitament estadístic, i especialment els que:
+a) Permetin assolir objectius del Pla d’estadística.
+b) Es caracteritzin per la seva vocació de permanència i actualització contínua.
+c) Abastin la totalitat o una part del territori del Principat.
+d) Continguin dades o característiques sobre persones físiques o jurídiques.
+2. El Departament d’Estadística coordina les activitats de normalització relatives als registres administratius i dels sistemes d’informació que puguin servir per generar dades estadístiques. Amb aquest fi, pot fer recomanacions de caràcter tècnic, especialment en relació amb nomenclatures, classificacions, codis i altres aspectes d’homogeneïtzació estadística que els titulars de registres administratius han d’adoptar a fi d’optimitzar l’aprofitament estadístic i evitar la càrrega a les unitats informants.

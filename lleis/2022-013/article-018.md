@@ -1,0 +1,3 @@
+# Article 18. Transmissió de dades estadístiques confidencials entre òrgans del Sistema estadístic
+1. Les dades estadístiques confidencials transmeses s’han d’utilitzar exclusivament amb finalitats estadístiques i només hi pot tenir accés el personal dedicat a les mateixes dades dins el seu àmbit laboral específic, tret que les unitats estadístiques o informants hagin donat inequívocament el seu consentiment perquè es facin servir amb altres finalitats.
+2. La transmissió i la protecció de dades estadístiques confidencials s’han de garantir mitjançant la determinació de les modalitats, les normes i les condicions necessàries per accedir a aquest tipus informació.

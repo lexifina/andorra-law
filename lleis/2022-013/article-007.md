@@ -1,0 +1,2 @@
+# Article 7. Classificació de les activitats estadístiques
+Les activitats estadístiques previstes en el Pla d’estadística s’ordenen segons una adaptació de la classificació d’activitats estadístiques de la Comissió d’Estadística de les Nacions Unides. Amb caràcter general, es distingeixen els àmbits temàtics següents: les estadístiques demogràfiques; les estadístiques socials; les estadístiques econòmiques; les estadístiques sobre medi ambient; les estadístiques multiàmbit; aspectes metodològics i qüestions estratègiques.
