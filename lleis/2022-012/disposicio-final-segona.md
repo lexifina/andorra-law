@@ -1,0 +1,2 @@
+# Disposició final segona. Reglaments interns de les institucions públiques
+Correspon al Consell General, al Govern, al Consell Superior de la Justícia, al Tribunal Constitucional i als comuns establir un reglament intern de protocol i cerimonial d’acord amb els usos i costums de cada institució. Dits reglaments establiran, entre d’altres, l’ús de l’himne, dels abillaments tradicionals i de les insígnies.
