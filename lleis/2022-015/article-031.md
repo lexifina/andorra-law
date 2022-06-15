@@ -1,0 +1,7 @@
+# Article 31
+A banda de les causes previstes a l’article anterior, l’arrendador pot donar per resolt l’arrendament i demanar el desnonament de l’arrendatari per les causes següents:
+1. La manca de pagament de la renda, dels seus increments i de les quantitats complementàries assimilades a la renda per serveis, subministraments, despeses i taxes. Aquesta causa no és vàlida quan el que ha existit no és una manca de pagament, sinó una manca de cobrament per part de l’arrendador.
+2. El sotsarrendament, o la cessió total o parcial de la finca arrendada, sense autorització de l’arrendador.
+3. L’incompliment per l’arrendatari de les condicions essencials del contracte o de les que s’hagin pactat amb caràcter d’essencials.
+4. Que l’arrendatari, o les persones que introdueixi a la finca, hi ocasionin danys per dol o per imprudència temerària, o bé que hi duguin a terme, sense consentiment de l’arrendador, obres que modifiquin la configuració de la finca arrendada, o els elements comuns de l’immoble, o que debilitin la natura o la resistència dels materials emprats en la construcció.
+5. Que l’arrendatari, o les persones que hi convisquin, duguin a terme activitats que resultin notòriament immorals, perilloses, incòmodes o insalubres a l’interior de la finca arrendada o en els elements comuns. S’entén que es produeix incomoditat notòria quan l’arrendatari, amb l’activitat que duu a terme en la finca arrendada o amb la seva forma de comportar-se, públicament o privada, pertorba la pacífica convivència dels altres estadants de l’immoble.

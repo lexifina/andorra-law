@@ -1,0 +1,2 @@
+# Article 27
+Si l’arrendador o l’arrendatari incompleixen les obligacions que els imposen els articles anteriors, la part afectada per l’incompliment pot demanar la resolució del contracte i la indemnització pels danys i perjudicis que li hagi ocasionat l’incompliment, o únicament aquesta segona i deixar el contracte subsistent. Perquè pugui tenir lloc la resolució, cal que l’incompliment afecti una condició essencial del contracte.

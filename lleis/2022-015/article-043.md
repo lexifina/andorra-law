@@ -1,0 +1,2 @@
+# Article 43
+En els supòsits de nul·litat del matrimoni, separació o divorci de l’arrendatari, el seu cònjuge se subroga en el contracte d’arrendament, pel temps que falti del termini pactat, si l’òrgan judicial competent li atribueix l’ús de l’habitatge, sempre que ho notifiqui a l’arrendador de manera fefaent en el termini de dos mesos a comptar de la notificació de la resolució corresponent, i hi acompanyi una còpia de la resolució esmentada.
