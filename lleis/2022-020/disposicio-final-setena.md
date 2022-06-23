@@ -1,0 +1,3 @@
+# Disposició final setena. Desenvolupament reglamentari de la normativa relativa a l’embargament
+1. S’encomana al Govern que, en el termini màxim d’un any des de l’entrada en vigor d’aquesta Llei, aprovi un reglament, previ informe no vinculant de la Cambra de Saigs, que desenvolupi l’article 8 de la Llei de l’embargament, per tal d’establir criteris objectius i unificats en la pràctica de l’embargament aplicables a tots els saigs.
+2. S’encomana al Govern a fi que estudiï els canvis legislatius que caldria impulsar per tal d’agilitzar el procediment especial d’arrendament previst a la Llei 22/2021, del 17 de setembre, de text consolidat del Codi de procediment civil.

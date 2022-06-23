@@ -1,0 +1,6 @@
+# Article 19. Modificació de l’article 36 de la Llei 43/2014
+Es modifica l’apartat 1, i s’addiciona l’apartat 4 a l’article 36 de la Llei 43/2014, del 18 de desembre, del saig, el qual queda redactat en els termes següents:
+“Article 36. Disposicions generals
+1. Per delegació de l’autoritat judicial o administrativa i a instància de la persona executant, els saigs duen a terme l’execució forçosa de les resolucions judicials o els actes administratius que siguin executoris d’acord amb les llei aplicables, i que consisteixen en el pagament d’una quantitat líquida determinada o que esdevé determinable amb simples operacions aritmètiques, sense que l’òrgan competent hagi de fixar els paràmetres necessaris per determinar-la, per mitjà del procediment que regula aquesta Llei.
+[…]
+4. En complement de les competències establertes als apartats 1 a 3 anteriors, els saigs poden dur a terme l’execució forçosa de les costes processals, inclosos els honoraris d’advocats i procuradors, que s’imposin en els pronunciaments de les resolucions judicials fermes i definitives, en les resolucions arbitrals, en els acords de mediació elevats a escriptura pública, o en les transaccions o els convenis homologats mitjançant una resolució judicial.”

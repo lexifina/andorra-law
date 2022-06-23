@@ -1,0 +1,4 @@
+# Article 26. Modificació de l’article 44 de la Llei 43/2014
+Es modifica l’article 44 de la Llei 43/2014, del 18 de desembre, del saig, el qual queda redactat en els termes següents:
+“Article 44. Pagament
+El saig disposa d’un termini de cinc dies hàbils per sol·licitar a l’Autoritat Financera Andorrana, o a l’organisme que la pugui substituir en el futur amb les mateixes funcions, el pagament a favor de la persona executant de les sumes percebudes en el marc del procediment d’execució, llevat que aquestes sumes es corresponguin amb pagaments en el marc d’execucions d’actes administratius o pagaments fraccionats o agrupats destinats a un mateix creditor que la persona executant ha sol·licitat i s’ha convingut que es facin en un termini superior. L’Autoritat Financera Andorrana disposa del mateix termini de cinc dies hàbils per sol·licitar aquest pagament a l’entitat o a la persona dipositària que correspongui.”

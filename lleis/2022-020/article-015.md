@@ -1,0 +1,7 @@
+# Article 15. Modificació de l’article 26 de la Llei 43/2014
+Es modifiquen els apartats 4 i 5 de l’article 26 de la Llei 43/2014, del 18 de desembre, del saig, els quals queden redactats en els termes següents:
+“Article 26. Procediment disciplinari
+[…]
+4. L’òrgan disciplinari, del qual no pot formar part l’instructor designat, ha de proposar en el termini de quinze dies hàbils la resolució corresponent, la qual ha de ser motivada i no pot incloure fets diferents dels que han fonamentat el plec de càrrecs, sense perjudici de la valoració jurídica que se’n faci.
+La proposta de resolució s’adopta amb el vot favorable de la majoria dels membres de l’òrgan disciplinari, excepte el de l’instructor designat, i s’eleva al ministre competent en matèria de justícia perquè la resolgui quan es tracti de fets qualificats com a infraccions lleus i/o greus, o al Govern quan es tracti de fets qualificats com a infraccions molt greus. Si els mateixos fets poden ser constitutius de més d’una falta amb una classificació distinta, és competent per resoldre l’expedient disciplinari l’òrgan que ho sigui per raó de la falta més greu. En cas que la resolució sigui sancionadora, s’han de determinar amb precisió les infraccions comeses, els preceptes en què romanen tipificades i les sancions imposades.
+5. La resolució de l’expedient disciplinari no exhaureix la via administrativa i pot ser impugnada en els termes que estableix el Codi de l’Administració.”
