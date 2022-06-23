@@ -1,0 +1,4 @@
+# Article 4. Generalitats
+1. L’activitat inscrita en el Registre de Comerç és la d’estació de muntanya, la qual permet la realització de totes les activitats pròpies de les estacions de muntanya. Són pròpies de les estacions de muntanya les activitats esportives, turístiques o lúdiques relacionades amb l’ús del domini, sempre que no estiguin prohibides en el contracte privat o públic de cessió d’ús. En tot cas, es requereix l’autorització del propietari dels terrenys i la validació de l’Àrea competent en matèria de transport per cable.
+2. Els explotadors i els agents que intervenen en l’explotació estan obligats a complir amb els requisits específics que siguin necessaris per desenvolupar la seva activitat, com ara disposar de les titulacions específiques, entre altres.
+3. L’activitat esmentada té naturalesa mercantil i s’exerceix en condicions de llibertat d’empresa, sense perjudici del que s’estableix en aquesta Llei.

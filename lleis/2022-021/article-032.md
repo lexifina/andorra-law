@@ -1,0 +1,3 @@
+## Capítol cinquè. Règim administratiu sancionador
+# Article 32. Mesures i sancions que es poden adoptar
+Tota actuació que contradigui el que estableix aquesta Llei o les disposicions reglamentàries que la desenvolupin i totes les complementàries pot donar lloc a l’adopció de les mesures destinades a restablir l’ordre jurídic infringit o a la imposició de sancions després de la instrucció prèvia de l’expedient corresponent de conformitat amb el que està establert per la normativa vigent, sense perjudici de les responsabilitats civils, penals i de les previstes en el contracte privat o de concessió i de qualsevol altre tipus que hi puguin concórrer.

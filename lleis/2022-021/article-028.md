@@ -1,0 +1,4 @@
+# Article 28. Vianants
+1. El vianant pot fer ús dels remuntadors específicament indicats a aquest efecte. Amb el material adequat, pot usar els circuits, els recorreguts, les instal·lacions i les pistes autoritzades en el reglament intern de l’estació.
+2. Resta prohibit el trànsit de vianants per les àrees i zones no habilitades a aquest efecte per l’estació. No obstant això, i sense perjudici del que preveu l’apartat 2 de l’article 18, no es pot restringir l’accés de vianants als camins comunals o als itineraris d’interès.
+3. El reglament d’ús ha de preveure, entre altres coses, si està permès l’accés de vianants amb gossos o altres animals de companyia, si bé no pot prohibir l’accés de vianants amb gossos pigall que acompanyen les persones invidents, així com els gossos d’assistència i els animals terapèutics degudament acreditats i identificats amb el distintiu oficial corresponent.

@@ -1,0 +1,7 @@
+# Article 16. Autorització d’explotació
+1. L’autorització d’explotació es lliura després d’haver efectuat l’actuació d’acord amb el projecte aprovat segons l’informe lliurat per la direcció facultativa dels treballs, i quan les infraestructures i els equipaments estan en condicions d’ús, i requereix la verificació prèvia del seu funcionament correcte en els termes que es determinin reglamentàriament.
+2. Per a l’explotació és necessària la inscripció corresponent al Registre de Comerç.
+3. La sol·licitud per obtenir l’autorització d’explotació ha d’anar acompanyada dels documents i els certificats que s’estableixin reglamentàriament per justificar que s’han efectuat les proves i les verificacions necessàries abans de la posada en servei.
+4. L’explotació de les activitats i les infraestructures relacionades amb la pràctica de l’esquí i les activitats de muntanya requereixen, endemés de l’autorització administrativa corresponent, un reglament d’explotació i un reglament d’ús.
+5. L’administració competent té facultats inspectores sobre les condicions de manteniment i d’explotació d’aquestes activitats i infraestructures segons el que disposa l’article 33 d’aquesta Llei.
+6. L’entitat explotadora adoptarà les mesures i els mitjans adequats que permetin l’accés ordenat als remuntadors i a les zones d’embarcament i desembarcament i, en particular, el dels menors d’edat i els discapacitats.

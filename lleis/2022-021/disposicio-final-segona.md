@@ -1,0 +1,3 @@
+# Disposició final segona. Regulació de la professió de guia de muntanya
+1. S’encomana al Govern que en el termini màxim de dos anys des de l’entrada en vigor d’aquesta Llei, presenti al Consell General un projecte de Llei relatiu a la regulació de la professió de guia de muntanya i a la titulació requerida per a l’exercici de la professió referida.
+2. Mentre no entri en vigor la Llei prevista a l’apartat anterior, únicament podran exercir la professió de guia de muntanya les persones que disposin de la titulació emesa per l’Escola de Formació de Professions Esportives i de Muntanya (EFPEM) o d’una titulació equivalent.

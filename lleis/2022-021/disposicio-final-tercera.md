@@ -1,0 +1,2 @@
+# Disposició final tercera. Text consolidat
+S’encomana al Govern, en els termes previstos a l’article 116 del Reglament del Consell General, que en el termini màxim de sis mesos des de l’entrada en vigor d’aquesta Llei presenti al Consell General el projecte de consolidació de la Llei 18/2016, del 30 de novembre, de designació de carreteres i gestió de la xarxa viària, amb la incorporació de totes les modificacions que s’hi han produït.

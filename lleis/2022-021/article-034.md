@@ -1,0 +1,4 @@
+# Article 34. Òrgans competents i procediment sancionador
+1. La competència per acordar la incoació dels expedients sancionadors i la imposició de les sancions previstes en aquesta Llei correspon al ministeri encarregat del transport per cable, que també és competent per adoptar les mesures cautelars que siguin procedents i refermar-les, segons el que disposa l’article 33 d’aquesta Llei.
+2. Les infraccions no poden ser objecte de sanció sense la instrucció prèvia del procediment administratiu corresponent per part del ministeri competent en matèria de transport per cable, sense perjudici de les responsabilitats d’una altra mena que hi puguin concórrer.
+3. El procediment sancionador s’ha de tramitar d’acord amb el que disposen el Codi de l’Administració i el Reglament regulador del procediment sancionador.

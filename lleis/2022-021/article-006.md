@@ -1,0 +1,4 @@
+## Capítol segon. Delimitació de la superfície d’una estació de muntanya
+# Article 6. Domini d’una estació de muntanya
+1. Es considera domini d’una estació de muntanya el territori de muntanya en què l’estació du a terme la seva activitat. Pot abastar les àrees d’activitat, les instal·lacions mecàniques i els edificis de serveis de l’estació.
+2. Quan el domini de l’estació de muntanya és, en tot o en part, de titularitat pública i no l’explota l’administració pública titular del terreny, la part de terreny de titularitat pública ha de ser objecte de concessió. La concessió ha de delimitar el terreny sobre el que es projecta i les facultats que hi pot exercir el concessionari. Quan el domini de l’estació és, en tot o en part, de titularitat privada, l’explotador ha de gaudir de la propietat o d’un dret d’ús del terreny de titularitat privada, que s’ha de formalitzar en document notarial, d’acord amb el dret privat.

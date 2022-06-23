@@ -1,0 +1,6 @@
+# Article 15. Autorització d’actuacions en el domini d’una estació de muntanya
+1. Es consideren actuacions els treballs de creació, ampliació o modificació d’una estació de muntanya amb les infraestructures i els equipaments necessaris.
+2. Totes les actuacions que comportin la modificació de l’estat natural del terreny, moviments de terra, tala d’arbres, obertura de pistes o camins i la construcció o instal·lació de qualsevol mena estan sotmeses a l’atorgament d’una llicència urbanística, sense perjudici d’altres autoritzacions escaients.
+3. La sol·licitud ha d’anar acompanyada d’un projecte d’execució dels treballs i, si escau, de la documentació requerible d’acord a la normativa vigent en el domini de l’estació de muntanya. El contingut del projecte s’estableix reglamentàriament.
+4. El Govern ha d’establir reglamentàriament les condicions per a la construcció de remuntadors i altres instal·lacions mecàniques. La normativa inclou la regulació de qualsevol transformació, modificació, reconstrucció i substitució d’elements dels remuntadors.
+5. L’explotador, el constructor i el director d’obra, cadascun per la part que els afecta, han d’assegurar-se que els remuntadors estan construïts, i mantinguts, de conformitat amb la reglamentació en vigor.

@@ -1,0 +1,3 @@
+# Article 22. Controls, modificacions, millores i revisions
+1. El departament competent del Govern pot exigir la introducció de millores, controls, modificacions o revisions a les instal·lacions i activitats existents, seguint els criteris adoptats en altres països o després d’incidents o accidents ocorreguts en instal·lacions similars, amb l’objectiu de garantir la seguretat.
+2. Totes les transformacions, modificacions, reconstruccions d’instal·lacions i substitucions d’elements, així com la modificació de l’explotació de les activitats i les infraestructures relacionades amb la pràctica de l’esquí i les activitats de muntanya, han de respectar igualment la normativa esmentada anteriorment.

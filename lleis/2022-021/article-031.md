@@ -1,0 +1,5 @@
+# Article 31. Infraccions i sancions
+1. La pràctica de qualsevol activitat regulada en el domini sense forfet, quan el forfet sigui preceptiu, comporta l’obligació de l’usuari de satisfer un import equivalent a tres vegades el preu del forfet diari corresponent a l’activitat efectuada.
+2. Sense perjudici de les responsabilitats penals que escaiguin, la utilització d’un forfet per una persona diferent del seu titular, o la manipulació del forfet per alterar les característiques de la seva emissió, o el consentiment del titular per a qualsevol de les conductes anteriors, comporta la retirada immediata i una sanció econòmica del triple del seu valor.
+3. En cas d’una utilització abusiva o fraudulenta del forfet, el personal acreditat de l’estació el pot retirar immediatament i pot prohibir la utilització de les instal·lacions i la circulació per les pistes, sense perjudici de les accions legals que pugui exercir l’estació.
+4. L’explotador nega l’accés al domini i procedeix a la retirada o inutilització immediata del forfet als usuaris que incompleixen les obligacions que els imposen aquesta Llei i el reglament intern de l’estació.

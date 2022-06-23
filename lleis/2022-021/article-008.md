@@ -1,0 +1,11 @@
+# Article 8. Àrea esquiable
+1. Per a la pràctica de l’esquí alpí, es considera àrea esquiable la zona de l’estació a la qual s’accedeix mitjançant els remuntadors i dins de la qual, practicant l’esquí alpí i altres activitats de muntanya autoritzades per l’estació, és possible el retorn per gravetat a la base de l’estació o a un altre remuntador, d’acord amb les àrees regulades d’activitat segons el reglament intern de l’estació.
+2. Per a la pràctica de l’esquí nòrdic, es considera àrea esquiable la zona de l’estació dins de la qual, practicant l’esquí nòrdic i altres activitats de muntanya autoritzades per l’estació, és possible el retorn per lliscament tant a la base com a d’altres punts d’accés de l’estació, d’acord amb les àrees regulades d’activitat segons el reglament intern de l’estació.
+3. Les pistes d’esquí es classifiquen en pistes d’esquí alpí i pistes d’esquí nòrdic.
+4. Les estacions poden compaginar l’esquí alpí amb l’esquí nòrdic sempre que les pistes respectives estiguin degudament separades les unes de les altres.
+5. Només es pot esquiar en les pistes obertes prèviament per l’estació.
+6. Les pistes d’esquí han d’estar senyalitzades, preparades i en situació d’obertura o tancament en funció de les condicions del terreny o meteorològiques.
+7. El Govern regula per via reglamentària les qüestions relacionades amb el condicionament de les pistes, la classificació i la senyalització de les pistes segons la seva dificultat, així com la protecció dels obstacles i dels llocs especialment perillosos.
+8. Per a la pràctica de l’esquí nòrdic, l’estació d’esquí pot comptar amb pistes i itineraris d’esquí nòrdic.
+9. Les pistes i els itineraris regulats d’esquí nòrdic tenen el recorregut senyalitzat i reservat per a la pràctica d’aquest tipus d’esquí.
+10. Els itineraris no regulats d’esquí nòrdic poden no estar necessàriament preparats ni disposar de cap servei d’obertura, ni de tancament ni de vigilància. Aquests recorreguts són aptes només per a usuaris experts i el seu ús recau sota la seva responsabilitat o la del seu professor o guia, encara que hi hagi rètols informatius. Els usuaris són responsables d’informar-se prèviament de l’estat de la neu i del risc d’allaus informat per l’estació.

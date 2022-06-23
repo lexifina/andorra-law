@@ -1,0 +1,2 @@
+# Disposició derogatòria
+Amb l’entrada en vigor d’aquesta Llei queden derogades les disposicions de rang igual o inferior que s’hi oposin i en concret la Llei relativa a les estacions d’esquí i les instal·lacions de transport per cable, del 9 de novembre del 2000, i el Decret del 18-12-2020 d’aprovació del Reglament dels requisits per practicar esports de neu altres que l’esquí alpí i l’esquí nòrdic a les estacions d’esquí.
