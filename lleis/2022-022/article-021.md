@@ -1,0 +1,4 @@
+# Article 21. Protecció del notificador
+1. La notificació voluntària no donarà lloc a la imposició d’obligacions addicionals a l’entitat notificant a les quals no estaria subjecta de no haver presentat aquesta notificació.
+2. El DSI que faci la notificació, tingui relació laboral o mercantil amb l’entitat que l’ha nomenat, o la persona que notifiqui en el cas d’entitats no obligades, en cap cas pot patir conseqüències negatives en el seu lloc de treball o en la seva relació amb l’entitat a causa que procedeixi a notificar un incident d’acord amb el que es disposa en aquesta Llei, a excepció d’aquells casos en els quals quedi acreditada una mala fe en la seva actuació.
+3. Són nul·les i sense efecte legal totes aquelles decisions del patró que es prenguin en perjudici o detriment dels drets laborals dels treballadors que hagin actuat de conformitat amb el que es disposa a l’article 15 o l’article 16.

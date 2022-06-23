@@ -1,0 +1,3 @@
+# Article 19. Representant al Principat d’Andorra
+1. Si una entitat que presta serveis essencials o importants al Principat d’Andorra no està establerta en aquest, designarà un representant al Principat d’Andorra que estigui sotmès a la jurisdicció del país. En absència d’aquest representant, l’ANC-AD podrà identificar l’entitat essencial o important, informar-la de les seves obligacions recollides en aquesta Llei i emprendre accions legals contra ella per l’incompliment d’aquestes.
+2. La designació d’un representant per una entitat prevista a l’apartat 1 s’entendrà sense perjudici de les accions legals que puguin emprendre’s contra la pròpia entitat.

@@ -1,0 +1,4 @@
+# Article 32. Expedient sancionador
+1. La constatació d’una infracció per part de l’autoritat nacional competent que correspongui comporta la incoació de l’expedient sancionador corresponent per part de l’autoritat que disposa de la potestat sancionadora, d’acord amb el que disposi la normativa vigent en cada moment en matèria de procediments administratius sancionadors. No obstant això, el termini màxim de durada del procediment és d’un any, mentre que el termini d’al·legacions no pot tenir una durada inferior als sis mesos indicats a l’article 23.6.
+2. S’atorga a les actes de l’ANC-AD la presumpció d’exactitud, llevat de prova en contra.
+3. Contra les resolucions dictades per l’autoritat que disposa de la potestat sancionadora es pot interposar recurs, d’acord amb el que disposi la normativa en vigor en cada moment en matèria de recursos administratius.

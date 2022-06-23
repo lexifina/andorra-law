@@ -1,0 +1,2 @@
+# Disposició addicional. Encomana al Govern
+S’encomana al Govern que, en el termini màxim de divuit mesos a comptar de l’entrada en vigor d’aquesta Llei, avaluï la conveniència de constituir o no una entitat amb personalitat jurídica pròpia que assumeixi funcions diverses en matèria de digitalització, o relacionades amb aquesta matèria, incloent-hi l’Agència Nacional de Ciberseguretat del Principat d’Andorra (ANC-AD) i l’equip de referència de resposta del Principat d’Andorra per al tractament d’incidents de ciberseguretat (CSIRT-AD).

@@ -1,0 +1,29 @@
+# Article 12. Obligacions de ciberseguretat de les entitats essencials i importants
+1. Les entitats essencials i importants sotmeses a l’àmbit d’aplicació d’aquesta Llei han d’adoptar mesures tècniques i d’organització que resultin de gestionar els riscos que es plantegin en relació amb la seguretat de les infraestructures crítiques, i de les xarxes i els sistemes d’informació utilitzats en la prestació dels serveis essencials i importants, tant si es tracta d’infraestructures crítiques, xarxes i sistemes propis, com de proveïdors externs. Així mateix, han de tenir en compte, en particular, la dependència de les infraestructures crítiques, de les xarxes i dels sistemes d’informació amb la continuïtat de serveis o subministraments contractats per l’entitat, així com les interaccions que realitzin amb infraestructures, xarxes i sistemes d’informació de tercers, i els riscos que es derivin del tractament de les dades personals, d’acord amb el que disposi la normativa andorrana vigent en cada moment en matèria de protecció de dades personals i, si escau, la normativa de la Unió Europea vigent en cada moment en matèria de protecció de dades personals.
+Sense perjudici del seu deure de notificar incidents de conformitat amb l’establert a l’article 15, les entitats essencials i importants han de prendre les mesures adequades i proporcionals que els siguin aplicables d’acord amb el previst a l’Esquema Nacional de Seguretat a què fa referència aquesta Llei, sense perjudici de poder ser complementades amb mesures d’altres estàndards reconeguts en l’àmbit internacional.
+2. Addicionalment, les entitats crítiques han de prendre mesures tècniques i organitzatives adequades i proporcionades per garantir la resiliència de les seves infraestructures crítiques, incloses les mesures necessàries per:
+a) Evitar que es produeixin incidents, fins i tot mitjançant mesures de reducció del risc de desastres i d’adaptació climàtica;
+b) Garantir una protecció física adequada de les zones, instal·lacions i altres infraestructures sensibles, incloses les tanques, les barreres, les eines i les rutines de control perimetral, així com els equips de detecció i els controls d’accés;
+c) Resistir i mitigar les conseqüències dels incidents, inclosa la implementació de procediments i protocols de gestió de riscos i crisis i rutines d’alerta;
+d) Recuperar-se dels incidents, incloses les mesures de continuïtat del negoci i la identificació de cadenes de subministrament alternatives;
+e) Garantir una gestió adequada de la seguretat dels empleats, inclòs l’establiment de categories de personal que exerceixen funcions crítiques degut als seus drets d’accés a zones, instal·lacions i altres infraestructures sensibles i a informació sensible, sobre les quals cal presentar a l’autoritat nacional competent un informe que inclogui:
+i. La identitat de la persona establerta sobre la base de proves documentals;
+ii. Qualsevol antecedent penal d’almenys els cinc anys anteriors, i durant un màxim de deu anys, sobre delictes rellevants per a la contractació en un lloc específic, al Principat d’Andorra o tercers països de residència durant aquest període de temps;
+iii. Ocupacions anteriors, formació i qualsevol manca de formació o ocupació al currículum de la persona durant, com a mínim, els cinc anys anteriors i durant un màxim de deu anys; i
+iv. Qualsevol altra informació objectiva disponible que pugui ser necessària per determinar la idoneïtat de la persona interessada per treballar en el lloc en relació amb el qual l’entitat crítica ha sol·licitat informació.
+f) Sensibilitzar el personal pertinent sobre les mesures esmentades en les lletres a) a e).
+3. Les mesures que s’adoptin han de ser relacionades i formalitzades en una declaració d’aplicabilitat de mesures de seguretat que les entitats han de remetre a l’autoritat nacional competent en el termini de sis mesos a comptar de la identificació de l’entitat com a entitat essencial o important, d’acord amb l’article 10 o des de l’entrada en vigor de l’Esquema Nacional de Seguretat, el que succeeixi més tard, la qual serà objecte de revisió, almenys, cada tres anys.
+4. Les entitats essencials i importants han d’adoptar polítiques de seguretat de les infraestructures crítiques, xarxes, i sistemes d’informació necessaris per prestar els seus serveis essencials i importants atesos els principis de seguretat integral, gestió de riscos, prevenció, resposta i recuperació, línies de defensa, reavaluació periòdica i segregació de tasques.
+Les polítiques de seguretat de les infraestructures crítiques, les xarxes i sistemes d’informació han de contenir, com a mínim, els següents factors:
+a) Anàlisi i gestió de riscos.
+b) Gestió de riscos de tercers o proveïdors.
+c) Catàleg de mesures de seguretat, organitzatives, tecnològiques i físiques.
+d) Gestió del personal i professionalitat.
+e) Adquisició de productes o serveis de seguretat.
+f) Detecció i gestió d’incidents.
+g) Plans de recuperació i assegurament de la continuïtat de les operacions.
+h) Millora contínua.
+i) Interconnexió de sistemes.
+j) Registre de l’activitat dels usuaris.
+5. Les autoritats nacionals competents podran establir obligacions específiques per garantir la seguretat de les infraestructures crítiques, les xarxes i els sistemes d’informació emprats per les entitats que proveeixen serveis essencials o importants. Així mateix, podran dictar instruccions tècniques i guies orientatives per detallar el contingut d’aquestes instruccions i guies.
+6. Per a l’elaboració de disposicions reglamentàries, instruccions i guies, l’autoritat nacional competent tindrà en compte totes aquelles obligacions sectorials i requisits en matèria de seguretat de la informació als quals estiguin sotmesos els operadors als quals els hi són aplicables les disposicions d’aquesta Llei.
