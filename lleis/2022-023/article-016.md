@@ -1,0 +1,2 @@
+# Article 16. Recursos
+Contra els actes emanats dels òrgans de l’FNJA es pot interposar recurs de reposició davant el mateix òrgan que els ha dictat, en el termini de 13 dies hàbils a comptar de la notificació o publicació a la plataforma de l’FNJA de l’acte que es vol recórrer. Un cop esgotada aquesta via, segons les disposicions del Codi de l’Administració, del 29 de març de 1989, quedarà expedita la via contenciosa administrativa, d’acord amb la Llei de jurisdicció administrativa i fiscal, del 15 de novembre de 1989.
