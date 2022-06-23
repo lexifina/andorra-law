@@ -1,0 +1,5 @@
+# Disposició final primera. Desenvolupament i execució de la Llei
+1. S’encomana al Govern la redacció de les disposicions i dels reglaments necessaris per al desenvolupament i l’execució de la present Llei en el termini de sis mesos des de la seva entrada en vigor.
+2. Els models de declaració de l’Impost sobre les estades en allotjaments turístics es fixen per reglament, el qual ha d’establir, a més de la forma, el lloc i els terminis per presentar-los, els supòsits i les condicions de la seva presentació per mitjans telemàtics.
+3. Es delega al ministeri encarregat de les finances la gestió i recaptació de l’Impost sobre les estades en allotjaments turístics que regula la present Llei.
+4. Durant els sis primers mesos d’aplicació de l’Impost sobre les estades en allotjaments turístics, els obligats tributaris podran fer consultes relatives exclusivament a la interpretació de l’articulat de la Llei, que haurà de contestar el ministeri encarregat de les finances en un termini màxim de sis mesos i que tindran caràcter vinculant. El Govern establirà reglamentàriament els termes i l’abast en què es podran efectuar aquestes consultes.

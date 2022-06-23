@@ -1,0 +1,3 @@
+# Article 6. Responsables solidaris
+Responen solidàriament de l’ingrés dels deutes tributaris corresponents a les quotes meritades pels contribuents d’aquest impost totes les persones físiques o jurídiques que contracten directament en nom dels contribuents i fan d’intermediàries entre aquests i els allotjaments turístics a què es refereix l’article 3.
+Aquesta responsabilitat s’ha d’entendre al marge de la possibilitat que les persones físiques o jurídiques intermediàries actuïn com a representants dels contribuents pel que fa al pagament de l’impost, als efectes del que preveu l’article 8, en les condicions que s’estableixin per reglament.

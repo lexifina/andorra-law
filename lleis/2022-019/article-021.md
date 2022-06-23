@@ -1,0 +1,3 @@
+# Article 21. Dotació del Fons per a l’impuls del turisme
+1. El Fons es dota amb els ingressos obtinguts de l’Impost sobre les estades en allotjaments turístics. Aquesta dotació queda afectada a les despeses relacionades directament amb els objectius establerts per l’article 22.
+2. Els ingressos derivats dels recàrrecs previstos a la Llei de bases de l’ordenament tributari per presentació extemporània d’autoliquidacions relacionades amb aquest impost, així com els interessos moratoris que puguin ser d’aplicació, no s’integren en aquest fons i, per tant, no queden afectats a les finalitats que s’hi determinen.

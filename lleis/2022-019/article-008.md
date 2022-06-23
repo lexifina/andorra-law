@@ -1,0 +1,3 @@
+# Article 8. Exigibilitat de l’impost
+1. El substitut ha d’exigir l’impost al contribuent en qualsevol moment des de la seva meritació fins a la finalització de l’estada en l’allotjament turístic, llevat que l’impost hagi estat satisfet prèviament per una persona o entitat intermediària actuant com a representant de l’obligat tributari, en els termes i les condicions que s’especifiquin reglamentàriament.
+2. El contribuent ha de comunicar al substitut els elements necessaris per determinar la quota tributària, i li ha de facilitar, si escau, la documentació justificativa de l’aplicació de qualsevol de les exempcions previstes a l’article 4.

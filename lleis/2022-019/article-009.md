@@ -1,0 +1,8 @@
+# Article 9. Concepte i determinació de la base de tributació
+1. La base de tributació està constituïda pel nombre de dies de què consta cada període d’estades del contribuent en els allotjaments turístics a què es refereix l’article 3.
+2. La base de tributació es determina pel mètode de determinació directa i, subsidiàriament, pel mètode d’estimació indirecta, d’acord amb el que disposa, en aquest últim cas, l’article 43 de la Llei 21/2014, del 16 d’octubre, de bases de l’ordenament tributari.
+3. En el mètode de determinació directa, s’entén que són dies d’estada els dies o les fraccions que comporta l’estada continuada del contribuent en el mateix allotjament turístic, en els termes que s’estableixin reglamentàriament.
+4. L’Administració tributària pot aplicar el mètode d’estimació indirecta en els casos en què el substitut del contribuent no presenta l’autoliquidació de l’impost o presenta autoliquidacions incompletes o inexactes i no aporta les dades d’ocupació de l’establiment o equipament turístic que explota. En aquest cas, el nombre de dies d’estada es determina, preferentment, i sens perjudici de la utilització dels altres mitjans establerts per la legislació vigent, pels mitjans següents:
+a) A partir de les dades estadístiques d’ocupació dels allotjaments turístics del mateix tipus situats al Principat d’Andorra.
+b) A partir de les dades procedents d’estudis del sector fets per organismes públics o per organitzacions privades d’acord amb tècniques estadístiques adequades.
+Les dades obtingudes per fer l’estimació indirecta del nombre de dies d’estada s’han de referir, preferentment, a l’any del període de declaració que es pretén regularitzar.
