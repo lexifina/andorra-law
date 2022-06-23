@@ -1,0 +1,2 @@
+# Disposició transitòria primera
+Els membres de l’òrgan de govern del Col·legi Oficial d’Òptics Optometristes d’Andorra, en el termini de sis mesos des de l’entrada en vigor d’aquesta Llei, han de convocar una assemblea general extraordinària, que tindrà el caràcter d’assemblea constituent del COOOA, la qual ha d’aprovar els estatuts definitius del Col·legi i escollir les persones que ocuparan els càrrecs corresponents en els òrgans de govern de la institució.

@@ -1,0 +1,2 @@
+# Disposició transitòria quarta
+D’acord amb les disposicions reguladores de l’exercici de professions titulades i de col·legis i associacions professionals, l’obligació de col·legiació es produeix quan entri en vigor aquesta Llei per a les persones que en aquell moment estiguin exercint tasques pròpies de l’òptica i l’optometria i estiguin en possessió de la titulació acadèmica exigida. Aquests dos requisits s’han d’acreditar davant la Junta de Govern en el termini de sis mesos a comptar de l’entrada en vigor d’aquesta Llei.
