@@ -1,0 +1,2 @@
+# Disposició addicional segona. Codis de conducta i bones pràctiques
+El Consell General i els comuns, en el termini màxim d’un any a partir de l’entrada en vigor d’aquesta Llei, han de dictar els codis de conducta i bones pràctiques que regulin els supòsits d’incompatibilitats i de conflictes d’interessos aplicables, respectivament, als consellers generals, i als cònsols major i menor i consellers de comú, i establir-ne altres d’addicionals, si escau, i determinar les conseqüències d’incomplir-los.

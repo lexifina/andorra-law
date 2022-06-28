@@ -1,0 +1,4 @@
+## Capítol segon. Participació ciutadana
+# Article 32. Dret a la participació ciutadana
+1. A l’efecte del que preveu l’article 29.1.c), la participació ciutadana és el dret dels ciutadans a intervenir, de manera directa o indirecta, en les polítiques públiques a través de la deliberació i la cerca del consens, per mitjà de la presentació de propostes i suggeriments.
+2. El dret a la participació ciutadana previst en aquesta Llei pot exercitar-se, davant l’Administració general i els òrgans que en depenen o que estan sota la seva direcció, a través de diversos processos, i dels òrgans, mitjans i canals de participació que s’estableixin per reglament, i s’entén sense perjudici de les competències dels comuns en matèria de participació ciutadana, de les iniciatives legislatives populars previstes a la Constitució i al Reglament del Consell General, i dels referèndums regulats a la Llei qualificada del règim electoral i del referèndum.

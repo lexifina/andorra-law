@@ -1,0 +1,6 @@
+## Títol I. Disposicions generals
+# Article 1. Objecte i finalitat
+1. Aquesta Llei té per objecte:
+a) ampliar i reforçar la transparència de l’activitat administrativa, així com regular i garantir el dret d’accés de les persones a la informació i documentació públiques.
+b) establir les obligacions de declaració de patrimoni dels càrrecs polítics electes; els membres i els alts càrrecs del Govern; els ambaixadors al capdavant d’una ambaixada o d’una missió diplomàtica del Principat d’Andorra, els caps de les missions diplomàtiques i els caps de les oficines consulars; els càrrecs directius dels organismes públics, de les entitats parapúbliques i de les societats i entitats associatives i fundacionals públiques, siguin generals o comunals; els membres del Consell Superior de la Justícia i del Tribunal Constitucional; els membres de la carrera judicial i del Ministeri Fiscal; i el Raonador del Ciutadà.
+2. La finalitat d’aquesta Llei és establir un sistema de relació entre les persones i l’Administració pública i els altres subjectes obligats, fonamentat en el coneixement de l’activitat pública, la incentivació de la participació ciutadana i la millora de la qualitat de la informació pública i de la gestió administrativa.

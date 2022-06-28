@@ -1,0 +1,4 @@
+# Disposició final cinquena. Desenvolupament reglamentari
+1. S’encomana al Govern l’adaptació de la reglamentació general per tal d’acomodar-la a les disposicions d’aquesta Llei, i en particular, del Reglament organitzatiu de la Comissió d’Accés i Avaluació de la Documentació (CAAD), del 9 de setembre del 2015 i del Reglament de l’organització i el funcionament del Sistema d’Arxius i de l’Àrea d’Arxius del Govern d’Andorra, del 6 d’abril del 2005, als efectes d’adequar-los a la composició i funcions consultives i d’assessorament de la CNAAD segons previstes per aquesta Llei i d’establir les seves normes d’organització i de funcionament.
+2. S’encomana al Govern l’elaboració de la reglamentació relativa a les eines, instruments i mitjans de participació i col·laboració ciutadana.
+3. El text dels reglaments en mèrits dels apartats anteriors ha de ser aprovat i publicat en un termini no superior a quatre mesos des de la data d’entrada en vigor d’aquesta Llei.

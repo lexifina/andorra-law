@@ -1,0 +1,2 @@
+# Article 9. Principis generals d’accés
+Les administracions públiques han d’adoptar les mesures necessàries per garantir el compliment del dret d’accés a la informació pública establint un sistema de gestió de documents, informació i dades integrat que permeti la interoperabilitat entre les administracions públiques, la localització de qualsevol document o informació i la vinculació automàtica de cada document o conjunt de dades al seu règim d’accés i publicitat.

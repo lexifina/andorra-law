@@ -1,0 +1,2 @@
+# Article 35. Mesures de participació dels infants i adolescents
+L’Administració general i els òrgans que en depenen o que estan sota la seva direcció han de promoure la participació dels infants i adolescents a través de la posada en marxa d’òrgans de participació compostos per aquests col·lectius, i han d’establir mecanismes de seguiment de les opinions i el benestar subjectiu dels infants i adolescents, que permetin als responsables públics d’identificar els seus problemes i expectatives.

@@ -1,0 +1,3 @@
+# Disposició transitòria tercera. Modificacions estatutàries i associacions i agrupacions de persones
+1. En el termini màxim de sis mesos des de l’entrada en vigor d’aquesta Llei, els partits polítics han d’adaptar els seus estatus a les modificacions introduïdes, per la disposició final quarta, a la Llei qualificada de partits polítics i finançament electoral.
+2. Les disposicions de l’article 23.3 de la Llei 19/2014, del 18 de setembre, qualificada de partits polítics i finançament electoral, introduïdes per la disposició final quarta, són aplicables a les associacions i a les agrupacions de persones que s’hi preveuen a partir de les primeres eleccions, generals o comunals segons correspongui, que se celebrin després de l’entrada en vigor d’aquesta Llei.

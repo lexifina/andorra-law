@@ -1,0 +1,2 @@
+# Disposició transitòria segona. Declaracions de patrimoni
+Les persones que a la data d’entrada en vigor d’aquesta Llei siguin titulars d’algun dels càrrecs definits a l’article 3.3 han d’efectuar la declaració prevista a l’article 28 en el termini màxim de sis mesos des de la data esmentada. La declaració ha d’incloure la relació dels béns i drets propis dels quals són titulars a la data de la formulació i dipòsit de la declaració.
