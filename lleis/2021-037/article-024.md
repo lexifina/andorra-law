@@ -1,0 +1,4 @@
+# Article 24. Incorporació de la disposició addicional cinquena
+S’incorpora una disposició addicional cinquena a la Llei 14/2017, del 22 de juny, de prevenció i lluita contra el blanqueig de diners o valors i el finançament del terrorisme, que queda redactada en els termes següents:
+“Disposició addicional cinquena. Accés a la informació sobre propietats immobiliàries a Andorra
+La UIFAND pot accedir, en l’exercici de les seves competències, a la informació i la documentació notarial i cadastral que pugui identificar qualsevol persona física o jurídica o qualsevol fideïcomís o instrument jurídic anàleg que sigui propietari de béns immobles en territori andorrà. La informació també serà accessible per a les autoritats nacionals competents en matèria de prevenció, detecció, investigació o persecució del blanqueig de diners o valors, el finançament del terrorisme i altres delictes relacionats, pel compliment de les obligacions que els imposa aquesta Llei.”

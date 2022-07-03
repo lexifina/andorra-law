@@ -1,0 +1,6 @@
+# Article 15. Modificació de l’article 37
+Es modifica l’apartat 1 de l’article 37 de la Llei 14/2017, del 22 de juny, de prevenció i lluita contra el blanqueig de diners o valors i el finançament del terrorisme, que queda redactat en els termes següents:
+“Article 37. Període de conservació de documents
+1. Els subjectes obligats han de conservar, durant un període de cinc anys, tota la documentació, les dades i la informació que aquesta Llei requereix obtenir, els justificants i els registres de les transaccions i les operacions, la informació dels comptes i la correspondència comercial, així com els resultats de totes les anàlisis efectuades, inclosa, si escau, la informació obtinguda per mitjans d’identificació electrònica pertinents d’acord amb la Llei de certificació i confiança electrònica vigent.
+El període de conservació es computa des de la finalització de la relació de negocis o des de la data de l’operació ocasional.
+En aquesta documentació s’han d’incloure les informacions sobre la identitat del client, la naturalesa i la data de la transacció, l’origen dels fons, el tipus de divisa i l’import de la transacció i el propòsit i l’índole de la relació comercial amb el client.”

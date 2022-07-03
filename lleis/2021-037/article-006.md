@@ -1,0 +1,7 @@
+# Article 6. Modificació de l’article 9
+Es modifiquen les lletres a) i b) de l’apartat 1 de l’article 9 de la Llei 14/2017, del 22 de juny, de prevenció i lluita contra el blanqueig de diners o valors i el finançament del terrorisme, que queden redactades en els termes següents:
+“Article 9. Abast de les mesures de diligència deguda
+1. […]
+a) la identificació del client i la verificació de la seva identitat sobre la base de documents, dades o informacions obtinguts de fonts fiables i independents, inclosos, quan estiguin disponibles, mitjans d’identificació electrònica pertinents d’acord amb la Llei de certificació i confiança electrònica vigent;
+b) la identificació del beneficiari efectiu i l’adopció de mesures raonables per verificar-ne la identitat, utilitzant documents, dades o informacions obtinguts de fonts fiables i independents, de manera que el subjecte obligat conegui qui és el beneficiari efectiu. Així mateix, pel que fa a les persones jurídiques, fideïcomisos, societats, fundacions i estructures jurídiques similars, l’adopció de mesures raonables a fi de comprendre l’estructura de propietat i control del client.
+Quan el beneficiari efectiu identificat sigui la persona que actuï com a conseller delegat o amb poders executius equivalents per aplicació de l’incís iii de la lletra a) de l’apartat 3 de l’article 3 d’aquesta Llei, els subjectes obligats prenen les mesures raonables necessàries per verificar-ne la identitat i consignen en els registres les mesures preses i qualsevol dificultat trobada durant el procés de verificació.”

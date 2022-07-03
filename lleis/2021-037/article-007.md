@@ -1,0 +1,7 @@
+# Article 7. Modificació de l’article 10
+Es modifiquen els apartats 1 i 5 de l’article 10 de la Llei 14/2017, del 22 de juny, de prevenció i lluita contra el blanqueig de diners o valors i el finançament del terrorisme, que queden redactats en els termes següents:
+“Article 10. Verificació de la identitat del client i del beneficiari efectiu
+1. Els subjectes obligats verifiquen la identitat del client i del beneficiari efectiu abans que s’estableixi una relació de negocis o que es dugui a terme una operació.
+En establir una nova relació de negocis amb una societat o una altra entitat jurídica, o amb un fideïcomís o un instrument jurídic d’estructura o funcions anàlogues, que hagin d’obtenir, conservar i subministrar informació relativa als beneficiaris efectius, els subjectes obligats requereixen la prova del Registre competent o un extracte d’aquest.
+[…]
+5. Els subjectes obligats han d’aplicar els procediments de diligència deguda respecte dels clients existents en el moment oportú, en funció de l’anàlisi del seu risc, o quan canviïn les circumstàncies del client, o quan el subjecte obligat tingui l’obligació legal, en el transcurs de l’any natural corresponent, de contactar amb el client per tal de revisar qualsevol informació rellevant relativa als beneficiaris efectius o en aplicació de les obligacions que estableix la Llei 19/2016, del 30 de novembre, d’intercanvi automàtic d’informació en matèria fiscal.”

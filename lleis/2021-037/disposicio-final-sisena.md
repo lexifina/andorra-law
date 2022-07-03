@@ -1,0 +1,2 @@
+# Disposició final sisena
+Aquesta Llei entrarà en vigor l’endemà de la seva publicació, a excepció dels articles 12 i 23, els quals entraran en vigor als sis mesos de la seva publicació al Butlletí Oficial del Principat d’Andorra. Les modificacions introduïdes per l’apartat 2 de la disposició final primera i per la disposició final quarta són aplicables en relació amb els exercicis que finalitzin a partir del 31 de desembre del 2020.

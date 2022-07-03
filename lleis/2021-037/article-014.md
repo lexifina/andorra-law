@@ -1,0 +1,6 @@
+# Article 14. Modificació de l’article 25
+Es modifica l’apartat 1 i s’incorpora l’apartat 5 a l’article 25 de la Llei 14/2017, del 22 de juny, de prevenció i lluita contra el blanqueig de diners o valors i el finançament del terrorisme, que queden redactats en els termes següents:
+“Article 25. Protecció dels subjectes obligats
+1. La UIFAND i qualsevol altra autoritat administrativa o judicial adopta totes les mesures adequades per protegir els subjectes obligats de qualsevol amenaça, mesura de represàlia o acció hostil derivada del compliment de les obligacions que imposa aquesta Llei i, en particular, de tota mesura laboral adversa o discriminatòria. En particular, es manté la confidencialitat sobre la identitat del subjecte obligat i els empleats que han intervingut en les declaracions de sospita i en tots els procediments administratius i judicials amb origen en les declaracions emeses o que hi tenen relació.
+[…]
+5. Les persones que pateixin amenaces, mesures de represàlia, accions hostils o mesures laborals adverses o discriminatòries derivades del compliment de l’obligació de comunicar per via interna o a la UIFAND sospites de blanqueig de diners o valors o de finançament del terrorisme poden presentar una comunicació a la UIFAND, que l’analitza i, en el cas d’apreciar indicis o l’existència de delicte, remet un informe al Ministeri Fiscal.”
