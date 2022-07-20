@@ -1,0 +1,5 @@
+# Article 9. Sinergies entre circularitat, lluita contra el canvi climàtic, contra la pèrdua de la biodiversitat i la protecció de la salut humana
+L’Administració pública ha d’intensificar les sinergies entre circularitat, lluita contra el canvi climàtic, especialment amb la reducció de les emissions de gasos d’efecte d’hivernacle, i lluita contra la pèrdua de biodiversitat i la protecció de la salut humana mitjançant les accions següents:
+a) Analitzar com es poden mesurar els efectes de la circularitat en la lluita contra el canvi climàtic, l’adaptació a aquest fenomen i la lluita contra la pèrdua de biodiversitat.
+b) Millorar les eines de modelització per aprofitar els beneficis de l’economia circular des del punt de vista de la reducció de les emissions de gasos d’efecte d’hivernacle, vinculant-los als objectius de reducció d’emissions establerts a la Llei 21/2018, del 13 de setembre, d’impuls de la transició energètica i del canvi climàtic (Litecc) i als mecanismes de protecció de la salut humana.
+c) Analitzar la petjada ecològica del model econòmic andorrà per millorar la circularitat del model.

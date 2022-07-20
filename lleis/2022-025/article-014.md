@@ -1,0 +1,3 @@
+# Article 14. Programa de prevenció del malbaratament alimentari
+1. L’Estratègia d’economia circular ha de contenir un programa de prevenció del malbaratament alimentari que inclogui, l’elaboració d’un diagnòstic del malbaratament durant diverses fases de la cadena alimentària a Andorra i els indicadors necessaris per mesurar-ne l’evolució.
+2. A més, aquest programa ha de comptar amb accions de sensibilització, orientades a conscienciar la societat sobre els beneficis de l’aprofitament alimentari, així com establir els mecanismes de col·laboració entre administracions públiques i la col·laboració d’aquestes amb els actors privats implicats.

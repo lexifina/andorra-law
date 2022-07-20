@@ -1,0 +1,3 @@
+# Article 33. Prohibició de la destrucció d’invenuts
+1. Resta prohibida per a tots els productors i distribuïdors, inclús pel que fa al comerç en línia, la destrucció, mitjançant les vies de gestió de residus de valorització energètica o eliminació, dels seus articles no venuts que encara siguin aptes per al consum.
+2. La prohibició s’aplica a articles nous aptes per al consum no alimentari, com ara roba, sabates, productes de bellesa, llibres, joguines o aparells elèctrics, electrònics o electrodomèstics, entre d’altres. Els articles sotmesos a aquesta prohibició es determinen reglamentàriament. Per als productes alimentaris aptes pel consum humà (excedent alimentari) s’aplica la jerarquia de prevenció del malbaratament alimentari i la gestió dels residus alimentaris.

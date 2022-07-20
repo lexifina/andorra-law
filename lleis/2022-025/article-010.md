@@ -1,0 +1,7 @@
+## Capítol segon. Consum sostenible
+## Secció primera. Productes d’un sol ús
+# Article 10. Productes de plàstic d’un sol ús amb alternativa
+1. Es prohibeix la producció, la importació i la introducció al mercat de productes fabricats amb plàstic oxodegradable, així com de productes de plàstic d’un sol ús que ja tenen una alternativa de producte sense plàstic.
+2. El Govern estableix per decret la llista de productes de plàstic d’un sol ús prohibits, basant-se en l’establert en les directives de la Unió Europea sobre la matèria.
+3. Es prohibeix la producció, la importació i la introducció al mercat de recipients per a begudes de fins a 3 litres de capacitat que no mantinguin units els taps i tapes al recipient durant la seva fase d’utilització.
+4. Les ampolles per a begudes importades, produïdes o introduïdes al mercat de fins a 3 litres de capacitat, i en què el principal component en la fabricació sigui el tereftalat de polietilè (PET), han de contenir uns percentatges mínims de plàstic reciclat a partir dels anys 2025 i 2030, basant-se en l’establert en les directives de la Unió Europea sobre la matèria. Les ampolles de begudes d’altres plàstics també han de contenir un mínim de plàstic reciclat a partir de l’any 2030, basant-se en l’establert en les directives de la Unió Europea sobre la matèria. Se n’exclouen les ampolles utilitzades per a aliments per a usos mèdics especials en estat líquid.
