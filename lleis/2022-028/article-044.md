@@ -1,0 +1,2 @@
+# Article 44. Mesures d’emergència
+Un cop activat el pla territorial, especial o específic de què es tracti, el comandament únic pot decidir alguna de les mesures de garantia de la seguretat de la població que relaciona l’article 5 i, a més, pot ordenar l’omissió d’accions i, si escau, la prestació de serveis obligatoris de caràcter personal. Aquesta prestació es realitza de forma proporcional a la situació creada i a les capacitats de la persona de què es tracti.

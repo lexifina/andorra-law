@@ -1,0 +1,2 @@
+# Article 14. Formació
+El Govern, mitjançant el Departament de Protecció Civil i Gestió d’Emergències, pot sol·licitar a les entitats o organitzacions de voluntariat que acreditin que les persones voluntàries que en formen part i que hagin de col·laborar en les tasques de protecció civil han rebut la formació suficient i necessària per desenvolupar eficaçment aquestes tasques, segons determini el departament esmentat.

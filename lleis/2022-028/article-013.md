@@ -1,0 +1,2 @@
+# Article 13. Foment
+Les administracions públiques han de fomentar i promoure la vinculació voluntària i desinteressada de la ciutadania en les tasques de protecció civil en els termes establerts en aquesta Llei, la Llei 90/2010, del 16 de desembre, del voluntariat d’Andorra, i la normativa aplicable restant mitjançant campanyes d’informació, divulgació i reconeixement de les activitats que es desenvolupin en l’àmbit de la protecció civil.

@@ -1,0 +1,2 @@
+# Disposició derogatòria
+Es deroga el Decret dels veguers del 23 d’octubre del 1984 sobre el Sometent; es deroguen la Llei sobre protecció civil aprovada pel Consell General el 20 de novembre del 1984; el Decret de creació del Departament de Protecció Civil i Gestió d’Emergències, del 7 de novembre del 2007; el Decret de modificació de l’article 5 del Decret de creació del Departament de Protecció Civil i Gestió d’Emergències, del 14 d’abril del 2010, i totes les normes de rang igual o inferior que s’oposin o contradiguin el que estableix aquesta Llei.

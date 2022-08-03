@@ -1,0 +1,3 @@
+# Article 85. Òrgans competents
+1. És competent per decidir la incoació del procediment administratiu sancionador com a conseqüència de l’incompliment de les disposicions d’aquesta Llei, el director del departament competent en matèria de protecció civil i gestió d’emergències o, si no hi és, el cap d’àrea que correspongui, que pot delegar aquesta competència d’acord amb el Codi de l’Administració.
+2. Són competents per resoldre el procediment administratiu sancionador i per declarar, quan escaigui, l’acabament del procediment per una altra causa, el ministre competent en matèria d’interior quan es tracta d’infraccions lleus i greus, que pot delegar aquesta competència d’acord amb el Codi de l’Administració, i el Govern quan es tracta d’infraccions molt greus.

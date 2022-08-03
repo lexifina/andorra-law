@@ -1,0 +1,2 @@
+# Disposició final vuitena. Grup d’Intervenció i Suport de Protecció Civil
+El Grup d’Intervenció i Suport de l’Administració Pública i el voluntariat restant de protecció civil a què es refereixen el capítol segon del títol segon, formen el Grup d’Intervenció i Suport de Protecció Civil, el qual ha de ser objecte de regulació pel Govern, per la via reglamentària, en el termini màxim d’un any des de la data de l’entrada en vigor d’aquesta Llei.

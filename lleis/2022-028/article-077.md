@@ -1,0 +1,2 @@
+# Article 77. Protocols operatius nacionals
+Els protocols operatius nacionals són l’instrument operacional del Centre Nacional d’Emergències en què s’estableixen, d’una banda, la forma de rebre i donar curs a les demandes d’auxili de la població i, de l’altra, els criteris que cal seguir per classificar-les i per assignar les respostes i mobilitzar els recursos segons el tipus d’emergència de què es tracti.

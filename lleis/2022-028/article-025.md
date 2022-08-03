@@ -1,0 +1,2 @@
+# Article 25. Actuacions bàsiques
+Les actuacions bàsiques de protecció civil que han de realitzar les administracions públiques en l’àmbit de les seves competències són la previsió i la prevenció de les situacions de risc; la planificació; la intervenció una vegada s’han activat els plans de protecció civil; la recuperació i el retorn a la normalitat, i la informació i la formació de la població en general i del personal dels serveis operatius competents.

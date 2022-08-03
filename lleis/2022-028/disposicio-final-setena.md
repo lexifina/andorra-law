@@ -1,0 +1,2 @@
+# Disposició final setena. Comissió Nacional de Protecció Civil
+En el termini de sis mesos a partir de l’entrada en vigor d’aquesta Llei, el ministre competent en matèria d’interior ha de convocar i s’ha de constituir la Comissió Nacional de Protecció Civil a què es refereix el capítol tercer del títol sisè. L’acta de constitució de la Comissió Nacional de Protecció Civil s’ha de publicar al Butlletí Oficial del Principat d’Andorra.

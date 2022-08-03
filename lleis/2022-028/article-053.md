@@ -1,0 +1,2 @@
+# Article 53. Recerca
+El Govern ha de promoure la recerca dels riscs que poden afectar la població, els béns i el medi ambient; la investigació sobre els mitjans i les tècniques de resposta i els estudis sociològics oportuns per a determinar les necessitats formatives de la població. Amb aquesta finalitat, pot concertar convenis amb universitats i centres de recerca relacionats amb aquesta matèria.

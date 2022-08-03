@@ -1,0 +1,6 @@
+## Secció segona. Plans d’autoprotecció
+# Article 49. Activació, desenvolupament i desactivació
+1. Els plans d’autoprotecció s’activen de conformitat amb el que s’hi prevegi. La persona responsable ha de posar en coneixement de forma immediata al departament competent en matèria de protecció civil i gestió d’emergències, a través del Centre Nacional d’Emergències, la intenció d’activar el pla corresponent i d’adoptar les mesures que s’hi contenen i que escaiguin.
+2. L’activació d’un pla d’autoprotecció no implica l’activació d’un pla territorial, especial o específic. No obstant això, si les autoritats competents en matèria de protecció civil consideren necessària l’activació d’un pla territorial, especial o específic, poden procedir en aquest sentit en els termes que estableix aquesta Llei.
+3. En cas d’activació d’un pla territorial, especial o específic, la direcció i els serveis del pla d’autoprotecció queden sota l’autoritat i han de seguir les instruccions i les ordres del comandament únic competent.
+4. Un cop finalitzada la situació d’emergència no ordinària, la persona responsable ha de comunicar aquesta circumstància al departament competent en matèria de protecció civil i gestió d’emergències, a través del Centre Nacional d’Emergències.

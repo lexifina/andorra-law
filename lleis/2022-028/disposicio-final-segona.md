@@ -1,0 +1,2 @@
+# Disposició final segona. Pla territorial nacional de protecció civil i Mapa de Riscos
+En el termini màxim de tres anys a partir de l’entrada en vigor d’aquesta Llei, el Govern, a proposta del ministre competent en matèria d’interior, amb l’informe previ favorable de la Comissió Nacional de Protecció Civil, ha d’aprovar el Pla territorial nacional de protecció civil a què es refereix l’article 31 d’aquesta Llei, i el Mapa de Riscos que en forma part, d’acord amb l’apartat 4 de l’article 26, i ordenar-ne la publicació al Butlletí Oficial del Principat d’Andorra.

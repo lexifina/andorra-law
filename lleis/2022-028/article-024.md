@@ -1,0 +1,6 @@
+## Títol cinquè. Emergències no ordinàries. Actuacions en matèria de protecció civil
+## Capítol primer. Definició i actuacions bàsiques
+# Article 24. Definició
+1. Les emergències no ordinàries són les situacions que impliquen un risc greu per a una pluralitat indeterminada de persones i que fan necessària l’adopció de mesures extraordinàries per fer-hi front. També tenen la consideració d’emergència no ordinària les catàstrofes i calamitats públiques, les emergències que ultrapassen els recursos i els mitjans humans i materials dels serveis operatius competents, o en què s’esgotin o sigui previsible l’esgotament dels recursos i mitjans esmentats com a conseqüència de la durada d’una emergència ordinària.
+2. La declaració d’emergència no ordinària es realitza per part del Govern si es tracta d’una emergència d’àmbit nacional i pel Consell de Comú de la parròquia que correspongui si es tracta d’una emergència d’àmbit comunal. Les emergències no ordinàries requereixen la coordinació i el comandament excepcionals dels serveis operatius competents i de les entitats públiques i privades que hagin de col·laborar-hi, i també la coordinació amb els comuns.
+3. L’atenció de les emergències no ordinàries s’efectua a través del sistema integrat de protecció civil així com de la coordinació dels mitjans mobilitzats.

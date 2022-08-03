@@ -1,0 +1,2 @@
+# Disposició final tercera. Plans territorials comunals de protecció civil
+En el termini màxim de dos anys a partir de l’aprovació i la publicació del Pla territorial nacional de protecció civil, els consells dels comuns han d’aprovar, amb l’informe previ favorable de la Comissió Nacional de Protecció Civil, el Pla territorial comunal de protecció civil corresponent a l’àmbit territorial de la seva parròquia a què es refereix l’article 32 d’aquesta Llei, i ordenar-ne la publicació al Butlletí Oficial del Principat d’Andorra.

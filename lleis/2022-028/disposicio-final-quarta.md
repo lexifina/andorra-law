@@ -1,0 +1,2 @@
+# Disposició final quarta. Plans especials
+En el termini màxim de dos anys a partir de l’aprovació i la publicació del Pla territorial nacional de protecció civil, el Govern, a proposta del ministre competent en matèria d’interior, amb l’informe previ favorable de la Comissió Nacional de Protecció Civil, ha d’aprovar els plans especials a què es refereix l’apartat 4 de l’article 33, i ordenar-ne la publicació al Butlletí Oficial del Principat d’Andorra.

@@ -1,0 +1,4 @@
+# Article 31. Pla territorial nacional de protecció civil
+1. El Pla territorial nacional de protecció civil constitueix l’instrument organitzatiu de resposta genèrica davant les situacions d’emergència no ordinària en l’àmbit territorial nacional que, per la seva naturalesa o extensió, o per necessitat de coordinar més d’una administració, requereixen una direcció nacional.
+2. El Pla territorial nacional de protecció civil, en la seva qualitat de pla director, desenvolupa les directrius i els requeriments que cal observar per a l’elaboració, l’aprovació i l’homologació dels plans de protecció civil restants.
+3. Correspon al Govern, a proposta del ministre competent en matèria d’interior, amb l’informe previ favorable de la Comissió Nacional de Protecció Civil a què es refereix el capítol tercer del títol sisè, d’aprovar el Pla territorial nacional de protecció civil.

@@ -1,0 +1,2 @@
+# Article 18. Capacitació i mitjans
+El Govern, a través dels diferents ministeris i departaments competents per raó de la matèria, i d’acord amb els directors dels centres docents, vetlla perquè les activitats a què fan referència els apartats 1 i 2 de l’article 17 es facin sota la responsabilitat de persones capacitades degudament i que disposin de la formació adequada, i facilita als centres docents el material informatiu i la documentació que calgui a aquest efecte. La coordinació d’aquestes activitats es farà mitjançant el departament competent en protecció civil.

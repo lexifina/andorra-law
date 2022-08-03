@@ -1,0 +1,7 @@
+# Article 71. Substitució
+1. Si un comú no du a terme les actuacions a què està obligat en matèria de protecció civil i gestió d’emergències d’acord amb aquesta Llei, el Govern pot substituir-lo, amb el requeriment previ del Govern al comú obligat, a proposta del ministre competent en matèria d’interior.
+2. Transcorregut un mes des del requeriment esmentat a l’apartat anterior sense que s’hagi portat a terme l’actuació requerida i sense que se n’hagin justificat suficientment els motius, el Govern, a proposta del ministre competent en matèria d’interior, en declara l’incompliment i adopta la resolució d’execució subsidiària a càrrec del comú obligat. No obstant això, si l’actuació requerida és urgent i, en cas que no es faci, això pugui posar en perill les persones o els béns o agreujar la situació de risc greu existent, no cal deixar transcórrer el termini d’un mes per procedir d’acord amb el que estableix aquest apartat.
+3. En particular, s’escau la substitució en els casos en què el comú obligat no porti a terme les actuacions següents:
+a) Aprovar els plans de protecció civil preceptius.
+b) Modificar els plans de protecció civil aprovats, si la modificació és necessària com a conseqüència de circumstàncies sobrevingudes o arran de la modificació dels plans en què s’integra o dels quals depèn.
+c) Activar i desactivar els plans de protecció civil corresponents si se n’acompleixen els pressupòsits o condicions.

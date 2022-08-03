@@ -1,0 +1,2 @@
+# Article 36. Entitats, organismes i empreses obligats
+Queden sotmesos, en tot cas, a l’obligació de disposar d’un pla de continuïtat les entitats, els organismes o les empreses de subministrament d’electricitat, telefonia i aigua potable. El Govern determina per la via reglamentària les entitats, els organismes o les empreses restants de prestació de serveis públics o d’altres serveis crítics o essencials per a la comunitat que hagin de disposar d’un pla de continuïtat.

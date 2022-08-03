@@ -1,0 +1,3 @@
+# Article 12. Actuació
+1. L’actuació del Cos de voluntaris de protecció civil en situacions d’emergència no ordinària es porta a terme sempre sota la dependència funcional de les autoritats competents en matèria de protecció civil les ordres i instruccions de les quals han de ser seguides estrictament per les persones voluntàries.
+2. Aquesta actuació se cenyeix a tasques preventives, de reforç, cooperació i col·laboració amb els serveis operatius competents, llevat que de forma excepcional les circumstàncies que concorrin facin imprescindible que supleixin totalment o parcialment aquests serveis.

@@ -1,0 +1,4 @@
+# Article 45. Mobilització de recursos
+1. L’ús dels recursos i mitjans humans i materials susceptibles de ser mobilitzats s’efectua de conformitat amb el que disposi el pla territorial, especial o específic corresponent o, si no n’hi ha, segons les instruccions i les ordres de les autoritats competents en matèria de protecció civil.
+2. La mobilització de recursos i mitjans humans i materials s’ha d’adequar als principis d’immediatesa en la resposta, proximitat del lloc de l’emergència, disponibilitat dels mitjans, professionalització i especialització dels intervinents, complementarietat dels recursos i mitjans i subsidiarietat.
+3. Mentre el pla territorial, especial o específic roman activat, el Centre Nacional d’Emergències a què es refereix l’article 75 constitueix l’instrument a través del qual es canalitza la coordinació entre els diferents intervinents, sense perjudici dels altres mecanismes de coordinació previstos al pla corresponent.
