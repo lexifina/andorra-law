@@ -1,0 +1,7 @@
+# Article 2. Modificació de l’article 30 de la Llei 17/2013.
+Es numera amb un 1 el primer paràgraf de l’article 30 i es crea un nou apartat segon a l’article 30 de la Llei 17/2013, el qual queda redactat de la manera següent:
+“Article 30. Bescanvi de bitllets d’euro autèntics deteriorats
+1. L’AFA pot bescanviar, prèvia demanda, bitllets d’euro autèntics deteriorats, amb les condicions establertes al reglament que desenvolupa aquesta Llei i les decisions rellevants del Consell de Govern a les quals es refereix l’article 31, quan:
+a) Es presenti més del 50% del bitllet d’euro; o
+b) Es presenti el 50% o menys del bitllet d’euro, si el sol·licitant prova que les parts que manquen han estat destruïdes.
+2. L’AFA pot bescanviar mitjançant l’entrega d’efectiu pel valor dels bitllets en qualsevol denominació, mitjançant la transferència del valor dels bitllets a un compte bancari del sol·licitant que pugui identificar-se de forma inequívoca mitjançant un número internacional de compte bancari (IBAN), de conformitat amb la definició de l’article 2, apartat 12, del Reglament relatiu a normes aplicables als proveïdors de serveis de pagaments; principalment, mesures per facilitar l’automatització de pagaments transfronterers entre el Principat d’Andorra i els estats membres de la Unió Europea, així com els requisits tècnics per a les transferències i domiciliacions de pagaments en euros en el marc de la zona única de pagaments en euros.”
