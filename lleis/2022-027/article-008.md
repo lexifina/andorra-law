@@ -1,0 +1,3 @@
+# Article 8. Procés d’acompanyament i expedient
+La segona fase de la VAE consisteix a acompanyar el candidat durant el procés d’elaboració del seu expedient. Aquest acompanyament, a càrrec de l’entitat certificadora de la qualificació sol·licitada pel candidat, ha de ser específic del camp de coneixement de la qualificació i és optatiu per part del candidat.
+L’expedient del candidat ha de recollir les proves dels aprenentatges adquirits al llarg de la vida que responen als criteris d’obtenció de la qualificació sol·licitada. L’estructura i la informació que ha de contenir l’expedient s’han de fixar per via reglamentària.

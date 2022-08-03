@@ -1,0 +1,2 @@
+# Disposició final cinquena. Textos consolidats
+S’encomana al Govern, en els termes previstos a l’article 116 del Reglament del Consell General, que en el termini màxim de sis mesos des de la publicació d’aquesta Llei al Butlletí Oficial del Principat d’Andorra presenti al Consell General els projectes de consolidació de la Llei 20/2021, del 15 de juliol, de creació del Marc andorrà de qualificacions i la Llei 37/2018, del 20 de desembre, de l’esport del Principat d’Andorra, amb la incorporació de totes les modificacions que s’hi han produït.

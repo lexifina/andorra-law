@@ -1,0 +1,2 @@
+# Disposició transitòria primera
+Els candidats que, a l’entrada en vigor d’aquesta Llei, tenen iniciat un procés de reconeixement i validació dels aprenentatges adquirits per l’experiència professional (REVEP) per obtenir les qualificacions del sector de la formació professional tenen dos anys per finalitzar el seu procés de conformitat amb la reglamentació vigent en el moment d’inscriure’s. Passat aquest termini els candidats podran seguir el procés adaptat a aquesta norma.
