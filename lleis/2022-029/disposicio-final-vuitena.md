@@ -1,0 +1,8 @@
+# Disposició final vuitena. Modificació de la Llei 37/2018, del 20 de desembre, de l’esport del Principat d’Andorra
+Es modifica l’article 50 de la Llei 37/2018, del 20 de desembre, de l’esport del Principat d’Andorra, que queda redactat de la manera següent:
+“Article 50. Esportistes d’alt nivell
+1. Es considera esportista d’alt nivell la persona que practica una modalitat o especialitat esportiva caracteritzada per les altes exigències tècniques i científiques de la preparació, per l’excel·lència esportiva i per la participació en competicions d’àmbit internacional en condicions de màxim rendiment i competitivitat.
+2. Correspon a l’òrgan governamental en matèria d’esports, amb l’assessorament de la Fundació de l’Esport, les federacions esportives concernides i els comitès Olímpic i Paralímpic, establir els criteris objectius específics i les condicions concretes per obtenir la qualificació d’esportista d’alt nivell.
+3. La condició d’esportista d’alt nivell s’adquireix amb la inclusió en la llista d’esportistes d’alt nivell que publica anyalment al Butlletí oficial del Principat d’Andorra l’òrgan governamental competent en matèria d’esports, a la vista de les propostes fetes per la Fundació de l’Esport i les federacions esportives.
+4. Ser titular de la condició d’esportista d’alt nivell durant un cicle olímpic, atorga a l’esportista mèrits en les proves d’aptituds físiques en cas que en el moment de finalitzar la seva carrera esportiva vulgui optar a desenvolupar el seu futur professional en un lloc de treball de l’Administració pública.
+L’acreditació d’aquests mèrits es fa a través d’un certificat emès pel Comitè Olímpic Andorrà.”

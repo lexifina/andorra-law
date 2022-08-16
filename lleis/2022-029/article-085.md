@@ -1,0 +1,5 @@
+# Article 85. Modificació de l’article 106
+Es modifica l’article 106 de la Llei de la funció pública, que queda redactat en els termes següents:
+“Article 106. Extinció de la responsabilitat
+1. La responsabilitat disciplinària s’extingeix pel compliment de la sanció, la defunció del funcionari o treballador públic interí, la prescripció de la falta i la prescripció de la sanció.
+2. Si durant la instrucció del procediment disciplinari es produeix la pèrdua de la condició de funcionari o treballador públic interí de la persona expedientada, s’ha de dictar una resolució en què es declara extingida la responsabilitat disciplinària i s’arxiva el procediment, llevat que l’expedientat vulgui mantenir la prioritat de contractació que li atorga la participació a les borses d’interins o llevat que una persona interessada insti la continuació de la tramitació de l’expedient, i sense perjudici de la responsabilitat civil o penal que es derivi de les faltes comeses eventualment durant el temps en què el funcionari o treballador públic interí hagi estat en servei actiu.”

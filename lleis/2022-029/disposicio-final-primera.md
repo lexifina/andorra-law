@@ -1,0 +1,2 @@
+# Disposició final primera. Desenvolupament reglamentari del treball no presencial
+En el termini màxim d’un any des de la data en què entri en vigor aquesta Llei, el Govern ha d’aprovar el reglament que reguli el treball no presencial, entès com a forma d’organització del treball en virtut de la qual una part de la jornada laboral es desenvolupa de manera no presencial i mitjançant l’ús de les tecnologies de la informació i la comunicació.

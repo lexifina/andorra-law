@@ -1,0 +1,4 @@
+# Article 94. Modificació de l’article 119
+Es modifica l’article 119 de la Llei de la funció pública, que queda redactat en els termes següents:
+“Article 119. Normes de la Llei aplicables directament als comuns
+Són aplicables directament als comuns les normes contingudes en els títols I, III i IV, així com els articles 32 (Principis generals del sistema de selecció), 33 (Requisits generals), 37 (Concurs de mobilitat), 39 (Bases de la convocatòria), 46 (Adquisició de la condició de funcionari), 49 (Situacions administratives), 54 (Causes de pèrdua de la condició de funcionari), 68 (Comissió de serveis), 71 (Drets), 72.1, 72.2 i 72.3 (Jornada laboral), 74 (Obligacions i deures) i 75 (Incompatibilitats), en què les referències als òrgans de l’Administració general s’entenen substituïdes pels òrgans comunals corresponents.”

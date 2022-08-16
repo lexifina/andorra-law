@@ -1,0 +1,5 @@
+# Article 77. Modificació de l’article 94
+Es modifiquen els apartats 1 i 2 de l’article 94 de la Llei de la funció pública, que queden redactats en els termes següents:
+“Article 94. Resolució de l’expedient
+1. En haver rebut l’expedient, l’òrgan competent per resoldre ha de dictar la resolució disciplinària que posa fi al procediment en el termini de quinze dies hàbils, si es tracta de faltes lleus; de trenta dies hàbils, si es tracta de faltes greus, i de quaranta-cinc dies hàbils, si es tracta de faltes molt greus. Aquests terminis poden ser prorrogats en els termes establerts al Codi de l’Administració.
+2. Abans de dictar la resolució, l’òrgan competent pot ordenar a l’instructor que faci les actuacions complementàries que consideri indispensables per prendre una resolució. Aquesta decisió s’ha de notificar a la persona expedientada, a qui també s’han de traslladar les actuacions efectuades, i concedir-li un termini de cinc dies hàbils perquè al·legui el que consideri convenient. En aquest cas, els terminis de resolució es comencen a comptar a partir del moment en què s’exhaureix el termini per presentar aquestes al·legacions complementàries.”

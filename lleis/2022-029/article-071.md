@@ -1,0 +1,7 @@
+# Article 71. Modificació de l’article 87
+Es modifica l’article 87 de la Llei de la funció pública, que queda redactat en els termes següents:
+“Article 87. Llibertat i activitats sindicals
+1. Els funcionaris i treballadors públics interins tenen el dret de constituir organitzacions sindicals per defensar els seus drets i interessos professionals, així com d’afiliar-s’hi i participar-hi activament d’acord amb la normativa aplicable.
+2. Les organitzacions sindicals i les associacions de funcionaris o treballadors públics interins legalment constituïdes tenen el dret de formular propostes, elevar informes i dirigir peticions als òrgans competents, així com d’exercir la representació dels seus afiliats davant d’aquests òrgans.
+3. Les organitzacions sindicals i les associacions de funcionaris o treballadors públics interins legalment constituïdes tenen el dret que se’ls faciliti un local per exercir les seves activitats, a les dependències que determini el Departament de Funció Pública.
+4. Els representants de les organitzacions sindicals i de les associacions de funcionaris i treballadors públics interins legalment constituïdes han de disposar de les condicions i el temps necessaris per atendre les activitats pròpies de la seva funció, en la forma i amb l’abast que s’estableixin per la via reglamentària, per tal que no perjudiquin el bon funcionament i el servei de l’Administració general.”

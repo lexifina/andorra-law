@@ -1,0 +1,6 @@
+# Article 69. Modificació de l’article 85
+Es modifica l’article 85 de la Llei de la funció pública, que queda redactat en els termes següents:
+“Article 85. Prestacions passives
+1. Es reconeix als funcionaris el dret a les prestacions per jubilació, d’acord amb el que estableix la normativa vigent sobre aquesta matèria.
+2. El Govern pot establir millores a les prestacions passives de l’organisme encarregat de la seguretat social mitjançant l’aprovació de plans dirigits, o bé a col·lectius concrets o bé amb caràcter general, a tots els funcionaris. En tot cas, per ser beneficiari de les millores, els plans han d’incloure, perquè siguin efectius i per poder finançar-los, a més de les aportacions de l’Administració general, aportacions dels funcionaris interessats.
+3. La percepció de prestacions de jubilació, obligatòria o voluntària, a càrrec de l’Administració és incompatible amb qualsevol altra retribució com a funcionari o interí per serveis prestats al sector públic. En el cas de prestació de serveis a l’Administració per funcionaris en el marc d’una relació especial o bé d’una prolongació de la relació de treball convinguda en els termes de l’article 56.3, les prestacions de jubilació voluntària i de jubilació obligatòria a càrrec de l’Administració queden en suspens mentre duri la relació especial.”

@@ -1,0 +1,6 @@
+# Article 89. Modificació de l’article 110
+Es modifica l’article 110 de la Llei de la funció pública, que queda redactat en els termes següents:
+“Article 110. Selecció del personal interí
+1. Els processos de selecció del personal interí han de respectar els principis d’igualtat, mèrit, capacitat, publicitat i concurrència. Només excepcionalment, per raons d’urgència que s’han de fer constar a l’expedient, i en el cas de l’Administració general quan no hi hagi candidats disponibles a les borses creades pel ministeri responsable de funció pública, es pot nomenar personal interí sense convocatòria pública.
+2. Amb la finalitat de respondre a les necessitats urgents de contractació de personal, el ministeri responsable de funció pública pot convocar processos de selecció específics per crear borses de personal per donar resposta als departaments de l’Administració general que requereixin contractacions d’interins de forma més recurrent.
+A les borses també es poden inscriure les persones interessades que hagin quedat en reserva després d’un concurs de selecció per ocupar vacants similars de la mateixa família. Els criteris de crida a les persones inscrites a les bosses es regulen reglamentàriament.”

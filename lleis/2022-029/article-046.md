@@ -1,0 +1,7 @@
+# Article 46. Modificació de l’article 56
+Es modifica l’article 56 de la Llei de la funció pública, que queda redactat en els termes següents:
+“Article 56. Jubilació
+1. El funcionari es troba en situació de jubilació quan se separa definitivament del servei actiu.
+2. La jubilació obligatòria dels funcionaris del Cos General, del Cos d’Educació i del Cos Diplomàtic es declara d’ofici quan el funcionari compleix seixanta-cinc anys d’edat. La jubilació per edat dels funcionaris dels cossos especials de Duana, Prevenció i Extinció d’Incendis i Salvaments, Penitenciari, Policia i Banders es declara d’ofici quan el funcionari compleix seixanta anys d’edat.
+3. No obstant el que preveu l’apartat precedent, el funcionari afectat i l’Administració poden pactar la prolongació de la relació de treball per períodes màxims d’un any, renovables, fins que el funcionari compleixi setanta anys d’edat, en el cas del Cos General, Cos Diplomàtic i Cos d’Educació, i seixanta-cinc anys d’edat, en el cas dels cossos especials de Duana, Prevenció i Extinció d’Incendis i Salvaments, Penitenciari, Policia i Banders.
+4. També escau declarar la jubilació forçosa, bé d’ofici o bé a petició del funcionari i sempre amb la instrucció prèvia de l’expedient corresponent, quan es trobi en situació d’incapacitat permanent per exercir les seves funcions. En tal cas, el funcionari té dret a percebre les prestacions de la Caixa Andorrana de Seguretat Social i les que deriven del Pla de jubilació.”

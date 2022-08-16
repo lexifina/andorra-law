@@ -1,0 +1,2 @@
+# Disposició transitòria segona. Consolidació de treballadors públics interins
+Els treballadors públics interins que a partir de la data d’entrada en vigor d’aquesta Llei hagin ocupat ininterrompudament el mateix lloc de treball en l’Administració general durant un període igual o superior a cinc anys, amb independència de la seva nacionalitat, podran concórrer als processos de mobilitat interna per consolidar la plaça que estan ocupant.
