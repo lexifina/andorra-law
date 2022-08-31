@@ -1,0 +1,6 @@
+# Article 95. Durada i extinció de la concessió
+1. La concessió s’extingeix pel compliment del termini previst en el plec de clàusules, llevat que es decideixi prorrogar-la.
+2. La durada de la concessió ha de permetre al concessionari recuperar la inversió i obtenir un benefici empresarial. El termini total, incloses les pròrrogues, no pot ser superior a 50 anys, llevat que s’acrediti que l’amortització de les inversions inicials i posteriors, incloses les necessàries per adequar-se al progrés tècnic, o el restabliment de l’equilibri econòmic exigeixen fixar un termini més llarg. En qualsevol cas, aquestes inversions hauran d’haver estat acordades prèviament amb l’Administració concedent, doncs en cas contrari no seran motiu de pròrroga de la concessió.
+3. La concessió s’extingeix també per resolució.
+4. L’extinció de la concessió comporta la de tots els contractes vinculats a la concessió.
+5. Complert el termini, el concessionari queda obligat a fer lliurament a l’Administració concedent, en bon estat de conservació i ús, de les obres incloses en la concessió, així com dels béns i instal·lacions necessaris per explotar-les i dels béns i instal·lacions inclosos en la zona d’explotació comercial, si n’hi ha, d’acord amb el que estableix el contracte. S’ha d’aixecar una acta de recepció formal.

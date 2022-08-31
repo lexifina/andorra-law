@@ -1,0 +1,9 @@
+# Article 54. Cessió del contracte i subcontractació
+1. Cessió dels contractes
+a) Els contractes públics es poden cedir a tercers, sempre que no incorrin en les prohibicions establertes a l’article 13, amb autorització expressa de l’òrgan de contractació. A més, la cessió ha d’estar prevista expressament en els plecs de clàusules administratives i només és possible si les qualitats tècniques i personals del cedent no han estat determinants per a l’adjudicació del contracte. Quan s’exigeix una determinada classificació per adjudicar el contracte, l’empresa cessionària ha de tenir la classificació que correspongui.
+b) A excepció de les situacions de concurs declarades judicialment, el cedent ha d’haver executat almenys un 20% de l’import del contracte o, en els contractes de concessió de serveis, n’ha d’haver efectuat l’explotació durant, almenys, una cinquena part de la durada del contracte.
+2. Subcontractació
+a) L’adjudicatari pot concertar amb tercers la realització de determinades prestacions derivades del contracte, amb l’autorització prèvia de l’entitat contractant i sempre que els plecs de clàusules administratives ho prevegin.
+b) L’empresa subcontractada ha de tenir la classificació que s’exigeix per executar les unitats d’obra subcontractades i sempre que els plecs de clàusules administratives ho prevegin.
+c) Els subcontractistes només queden obligats davant del contractista principal, que assumeix, per tant, tota la responsabilitat de l’execució del contracte davant de l’Administració, amb sotmetiment estricte als plecs de clàusules administratives i de prescripcions tècniques.
+d) Un cop l’entitat contractant paga el contractista, aquest últim està obligat a informar-ne els subcontractistes o subministradors en el termini màxim de quinze dies naturals, i a pagar-los també en el termini màxim de quinze dies naturals des la presentació de la factura corresponent.

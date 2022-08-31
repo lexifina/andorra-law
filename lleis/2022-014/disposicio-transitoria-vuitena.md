@@ -1,0 +1,2 @@
+# Disposició transitòria vuitena. Vigència de l’article 2 de la Llei 93/2010, del 16 de desembre, de mesures de promoció de l’activitat econòmica i social, i de racionalització i d’optimització dels recursos de l’Administració
+Mentre els acords entre Andorra i la Unió Europea no ho disposin altrament, els poders adjudicadors continuen aplicant l’article 2 de la Llei 93/2010, del 16 de desembre, de mesures de promoció de l’activitat econòmica i social, i de racionalització i d’optimització dels recursos de l’Administració.

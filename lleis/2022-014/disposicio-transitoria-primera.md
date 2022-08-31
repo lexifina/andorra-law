@@ -1,0 +1,3 @@
+# Disposició transitòria primera. Contractes en vigor i expedients de contractació iniciats
+Els contractes administratius adjudicats abans de l’entrada en vigor de la Llei es regeixen, pel que fa als seus efectes, al compliment i a l’extinció, inclosa la seva modificació, la durada i el règim de pròrrogues, per la normativa anterior.
+Els expedients de contractació començats abans de l’entrada en vigor de la Llei es regeixen per la normativa anterior. S’entén que un expedient de contractació està iniciat quan s’ha publicat la convocatòria corresponent o, en el cas del procediment negociat sense publicitat, si s’han aprovat els plecs.

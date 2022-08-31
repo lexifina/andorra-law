@@ -1,0 +1,3 @@
+# Article 116. Preu dels serveis
+1. El preu en el contracte de serveis pot estar referenciat en components de la prestació, unitats d’execució o unitats de temps, o bé pot establir-se a tant alçat. Pot combinar diverses d’aquestes modalitats.
+2. Si el preu es determina per unitats d’execució, no es considera modificació, si així s’ha establert en el plec de clàusules administratives particulars, la variació en les unitats realment executades respecte a l’estimació màxima del nombre d’unitats que figuri en el plec, sempre que no representi un increment superior al 10% del preu i mentre es disposi de pressupost addicional i internament es comprometin els crèdits.

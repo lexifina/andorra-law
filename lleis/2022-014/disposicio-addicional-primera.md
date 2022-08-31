@@ -1,0 +1,2 @@
+# Disposició addicional primera. Aplicació d’aquesta Llei als contractes subscrits pel Consell General i els òrgans que en depenen, per l’Administració de justícia i pel Tribunal Constitucional
+Aquesta Llei és aplicable als contractes d’obres, de subministraments, de treballs tècnics o de serveis subscrits pel Consell General i els òrgans que en depenen. S’aplica també als contractes concertats per l’Administració de justícia i pel Tribunal Constitucional.

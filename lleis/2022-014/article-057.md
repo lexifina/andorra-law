@@ -1,0 +1,4 @@
+## Capítol quart. Garanties exigibles en els contractes públics
+# Article 57. Garantia provisional
+1. En el procediment de contractació no és procedent l’exigència d’una garantia provisional llevat que l’òrgan de contractació, per motius d’interès públic, ho consideri necessari i ho justifiqui en l’expedient. En aquest darrer cas, si el poder adjudicador ha establert un tipus de licitació o estimació base del contracte, l’import de la garantia provisional és del 2% d’aquesta estimació. En la resta de casos, l’òrgan de contractació en determina l’import, sense excedir el 2% del pressupost estimat del contracte.
+2. La garantia provisional és retornada immediatament després de l’adjudicació definitiva del contracte, excepte la de l’adjudicatari, que és retinguda fins a la formalització del contracte. En el cas de l’adjudicatari, es pot aplicar el seu import a la garantia definitiva.

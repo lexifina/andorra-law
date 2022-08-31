@@ -1,0 +1,2 @@
+# Disposició transitòria cinquena. Llindars dels contractes en supòsits d’urgència i menors
+Els llindars que figuren en l’article 30.1.c), per als contractes en els supòsits d’urgència, i 30.1.d), per sota dels quals un contracte es considera com a menor, s’apliquen a partir de la posada en funcionament de la Plataforma de contractació del sector públic que regula l’article 129. Entretant, continuen vigents els llindars que figuren en la Llei del pressupost general i en les ordinacions dels comuns.

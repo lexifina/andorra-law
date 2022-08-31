@@ -1,0 +1,2 @@
+# Disposició derogatòria
+Es deroga la Llei de contractació pública, del 9 de novembre del 2000, i les seves modificacions. Es deroga la Llei 5/2008, del 15 de maig, d’acompanyament del Projecte de llei del pressupost 2008 sobre les noves formes de contractació i finançament d’obres públiques. Així mateix, queden derogades totes les altres normes que s’oposin al que estableix aquesta Llei o la contradiguin.

@@ -1,0 +1,7 @@
+## Secció segona. Concurs
+## Subsecció primera. Disposicions generals
+# Article 31. Principis que regeixen la licitació
+1. Els licitadors i candidats han de rebre en tot moment un tractament d’acord amb els principis d’igualtat i no-discriminació. Els òrgans de contractació s’han d’ajustar als principis de transparència i proporcionalitat. Excepte en els contractes reservats a les entitats esmentades a l’article 5, no es pot limitar la participació a una determinada modalitat de persona jurídica.
+2. Cal respectar en tot moment la publicitat i els òrgans de contractació han de vetllar per la salvaguarda de la lliure competència en el procediment d’adjudicació, i en particular han de vigilar tot acord o pràctica concertada entre licitadors que pugui restringir-la.
+3. Els poders adjudicadors no han de demanar als licitadors les informacions de què ja disposin.
+4. Sens perjudici del que estableix la legislació sobre l’accés a la informació pública i de les disposicions de la Llei relatives a la publicitat i a la informació que cal lliurar als candidats i licitadors, els òrgans de contractació han de garantir la confidencialitat de la informació que els empresaris faciliten i han designat com a confidencial, en particular informacions que afecten secrets tècnics o comercials o els aspectes confidencials de l’oferta o que poden perjudicar la lliure competència. El contractista també ha de respectar la confidencialitat de les informacions a les quals hagi tingut accés i que tinguin aquest caràcter.

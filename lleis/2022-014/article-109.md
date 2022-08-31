@@ -1,0 +1,5 @@
+# Article 109. Execució del contracte
+1. L’adjudicatari està obligat a lliurar les coses en el temps i el lloc fixats en el contracte i de conformitat amb el plec de bases, amb el risc i les despeses a càrrec seu. Llevat que es pacti el contrari, les despeses del lliurament i el transport són per compte del contractista.
+2. Qualsevol que sigui el tipus de subministrament, l’adjudicatari no té dret a indemnització per causa de pèrdues, avaries o perjudicis ocasionats en els béns abans de lliurar-los al poder adjudicador, llevat que aquest últim hagués incorregut en mora. L’òrgan de contractació és responsable de la custòdia dels béns a partir que són entregats, si l’acte de recepció formal és posterior a l’entrega.
+3. Una vegada rebuts per l’òrgan de contractació els béns o productes peribles, n’és responsable de la gestió, l’ús o la caducitat, sense perjudici de la responsabilitat del subministrador pels vicis o defectes ocults.
+4. L’òrgan de contractació pot modificar el contracte de subministrament per raó de les necessitats reals del servei destinatari del subministrament, amb els límits que el plec de bases estableixi.

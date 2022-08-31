@@ -1,0 +1,6 @@
+# Article 117. Contractes de serveis en benefici directe de la ciutadania
+1. Els poders adjudicadors poden optar per encarregar a un operador econòmic la prestació de serveis públics, sense transferir-li el risc operacional.
+2. Abans de contractar un servei d’aquesta naturalesa s’ha d’haver establert el seu règim jurídic, que declari expressament que l’activitat de què es tracta queda assumida per l’Administració respectiva com a pròpia de la mateixa Administració, determini l’abast de les prestacions a favor dels administrats i reguli els aspectes de caràcter jurídic, econòmic i administratiu relatius a la prestació del servei. L’Administració conserva els poders de policia necessaris per garantir el bon funcionament del servei.
+3. Els béns afectats a un contracte d’aquesta naturalesa no poden ser embargats.
+4. L’adjudicatari queda obligat a prestar el servei amb la continuïtat convinguda i garantir als particulars el dret a utilitzar-lo en les condicions que hagin estat establertes i mitjançant l’abonament, si escau, de la contraprestació econòmica fixada, i a tenir cura del bon ordre del servei.
+5. Si de l’incompliment del contractista se’n deriva una pertorbació greu i de difícil reparació, a més de resoldre el contracte, l’Administració pot optar per la intervenció del servei fins que no se’n garanteixi el funcionament adequat.

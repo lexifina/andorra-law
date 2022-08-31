@@ -1,0 +1,3 @@
+# Article 59. Garanties admissibles
+La garantia es pot constituir per transferència bancària, per xec bancari, mitjançant un aval d’entitat bancària o una assegurança de caució subscrita amb una entitat asseguradora degudament autoritzades per operar al Principat d’Andorra, aportant el justificatiu bancari de la constitució de la garantia, quan escaigui.
+L’òrgan de contractació pot admetre, si els plecs de clàusules administratives ho preveuen, i a demanda de l’adjudicatari, que es constitueixi mitjançant la retenció del seu import en el pagament inicial al contractista; en aquest cas, cal fer-ho constar en el contracte en el moment que es formalitzi.

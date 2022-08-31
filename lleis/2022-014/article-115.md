@@ -1,0 +1,4 @@
+# Article 115. Execució del contracte
+1. El contracte s’executa amb subjecció al que s’estableix en les seves clàusules i en els plecs de clàusules administratives, i d’acord amb les instruccions que el responsable del contracte doni al contractista per interpretar-lo.
+2. El contractista és responsable de la qualitat tècnica dels treballs que desenvolupi i de les prestacions i els serveis efectuats, així com de les conseqüències que es dedueixin per al poder adjudicador o per a tercers de les omissions, els errors, els mètodes inadequats o les conclusions incorrectes en l’execució del contracte.
+3. Si durant el termini de garantia s’acredita l’existència de vicis o defectes en els treballs efectuats, l’òrgan de contractació té dret a reclamar al contractista que els esmeni. Transcorregut el termini de garantia sense que hagi formalitzat cap objecció o denúncia, el contractista queda exempt de responsabilitat per raó de la prestació.

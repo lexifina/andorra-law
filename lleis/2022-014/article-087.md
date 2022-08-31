@@ -1,0 +1,3 @@
+# Article 87. Comprovació de les obres
+1. A l’acabament de les obres, i a l’efecte del seguiment del correcte compliment del contracte per part del concessionari, l’Administració concedent ha d’aixecar una acta de comprovació. L’aixecament i el contingut de l’acta de comprovació s’han d’ajustar al que disposa el plec de clàusules administratives particulars.
+2. L’aprovació de l’acta de comprovació de les obres per part de l’òrgan de l’Administració concedent porta implícita l’autorització per a l’obertura de les mateixes obres a l’ús públic, sense perjudici d’altres autoritzacions administratives que siguin necessàries.

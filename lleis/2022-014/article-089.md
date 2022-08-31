@@ -1,0 +1,3 @@
+# Article 89. Zones complementàries d’explotació comercial
+1. Atenent la seva finalitat, les obres poden incloure altres zones o terrenys per a l’execució d’activitats complementàries, comercials o industrials que són necessàries o convenients per la utilitat que presten als usuaris de les obres i que són susceptibles d’un aprofitament econòmic diferenciat.
+2. Les zones o els espais corresponents queden subjectes al principi d’unitat de gestió i control de l’Administració concedent i són explotats conjuntament amb les obres pel concessionari, directament o a través de tercers, d’acord amb el plec de la concessió.

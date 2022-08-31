@@ -1,0 +1,5 @@
+# Article 16. Requisits de la classificació per als contractistes d’obres públiques i de subministraments
+1. El Govern i els comuns determinen les condicions que han de complir les empreses d’obres i subministraments per classificar-les i incloure-les en el subgrup corresponent.
+2. De manera motivada i per les circumstàncies excepcionals recollides en el Reglament de classificació administrativa de contractistes, es pot acordar exceptuar la necessitat de classificació per a determinats tipus de contractes d’obres i subministraments en què aquest requisit sigui exigible.
+3. La classificació també s’ha d’exigir al cessionari d’un contracte, si ha estat requerida al cedent.
+4. Quan no hagi concorregut cap empresa classificada en el procediment, l’òrgan de contractació pot excloure la necessitat de complir aquest requisit en el següent procediment que es convoqui per a l’adjudicació del mateix contracte, sempre que no se n’alterin les condicions, i en tot cas ha de precisar en el plec de clàusules administratives els mitjans exigits per acreditar la solvència.

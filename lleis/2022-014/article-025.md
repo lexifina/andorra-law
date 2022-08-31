@@ -1,0 +1,7 @@
+## Secció segona. Clàusules administratives i prescripcions tècniques
+# Article 25. Clàusules administratives
+1. Reglamentàriament es determina el contingut dels plecs de clàusules administratives, que com a mínim contenen una descripció detallada del contingut del contracte, el número d’expedient administratiu i el tipus de contracte.
+2. El Govern i els comuns aproven plecs de clàusules administratives generals per als contractes administratius d’ambdós administracions i de les entitats parapúbliques o de dret públic que en depenguin, i de la resta d’entitats del sector públic que no estiguin incloses en els supòsits de l’article 4.
+3. El Govern i els comuns poden elaborar models de plecs de clàusules administratives particulars per a determinades categories de contractes de naturalesa anàloga.
+4. El Govern i els comuns poden elaborar models de plecs de clàusules administratives generals i particulars simplificats per utilitzar-los en els contractes que es fan mitjançant contractació directa, sempre que l’objecte i la naturalesa del contracte ho facin possible.
+5. Abans de la licitació o, si escau, de la contractació directa, l’òrgan de contractació ha d’aprovar un plec de clàusules administratives generals i particulars que han d’incloure els pactes del contracte. En el cas d’errors que afectin el seu contingut, l’òrgan de contractació pot optar entre declarar desert el concurs o esmenar l’expedient i concedir una ampliació del termini de presentació d’ofertes, per tal de garantir la igualtat d’oportunitats dels licitadors i la transparència.

@@ -1,0 +1,7 @@
+# Article 14. Unió temporal d’empreses
+1. Una unió temporal d’empreses (UTE) és una forma de col·laboració empresarial temporal, sense personalitat jurídica pròpia, que es constitueix per al desenvolupament o l’execució d’una obra, un servei o un subministrament.
+2. Diversos licitadors es poden constituir en UTE per tal de presentar-se conjuntament a una licitació i executar el contracte de forma col·lectiva. Un mateix licitador no es pot presentar a una licitació individualment i al mateix temps com a membre d’una UTE, ni tampoc com a membre de més d’una UTE.
+3. L’UTE es constitueix només per a contractacions determinades, de manera que la seva actuació no es pot estendre més enllà d’aquestes contractacions. L’UTE s’ha de constituir per una durada que coincideixi amb la durada del contracte. No és necessari que es formalitzi en escriptura pública fins a l’adjudicació del contracte a favor seu.
+4. En els contractes públics en què han d’intervenir diversos professionals, o bé si la tipologia del projecte ho requereix, els òrgans de contractació han de promoure la participació de les microempreses i les petites i mitjanes empreses, i han de fer prevaler les ofertes presentades per UTE, a més de la divisió en lots que regula l’article 27.
+5. Els contractistes aplegats en una UTE responen solidàriament davant del poder adjudicador de tots els danys i perjudicis que l’UTE hagi causat.
+6. Tots els contractistes aplegats en una UTE han d’estar individualment legitimats per contractar, d’acord amb el que preveu l’article 11.

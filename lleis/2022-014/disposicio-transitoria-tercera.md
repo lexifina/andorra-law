@@ -1,0 +1,2 @@
+# Disposició transitòria tercera. Terminis de pagament
+Els terminis de pagament previstos en l’article 55.5 s’apliquen a partir del moment en què, d’acord amb la disposició transitòria segona, s’implanten la contractació electrònica regulada en el capítol cinquè del títol II i la factura electrònica prevista en l’article 55.6. Entretant, s’apliquen els terminis previstos en l’article 3 de la Llei 22/2013, del 28 de novembre, en què s’estableixen mesures contra la morositat.
