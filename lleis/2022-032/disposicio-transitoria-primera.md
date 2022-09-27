@@ -1,0 +1,2 @@
+# Disposició transitòria primera. Sol·licituds en matèria d’urbanisme presentades abans de l’entrada en vigor d’aquesta Llei
+Les sol·licituds d’aprovació de nous plans parcials, de projectes d’urbanització, i d’atorgament de llicències d’edificació d’obres de nova planta d’edificacions i d’instal·lacions de tota mena presentades abans de l’entrada en vigor d’aquesta Llei s’han de tramitar de conformitat amb la normativa vigent abans de la data esmentada.

@@ -1,0 +1,2 @@
+# Disposició final tercera. Text consolidat
+S’encomana al Govern, en els termes previstos a l’article 116 del Reglament del Consell General, que, en el termini màxim de sis mesos des de l’entrada en vigor d’aquesta Llei, presenti al Consell General els projectes de consolidació de la Llei general d’ordenació del territori i urbanisme, del 29 de desembre del 2000, i de la Llei 16/2017, del 13 de juliol, general de l’allotjament turístic, els quals han d’integrar la legislació vigent sobre les matèries regulades.
