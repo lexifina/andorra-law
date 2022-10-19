@@ -1,0 +1,3 @@
+# Disposició transitòria primera
+A fi de facilitar l’aplicació definitiva de la nova disposició, les situacions jurídiques corresponents a activitats de representació digital d’actius, iniciades abans de l’entrada en vigor d’aquesta Llei i que contravinguin les seves disposicions, tindran un termini de sis mesos, comptadors des de l’entrada en vigor de la Llei, per regularitzar la seva activitat mitjançant el procediment d’obtenció de la llicència d’inici d’activitat que correspongui. Passat aquest termini, no podran portar a terme l’activitat i hauran de cessar en el seu exercici.
+Aquelles activitats que després de l’entrada en vigor de la Llei no es regularitzin seran objecte d’instrucció del corresponent expedient sancionador.

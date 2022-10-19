@@ -1,0 +1,3 @@
+# Disposició addicional primera
+Les persones jurídiques que realitzen activitats financeres que operin amb actius digitals, ja sigui a través de mercats primaris o de mercats secundaris, segons es defineix en aquesta Llei, són considerades subjectes obligats en els termes que es refereix la Llei 14/2017, del 22 de juny, de prevenció i lluita contra el blanqueig de diners o valors i el finançament del terrorisme.
+Les persones físiques o jurídiques que actuïn com a veedors digitals registrats d’actius digitals són considerades subjectes obligats en els termes que es refereix la Llei 14/2017, del 22 de juny, de prevenció i lluita contra el blanqueig de diners o valors i el finançament del terrorisme.

@@ -1,0 +1,4 @@
+# Article 32. Definicions i especificacions preliminars sobre les infraccions
+1. Són infraccions susceptibles de sanció en els termes establerts en aquesta Llei les accions o omissions dels subjectes, autors i responsables que vulnerin les disposicions legals d’observança obligatòria.
+2. Les sancions que estableix aquesta Llei són d’aplicació sense perjudici de les responsabilitats penals que es poguessin derivar dels fets presumptament constitutius d’infracció d’acord amb la legislació penal. Quan les infraccions comeses puguin ser constitutives de delicte o falta, l’autoritat reguladora n’informarà immediatament l’autoritat judicial o la fiscalia.
+3. L’autoritat reguladora tramitarà un expedient sancionador al titular o oferent que cometi qualsevol de les infraccions previstes en aquest capítol.
