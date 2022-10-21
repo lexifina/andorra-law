@@ -1,0 +1,2 @@
+# Disposició derogatòria
+Es deroga l’article 1 de la Llei 1/2022, del 20 de gener, de modificació de la tarifa general de taxes sobre el consum, de la Llei 27/2008, del 20 de novembre, d’impostos especials, de la Llei 2/2018, del 22 de març, de control de les mercaderies sensibles i de la Llei 16/2019, del 15 de febrer, de regulació de l’establiment de preus mínims de venda dels productes del tabac.
