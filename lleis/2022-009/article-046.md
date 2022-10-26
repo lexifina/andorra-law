@@ -1,0 +1,4 @@
+# Article 46. Tramitació i resolució del recurs de reposició
+1. El recurs de reposició s’interposa en el termini de tretze dies hàbils a comptar de la notificació de la resolució objecte de recurs, mitjançant un escrit fonamentat al qual s’ha d’adjuntar una còpia de la resolució objecte de recurs en la qual consti la data en què s’ha notificat.
+2. El tribunal o el secretari judicial verifica que el recurs reuneix els requisits necessaris per ser admès i el trasllada a les altres parts personades en el procés perquè formulin al·legacions en el termini de tretze dies hàbils. Posteriorment, el tribunal o el secretari judicial decideix mitjançant un aute o un acord, respectivament.
+3. Contra l’aute o l’acord que resol el recurs de reposició no es pot interposar cap altre recurs, sense perjudici que es puguin reproduir els motius que l’han fonamentat en el recurs d’apel·lació que eventualment s’interposi contra la resolució que posi fi a la instància.

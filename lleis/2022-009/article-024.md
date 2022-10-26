@@ -1,0 +1,4 @@
+# Article 24. Contingut de la contesta
+1. L’escrit de contesta s’estructura de forma similar a la demanda. La part demandada ha de negar, admetre o matisar els fets exposats a la demanda i ha d’invocar els fonaments de dret que consideri procedents.
+2. En l’escrit de contesta la part demandada pot invocar, amb caràcter previ, l’existència d’alguna de les causes d’inadmissibilitat del recurs previstes a l’apartat 2 de l’article 18. Aquesta invocació no l’eximeix de contestar al fons de la demanda.
+3. En el cas que la part demandada vulgui proposar com a prova un document o un informe pericial que no consti en l’expedient administratiu, l’ha d’acompanyar a l’escrit de contesta o, si no està en disposició de fer-ho, ha d’anunciar la seva intenció d’aportar-lo posteriorment. Sense aquest anunci, el document o dictamen pericial no podrà ser admès posteriorment com a prova.

@@ -1,0 +1,4 @@
+# Article 6. Suspensió de l’acte impugnat i altres mesures cautelars
+1. La interposició d’un recurs contenciós administratiu no comporta la suspensió de l’acte o de la norma reglamentària impugnats, però el tribunal la pot acordar, d’ofici o a instància de part, sempre que l’execució de l’acte o l’aplicació de la norma recorreguts puguin causar perjudicis d’impossible o de difícil reparació, o en el cas que l’acte s’impugni per les causes de nul·litat de ple dret.
+2. Quan el recurs s’adreci contra una actuació constitutiva de via de fet, la part recurrent pot demanar la suspensió i també l’adopció d’altres mesures cautelars.
+3. Quan de la suspensió o de l’altra mesura cautelar que se sol·liciti en puguin derivar perjudicis de qualsevol naturalesa, el tribunal pot acordar les mesures que siguin adequades per evitar o pal·liar aquells perjudicis; també pot demanar la prestació d’una caució suficient per respondre’n.

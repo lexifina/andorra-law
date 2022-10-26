@@ -1,0 +1,6 @@
+# Article 2. Principis generals del procediment davant de la jurisdicció administrativa
+1. El procediment davant de la jurisdicció administrativa es fonamenta en els principis d’audiència i contradicció. En el moment processal oportú totes les parts poden formular les pretensions i les al·legacions que tinguin per convenients, així com proposar els mitjans de prova que considerin pertinents.
+2. La jurisdicció administrativa impulsa d’ofici el procediment en totes les seves fases. Les parts i els altres intervinents en el procés han d’assumir les càrregues que els incumbeixen i han de complir els actes processals de la forma i en el temps deguts.
+3. El procediment davant de la jurisdicció administrativa s’inspira en el principi de congruència amb les pretensions de les parts, però, en atenció a l’interès públic, el tribunal pot sotmetre a la consideració de les parts, de la forma prevista per aquesta Llei, motius que no han estat al·legats, si els considera rellevants per a la resolució de la causa.
+4. El procediment davant de la jurisdicció administrativa s’inspira en el principi d’economia processal.
+5. El procediment davant de la jurisdicció administrativa és escrit, sense perjudici de la possibilitat de celebrar vistes o audiències, d’acord amb aquesta Llei.

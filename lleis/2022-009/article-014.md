@@ -1,0 +1,2 @@
+# Article 14. Successió processal
+Si la legitimació d’una part deriva d’un dret o una relació jurídica transmissibles i es produeix la transmissió, ja sigui entre vius o per causa de mort, el causahavent pot succeir processalment aquesta persona, ocupant la mateixa posició que aquesta darrera tenia, en qualsevol moment del procés. Són aplicables les regles previstes en el Codi de procediment civil.

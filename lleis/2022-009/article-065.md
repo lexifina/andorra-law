@@ -1,0 +1,2 @@
+# Article 65. Meritació d’interessos
+Els crèdits líquids contra l’Administració reconeguts per una sentència ferma meriten l’interès legal del diner a partir de la data de notificació de la sentència, salvat que aquesta darrera estableixi una altra cosa. Això no obstant, i amb la mateixa excepció, si transcorren sis mesos des de la data esmentada sense que l’Administració els hagi liquidat, en lloc de l’interès legal s’ha d’aplicar el tipus de l’interès moratori a tot el període.

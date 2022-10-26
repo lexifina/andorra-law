@@ -1,0 +1,3 @@
+# Article 44. Satisfacció extraprocessal
+1. Si després de la interposició d’un recurs contenciós administratiu l’Administració demandada resol de forma conforme a les pretensions que s’exerceixen en aquell recurs, l’Administració, o el mateix recurrent, ho ha de comunicar al tribunal, que, després d’escoltar les parts, declara acabat el procés.
+2. Si l’Administració dicta posteriorment un nou acte que revoca o priva totalment o parcialment d’efectes la resolució prevista a l’apartat precedent, el recurrent pot reproduir la demanda, sense necessitat de recurs administratiu previ, dins del termini previst a l’article 17, a comptar de la notificació d’aquest nou acte.

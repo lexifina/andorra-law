@@ -1,0 +1,2 @@
+# Disposició addicional tercera. Recursos en matèria d’immigració
+Els recursos contra les taxes en matèria d’immigració es regeixen per aquesta Llei, però tots els altres recursos contra resolucions i actes administratius en matèria d’immigració es regeixen, amb caràcter principal, pel procediment especial previst en la Llei qualificada d’immigració; les disposicions d’aquesta Llei s’apliquen amb caràcter supletori.

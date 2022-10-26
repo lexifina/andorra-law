@@ -1,0 +1,2 @@
+# Disposició final quarta. Textos consolidats
+S’encomana al Govern, en els termes previstos a l’article 116 del Reglament del Consell General, que en el termini màxim de sis mesos des de la publicació d’aquesta Llei al Butlletí Oficial del Principat d’Andorra, presenti al Consell General el projecte de consolidació de la Llei qualificada de la justícia i de la Llei de taxes judicials, del 22-6-2000, amb la incorporació de totes les modificacions que s’hi han produït.

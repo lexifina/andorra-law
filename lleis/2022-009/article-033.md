@@ -1,0 +1,3 @@
+# Article 33. Càrrega de la prova
+1. Correspon a les parts la càrrega de provar la certesa dels fets en què fonamenten les pretensions respectives. El tribunal ha de tenir presents la disponibilitat i la facilitat probatòria que correspon a cada una de les parts del procés.
+2. No obstant el que estableix el paràgraf precedent, en els processos en què es justifiqui la concurrència d’indicis que s’ha produït una conducta lesiva dels drets fonamentals o de les llibertats públiques, o una conducta discriminatòria per algun dels motius prohibits per la Constitució o les lleis, correspon a la part demandada aportar una justificació objectiva i raonable, suficientment provada, de les mesures adoptades i de la seva proporcionalitat.

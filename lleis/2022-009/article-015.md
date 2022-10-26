@@ -1,0 +1,4 @@
+# Article 15. Defensa jurídica i representació processal
+1. Amb caràcter general, en tots els processos davant de la jurisdicció administrativa és preceptiva la defensa i l’assistència tècnica prestada per un advocat col·legiat.
+2. Les parts poden comparèixer en el procés personalment o representades per un advocat o un procurador col·legiats, llevat que una llei estableixi una altra cosa. No obstant això, en cas que les parts siguin persones jurídiques, han de comparèixer necessàriament representades per un procurador col·legiat, llevat que una llei estableixi una altra cosa.
+3. Les administracions públiques són defensades i representades davant de la jurisdicció administrativa pels lletrats adscrits a llurs gabinets jurídics; també poden utilitzar els serveis d’advocats i procuradors col·legiats.

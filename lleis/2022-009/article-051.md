@@ -1,0 +1,3 @@
+# Article 51. Trasllat i oposició al recurs d’apel·lació
+1. Un cop admès el recurs d’apel·lació, el tribunal el trasllada a les altres parts personades en el procés perquè formulin al·legacions en un termini comú de vint dies hàbils.
+2. Les parts apel·lades es poden oposar al recurs i poden fer les al·legacions que considerin oportunes en relació amb els arguments formulats i les proves proposades per la part apel·lant, i en relació amb l’admissibilitat del recurs. També poden proposar la pràctica de proves en els casos que estableix l’article 49, i poden demanar la celebració d’una vista, la presentació d’escrits de conclusions, o que la causa es declari conclusa per a sentència.

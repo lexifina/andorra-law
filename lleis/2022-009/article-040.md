@@ -1,0 +1,6 @@
+# Article 40. Contingut de la sentència estimatòria
+1. Quan la sentència estimi el recurs contenciós administratiu, pot tenir el contingut següent:
+a) Declarar que la norma reglamentària o l’acte recorregut no és conforme a dret i, si escau, declarar-ne la nul·litat o anul·lar-lo, en tot o en part, o disposar que cessi o que es modifiqui l’actuació impugnada.
+b) Si s’ha demanat el reconeixement d’una situació jurídica individualitzada, la sentència reconeix aquesta situació jurídica, i adopta les mesures que siguin necessàries per al seu restabliment.
+c) Si es tracta d’una pretensió de rescabalament de danys i perjudicis, la sentència declara, en tot cas, el dret a la indemnització, i a qui correspon l’obligació d’indemnitzar. Fixa també la quantia concreta de la indemnització, quan ho demana el recurrent i consten en els autes elements suficients per fer-ho; altrament, la sentència ha d’establir les bases per determinar la quantia, que es determina posteriorment, en el període d’execució de la sentència.
+2. La jurisdicció administrativa no pot determinar la forma en què han de quedar redactats els preceptes d’una norma reglamentària en substitució dels que resultin anul·lats; tampoc no pot determinar el contingut discrecional dels actes anul·lats.

@@ -1,0 +1,4 @@
+# Article 30. Al·legacions complementàries
+1. Si l’escrit de contesta a la demanda esmenta fets nous, no invocats a la demanda, i que tinguin transcendència per a la resolució del litigi, la part demandant pot formular al·legacions complementàries, exclusivament sobre aquests fets, en el termini de vuit dies hàbils a comptar del dia en què ha rebut trasllat de l’escrit de contesta.
+2. Si l’Administració demandada lliura o completa l’expedient amb posterioritat a la contesta a la demanda, la part demandant pot formular al·legacions complementàries en relació amb els documents aportats en el termini de vuit dies hàbils a comptar del dia en què n’ha rebut trasllat.
+3. Quan admet un escrit d’al·legacions complementàries, el tribunal el trasllada a totes les altres parts, i els concedeix un termini de vuit dies hàbils per contestar aquestes al·legacions.

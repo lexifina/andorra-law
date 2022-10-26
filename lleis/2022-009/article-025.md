@@ -1,0 +1,2 @@
+# Article 25. Falta de presentació de la contesta
+Si l’Administració o una altra part demandada no contesta la demanda dins del termini establert, perd la possibilitat de fer-ho, però això no comporta que admeti els fets continguts a la demanda ni que doni la seva conformitat a les peticions del demandant. En qualsevol cas, l’Administració ha de remetre al tribunal l’expedient administratiu; si no ho fa, el tribunal procedeix d’acord amb l’article següent.

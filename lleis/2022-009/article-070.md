@@ -1,0 +1,5 @@
+# Article 70. Demanda d’execució
+1. L’Administració, l’entitat pública o la persona administrada que insti l’execució forçosa d’una resolució dictada per la jurisdicció administrativa que no hagi de dur a terme el saig, d’acord amb la Llei del saig, ha de presentar una demanda d’execució davant del tribunal competent.
+2. La demanda d’execució es presenta mitjançant un escrit en què s’ha d’identificar la persona o l’Administració pública contra la qual es demana l’execució. La demanda s’ha d’acompanyar d’una còpia de la resolució que es pretén executar, i se n’ha d’acreditar la fermesa.
+3. Si la demanda d’execució reuneix els requisits necessaris per a l’admissió, el tribunal despatxa l’execució; en cas contrari denega el despatx de l’execució. En qualsevol dels casos, aquesta decisió pren la forma d’un aute, que és susceptible de recurs, d’acord amb el que estableix l’article 75.
+4. L’execució es regeix per les normes del procediment civil, amb les adaptacions necessàries a la mecànica del procés contenciós administratiu, excepte en allò que està expressament regulat per aquesta Llei.

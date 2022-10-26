@@ -1,0 +1,4 @@
+# Article 28. Resolució de les al·legacions d’inadmissibilitat
+1. Si la part demandada ha al·legat alguna causa d’inadmissibilitat del recurs, en traslladar l’escrit de contesta a la part demandant, el tribunal li concedeix un termini de vuit dies hàbils perquè manifesti allò que tingui per convenient, exclusivament en relació amb aquelles al·legacions.
+2. Transcorregut el termini esmentat a l’apartat precedent, si el tribunal aprecia l’existència d’alguna de les causes d’inadmissibilitat invocades, resol, mitjançant un aute, que el recurs no és admissible; altrament, dicta una providència per ordenar la prossecució del procés, i en posposa la resolució fins a la sentència.
+3. Contra l’aute que declara que el recurs no és admissible hi cap recurs d’apel·lació. La providència que ordena la prossecució del procés no és susceptible de recurs, i no prejutja la resolució definitiva.

@@ -1,0 +1,4 @@
+# Article 17. Termini
+1. El termini per a la interposició del recurs contenciós administratiu és de dos mesos a comptar de la data de la notificació de l’acte, quan aquest sigui impugnable directament en via jurisdiccional, o de la data de la notificació de la resolució del recurs administratiu previ. Si no s’ha produït la notificació, el termini és de sis mesos a comptar de la data en què la sol·licitud o el recurs s’hagin de considerar desestimats per silenci administratiu, d’acord amb les disposicions legals aplicables.
+2. El termini per a la interposició del recurs de lesivitat és de dos mesos a comptar de la data de la declaració de lesivitat.
+3. Si el recurs s’adreça contra una actuació en via de fet, el termini és de dos mesos a comptar del moment en què l’actuació administrativa és coneguda pel recurrent.

@@ -1,0 +1,2 @@
+# Article 63. Execució per l’Administració
+Les administracions públiques han de complir les sentències en el termini de sis mesos a comptar de la data en què siguin fermes, sempre que la sentència no hagi establert un termini diferent per a l’execució. Transcorregut aquest termini, qualsevol part en el judici i qualsevol altra persona que justifiqui un interès legítim, personal i directe en pot instar l’execució forçosa.
