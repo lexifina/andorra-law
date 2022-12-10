@@ -1,0 +1,4 @@
+## Capítol primer. Mesures provisionals de reducció del consum energètic i d’estalvi energètic
+# Article 1. Adopció de les mesures
+1. Quan circumstàncies greus ho justifiquin, el Govern pot establir mitjançant decret les mesures provisionals de reducció del consum energètic i d’estalvi energètic de compliment obligat que consideri necessàries d’entre les que esmenta l’article 2. El decret ha d’expressar les circumstàncies que justifiquen l’adopció de les mesures.
+2. Les mesures provisionals de reducció del consum energètic i d’estalvi energètic han de tenir una vigència temporal determinada, que no pot ser superior a dos mesos. Aquestes mesures poden ser prorrogades per decret, per períodes màxims de dos mesos, si, al final dels terminis respectius, subsisteixen les circumstàncies que les justifiquen.

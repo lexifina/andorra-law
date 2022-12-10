@@ -1,0 +1,7 @@
+## Capítol quart. Inspecció i control. Règim sancionador
+## Secció primera. Inspecció i control
+# Article 11. Competència inspectora
+1. Amb caràcter general, la inspecció i el control del compliment de les mesures de restricció i estalvi energètic que hagi establert el Govern en ús de les facultats que li concedeix aquesta Llei corresponen al ministeri competent en matèria d’energia.
+2. No obstant el que estableix l’apartat 1, els serveis d’inspecció de qualsevol departament del Govern, prèvia habilitació, poden aixecar actes i constatacions d’infracció de les mesures de restricció i estalvi energètic que afectin comerços, oficines, despatxos, indústries i altres establiments oberts al públic, i adreçar-les al ministeri competent en matèria d’energia.
+3. Els serveis d’inspecció dels comuns també són competents per aixecar actes i constatacions d’infracció de les mesures de restricció i estalvi energètic que afectin comerços, oficines, despatxos, indústries i altres establiments oberts al públic, dins del terme de la respectiva parròquia. El comú adreça les actes aixecades al ministeri competent en matèria d’energia.
+4. Les constatacions i les actes aixecades pels funcionaris dels serveis d’inspecció del Govern i dels comuns, en l’àmbit de la respectiva parròquia, en la comprovació de fets presumptament constitutius d’infracció, es presumeixen certes, salvat que es provi el contrari.
