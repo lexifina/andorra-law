@@ -1,0 +1,5 @@
+# Disposició final cinquena
+Aquesta Llei entra en vigor l’endemà de ser publicada al Butlletí Oficial del Principat d’Andorra.
+No obstant això, pel que fa a l’article 4 de la Llei que proposa l’addició d’un article 15 bis, en el cas dels contractes financers amb clients de data anterior a la data d’entrada en vigor de la Llei que no s’hagin rescindit, s’han d’actualitzar perquè s’especifiqui un o diversos índexs de referència alternatius, quan sigui possible i sobre la base del millor esforç possible.
+En quant a l’article 11 de la Llei que proposa l’addició d’un article 95, l’obligació de notificació s’aplica als contractes de derivats que se subscriguin en la data d’entrada en vigor de la Llei o amb posterioritat.
+Finalment, referent a l’article 11 de la Llei que proposa l’addició d’un article 96, les contraparts financeres han de dotar-se de procediments de gestió del risc que requereixin l’intercanvi de garanties oportú, exacte i amb una segregació adequada respecte dels contractes de derivats extraborsaris que se subscriguin en la data d’entrada en vigor de la Llei i amb posterioritat.

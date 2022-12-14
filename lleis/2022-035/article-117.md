@@ -1,0 +1,9 @@
+# Article 117. Sancions per infraccions molt greus
+1. En el cas d’incompliments de les obligacions previstes en aquest capítol que constitueixin una infracció molt greu, s’ha d’imposar a l’infractor una de les sancions següents o més:
+a) Multa per un import de fins a la més gran de les quantitats següents:
+i) En cas de persona jurídica, 2.500.000 euros o el 2,5% del volum de negocis anual total de la persona jurídica segons els últims comptes disponibles aprovats per l’òrgan d’administració.
+ii) En cas de persona física, fins a 75.000 euros per a cadascun dels qui, pel fet d’exercir càrrecs d’alta direcció o funcions de control, de dret o de fet, siguin responsables de les infraccions.
+b) Si l’infractor és una entitat operativa del sistema financer, una entitat asseguradora o reasseguradora, la revocació de l’autorització.
+c) Una amonestació pública al Butlletí Oficial del Principat d’Andorra amb la publicació de la identitat de l’infractor i la naturalesa de la infracció, tenint en compte les previsions de l’article 22 de la Llei de regulació del règim disciplinari del sistema financer, del 27 de novembre de 1997, o una amonestació privada.
+d) La suspensió de l’exercici del càrrec que ocupi l’infractor, així com la prohibició temporal d’exercir càrrecs d’administració, de direcció o de funcions de control en qualsevol contrapart financera del Principat d’Andorra per un termini no superior a cinc anys. La inhabilitació temporal per exercir càrrecs d’administració, de direcció o funcions de control en una contrapart financera s’ha d’aplicar també a qualsevol altra persona física que es consideri responsable de la infracció.
+2. Si l’entitat infractora és una matriu o filial de l’empresa matriu que hagi d’elaborar estats financers consolidats, el volum de negocis total anual aplicable és el que figuri en els últims estats financers consolidats requerits al Principat d’Andorra disponibles.
