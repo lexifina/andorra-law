@@ -1,0 +1,4 @@
+## Capítol segon. Reserves internacionals
+# Article 2. Creació de les reserves internacionals del Principat d’Andorra
+Les reserves internacionals formen part de la tresoreria de l’Estat i tenen la finalitat estratègica de preservar l’estabilitat econòmica i financera del Principat d’Andorra. En aquest sentit, han de permetre millorar el seu posicionament en els mercats de capitals i facilitar les vies de finançament exterior en proporcionar un nivell de confiança addicional als mercats sobre la capacitat de l’Estat per fer front als seus compromisos financers.
+Les reserves internacionals han d’estar constituïdes per actius líquids o negociables fàcilment realitzables, han d’estar sota el control efectiu del gestor de les reserves i conservades a l’exterior del país. La tresoreria gestionada com a reserva internacional no té la consideració d’afectada segons l’article 48 de la Llei general de les finances públiques, del 19 de desembre de 1996.

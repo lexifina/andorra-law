@@ -1,0 +1,5 @@
+# Article 3. Gestió dels actius de les reserves internacionals
+1. En virtut del que estableix la Llei general de les finances públiques, del 19 de desembre de 1996, i les seves modificacions posteriors, s’acorda dipositar les reserves internacionals a través de l’Autoritat Financera Andorrana (AFA).
+2. L’AFA, al seu torn, ha de custodiar els fons destinats a reserves internacionals a l’exterior i, en particular, en bancs centrals.
+3. L’AFA exerceix les funcions d’administració i custòdia de les reserves internacionals.
+4. Es crea un òrgan denominat Comissió Gestora de les Reserves Internacionals, que ha d’estar format, com a mínim, per quatre membres, i és el ministre encarregat de les finances qui n’ostenta la presidència i el director general de l’AFA qui n’exerceix la vicepresidència. En el cas que el nombre de membres sigui parell, el vot del president és diriment. Aquest òrgan és l’encarregat de gestionar adequadament les reserves internacionals de conformitat amb els principis de prudència i diligència degudes. La seva composició i el seu funcionament es desenvolupen via reglamentària.

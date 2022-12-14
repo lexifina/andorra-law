@@ -1,0 +1,5 @@
+# Article 8. Fons disponibles per a l’assistència en forma de provisió urgent de liquiditat
+Es consideren fons disponibles per a l’assistència en forma de provisió urgent de liquiditat les reserves internacionals i els mecanismes financers associats, a excepció de les reserves que es corresponguin amb el compte de compensació previst a la Llei 32/2014, del 27 de novembre, de sostenibilitat de les finances públiques i d’estabilitat pressupostària i fiscal.
+L’AFA pot disposar lliurement, en cas de necessitat, de 200 milions d’euros d’aquestes reserves o dels seus mecanismes financers associats per desenvolupar l’assistència en forma de provisió urgent de liquiditat.
+Per utilitzar un import de reserves superior, l’AFA ha de presentar al Govern una petició en què argumenti per què és necessari superar aquest límit i objectivi tant la situació sobrevinguda com el seu possible impacte sobre l’estabilitat financera. A proposta del ministre encarregat de les finances, el Govern té un màxim de 48 hores per resoldre aquesta sol·licitud.
+El Govern pot proposar modificar aquest import a través del Projecte de llei del pressupost general.
