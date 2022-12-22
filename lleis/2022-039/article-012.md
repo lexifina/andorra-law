@@ -1,0 +1,3 @@
+# Article 12. Formació continuada
+1. La formació continuada té per finalitat actualitzar, ampliar i millorar els coneixements, les habilitats i les aptituds dels professionals titulats de la salut davant de l’evolució científica i tecnològica, com també incentivar el treball i la motivació personal, així com davant les demandes de la societat i del mateix sistema de salut.
+2. La formació continuada és obligatòria per a les professions titulades de la salut quan el Govern la consideri necessària o quan ho prevegin el conjunt de les normes col·legials. El Govern ha de fixar per via reglamentària els terminis i les condicions en els quals és necessari dur a terme una formació continuada, prèvia consulta dels col·legis professionals respectius.

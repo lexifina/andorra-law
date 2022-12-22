@@ -1,0 +1,6 @@
+# Article 35. Òrgans de govern dels col·legis professionals
+1. Els òrgans de govern dels col·legis professionals són l’assemblea general i la junta de govern, dirigida per un president.
+2. La junta de govern és l’òrgan col·legial d’administració i direcció del col·legi. Els estatuts de cada col·legi han de desenvolupar el règim de convocatòria i de constitució, el funcionament i la composició de la junta de govern, així com el procediment de designació, destitució i renovació dels seus membres i la durada del seu mandat.
+3. Les resolucions adoptades per la junta de govern poden ser objecte de recurs davant de la mateixa junta de govern, en el termini d’un mes natural des de l’endemà del dia que es notifiquen. La junta de govern disposa d’un termini de trenta dies hàbils per resoldre el recurs formulat. Exhaurida aquesta via, es pot interposar un recurs davant de la Secció Administrativa de la Batllia, en els termes que preveu la normativa aplicable a la jurisdicció administrativa vigent en cada moment.
+4. L’assemblea general és l’òrgan suprem de govern del col·legi, i es pot reunir en sessió ordinària o extraordinària. Els estatuts de cada col·legi han de desenvolupar el règim de convocatòria i de constitució, i també el funcionament i la composició de l’assemblea general.
+5. Els estatuts de cada col·legi també han de regular el règim econòmic col·legial.

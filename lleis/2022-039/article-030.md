@@ -1,0 +1,14 @@
+# Article 30. Requisits de col·legiació
+1. Per ser admès al col·legi professional que correspongui és necessari, en tot cas, disposar del títol d’ensenyament superior requerit per a l’exercici de la professió de la qual es tracti i estar en plena possessió dels drets civils i polítics. En el cas dels nacionals no andorrans, s’entén referida als seus estats d’origen i de residència efectiva.
+2. Per ser admès al col·legi professional que correspongui com a membre exercent cal reunir, a més dels requisits establerts en l’apartat anterior, els requisits següents:
+a) Disposar de la corresponent autorització d’exercici de la professió titulada.
+b) Disposar de la corresponent inscripció al Registre de professionals sanitaris.
+c) No trobar-se comprès en cap dels supòsits d’incapacitat per a l’exercici de la professió en esdevenir-se alguna de les circumstàncies previstes a l’article 10.
+d) No trobar-se comprès en cap de les causes de pèrdua de col·legiació d’acord amb l’article 31 per a l’exercici de la professió o de prohibició de l’exercici de la professió.
+e) No trobar-se comprès en cap de les causes d’incompatibilitat d’acord amb l’article 11 per a l’exercici de la professió o de prohibició de l’exercici de la professió.
+f) Haver adreçat una sol·licitud escrita completa a la junta de govern del col·legi amb la documentació obligatòria corresponent i indicada en els estatuts a aquest efecte, seguint el procediment que s’hi estableix.
+g) Abonar la quota de col·legiació, i si escau, les altres contribucions col·legials fixades pels estatuts.
+h) Tenir i mantenir vigent l’assegurança de responsabilitat civil obligatòria indicada pel col·legi.
+3. Els estatuts col·legials poden supeditar l’accés a la col·legiació a l’acreditació que la persona interessada no té antecedents penals per delictes majors dolosos, ni al Principat d’Andorra ni a l’estranger, relacionats amb l’exercici de la professió.
+Així mateix, els estatuts col·legials poden establir que l’admissió definitiva al col·legi com a membre exercent no es pot fer efectiva fins que la persona interessada es trobi degudament inscrita per realitzar l’activitat professional en almenys una de les tipologies de centre sanitari que figuren al registre pertinent del ministeri competent en matèria de salut.
+4. Si la junta de govern té coneixement que un col·legiat exerceix la professió sense complir els requisits de col·legiació previstos per la legislació vigent, l’ha de requerir perquè regularitzi la seva situació en el termini de quinze dies hàbils, sens perjudici de les responsabilitats disciplinàries que se’n puguin derivar. En cas que no ho faci, la junta de govern ha de decidir, mitjançant resolució motivada, la suspensió del professional de l’exercici de la professió. La junta de govern ha de deixar sense efecte la suspensió quan el membre suspès justifiqui que ha regularitzat la seva situació.

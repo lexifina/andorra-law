@@ -1,0 +1,4 @@
+# Disposició transitòria primera. Adaptació estatutària
+1. Els col·legis creats amb anterioritat a l’entrada en vigor d’aquesta Llei han d’adaptar els seus estatuts en el termini màxim de dos anys a comptar de la data referida.
+2. Els estatuts modificats, una vegada aprovats, juntament amb la certificació de l’acta de l’assemblea, s’han de remetre al Registre de Professionals Titulats, Col·legis i Associacions Professionals, adscrit al ministeri competent en matèria de justícia, el qual, prèvia consulta al ministeri competent en matèria de salut, els ha d’inscriure en la secció corresponent, un cop s’hagi qualificat la seva adequació a la legalitat.
+3. Mentre aquesta adaptació no es produeixi, els estatuts continuen vigents en allò que no contradigui aquesta Llei i s’han d’interpretar, en tot cas, d’acord amb les disposicions previstes en aquesta Llei.

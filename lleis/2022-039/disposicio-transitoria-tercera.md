@@ -1,0 +1,2 @@
+# Disposició transitòria tercera. Normes aplicables a les sol·licituds presentades abans de l’entrada en vigor d’aquesta Llei
+Les sol·licituds d’autorització d’exercici d’una professió titulada de la salut i les notificacions d’exercici de curta durada de les professions referides presentades abans de l’entrada en vigor d’aquesta Llei, es continuen tramitant de conformitat amb la normativa que es trobava vigent i per l’autoritat que era competent abans de la data esmentada.

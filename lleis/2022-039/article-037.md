@@ -1,0 +1,4 @@
+# Article 37. Responsabilitat disciplinària
+1. Amb independència de la responsabilitat penal, civil o administrativa, els col·legiats també estan subjectes a la responsabilitat disciplinària derivada de l’incompliment dels deures i les obligacions professionals que els són específics.
+2. En els termes establerts en aquesta Llei i en els estatuts del col·legi que correspongui, aquest darrer exerceix, a través dels òrgans corresponents, la potestat disciplinària en relació amb els col·legiats pels actes que duguin a terme o per les omissions en què incorrin en l’exercici o amb motiu de la professió, i que infringeixin els deures i les obligacions continguts en aquesta Llei, els estatuts del col·legi o les normes deontològiques aprovades pel col·legi corresponent.
+3. La responsabilitat disciplinària és independent de la responsabilitat civil, administrativa i penal en què puguin incórrer els col·legiats pels mateixos fets.

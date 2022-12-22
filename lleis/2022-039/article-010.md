@@ -1,0 +1,7 @@
+# Article 10. Incapacitats per a l’exercici
+1. Són circumstàncies que incapaciten per a l’exercici de les professions titulades de la salut:
+a) Els impediments físics o psíquics que per la seva naturalesa o entitat impossibilitin el compliment de les funcions atribuïdes als professionals titulats de la salut en funció de la professió de la qual es tracti.
+b) La inhabilitació o la suspensió per a l’exercici de la professió, en virtut d’una resolució judicial, administrativa o col·legial ferma.
+c) L’expulsió del col·legi, en cas d’existir, mitjançant una resolució col·legial ferma.
+2. Les incapacitats desapareixen quan cessin les causes que les han motivat o quan s’hagi extingit la responsabilitat penal o disciplinària corresponent.
+3. En cas d’existir el col·legi, si la junta de govern té coneixement que un col·legiat exerceix la professió en una situació d’incapacitat professional, l’ha de requerir perquè regularitzi la seva situació en el termini de quinze dies hàbils, sens perjudici de les responsabilitats disciplinàries que se’n puguin derivar. En cas que no ho faci, la junta de govern ha de decidir, mitjançant resolució motivada i de conformitat amb el procediment que s’estableixi reglamentàriament, la suspensió del professional de l’exercici de la professió. La junta de govern ha de deixar sense efecte la suspensió quan el membre suspès justifiqui que la situació d’incapacitat ha cessat.

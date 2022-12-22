@@ -1,0 +1,4 @@
+# Article 18. Registres professionals col·legials
+1. Cada col·legi ha de portar i tenir al dia un registre dels seus col·legiats en exercici professional per compte aliè o per compte propi, amb independència de la inscripció dels seus col·legiats com a membres.
+2. Cada col·legiat té el deure de sol·licitar personalment la inscripció en el registre professional que li correspongui i ha de comunicar les altes i les baixes que es produeixin, i és responsable disciplinàriament de la infracció d’aquesta norma.
+3. Els registres han de contenir, com a mínim, la informació i la documentació corresponent sobre la modalitat d’exercici professional, la identificació del centre i la seva composició, les activitats professionals que s’hi desenvolupen, les altes i baixes i qualsevol altra informació que precisin la normativa que resulti aplicable o els estatuts col·legials vigents.

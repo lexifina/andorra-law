@@ -1,0 +1,4 @@
+# Article 42. Mesures provisionals
+1. La junta disciplinària pot acordar, mitjançant una resolució motivada i amb l’audiència prèvia de la persona interessada, la suspensió cautelar de l’exercici de la professió del col·legiat contra el qual se segueix un expedient disciplinari, tenint en compte la gravetat dels fets comesos i les circumstàncies que concorrin.
+2. La suspensió de l’expedient disciplinari per prejudicialitat penal no impedeix el manteniment de les mesures cautelars adoptades, sempre que no siguin incompatibles amb les que s’adoptin en el procés penal.
+3. El període de suspensió cautelar no pot ser superior al de la sanció que pugui ser imposada per la infracció presumptament comesa, i el temps transcorregut s’ha de tenir en compte a l’efecte de computar el període de l’eventual sanció d’inhabilitació professional que es pugui imposar al terme de l’expedient disciplinari.

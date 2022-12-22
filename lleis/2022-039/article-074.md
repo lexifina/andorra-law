@@ -1,0 +1,2 @@
+# Article 74. Requisits de titulació per exercir la professió de psicòleg
+Per accedir a l’exercici de la professió, els psicòlegs han d’estar en possessió d’una titulació d’ensenyament superior del, com a mínim, nivell 7 del Marc andorrà de qualificacions (MAQ). El primer i el segon cicle d’estudis oficials d’ensenyament superior, 6A MAQ i 7 MAQ, respectivament, han de ser en l’àmbit de la psicologia.

@@ -1,0 +1,15 @@
+# Article 4. Principis generals
+1. Són principis generals que presideixen l’exercici de les professions titulades de la salut:
+a) El respecte de la vida, la integritat, la dignitat i la intimitat de la persona.
+b) La prevalença de l’interès i el benestar de l’ésser humà sobre l’interès exclusiu de la societat o de la ciència.
+c) El tracte amb idèntiques consideracions a tots els usuaris dels serveis d’atenció sanitària, sense fer cap discriminació per raó de naixement, raça, sexe, origen, religió, opinió o qualsevol altra circumstància personal o social, procurant el màxim respecte per les especificitats pròpies de cada individu o col·lectiu, i garantint el respecte a la dignitat i la intimitat de cada usuari del sistema sanitari, d’acord amb la seva voluntat i creences.
+d) L’ús racional i eficient dels recursos diagnòstics i terapèutics disponibles.
+e) L’accés en condicions d’igualtat a l’atenció sanitària necessària, d’acord amb els recursos disponibles.
+f) La necessitat d’obtenir el consentiment lliure i informat dels usuaris del sistema sanitari abans de procedir a qualsevol actuació o intervenció que ho requereixi, d’acord amb la normativa establerta.
+g) La prestació d’una atenció sanitària de qualitat en constant evolució i millora.
+h) La preservació i el tracte confidencial de les dades dels usuaris del sistema sanitari d’acord amb normativa vigent.
+2. Amb les limitacions que estableixin les lleis, els estatuts col·legials i les normes i els usos deontològics, els professionals titulats de la salut exerceixen la seva activitat professional amb plena independència i llibertat de criteri, opinió i decisió, sense supervisió mèdica.
+3. En l’exercici de la seva professió, els professionals titulats de la salut estan sotmesos a la Constitució, a les lleis, als estatuts del col·legi, si existeix, i a les normes i els usos que configuren la deontologia i l’ètica de la professió, així com a les normes i resolucions vàlidament adoptades pels òrgans del col·legi professional corresponent. Les normes i els usos esmentats constitueixen el codi de conducta especial i específic d’alta exigència ètica dels professionals titulats de la salut, i han d’estar destinats a garantir la bona execució de les funcions que tenen encomanades.
+4. Els professionals titulats de la salut exerceixen la seva professió en règim de lliure i lleial competència amb els altres professionals de la salut, i han d’aplicar en tot moment les regles de respecte, cortesia i consideració degudes, de conformitat amb les lleis, els estatuts col·legials i les normes i els usos deontològics.
+5. Els professionals titulats de la salut estan habilitats a exercir totes les activitats que, seguint les evolucions de les tècniques i sempre que presentin una evidència científica, el col·legi professional corresponent introdueixi en el si de la professió d’acord amb la legislació vigent en cada moment.
+6. Els professionals titulats de la salut col·legiats en règim d’exercent formen part del sistema de salut finançat públicament quan exerceixen en estructures públiques o parapúbliques o en el marc d’un conveni amb la Caixa Andorrana de Seguretat Social.

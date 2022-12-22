@@ -1,0 +1,4 @@
+# Article 28. Objecte i finalitats
+1. Els col·legis professionals tenen per objecte, d’una part, vetllar perquè l’actuació dels professionals titulats de la salut, en el seu respectiu àmbit de competències i funcions, correspongui als interessos de la societat i ofereixin progressivament una assistència sanitària de qualitat i actualitzada, i, d’altra part, dotar els col·legiats d’una institució de representació i defensa de la professió i dels interessos professionals.
+2. Les finalitats essencials dels col·legis professionals són les establertes a la Llei d’exercici de professions titulades i de col·legis i associacions professionals.
+3. La finalitat de representació exclusiva de la professió comprèn la negociació i la signatura dels eventuals convenis dels professionals titulats de la salut amb les administracions i entitats parapúbliques, de conformitat amb la normativa que resulti aplicable.
