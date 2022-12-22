@@ -1,0 +1,5 @@
+# Article 11. Addició de l’article 35 quater a la Llei qualificada de la Justícia
+S’addiciona l’article 35 quater a la Llei qualificada de la Justícia, del 3 de setembre de 1993, el qual queda redactat en els termes següents:
+“Article 35 quater
+1. El Consell Superior de la Justícia pot encarregar l’elaboració d’estudis, informes i documentació sobre matèries d’interès per a l’Administració de justícia. Els encàrrecs, fets a persones de solvència reconeguda, han d’estipular la seva finalitat concreta, que en cap cas no pot ser pronunciar-se sobre una causa o un procediment pendent davant dels òrgans judicials del Principat. En la publicació o difusió d’aquests treballs, el Consell fa constar que en cap cas no vinculen els òrgans judicials ni el mateix Consell.
+2. Els presidents dels tribunals i el fiscal general poden adreçar-se al Consell Superior de la Justícia per demanar que encarregui els estudis, els informes i la documentació que considerin convenients per al millor exercici de les funcions dels òrgans respectius.”

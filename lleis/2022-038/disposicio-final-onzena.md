@@ -1,0 +1,2 @@
+# Disposició final onzena. Textos consolidats
+S’encomana al Govern que, en els termes previstos a l’article 116 del Reglament de Consell General i en el termini màxim de sis mesos des de la data d’entrada en vigor d’aquesta Llei, presenti al Consell General els projectes de llei de text consolidat de la Llei qualificada de la Justícia, del Codi de procediment penal, del Codi penal, del Codi de procediment civil i de la Llei qualificada de seguretat pública, que incloguin les modificacions introduïdes fins a l’actualitat en aquestes tres lleis.

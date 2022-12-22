@@ -1,0 +1,7 @@
+# Article 15. Modificació de l’article 53 de la Llei qualificada de la Justícia
+Es modifica l’article 53 de la Llei qualificada de la Justícia, del 3 de setembre de 1993, el qual queda redactat en els termes següents:
+“Article 53
+1. El Tribunal de Corts es compon d’un president i un conjunt de magistrats en un nombre no inferior a quatre. En cas d’absència o impossibilitat del president, el substitueix el magistrat amb més antiguitat en el càrrec, i així successivament, i si concorren dos magistrats amb la mateixa antiguitat, el substitueix el magistrat de més edat.
+2. En cas de necessitat, i per acord del Consell Superior de la Justícia, els batlles poden ser habilitats per actuar en règim de suplència al Tribunal de Corts segons l’article 50.10 d’aquesta Llei.
+3. El Consell Superior de la Justícia pot crear places al Tribunal de Corts per suplir provisionalment les baixes de magistrats que es produeixin i per reforçar el Tribunal si la seva càrrega ho requereix. Les places de suplència i reforç tenen la mateixa consideració que les altres places del Tribunal.
+4. En cas de necessitat, i per acord del Consell Superior de la Justícia, els magistrats del Tribunal de Corts poden ser habilitats per actuar en règim de suplència al Tribunal Superior de Justícia, quan no sigui possible per qualsevol causa la formació del Tribunal amb els seus propis membres. En aquest cas, el president del Tribunal de Corts designa el magistrat corresponent d’acord amb un torn preestablert.”
