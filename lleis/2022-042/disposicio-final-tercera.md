@@ -1,0 +1,11 @@
+# Disposició final tercera. Modificació de l’article 98 de la Llei 17/2008, del 3 d’octubre, de la Seguretat Social
+Es modifica l’article 98 de la Llei 17/2008, del 3 d’octubre, de la Seguretat Social, que queda redactat tal com segueix:
+“Article 98. Base de cotització de les persones assalariades
+1. La base de cotització de les persones assalariades mentre presten serveis està constituïda pel salari global, en els termes definits a la legislació laboral, les indemnitzacions i quitances i qualsevol altra remuneració que, amb caràcter mensual, tingui dret a percebre la persona assalariada o la que efectivament percebi si aquesta és superior, per raó del treball que realitzi per compte de l’empresa on presta serveis.
+2. No es computa en la base de cotització el següent:
+a) La participació en el finançament, per part de l’empresa, d’un pla complementari de jubilació públic o privat de la persona assalariada i de la percepció dels avantatges o dels rendiments d’aquest pla.
+Els imports i les modalitats de cotització, en cas de recuperació en forma de capital del pla de jubilació constituït, s’han d’establir reglamentàriament.
+b) La retribució percebuda per les persones assalariades de les societats mercantils que tinguin la forma de startup que consisteixi en el lliurament de participacions socials o accions, opcions sobre aquestes o drets econòmics referenciats sobre el valor de la participació social o de l’acció.
+3. És nul qualsevol acte o pacte individual o col·lectiu que pretengui alterar la base de cotització establerta, excepte en aquells supòsits que, per disposició legal, s’estableixi el contrari.
+4. La base de cotització dels socis que es troben inclosos dins el col·lectiu de persones assalariades i assimilades, d’acord amb l’article 18, està constituïda pel salari global, qualsevol que sigui la seva forma o denominació que, amb caràcter mensual, tinguin dret a percebre, però com a mínim ha de ser igual al salari mínim oficial.
+5. En el cas de resolucions judicials fermes relatives a un acomiadament fet de forma indeguda, un acomiadament improcedent, un acomiadament injustificat o un desistiment justificat de la persona assalariada, l’Administració de justícia i la persona assegurada han de lliurar a la CASS una còpia de la resolució esmentada.”

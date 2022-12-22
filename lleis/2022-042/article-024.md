@@ -1,0 +1,4 @@
+# Article 24. Assegurances obligatòries
+1. Els propietaris o altres gestors dels espais compartits de treball han de subscriure amb una entitat asseguradora autoritzada per operar al Principat d’Andorra una pòlissa d’assegurança de responsabilitat civil per danys a tercers en una quantia suficient per cobrir danys eventuals, d’acord amb la capacitat màxima d’aforament declarada i amb allò que s’estableixi reglamentàriament.
+2. L’assegurança esmentada a l’apartat 1 és obligatòria, amb independència de les possibles obligacions de l’usuari de l’espai compartit de treball en aquells supòsits de contractes regulats a l’article 23.1.d) per raó d’aplicació de la normativa vigent en cada moment en matèria d’arrendament de finques urbanes.
+3. El ministeri encarregat de l’economia pot exigir en tot moment la presentació i l’exhibició de la pòlissa d’assegurança a la qual es refereix l’apartat 1.

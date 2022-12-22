@@ -1,0 +1,3 @@
+# Article 137. Creació del laboratori d’innovació oberta
+1. Un laboratori d’innovació oberta és creat pel seu promotor, amb la participació inicial o posterior de la resta d’actors que hi intervindran. La creació es pot dur a terme mitjançant un contracte, un conveni o un acord de col·laboració o, si escau, mitjançant la constitució d’una persona jurídica de la naturalesa que es consideri més adient.
+2. Per poder crear un laboratori d’innovació oberta, el promotor ha de disposar de les oportunes autoritzacions que, de conformitat amb la legislació en vigor, li permetin dur a terme una activitat relacionada amb la iniciativa que pretén explorar, experimentar i avaluar.

@@ -1,0 +1,3 @@
+# Disposició final vuitena. Modificació del Reglament de Construcció
+1. S’encomana al Govern que en el termini de sis mesos des de l’entrada en vigor d’aquesta Llei modifiqui el Reglament de construcció vigent perquè s’estableixin les característiques i els requisits dels espais d’ús privatiu i dels espais comuns d’ús compartit dels espais comuns complementaris, així com el règim d’inspecció aplicable per a la comprovació del compliment de la normativa en matèria de construcció.
+2. Les característiques i els requisits dels espais d’ús privatiu i dels espais comuns d’ús compartit dels espais comuns complementaris, així com el règim d’inspeccions, s’han d’assimilar als previstos pel Reglament de construcció en matèria d’habitabilitat.

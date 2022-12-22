@@ -1,0 +1,6 @@
+# Article 121. Fase de desenvolupament i seguiment
+Amb la qualificació favorable d’accés a l’entorn controlat de proves i l’aprovació del certificat operacional temporal, juntament amb la subscripció del protocol de proves i el compliment d’altres requisits establerts en aquesta Llei, s’inicia la fase de desenvolupament i seguiment de l’entorn controlat de proves, la qual pot ser objecte de desenvolupament reglamentari de forma genèrica o per raó del sector o de la disciplina de què es tracti. En aquesta fase:
+1. El monitor o monitors assignats fan el seguiment de les proves, mitjançant una comunicació continuada amb el promotor.
+2. El promotor presenta, en funció de l’establert al protocol de proves, informes periòdics de les proves dutes a terme.
+3. L’autoritat supervisora pot sol·licitar en tot moment, d’ofici o a petició de la Comissió de Coordinació, aclariments al promotor o demostracions relatives a les proves, amb l’objectiu de valorar el compliment dels requisits establerts en aquest títol i dels termes i condicions establerts al protocol de proves.
+4. Addicionalment, durant aquesta fase, es poden dur a terme modificacions del protocol de proves, de conformitat amb l’establert a l’article 120.4.

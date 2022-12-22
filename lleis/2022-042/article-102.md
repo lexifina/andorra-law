@@ -1,0 +1,15 @@
+# Article 102. Període de reflexió precontractual
+1. Les condicions de l’oferta de finançament participatiu seguiran sent vinculants per al promotor del projecte a partir del moment en què l’oferta de finançament participatiu figuri a la plataforma de finançament participatiu i fins al dia anterior de les dates següents:
+a) La data d’expiració de l’oferta de finançament participatiu anunciada pel proveïdor de serveis de finançament participatiu en el moment d’incloure l’oferta de finançament participatiu a la seva plataforma de finançament participatiu, o
+b) la data en què s’assoleixi l’objectiu de finançament o, en el cas d’un interval de finançament, quan s’arribi a l’objectiu de finançament màxim.
+2. El proveïdor de serveis de finançament participatiu establirà un període de reflexió precontractual durant el qual l’inversor no experimentat potencial podrà revocar en tot moment la seva oferta d’inversió o d’expressió d’interès en l’oferta de finançament participatiu sense necessitat de justificar la seva decisió i sense incórrer en cap tipus de penalització o sanció.
+3. El període de reflexió començarà en el moment de l’oferta d’inversió o de l’expressió d’interès per part de l’inversor no experimentat potencial i expirarà en un termini de quatre dies naturals.
+4. Els proveïdors de serveis de finançament participatiu portaran un registre de les ofertes d’inversió i de les expressions d’interès que rebin, així com del moment en què es rebin.
+5. Les modalitats de revocació d’una oferta d’inversió o d’expressió d’interès inclouran almenys les mateixes modalitats en què l’inversor no experimentat potencial pugui oferir una oferta d’inversió o manifestar el seu interès en una oferta de finançament participatiu.
+6. El proveïdor de serveis de finançament participatiu facilitarà informació precisa, clara i oportuna als inversors no experimentats potencials sobre el període de reflexió i les modalitats per revocar una oferta d’inversió o una manifestació d’interès, incloent-hi, com a mínim, el següent:
+a) Immediatament abans que l’inversor no experimentat potencial pugui comunicar la seva oferta d’inversió o manifestació d’interès, el proveïdor de serveis de finançament participatiu ha d’informar-lo de:
+i. El fet que l’oferta d’inversió o la manifestació d’interès està subjecta a un període de reflexió,
+ii. la durada del període de reflexió i
+iii. les modalitats per revocar una oferta d’inversió o una manifestació d’interès.
+b) Immediatament després de la recepció de l’oferta d’inversió o de la manifestació d’interès, el proveïdor de serveis de finançament participatiu informarà l’inversor no experimentat potencial, a través de la seva plataforma de finançament participatiu, que ha començat el període de reflexió.
+7. En el cas de la gestió individualitzada de carteres de préstecs, aquest article només s’aplicarà al mandat d’inversió inicial atorgat per l’inversor no experimentat i no a les inversions en préstecs específics realitzades en el marc d’aquest mandat.

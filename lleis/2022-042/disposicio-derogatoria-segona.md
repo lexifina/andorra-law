@@ -1,0 +1,2 @@
+# Disposició derogatòria segona. Noms de domini “.ad”
+Amb l’entrada en vigor de la regulació prevista a l’apartat 2 de la disposició addicional, quedarà derogat el Reglament d’execució de la Llei sobre la utilització dels signes d’Estat per a la utilització de “.ad” com a element d’un nom de domini, de data 13 de setembre del 2000, i el Decret d’atribució de competències al Servei de Signes d’Estat, de data 13 de setembre del 2000.

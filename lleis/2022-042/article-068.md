@@ -1,0 +1,3 @@
+# Article 68. Deure d’exclusivitat
+1. Salvat pacte en contrari o per acord de la Junta General, els socis fundadors tindran dedicació exclusiva en el marc de les seves prestacions de serveis a la societat, tinguin naturalesa laboral o mercantil, amb excepció de les activitats docents o d’altres activitats empresarials que estiguessin desenvolupant anteriorment.
+2. L’incompliment del deure d’exclusivitat comportarà l’obligació d’indemnitzar la resta de socis i la societat pels danys i perjudicis que el dit incompliment els hagi causat. Igualment, aquest incompliment serà causa d’exclusió del soci fundador quan així ho prevegin els estatuts socials.

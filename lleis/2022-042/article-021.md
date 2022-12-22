@@ -1,0 +1,4 @@
+# Article 21. Assegurances obligatòries
+1. Els propietaris o altres gestors d’espais comuns complementaris han de subscriure amb una entitat asseguradora autoritzada per operar al Principat d’Andorra una pòlissa d’assegurança de responsabilitat civil per danys a tercers en una quantia suficient per cobrir danys eventuals, d’acord amb la capacitat màxima d’aforament declarada i amb allò que s’estableixi reglamentàriament.
+2. L’assegurança esmentada a l’apartat 1 és obligatòria, amb independència de l’obligació prevista a l’article 20.9 relativa a l’obligació de subscripció de pòlissa d’assegurança per les persones usuàries d’espais comuns complementaris que hagin signat un contracte d’arrendament d’un espai comú complementari per a residència permanent i habitual.
+3. Els ministeris encarregats de l’habitatge i de l’economia poden exigir en tot moment la presentació i l’exhibició de la pòlissa d’assegurança a què es refereix l’apartat 1.

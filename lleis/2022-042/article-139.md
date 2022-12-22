@@ -1,0 +1,3 @@
+# Article 139. Plataforma i xarxa dels laboratoris d’innovació oberta
+1. El ministeri encarregat de l’economia habilita una plataforma electrònica i en línia en què es facilita informació relativa als laboratoris d’innovació oberta amb participació de capital públic que estiguin actius o que es prevegin iniciar. En aquesta plataforma també es pot facilitar informació d’iniciatives totalment privades de laboratoris d’innovació oberta.
+2. El ministeri encarregat de l’economia promou la creació d’una xarxa de laboratoris d’innovació oberta, amb l’objectiu de facilitar l’intercanvi d’experiències i de coneixements entre promotors i actors participants.

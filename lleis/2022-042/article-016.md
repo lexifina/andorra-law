@@ -1,0 +1,3 @@
+# Article 16. Plataforma i xarxa nacional d’incubadores, acceleradores i clústers
+1. El ministeri encarregat de l’economia habilita una plataforma electrònica i en línia en la qual es facilita informació relativa a les acceleradores, les incubadores i els clústers que s’estableixin al Principat d’Andorra. En aquesta plataforma també es pot facilitar informació d’iniciatives i projectes que es duguin a terme per part d’aquestes entitats.
+2. El ministeri encarregat de l’economia promou la creació d’una xarxa nacional d’incubadores, acceleradores i clústers, amb la finalitat de facilitar el compliment de l’objecte d’aquest títol, establert a l’article 11.

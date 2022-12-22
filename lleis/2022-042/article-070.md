@@ -1,0 +1,3 @@
+# Article 70. Obligació de permanència dels socis fundadors
+1. Els socis fundadors de la societat no poden transmetre voluntàriament per acte entre vius les participacions socials o accions de les que són titulars, així com tampoc no poden constituir drets reals sobre aquestes, durant cinc anys des de la data d’inscripció constitutiva de la societat o des de la data d’atorgament de la inscripció de l’escriptura pública de subscripció dels títols en el marc d’una ampliació de capital social, en el seu cas.
+2. Per acord unànime de la resta de socis, l’obligació de permanència pot ser reduïda o suprimida.

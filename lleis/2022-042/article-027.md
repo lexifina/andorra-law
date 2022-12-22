@@ -1,0 +1,3 @@
+# Article 27. El contracte de gestió
+1. En cas que les EECC no siguin propietàries ni titulars de drets reals sobre els espais comuns complementaris o els espais compartits de treball que gestionen, han de formalitzar un contracte de gestió de l’espai comú complementari o l’espai compartit de treball amb els propietaris o titulars de drets reals sobre aquests.
+2. El contracte de gestió de l’espai comú complementari o l’espai compartit de treball ha d’indicar, com a mínim, que el propietari o el titular de drets reals sobre l’espai comú complementari o l’espai compartit de treball faculta l’EECC per gestionar la unitat immobiliària en el règim específic que correspongui segons es tracti d’un espai comú complementari o un espai compartit de treball.

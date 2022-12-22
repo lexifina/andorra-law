@@ -1,0 +1,2 @@
+# Article 130. Cooperació
+El Govern, les diferents autoritats supervisores, així com altres autoritats i entitats que formin part de la Comissió de Coordinació segons sectors o disciplines, i les associacions, els organismes i els experts en matèries diverses que designi el Govern cooperaran entre si per garantir que, d’acord amb el que s’estableix en aquest títol, l’entorn controlat de proves es promogui adequadament i de conformitat amb les necessitats que s’adverteixin per a diferents entorns empresarials.
