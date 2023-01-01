@@ -1,0 +1,7 @@
+## Capítol tercer. Mesures de governança
+# Article 18. Titularitat, competència i transmissions d’habitatges sotmesos als drets d’adquisició preferent a favor del Govern
+1. El Govern és titular dels drets de tempteig i retracte sobre les transmissions d’habitatges següents:
+a) Dret de tempteig i retracte sobre les transmissions d’habitatges i llurs annexos que haguessin estat adquirides mitjançant insolutumdació en pagament d’un deute amb garantia hipotecària.
+b) Dret de tempteig i retracte en les transmissions d’habitatges i llurs annexos que haguessin estat adquirides en el marc d’un procediment judicial d’execució forçosa d’una garantia real d’hipoteca duta a terme pel saig o practicada pels òrgans jurisdiccionals.
+2. Aquests drets de tempteig i retracte els exerceix, si escau, el ministeri responsable de l’habitatge d’acord amb les disposicions previstes en els articles següents i fins al límit de la dotació pressupostària prevista per a aquesta finalitat.
+3. Queda exclòs l’exercici d’aquests drets en cas de concurrència amb altres drets d’adquisició preferent de caràcter legal, quan aquests drets siguin exercits per altres administracions o persones que en siguin beneficiàries. Si aquestes administracions o persones decideixen no exercir llur dret dins del termini legal establert, el Govern pot optar per l’exercici dels seus drets dins del termini de seixanta dies naturals a comptar del dia en què finalitzi el termini del dret legal concurrent.

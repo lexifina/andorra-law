@@ -1,0 +1,2 @@
+# Article 1. Actualització excepcional de les rendes dels contractes d’arrendament d’habitatge durant l’any 2023
+Durant l’any 2023, l’actualització de la renda dels contractes d’arrendament d’habitatge per a residència habitual i permanent, si està pactada en el contracte, ha de practicar-se d’acord amb l’índex de revaloració dels salaris que aprovi el Govern per a l’any 2023, prenent com a base la renda que es paga en el moment que neix el dret a la revisió.

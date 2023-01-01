@@ -1,0 +1,3 @@
+# Disposició transitòria tercera. Certificat d’aptitud per a l’exercici de la taxació pericial immobiliària.
+1. Mentre el Govern no aprovi el reglament que determini els requisits per obtenir el certificat d’aptitud per exercir la taxació pericial immobiliària, el supleix, amb la mateixa eficàcia, la formació certificada en aquest àmbit impartida a través del Col·legi Oficial d’Agents i Gestors Immobiliaris, el Col·legi Oficial d’Arquitectes d’Andorra, el Col·legi Oficial d’Enginyers d’Andorra i el Col·legi Oficial d’Economistes d’Andorra.
+2. El reglament esmentat s’ha d’aprovar en el termini màxim de sis mesos des de l’entrada en vigor d’aquesta Llei.

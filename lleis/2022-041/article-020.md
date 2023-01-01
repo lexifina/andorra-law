@@ -1,0 +1,7 @@
+# Article 20. Procediment per a l’exercici del dret de retracte
+El Govern pot exercir el dret de retracte en els casos d’habitatges transmesos infringint el deure de notificar la decisió de transmetre i en els supòsits següents:
+a) Si, tot i haver-se fet la notificació de la transmissió legalment exigida, s’ha omès qualsevol dels requisits legals establerts.
+b) Si la transmissió s’ha produït abans de finalitzar el termini per exercir el dret de tempteig.
+c) Si la transmissió s’ha fet en condicions diferents de les que es van comunicar a la notificació.
+El Govern ha de dictar una resolució sobre si hi ha causa suficient per a l’exercici del dret de retracte en el termini de trenta dies naturals a comptar del dia en què hagi tingut coneixement de la transmissió efectuada i de les seves condicions. En el termini d’un mes a comptar des que s’hagi establert l’existència de causa suficient per executar el dret de retracte, el Govern, examinades les condicions físiques de l’habitatge i les circumstàncies i condicions que siguin necessàries, ha de comunicar les condicions d’adquisició i el preu corresponent.
+És beneficiària del retracte la persona que resulti adjudicatària, que ha de complir les condicions econòmiques i de qualsevol altre tipus establertes per a la transmissió. Entre la data de la resolució sobre l’existència d’una causa de retracte i l’exercici efectiu del dret no poden transcórrer més de tres mesos.

@@ -1,0 +1,2 @@
+# Disposició final setzena. Protecció dels animals de companyia en situació d’abandonament dins un domicili
+S’encomana al Govern que, en el termini màxim tres mesos des de l’entrada en vigor d’aquesta Llei, perquè instauri els protocols d’actuació adients entre els cossos especials i les autoritats competents i, en el seu cas, promogui les modificacions legislatives necessàries, per garantir la protecció dels animals de companyia quan siguin abandonats, inclòs temporalment, en un domicili i es trobin en situació de perill o de desatenció de les seves necessitats bàsiques.
