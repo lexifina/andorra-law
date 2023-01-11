@@ -1,0 +1,22 @@
+## Secció segona. Fonts de finançament electoral
+# Article 43. Donacions a campanyes electorals
+1. Les candidatures electorals poden rebre donacions nominatives, en diner o en espècie, procedents únicament de persones físiques, dins els límits i d’acord amb els requisits i les condicions establertes en la Llei.
+Per excepció a aquesta disposició, els partits polítics poden fer aportacions a les candidatures, dins els límits i d’acord amb els requisits i les condicions establerts a l’apartat 3 d’aquest article.
+2. Les persones físiques nacionals o residents podran realitzar donacions a les candidatures electorals per un valor màxim de 6.000 euros per candidatura.
+3. No poden efectuar donacions a les candidatures electorals, ni directament ni indirectament:
+a) Les persones jurídiques, els ens sense personalitat jurídica i les altres entitats, i en concret les fundacions, les associacions i els grups parlamentaris.
+Malgrat l’anterior, els partits polítics poden fer aportacions a les candidatures per cobrir el dèficit dels comptes electorals, sempre que aquestes aportacions no superin els límits de despesa màxima electoral que fixa el capítol cinquè. Aquestes aportacions s’han de fer als comptes específics previstos a l’article 41, i han de constar obligatòriament a les comptabilitats dels partits polítics i de les candidatures concernits.
+b) Les persones físiques que, mitjançant contracte vigent, prestin serveis o realitzin subministraments o obres per a alguna de les administracions públiques.
+c) Les entitats públiques, parapúbliques i de dret públic i les societats públiques, i en general les participades amb capital púbic, ni de les seves fundacions.
+4. No podran contractar serveis o subministraments amb les administracions públiques les persones físiques que hagin realitzat donacions a una campanya electoral durant el període d’un any anterior.
+5. Les candidatures electorals no acceptaran donacions anònimes.
+6. Les donacions dineràries amb motiu d’una campanya electoral s’ingressaran als comptes referits als articles anteriors, fent constar el nom i la identificació fiscal del donant, el seu domicili, la quantia donada i la data de la donació. L’entitat financera on es realitzi la imposició estarà obligada a estendre al donant un document acreditatiu en què constin els extrems anteriors.
+7. Quan es tracti de donacions en espècie, l’efectivitat de les donacions percebudes s’acredita mitjançant una certificació expedida per l’administrador electoral en la qual s’ha de fer constar, a més de la identificació del donant, el document públic o el document autèntic que acrediti l’entrega del bé donat, fent menció expressa del caràcter irrevocable de la donació. Les donacions en espècie són valorades d’acord amb la normativa vigent de comptabilitat dels empresaris.
+8. Totes les donacions són irrevocables.
+9. Les candidatures no podran acceptar, ni directament ni indirecta, donacions que excedeixin els límits o incompleixin les condicions establertes en la present Llei.
+10. S’entén per donació a una campanya electoral, als efectes d’aquesta llei, qualsevol aportació en béns o serveis amb valor econòmic que es faci sense cap contraprestació a una candidatura electoral, incloses les aportacions personals dels candidats i dels membres i simpatitzants del partit o coalició que presenti candidatura.
+Queda exceptuat el treball voluntari que dediquin a una campanya electoral els candidats i els membres i simpatitzants del partit o coalició que presenti candidatura.
+11. Les candidatures electorals no podran acceptar donacions provinents de governs, partits polítics, entitats públiques o persones físiques o jurídiques estrangers.
+12. Les candidatures electorals han de posar en coneixement del Tribunal de Comptes totes les donacions rebudes, amb la informació que preveuen els apartats 6 i 7 d’aquest article, en el termini màxim de vuit dies hàbils a partir del dia de la donació.
+El Tribunal de Comptes ha de publicar les donacions i la informació que preveuen els apartats 6 i 7 d’aquest article al Butlletí Oficial del Principat d’Andorra, en el termini màxim d’un mes a comptar de la finalització de la campanya electoral.
+13. Si un crèdit o un préstec concedit a una candidatura és assumit per una altra persona, en virtut d’un aval o una altra figura jurídica anàloga, aquest fet es considera a tots els efectes com una donació si la persona esmentada no exerceix en un termini raonable les accions oportunes per rescabalar-se.

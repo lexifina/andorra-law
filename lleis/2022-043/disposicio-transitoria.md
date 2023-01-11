@@ -1,0 +1,3 @@
+# Disposició transitòria. Modificacions estatutàries associacions i agrupacions de persones
+1. Els partits polítics han d’adaptar els seus estatus abans del 29 de desembre del 2022 en relació amb els drets i deures dels membres i afiliats segons l’establert en aquesta norma i en concret en el relatiu a les declaracions de patrimoni en els termes establerts a la Llei 33/2021, del 2 de desembre, de transparència, accés a la informació pública i govern obert.
+2. Les disposicions de l’article 23.3, són aplicables a les associacions i a les agrupacions de persones que s’hi preveuen a partir de les primeres eleccions, generals o comunals segons correspongui, que se celebrin després del 29 de desembre del 2022.

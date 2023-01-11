@@ -1,0 +1,3 @@
+# Article 21. Competència judicial per a la suspensió d’activitats
+1. La suspensió d’activitats d’un partit polític, com a causa principal referida a una activitat determinada o com a mesura cautelar en una causa de dissolució, només pot ser acordada pel Tribunal Superior, en els mateixos termes que l’article anterior.
+2. La suspensió d’una determinada activitat d’un partit polític només pot ser instada pel Ministeri Fiscal. Si una persona considera que una activitat d’un partit polític incorre en una causa de suspensió, podrà dirigir-se al Ministeri Fiscal perquè emprengui les accions que consideri necessàries.
