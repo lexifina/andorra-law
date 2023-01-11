@@ -1,0 +1,2 @@
+# Article 55. Prohibició de figurar en les dues circumscripcions
+Una mateixa persona, sigui candidat o suplent, no pot figurar simultàniament en una llista de la circumscripció parroquial i en una de la circumscripció nacional.

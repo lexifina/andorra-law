@@ -1,0 +1,3 @@
+# Article 10. Correcció i impugnació d’una inclusió a les llistes
+1. La persona que es consideri amb dret a votar i no sigui inscrita en la llista provisional d’electors, pot demanar la seva inscripció al comú dins el termini de 15 dies naturals des de la publicació, havent de formular aquesta petició per escrit i aportant la documentació que cregui oportuna.
+2. Qualsevol elector pot impugnar, sol o juntament amb d’altres, el dret a figurar en la llista electoral provisional de la persona o les persones que, al seu entendre, no tinguin dret al vot, o no en tinguin a la parròquia on figurin inscrites. A aquest efecte, ha de formular la corresponent impugnació al comú, en el mateix termini del paràgraf anterior.

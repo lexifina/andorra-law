@@ -1,0 +1,5 @@
+# Article 41. Sobres i paperetes
+1. Totes les paperetes electorals hauran d’ésser de la mateixa forma, mida, color i gramatge de paper en tots els col·legis electorals. Aquestes característiques seran fixades pel Govern.
+2. El Govern també prepararà uns sobres, iguals per a tot el Principat, opacs, marcats amb segells o altres senyals que facin impossible o molt difícil la seva substitució, dels quals en repartirà a cada comú la quantitat suficient en relació amb el nombre d’electors inscrits en les llistes electorals. Els sobres restants seran destruïts pel comú.
+3. A l’efecte del paràgraf anterior, els comuns comunicaran al Govern el nombre d’inscrits en les llistes electorals definitives.
+Als efectes del vot per dipòsit judicial per correu, els comuns especificaran els electors inscrits al seu registre que siguin residents a l’estranger. També comunicaran, en les 48 hores següents a la finalització del termini previst a l’article 35.2, els electors que, trobant-se a l’estranger, hagin sol·licitat el vot per dipòsit judicial per correu.

@@ -1,0 +1,6 @@
+# Article 36. Delegació de vot
+1. Els electors que presentin una discapacitat, degudament acreditada amb una atestació oficial, que provoqui que es trobin en la impossibilitat d’exercir el seu dret de vot pels mitjans habilitats legalment o que aquest exercici sigui dificultós i els electors que presentin una malaltia greu, acreditada mitjançant un certificat mèdic atestant suficientment les causes i conseqüències de la malaltia, acreditant que l’elector es troba en la impossibilitat d’exercir el seu dret de vot pels mitjans habilitats legalment o que aquest exercici sigui dificultós, poden delegar el seu dret de vot a un tercer en les condicions previstes en el present article.
+2. Els electors que s’acullin a aquesta modalitat de vot, poden designar lliurement l’elector que votarà per delegació.
+3. Una mateixa persona únicament pot ostentar una delegació de vot.
+4. Per fer ús d’aquesta modalitat de vot, els interessats hauran de formalitzar la delegació de vot mitjançant escriptura pública autoritzada per un notari andorrà, devent el notari autoritzant verificar la voluntat expressa de delegació del vot i la discapacitat o malaltia greu de l’elector en els termes de l’apartat 1 del present article.
+5. La delegació de vot haurà d’indicar expressament la o les eleccions per les quals és vàlida i en tot cas, tindrà una durada màxim d’un any.
