@@ -1,0 +1,3 @@
+# Article 9. Expedient sancionador
+1. La constatació d’una infracció d’un artista professional acreditat per part de la Comissió Andorrana de Seguiment de l’Estatut de l’Artista comporta la incoació de l’expedient sancionador corresponent per part del seu president, d’acord amb el que disposi la normativa en vigor en cada moment en matèria de procediments administratius sancionadors.
+2. Contra la resolució dictada pel president de la Comissió Andorrana de Seguiment de l’Estatut de l’Artista es pot interposar recurs administratiu, d’acord amb el que disposi la normativa en vigor en cada moment en matèria de recursos administratius.

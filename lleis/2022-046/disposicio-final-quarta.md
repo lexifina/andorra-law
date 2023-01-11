@@ -1,0 +1,2 @@
+# Disposició final quarta. Habilitació per a la consolidació de textos
+S’encomana al Govern, en els termes previstos a l’article 116 del Reglament del Consell General, de 7 de febrer del 2019, que en el termini màxim de sis mesos des de l’entrada en vigor d’aquesta Llei presenti al Consell General el projecte de consolidació de les lleis modificades mitjançant aquesta Llei, és a dir la Llei 31/2018, del 6 de desembre, de relacions laborals i la Llei 17/2008, del 3 d’octubre, de la seguretat social.

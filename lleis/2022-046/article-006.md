@@ -1,0 +1,8 @@
+# Article 6. Pèrdua de la condició d’artista professional acreditat
+1. La condició d’artista professional acreditat es perd en els següents supòsits:
+a) Si es tracta d’un artista professional acreditat que se sustenta econòmicament amb els ingressos que percep de la seva activitat professional en tant que artista, en cas que deixi de sustentar-se econòmicament amb els referits ingressos durant el termini establert reglamentàriament.
+b) Si es tracta d’un artista professional acreditat que té la voluntat de sustentar-se econòmicament amb els ingressos que percep de la seva activitat professional en tant que artista, en cas que un cop acomplert el termini de què disposava a l’efecte no ho hagi aconseguit.
+c) En cas que l’artista professional acreditat sigui declarat deutor d’una administració pública, d’una societat pública, o d’una entitat pública o parapública o del sector públic, per resolució administrativa o judicial ferma.
+d) Per la renúncia de l’artista professional acreditat a aquesta condició.
+e) Per la mort o la incapacitació legal de l’artista professional acreditat.
+2. La Comissió Andorrana de Seguiment de l’Estatut de l’Artista té la facultat de vigilar, controlar i inspeccionar el desenvolupament dels artistes professionals acreditats, especialment a efectes de possibles supòsits de pèrdua de la condició d’artista professional acreditat. No obstant això, els artistes professionals acreditats han d’informar a la Comissió Andorrana de Seguiment de l’Estatut de l’Artista de qualsevol fet que pugui suposar la pèrdua de la seva condició d’artista professional acreditat.

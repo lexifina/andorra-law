@@ -1,0 +1,3 @@
+# Article 8. Potestat sancionadora de la Comissió Andorrana de Seguiment de l’Estatut de l’Artista
+1. Tot incompliment de les seves obligacions per part d’un artista professional acreditat, pot donar lloc a la incoació d’un expedient sancionador i a la imposició de sancions després de la instrucció prèvia de l’expedient que escaigui.
+2. L’òrgan competent per incoar i resoldre els expedients sancionadors en relació amb els artistes professionals acreditats, és el president de la Comissió Andorrana de Seguiment de l’Estatut de l’Artista. La instrucció dels expedients correspon als tècnics designats pel president de la Comissió Andorrana de Seguiment de l’Estatut de l’Artista.
