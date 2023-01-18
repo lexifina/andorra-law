@@ -1,0 +1,6 @@
+# Article 25. Modificació de l’article 212 de la Llei 9/2005
+Es modifica l’article 212 de la Llei 9/2005, del 21 de febrer, qualificada del Codi penal, el qual queda redactat en els termes següents:
+“Article 212. Defraudacions en l’ús de fluids o sistemes de telecomunicació
+1. El qui, alterant les indicacions o els aparells comptadors o emprant mecanismes clandestins o codis secrets, cometi defraudació per un valor superior a 600 euros en la utilització d’energia elèctrica, gas, aigua o altres formes d’energia o fluids aliens, o de sistemes de telecomunicació, ha de ser castigat amb pena d’arrest o multa de fins al triple del perjudici causat.
+2. El qui manipuli aparells electrònics, programes informàtics o altres mitjans electrònics perquè, aïlladament o conjuntament, s’alteri, es disminueixi o s’impedeixi, totalment o parcialment, el funcionament o l’explotació dels serveis de telecomunicacions sense el consentiment del seu titular, i causi a aquest últim un perjudici econòmic amb la intenció d’obtenir un benefici econòmic per a si mateix o per a un tercer, ha de ser castigat amb la pena d’arrest o multa de fins al triple del perjudici causat.
+3. La temptativa és punible.”

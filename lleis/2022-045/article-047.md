@@ -1,0 +1,8 @@
+# Article 47. Addició d’un nou article 446 bis a la Llei 9/2005
+S’addiciona un nou article 446 bis a la Llei 9/2005, del 21 de febrer, qualificada del Codi penal, el qual queda redactat en els termes següents:
+“Article 446 bis. Falsedat informàtica
+1. Es castiga amb una pena de fins a dos anys de presó a qui, de manera deliberada i il·legítima, suprimeixi, introdueixi o alteri dades informàtiques de manera que indueixin a error sobre la seva autenticitat, amb independència que les dades siguin o no directament llegibles i intel·ligibles.
+2. Quan la conducta descrita en l’apartat anterior es refereixi al falsejament d’una adreça IP amb l’objectiu de fer-la passar per una adreça legítima, o a la modificació de l’aparença d’una pàgina web existent i legítima amb la finalitat de dur a terme activitats fraudulentes o de vandalisme, s’ha d’imposar la pena en la meitat superior.
+3. Es castiga amb una pena de fins a dos anys de presó o multa del tant al doble del benefici obtingut o que es pretén obtenir qui, a través de materials, equips o dispositius electrònics, programes informàtics o sistemes d’informació, copiï, cloni o comercialitzi informació continguda en les bandes magnètiques, xips o altres dispositius electrònics suportats en les targetes de crèdit, dèbit, pagament o similars.
+4. Es castiga amb la pena inferior en grau a la referida a l’apartat anterior qui importi, fabriqui, posseeixi, vengui o distribueixi de qualsevol manera programes informàtics, contrasenyes, codis d’accés o similars, o equips o dispositius, per cometre els fets previstos als apartats anteriors.
+5. La temptativa és punible.”

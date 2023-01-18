@@ -1,0 +1,9 @@
+# Article 7. Addició d’un nou article 118 ter a la Llei 9/2005
+S’addiciona un nou article 118 ter a la Llei 9/2005, del 21 de febrer, qualificada del Codi penal, el qual queda redactat en els termes següents:
+“Article 118 ter. Delictes contra la integritat moral
+1. El qui tracta una altra persona de forma degradant, menyspreant greument la seva integritat moral, ha de ser castigat amb pena d’arrest i multa de fins a 6.000 euros.
+2. Amb la mateixa pena s’ha de castigar el qui de forma reiterada porta a terme actes hostils o humiliants que suposen un greu assetjament contra la víctima.
+3. Si els fets es cometen contra una de les persones definides a l’article 114 o un menor d’edat o una persona vulnerable per raó de malaltia o deficiència física o psíquica, la pena ha de ser de presó de fins a dos anys.
+4. En cas que les conductes previstes en els apartats anteriors es facin de forma sostinguda en el temps, la pena augmenta fins a la meitat superior.
+5. Amb la mateixa pena que l’establerta als apartats 1 i 2 ha de ser castigat el qui utilitza un mitjà de comunicació social, Internet o altres tecnologies de la informació i la comunicació per espiar o assetjar una altra persona, o publicitar o difondre de qualsevol altra manera missatges o gravacions d’assetjaments o agressions, i alterar greument el desenvolupament de la vida quotidiana de la víctima. Si la víctima és una de les persones definides a l’article 114 o un menor d’edat o una persona vulnerable per raó de malaltia o deficiència física o psíquica, la pena ha de ser de presó de fins a dos anys.
+6. Si amb els supòsits referits als apartats anteriors hi concorre l’agreujant sisè de l’article 30 o un perjudici per a la salut física o psíquica de la víctima que, per curar-se, requereixi el seguiment d’un tractament mèdic posterior a la primera assistència, la pena ha de ser de presó de tres mesos a tres anys. La temptativa és punible si hi concorre l’agreujant sisè de l’article 30.”

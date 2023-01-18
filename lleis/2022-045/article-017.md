@@ -1,0 +1,7 @@
+# Article 17. Addició d’un nou article 157 ter a la Llei 9/2005
+S’addiciona un nou article 157 ter a la Llei 9/2005, del 21 de febrer, qualificada del Codi penal, el qual queda redactat en els termes següents:
+“Article 157 ter. Ús de mitjans de comunicació social, Internet o altres tecnologies de la informació i la comunicació
+1. El qui promogui, publiciti, exhibeixi, difongui o vengui a tercers imatges o gravacions audiovisuals o qualsevol altre material de contingut íntim a través de mitjans de comunicació social, Internet o altres tecnologies de la informació i la comunicació sense l’autorització de la persona afectada ha de ser castigat amb la pena de presó de fins a un any i multa de fins a 6.000 euros o del tant al doble del benefici obtingut o que es pretenia obtenir si aquest és superior a 6.000 euros.
+2. El qui enganyi o amenaci, a través de mitjans de comunicació social, Internet o altres tecnologies de la informació i la comunicació, una altra persona per obtenir satisfacció sexual a través d’imatges eròtiques, pornogràfiques o qualsevol altra informació sexual de la víctima ha de ser castigat amb la pena de presó de fins a un any i multa de fins a 6.000 euros.
+3. Es castiga amb la mateixa pena en la meitat superior qui porti a terme els fets referits a l’apartat anterior envers menors d’edat o persones amb discapacitat per obtenir satisfacció sexual a través d’imatges eròtiques, pornogràfiques o qualsevol altra informació sexual del menor o discapacitat.
+4. La temptativa és punible.”

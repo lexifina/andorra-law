@@ -1,0 +1,10 @@
+# Article 33. Modificació de l’article 270 de la Llei 9/2005
+Es modifica l’article 270 de de la Llei 9/2005, del 21 de febrer, qualificada del Codi penal, el qual queda redactat en els termes següents:
+“Article 270. Conducció temerària
+1. El qui condueixi un vehicle en vies i terrenys que es troben en l’àmbit d’aplicació de la llei reguladora del Codi de la circulació, amb temeritat manifesta, ha de ser castigat amb pena de presó de tres mesos a tres anys i privació del permís de conduir o prohibició per conduir vehicles segons escaigui d’un a sis anys. A més de les penes previstes, s’ha d’imposar una multa de 300 euros a 6.000 euros.
+2. El qui condueixi un vehicle automòbil de transport col·lectiu amb passatgers, un vehicle automòbil d’un pes total màxim superior a 3.500 quilograms, un tren, una aeronau, una instal·lació o un vehicle de transport per cable, en les condicions anteriorment expressades, ha de ser castigat amb pena de presó de tres mesos a tres anys i privació del permís de conduir o del títol corresponent de conducció d’un a sis anys. A més de les penes previstes, s’ha d’imposar una multa de 1.200 euros fins a l’import de 6.000 euros i la pena d’inhabilitació per a l’exercici de l’ofici o el càrrec fins a quatre anys.
+3. Quan en la conducta prevista als apartats anteriors concorri alguna de les següents circumstàncies, s’han d’imposar, les penes de presó de sis mesos a tres anys, la de privació del permís de conduir o privació de conduir vehicles, segons escaigui, de dos a sis anys i de multa de 3.000 euros a 60.000 euros:
+a) Quan s’hagi posat en perill concret la vida o la salut de les persones.
+b) Quan s’hagin causat danys a altres vehicles, o a béns públics o privats.
+c) Quan el conductor hagi fet difusió pública de l’acte de conducció temerària a través de qualsevol mitjà de comunicació social, Internet o altres tecnologies de la informació i la comunicació.
+d) Quan el conductor faci ostentació de l’incompliment de les normes del codi de circulació.”

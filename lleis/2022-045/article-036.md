@@ -1,0 +1,5 @@
+# Article 36. Modificació de l’article 325 de la Llei 9/2005
+Es modifica l’article 325 de la Llei 9/2005, del 21 de febrer, qualificada del Codi penal, el qual queda redactat en els termes següents:
+“Article 325. Delictes contra el prestigi de les institucions
+1. El qui, amb coneixement de la seva falsedat o menyspreu temerari per la veritat, faci públicament imputacions relatives a l’actuació del Consell General, el Govern, el Consell Superior de la Justícia, els òrgans judicials, el Ministeri Fiscal o els comuns que puguin perjudicar el seu prestigi ha de ser castigat amb una pena de multa de fins a 30.000 euros i inhabilitació per a l’exercici de càrrec públic de fins a quatre anys, sense perjudici de les penes que, si escau, corresponguin pels atemptats contra l’honor de les persones.
+2. Ha de ser castigat amb la pena en la meitat superior qui porti a terme els fets referits a l’apartat anterior a través de mitjans de comunicació social, Internet o altres tecnologies de la informació i la comunicació, de manera que la comunicació es faci accessible a un elevat nombre de persones.”
