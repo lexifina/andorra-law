@@ -1,0 +1,3 @@
+# Article 4. Increment de les pensions de solidaritat per a la gent gran i per a les persones amb discapacitat
+1. Les pensions de solidaritat per a la gent gran i per a les persones amb discapacitat regulades a la Llei 6/2014, del 24 d’abril, de serveis socials i sociosanitaris s’actualitzen d’acord amb l’increment que experimenta el salari mínim interprofessional.
+2. No obstant el que estableix l’apartat anterior, el conjunt d’ingressos que percebi la persona beneficiària de la pensió de solidaritat no pot superar el llindar econòmic de cohesió social, definit a la Llei 6/2014, del 24 d’abril, de serveis socials i sociosanitaris.
