@@ -1,0 +1,3 @@
+# Article 15. Publicitat
+1. El traductor i/o intèrpret i el traductor i/o intèrpret jurat, tant si exerceixen la seva professió de forma individual com si ho fan de forma associada, poden fer publicitat dels seus serveis en els termes que es regulin en els estatuts del Col·legi.
+2. La publicitat es pot fer sempre que es respecti la dignitat de la professió i s’eviti la deslleialtat envers els altres traductors i/o intèrprets o traductors i/o intèrprets jurats, com també la competència deslleial i il·lícita. En qualsevol cas, els estatuts han de desenvolupar la naturalesa i les condicions de la publicitat autoritzada de forma lliure i de la publicitat sotmesa a acord de la Junta de Govern del Col·legi.

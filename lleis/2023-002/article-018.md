@@ -1,0 +1,4 @@
+# Article 18. Responsabilitat disciplinària
+1. Amb independència de la responsabilitat penal, civil o administrativa en què hagin pogut incórrer, els col·legiats també estan subjectes a la responsabilitat disciplinària derivada de l’incompliment dels deures i les obligacions professionals que els són específics.
+2. En els termes establerts en aquesta Llei i en els estatuts del Col·legi, aquest darrer exerceix a través dels òrgans corresponents la potestat disciplinària en relació amb els col·legiats pels actes que efectuïn o per les omissions en què incorrin en l’exercici o amb motiu de la professió, o que infringeixin els deures i les obligacions continguts en aquesta Llei, els estatuts del Col·legi o les normes deontològiques aprovades pel Col·legi.
+3. La responsabilitat disciplinària és independent de la responsabilitat administrativa, civil o penal en què puguin incórrer els col·legiats pels mateixos fets.

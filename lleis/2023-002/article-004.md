@@ -1,0 +1,26 @@
+# Article 4. Requisits per a la col·legiació
+La incorporació al Col·legi és preceptiva per a tots els professionals que exerceixin la traducció i/o la interpretació, ja sigui jurada o no, tant en el sector públic com en el privat, ja sigui per compte propi o per compte aliè.
+El Col·legi té dos règims del col·legiació: amb exercici professional (membres exercents) i sense exercici professional (membres no exercents). Tots són membres de ple dret del Col·legi, sens perjudici dels drets i deures que deriven de cada un dels règims de col·legiació. La qualitat de membre del Col·legi comporta la plena adhesió i subjecció als estatuts, al codi deontològic i ètic, al reglament de publicitat i a tots els acords dels òrgans de direcció del Col·legi adoptats vàlidament.
+1. Per ser admès com a membre del Col·legi és necessari, en tot cas, complir els requisits següents:
+a) Ser andorrà o estranger amb residència efectiva i permanent al Principat.
+b) Per exercir la professió de traductor i/o intèrpret, cal estar en possessió d’un títol de nivell 6A del Marc andorrà de qualificacions en l’àmbit de la traducció i la interpretació, lliurat o reconegut pel Govern. Per exercir la professió de traductor i/o intèrpret jurat, cal estar en possessió, a més de la titulació esmentada anteriorment, d’un títol d’ensenyament superior de nivell 7 del Marc andorrà de qualificacions en l’especialitat, lliurat o reconegut pel Govern. En absència d’aquest títol d’ensenyament superior o titulació específica, cal estar en possessió de l’habilitació professional de la traducció i la interpretació jurades d’acord amb les previsions legals establertes, lliurada o reconeguda pel ministeri encarregat de l’interior.
+c) Estar en plena possessió dels drets civils i polítics. En el cas dels nacionals no andorrans, s’entén referida als seus estats d’origen i de residència efectiva.
+d) No tenir antecedents penals a Andorra, ni al seu país d’origen, ni als països de residència anterior, per delictes dolosos, mentre no s’hagi produït la cancel·lació dels antecedents penals, ni al Principat d’Andorra ni a l’estranger, relacionats amb l’exercici de la professió.
+2. Per ser admès al Col·legi com a membre exercent cal reunir, a més dels requisits establerts en l’apartat 1 anterior d’aquest article i a més dels precisats a la llei vigent per a les professions titulades, els següents:
+a) Les persones han d’acreditar que estan en possessió del nivell C2 de llengua catalana emès pel Govern d’Andorra, o d’un equivalent degudament reconegut pel Govern d’Andorra.
+b) Disposar de la corresponent autorització d’exercici de la professió titulada emesa pel Govern d’Andorra.
+c) Disposar de la corresponent inscripció al Registre del Ministeri d’Interior, en el cas dels traductors i intèrprets jurats.
+d) No trobar-se comprès en cap dels supòsits d’incapacitat per a l’exercici de la professió en concórrer alguna de les circumstàncies de l’article 6.
+e) No trobar-se comprès en cap de les causes de pèrdua de col·legiació d’acord amb l’article 7 per a l’exercici de la professió o de prohibició de l’exercici de la professió.
+f) No trobar-se comprès en cap de les causes d’incompatibilitats d’acord amb l’article 5 per a l’exercici de la professió o de prohibició de l’exercici de la professió.
+g) Haver adreçat una sol·licitud escrita complerta a la Junta de Govern del Col·legi amb la documentació obligatòria corresponent i indicada en els estatuts a aquest efecte, seguint el procediment que s’hi estableix.
+h) En cas que hagi estat col·legiat en un altre col·legi professional, haver obtingut un certificat de bones pràctiques estès per aquell col·legi.
+i) Tenir, per als residents de nacionalitat estrangera, la residència efectiva i permanent al Principat.
+j) Abonar la quota de col·legiació.
+k) Abonar la quota de matriculació.
+l) Tenir i mantenir vigent l’assegurança de responsabilitat civil obligatòria indicada pel Col·legi.
+m) No trobar-se inhabilitat per a l’exercici de la professió per sentència judicial o col·legial ferma.
+n) Obrir un despatx professional, o bé incorporar-se a un despatx ja obert, que garanteixi la seva llibertat i independència en l’exercici de la professió. La Junta de Govern pot exigir l’acreditació d’aquest requisit en qualsevol moment.
+3. Poden inscriure’s al Col·legi en règim de no exercents els qui, tot i reunir-ne les condicions, no desitgen exercir la professió de traductor, intèrpret, traductor jurat o intèrpret jurat.
+4. L’admissió al Col·legi com a membre exercent es pot fer per a persones de nacionalitat estrangera que tinguin la condició oficial de fronterers, sempre que exerceixin per compte aliè.
+5. Si la Junta de Govern té coneixement que un col·legiat exerceix la professió sense complir amb els requisits de col·legiació previstos per la legislació vigent, l’ha de requerir perquè regularitzi la seva situació en el termini de quinze dies hàbils, sens perjudici de les responsabilitats disciplinàries que se’n puguin derivar. En cas que no ho faci, la Junta de Govern ha de decidir, mitjançant resolució motivada, la suspensió del professional en l’exercici de la professió. La Junta de Govern ha de deixar sense efecte la suspensió quan el membre suspès justifiqui que ha regularitzat la situació.

@@ -1,0 +1,2 @@
+# Article 16. Habilitació del Col·legi
+El Col·legi resta habilitat, en el marc previst en aquesta Llei, per adoptar les normes adients d’autoregulació de la corporació i la professió en tots els àmbits de la seva activitat, inclosa la proposta de regulació de l’accés a l’exercici professional, i per donar-se les normes deontològiques necessàries per preservar la llibertat, la independència, la lliure i lleial competència, la dignitat de la professió i el secret professional, i per impedir el conflicte d’interessos i l’intrusisme professional.

@@ -1,0 +1,2 @@
+# Disposició transitòria segona
+Queden dispensats de l’obtenció dels títols de nivell 6A i 7 del Marc andorrà de qualificacions indicats en l’article 4.1.b de la Llei, els traductors i/o intèrprets que estiguin en possessió de l’autorització d’exercici de la professió titulada i els traductors i/o intèrprets jurats que disposin de l’habilitació professional de la traducció i/o interpretació jurades, expedides pel Govern amb anterioritat a l’aprovació de la Llei.
