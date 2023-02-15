@@ -1,0 +1,2 @@
+# Disposició final primera. Text consolidat
+S’encomana al Govern que, en el termini màxim d’un mes des de l’entrada en vigor d’aquesta Llei i en els termes previstos a l’article 116 del Reglament del Consell General, presenti el projecte de consolidació de la Llei 30/2022, del 21 de juliol, qualificada de la persona i de la família, que inclogui les modificacions introduïdes per les disposicions d’aquesta Llei.
