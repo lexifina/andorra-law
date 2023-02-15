@@ -1,0 +1,5 @@
+# Article 12. Lliurament de les signatures
+1. Els plecs amb les signatures autenticades, juntament amb les acreditacions de la inscripció de les persones signants en el cens electoral, s’han de lliurar a la Junta Electoral dins dels set dies hàbils posteriors al venciment del termini que estableix l’article 8. Altrament, la iniciativa legislativa popular caduca.
+2. La Junta Electoral, una vegada li han estat lliurats els plecs i les certificacions corresponents, els comprova i fa el recompte de signatures. La Junta Electoral declara nul·les les signatures que no compleixin els requisits que estableixen els articles 9 i 11, les quals no es computen.
+3. La Junta Electoral, si el nombre de signatures vàlides és igual o superior al 10% del cens electoral, ho ha de comunicar, a la Sindicatura i li ha de trametre els plecs de signatures i les certificacions indicant el nombre total de les considerades vàlides.
+4. La Junta Electoral un cop comprovat el compliment dels requisits exigits eleva a la Sindicatura un certificat acreditatiu del nombre de signatures vàlides i elimina els plecs de signatures que es troben a les seves mans.

@@ -1,0 +1,2 @@
+# Article 15. Manteniment de la iniciativa en cas de dissolució del Consell General
+En cas que una iniciativa legislativa popular, tramitada segons les disposicions de l’article 102.d) del Reglament del Consell General es trobi a tràmit parlamentari en el moment en què finalitzi la legislatura, aquesta no caducarà, però podrà retrotreure’s al tràmit que decideixi la Sindicatura, escoltada la Junta de Presidents, sense que sigui necessari, en cap cas, presentar una nova certificació acreditativa d’haver-se reunit el mínim de signatures exigides.

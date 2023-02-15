@@ -1,0 +1,11 @@
+# Article 5. Tràmit d’admissió
+1. El Consell General registrarà, presencialment o virtualment, la iniciativa legislativa popular amb un número de registre únic i remetrà una confirmació del registre a la comissió promotora de la iniciativa.
+2. La Sindicatura ha d’examinar la documentació rebuda i s’ha de pronunciar de manera motivada sobre l’adequació de la proposició de llei per ser admesa a tràmit.
+3. No es poden iniciar processos d’iniciatives legislatives populars durant els períodes que transcorrin entre la convocatòria d’eleccions generals i els seixanta dies naturals posteriors a l’elecció del cap de Govern ni en el període comprès entre la convocatòria i la celebració d’un referèndum.
+4. Són causes d’inadmissibilitat de la proposició de llei:
+a) Que faci referència a una matèria exclosa d’acord amb l’article 2.
+b) Que la proposició de llei i la documentació presentades no compleixin algun dels requisits que estableix l’article 4. Això no obstant, si es tracta d’un defecte esmenable, la Sindicatura ho comunicarà a la comissió promotora perquè procedeixi, si escau, a esmenar-lo en el termini d’un mes; altrament, la sol·licitud decaurà.
+c) Que reprodueixi una altra iniciativa legislativa popular de contingut igual o substancialment equivalent presentada durant la mateixa legislatura.
+d) Que existeixi a tramitació en el Consell General un projecte o proposició de llei sobre el mateix objecte de la iniciativa legislativa popular.
+5. La Sindicatura ha de notificar la resolució sobre l’admissió o la inadmissió de la proposició de llei a la comissió promotora i, en cas que la resolució sigui d’admissió, a la Junta Electoral. Aquesta resolució s’ha de publicar d’acord amb el que estableix el Reglament del Consell General.
+6. Les iniciatives populars proposades que es registrin es faran públiques mitjançant els mecanismes existents a aquest efecte. Sense perjudici dels drets de les persones derivats de la normativa de protecció de dades de caràcter personal, les persones interessades tindran el dret de sol·licitar la retirada de les seves dades personals del registre que s’estableixi a aquest efecte, després de l’expiració del període de dos anys a partir de la data de registre d’una iniciativa popular proposada.

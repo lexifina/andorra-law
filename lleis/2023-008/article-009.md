@@ -1,0 +1,3 @@
+# Article 9. Autenticació de les signatures
+1. Les persones proponents han de fer constar, juntament amb la signatura, el nom i els cognoms i el número d’identificació personal que consta en el passaport.
+2. Les signatures s’han d’autenticar. L’autenticació l’ha de fer una persona que sigui notari, una persona que ocupi el càrrec de secretari judicial, una persona que ocupi el càrrec de secretari del Comú on la persona signant està censada o una persona que sigui saig. S’ha d’indicar la data en què es fa l’autenticació, que pot ésser individual o col·lectiva, plec a plec, cas en el qual s’ha d’indicar el nombre de signatures que conté cada plec.

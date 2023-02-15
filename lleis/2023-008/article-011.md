@@ -1,0 +1,5 @@
+# Article 11. Acreditació de la inscripció en el cens electoral
+1. La comissió promotora ha de fer acreditar que les persones signants estan inscrites en el cens electoral, per a la qual cosa ha de presentar els plecs de signatures en el registre del Comú on figurin al cens electoral les persones signants.
+2. Els òrgans a què fa referència l’apartat 1 han de deixar constància de la data d’entrada de la sol·licitud d’acreditació i de la del retorn a la comissió promotora amb les certificacions corresponents.
+3. La comissió promotora pot sol·licitar l’acreditació de totes les signatures alhora o pot sol·licitar que els òrgans que les poden acreditar, ho facin a mesura que la dita comissió els les vagi presentant en grups de plecs successius.
+4. El temps que els plecs de signatures estan en els òrgans administratius competents per a l’acreditació, si la comissió promotora els lliura tots alhora i no continua recollint signatures, no compta als efectes del termini per recollir les signatures que estableix l’article 8 o, si l’acreditació es fa una vegada exhaurit aquest termini, als efectes del termini per lliurar les signatures que estableix l’article 12.

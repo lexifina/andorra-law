@@ -1,0 +1,2 @@
+# Article 16. Indemnització per despeses
+El Consell General ha d’abonar a la comissió promotora una compensació, a càrrec del seu pressupost, de fins a un euro per signatura, amb el límit màxim de 5.000 euros, per les despeses degudament acreditades, sempre que la Sindicatura admeti a tràmit la seva proposta i que aquesta proposta tingui el suport del nombre de signatures que estableix l’article 3. Tenen la consideració de despesa acreditada sense necessitat de justificació fins a un 10% de les despeses efectuades. El Consell General pot revisar periòdicament aquesta xifra.

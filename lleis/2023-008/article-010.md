@@ -1,0 +1,4 @@
+# Article 10. Presentació de la iniciativa
+1. Després de recollir les declaracions de suport necessàries conforme al que disposa aquesta Llei, els promotors les han de presentar al Consell General en paper o en format electrònic, conjuntament amb la informació relativa a les ajudes i el finançament que s’hagin rebut en relació amb aquesta iniciativa. Aquesta informació es publicarà al Butlletí del Consell General.
+2. Amb aquesta finalitat, els promotors han de separar les declaracions de suport recollides en paper, les que s’hagin signat electrònicament utilitzant la signatura electrònica avançada i les recollides mitjançant el sistema de recollida a través de pàgines web.
+3. Els promotors han de facilitar la informació respecte a les fonts de suport i finançament rebuts quan el seu import excedeixi els límits establerts respecte el finançament dels partits polítics.
