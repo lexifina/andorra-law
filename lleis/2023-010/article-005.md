@@ -1,0 +1,19 @@
+# Article 5. Modificació de l’article 7
+Es modifica l’article 7 de la Llei 48/2014, del 18 de desembre, de l’exercici de la professió d’advocat i del Col·legi Oficial d’Advocats d’Andorra, que queda redactat com segueix:
+“Article 7. Requisits per a la col·legiació
+1. El Col·legi Oficial d’Advocats d’Andorra té dos règims de col·legiació: amb exercici professional com a membre exercent i sense exercici professional com a membre no exercent. En tots dos casos s’és membre de ple dret del Col·legi, sense perjudici dels drets i els deures específics que es derivin de cadascun dels dos règims de col·legiació.
+2. Per ser admès al Col·legi és necessari, en tot cas, complir els requisits següents:
+a) Estar en possessió de la nacionalitat andorrana o acreditar la residència efectiva i permanent al Principat d’Andorra, o, en el cas que l’exercici professional titulat es desenvolupi, exclusivament, per compte aliè, acreditar que es disposa d’una autorització d’immigració de treball fronterer vigent.
+b) Estar en plena possessió dels drets civils i polítics. En el cas dels nacionals no andorrans, aquesta possessió s’entén referida als seus estats d’origen.
+c) Estar en possessió d’una titulació d’ensenyament superior del nivell 7 del Marc andorrà de qualificacions (MAQ). El primer i el segon cicle d’estudis oficials d’ensenyament superior, 6A MAQ i 7 MAQ, cumulativament, han de ser en l’àmbit del dret i lliurats o reconeguts pel Govern.
+3. Les persones que volen exercir la professió d’advocat s’han de col·legiar com a membres exercents. S’entén per exercici professional la prestació, habitualment remunerada, dels serveis d’assistència, consell i defensa jurídica dels drets aliens i, en concret, l’exercici de les activitats assenyalades als apartats 1 i 2 de l’article 3.
+4. Per ser admès al Col·legi com a membre exercent i poder continuar exercint la professió cal complir, a més dels requisits establerts en l’apartat 2 d’aquest article, els següents:
+a) No haver estat condemnat per delictes majors dolosos, en qualsevol grau de participació, que hagin estat comesos com a conseqüència o en el marc de l’exercici de la professió d’advocat, ni al Principat d’Andorra ni a l’estranger, mentre no s’hagi produït la cancel·lació dels antecedents penals.
+En cas de condemna del col·legiat amb posterioritat a ser admès com a membre exercent, la Junta de Govern decideix, mitjançant resolució motivada i després d’haver concedit un termini de quinze dies al col·legiat per formular al·legacions, la suspensió de l’advocat en l’exercici de la professió i, un cop la resolució ha esdevingut ferma, ho comunica al Consell Superior de la Justícia i als presidents de la Batllia, del Tribunal de Corts i del Tribunal Superior de Justícia.
+La Junta de Govern, a petició de l’interessat, deixa sense efecte la suspensió quan el col·legiat acredita la cancel·lació dels antecedents penals.
+b) No estar incapacitat per a l’exercici de la professió, en concórrer alguna de les circumstàncies previstes a l’article 8.
+c) No trobar-se comprès en cap de les causes d’incompatibilitat per a l’exercici de la professió previstes a l’article 9, o de prohibició de l’exercici de la professió.
+d) Obtenir l’autorització d’exercici de la professió titulada per part del Govern.
+e) Estar en possessió del certificat d’aptitud per a l’exercici de la professió d’advocat lliurat pel Col·legi.
+f) Haver estat admès a actuar davant els tribunals andorrans, segons disposa l’article 98 de la Llei qualificada de la justícia.
+5. Sense perjudici del que estableixen els apartats anteriors, l’admissió al Col·legi com a membre exercent no es pot fer efectiva fins que la persona interessada tingui obert un despatx professional o bufet, o bé s’incorpori a un despatx professional o bufet ja obert, que garanteixi la llibertat i la independència en l’exercici de la professió.”

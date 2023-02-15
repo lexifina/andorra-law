@@ -1,0 +1,10 @@
+# Article 7. Modificació de l’article 12
+Es modifica l’article 12 de la Llei 48/2014, del 18 de desembre, de l’exercici de la professió d’advocat i del Col·legi Oficial d’Advocats d’Andorra, que queda redactat com segueix:
+“Article 12. Òrgans de govern del Col·legi
+1. Els òrgans de govern del Col·legi Oficial d’Advocats d’Andorra són l’Assemblea General i la Junta de Govern, presidida pel degà. El càrrec de degà és retribuït amb la remuneració que acorda l’Assemblea General.
+2. La Junta de Govern és l’òrgan col·legiat d’administració i direcció del Col·legi.
+Els estatuts del Col·legi han de desenvolupar el règim de convocatòria i de constitució i el funcionament i la composició de la Junta de Govern, així com el procediment de designació, destitució i renovació dels seus membres i la durada del seu mandat.
+3. Contra les resolucions adoptades per la Junta de Govern es pot recórrer davant de la mateixa Junta de Govern, en el termini d’un mes des de l’endemà del dia en què es notifiquen. La Junta de Govern disposa d’un termini de quinze dies hàbils per resoldre el recurs formulat. Exhaurida aquesta via, es pot interposar un recurs davant de la Secció Administrativa de la Batllia, en els termes que preveu la Llei de la jurisdicció administrativa i fiscal.
+4. L’Assemblea General és l’òrgan suprem de govern del Col·legi, i es pot reunir en sessió ordinària o extraordinària. En totes les qüestions sotmeses a votació de l’Assemblea General, cada membre exercent té dret a emetre quatre vots, i cada membre no exercent, un vot.
+Els estatuts del Col·legi han de desenvolupar el règim de convocatòria i de constitució, i també el funcionament i la composició de l’Assemblea General. La modificació dels estatuts requereix l’acord de l’Assemblea General per majoria simple dels vots emesos, sempre que aquesta majoria representi, almenys, un terç dels vots dels membres del Col·legi, tenint en compte la ponderació de vots prevista al paràgraf anterior.
+5. Els estatuts del Col·legi també han de regular el règim econòmic col·legial.”

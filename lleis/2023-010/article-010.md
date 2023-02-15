@@ -1,0 +1,7 @@
+# Article 10. Modificació de l’apartat 3 de l’article 21
+Es modifica l’apartat 3 de l’article 21 de la Llei 48/2014, del 18 de desembre, de l’exercici de la professió d’advocat i del Col·legi Oficial d’Advocats d’Andorra, que queda redactat com segueix:
+“Article 21. Potestat disciplinària
+[…]
+3. Si en el decurs de la tramitació d’un expedient disciplinari es manifesten indicis de conductes que poden constituir una infracció penal, la Junta Disciplinària, després d’adoptar, si ho creu oportú, mesures provisionals d’acord amb l’article 24, ho ha de fer saber a l’òrgan jurisdiccional competent i ha de suspendre, tot seguit, la tramitació de l’expedient esmentat, la qual cosa interromp el còmput dels terminis de prescripció i caducitat, fins que recaigui una resolució ferma en l’àmbit penal.
+D’altra banda, quan s’estigui instruint o jutjant un procés penal pels mateixos fets que han originat o han de comportar la incoació d’un expedient disciplinari, o per altres fets que hi estiguin íntimament vinculats, s’ha d’iniciar la tramitació de l’expedient disciplinari, si no s’ha iniciat amb anterioritat; i la Junta Disciplinària, després d’adoptar, si ho creu oportú, mesures provisionals d’acord amb l’article 24, en suspèn tot seguit la tramitació, la qual cosa interromp el còmput dels terminis de prescripció o caducitat, fins que recaigui una resolució ferma en l’àmbit penal.
+En qualsevol cas, la declaració de fets provats que pugui fer el tribunal penal és vinculant per a la Junta Disciplinària.”

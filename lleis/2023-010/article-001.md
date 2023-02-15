@@ -1,0 +1,8 @@
+# Article 1. Modificació dels apartats 2 i 3 de l’article 3
+Es modifiquen els apartats 2 i 3 de l’article 3 de la Llei 48/2014, del 18 de desembre, de l’exercici de la professió d’advocat i del Col·legi Oficial d’Advocats d’Andorra, que queden redactats com segueix:
+“Article 3. Exercici i àmbit d’actuació
+[…]
+2. L’advocat exerceix en exclusiva les activitats professionals de consulta, estudi, assessorament en l’àmbit jurídic, emissió d’informes o dictàmens jurídics per a tercers i de direcció, defensa o representació de les parts en qualsevol procediment administratiu o judicial, sense perjudici de les funcions atribuïdes igualment als procuradors en matèria de representació.
+No s’entenen inclosos en el paràgraf anterior les consultes, i els estudis, assessoraments i informes estrictament tècnics que efectuïn altres professionals degudament autoritzats, sempre que estiguin directament i intrínseca relacionats amb la seva activitat principal, tinguin un caràcter merament accessori en relació amb aquesta activitat, i s’efectuïn dins els límits permesos per la normativa aplicable al professional i en el marc de les competències que li atribueix la seva titulació.
+Els juristes assalariats d’empreses privades només poden emetre informes jurídics per a l’ús exclusiu de la seva empresa.
+3. L’advocat també pot exercir les activitats professionals de tramitació, gestió, administració, representació, negociació, contractació, mediació, promoció, relatives a qualsevol negoci jurídic, operació, transacció, dret o interès, o qualsevol altra activitat relacionada amb la normativa aplicable i la seva interpretació, en tots els àmbits del dret, així com l’emissió de laudes arbitrals.”

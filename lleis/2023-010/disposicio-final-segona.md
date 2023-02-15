@@ -1,0 +1,2 @@
+# Disposició final segona
+S’encomana al Govern, en els termes previstos a l’article 116 del Reglament del Consell General, que en el termini màxim de tres mesos des de l’entrada en vigor d’aquesta Llei presenti al Consell General el projecte de consolidació de la Llei 48/2014, del 18 de desembre, de l’exercici de la professió d’advocat i del Col·legi Oficial d’Advocats d’Andorra, amb la incorporació de totes les modificacions que s’hi han efectuat.

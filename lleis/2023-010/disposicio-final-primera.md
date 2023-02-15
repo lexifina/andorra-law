@@ -1,0 +1,3 @@
+# Disposició final primera
+1. Els membres de la Junta de Govern del Col·legi Oficial d’Advocats d’Andorra, en el termini d’un any des de l’entrada en vigor d’aquesta Llei, han de convocar una assemblea general extraordinària, la qual ha d’aprovar els estatuts del Col·legi adaptats a aquesta Llei.
+2. Els estatuts, una vegada aprovats, juntament amb la certificació de l’acta de l’assemblea, s’han de remetre al Registre de Professionals Titulats, Col·legis i Associacions Professionals, adscrit al ministeri encarregat de la justícia, a l’efecte d’inscriure’ls en la secció corresponent, un cop se n’hagi qualificat l’adequació a la legalitat.
