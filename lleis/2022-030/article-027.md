@@ -1,0 +1,3 @@
+# Article 27. Gratuïtat
+1. Les persones titulars dels càrrecs de protecció o de suport exerceixen els seus càrrecs de manera gratuïta, llevat dels casos en què s’estableixi expressament una remuneració. Tanmateix, aquestes persones tenen dret al reemborsament de despeses i a la indemnització pels danys patits en l’exercici de les seves funcions a càrrec del patrimoni de la persona en tutela o en curatela.
+2. Les persones legitimades per designar tutor o curador poden fixar una remuneració per a les persones que exerceixin els càrrecs de protecció o de suport. També la pot establir l’autoritat judicial en nomenar els càrrecs si el patrimoni de la persona assistida ho permet.

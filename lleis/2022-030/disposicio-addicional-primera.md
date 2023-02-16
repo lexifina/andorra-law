@@ -1,0 +1,3 @@
+# Disposició addicional primera. Referències a la pàtria potestat, a les mesures paternofilials i a les unions civils
+1. Les referències contingudes en qualsevol norma legal o reglamentària a la pàtria potestat i a les mesures paternofilials s’han d’entendre fetes, respectivament i a partir de l’entrada en vigor d’aquesta Llei, a l’autoritat parental i a les mesures en les relacions entre els progenitors i els fills menors d’edat.
+2. Les referències contingudes en qualsevol norma legal o reglamentària a les unions civils s’han d’entendre fetes, a partir de l’entrada en vigor d’aquesta Llei, als matrimonis regulats per aquesta Llei.

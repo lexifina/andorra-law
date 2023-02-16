@@ -1,0 +1,4 @@
+# Article 252. Institucions de suport
+1. Les mesures de suport o anàlogues per a l’exercici de la capacitat es regulen per la llei de la residència habitual de la persona amb discapacitat i, si no és possible determinar-la, s’aplica la llei andorrana. En cas de canvi de residència, s’aplica la llei de la nova residència habitual, sens perjudici del reconeixement al Principat d’Andorra de les mesures prèviament adoptades en d’altres estats.
+2. Les mesures provisionals o urgents de suport per a l’exercici de la capacitat es regulen per la llei del lloc en què es trobi la persona afectada o en què hagin de ser efectives les mesures.
+3. Les formalitats i els procediments per a la constitució de les mesures a què es refereix l’apartat 1 que requereixin la intervenció d’autoritats judicials o organismes administratius andorrans es regulen, en tot cas, per la llei andorrana.

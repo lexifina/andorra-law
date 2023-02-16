@@ -1,0 +1,3 @@
+# Article 44. Representació legal i actes exclosos
+1. El tutor és el representant legal de la persona tutelada davant de terceres persones. S’exceptuen de la representació legal els actes que per disposició de la llei pot realitzar la persona menor per ella mateixa i els actes relatius als béns exclosos de l’administració del tutor.
+2. Si el tutor permet de forma expressa o tàcita que la persona tutelada menor d’edat però major de 15 anys exerceixi una professió o activitat, aquesta pot realitzar tots els actes necessaris per a l’exercici regular d’aquesta professió o activitat i administrar els béns que adquireixi com si s’hagués emancipat.

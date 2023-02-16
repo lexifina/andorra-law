@@ -1,0 +1,3 @@
+# Disposició addicional segona. Terminologia relativa a les persones amb discapacitat
+1. Les expressions contingudes en la redacció de la normativa vigent que faci esment a incapacitats o incapaços, quan estiguin vinculades a la capacitat d’obrar, s’han d’entendre referides a persones que precisen suports per a l’exercici de la capacitat jurídica, i la capacitat d’obrar s’ha d’entendre referida a la capacitat jurídica d’acord amb la regulació requerida en cada cas.
+2. A partir de l’entrada en vigor d’aquesta Llei, les disposicions normatives i les resolucions dictades per les administracions públiques han d’utilitzar els termes de persona amb discapacitat o persones amb discapacitat per tal de denominar-les.

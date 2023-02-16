@@ -1,0 +1,3 @@
+# Article 173. Capacitat per al reconeixement
+1. Tenen capacitat per al reconeixement de la paternitat les persones majors de catorze anys i, per al de la maternitat, la mare des que s’acrediti el fet del part, sigui quina sigui la seva edat.
+2. Si l’autor del reconeixement és una persona menor d’edat no emancipada o una persona amb discapacitat respecte de la qual s’han establert mesures de suport i necessita aquest suport per fer el reconeixement, caldrà per a la seva validesa l’assentiment del progenitor o progenitors que exerceixen l’autoritat parental o del tutor, o la intervenció del curador o persona que presta el suport.

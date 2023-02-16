@@ -1,0 +1,4 @@
+# Article 15. Revisió de les mesures de suport
+1. Si varien substancialment les circumstàncies que han determinat l’adopció de mesures de suport, aquestes han de ser revisades, sigui per ampliar-les, reduir-les o revocar-les. Tant en la provisió voluntària de suports per la mateixa persona afectada com en la provisió judicial es poden preveure circumstàncies o terminis per a la revisió de les mesures i la forma de dur-les a terme. En tot cas, les mesures que hagin estat objecte de provisió judicial s’han de revisar d’ofici cada tres anys.
+2. La revisió de les mesures de suport pot ser demanada per les persones legitimades per instar-ne la provisió i per la que presta el suport, i té lloc seguint el mateix procediment.
+3. La revisió de les mesures de suport produeix efectes des de la fermesa de la resolució que l’ordena i no afecta l’eficàcia dels actes realitzats amb anterioritat.

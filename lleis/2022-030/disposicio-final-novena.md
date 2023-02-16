@@ -1,0 +1,3 @@
+# Disposició final novena. Tractats internacionals i convenis de col·laboració i adaptació de la normativa relativa a la verificació de la capacitat
+1. En el termini d’un any des de la publicació d’aquesta Llei el Govern ha de promoure la signatura de tractats i convenis, especialment amb els estats més propers, per garantir el reconeixement de les resolucions judicials de les autoritats de la residència habitual de la persona interessada en els internaments forçosos que calgui efectuar en un altre Estat.
+2. En el termini d’un any des de la publicació d’aquesta Llei, el Govern ha de promoure l’adaptació dels procediments de verificació de la capacitat establerts a la normativa vigent.

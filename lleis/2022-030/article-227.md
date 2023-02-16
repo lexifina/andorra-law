@@ -1,0 +1,2 @@
+# Article 227. Recuperació
+Els progenitors que han estat privats de l’autoritat parental poden instar la seva recuperació si ha cessat la causa que n’havia determinat la privació, i l’autoritat judicial pot decretar-la en benefici dels fills. No es pot decretar la recuperació de l’autoritat parental després d’haver estat constituïda una preadopció, llevat que s’hagi ordenat prèviament la cessació de la mesura.

@@ -1,0 +1,2 @@
+# Article 138. Pactes fora de conveni regulador
+Els pactes acordats entre cònjuges després del trencament de la convivència fora de conveni regulador i sense assistència lletrada independent per a cadascun d’ells es poden deixar sense efecte, a instància de qualsevol d’ells, durant els tres mesos següents a la data de l’acord i, com a màxim, fins al moment de la contestació de la demanda o de la reconvenció en el procés matrimonial.

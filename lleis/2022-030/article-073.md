@@ -1,0 +1,6 @@
+# Article 73. Supervisió i control
+1. En l’escriptura pública de constitució del patrimoni protegit es poden designar persones que en supervisin l’administració i adoptar les mesures de control de la gestió i de l’administració que es considerin convenients. A les persones que es fan càrrec de la supervisió o del control els són d’aplicació les mateixes normes d’inhabilitat, aptitud, excusa i remoció dels càrrecs de protecció o de suport que hagin d’exercir facultats d’administració patrimonial.
+2. L’administrador té l’obligació de retre comptes anualment davant les persones següents:
+a) La persona beneficiària o els representants legals o designats en poder preventiu.
+b) Les persones encarregades de supervisar l’administració i, si s’ha previst en l’escriptura pública de constitució, la persona constituent del patrimoni protegit o els seus hereus.
+3. En cas de discrepància en l’administració o en el rendiment de comptes efectuat per l’administrador, les persones esmentades a l’apartat 2, si consideren que es posa en perill el patrimoni protegit o no es compleix la seva finalitat, han de posar-ho en coneixement del Ministeri Fiscal per tal que demani a l’autoritat judicial que proveeixi el necessari per salvaguardar el patrimoni protegit i garantir la seva finalitat.

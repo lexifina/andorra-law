@@ -1,0 +1,4 @@
+# Article 118. Determinació de les titularitats
+1. Els béns adquirits a títol onerós per un cònjuge durant el matrimoni pertanyen a qui consti com el seu titular. Si es prova que la contraprestació satisfeta per adquirir-los pertanyia a l’altre cònjuge, es presumeix que ha estat donada.
+2. Els béns mobles de valor ordinari i ús familiar, adquirits a títol onerós durant el matrimoni, es presumeix que pertanyen a ambdós cònjuges per meitats indivises, sense que prevalgui contra aquesta presumpció la mera prova de la seva titularitat formal.
+3. En cas de dubte insalvable sobre la titularitat de béns o drets, es presumeix que correspon a ambdós cònjuges per meitats indivises. S’exceptuen els béns mobles d’ús personal d’un dels cònjuges que no siguin de valor extraordinari i els que estiguin destinats directament a l’exercici de la seva professió o ofici.

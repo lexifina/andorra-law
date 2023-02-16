@@ -1,0 +1,2 @@
+# Article 231. Quantia
+La quantia en què cal prestar els aliments ve determinada per la proporció entre les necessitats del que té dret a reclamar-los i la capacitat econòmica del que hagi de prestar-los. Una vegada fixat el seu import, aquest podrà ser augmentat o reduït proporcionalment segons augmentin o disminueixin les necessitats del primer o els mitjans econòmics dels quals disposi el segon.

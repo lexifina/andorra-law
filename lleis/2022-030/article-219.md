@@ -1,0 +1,3 @@
+# Article 219. Destinació dels rendiments dels béns administrats
+1. En exercici de les seves facultats d’administració, els progenitors poden destinar els fruits i rendiments dels béns i drets administrats al manteniment, l’educació i la formació dels fills, i a cobrir les despeses familiars en la part que equitativament correspongui.
+2. Els progenitors no tenen dret a remuneració per raó de l’administració, però sí a ser rescabalats amb càrrec al patrimoni administrat, si el rescabalament no es pot obtenir d’altra manera, per les despeses suportades i pels danys i perjudicis que els ha causat l’administració, si no són imputables a dol o culpa propis.

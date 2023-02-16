@@ -1,0 +1,3 @@
+# Article 51. Aprovació dels comptes
+1. L’autoritat judicial ha d’aprovar els comptes o denegar-ne l’aprovació després d’haver escoltat la persona tutelada o els seus hereus o, si escau, el nou tutor, curador o defensor judicial, i pot practicar abans de l’aprovació les diligències que consideri pertinents.
+2. El ròssec dels comptes finals merita interessos legals a favor del tutor des que n’ha requerit pagament a la persona obligada un cop aprovats els comptes i previ lliurament del patrimoni. Si el ròssec és desfavorable al tutor, merita interessos legals des del moment de l’aprovació dels comptes.

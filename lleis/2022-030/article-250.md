@@ -1,0 +1,4 @@
+# Article 250. Adopció
+1. La capacitat i les prohibicions per adoptar es regeixen per la llei personal de l’adoptant en el moment de constituir-se l’adopció i, en cas d’aparèixer com a adoptants dues persones subjectes a una llei personal diferent, s’aplica la llei de la residència habitual de la parella adoptant en el moment de constituir-se l’adopció. S’aplica la llei personal de l’adoptand en constituir-se l’adopció en tot el que fa referència a la seva capacitat.
+2. Les formalitats de l’acte constitutiu de l’adopció es regeixen per la llei del lloc on es constitueix el vincle adoptiu.
+3. Els efectes de l’adopció, com també la seva conversió i nul·litat, i les relacions entre l’adoptat i la seva família d’origen es regeixen per la llei personal de l’adoptant o per la llei de la residència dels adoptants, si estan subjectes a una llei personal diferent, al temps de constituir-se l’adopció.

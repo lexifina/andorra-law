@@ -1,0 +1,3 @@
+# Article 34. Administració patrimonial separada
+1. En constituir la tutela, l’autoritat judicial pot separar la tutela de la persona i la de l’administració patrimonial, designar els titulars d’ambdós càrrecs i fixar-ne l’àmbit d’actuació. També ho pot fer en el decurs de la tutela si s’esdevenen circumstàncies que ho fan necessari.
+2. La persona que ha fet una donació o disposició successòria a favor de la persona en tutela pot nomenar un administrador dels béns atribuïts i establir les seves facultats, que resten excloses de les funcions del tutor, excepte en relació amb els actes que excedeixen les facultats conferides a l’administrador. A manca de previsions establertes pel donant o pel causant, s’apliquen a l’administrador les normes relatives a la tutela.

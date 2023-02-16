@@ -1,0 +1,4 @@
+# Article 31. Delació pels progenitors
+1. Mitjançant escriptura pública, testament, codicil o pacte successori, els progenitors que estan en ple exercici de l’autoritat parental poden designar tutors i substituts en el càrrec per als seus fills menors d’edat no emancipats i també excloure persones determinades de la tutela.
+2. En cas de concurrència de nomenaments o exclusions per part dels progenitors, prevalen les disposicions preses pel progenitor que ha exercit l’autoritat parental en darrer lloc.
+3. Si es constitueix la tutela, l’autoritat judicial ha de nomenar les persones designades en l’acte de delació voluntària. No obstant això, pot prescindir de les disposicions adoptades pels progenitors si considera que no són conformes a l’interès superior de la persona menor d’edat o que concorren altres causes que ho justifiquen, amb informe previ del Ministeri Fiscal.

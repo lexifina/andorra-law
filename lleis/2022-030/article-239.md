@@ -1,0 +1,2 @@
+# Article 239. Actualització
+Quan l’obligació d’aliments es pagui mitjançant una pensió, amb independència dels supòsits en què sigui procedent modificar-la per haver canviat les circumstàncies del creditor o del deutor, aquesta pensió s’actualitza anualment d’acord amb les variacions del cost de la vida, a menys que les parts hagin pactat un altre mitjà d’actualització que, a criteri de l’autoritat judicial, no perjudiqui els interessos de l’alimentista.

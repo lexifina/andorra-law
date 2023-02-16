@@ -1,0 +1,3 @@
+# Article 164. Fills concebuts abans del matrimoni dels progenitors
+1. Si el fill ha nascut dins dels cent vuitanta dies següents a la celebració del matrimoni, el marit pot deixar sense efecte la presumpció de paternitat per mitjà d’una declaració autèntica de desconeixement de la paternitat que ha d’entrar en el Registre Civil en el termini dels sis mesos següents al naixement.
+2. No és eficaç la declaració a què fa referència l’apartat anterior si de l’expedient registral resulta que el marit ha reconegut expressament o de forma tàcita la seva paternitat, si coneixia l’embaràs abans de la celebració del matrimoni o si s’ha comportat com a pare des de la naixença del fill.

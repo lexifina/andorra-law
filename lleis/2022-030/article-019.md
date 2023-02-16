@@ -1,0 +1,3 @@
+# Article 19. Aptitud per exercir els càrrecs
+1. Poden ser titulars de càrrecs en les institucions de protecció o de suport les persones físiques que puguin complir adequadament les funcions del càrrec en exercici de la seva capacitat i no incorrin en cap de les causes d’inhabilitat que preveuen els articles següents.
+2. També poden ser titulars de càrrecs les persones jurídiques sense ànim de lucre que tinguin per objecte la protecció de les persones menors d’edat o la prestació de suport a les persones amb discapacitat, i que estiguin acreditades pel Govern, sempre que designin una persona física que les representi en l’exercici d’aquestes funcions i que compleixi amb les condicions previstes a l’apartat anterior.

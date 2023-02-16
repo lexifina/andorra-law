@@ -1,0 +1,3 @@
+# Article 98. Despeses familiars
+1. Són despeses familiars les destinades a cobrir les necessitats de la família, com són les originades en concepte d’aliments, en el sentit més ampli, les de conservació i manteniment de l’habitatge familiar i altres béns d’ús comú, i les atencions de previsió, d’acord amb el nivell de vida de la família i els usos socials en el lloc de la seva residència.
+2. No tenen la consideració de despeses familiars les que responen a l’interès particular d’un dels cònjuges, ni les derivades de la gestió i defensa dels béns privatius, ni les de manteniment dels fills no comuns si no conviuen amb els cònjuges.

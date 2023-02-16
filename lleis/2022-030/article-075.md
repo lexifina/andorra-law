@@ -1,0 +1,3 @@
+# Article 75. Constància registral
+1. S’han d’inscriure en el Registre Civil, al marge de la inscripció de naixement de l’administrador, les facultats que aquest té atorgades per a la gestió del patrimoni protegit d’acord amb l’escriptura de constitució o resolució judicial que les hagi modificat, com també el nom de la persona o persones beneficiàries.
+2. El béns i drets que integren el patrimoni protegit i que siguin susceptibles de constància registral s’han d’inscriure en el registre corresponent amb la denominació del patrimoni que consta en l’escriptura de constitució, fent-hi constar les facultats de gestió conferides a l’administrador.

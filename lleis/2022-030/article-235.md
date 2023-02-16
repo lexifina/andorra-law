@@ -1,0 +1,3 @@
+# Article 235. Pluralitat de persones obligades
+1. Si les persones obligades a prestar aliments són dues o més, la prestació es divideix entre elles d’acord amb la seva capacitat econòmica. Si l’obligació d’una d’elles s’extingeix o la quantia de la seva prestació es redueix, s’ha d’incrementar la prestació dels altres obligats de manera proporcional.
+2. L’autoritat judicial, ja sigui provisionalment o per raó de circumstàncies especials, pot imposar la prestació íntegra dels aliments a una o diverses persones d’entre les obligades durant un temps determinat, sense perjudici del dret d’aquestes a reclamar posteriorment als altres obligats la part que els corresponia.

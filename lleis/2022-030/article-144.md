@@ -1,0 +1,3 @@
+# Article 144. Compliment i modificació de les mesures
+1. En tràmit d’execució de sentències fermes i definitives de separació, de nul·litat o de divorci, l’autoritat judicial que les ha dictat adopta totes les mesures pertinents per garantir el compliment de les disposicions d’aquesta secció i els termes de les dites sentències.
+2. Les mesures regulades en aquesta secció es poden modificar, per acord de les parts, dins les seves facultats d’actuació, o mitjançant una resolució judicial posterior si han canviat substancialment les circumstàncies concurrents en el moment d’adoptar-les. El conveni regulador i la sentència poden preveure anticipadament les modificacions escaients.

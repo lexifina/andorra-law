@@ -1,0 +1,2 @@
+# Article 62. Nomenament
+El nomenament de defensor judicial es fa per resolució judicial dictada en procediment de jurisdicció voluntària, d’ofici o a instàncies del Ministeri Fiscal, de la persona titular del càrrec de protecció o de suport, de la persona assistida o de qualsevol persona amb un interès legítim, i ha de recaure en la persona que l’autoritat judicial consideri més escaient per a l’exercici del càrrec en atenció a les circumstàncies que determinen el seu nomenament.

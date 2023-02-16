@@ -1,0 +1,4 @@
+# Article 205. Cognoms i nom de la persona adoptada
+1. L’adopció confereix a la persona adoptada els cognoms dels adoptants.
+2. Si té menys d’un any, l’autoritat judicial pot acordar modificar el seu nom a instància dels adoptants. Si té més d’un any, es dona preferència al nom d’origen, llevat de casos excepcionals en els quals el canvi de nom ha d’anar necessàriament acompanyat d’una valoració psicosocial de les afectacions que podria suposar un canvi de nom en la persona menor d’edat, realitzada pel ministeri competent en matèria d’afers socials. Si la persona menor d’edat té més de dotze anys, el seu consentiment és imprescindible.
+3. La persona adoptada major d’edat o la persona menor d’edat emancipada pot conservar els cognoms d’origen si així ho sol·licita en el moment de l’adopció.

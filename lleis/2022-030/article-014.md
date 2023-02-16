@@ -1,0 +1,3 @@
+# Article 14. Provisió preventiva de suports abans de la majoria d’edat
+1. Si és previsible que una persona menor d’edat amb discapacitat pugui necessitar suport per exercir la seva capacitat jurídica en arribar a la majoria d’edat, la mateixa persona assistida o les persones que exerceixen l’autoritat parental o la tutela poden sol·licitar a l’autoritat judicial, durant el darrer any de la minoria d’edat, la provisió preventiva de la curatela, que serà efectiva amb l’assoliment de la majoria d’edat.
+2. L’autoritat judicial ha d’escoltar la persona menor d’edat en el procediment i atendre, si escau, la seva voluntat i preferències.

@@ -1,0 +1,2 @@
+# Article 234. Ordre de prelació dels obligats
+Quan sigui procedent la reclamació d’aliments i siguin dos o més els obligats a prestar-los, ho és en primer lloc el cònjuge o convivent de l’alimentista, en segon lloc els descendents, amb preferència els de grau més pròxim respecte dels de més remot, i en tercer lloc els ascendents també d’acord amb la proximitat de grau. Si la persona obligada preferentment no pot fer-se càrrec en tot o en part de l’obligació, esdevenen obligats en tot o en part els de grau posterior.

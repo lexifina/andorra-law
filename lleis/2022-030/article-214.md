@@ -1,0 +1,3 @@
+# Article 214. Drets i deures dels progenitors i dels fills
+1. Els progenitors i els fills s’han de respectar mútuament. Els fills, mentre es troben en autoritat parental, han d’obeir els progenitors, si bé aquests han de conferir als fills la facultat d’organitzar la seva vida d’acord amb el seu grau de maduresa.
+2. Els progenitors determinen el lloc o els llocs on viuen els fills en autoritat parental, els quals no poden abandonar el domicili familiar sense el consentiment dels progenitors. Aquests poden decidir, amb motiu suficient, que els fills resideixin en un lloc diferent del domicili familiar.

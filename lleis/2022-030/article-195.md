@@ -1,0 +1,6 @@
+# Article 195. Proposta d’adopció
+1. La proposta d’adopció d’una persona menor d’edat és promoguda davant de l’autoritat judicial pel ministeri competent en matèria d’afers socials. Ha d’anar acompanyada dels informes i documents que es creguin oportuns, en particular de l’informe psicosocial emès pel servei especialitzat d’adopcions del Govern.
+2. La proposta pot ser directament promoguda pels adoptants, sense l’informe psicosocial referit a l’apartat anterior, si l’adoptand:
+a) És orfe i parent de l’adoptant o un dels adoptants fins al quart grau de consanguinitat o està posat en tutela de l’adoptant o adoptants.
+b) És fill del cònjuge o parella de l’adoptant.
+3. Si l’adoptant o un dels adoptants ha mort, es pot constituir l’adopció, amb efectes respecte del difunt, sempre que aquest hagués acollit la persona menor d’edat en preadopció i hagués donat el seu consentiment a l’adopció davant de l’autoritat judicial o bé en escriptura pública o en testament. La constitució d’aquesta adopció té lloc sense perjudici de la possibilitat d’iniciar, si escau, un nou procés de valoració de la situació familiar sobrevinguda a fi d’adoptar les mesures que calguin en interès de la persona menor.

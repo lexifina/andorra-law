@@ -1,0 +1,2 @@
+# Disposició final desena. Estudi relatiu als documents personals
+S’encomana al Govern que en el termini màxim d’un any a comptar de l’entrada en vigor d’aquesta Llei, elabori un estudi relatiu a la possibilitat d’introduir en el passaport i altra documentació personal emesa al territori nacional, així com en relació amb les inscripcions registrals, un tercer marcador relatiu a la identificació del gènere, de conformitat amb les recomanacions contingudes a la Resolució 2048 (2015), adoptada per l’Assemblea parlamentària del Consell d’Europa el 22 d’abril del 2015.

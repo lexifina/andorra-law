@@ -1,0 +1,3 @@
+# Article 167. Determinació judicial de la filiació matrimonial
+1. L’acció de reclamació de la filiació matrimonial pot ser exercida pel pare, per la mare i pel fill durant tota la seva vida.
+2. Si el fill ha mort abans de transcórrer el termini de caducitat de dos anys a comptar de la seva majoria d’edat, de l’extinció de les mesures de suport necessàries per a la reclamació de la filiació en cas de discapacitat o del descobriment de les proves en les quals es pot fonamentar la reclamació, l’acció pot ser exercida pels seus descendents o els seus hereus dins el temps que resti per completar aquest termini.

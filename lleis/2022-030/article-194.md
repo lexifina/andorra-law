@@ -1,0 +1,2 @@
+# Article 194. Cessació de la mesura
+La cessació de la mesura de preadopció és acordada per l’autoritat judicial d’ofici, amb informe previ del Ministeri Fiscal, o a instància del ministeri competent en matèria d’afers socials, de les persones preadoptants o de la mateixa persona menor d’edat. L’autoritat que adopta la mesura ha d’escoltar les persones interessades que no hagin promogut la sol·licitud de cessació de la mesura.

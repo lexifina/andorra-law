@@ -1,0 +1,5 @@
+# Article 101. Habitatge familiar
+1. El cònjuge titular de l’habitatge familiar o dels béns mobles d’ús ordinari no pot, sense el consentiment exprés de l’altre cònjuge, disposar del seu dret ni realitzar cap altre acte jurídic sobre aquests béns o sobre quotes indivises dels mateixos que comprometi de forma immediata o eventual l’allotjament de la família.
+2. Si no és possible obtenir el consentiment de l’altre cònjuge, o aquest es nega de forma injustificada a donar-lo, l’autoritat judicial, en procediment de jurisdicció voluntària, pot autoritzar l’acte projectat en interès de la família.
+3. L’acte realitzat per un dels cònjuges sense el consentiment de l’altre, o sense l’autorització judicial supletòria, pot ser anul·lat a instàncies de l’altre cònjuge en el termini de caducitat de quatre anys a comptar de la data en què en tingui coneixement. No escau la impugnació enfront de l’adquirent de bona fe i a títol onerós.
+4. Si el cònjuge que ha fet l’acte dispositiu ha declarat falsament que l’altre cònjuge el consent, l’adquirent pot resoldre el contracte.

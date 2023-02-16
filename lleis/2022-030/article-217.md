@@ -1,0 +1,2 @@
+# Article 217. Contraposició d’interessos
+Si en algun assumpte hi ha contraposició d’interessos entre els fills i els progenitors, quan l’autoritat parental és exercida per ambdós, el fill és representat per l’altre progenitor amb el qual no té contraposició d’interessos. Quan la contraposició es dona amb ambdós progenitors conjuntament o amb el que exerceixi l’autoritat parental, s’ha de nomenar el defensor judicial que s’estableix als articles 61 a 63.

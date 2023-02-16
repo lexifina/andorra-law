@@ -1,0 +1,3 @@
+# Article 215. Intervenció judicial
+1. Si l’exercici de l’autoritat parental es considera perjudicial per als interessos dels fills, l’autoritat judicial pot adoptar, a instàncies dels mateixos fills d’acord amb el seu grau de maduresa, dels progenitors encara que no exerceixin l’autoritat parental, dels parents dels fills fins al tercer grau i, en tot cas, del Ministeri Fiscal o del ministeri competent en matèria d’afers socials, les mesures que consideri escaients.
+2. L’autoritat judicial, abans de dictar qualsevol resolució, ha d’escoltar el parer del fill, d’acord amb el que s’estableix a l’article 4.

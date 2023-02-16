@@ -1,0 +1,2 @@
+# Article 145. Extinció del règim econòmic matrimonial
+La sentència ferma de nul·litat del matrimoni, de separació o de divorci determina l’extinció del règim econòmic del matrimoni. Tanmateix, els efectes de l’extinció es retrotreuen al moment d’interposició de la demanda o, si així ho acorda l’autoritat judicial a petició d’un dels cònjuges o dels seus hereus, a la data del cessament efectiu de la convivència.

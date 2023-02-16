@@ -1,0 +1,3 @@
+# Article 120. Comptes conjunts
+1. Si els cònjuges són titulars d’un compte conjunt, els diners dipositats pertanyen a cada cònjuge en els termes que hagin convingut o, en defecte de pacte, en proporció a les quantitats que hi hagin aportat. A manca de prova, s’aplica la presumpció de l’apartat 3 de l’article 118.
+2. Els creditors de qualsevol dels cònjuges titulars d’un compte conjunt, en cas de deutes privatius, sols poden embargar la meitat del ròssec que presenta el compte, sense perjudici de les accions que puguin exercitar el cònjuge no deutor respecte de la suma embargada o els creditors en relació amb la resta del ròssec.

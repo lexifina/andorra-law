@@ -1,0 +1,4 @@
+# Article 23. Al·legació i apreciació de les excuses
+1. L’excusa s’ha d’al·legar davant l’autoritat judicial que ha nomenat el titular del càrrec de protecció o de suport en el termini de quinze dies hàbils, a comptar del moment en què es té coneixement del nomenament.
+2. Si la causa que fonamenta l’excusa ha sobrevingut posteriorment al nomenament, s’ha d’al·legar davant l’autoritat judicial en el termini més breu possible. En aquest cas, la persona titular del càrrec està obligada a exercir les seves funcions mentre no sigui acceptada l’excusa. L’autoritat judicial, simultàniament a l’acceptació de l’excusa, ha de nomenar una altra persona per exercir el càrrec.
+3. Quan no s’accepta un càrrec de protecció o de suport i es desestima l’excusa que fonamenta la manca d’acceptació, el designat ha d’indemnitzar pels danys i perjudicis que es puguin derivar de la demora del nou nomenament i que se li puguin imputar.

@@ -1,0 +1,4 @@
+# Article 40. Exercici per pluralitat de persones i desacords
+1. En el cas que hi hagi més d’un tutor, tots actuen de forma conjunta, llevat que s’estableixi expressament el contrari en la resolució judicial de constitució de la tutela, però qualsevol d’ells pot fer els actes que, d’acord amb les circumstàncies, es pot considerar normal que siguin fets per un sol tutor, i també els de necessitat urgent.
+2. Els desacords entre els tutors s’han de resoldre en un procediment de jurisdicció voluntària, amb l’audiència prèvia dels tutors i de la persona menor d’edat si té més de dotze anys o si, tenint-ne menys, té prou coneixement.
+3. Si hi ha un administrador patrimonial el tutor s’ocupa només del contingut personal de la tutela. Les decisions que concerneixen tant l’àmbit personal com el patrimonial s’han de prendre d’acord amb el que disposa l’apartat 1.

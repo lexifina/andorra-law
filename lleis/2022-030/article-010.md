@@ -1,0 +1,3 @@
+# Article 10. Finalitat i exercici de les mesures de suport
+1. Les mesures de suport s’adrecen a assistir la persona amb discapacitat en l’exercici de la seva capacitat i a possibilitar el ple desenvolupament de la seva personalitat. A aquest efecte, les persones que presten el suport han de procurar que la persona assistida pugui desenvolupar el seu propi procés de presa de decisions i han de respectar la seva voluntat i preferències tant com sigui possible.
+2. En el procés de presa de decisions, les persones que presten el suport han de facilitar l’accés de la persona amb discapacitat a la informació rellevant, assistir-la de manera adaptada a les seves capacitats i evitar tota mena de pressió, coerció o influència indeguda.

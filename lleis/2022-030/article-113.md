@@ -1,0 +1,2 @@
+# Article 113. Interdependència dels pactes capitulars
+Els actes realitzats de forma directa o per persona interposada que persegueixen una derogació, disminució o perjudici de l’heretament o de les donacions atorgades en capítols matrimonials poden ser impugnats com a fraudulents a instàncies de qualsevol perjudicat en el termini de caducitat de quatre anys a comptar de la data en què se’n tingui coneixement.

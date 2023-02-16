@@ -1,0 +1,3 @@
+# Article 211. Desacords
+1. En cas de desacord entre els progenitors, qualsevol d’ells pot acudir a l’autoritat judicial a fi que, en procediment de jurisdicció voluntària, resolgui en el sentit que cregui procedent en interès del fill afectat per la decisió, després d’escoltar el parer dels progenitors, del fill si ha complert dotze anys o si, tenint-ne menys, té prou coneixement, i del Ministeri Fiscal.
+2. Si els desacords són reiterats i dificulten greument l’exercici de l’autoritat parental conjunta, l’autoritat judicial pot atribuir aquest exercici a un dels progenitors o distribuir-lo entre ambdós progenitors per un període no superior a dos anys.

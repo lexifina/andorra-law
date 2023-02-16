@@ -1,0 +1,2 @@
+# Article 92. Eficàcia civil de les sentències canòniques
+A sol·licitud de qualsevol de les parts davant de l’autoritat judicial civil competent, les sentències o altres resolucions canòniques fermes i definitives relatives a la dissolució o nul·litat del vincle matrimonial tenen plena eficàcia civil d’acord amb l’ordenament jurídic del Principat d’Andorra, sense necessitat de tramitar un procediment d’exequàtur.

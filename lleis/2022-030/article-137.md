@@ -1,0 +1,7 @@
+## Secció tretzena. Efectes de la declaració de la nul·litat, la separació i el divorci
+# Article 137. Pactes en previsió d’una ruptura matrimonial
+1. Els cònjuges o futurs cònjuges poden atorgar pactes en previsió d’una ruptura matrimonial en capítols matrimonials o en escriptura pública. Si són prematrimonials, caduquen si el matrimoni no se celebra en el termini d’un any.
+2. El notari, abans d’autoritzar l’escriptura, ha d’informar per separat cadascun dels atorgants sobre l’abast dels canvis que es pretenen introduir amb els pactes respecte al règim legal supletori. També els ha d’advertir del deure recíproc de proporcionar-se informació suficient sobre el seu patrimoni, ingressos i expectatives econòmiques, si aquesta informació és rellevant amb relació al contingut dels pactes. La càrrega d’acreditar que l’altra part disposava d’aquesta informació correspon a qui pretengui fer valer el pacte.
+3. Els pactes d’exclusió o limitació de drets han de tenir caràcter recíproc i precisar amb claredat els drets que limiten o als quals es renuncia.
+4. Els pactes que en el moment que se’n pretén el compliment siguin greument perjudicials per a un cònjuge no són eficaços si aquest acredita que han sobrevingut circumstàncies rellevants imprevistes que no es podien preveure raonablement en el moment que es van atorgar.
+5. Els cònjuges poden exigir el compliment d’aquests pactes en el procediment de família corresponent i també, si escau, en sol·licitar l’adopció de mesures provisionals.

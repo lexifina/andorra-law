@@ -1,0 +1,3 @@
+# Disposició transitòria sisena. Efectes de les unions estables de parella
+1. Les unions estables de parella constituïdes i subsistents en el moment de l’entrada en vigor d’aquesta Llei se subjecten a les regles del conveni privat que van acordar els convivents, si bé en cas d’extinció de la unió s’apliquen també les mesures que estableix o a les que remet la Secció tercera del Capítol segon del Títol II d’aquesta Llei en interès dels fills menors.
+2. Els efectes de l’extinció d’una unió estable de parella decretats en aplicació de la legislació anterior a l’entrada en vigor d’aquesta Llei es mantenen i les mesures adoptades es poden modificar d’acord amb allò que preveia la normativa en virtut de la qual es van adoptar.

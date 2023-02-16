@@ -1,0 +1,3 @@
+# Article 124. Forma de pagament de la compensació
+1. La compensació s’ha de pagar en diners, llevat que les parts acordin una altra cosa. No obstant això, per causa justificada i a petició de qualsevol de les parts o dels hereus del cònjuge deutor, l’autoritat judicial en pot ordenar el pagament total o parcial amb béns.
+2. A petició del cònjuge deutor o dels seus hereus, l’autoritat judicial pot ajornar el pagament de la compensació o ordenar que es faci a terminis, amb un venciment màxim de tres anys i la meritació de l’interès legal a comptar del reconeixement, i pot també ordenar la constitució de garanties a favor del cònjuge creditor.

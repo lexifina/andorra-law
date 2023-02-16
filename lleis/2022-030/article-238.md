@@ -1,0 +1,2 @@
+# Article 238. Compliment
+L’obligació de prestar aliments s’ha de complir amb diners i per mensualitats avançades o pagant directament les despeses que aquests aliments generin. Tanmateix, si el que ha de prestar-los justifica la impossibilitat de pagar la pensió d’aliments, l’autoritat judicial pot autoritzar-lo a complir la seva obligació acollint a casa seva l’alimentista o pot autoritzar que sigui atès amb el seu acord en un centre residencial al seu càrrec, dispensant-lo o no de pagar en aquest cas una part de la pensió o tota.

@@ -1,0 +1,4 @@
+## Subsecció segona. Determinació de la filiació matrimonial
+# Article 163. Presumpció de paternitat matrimonial
+1. Es presumeixen fills del marit els nascuts després de la celebració del matrimoni i dins dels tres-cents dies següents a la separació, judicial o de fet, dels cònjuges o a la dissolució o declaració de nul·litat del matrimoni.
+2. Si dins dels tres-cents dies següents a la dissolució o nul·litat del matrimoni hi ha hagut un nou matrimoni de la mare, es presumeix que els nascuts després de la celebració d’aquest matrimoni són fills del primer marit, llevat que es pugui establir, per mitjà d’un expedient registral, que els cònjuges havien estat separats, per qualsevol motiu, durant almenys els tres-cents dies previs al naixement, cas en el qual preval la presumpció de paternitat del segon marit.

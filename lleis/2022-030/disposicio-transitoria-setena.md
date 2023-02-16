@@ -1,0 +1,2 @@
+# Disposició transitòria setena. Règim d’adopció de persones majors d’edat
+Per excepció al que estableix l’apartat 2 de l’article 185, durant el termini de cinc anys comptat a partir de l’entrada en vigor d’aquesta Llei es poden adoptar persones majors d’edat que, al moment de la presentació de la demanda d’adopció, tinguin més de vint-i-cinc anys d’edat, sempre que es compleixin la resta de requisits establerts a la disposició referida.

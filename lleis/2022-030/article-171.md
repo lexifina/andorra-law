@@ -1,0 +1,4 @@
+# Article 171. Presumpció de paternitat extramatrimonial
+1. Es presumeixen fills de l’home convivent en unió estable de parella amb la mare els nascuts després de la constitució de la unió i dins dels tres-cents dies següents a la separació de fet dels convivents o a l’extinció de la unió.
+2. En cas de conflicte de presumpcions pel fet que la mare hagi contret matrimoni o hagi constituït una nova unió estable després de la separació de fet o de l’extinció de la unió, s’aplica el que disposa l’apartat 2 de l’article 163.
+3. Si el fill ha nascut dins dels cent vuitanta dies següents a la constitució de la unió estable de parella, el convivent en unió estable amb la mare pot deixar sense efecte la presumpció de paternitat per mitjà d’una declaració autèntica de desconeixement de la paternitat en els termes i amb els límits establerts per l’article 164.

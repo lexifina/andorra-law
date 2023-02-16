@@ -1,0 +1,2 @@
+# Article 2. Commoriència
+En cas de mort de diverses persones en un mateix esdeveniment sense que es pugui establir l’ordre de la defunció es considera que han mort alhora i no hi ha successió o transmissió de drets entre elles. També s’entén que aquestes persones han mort alhora si llurs defuncions tenen unitat de causa o de circumstància i han transcorregut menys de setanta-dues hores entre elles.

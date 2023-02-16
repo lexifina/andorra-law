@@ -1,0 +1,2 @@
+# Article 116. Ineficàcia
+Els capítols matrimonials queden sense efecte si el matrimoni és declarat nul, si hi ha separació judicial dels cònjuges o si el matrimoni es dissol per divorci, amb excepció dels pactes convinguts en previsió d’una crisi matrimonial, del reconeixement de fills fet per qualsevol dels cònjuges i dels pactes successoris, els quals mantenen la seva eficàcia en els termes establerts per la Llei de la successió per causa de mort.

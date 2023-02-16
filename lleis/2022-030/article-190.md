@@ -1,0 +1,3 @@
+# Article 190. Autorització judicial
+1. L’autoritat judicial pot autoritzar l’adopció si estima abusiva la negativa oposada per ambdós progenitors o per un d’ells, si els progenitors s’han desinteressat del fill que ha de ser adoptat fins al punt de comprometre la seva salut o moralitat.
+2. L’adopció de persones majors d’edat o menors emancipades ha de ser autoritzada en procediment de jurisdicció voluntària substanciat en la jurisdicció civil, sempre que s’acrediti el compliment dels requisits previstos a l’apartat 2 de l’article 185 i s’efectuï el tràmit previst a l’apartat 2 de l’article 188.

@@ -1,0 +1,4 @@
+# Article 149. Registre d’Unions Estables de Parella
+1. El Registre d’Unions Estables de Parella, a càrrec de la persona titular del Registre Civil, té per finalitat incoar l’expedient previ de constitució de les unions estables de parella, acreditar la seva existència i extinció i lliurar-ne testimoni fefaent mitjançant certificació.
+2. La persona encarregada del Registre certifica que s’ha constituït o extingit la unió estable de parella, segons resulti de la inscripció o cancel·lació registral, a petició de qualsevol dels membres de la parella o de persona que justifiqui tenir-hi un interès legítim.
+3. L’organització, la gestió, l’estructura, el funcionament i la publicitat del Registre d’Unions Estables de Parella, en el que no estigui previst per aquesta Llei, es determinen reglamentàriament.

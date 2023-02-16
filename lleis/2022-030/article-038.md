@@ -1,0 +1,3 @@
+# Article 38. Inventari
+1. El tutor ha de fer un inventari judicial complet del patrimoni inicial de la persona tutelada, encara que existeixi dispensa de prendre’l, amb intervenció del Ministeri Fiscal i de les persones que l’autoritat judicial consideri que cal citar, dins els seixanta dies naturals següents a la presa de possessió del càrrec. Aquest termini pot ser objecte de pròrroga per causa justa fins a un màxim de seixanta dies més. La mateixa obligació, ha de complir el tutor respecte dels béns que adquireixi posteriorment la persona tutelada.
+2. Mentre no s’enllesteix l’inventari, el tutor sols pot realitzar els actes de gestió que no admetin demora.

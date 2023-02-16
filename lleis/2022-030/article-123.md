@@ -1,0 +1,5 @@
+# Article 123. Regles de càlcul
+1. Els increments dels patrimonis dels cònjuges es calculen d’acord amb les regles següents:
+a) El patrimoni de cadascun dels cònjuges està integrat pels béns que tingui en el moment de l’extinció del règim una vegada deduïdes les càrregues que els afectin i les obligacions. S’hi ha d’afegir el valor dels béns dels quals hagi disposat a títol gratuït, calculat en el moment de transmetre’ls, excloses les liberalitats d’ús.
+b) S’ha de descomptar del patrimoni de cadascun dels cònjuges el valor dels béns que tenia en començar el règim i que conserva en el moment que s’extingeix o bé els seus subrogats, una vegada deduïdes les càrregues que els afectin, i també el valor dels adquirits a títol gratuït durant la vigència del règim i les indemnitzacions per danys personals, exclosa la part corresponent al lucre cessant durant el temps de convivència.
+2. Les atribucions patrimonials que el cònjuge deutor hagi fet al cònjuge creditor durant la vigència del règim s’imputen a la compensació pel valor que tenen en el moment de l’extinció del règim.

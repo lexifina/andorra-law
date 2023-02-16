@@ -1,0 +1,3 @@
+# Disposició final setena. Modificació de normes reglamentàries
+1. S’encomana al Govern que, en el termini màxim de sis mesos des de l’entrada en vigor d’aquesta Llei, aprovi les modificacions escaients del Reglament del Registre Civil, del Reglament d’adopció i del Reglament sobre la constatació registral de les unions estables de parella, a fi d’adaptar les seves disposicions a aquesta Llei.
+2. Mentre no es produeixin aquestes modificacions, les disposicions reglamentàries referides continuen vigents en allò que no contradigui aquesta Llei i s’han d’interpretar, en tot cas, d’acord amb els nous principis legals.

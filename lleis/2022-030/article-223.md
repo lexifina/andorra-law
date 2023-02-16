@@ -1,0 +1,3 @@
+# Article 223. Manca d’autorització
+1. Els actes realitzats pels progenitors sense haver obtingut l’autorització judicial poden ser anul·lats a instància del fill, dins del termini de caducitat de quatre anys a comptar del moment en què és emancipat o arriba a la majoria d’edat. Durant la minoria d’edat, també poden ser impugnats pel tutor del fill, si s’ha constituït la tutela, o per un defensor judicial designat a l’efecte. En cas de mort del fill, l’acció es transmet als seus hereus pel temps que manqui per completar el que tenia el causant.
+2. Aquests actes poden quedar convalidats si obtenen l’aprovació judicial amb posterioritat a la seva realització, que pot tenir lloc a sol·licitud dels progenitors abans que s’hagi interposat l’acció de nul·litat.

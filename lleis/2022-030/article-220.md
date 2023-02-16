@@ -1,0 +1,2 @@
+# Article 220. Béns administrats pels fills
+El fill major de setze anys sota autoritat parental té l’administració dels béns i drets que obtingui com a producte del seu treball i dels que els progenitors li han confiat per a l’exercici d’una professió o activitat, però necessita el complement de capacitat dels progenitors per als actes que estableix l’article 221. Els progenitors no poden revocar de forma arbitrària aquesta administració.

@@ -1,0 +1,2 @@
+# Article 237. Pluralitat de persones amb dret a reclamar
+Si més d’un alimentista tingués dret a reclamar aliments a la mateixa persona obligada a donar-los i aquesta persona no tingués capacitat econòmica per atendre tots els que hi tenen dret, cal guardar el mateix ordre que s’estableix a l’article 234, però tenen sempre preferència els fills que estan sotmesos a l’autoritat parental del que ha de prestar-los i els fills majors d’edat amb discapacitat proveïts de mesures de suport per a l’exercici de la capacitat.
