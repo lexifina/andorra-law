@@ -1,0 +1,4 @@
+# Article 3. Transferències de crèdit
+1. D’acord amb l’article 26 de la Llei general de les finances públiques i les seves modificacions posteriors, el ministre encarregat de les finances pot, a proposta del ministre que correspongui, autoritzar transferències entre crèdits dintre d’un mateix programa per a les despeses corrents.
+2. El punt 1 d’aquest article és aplicable també a les entitats parapúbliques o de dret públic. En aquest cas, les referències als òrgans de l’Administració general s’entenen substituïdes pels òrgans competents de les entitats parapúbliques o de dret públic.
+3. El Govern ha de comunicar al Consell General les modificacions de crèdit efectuades sobre la base de qualsevol dels supòsits exposats anteriorment, en el decurs dels trenta dies hàbils que segueixen la modificació esmentada.

@@ -1,0 +1,8 @@
+# Disposició final onzena
+1. Es modifica l’article 114 de la Llei 1/2019, del 17 de gener, de la funció pública, que queda redactat de la manera següent:
+“Article 114. Efectes dels serveis prestats en règim interí
+La prestació de serveis en règim interí no pot constituir dret preferent per accedir a la condició de personal funcionari. No obstant això, si el treballador públic interí ha prestat els seus serveis, de forma ininterrompuda en el mateix lloc de treball, durant un període igual o superior a cinc anys, pot concórrer als processos de mobilitat interna d’aquest lloc de treball. L’experiència i la formació són valorats, en tot cas, com a mèrit en el procés de selecció.
+En cas que una persona que hagi prestat serveis a l’Administració general en règim interí s’incorpori a l’Administració general com a funcionari, el temps que hagi prestat aquests serveis computa a efectes del complement d’antiguitat a condició que ocupi el mateix lloc de treball i que el termini transcorregut entre la baixa com a treballador públic en règim interí i la incorporació a l’Administració general amb el nou règim no sigui superior a tres mesos.”
+2. Es modifica la disposició transitòria segona de la Llei 29/2022, del 21 de juliol, de modificació de la Llei 1/2019, del 17 de gener, de la funció pública, que queda redactada de la manera següent:
+“Disposició transitòria segona. Consolidació de treballadors públics interins
+Els treballadors públics interins que a partir de la data d’entrada en vigor d’aquesta Llei hagin ocupat ininterrompudament el mateix lloc de treball en l’Administració general durant un període igual o superior a cinc anys, amb independència de la seva nacionalitat, podran concórrer als processos de mobilitat interna d’aquest lloc de treball.”

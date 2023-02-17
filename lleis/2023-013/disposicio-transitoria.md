@@ -1,0 +1,4 @@
+# Disposició transitòria
+Respecte al reconeixement de la pensió de viduïtat per les situacions generades anteriorment a l’entrada en vigor d’aquesta Llei, la persona vídua disposa d’un termini d’un any a comptar de l’entrada en vigor d’aquesta Llei per sol·licitar l’aplicació de les disposicions que contenen els articles 180.1 i/o 181.1 de la Llei de la seguretat social, modificats per aquesta Llei.
+El reconeixement de la prestació corresponent pren efectes a comptar de la data de la sol·licitud. Per a la pensió de viduïtat temporal s’inicia a partir de la sol·licitud i per la durada prevista per l’article 182.4 de la Llei de la seguretat social.
+La Caixa Andorrana de Seguretat Social publicarà per tots els mitjans al seu abast el contingut d’aquesta disposició, per tal que les persones concernides puguin beneficiar-se’n.
