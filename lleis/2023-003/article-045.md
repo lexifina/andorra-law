@@ -1,0 +1,4 @@
+# Article 45. Garantia de transparència i informació a la societat
+1. Una vegada conclosa la recerca, l’investigador responsable ha de remetre un resum a l’autoritat competent que va donar l’autorització i, segons qui hagi participat en l’autorització, a la Comissió d’Ètica de la Investigació o al Comitè d’Ètica de la investigació del centre sanitari.
+2. Els resultats de la recerca es comunicaran als participants, sempre que ho sol·licitin.
+3. Els investigadors hauran de fer públics pel mitjà habitual els resultats generals de les investigacions, tant si han tingut èxit com si no, una vegada concloses, atenent els principis de l’accés obert en recerca perquè les dades produïdes siguin accessibles, interoperables i reutilitzables, els requisits relatius a les dades de caràcter personal i sense detriment dels corresponents drets de propietat intel·lectual i industrial que es poguessin derivar de la recerca.

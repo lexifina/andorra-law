@@ -1,0 +1,2 @@
+# Article 47. Creació d’entitats o participació en entitats
+El Govern d’Andorra, els ministeris encarregats de la salut i la recerca i la innovació i altres entitats públiques o parapúbliques podran constituir altres entitats de qualsevol naturalesa jurídica, siguin nacionals o estrangeres, o participar-hi, encara que es tracti de societats mercantils, sempre que tinguin per objecte la consecució de fites anàlogues, compatibles o complementàries amb la seva fita de recerca i innovació.

@@ -1,0 +1,6 @@
+# Article 22. Fins i pertinència del cribratge genètic
+1. Els cribratges genètics estaran dirigits a detectar una malaltia o risc greu per a la salut en l’individu participant o en la seva descendència, amb la finalitat de tractar precoçment la malaltia o oferir l’accés a mesures preventives.
+2. Les autoritats sanitàries han de determinar, basant-se en criteris objectius, la pertinència del cribratge genètic en atenció a les malalties que cal prevenir o tractar. Vetllaran, així mateix, perquè es garanteixi l’accés universal i equitatiu de la població per a la qual està indicat el cribratge, per l’organització i planificació del programa, així com per la qualitat de les proves de cribratge, de les proves diagnòstiques de segon nivell i de les prestacions preventives i terapèutiques que s’ofereixin.
+3. Per a la realització del cribratge es tindran en compte els aspectes psicosocials i la seva integració al sistema sanitari. Així mateix, el programa específic de cribratge de què es tracti serà avaluat per la Comissió d’Ètica de la Investigació.
+4. S’establiran els procediments apropiats per al seguiment i l’avaluació continuada del programa.
+5. És aplicable a les proves emprades en ocasió dels cribratges genètics el règim establert per aquesta Llei per a les anàlisis genètiques.

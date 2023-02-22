@@ -1,0 +1,3 @@
+# Disposició final sisena. Desenvolupament reglamentari
+S’encomana al Govern l’aprovació, en el termini d’un any des de l’entrada en vigor, dels reglaments necessaris per al desenvolupament d’aquesta Llei i, especialment, establir i actualitzar, d’acord amb el que preveu l’article 12.7, l’import mínim que es garantirà en concepte de responsabilitat i el capital assegurat màxim o import màxim de la garantia financera per recerca o assaig i anualitat.
+Igualment, s’encomana al Govern dictar els reglaments en desenvolupament d’aquesta Llei que en funció de l’avenç de la biomedicina i de les biotecnologies puguin resultar necessaris per a la regulació deguda de la corresponent activitat, en el marc dels drets i garanties previstes en aquesta Llei.

@@ -1,0 +1,3 @@
+# Article 13. Avaluació de l’estat de salut
+1. Les persones que participin en la recerca o assaig tenen el deure de facilitar les dades que coneguin sobre el seu estat físic o la seva salut que siguin rellevants per a la recerca o assaig. Si escau, podrà consultar, amb el consentiment dels participants, als metges responsables de la seva assistència, per comprovar aquests extrems prèviament a la iniciació de la recerca, a fi d’assegurar que les persones per a les quals la recerca revesteixi especial risc en siguin excloses.
+2. Quan la recerca impliqui dones en edat fèrtil, cal tenir en compte el possible impacte advers sobre un embaràs existent desconegut o posterior, així com sobre la salut de l’embrió, el fetus o l’infant.

@@ -1,0 +1,3 @@
+# Article 11. Principi d’altruisme i de solidaritat
+1. La donació i la utilització de mostres biològiques humanes o dades de salut són gratuïtes, sigui quin sigui el seu origen específic, sense que en cap cas les compensacions que es preveuen en aquesta Llei puguin comportar un caràcter lucratiu o comercial, com a garantia de la participació voluntària dels subjectes en la recerca i la cessió d’aquelles.
+2. En els mateixos termes, la donació o participació al corresponent estudi implica la renúncia per part dels donants o participants a qualsevol dret de naturalesa econòmica o d’un altre tipus sobre els resultats que poguessin derivar-se de manera directa o indirecta de les investigacions que es duguin a terme amb aquestes mostres biològiques o dades de salut.

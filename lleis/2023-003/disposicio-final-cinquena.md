@@ -1,0 +1,2 @@
+# Disposició final cinquena. Requisits de funcionament dels biobancs
+S’encomana al Govern que en el termini màxim d’un any des de l’entrada en vigor de la Llei, aprovi un reglament en el qual s’estableixen els requisits bàsics d’autorització i funcionament dels biobancs amb fins de recerca biomèdica i del tractament de les mostres biològiques d’origen humà, i es regula el funcionament i l’organització del Registre nacional de biobancs per a recerca biomèdica.

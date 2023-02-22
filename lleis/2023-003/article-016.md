@@ -1,0 +1,4 @@
+# Article 16. No-discriminació
+1. Ningú no serà objecte de cap discriminació a causa de les seves característiques genètiques. Tampoc no es pot discriminar una persona a causa de la seva negativa a sotmetre’s a una anàlisi genètica o a prestar el seu consentiment per participar en una recerca biomèdica o donar materials biològics, en particular en relació amb la prestació medicoassistencial que li correspongui.
+2. Es fomentarà la recerca atenent al principi d’igualtat, de manera que puguin beneficiar-se dels corresponents avenços en la salut i en la lluita contra les malalties tots els ciutadans, amb independència de la raça, el sexe, el gènere o l’edat.
+3. La recerca s’efectuarà atenent al principi d’equitat, de manera que la recerca s’orienti també als grups més desafavorits o vulnerables.

@@ -1,0 +1,3 @@
+# Article 7. Proporcionalitat dels riscos
+1. La recerca no ha d’implicar per a l’ésser humà riscos i molèsties desproporcionats en relació amb els beneficis potencials que se’n puguin obtenir.
+2. Sense perjudici del que estableix l’apartat anterior, quan la recerca no tingui la possibilitat de produir resultats de benefici directe per a la salut del subjecte participant, només podrà ser iniciada en el cas que representi un risc i una càrrega mínims per a aquest subjecte i que les intervencions a què serà sotmès siguin equiparables a les que corresponen a la pràctica mèdica habitual en funció de la seva situació mèdica, psicològica o social.

@@ -1,0 +1,4 @@
+# Article 54. Altres mesures
+1. No tenen caràcter de sanció la clausura i el tancament d’establiments, instal·lacions o serveis que no comptin amb les autoritzacions o registres sanitaris preceptius previs, o la suspensió del seu funcionament fins que se solucionin els defectes o es compleixin els requisits exigits per raons de sanitat, higiene o seguretat.
+2. L’autoritat a què correspongui resoldre l’expedient pot acordar el comís de productes, medicaments o mostres biològiques deteriorats, caducats, no autoritzats o que puguin comportar risc per a la salut.
+3. Les despeses de transport, distribució o destrucció dels productes, medicaments i mostres, així com les derivades de la suspensió, la clausura i el tancament d’establiments, instal·lacions o serveis assenyalats en els apartats anteriors, són a compte de l’infractor.
