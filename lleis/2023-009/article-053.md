@@ -1,0 +1,3 @@
+# Article 53. Instrucció de l’expedient disciplinari
+Durant la instrucció d’un expedient disciplinari o en un moment posterior, l’òrgan competent pot adoptar motivadament les mesures cautelars que consideri necessàries per garantir l’eficàcia de la instrucció o de la resolució que pugui recaure.
+En cas de la suspensió de funcions, ja sigui com a sanció ja sigui com a mesura preventiva, comporta, a més de la privació temporal de l’exercici de les funcions, la retirada temporal de l’equipament, de les credencials reglamentàries, la prohibició d’ús de l’uniforme i, si escau, la prohibició d’entrar a les dependències del Servei de Circulació de la parròquia sense autorització.

@@ -1,0 +1,3 @@
+# Article 40. Valoració i prestació de la segona activitat
+1. Els membres del Servei de Circulació desenvolupen la segona activitat dins de la mateixa parròquia en què presten el servei, exercint funcions d’acord amb el seu càrrec. Si l’exercici d’aquestes funcions no és possible, bé per manca de places, bé per motiu d’incapacitat pròpia, poden prestar serveis complementaris adequats al seu càrrec i a la seva capacitat en altres llocs de treball de la mateixa Administració comunal.
+2. Per la situació de segona activitat, definida a l’article 39, s’aplicarà la regulació prevista per cada comú en la seva respectiva Ordinació de la funció pública.

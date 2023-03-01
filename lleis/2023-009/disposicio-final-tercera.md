@@ -1,0 +1,2 @@
+# Disposició final tercera
+S’encomana al Govern, en els termes previstos a l’article 116 del Reglament del Consell General, que, en el termini màxim de sis mesos des de l’entrada en vigor d’aquesta Llei, presenti al Consell General el projecte de consolidació de la Llei 31/2021, del 22 de novembre, de text consolidat qualificada de seguretat pública, el qual ha d’integrar la legislació vigent sobre la matèria regulada.

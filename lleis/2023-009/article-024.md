@@ -1,0 +1,14 @@
+# Article 24. Requisits generals d’accés
+1. L’accés al Servei de Circulació de cada comú es fa superant les proves selectives efectuades pel comú que hagi publicat l’edicte, i només hi poden prendre part els qui compleixen els requisits establerts per les bases de la convocatòria, requisits que han de ser, com a mínim, els següents:
+a) Ser major d’edat i tenir l’edat compresa entre el mínim i el màxim fixats per l’Òrgan Interparroquial de coordinació dels Serveis de Circulació.
+b) Reunir les condicions necessàries establertes per accedir al lloc de treball de què es tracti.
+c) No trobar-se inhabilitat o suspès per a l’exercici d’ofici o càrrec públic mitjançant una resolució judicial ferma.
+d) No estar condemnat per delictes dolosos o imprudents vinculats a l’exercici de la funció pública mentre no hagi transcorregut el termini establert legalment perquè prescrigui la pena imposada o no s’hagin cancel·lat els antecedents penals.
+e) No haver estat separat del servei a l’Administració pública, no trobar-se inhabilitat per prestar serveis en qualsevol lloc de treball de l’Administració pública o no estar suspès de funcions o per a l’exercici de l’ofici o el càrrec mitjançant una resolució disciplinària ferma.
+f) Ser declarat apte sense restriccions físiques i psíquiques quan el lloc de treball ho requereixi.
+g) Quan la naturalesa del lloc de treball ho aconselli, es pot demanar també que el candidat acrediti que no té antecedents penals per a determinades categories de delictes.
+2. El procés selectiu d’ingrés per a la provisió de places vacants o de nova creació s’ha d’obrir exclusivament als candidats de nacionalitat andorrana, amb les excepcions previstes en els tractats internacionals vigents. Per a les places que no resultin cobertes, es pot fer una segona convocatòria oberta a candidats d’altres nacionalitats.
+3. La provisió de places a agents de circulació en formació vacants o de nova creació podrà efectuar-se mitjançant el concurs de mobilitat interna dins el propi comú, o directament per concurs de mobilitat entre totes les administracions i posteriorment mitjançant el procediment selectiu d’ingrés.
+La provisió de places a agents de circulació o agents de circulació de primera vacants o de nova creació s’efectua mitjançant el concurs de mobilitat entre tots els Serveis de Circulació comunals.
+La provisió de places de l’escala tècnica o superior vacants o de nova creació s’efectua mitjançant concurs de mobilitat interna dins el propi servei i posteriorment per concurs de mobilitat entre tots els Serveis de Circulació Comunals.
+En tots els casos, un cop conclòs el procés de selecció, són nomenats agents en període de formació. Un cop finalitzat el període de formació, són nomenats agents en període de prova, segons l’establert en l’article 33 d’aquesta Llei. El període de formació finalitzarà un cop superat el curs bàsic de capacitació i la formació d’àmbit parroquial, segons l’establert en l’article 28.

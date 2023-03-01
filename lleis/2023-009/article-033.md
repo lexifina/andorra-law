@@ -1,0 +1,8 @@
+# Article 33. Període de prova
+1. Conclòs el procés selectiu i, si escau, el procés formatiu, els candidats proposats per ocupar les places vacants o de nova creació són nomenats pel comú com a agents de circulació en període de formació o en període de prova.
+2. El període de prova és d’un mínim de tres mesos i un màxim d’un any de durada per als agents de circulació, segons estableixi cada comú en la convocatòria corresponent. Els dies de baixa mèdica no computaran com a període de prova.
+3. Durant el període de prova, el cap del servei de circulació i/o el comandament superior, juntament amb el responsable de recursos humans del comú, ha d’avaluar l’adequació de l’agent de circulació als requisits del lloc de treball.
+4. Si durant el període de prova no és avaluat favorablement o hi ha una causa justificada per al cessament, el departament encarregat de recursos humans ha de notificar-li per escrit l’acabament de la seva relació de treball, sense més responsabilitat que liquidar-li les remuneracions corresponents al temps treballat.
+5. Quan es tracta d’agents de circulació que han accedit a la plaça mitjançant promoció o mobilitat interna, en cas de no superar el període de prova, o de renúncia a la nova plaça durant aquest període, l’agent de circulació retorna a la seva plaça anterior, i percep, a partir del seu retorn efectiu, les retribucions corresponents a la plaça que, fins llavors, havia quedat en situació de reserva.
+6. El cònsol major de la parròquia, en un termini màxim de dos mesos, ha de prendre jurament o promesa del càrrec d’agent a l’aspirant una vegada hagi superat els requisits de l’article 25 de la Llei.
+El nomenament definitiu com a agent de circulació es publica al Butlletí Oficial del Principat d’Andorra.
