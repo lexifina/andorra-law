@@ -1,0 +1,4 @@
+# Article 27. Escortes privats
+1. Són funcions dels escortes privats l’acompanyament, la defensa i la protecció de persones determinades o grups concrets de persones, per impedir que siguin objecte d’agressions o actes delictius.
+2. En l’exercici de les seves funcions, els escortes no poden realitzar identificacions o detencions, o impedir o restringir la lliure circulació, llevat que sigui imprescindible com a conseqüència d’una agressió o d’una temptativa d’agressió a la persona o persones protegides o al mateix escorta. En aquest cas, han de posar immediatament aquesta persona o persones retingudes a disposició del Cos de Policia, sense procedir a cap mena d’interrogatori i d’escorcoll.
+3. Per al compliment de les dites funcions, és aplicable als escortes privats el que determinen l’article 26 i la resta de preceptes concordants, relatiu als vigilants de seguretat, excepte pel que fa la uniformitat i a l’escorcoll.

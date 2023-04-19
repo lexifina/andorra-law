@@ -1,0 +1,2 @@
+# Disposició derogatòria única
+Queden derogats el Decret de vigilants privats de 9 de novembre de 1981 i el Decret d’exercici de la professió de detectiu privat de data 21 de maig de 1992 publicat al Butlletí Oficial del Principat d’Andorra número 23, any 4, de data 3 de juny de 1992 i, així mateix, totes les normes de rang igual o inferior que s’oposin o contradiguin el que estableix la present Llei.

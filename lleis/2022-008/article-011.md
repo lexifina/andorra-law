@@ -1,0 +1,3 @@
+# Article 11. Activitats
+1. Les empreses de seguretat privada poden prestar serveis relatius a les activitats previstes a l’apartat 1 de l’article 4 d’aquesta Llei, excepte la que preveu la seva lletra h).
+2. A més d’aquestes activitats, les empreses de seguretat privada poden dedicar-se a la formació, actualització i especialització del personal de seguretat de la seva plantilla, inclòs en matèria de manipulació d’armes autoritzades per al seu ús per part del referit personal, i també a la formació d’altres empreses de seguretat o d’empreses privades amb vigilància pròpia, en les condicions que s’estableixin reglamentàriament.
