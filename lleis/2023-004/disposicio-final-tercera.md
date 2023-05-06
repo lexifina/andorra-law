@@ -1,0 +1,6 @@
+# Disposició final tercera
+1. Es modifica l’apartat 1 de l’article 6 de la Llei 7/2019, de conservació del medi natural, de la biodiversitat i del paisatge, que queda redactat com segueix:
+“1. El projectes i plans i programes que puguin afectar espais naturals protegits o espècies amenaçades s’han de sotmetre al procediment d’avaluació ambiental abans d’iniciar-les. Aquesta avaluació ha de preveure les mesures a aplicar per evitar que es produeixin pèrdues de la biodiversitat i dels serveis que aquesta biodiversitat procura. En cas que no es puguin evitar impactes, l’avaluació ha de preveure mesures per minimitzar-ne els efectes i compensar-ne els impactes, si escau.”
+2. Es modifica l’apartat 1 de l’article 48 de la Llei 7/2019, de conservació del medi natural, de la biodiversitat i del paisatge, que queda redactat com segueix:
+“1. Fer qualsevol actuació que afecti espais naturals protegits, espècies amenaçades o els hàbitats d’aquestes espècies que siguin objecte de mesures preventives lligades a la protecció de la biodiversitat.”
+3. Se suprimeixen l’apartat 2 de l’article 48 i l’apartat 1 de l’article 49 de la Llei 7/2019, de conservació del medi natural, de la biodiversitat i del paisatge.

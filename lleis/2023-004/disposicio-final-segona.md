@@ -1,0 +1,3 @@
+# Disposició final segona
+Es modifica l’apartat 6 de l’article 22 de la Llei 25/2004, del 14 de desembre, de residus, que queda redactat com segueix:
+“6. En tots els casos, abans de l’autorització administrativa, els projectes de construcció de noves instal·lacions de tractament de residus i totes les instal·lacions d’eliminació de residus i abocadors de residus s’han de sotmetre al procediment d’avaluació d’impacte ambiental i informació pública durant un període d’un mes a partir de la data de publicació al Butlletí Oficial del Principat d’Andorra. Les autoritzacions administratives dels projectes es publicaran al Butlletí Oficial del Principat d’Andorra.”

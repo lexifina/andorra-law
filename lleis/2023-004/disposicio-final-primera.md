@@ -1,0 +1,3 @@
+# Disposició final primera
+Es modifica l’apartat 1 de l’article 14 de la Llei 26/2021, del 25 d’octubre, de text consolidat de pesca i gestió del medi aquàtic, que queda redactat com segueix:
+“1. Els projectes que tenen un impacte ambiental sobre el medi aquàtic, recollits en l’annex I de la Llei d’avaluació ambiental de projectes i de plans i programes vigent, requereixen l’autorització del Govern, amb un informe previ dels ministeris responsables en matèria d’ordenament territorial i de pesca, que han d’informar sobre les condicions tècniques de l’obra i sobre l’impacte en el medi aquàtic, respectivament. Es procura especialment preservar els fresos, les zones de cria i d’alimentació de la fauna aquàtica i la conservació de la vegetació de ribera.”

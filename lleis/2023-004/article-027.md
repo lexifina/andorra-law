@@ -1,0 +1,5 @@
+# Article 27. Reparació dels danys causats al medi i restauració del medi a l’estat original
+1. L’òrgan ambiental pot exigir al promotor o titular del projecte la reparació dels danys causats al medi i la seva reposició a l’estat original, a càrrec del promotor o titular del projecte, en els casos següents:
+a) Projectes aturats cautelarment que no hagin fet les gestions necessàries per regularitzar la seva situació i completar el tràmit d’avaluació d’impacte ambiental. En aquests casos la reparació del dany i la restauració del medi al seu estat original pot incloure la demolició de les obres que s’hagin executat fins al moment de l’aturada cautelar.
+b) Projectes que hagin causat un dany al medi sense que s’hagin aplicat mesures correctores adequades per restaurar-lo.
+2. Les administracions públiques, d’acord amb les seves competències, poden reparar el dany causat i restituir, a càrrec seu, el medi a l’estat previ a les obres, sens perjudici d’aplicar al promotor o titular del projecte el principi de repercussió econòmica de totes les despeses esmerçades en el procés de reparació i restabliment de l’entorn.

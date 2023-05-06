@@ -1,0 +1,4 @@
+# Article 9. Requisits addicionals per a projectes amb un impacte molt important sobre el medi ambient
+Per als projectes inclosos en l’annex I b, que per les seves característiques o dimensions tenen un grau d’impacte molt important sobre el medi ambient, s’afegeixen els requisits següents al procediment d’avaluació d’impacte ambiental establert en l’article anterior:
+a) Tots els projectes es posen a informació pública, independentment de la titularitat dels terrenys, mitjançant la seva publicació al Butlletí Oficial del Principat d’Andorra, i a través de mitjans electrònics.
+b) De manera simultània al tràmit d’informació pública previst a l’apartat 6 de l’article anterior, l’òrgan substantiu ha de consultar el públic interessat sobre els possibles efectes del projecte i les administracions públiques afectades, quan correspongui. S’estableixen procediments perquè la informació sigui accessible a través de mitjans electrònics.

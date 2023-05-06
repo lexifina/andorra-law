@@ -1,0 +1,8 @@
+# Article 26. Mesures cautelars
+1. L’òrgan que incoa un procediment sancionador pot adoptar mesures cautelars per evitar que continuï la infracció o l’agreujament del dany causat. Aquestes mesures han de ser coherents amb la naturalesa de la presumpta infracció i proporcionades a la seva gravetat, i poden incloure, entre d’altres, l’aturada cautelar de les obres dels projectes objecte de la Llei.
+2. L’òrgan ambiental, amb independència que no s’hagi incoat un expedient sancionador, pot adoptar mesures cautelars en casos d’urgència per danys al medi i en altres casos en què l’abast dels interessos públics afectats ho requereixi.
+3. L’òrgan ambiental ha de sol·licitar a l’òrgan substantiu, en l’àmbit de les seves competències en matèria urbanística, l’aturada cautelar de les obres d’un projecte en els casos següents:
+a) L’inici de les obres d’un projecte sotmès a avaluació d’impacte ambiental que no hagi seguit completament aquest procediment o no hagi tingut en compte totes les previsions de la Llei.
+b) L’incompliment o la transgressió de les condicions imposades en la declaració d’impacte ambiental per a l’execució del projecte.
+4. Si l’òrgan substantiu no ha adoptat les mesures cautelars sol·licitades per l’òrgan ambiental dins el termini de 48 hores després de tenir coneixement dels fets, l’òrgan ambiental pot aturar cautelarment les obres en els casos previstos en l’apartat anterior.
+5. El projecte queda aturat cautelarment fins que no s’hagi completat el tràmit d’avaluació d’impacte ambiental o fins que no se n’hagi adaptat l’execució a les condicions previstes en la declaració d’impacte ambiental.

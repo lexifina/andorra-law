@@ -1,0 +1,16 @@
+# Article 16. Estudi ambiental estratègic de plans i programes
+1. Els plans i programes sotmesos a avaluació ambiental estratègica han d’incloure un estudi ambiental estratègic elaborat per tècnics autoritzats i competents.
+2. L’estudi ambiental estratègic del pla o programa identifica, descriu i avalua els probables efectes significatius sobre el medi ambient que es derivaran de l’aplicació del pla o programa, així com les alternatives raonables, tècnicament i ambientalment viables i sostenibles, que tinguin en compte l’objectiu i l’àmbit d’afectació geogràfica del pla o programa, amb la finalitat de prevenir o corregir els efectes adversos sobre el medi ambient que es derivin de l’aplicació del pla o programa.
+3. L’estudi ambiental estratègic es considera part integrant del pla o del programa.
+4. El contingut de l’estudi ambiental estratègic es determina per via reglamentària i ha de contenir, com a mínim, les dades següents:
+a) Un resum executiu amb els objectius principals del pla o programa, les relacions amb altres plans i programes pertinents i els criteris de sostenibilitat, incloent-hi les capacitats de creixement de la població, per al cas dels plans urbanístics, i els criteris paisatgístics adoptats per dissenyar-los.
+b) Els aspectes rellevants de la situació actual del medi ambient.
+c) Les principals alternatives raonables, inclosa l’alternativa de no alterar el medi, que tinguin en compte els objectius i l’àmbit d’aplicació geogràfic del pla o programa.
+d) Qualsevol problema ambiental existent que sigui important per al pla o programa, incloent-hi, en particular, els aspectes relacionats amb qualsevol zona amb una sensibilitat ambiental d’especial importància.
+e) Els objectius de protecció ambiental i paisatgística fixats en l’àmbit nacional que tinguin relació amb el pla o programa i la manera com aquests objectius i qualsevol aspecte ambiental s’han tingut en compte durant l’elaboració del pla o programa.
+f) Els probables efectes significatius sobre el medi ambient, inclosos aspectes com la biodiversitat, la població, la salut humana, la fauna, la flora, la terra, l’aigua, l’aire, els factors climàtics, els béns materials, el patrimoni cultural –inclosos el patrimoni arquitectònic i l’arqueològic−, el paisatge i la interrelació entre aquests factors.
+g) Les mesures previstes per prevenir, reduir i, en la mesura que sigui possible, compensar qualsevol efecte negatiu important en el medi ambient que pugui resultar de l’aplicació del pla o programa.
+h) Un resum dels motius de la selecció de les alternatives previstes i una descripció de la manera en què s’ha elaborat l’estudi, incloses les dificultats que s’hagin trobat a l’hora de recollir la informació requerida, com ara deficiències tècniques o manca de coneixements i d’experiència.
+i) Una descripció de les mesures previstes per al seguiment i la supervisió del pla o programa.
+j) Un resum de caràcter no tècnic de l’estudi ambiental estratègic.
+5. La vigència de l’estudi ambiental estratègic és de 3 anys des de la seva conclusió a excepció que durant aquest període s’hagi modificat l’estat dels terrenys afectats pel programa o hagi canviat la normativa que regula el contingut de l’estudi o hagi canviat la normativa en matèria de protecció del medi ambient o en matèria de conservació del medi natural, de la biodiversitat o del paisatge.

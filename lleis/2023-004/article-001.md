@@ -1,0 +1,4 @@
+## Capítol primer. Disposicions generals
+# Article 1. Objecte
+1. Aquesta Llei té per objecte integrar els aspectes mediambientals en la redacció i l’autorització de projectes i de plans i programes que tenen efectes significatius sobre el medi ambient, amb la finalitat de promoure un desenvolupament sostenible i garantir un nivell elevat de protecció del medi ambient.
+2. Aquesta Llei estableix les bases i els procediments que regeixen les avaluacions ambientals tant per a determinats projectes, com per a determinats plans i programes, inclosos en els annexos de la Llei, que tenen efectes significatius sobre el medi ambient. Així mateix, la Llei estableix els estudis de caràcter ambiental que han d’aportar determinats projectes amb una incidència més petita sobre el medi ambient, que no queden sotmesos a avaluació ambiental, i simplifica, d’aquesta manera, la tramitació de la seva autorització.

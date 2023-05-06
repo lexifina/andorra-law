@@ -1,0 +1,4 @@
+# Article 3. Principis generals
+Els procediments d’avaluació ambiental es regeixen segons els principis següents:
+a) Promoure un desenvolupament sostenible, garantir la qualitat de vida de les persones i la protecció de la salut humana, la conservació, la protecció i la millora del medi ambient, el paisatge i la utilització racional dels recursos naturals, assegurant una intervenció d’acord amb el coneixement científic més avançat.
+b) Garantir la informació i la participació dels ciutadans en la integració dels aspectes ambientals dins el marc del procediment d’aprovació de determinats projectes, plans i programes, tot aplicant els principis de prevenció, precaució, proporcionalitat, no regressivitat, simplificació, internalització dels costos mediambientals i col·laboració entre les administracions públiques.
