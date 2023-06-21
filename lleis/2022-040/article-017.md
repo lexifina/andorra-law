@@ -1,0 +1,7 @@
+# Article 17. Addició de l’article 61
+S’addiciona l’article 61 a la Llei 6/2008, del 15 de maig, d’exercici de professions titulades i de col·legis i associacions professionals, que queda redactat com segueix:
+“Article 61. Inspectors en matèria de professions titulades
+1. Són inspectors en matèria de professions titulades els funcionaris adscrits al ministeri competent en matèria de professions titulades que tenen la potestat d’inspecció, els quals estan proveïts de la documentació que acredita la seva condició i han d’exhibir-la quan actuïn.
+2. En l’exercici de la potestat d’inspecció, els inspectors en matèria de professions titulades tenen la consideració d’agents de l’autoritat pública a tots els efectes, poden sol·licitar la cooperació, l’auxili i la protecció que necessitin d’altres administracions públiques, i estan obligats a complir el deure de secret professional i a respectar l’exercici del dret i del deure de secret professional establert a la legislació específica aplicable als professionals titulats concernits per l’actuació inspectora.
+3. En l’exercici de la potestat d’inspecció, els inspectors en matèria de professions titulades, d’ofici o a instància de part, es presenten als establiments dels professionals concernits i examinen la documentació relativa al compliment de les obligacions previstes en aquesta Llei. Així mateix, poden tenir accés al registre previst a l’article 6 bis.
+4. El funcionament, l’estructura i els procediments de la inspecció en matèria de professions titulades s’estableixen reglamentàriament.”

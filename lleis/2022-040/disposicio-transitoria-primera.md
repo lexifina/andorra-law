@@ -1,0 +1,2 @@
+# Disposició transitòria primera. Normes aplicables a les sol·licituds presentades abans de l’entrada en vigor d’aquesta Llei
+Les sol·licituds d’autorització d’exercici d’una professió titulada i de col·legiació, així com les notificacions d’exercici de curta durada presentades abans de l’entrada en vigor d’aquesta Llei, es continuen tramitant de conformitat amb la normativa vigent abans de la data esmentada, amb el benentès que les notificacions d’exercici de curta durada únicament seran vàlides fins a l’acabament de l’any natural en què entri en vigor aquesta Llei.

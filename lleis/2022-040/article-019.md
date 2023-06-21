@@ -1,0 +1,5 @@
+# Article 19. Addició de l’article 63
+S’addiciona l’article 63 a la Llei 6/2008, del 15 de maig, d’exercici de professions titulades i de col·legis i associacions professionals, que queda redactat com segueix:
+“Article 63. Acta d’inspecció
+1. A cada visita d’inspecció, els inspectors en matèria de professions titulades han d’aixecar acta sobre els resultats i els fets que corresponguin. Hi han de fer constar les circumstàncies personals de la persona inspeccionada i les seves observacions, la identificació de l’inspector actuant, la data i l’hora de la visita, les dades relatives als fets que, si escau, serveixin de base per al procediment sancionador corresponent i qualsevol altra circumstància que pugui ser rellevant.
+2. L’acta l’han de firmar l’inspector actuant i el professional titulat inspeccionat. La signatura de l’acta té efecte de notificació però no d’acceptació del seu contingut. Les actes d’inspecció ajustades a dret donen fe i estan dotades de la presumpció de certesa, en via administrativa, dels fets constatats, llevat de prova en contra.”
