@@ -1,0 +1,7 @@
+## Capítol cinquè. La responsabilitat administrativa
+# Article 62. Principi indemnitzador i pressupòsits
+Qualsevol fet, acció o omissió d’una de les administracions públiques esmentades a l’article 13 d’aquest Codi, que produeixi un dany, si és susceptible d’originar responsabilitat administrativa d’acord amb l’article 63, obliga l’administració responsable a reparar el perjudici causat.
+Per a donar lloc al dret a la reparació, el perjudici ha d’ésser cert, avaluable econòmicament, ha de poder-se individualitzar en una persona o grup de persones, i ha de lesionar una situació protegida pel dret.
+Si el dany té l’origen en un fet dolós o en una negligència greu imputable directament a una autoritat, funcionari o agent, i aquest fet o negligència pot deslligar-se de la funció, podrà exigir-se la responsabilitat personal del seu autor per la via civil.
+Si l’Administració pública actua en relacions de dret privat, respondrà directament i per la via civil dels danys i perjudicis causats per les seves autoritats, funcionaris o agents, i les actuacions de tots ells seran considerades actes propis de l’Administració pública.
+Llevat de disposició contrària, l’Administració pública no respondrà dels danys causats pels titulars de concessions administratives, ni dels ocasionats pels contractistes que executin obres, serveis o subministraments per a l’Administració.

@@ -1,0 +1,5 @@
+# Article 34. Delegació de signatura i de poders administratius
+Per regla general, només es produeixen delegacions de signatura. La delegació és feta a una persona nominalment designada. El delegat és habilitat per a signar els actes o per a prendre decisions en lloc del delegant. Aquest conserva el poder d’avocar els afers inclosos en la delegació. El delegant resta responsable dels actes dictats pel delegat.
+Excepcionalment, i dins els casos previstos per la norma que autoritza la delegació, es poden produir delegacions de poders administratius. La delegació és feta al titular d’una funció i beneficia els titulars successius de la funció mentre no s’hi posi fi. El delegant transmet al delegat l’exercici d’algunes de les seves competències i no pot avocar afers inclosos dins el marc de la delegació. El delegat esdevé responsable dels actes per ell dictats. El delegant pot tanmateix controlar la seva acció.
+El delegant pot en tot moment posar fi a les delegacions que hagi establert.
+3. Forma dels actes administratius

@@ -1,0 +1,2 @@
+# Disposició transitòria quarta
+Durant el període transitori en què no es pugui practicar la notificació per mitjans electrònics, la notificació dels actes administratius a les persones físiques i jurídiques previstes a l’article 107.2, s’ha de fer mitjançant sistemes de notificació no electrònica, i s’aplica el règim jurídic de notificació de la inclusió al servei de notificació electrònica, regulat al apartat 6 de l’article 48 ter d’aquesta Llei.

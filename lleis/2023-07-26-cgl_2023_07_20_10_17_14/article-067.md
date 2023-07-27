@@ -1,0 +1,3 @@
+# Article 67. Emplaçament en judici del personal de l’Administració i acció de rescabalament
+Si l’Administració pública estima que el fet danyós està deslligat en tot o en part del servei i que és personalment imputable a l’autoritat, funcionari o agent que n’és l’autor, per raó de dol o negligència greus, pot demanar a la jurisdicció administrativa i fiscal que l’emplaci com a part en el judici, per tal que se sotmeti a la Sentència.
+Si l’Administració pública és condemnada sense haver emplaçat l’autoritat, funcionari o agent a què es refereix el paràgraf precedent, podrà repetir contra ell per mitjà d’una acció de rescabalament. Aquesta acció serà plantejada davant la jurisdicció administrativa i fiscal.

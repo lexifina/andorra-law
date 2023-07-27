@@ -1,0 +1,2 @@
+# Article 90. Extinció de drets
+L’extinció dels drets constituïts sobre els béns de domini públic en virtut de permís, autorització, concessió o de qualsevol altre títol i de les situacions possessòries que en siguin conseqüència, tindrà lloc per via administrativa prèvia instrucció d’un expedient en el curs del qual els interessats hauran d’ésser escoltats. Seguint les regles jurídiques aplicables, l’interessat tindrà o no dret a indemnització.
