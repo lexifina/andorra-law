@@ -1,0 +1,4 @@
+# Article 45. Trasllat dels interns
+1. Els interns poden sortir del Centre Penitenciari per raó de les actuacions judicials que els afectin, d’acord amb el que decideixi l’autoritat judicial competent.
+2. També poden sortir del Centre Penitenciari per consulta o ingrés en un centre hospitalari, quan no es pugui donar una atenció suficient amb els mitjans sanitaris de què disposi el Centre. Els ingressos en centres hospitalaris s’han de comunicar a l’autoritat judicial competent, al Ministeri Fiscal i al ministre corresponent.
+3. Els trasllats dels interns s’han de fer de forma que se’n garanteixi la dignitat, la seguretat i els altres drets. L’acompanyament, la conducció i la custòdia dels interns durant els trasllats corresponen al Cos Penitenciari o al Cos de Policia, en els termes que es determinin reglamentàriament.

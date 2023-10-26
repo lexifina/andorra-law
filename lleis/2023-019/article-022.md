@@ -1,0 +1,2 @@
+# Article 22. Dipòsit d’objectes personals
+S’ha de constituir un dipòsit amb els objectes i altres pertinences susceptibles de generar risc per a la integritat i la seguretat del mateix intern i dels altres interns. Aquest dipòsit es restitueix en el moment de la sortida definitiva de l’intern o a les persones autoritzades pel mateix intern, llevat del cas que l’autoritat judicial n’ordeni la retenció i custòdia pel Centre Penitenciari.

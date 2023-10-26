@@ -1,0 +1,4 @@
+# Article 21 bis. Control de tòxics i d’alcoholèmia
+1. En el moment en què ingressen al Centre Penitenciari i per motius de seguretat, els agents penitenciaris han de sotmetre els interns a controls de tòxics o d’alcoholèmia en el cas que presentin símptomes d’estar sota els efectes de drogues tòxiques, de l’alcohol o de substàncies anàlogues. Les proves s’han d’efectuar mitjançant la utilització d’alcoholímetres o aparells o mètodes anàlegs i que siguin idonis a aquest efecte.
+En el cas d’interns que estiguin sotmesos a un règim d’internament que els atorgui la possibilitat de sortir del Centre Penitenciari, les proves es poden dur a terme, seguint els requisits assenyalats al paràgraf anterior, cada vegada que l’intern retorni al Centre Penitenciari.
+2. Els interns que refusin a sotmetre’s als controls de tòxics o d’alcoholèmia poden ser perseguits pel delicte de refús a sotmetre’s a aquestes proves que estableix el Codi Penal.
