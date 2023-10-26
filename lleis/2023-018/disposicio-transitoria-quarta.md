@@ -1,0 +1,2 @@
+# Disposició transitòria quarta. Normes aplicables en relació amb el procediment disciplinari
+Els expedients disciplinaris contra els saigs que s’estiguin tramitant en la data de l’entrada en vigor de la Llei 20/2022, del 9 de juny, de modificació de la Llei 43/2014, del 18 de desembre, del saig es regeixen per les disposicions d’aquesta Llei pel que fa a la competència per resoldre els expedients esmentats.
