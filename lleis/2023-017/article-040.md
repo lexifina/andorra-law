@@ -1,0 +1,3 @@
+# Article 40. Creació
+1. Els òrgans de l’Estat, les administracions públiques i les entitats parapúbliques o de dret públic, dins de l’àmbit de les seves competències, poden crear fundacions en les condicions establertes per aquesta Llei. La creació de fundacions del sector públic o la participació en aquestes fundacions ha de ser autoritzada per acord del Consell General, del Govern, del Consell de Comú o del consell d’administració d’una entitat parapública o de dret públic, que han de disposar d’un informe econòmic previ.
+2. Les entitats parapúbliques o de dret públic estatals necessiten l’acord previ del Govern per constituir una fundació o per formar-ne part.

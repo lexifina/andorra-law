@@ -1,0 +1,5 @@
+# Article 13. Càrrecs
+1. El patronat ha de tenir, com a mínim, un president, de nacionalitat andorrana, i un secretari. La funció de secretari pot ser exercida per una persona que no tingui la condició de patró; en aquest cas té veu però no té vot. Correspon al secretari la certificació dels acords del patronat.
+2. Les persones físiques que integren el patronat han de tenir una capacitat d’obrar plena i no poden estar inhabilitades per a l’exercici de càrrecs i funcions públics.
+3. Les persones jurídiques que integren el patronat han de ser representades per una persona física que compleixi els requisits de l’apartat 2.
+4. El càrrec de patró s’ha d’exercir personalment. Tanmateix, si els estatuts no ho prohibeixen, els patrons poden delegar el seu vot de forma escrita entre membres del patronat. No obstant això, no són delegables l’aprovació de comptes ni el pla d’actuació, les modificacions estatutàries, la fusió i la liquidació de la fundació, i tampoc els actes que requereixen l’autorització del Protectorat.

@@ -1,0 +1,2 @@
+# Disposició transitòria primera (Llei 11/2008)
+Les fundacions constituïdes abans de l’entrada en vigor d’aquesta Llei que tinguin com a finalitat fundacional l’interès general han d’adaptar els estatuts a la Llei de fundacions i instar la seva inscripció al Registre de Fundacions en el termini d’un any. Contra la resolució negativa del Registre de Fundacions es pot interposar recurs davant el Govern, d’acord amb el que estableix el Codi de l’Administració.

@@ -1,0 +1,4 @@
+# Article 6 bis. Activitats econòmiques
+1. Les fundacions poden desenvolupar activitats econòmiques, sempre que el seu objecte resti relacionat amb els fins fundacionals o en sigui complementari o accessori, ja sigui directament o mitjançant la seva participació en societats mercantils.
+2. Les fundacions podran participar en societats mercantils sempre que la responsabilitat resti limitada i, per tant, els socis no responguin personalment dels deutes socials. Quan una fundació tingui participació en una societat mercantil, ho ha de comunicar al Protectorat.
+3. En el cas que la fundació arribés a ser titular d’alguna participació en societats en les quals hagi de respondre personalment dels deutes socials, ha d’alienar les participacions en el termini màxim d’un any i informar-ne immediatament el Protectorat.
