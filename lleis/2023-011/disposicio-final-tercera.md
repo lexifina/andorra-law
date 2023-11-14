@@ -1,0 +1,2 @@
+# Disposició final tercera. Ampliació dels crèdits pressupostaris i publicitat de les modificacions contingudes en aquesta Llei en matèria de seguretat social
+Es faculta la Caixa Andorrana de Seguretat Social perquè pugui ampliar els crèdits pressupostaris per dotar-se dels mitjans humans i materials que siguin necessaris per aplicar les disposicions d’aquesta Llei, així com doni a conèixer per tots els mitjans al seu abast les modificacions contingudes en aquesta Llei en matèria de seguretat social.

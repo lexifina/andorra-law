@@ -1,0 +1,2 @@
+# Disposició final segona. Anàlisi de la figura del treballador per compte propi econòmicament dependent
+S’encomana al Govern que dugui a terme una anàlisi específica de la figura del treballador per compte propi econòmicament dependent, per dotar-la d’una regulació pròpia, que permeti diferenciar clarament aquesta figura de la de les persones assalariades i garantir la seva protecció jurídica, tenint en compte els criteris jurisprudencials recentment establerts als països del nostre entorn, així com els diversos models adoptats pel dret comparat.
