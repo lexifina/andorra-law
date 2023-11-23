@@ -1,0 +1,3 @@
+# Article 48
+1. Rebudes les contestacions a la demanda, el magistrat ponent obre a totes les parts, mitjançant providència, un termini comú de set dies naturals per a la formalització i la pràctica de la prova. El ponent admet les que consideri adequades a les pretensions de les parts i refusa les altres que estimi inadequades sense recurs ulterior, i fixa les dates i formes de llur realització dins dels set dies naturals següents.
+2. Practicada la prova, amb trasllat immediat de la causa a les parts, aquestes últimes poden formular les seves conclusions definitives mitjançant un escrit en un termini de set dies hàbils més.

@@ -1,0 +1,2 @@
+# Article 54
+En el supòsit que la norma o normes aplicables estimades contràries a la Constitució siguin d’una vigència anterior a aquesta última, l’òrgan judicial pot optar entre la interposició de l’acció esmentada o declarar-les derogades en el moment processal oportú. En qualsevol cas, la declaració de derogació no suposa l’anul·lació de la norma preconstitucional, sinó la simple constatació motivada de la no vigència.

@@ -1,0 +1,2 @@
+# Article 83
+La formalització del conflicte davant el Tribunal ha de fer-se en el termini de quinze dies hàbils comptats des del moment de la notificació de l’acord negatiu del segon dels òrgans als quals fa referència l’apartat 1 de l’article anterior, mitjançant un escrit en què es continguin els requisits generals exigits per l’article 36 d’aquesta Llei i la documentació que acrediti haver efectuat els requeriments a què es refereix l’article anterior.

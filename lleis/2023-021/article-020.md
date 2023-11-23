@@ -1,0 +1,2 @@
+# Article 20
+El càrrec de magistrat constitucional és remunerat amb càrrec al pressupost de l’Estat. La dita remuneració es compon d’una quantitat fixa anual igual per a tots els membres del Tribunal i d’una quantitat variable en funció del càrrec que s’ostenti, del nombre i la durada de les sessions i del nombre de procediments i processos tramitats per cadascun d’ells. La Llei del pressupost ha de preveure les partides destinades al funcionament del Tribunal i, mitjançant decret, el Govern ha d’especificar el règim de remuneracions dels magistrats.

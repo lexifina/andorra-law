@@ -1,0 +1,5 @@
+## Secció primera. Recurs o procés directe d’inconstitucionalitat
+# Article 45
+1. El recurs o procés directe d’inconstitucionalitat contra lleis i decrets legislatius pot ser iniciat, en el termini de trenta dies naturals comptats des de la data de publicació de la norma, per una cinquena part dels membres de dret del Consell General, pel cap de Govern i per tres comuns.
+2. El recurs dirigit contra els reglaments del Consell General únicament pot ser iniciat per una cinquena part dels seus membres de dret.
+3. En cas d’acabament del mandat dels consellers per les causes previstes a l’article 51.1 de la Constitució, la seva legitimació per interposar el recurs directe d’inconstitucionalitat es prolonga fins a la data de constitució del nou Consell General. Els membres del Consell General que hagin interposat un recurs directe d’inconstitucionalitat mentre han estat legitimats per fer-ho mantenen la legitimació per a tots els actes relatius a la tramitació del recurs esmentat, fins que hi recaigui a sobre una resolució ferma, fins i tot després de la constitució del nou Consell General.

@@ -1,0 +1,3 @@
+# Article 72
+1. El conflicte de competències s’inicia mitjançant la interposició d’un escrit de demanda davant del Tribunal Constitucional, dins del termini de vint dies hàbils comptats des del moment de la notificació de la desestimació expressa del requeriment o del transcurs del termini de la desestimació tàcita.
+2. L’escrit, a més dels requisits generals establerts a l’article 36 d’aquesta Llei, ha d’acompanyar la documentació que acrediti que s’ha efectuat el requeriment en els termes establerts en l’article anterior i ha de contenir la petició expressa, si és el cas, que el Tribunal suspengui l’exercici de la competència impugnada.

@@ -1,0 +1,3 @@
+# Article 88
+1. El recurs d’empara s’interposa mitjançant un escrit, dins els tretze dies hàbils següents al dia en què s’hagi notificat la resolució impugnada, d’acord amb les condicions generals que estableix l’article 36 d’aquesta Llei, en què s’ha de sol·licitar l’anul·lació d’aquesta resolució i, si escau, la suspensió dels seus efectes, i s’ha de reiterar eventualment la pretensió relativa a la protecció jurisdiccional del dret la lesió del qual s’addueix, en els mateixos termes en què s’hagi fet davant la jurisdicció ordinària.
+2. No es pot admetre el recurs d’empara que modifiqui el contingut de la pretensió de protecció del dret o els drets plantejada en el procés anterior.

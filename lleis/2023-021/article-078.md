@@ -1,0 +1,4 @@
+## Secció segona. Conflictes de competències entre els coprínceps, el Consell General, el Consell Superior de la Justícia i el Govern
+# Article 78
+1. El conflicte positiu de competències o atribucions entre els òrgans generals de l’Estat es planteja davant del Tribunal Constitucional quan un d’aquests òrgans entén que l’altre envaeix l’àmbit de competències que li és reconegut constitucionalment. Estan legitimats per interposar aquest conflicte positiu de competències els coprínceps, el Consell General, el Consell Superior de la Justícia i el Govern.
+2. Es pot interposar un conflicte negatiu de competències o atribucions per no exercir-les per part de qualsevol dels òrgans que s’assenyalen en el punt anterior. La legitimació activa correspon, a més dels òrgans esmentats, a les persones físiques i jurídiques que actuïn en defensa d’un dret subjectiu propi.

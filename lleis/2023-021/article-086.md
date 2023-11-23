@@ -1,0 +1,2 @@
+# Article 86
+El recurs d’empara, llevat dels supòsits establerts als articles 94 i 95 d’aquesta Llei, s’interposa contra les sentències que desestimen en fase de recurs les demandes presentades en el marc del procediment urgent i preferent, els autes que desestimen o no admeten en fase de recurs els incidents de nul·litat que també es configuren com un procediment urgent i preferent, d’acord amb l’article 41, apartat 1, de la Constitució, o les resolucions judicials fermes dictades pel Tribunal Superior de Justícia encara que no s’hi hagi interposat un incident de nul·litat.
