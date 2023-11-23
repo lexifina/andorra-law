@@ -1,0 +1,6 @@
+# Article 22. Impugnació d’acords
+1. Els acords de l’assemblea general i de la junta directiva s’han de fer constar per escrit, en una acta que ha de firmar el secretari, amb el vistiplau del president. Qui voti en contra d’un acord determinat pot demanar, en la mateixa reunió en què s’ha pres, que el seu vot consti en l’acta.
+2. Qualsevol associat té dret a sol·licitar i a obtenir una còpia, total o parcial, de l’acta de les reunions de l’assemblea general i de la junta directiva. Aquestes còpies han de ser certificades pel secretari.
+3. Els socis que hagin fet constar en l’acta el seu vot contrari a un acord i els que no hagin assistit a la reunió en què es va prendre i no hagin delegat el seu vot, poden impugnar-lo judicialment si és contrari a aquesta Llei o als estatuts de l’associació, o si beneficia uns socis o tercers en perjudici d’uns altres socis o dels interessos de l’associació, dins dels trenta dies següents a la seva adopció.
+4. Els socis que hagin impugnat un acord poden sol·licitar al Registre l’anotació marginal de la impugnació.
+5. L’assemblea general pot acordar, per majoria absoluta dels assistents i dels representats, que una determinada controvèrsia sigui sotmesa a arbitratge.

@@ -1,0 +1,2 @@
+# Disposició addicional segona. Associacions empresarials, professionals i sindicals
+Mentre no s’adopti una legislació específica, en compliment de les disposicions de l’article 18 de la Constitució, els estatuts de les associacions empresarials, professionals i sindicals que es constitueixin han de garantir, tal com disposa l’article esmentat, la seva autonomia organitzativa i funcional respecte dels organismes estrangers i internacionals afins, sense perjudici que hi mantinguin les relacions corresponents.

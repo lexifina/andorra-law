@@ -1,0 +1,3 @@
+# Disposició transitòria tercera
+1. Les associacions ja constituïdes a l’entrada en vigor d’aquesta Llei han d’adjuntar a la seva sol·licitud d’inscripció en el Registre la documentació establerta a l’article 9, llevat de l’acta de constitució, que se substitueix per una certificació d’estar constituïda, expedida pel secretari i amb el vistiplau del president, o càrrecs equivalents, i elevada a escriptura pública, en la qual s’ha de fer constar l’existència de l’associació i l’any en què es va crear i en què es van aprovar els estatuts pels quals es regia, si se’n guarda memòria.
+2. En cas d’associacions constituïdes per persones jurídiques s’hi han de fer constar també les dades que els exigeix l’article 5.2.a respecte de l’acta de constitució.
