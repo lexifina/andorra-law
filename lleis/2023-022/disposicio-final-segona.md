@@ -1,0 +1,2 @@
+# Disposició final segona. Textos consolidats
+S’encomana al Govern que, en el termini màxim de sis mesos des de l’entrada en vigor d’aquesta Llei i en els termes previstos a l’article 116 del Reglament del Consell General, presenti els Projectes de consolidació de la Llei 17/2013 del 10 d’octubre, sobre la introducció de l’euro en el marc de l’Acord monetari signat entre el Principat d’Andorra i la Unió Europea i de la Llei 10/2013, del 23 de maig, de l’Autoritat Financera Andorrana, que incloguin les modificacions introduïdes fins ara en aquestes lleis.
