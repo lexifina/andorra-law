@@ -1,0 +1,15 @@
+Llei 23/2023, del 28 de novembre, de suplement de crèdit per incrementar les transferències de capital destinades a donar cobertura pressupostària a inversions sanitàries cabdals i inajornables del Servei Andorrà d’Atenció Sanitària
+Atès que el Consell General en la seva sessió del dia 28 de novembre del 2023 ha aprovat la següent:
+Llei 23/2023, del 28 de novembre, de suplement de crèdit per incrementar les transferències de capital destinades a donar cobertura pressupostària a inversions sanitàries cabdals i inajornables del Servei Andorrà d’Atenció Sanitària
+Exposició de motius
+És imprescindible que el Govern, en l’exercici de les seves competències, i el Servei Andorrà d’Atenció Sanitària (SAAS), en l’exercici de les atribucions que té encomanades segons la Llei de creació del Servei Andorrà d’Atenció Sanitària, del 23 de desembre de 1986, duguin a terme les inversions necessàries per fer front a l’obsolescència tècnica d’elements, instal·lacions i espais i a les noves demandes terapèutiques, així com a noves tècniques i tecnologies, en l’àmbit del SAAS.
+La partida pressupostària destinada a finançar les transferències de capital al Servei Andorrà d’Atenció Sanitària (SAAS) per adquirir les inversions de reposició de material mèdic i de rehabilitació és insuficient per abastar la totalitat dels costos. No obstant això, i vista la necessitat de donar una resposta ràpida, el Govern té la voluntat de finançar al Servei Andorrà d’Atenció Sanitària les inversions següents:
+- Adquisició d’un TC, xifrat en 900.000,00 €.
+- Adquisició d’un mamògraf, xifrat en 450.000,00 €.
+El Pressupost per a l’exercici del 2023 no disposa de crèdits suficients per fer-se càrrec dels elements esmentats en els paràgrafs anteriors.
+Per això, el Projecte de llei recull les partides pressupostàries necessàries per satisfer la transferència de capital destinada al Servei Andorrà d’Atenció Sanitària per atendre les obligacions derivades de l’adquisició de les inversions esmentades, que consisteixen en un TC i un mamògraf.
+La necessitat i la urgència d’aquest suplement de crèdit s’expliquen pel fet que s’han de finançar aquestes inversions cabdals i inajornables per donar continuïtat a l’objectiu estratègic de millora del sistema sanitari, per part del Servei Andorrà d’Atenció Sanitària i de l’Administració general, i assolir-lo.
+Vist que el Govern no disposa dels crèdits suficients per respondre a les despeses esmentades, xifrades en 1.350.000 euros, la necessitat i la urgència de les quals fan que no es puguin ajornar fins a l’exercici del 2024;
+Vist que el Govern, per acord del 18 d’octubre del 2023, ha aprovat un avenç de fons d’un import total d’1.350.000 euros per incrementar les transferències de capital destinades a donar cobertura pressupostària a inversions sanitàries cabdals i inajornables del Servei Andorrà d’Atenció Sanitària, de conformitat amb el que disposen els articles 24 i 28.2 del la Llei general de les finances públiques, del 19-12-1996, i les seves modificacions posteriors;
+Vist l’informe de la Intervenció General;
+Vist l’acord de Govern del 18 d’octubre del 2023;
