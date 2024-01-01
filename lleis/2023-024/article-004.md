@@ -1,0 +1,2 @@
+# Article 4. Règim jurídic aplicable als contractes d’arrendament d’habitatge per a residència habitual i permanent formalitzats l’any 2022 o posteriorment
+Els contractes d’arrendament d’habitatge per a residència habitual i permanent atorgats a l’empara del capítol primer del títol III de la Llei d’arrendaments de finques urbanes vigent, la formalització dels quals va ser acordada durant l’any 2022 o amb posterioritat, es regeixen per les disposicions establertes en la Llei d’arrendaments de finques urbanes vigent.

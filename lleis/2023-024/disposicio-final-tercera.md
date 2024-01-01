@@ -1,0 +1,2 @@
+# Disposició final tercera. Cessió de dades
+A l’efecte de dissenyar i executar les polítiques d’habitatge, el Govern pot demanar les dades que siguin necessàries per a complir aquesta finalitat a qualsevol administració de les recollides en l’article 13 de la Llei 14/2023, del 3 de juliol, de text consolidat del Codi de l’Administració, encara que no s’hagi previst inicialment aquesta finalitat pel responsable del tractament.

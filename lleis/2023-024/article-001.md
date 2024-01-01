@@ -1,0 +1,2 @@
+# Article 1. Règim d’actualització de rendes dels contractes d’arrendament d’habitatge per a residència habitual i permanent
+L’actualització de la renda dels contractes d’arrendament d’habitatge per a residència habitual i permanent, si està pactada en el contracte, ha de practicar-se d’acord amb l’article 45 de la Llei d’arrendaments de finques urbanes vigent, o concordant, sense perjudici del que estableixen els articles següents.
