@@ -1,0 +1,3 @@
+# Article 39
+Es modifica l’apartat 2 de l’article 38 de la Llei 5/2014, del 24 d’abril, de l’impost sobre la renda de les persones físiques, que queda redactat de la manera següent:
+“2. Quan la transmissió d’un habitatge habitual hagi generat un guany de capital que hagi gaudit de l’exempció per reinversió prevista a la lletra r) de l’article 5, la base de la reducció per l’adquisició del nou habitatge es minora en l’import del guany de capital a què s’apliqui l’exempció per reinversió. En aquest cas, no es pot practicar reducció per l’adquisició del nou habitatge mentre les quantitats invertides en el mateix habitatge no superin el guany de capital exempt per reinversió.”

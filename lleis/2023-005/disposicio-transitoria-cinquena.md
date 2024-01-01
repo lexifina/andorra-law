@@ -1,0 +1,2 @@
+# Disposició transitòria cinquena. Rendes derivades de la transmissió de les participacions a l’impost sobre societats
+Quan l’obligat tributari transmeti participacions sobre les quals hagi practicat alguna correcció de valor deduïble fiscalment a l’impost sobre societats en períodes impositius iniciats amb anterioritat a l’entrada en vigor d’aquesta Llei, l’exempció prevista a l’article 20 de la Llei de l’impost sobre societats es limita a l’excés de la renda obtinguda en la transmissió sobre l’import de la correcció.

@@ -1,0 +1,5 @@
+# Disposició final primera. Modificació de la Llei 5/2020, del 18 d’abril, de noves mesures excepcionals i urgents per la situació d’emergència sanitària causada per la pandèmia del SARS-CoV-2
+S’introdueix una nova disposició addicional quarta a la Llei 5/2020, del 18 d’abril, de noves mesures excepcionals i urgents per la situació d’emergència sanitària causada per la pandèmia del SARS-CoV-2, amb la redacció següent:
+“Disposició addicional quarta. Deducció per creació de llocs de treball
+A l’efecte del compliment del requisit de manteniment de l’increment mitjà de plantilla establert a la lletra a) de l’article 44.1 de la Llei 95/2010, del 29 de desembre, de l’impost sobre societats, es computen els contractes de treball que hagin estat objecte de suspensió temporal o que hagin estat afectats per reduccions de la jornada laboral d’acord amb el que es preveu a la secció tercera del capítol primer d’aquesta Llei.
+El que es preveu al paràgraf anterior és aplicable únicament durant el període de vigència de les mesures previstes a l’esmentada secció tercera del capítol primer d’aquesta Llei.”

@@ -1,0 +1,4 @@
+# Article 54
+Es modifica l’apartat 1 de l’article 14 de la Llei 94/2010, del 29 de desembre, de l’impost sobre la renda dels no-residents fiscals, que queda redactat de la manera següent:
+“Article 14. Altres rendes
+1. Es consideren rendes obtingudes a Andorra els guanys de capital i els rendiments derivats, directament o indirectament, de béns immobles situats en el territori andorrà o de drets relatius a aquests béns immobles, incloent-hi els guanys derivats de drets o participacions en entitats, residents o no, l’actiu de les quals estigui compost principalment, de forma directa o indirecta, per béns immobles situats al Principat d’Andorra o per drets reals sobre aquests mateixos béns, o bé quan aquests drets o participacions atribueixen al seu titular el dret a gaudir de béns immobles situats al Principat d’Andorra.”

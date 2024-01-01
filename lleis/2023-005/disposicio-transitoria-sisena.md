@@ -1,0 +1,2 @@
+# Disposició transitòria sisena. Règim transitori aplicable als elements patrimonials que apliquessin el règim especial d’amortització per a noves inversions a l’impost sobre societats
+Els obligats tributaris que apliquessin el règim especial d’amortització per a noves inversions previst a l’article 26 de l’impost sobre societats en períodes impositius iniciats amb anterioritat a l’entrada en vigor d’aquesta Llei poden continuar aplicant el règim esmentat a partir de l’entrada en vigor d’aquesta Llei en les condicions establertes a l’article esmentat.

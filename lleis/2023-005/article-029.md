@@ -1,0 +1,3 @@
+# Article 29
+S’introdueix una nova lletra d) a l’apartat 2 de l’article 63 de la Llei 95/2010, del 29 de desembre, de l’impost sobre societats, amb la redacció següent:
+“d) Quan es tracti de rendes derivades de la transmissió de béns immobles situats al territori del Principat d’Andorra, deixar d’ingressar les diferències de valor que es produeixin entre el valor declarat i el valor real, comprovat per l’Administració, quan aquesta diferència superi el 50% del valor real del bé immoble edificat o del dret real sobre el bé immoble o el 100% quan es tracti de terrenys no edificats o del dret real sobre el terreny.”

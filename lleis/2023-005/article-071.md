@@ -1,0 +1,8 @@
+# Article 71
+Es modifica la lletra d) de l’apartat 2 de l’article 128 de la Llei 21/2014, del 16 d’octubre, de bases de l’ordenament tributari, que queda redactat de la manera següent:
+“d) Per l’incompliment de les obligacions de caràcter comptable, registral i censal, llevat que produeixin o condueixin a defraudació, les sancions són les següents:
+- La inexactitud o l’omissió d’operacions en la comptabilitat o en els llibres i registres exigits per les normes tributàries se sanciona amb una multa pecuniària proporcional del 2% dels càrrecs, abonaments o anotacions omesos, inexactes, falsejats o recollits en comptes amb un significat diferent del que els correspongui, amb un mínim de 150 euros i un màxim de 3.000 euros.
+- La manca de gestió o de conservació de la comptabilitat, els llibres i els registres exigits per les normes tributàries, els programes i els arxius informàtics que els serveixin de suport i els sistemes de codificació utilitzats se sanciona amb una multa pecuniària proporcional del 2% de la xifra de negocis del subjecte infractor en l’exercici a què es refereix la infracció, amb un import mínim de 600 euros.
+- La gestió de comptabilitats diferents referides a una mateixa activitat i exercici econòmic que dificulti el coneixement de la vertadera situació de l’obligat tributari se sanciona amb una multa pecuniària fixa de 1.500 euros per cada un dels exercicis econòmics a què afecti la dita gestió.
+- El retard en més de quatre mesos en la gestió de la comptabilitat o dels llibres i registres se sanciona amb una multa fixa de 600 euros.
+- Per la falta de presentació de declaracions de caràcter censal en el termini establert, la sanció és de 250 euros.”

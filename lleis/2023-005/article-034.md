@@ -1,0 +1,7 @@
+# Article 34
+Es modifica l’apartat 2 de l’article 21 de la Llei 5/2014, del 24 d’abril, de l’impost sobre la renda de les persones físiques, amb la redacció següent:
+“2. Les despeses deduïbles es poden quantificar, a opció de l’obligat tributari, seguint qualsevol dels criteris següents:
+a) Les despeses deduïbles es poden quantificar d’acord amb les normes per determinar la renda neta en el règim de determinació directa establert a l’article 16.
+b) Les despeses deduïbles es poden quantificar en el 40% de l’import de les rendes íntegres, d’acord amb els requisits i les condicions establerts en l’article 17.
+Els obligats tributaris poden augmentar en un 5% el percentatge anterior, respecte de les rendes íntegres procedents de l’arrendament d’habitatges, per a residència habitual i permanent, situats al Principat d’Andorra. No obstant això, l’augment del percentatge només es podrà aplicar respecte dels ingressos procedents d’habitatges pels quals s’obtingui una renda inferior a 8 euros metre quadrat i l’import total de la renda no superi els 1.250 euros mensuals.
+En cas que l’obligat tributari esculli determinar la seva base de tributació seguint el mètode de la lletra b) anterior, ho haurà de comunicar al ministeri encarregat de les finances abans de finalitzar l’any anterior al començament del període impositiu en què hagi de tenir efecte, en els termes que es determinin reglamentàriament. Aquesta opció vincula a l’obligat tributari durant un termini mínim de tres anys.”

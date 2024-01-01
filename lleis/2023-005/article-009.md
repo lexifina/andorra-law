@@ -1,0 +1,4 @@
+# Article 9
+S’introdueix un nou apartat 10 a l’article 15 de la Llei 95/2010, del 29 de desembre, de l’impost sobre societats, amb la redacció següent:
+“10. No s’integren en la base de tributació les rendes derivades de les transmissions que s’efectuïn per part dels administrats per a la reparcel·lació dels terrenys de la seva propietat situats al territori del Principat d’Andorra que hagin quedat continguts en una unitat d’actuació definida en els plans d’urbanisme parroquials, en aplicació de les disposicions de la Llei general d’ordenació del territori i urbanisme i dels reglaments que la desenvolupin.
+Els béns o drets que rebin els administrats en el marc de la reparcel·lació conserven la data d’adquisició i el valor fiscal originari dels terrenys transmesos, sense que l’exempció que s’estableix al paràgraf anterior impliqui una modificació del seu valor o la seva data d’adquisició a efectes impositius.”

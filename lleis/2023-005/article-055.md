@@ -1,0 +1,4 @@
+# Article 55
+S’introdueix una nova lletra i) a l’article 15 de la Llei 94/2010, del 29 de desembre, de l’impost sobre la renda dels no-residents fiscals, amb la redacció següent:
+“i) Els guanys de capital derivats de les transmissions que efectuïn els administrats per a la reparcel·lació dels terrenys de la seva propietat situats al territori del Principat d’Andorra que hagin quedat continguts en una unitat d’actuació definida en els plans d’urbanisme parroquials, en aplicació de les disposicions de la Llei general d’ordenació del territori i urbanisme i dels reglaments que la desenvolupin.
+Els béns o drets que rebin els administrats en el marc de la reparcel·lació conserven el valor fiscal originari i la data d’adquisició dels terrenys transmesos, sense que l’exempció que s’estableix en aquesta lletra impliqui una modificació del valor a efectes impositius.”

@@ -1,0 +1,6 @@
+# Article 27
+Es modifica l’article 50 de la Llei 95/2010, del 29 de desembre, de l’impost sobre societats, que queda redactat de la manera següent:
+“Article 50. Expedient de baixa provisional per falta de presentació de declaracions
+1. Quan, estant-hi obligada per aquesta Llei, una entitat no hagi presentat les declaracions tributàries corresponents durant dos exercicis consecutius, el ministeri encarregat de les finances ha de requerir a l’obligat tributari la presentació de les declaracions omeses en el termini d’un mes i advertir-lo que, si no ho fa, serà donat de baixa provisional del Registre Tributari i se li revocarà el número de registre tributari.
+2. Si transcorre el termini fixat en l’apartat anterior sense que s’hagin presentat les declaracions reclamades, es practicarà d’ofici la baixa provisional del Registre tributari, sense perjudici de les actuacions de comprovació i investigació que es considerin oportunes.
+3. A l’efecte de donar publicitat a aquesta baixa amb caràcter provisional del Registre tributari i a la revocació del número de registre tributari, se n’ha de fer difusió pública, en els termes que s’estableixin reglamentàriament i amb la corresponent publicació al Butlletí Oficial del Principat d’Andorra.”
