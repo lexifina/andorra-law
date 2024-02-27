@@ -1,0 +1,21 @@
+# Disposició final dissetena
+1. Es modifica l’apartat 4 de l’article 17 de la Llei 1/2019, del 17 de gener, de la funció pública, que queda redactat de la manera següent:
+“Article 17. Grups funcionals, ocupacions professionals tipus i nivells de classificació
+[…]
+4. En els cossos especials, l’assignació de nivell integra, a més a més, un complement específic, mesurat en els termes de les circumstàncies de treball següents:
+a) Torn: consisteix en l’ocupació successiva i constant d’un lloc de treball per part del funcionari que pertany a un cos especial, en períodes horaris diferents, que pot incloure dies festius i jornada nocturna. Quan el règim de torns inclou la jornada nocturna, l’assignació de la part del complement específic per torn implica que el funcionari no percebi addicionalment la compensació per nocturnitat, d’acord amb el que estableix el Reglament de sistemes de compensació.
+b) Funcions permanents: quan la missió i les funcions atribuïdes als cossos especials, que s’han d’efectuar en qualsevol circumstància, moment i conjuntura, determinen que el funcionari que hi pertany no pugui exercir el dret de vaga ni accions substitutives d’aquest dret o concertades que puguin alterar el funcionament normal i la prestació continuada del servei.
+c) Contingència especial: quan l’entorn del lloc dels cossos especials o la seva naturalesa determina que el funcionari que hi pertany, a causa de la prestació del servei, es troba exposat a circumstàncies especials que puguin implicar perjudicis per a la seva persona. La contingència especial es mesura amb els paràmetres següents: el risc personal a què està sotmès el funcionari en l’exercici habitual de les seves funcions; el port d’arma, que es refereix al possible ús de l’arma per part del funcionari i a la responsabilitat de custodiar-la i manejar-la, i la funció repressora, que concerneix la naturalesa del cos especial que requereix l’aplicació d’una funció repressora enfront del delicte.
+Durant el període de formació es merita únicament un 60% del complement específic.”
+2. Es modifica la lletra b) de l’article 77 de la Llei 1/2019, del 17 de gener, de la funció pública, que queda redactada de la manera següent:
+“Article 77. Estructura retributiva
+Les retribucions econòmiques es componen dels conceptes següents:
+[…]
+b) Complement específic
+Retribueix, únicament en els cossos especials, les circumstàncies de treball per torn, les funcions permanents i la contingència especial.
+El complement específic té caràcter funcional, únicament es percep quan es desenvolupa efectivament la funció de què es tracta o durant el període en formació. El complement específic no es consolida en l’estructura retributiva quan el funcionari del cos especial canvia a una plaça d’un lloc de treball del Cos General.
+[…].”
+3. S’addiciona una disposició addicional novena a la Llei 1/2019, del 17 de gener, de la funció pública, que queda redactada de la manera següent:
+“Disposició addicional novena. Retribució de les funcions permanents dins el complement específic dels funcionaris del Cos Penitenciari i del Cos de Policia
+1. A partir de l’1 de desembre del 2024, els funcionaris del Cos Penitenciari i del Cos de Policia que van entrar a formar part dels cossos referits desprès de l’entrada en vigor de la Llei 6/2017, del 20 d’abril, de modificació de la Llei 3/2007, del 22 de març, del Cos Penitenciari i de la Llei 2/2017, del 9 de febrer, qualificada de modificació de la Llei 8/2004, del 27 de maig, qualificada del Cos de Policia, respectivament, percebran mensualment l’import de cent cinquanta euros en concepte de retribució de les funcions permanents dins el complement específic. Aquest import s’ha d’incorporar a la taula retributiva corresponent i s’ha d’actualitzar de conformitat amb la disposició final sisena.
+2. Els funcionaris del Cos Penitenciari i del Cos de Policia que eren membres dels cossos referits abans de la data d’entrada en vigor de la Llei 6/2017, del 20 d’abril, de modificació de la Llei 3/2007, del 22 de març, del Cos Penitenciari i de la Llei 2/2017, del 9 de febrer, qualificada de modificació de la Llei 8/2004, del 27 de maig, qualificada del Cos de Policia, respectivament, continuaran perceben el complement retributiu per l’exercici permanent de les seves funcions, de conformitat amb la normativa vigent abans de la referida data.”

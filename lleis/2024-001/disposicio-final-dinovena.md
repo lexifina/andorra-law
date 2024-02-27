@@ -1,0 +1,2 @@
+# Disposició final dinovena
+Aquesta Llei entra en vigor l’endemà que es publiqui al Butlletí Oficial del Principat d’Andorra, excepte l’article 101 de la Llei 17/2008, del 3 d’octubre, de la seguretat social, modificat en la disposició final cinquena, que entra en vigor l’1 de gener del 2025 i és aplicable a les rendes netes i a la xifra de negoci que s’hagin generat durant l’exercici econòmic anterior.

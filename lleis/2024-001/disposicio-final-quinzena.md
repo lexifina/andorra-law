@@ -1,0 +1,2 @@
+# Disposició final quinzena
+Les disposicions finals sisena, novena i catorzena que preveuen, respectivament, la modificació de la Llei 23/2014, del 30 d’octubre, qualificada de creació i de regulació del pla de pensions de la funció pública, la modificació de la Llei 31/2021, del 22 de novembre, de text consolidat qualificada de seguretat pública, i la modificació de la Llei 30/2022, del 21 de juliol, qualificada de la persona i de la família, tenen la consideració de llei qualificada.
