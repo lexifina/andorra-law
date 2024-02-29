@@ -1,0 +1,9 @@
+# Article 7. Modificació de l’article 24 de la Llei 8/2022
+Es modifica l’article 24 de la Llei 8/2022, del 31 de març, de seguretat privada, que queda redactat com segueix:
+“Article 24. Disposicions comunes
+1. Els vigilants de seguretat i els escortes privats han de seguir i superar obligatòriament una formació inicial i continuada per dur a terme la seva funció. El Govern fixa per via reglamentària el contingut, la modalitat i els terminis en els quals és necessari fer la formació.
+Així mateix, els vigilants de seguretat i els escortes privats han d’acreditar el nivell de coneixement en llengua catalana previst a la lletra f de l’apartat 1 de l’article 23.
+2. Totes les empreses han de portar un registre en el qual ha de constar la formació inicial i continuada que ha efectuat cada un dels seus vigilants, així com les avaluacions individuals obtingudes.
+3. En cas que el personal de seguretat no assoleixi les notes mínimes exigides per superar la formació inicial i continuada, l’empresa ho ha de comunicar al ministeri competent en matèria d’interior.
+4. La formació inicial i continuada pot fer-se en un centre de formació nacional autoritzat, en un centre de formació reconegut en un estat membre de la Unió Europea, o pot ésser assumida per professionals d’un centre de formació reconegut en un estat membre de la Unió Europea. Aquesta formació ha de complir amb els estàndards internacionals en prevenció i seguretat integral. Les empreses de seguretat també poden dedicar-se a la formació en els termes previstos a l’apartat 2 de l’article 11 d’aquesta Llei.
+5. La manca de realització i superació d’aquesta formació inicial o continuada o la manca d’acreditació del nivell en llengua catalana comporten la pèrdua de l’autorització d’exercici professional de vigilant privat o escorta.”
