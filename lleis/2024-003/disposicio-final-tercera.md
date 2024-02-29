@@ -1,0 +1,7 @@
+# Disposició final tercera. Modificació de l’article 14 de la Llei 10/2012, del 21 de juny, d’inversió estrangera al Principat d’Andorra
+Es modifica l’article 14 de la Llei 10/2012, del 21 de juny, d’inversió estrangera al Principat d’Andorra, el qual queda redactat com segueix:
+“Article 14. Règim
+1. Estan subjectes a l’autorització prèvia del ministeri competent en matèria d’inversió estrangera les inversions en immobles que vulguin efectuar les persones, físiques o jurídiques, enumerades a l’article 1.1 a), b), d), e) i f).
+2. També estan subjectes a l’autorització prèvia del ministeri competent en matèria d’inversió estrangera les inversions en immobles que vulguin efectuar les persones jurídiques de nacionalitat estrangera, incloses les entitats públiques de sobirania estrangera, definides en l’article 1.1.c), sempre que aquestes estiguin necessàriament vinculades al desplegament de l’activitat de la persona jurídica.
+3. No es poden autoritzar inversions en immobles que vulguin efectuar les entitats definides en l’article 1.1.c), si es dediquen a l’adquisició o a la construcció d’immobles amb la finalitat de comercialitzar-los, exclòs l’arrendament d’habitatges per a residència habitual i permanent i sempre que la titularitat es mantingui un mínim de deu anys.
+4. D’acord amb aquesta Llei, en les adquisicions per causa de mort de béns immobles per part d’una persona física o jurídica no resident, la transmissió és vàlida i eficaç, si bé requereix la declaració posterior al Registre d’Inversions Estrangeres en un termini no superior a 3 mesos.”

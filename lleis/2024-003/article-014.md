@@ -1,0 +1,2 @@
+# Article 14. Autoliquidació i ingrés de l’impost
+Els obligats tributaris han de presentar i subscriure una declaració per aquest impost, determinant el deute tributari corresponent i ingressar-lo, en el lloc, el termini i la forma que es determini reglamentàriament. En qualsevol cas el pagament haurà de ser anterior a l’atorgament de l’escriptura pública d’inversió estrangera immobiliària i s’haurà d’acreditar al Notari atorgant de l’acte.

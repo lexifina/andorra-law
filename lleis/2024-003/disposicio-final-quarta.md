@@ -1,0 +1,4 @@
+# Disposició final quarta. Modificació de l’article 18.3 de la Llei 10/2012, del 21 de juny, d’inversió estrangera al Principat d’Andorra
+Es modifica l’apartat 3 de l’article 18 de la Llei 10/2012, del 21 de juny, d’inversió estrangera al Principat d’Andorra, el qual queda redactat com segueix:
+“3. El ministeri competent en matèria d’inversió estrangera ha de resoldre motivadament la sol·licitud d’autorització d’inversió estrangera en el termini màxim de dos mesos, llevat que decideixi prorrogar la decisió per motiu de la instrucció de l’expedient. En tot cas, aquesta pròrroga no pot excedir la meitat del termini inicial, i s’ha de comunicar expressament a la persona interessada.
+Transcorregut el termini de resolució indicat anteriorment, inclòs el de la pròrroga, sense que s’hagi adoptat una resolució expressa, l’autorització s’entén denegada.”

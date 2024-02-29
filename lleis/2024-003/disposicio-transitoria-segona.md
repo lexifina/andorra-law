@@ -1,0 +1,2 @@
+# Disposició transitòria segona. Promocions urbanístiques i immobiliàries
+Les promocions urbanístiques i immobiliàries es tramiten de conformitat amb la normativa vigent amb anterioritat al 5 de setembre de 2023 i no estan subjectes a la Llei de l’impost sobre la inversió estrangera immobiliària al Principat d’Andorra, sempre que acreditin que amb anterioritat al 5 de setembre de 2023 havien presentat la sol·licitud de la llicència d’obres o d’edificació de l’immoble de que es tracti.

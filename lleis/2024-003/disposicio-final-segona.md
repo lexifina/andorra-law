@@ -1,0 +1,6 @@
+# Disposició final segona. Modificació de l’article 13 de la Llei 10/2012, del 21 de juny, d’inversió estrangera al Principat d’Andorra
+Es modifica l’article 13 de la Llei 10/2012, del 21 de juny, d’inversió estrangera al Principat d’Andorra, tot addicionant un segon epígraf a l’article, el qual queda redactat com segueix:
+“Article 13. Definició
+1. Són inversions en immobles les inversions que es vulguin efectuar mitjançant l’adquisició de la propietat i altres drets reals sobre immobles, la promoció urbanística o immobiliària i les concessions administratives que suposin un ús privatiu de béns immobles situats al territori del Principat d’Andorra.
+2. La inversió, directa o en cartera, que tingui per finalitat darrera l’adquisició de la propietat i altres drets reals sobre immobles, la promoció urbanística o immobiliària, les concessions administratives que suposin un ús privatiu dels béns immobles situats al territori del Principat d’Andorra té la consideració d’inversió en immobles.
+En tot cas, té la consideració d’inversió en immobles qualsevol inversió estrangera realitzada en favor o mitjançant persones jurídiques en les quals el 50 per cent o més dels seus actius o existències, directament o indirectament, estan formats per immobles localitzats al Principat d’Andorra.”

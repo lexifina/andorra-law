@@ -1,0 +1,5 @@
+# Article 16. Obligacions dels fedataris públics
+1. Els fedataris públics no poden autoritzar cap escriptura pública d’inversió estrangera immobiliària si els obligats tributaris no acrediten haver liquidat l’impost amb caràcter previ, o que els són d’aplicació els supòsits d’exempció previstos en aquesta Llei.
+2. Els fedataris públics incorporen en les matrius notarials instrumentades per raó de la formalització de la inversió estrangera els documents que acrediten el compliment de l’autoliquidació i l’ingrés de l’impost que es correspon amb la inversió estrangera immobiliària formalitzada.
+3. Els fedataris públics han de presentar en el lloc, la forma i el termini que es determini reglamentàriament la relació d’actes subjectes a l’impost que hagin autoritzat.
+4. Els fedataris públics, en el marc d’un dels procediments previstos a la Llei de bases de l’ordenament tributari i, a requeriment previ del ministeri encarregat de les finances, faciliten a l’Administració tributària les dades, documents, antecedents i justificants amb transcendència tributària relacionats amb aquest impost.
