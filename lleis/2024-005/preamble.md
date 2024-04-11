@@ -1,0 +1,7 @@
+Llei 5/2024, del 12 de març, de modificació de la Llei 7/2022, del 31 de març, d’accés electrònic de l’Administració de justícia.
+Atès que el Consell General en la seva sessió del dia 12 de març del 2024 ha aprovat la següent:
+Llei 5/2024, del 12 de març, de modificació de la Llei 7/2022, del 31 de març, d’accés electrònic de l’Administració de justícia
+Exposició de motius
+La Llei 7/2022, del 31 de març, d’accés electrònic de l’Administració de justícia va establir el marc legal general per utilitzar la xarxa electrònica de la justícia i els sistemes informàtics de comunicació i gestió processal que serveixen als fins del sistema de justícia, amb l’objectiu d’adaptar l’Administració de justícia als nous temps, incorporant a les seves normes i procediments la regulació de les condicions d’ús de les noves tecnologies en els processos judicials.
+Considerant la magnitud del projecte que suposa la implantació de l’expedient electrònic a l’Administració de justícia, i amb l’objectiu d’oferir unes garanties d’operativitat plenes i d’assolir un òptim funcionament de tots els elements logístics i tecnològics que es preveuen a la Llei referida, és necessari prorrogar la data d’entrada en vigor del text legislatiu en qüestió, inicialment prevista per al 20 d’abril del 2024.
+És per aquest motiu que, a través d’aquesta Llei, composta per un article únic i una disposició final, es promou una modificació puntual de la Llei 7/2022, del 31 de març, d’accés electrònic de l’Administració de justícia, per diferir la seva entrada en vigor fins al 3 de febrer del 2025.
