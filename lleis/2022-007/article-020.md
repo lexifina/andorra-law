@@ -1,0 +1,3 @@
+# Article 20. Actes processals de comunicació amb perits, testimonis i altres persones que intervenen en el procés
+1. El tribunal es comunica amb els perits directament mitjançant el sistema informàtic. Aquesta comunicació té efectes plens. El perit està obligat a comunicar els canvis de l’adreça electrònica assenyalada durant la pendència del procés.
+2. La comunicació amb testimonis o altres persones que no tenen obligació d’utilitzar el sistema informàtic s’efectua per correu electrònic a l’adreça que hagi assenyalat, i si no se’n disposa, mitjançant correu ordinari certificat o per qualsevol altre mitjà que permeti acreditar la data de la recepció i el contingut de la comunicació. El secretari judicial estén diligència d’aquesta comunicació.

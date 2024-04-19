@@ -1,0 +1,4 @@
+## Títol II. Xarxa i seu electrònica de la justícia
+# Article 5. Xarxa electrònica de la justícia i sistema informàtic
+1. La xarxa electrònica permet la compatibilitat dels sistemes informàtics establerts a l’Administració pública andorrana, així com els previstos i establerts a les corporacions públiques que agrupen els advocats, procuradors, saigs, notaris i altres intervinents en el sistema de justícia.
+2. El sistema informàtic és l’eina establerta pel Consell Superior de la Justícia. Permet l’accés a la xarxa electrònica per a la presentació d’escrits relacionats amb els procediments jurisdiccionals, la consulta de l’expedient electrònic i la resta d’activitats previstes a la Llei. El sistema informàtic garanteix la presentació dels escrits i documents, i en deixa constància fefaent de la remissió i la recepció íntegres, així com de la data en què es porta a terme l’acte.

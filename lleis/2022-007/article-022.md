@@ -1,0 +1,5 @@
+## Capítol tercer. Acreditació de la defensa jurídica i representació. Documentació de judicis i vistes
+# Article 22. Acreditació de la defensa jurídica i la representació processal
+1. Amb la demanda, o altres escrits iniciadors del procés, s’aporta el document judicial electrònic, o bé la seva digitalització, del poder de representació conferit a l’advocat o al procurador el qual pot ser un document privat sempre i quan compleixi amb les normes processals aplicables.
+2. La representació processal atorgada per compareixença apud acta la incorpora directament a l’expedient judicial electrònic el secretari judicial.
+3. El demandat disposa d’un termini de cinc dies hàbils, des de la notificació de l’emplaçament, per designar un advocat que el defensi, i si escau un procurador que el representi. També pot demanar justícia gratuïta conforme està prevista a l’article 18.4 d’aquesta Llei. Aquest termini suspèn el previst processalment per tal de comparèixer al procés i contestar la demanda o l’escrit iniciador del procés. Una vegada compareguda la part, per mitjà del seu advocat o procurador, pot accedir a l’expedient judicial electrònic.

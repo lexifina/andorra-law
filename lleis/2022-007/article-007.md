@@ -1,0 +1,5 @@
+# Article 7. Organització i gestió de la xarxa electrònica de la justícia
+El Consell Superior de la Justícia és competent per a l’organització i gestió de la xarxa electrònica. Entre altres coses, li corresponen:
+a) La implantació, el desenvolupament i el control de la xarxa electrònica, aprovant les normes tècniques que siguin necessàries.
+b) El control dels privilegis d’accés i qualsevol altra qüestió tècnica relacionada amb la utilització del sistema informàtic de gestió i comunicació processal.
+c) L’aprovació dels formats electrònics estàndard que s’han de fer servir en els documents electrònics que es remeten i consten a la xarxa electrònica, als quals s’han d’ajustar els documents presentats. Aquests formats han de permetre la transmissió, l’emmagatzematge i l’accessibilitat de les parts i del tribunal als documents, que han de poder ser reproduïts en el judici i les vistes orals com a mitjà de prova. Així mateix, els formats aprovats han de respectar el dret de defensa de les parts al procés.

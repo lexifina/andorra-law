@@ -1,0 +1,6 @@
+# Article 3. Ús obligatori de la xarxa electrònica i el sistema informàtic
+1. El sistema informàtic establert a la xarxa electrònica és d’ús obligatori per als tribunals, el Ministeri Fiscal, els cooperadors i professionals de la justícia i les administracions i entitats públiques que es relacionin amb l’Administració de justícia, incloent-hi el Cos de Policia d’Andorra.
+2. També estan obligats a utilitzar el sistema informàtic per a les seves comunicacions i tràmits amb l’Administració de justícia els subjectes següents:
+a) Les persones jurídiques que acompleixin els requisits establerts reglamentàriament.
+b) Els qui representin un interessat que estigui obligat a relacionar-se electrònicament amb l’Administració de justícia.
+3. Les oficines judicials no admeten cap escrit o document en format paper excepte en els casos previstos expressament a la Llei. L’incompliment del deure d’ús dels sistemes informàtics de comunicació i gestió processal previstos a la Llei comporta la preclusió de l’acte processal que correspongui, amb la consegüent manca d’aportació de l’escrit o els documents dintre del termini fixat, amb els efectes processals que s’esdevinguin, tret que hi hagi un motiu degudament justificat en els termes previstos en aquesta Llei.

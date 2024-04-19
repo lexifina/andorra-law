@@ -1,0 +1,6 @@
+## Capítol segon. Actes de comunicació mitjançat el sistema informàtic
+# Article 18. Notificació del primer emplaçament o citació i compareixença al procés judicial
+1. El primer emplaçament o notificació derivada de l’admissió d’una demanda o de l’escrit inicial d’un procediment s’ha de notificar personalment. No cal comunicació personal en el cas que consti una designació vàlida d’advocat o procurador o en el cas de les persones jurídiques que tinguin obligació d’utilitzar la xarxa electrònica.
+2. La notificació personal és exigible quan així ho estableixi una llei.
+3. La notificació al demandat ha de contenir el termini per a la contesta a la demanda o el tràmit corresponent. També es fa constar el termini de cinc dies perquè la persona notificada designi advocat o procurador. Els terminis processals establerts per tal de comparèixer i contestar la demanda queden en suspens durant cinc dies hàbils, atorgats per designar advocat o procurador, i se n’inicia el còmput conforme està previst a la Llei qualificada de la justícia una vegada transcorregut el referit termini de cinc dies hàbils.
+4. La petició de justícia gratuïta suspèn el còmput del termini processal de cinc dies hàbils per tal de procedir a la designació d’avocat o procurador. El termini es reprèn una vegada s’hagi resolt sobre la seva concessió o denegació.

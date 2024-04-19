@@ -1,0 +1,2 @@
+# Article 21. Constància a l’expedient judicial electrònic de tots els actes de notificació i comunicació amb les parts i altres intervinents
+A l’expedient judicial electrònic queda constància de tots els actes de notificació i comunicació que s’hagin fet amb les parts o altres intervinents encara que la seva pràctica s’hagi efectuat per altres mitjans diferents del de la comunicació electrònica pel sistema informàtic de comunicació i gestió processal.

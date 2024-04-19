@@ -1,0 +1,2 @@
+# Disposició final quarta. Textos consolidats
+S’encomana al Govern, en els termes previstos a l’article 116 del Reglament del Consell General, que en el termini màxim de sis mesos des de la publicació d’aquesta Llei al Butlletí Oficial del Principat d’Andorra presenti al Consell General el projecte de consolidació de la Llei qualificada de la Justícia del 3 de setembre de 1993, i el projecte de consolidació de la Llei 9/2012, del 31 de maig, de modificació de la Llei qualificada d’immigració, amb la incorporació de totes les modificacions que s’hi han produït.
