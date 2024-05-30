@@ -1,0 +1,6 @@
+# Article 32. Foment de la llengua oficial en l’àmbit comunal
+1. Els comuns són responsables d’aplicar aquesta Llei en els àmbits de les seves competències.
+2. A aquest efecte, aproven les normes necessàries per adaptar a l’àmbit comunal les disposicions que ho requereixen tant pel que fa a l’organització interna i de les seves activitats com en relació amb els tràmits administratius propis i amb el control dels incompliments en l’àmbit de la parròquia.
+3. En la gestió dels serveis de tràmits, els comuns han d’informar els usuaris de les obligacions que estableix la Llei de la llengua pròpia i oficial pel que fa a procediments determinats, com ara els relacionats amb l’obertura de comerços o amb activitats socials, formatives, esportives, turístiques, empresarials i qualsevol altra regulada a la Llei, com també sobre l’ús del català en l’atenció al públic, als rètols i a la publicitat.
+4. Els comuns participen activament en la Junta de Coordinació sobre Llengua i Formació i en el Consell Nacional per la Llengua.
+5. Cada any, en consell de comú, els consellers responsables informen sobre les mesures i les actuacions impulsades pel comú en aplicació d’aquesta Llei abans de la presentació de l’informe anual davant el Consell General.

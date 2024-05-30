@@ -1,0 +1,6 @@
+# Article 46. Procediment sancionador
+1. Els òrgans competents per instruir els expedients sancionadors són els d’inspecció competent en l’àmbit sectorial en el qual s’hagi comès la infracció, en coordinació amb el departament governamental encarregat de la política lingüística a què es refereix l’article 38.
+2. Als àmbits de competència governamental en què no hi ha servei d’inspecció específic, la instrucció dels expedients correspon als tècnics designats pel ministre titular en matèria de política lingüística.
+3. Quan es tracta de retirar o d’esmenar rètols, etiquetes o qualsevol altre text, i en tots els altres casos en què resulta possible corregir els fets constitutius d’infracció, en incoar l’expedient sancionador, l’òrgan que l’acorda ha de donar a l’expedientat un termini raonable per fer-ho. En el cas que es tracti del primer incompliment, l’expedient s’ha de sobreseure si l’infractor corregeix els fets sancionables d’acord amb aquesta Llei dins el termini establert.
+4. La instrucció de l’expedient es regeix per aquesta Llei i per les disposicions sectorials de l’àmbit en què s’ha produït i, si no n’hi ha, pel Reglament regulador del procediment sancionador.
+5. Les infraccions comeses pels funcionaris i el personal al servei de les administracions són sancionades d’acord amb el procediment i la normativa sancionadora específics.

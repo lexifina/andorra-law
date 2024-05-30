@@ -1,0 +1,2 @@
+# Article 48. Prescripció de les infraccions
+Les infraccions lleus a què fa referència aquesta Llei prescriuen al cap d’un any; les greus, al cap de dos anys, i les molt greus, al cap de tres anys. El termini de la prescripció comença a comptar en el moment en què conclouen els fets constitutius d’infracció, i s’interromp des del moment en què s’incoa l’expedient sancionador, amb coneixement per part de l’expedientat.

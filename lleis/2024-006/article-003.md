@@ -1,0 +1,3 @@
+# Article 3. Drets lingüístics generals
+1. Tothom té dret a ser atès i correspost en català en les seves relacions orals i escrites, presencials o telemàtiques, amb qualsevol administració pública i amb les entitats i els organismes que en depenen; amb els serveis sanitaris i els serveis socials; amb els professionals titulats i els col·legis que els agrupen; amb les associacions; amb les entitats esportives; amb les organitzacions empresarials, professionals i corporatives, i amb qualsevol empresa o comerç amb seu al Principat d’Andorra.
+2. D’acord amb l’ordenament jurídic, es reconeix la llengua de signes catalana com a sistema lingüístic, i també el dret de les persones amb discapacitat auditiva i sordcegues d’aprendre-la i fer-la servir.

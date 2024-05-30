@@ -1,0 +1,11 @@
+# Article 33. Funcions del Govern
+1. El Govern ha de tenir un departament encarregat de la política lingüística i ha de dotar-lo dels mitjans necessaris per dur a terme les seves funcions i administrar, coordinar i supervisar les actuacions de l’Estat en matèria de política lingüística.
+2. Especialment són obligacions del Govern a través dels ministeris competents:
+a) Participar activament, mitjançant els responsables de qualsevol ministeri implicat, en la Junta de Coordinació sobre Llengua i Formació i en el Consell Nacional per la Llengua.
+b) Regular les titulacions que acrediten els coneixements de català, tenint en compte les necessitats i les peculiaritats andorranes.
+c) Promoure l’ensenyament del català i la correcció lingüística a les empreses i les entitats que ho sol·liciten, amb la col·laboració de les altres administracions.
+d) Assegurar la coordinació entre tots els ministeris, especialment entre els competents en educació i en política lingüística, per garantir l’aplicació d’aquesta Llei.
+e) Informar els usuaris de les obligacions que estableix la Llei de la llengua pròpia i oficial pel que fa a procediments determinats del servei de tràmits, com ara els relacionats amb l’obertura de comerços, o amb activitats socials, formatives, esportives, turístiques, empresarials i qualsevol altra regulada a la Llei, com també sobre l’ús del català en l’atenció al públic, als rètols i a la publicitat.
+f) Elaborar un mapa sociolingüístic i revisar-lo periòdicament per adequar la planificació i la política lingüístiques a la realitat i, alhora, per valorar la incidència de les mesures aplicades.
+g) Debatre en sessió del Govern, abans de presentar l’informe anual davant el Consell General, sobre el grau de compliment de la Llei en l’àmbit ministerial i presentar les actuacions que s’hi han dut a terme.
+h) Presentar anualment un informe al Consell General sobre l’estat de la llengua, els drets lingüístics i la situació sociolingüística andorrana. Aquest balanç ha de contenir les mesures públiques adoptades, informació sobre l’actuació duta a terme pels organismes de coordinació i dades sobre l’aplicació de la legislació lingüística i la garantia dels drets lingüístics.

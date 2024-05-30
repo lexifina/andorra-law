@@ -1,0 +1,3 @@
+# Article 39. Autoritat lingüística
+1. En les qüestions relatives a la normativa, l’actualització i l’ús correcte de la llengua es considera criteri d’autoritat el que estableix el departament governamental encarregat de la política lingüística a què es refereix l’article 38 d’aquesta Llei i tothom s’hi ha d’ajustar.
+2. El departament governamental encarregat de la política lingüística ha de fer les propostes i determinar els mecanismes que siguin necessaris prop de les institucions de la llengua catalana encarregades de fixar i actualitzar la normativa a fi que la varietat andorrana, i en general nord-occidental, de la llengua catalana tingui més presència en les decisions sobre l’estàndard oral i en els diccionaris i les gramàtiques.

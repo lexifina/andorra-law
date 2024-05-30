@@ -1,0 +1,5 @@
+## Títol II. Ús social i públic
+# Article 13. El català, llengua de les activitats públiques
+1. El català és la llengua d’ús general en totes les activitats socials i públiques, tant si són presencials com si es fan efectives per la via electrònica.
+2. En els congressos, simposis, esdeveniments esportius i altres actes públics de caràcter internacional es pot emprar com a llengua d’ús la llengua o les llengües que determini l’organitzador, sempre que s’anunciïn dins d’Andorra en català, sense detriment de l’ús d’altres llengües. En els congressos, simposis, esdeveniments esportius i altres actes públics de caràcter internacional acollits per una administració andorrana o una entitat que rep subvencions públiques hi ha d’haver la versió en català de qualsevol comunicat –oral o escrit– o documentació de l’organització destinats als mitjans de comunicació i al públic general.
+3. D’acord amb el marc legal regulador de les comunicacions comercials electròniques, als operadors establerts al Principat d’Andorra i a les activitats que desenvolupen se’ls apliquen les mateixes lleis que a qualsevol persona que exerceix les mateixes activitats.

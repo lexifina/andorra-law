@@ -1,0 +1,2 @@
+# Article 35. Equipaments i activitats culturals i esportives
+Les administracions públiques han de promoure l’expressió i les iniciatives en català –tant al país com a l’exterior–, especialment en equipaments com ara biblioteques, ludoteques, centres i entitats multimèdia, equipaments esportius, centres culturals, museus, arxius, acadèmies i altres, com també en les activitats culturals i esportives –producció literària, expressió cultural popular, festivals, indústries culturals, competicions esportives i esdeveniments esportius, entre d’altres.

@@ -1,0 +1,3 @@
+# Article 18. Establiments turístics i de restauració
+1. Tots els hotels, els restaurants, els bars, les cafeteries i altres establiments d’hoteleria i restauració han de redactar els menús, les cartes, les llistes de preus, l’oferta de serveis i qualsevol altre imprès o informació pública en català. També poden fer-ho en lloc secundari en qualsevol altra llengua, quan la traducció s’inclogui en el mateix document en què s’empra la llengua catalana.
+2. A l’efecte de complir l’article 3, els hotels, els restaurants, els bars, les cafeteries i altres establiments d’hoteleria i restauració han de garantir l’atenció al públic en català.

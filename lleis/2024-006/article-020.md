@@ -1,0 +1,4 @@
+# Article 20. Transport públic
+1. A tots els serveis de transport públic, els impresos, els avisos i les comunicacions internes i als usuaris, tant verbals com escrites, s’han de fer en català, llevat de les indicacions que els vehicles porten de fàbrica i sense perjudici de fer servir altres llengües en l’atenció individualitzada dels usuaris que no comprenen el català.
+2. Les empreses que gestionen autobusos, taxis i qualsevol altra mena de transport públic han de garantir que el personal que es relaciona amb el públic té els coneixements de la llengua oficial necessaris per atendre els usuaris en català. Els conductors i la resta de personal que atenen el públic fan servir el català i només canvien de llengua si l’interlocutor no entén el català.
+3. A l’efecte de complir el que disposa aquest article, el personal dels serveis que s’hi esmenten ha de saludar i començar les converses amb els usuaris en català.

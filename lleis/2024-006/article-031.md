@@ -1,0 +1,2 @@
+# Article 31. Debat anual sobre la llengua oficial al Consell General
+Amb l’objectiu d’impulsar l’oficialitat de la llengua catalana com a element conformador de la identitat i la sobirania andorranes, cada any l’informe previst a la lletra h) de l’apartat 2 de l’article 33 és presentat davant de la comissió legislativa permanent habilitada a aquest efecte i elevat al Ple del Consell General per ser debatut en sessió plenària.
