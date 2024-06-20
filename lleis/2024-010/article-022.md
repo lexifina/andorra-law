@@ -1,0 +1,2 @@
+# Article 22. Fiança o aval i assegurança de responsabilitat civil
+Per respondre dels danys i perjudicis que puguin causar per l’exercici de la seva activitat, els auditors de comptes i les societats d’auditoria estan obligats a prestar fiança en forma de dipòsit en efectiu o aval en entitat financera i assegurança de responsabilitat civil per la quantia i en la forma que reglamentàriament s’estableixin. La quantia, en tot cas, és proporcional al seu volum de negoci en l’activitat d’auditoria.

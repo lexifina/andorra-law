@@ -1,0 +1,3 @@
+# Disposició transitòria primera. Situació dels auditors que actualment exerceixen l’auditoria al Principat d’Andorra
+Poden inscriure’s al Registre d’Auditors de Comptes els qui, a la data d’entrada en vigor d’aquesta Llei, compleixin els requisits establerts als articles 9 i 10 de la mateixa Llei, a excepció dels requisits e) i f) de l’apartat 2 de l’article 9, i que hagin acreditat la seva competència professional d’acord amb els termes de la disposició transitòria segona d’aquesta Llei.
+Les societats andorranes d’auditoria disposen d’un termini d’un any per adaptar-se als requisits establerts a l’article 10.

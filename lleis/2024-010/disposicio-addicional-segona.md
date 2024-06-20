@@ -1,0 +1,4 @@
+# Disposició addicional segona
+L’incompliment per part de les societats d’auditoria dels requisits exigits en l’article 10 d’aquesta Llei per a la inscripció en el Registre d’Auditors de Comptes dona lloc a la baixa en el dit Registre quan l’incompliment esmentat es produeixi durant un temps superior a sis mesos.
+Malgrat el que s’estableix anteriorment, es dona de baixa en el Registre d’Auditors de Comptes les societats d’auditoria que no hagin atès el requeriment d’esmena o de compliment que, si escau, hagi sol·licitat el supervisor en el termini concedit a aquest efecte, encara que no hagi transcorregut l’esmentat termini de sis mesos.
+Les societats d’auditoria donades de baixa d’acord amb el que es determina en aquesta disposició poden tornar a sol·licitar l’alta en el Registre d’Auditors de Comptes quan compleixin tots els requisits establerts per a aquest fi en aquesta Llei.
