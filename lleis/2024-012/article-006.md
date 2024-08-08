@@ -1,0 +1,6 @@
+# Article 6. Modificació de l’article 51 de la Llei 29/2021, del 28 d’octubre
+Es modifica l’article 51 de la Llei 29/2021, del 28 d’octubre, qualificada de protecció de dades personals el qual queda amb el següent redactat:
+“Article 51. Règim del personal
+1. L’Agència Andorrana de Protecció de Dades, en l’exercici de la seva potestat d’autoorganització, i respectant el límit de despesa de personal consignat en les assignacions anuals del pressupost de què es dota l’Agència, aprova la relació de llocs de treball i n’informa el Consell General.
+2. El personal al servei de l’Agència Andorrana de Protecció de Dades és funcionari o personal laboral. En tot cas, les funcions que impliquin l’exercici de l’autoritat o la participació directa o indirecta de potestats públiques són reservades al personal funcionari.
+3. Tot el personal de l’Agència Andorrana de Protecció de Dades està subjecte al deure de secret professional en relació amb les informacions confidencials de les quals tenen coneixement en l’exercici de les seves funcions fins i tot després d’haver cessat d’exercir-les. El deure de secret professional durant l’exercici de les funcions s’aplica especialment a la informació rebuda de persones físiques en relació amb infraccions a aquesta Llei.”
