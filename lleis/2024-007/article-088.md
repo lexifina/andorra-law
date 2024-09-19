@@ -1,0 +1,7 @@
+# Article 88. Conflicte de normes
+1. Tota qüestió relativa a qualsevol dels punts indicats a l’apartat 2 següent en relació amb una garantia financera pignorativa d’anotacions en compte es regeix per la legislació del país en què es trobi el compte principal. La referència a la legislació d’un país és una referència a la seva legislació nacional i desestima tota norma en virtut de la qual, per decidir la qüestió rellevant, s’hagués de fer referència a la legislació d’un altre país.
+2. Les qüestions a les quals fa referència l’apartat 1 són les següents:
+a) La naturalesa jurídica i els efectes sobre la propietat de la garantia financera pignorativa d’anotacions en compte.
+b) Els requisits per perfeccionar un acord de garantia financera relatiu a una garantia financera pignorativa d’anotacions en compte i l’aportació de la garantia financera pignorativa d’anotacions en compte en virtut d’aquest acord i, de manera més general, el compliment dels requisits necessaris per fer que l’acord i l’aportació mencionats tinguin efectes davant de tercers.
+c) Si el títol o el dret del beneficiari d’una garantia financera pignorativa sobre actius representats mitjançant anotacions en compte és inferior o està subordinat a altres títols o drets reivindicats o si ha tingut lloc una adquisició de bona fe.
+d) Els passos requerits per a la realització de la garantia financera pignorativa d’anotacions en compte després d’un supòsit d’execució.

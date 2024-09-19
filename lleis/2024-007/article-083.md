@@ -1,0 +1,3 @@
+# Article 83. Efectes de la substitució, del complement o de la retirada de garanties financeres
+1. La substitució, el complement o la devolució de l’excedent de les garanties aportades no suposen la novació extintiva de l’acord de garantia financera, que manté la data de constitució original (que és la que s’aplica també a la garantia substitutiva o addicional).
+2. La utilització de la garantia financera per part del beneficiari de conformitat amb aquest article no invalida els drets del beneficiari ni n’impedeix l’execució en relació amb l’acord de garantia financera pignorativa corresponent a la garantia financera transferida pel beneficiari per complir una obligació com la que es descriu en el primer paràgraf de l’apartat 3 de l’article 81.

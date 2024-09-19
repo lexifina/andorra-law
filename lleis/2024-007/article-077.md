@@ -1,0 +1,10 @@
+## Secció segona. Règim dels acords de compensació contractual i de les garanties financeres
+# Article 77. Acords de compensació contractuals financers
+1. Aquest capítol s’aplica a les diverses operacions financeres que es portin a terme en el marc d’un acord de compensació contractual financer o en relació amb aquest acord, sempre que l’acord prevegi la creació d’una única obligació jurídica que abasti totes les operacions financeres incloses en el mateix acord i en virtut del qual, en cas de venciment anticipat, les parts només tinguin dret a exigir-se el saldo net del producte de la liquidació de les dites operacions financeres. El fet que, en un moment donat, hi hagi una única operació vigent sota l’acord no priva d’efecte les previsions d’aquest capítol. El saldo net s’ha de calcular segons s’estableix a l’acord de compensació contractual o als acords que tinguin relació amb aquest acord, inclosos els acords que vinculin diferents acords de compensació contractual.
+2. Als efectes d’aquest capítol, es consideren operacions financeres les operacions següents:
+a) Les que s’hagin fet sobre instruments financers en la interpretació més àmplia del terme i, com a mínim, sobre els que es defineixen en el punt 11 de l’article 2.
+b) Les operacions dobles o simultànies, o amb pacte de recompra, i, en general, les cessions temporals d’actius.
+Es consideren operacions dobles o simultànies les operacions en què es contractin simultàniament dos compravendes, en sentit contrari, de valors de característiques similars i el mateix import nominal, però amb diferent data d’execució. Ambdós poden ser al comptat amb diferents dates de liquidació, a termini, o una al comptat i l’altra a termini.
+Es consideren operacions amb pacte de recompra les operacions en què el titular dels valors ven els valors fins a la data d’amortització, i acorda simultàniament amb el comprador la recompra de valors de característiques idèntiques i per igual valor nominal, a una data determinada o intermèdia entre la de venda i la d’amortització més pròxima, sigui voluntària o parcial.
+c) Els préstecs de valors.
+d) Els acords de garantia financera regulats en aquest capítol.

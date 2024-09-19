@@ -1,0 +1,2 @@
+# Disposició addicional segona
+A partir de l’entrada vigor d’aquesta Llei, totes les referències fetes a la Llei 8/2013, sobre els requisits organitzatius i les condicions de funcionament de les entitats operatives del sistema financer, la protecció de l’inversor, l’abús de mercat, els acords de garantia financera i les operacions amb derivats extraborsaris i de finançament de valors en aquesta o en qualsevol altra llei o disposició normativa s’han d’entendre referides a aquesta Llei.

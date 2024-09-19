@@ -1,0 +1,2 @@
+# Article 105. Criteris de graduació de les sancions
+Els criteris de graduació de les sancions que s’hagin d’imposar a les persones o entitats que hagin comès algun incompliment de les obligacions establertes en aquest capítol en relació amb les operacions en derivats financers són els establerts a l’article 19 de la Llei de regulació del règim disciplinari del sistema financer, del 27 de novembre de 1997.

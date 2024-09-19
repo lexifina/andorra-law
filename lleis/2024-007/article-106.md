@@ -1,0 +1,2 @@
+# Article 106. Normes complementàries del règim sancionador en relació amb les operacions en derivats financers
+Pel que fa al règim de prescripció de les infraccions relacionades amb les obligacions incloses en aquest capítol en relació amb les operacions en derivats financers, així com als procediments associats a l’ingrés de l’import de les sancions associades i a la inscripció i la publicitat de les dites sancions, és aplicable el que s’estableix en el capítol sisè de la Llei de regulació del règim disciplinari del sistema financer, del 27 de novembre de 1997.

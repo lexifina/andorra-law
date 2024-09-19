@@ -1,0 +1,2 @@
+# Article 73. Normes complementàries del règim sancionador en relació amb l’abús de mercat
+Pel que fa al règim de prescripció de les infraccions relacionades amb l’abús de mercat, així com als procediments associats a l’ingrés de l’import de les sancions associades i a la inscripció i publicitat de les dites sancions, és aplicable el que s’estableix el capítol sisè de la Llei de regulació del règim disciplinari del sistema financer, del 27 de novembre del 1997.

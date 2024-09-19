@@ -1,0 +1,29 @@
+# Article 35. Obligacions d’informació
+1. Qualsevol informació que les entitats operatives del sistema financer referides a l’article 29 dirigeixen als seus clients, actuals o potencials, incloses les comunicacions publicitàries, ha de ser transparent, imparcial, clara i no enganyosa, i ha de resultar comprensible per a qualsevol integrant mitjà del grup al qual es dirigeix o per als probables destinataris.
+2. En cas de difusió en diverses llengües, la informació facilitada per l’entitat ha de ser homogènia.
+3. Abans que un client minorista, actual o potencial, es vinculi a una entitat operativa del sistema financer perquè li presti serveis d’inversió o serveis auxiliars, i amb la finalitat que això li permeti comprendre la naturalesa i els riscos dels serveis d’inversió i del tipus d’instrument financer que se li ofereixen i que pugui prendre decisions d’inversió amb coneixement de causa, aquesta entitat està obligada a proporcionar-li, amb antelació suficient, informació adequada sobre:
+a) L’entitat, detallant el número de registre a l’AFA corresponent a la seva autorització administrativa, així com els serveis que presta d’acord amb la mateixa autorització, i les dades identificatives i de contacte de l’organisme supervisor.
+b) Els mecanismes de comunicació que s’empren entre el client i l’entitat, inclosos els mitjans pels quals el client ha de tenir a la seva disposició documents i altres informacions de l’entitat, així com les formes d’enviament i recepció d’ordres.
+c) Si l’entitat actua a través d’un agent financer, la identificació de l’agent.
+d) Els instruments financers i les estratègies d’inversió, incloent-hi informació, orientacions i advertiments apropiats sobre les característiques dels productes, els riscos associats a la inversió en aquests instruments financers o en relació amb les estratègies emprades, inclosa, si escau, informació sobre els riscos associats a estratègies de palanquejament, el risc de pèrdua total de la inversió, o la reduïda liquiditat de l’instrument, la volatilitat del preu, o qualsevol marge de garantia obligatori o sobre qualsevol altra obligació similar aplicable a certs instruments financers.
+e) La política de protecció d’actius de l’entitat.
+f) La política de gestió de conflictes d’interès, la qual es permet proporcionar de forma resumida als clients o potencials clients, sempre que l’entitat es comprometi a posar a disposició dels clients o potencials clients informació més detallada de la dita política i a informar-ne.
+g) La política de gestió i execució d’ordres, inclosa la política d’atribució d’ordres si escau.
+h) Les despeses i els costos associats.
+i) Centres d’execució d’ordres.
+4. Les entitats operatives del sistema financer, quan tinguin a la seva disposició actius dels seus clients minoristes, han de proporcionar-los, entre altres, si escau, la informació següent:
+a) La possibilitat que els actius del client siguin custodiats per un tercer per compte de l’entitat i la responsabilitat de l’entitat sobre els dits actius sotscustodiats.
+b) La possibilitat que els actius del client puguin ser dipositats en un compte global o òmnibus d’un tercer i els riscos associats.
+c) L’existència i les condicions de qualsevol dret de garantia o de retenció que l’entitat o un dipositari tinguin o puguin tenir sobre els actius del client o qualsevol dret de compensació en relació amb aquests actius.
+d) Informació clara, completa i precisa sobre les obligacions i les responsabilitats de l’entitat quant a l’ús d’aquests instruments financers, incloses les condicions per restituir-los i sobre els riscos inherents. Aquesta informació ha de ser proporcionada per les entitats al client abans de fer operacions de finançament de valors relacionades amb instruments financers mantinguts per compte d’un client o utilitzar-los per compte propi o per compte d’un altre client, i amb l’antelació suficient i en un suport durable.
+5. Les entitats operatives del sistema financer que prestin serveis d’inversió consistents en la gestió discrecional i individualitzada de carteres de conformitat amb el mandat atorgat per clients minoristes han d’incorporar en el contracte entre l’entitat i el client, entre altres aspectes, la informació següent: els objectius d’inversió del client amb la consideració del seu test d’idoneïtat, el desglossament de les categories d’actius en els quals es pot invertir, les modalitats d’informació al client, la durada del contracte i la possibilitat de delegar o subcontractar serveis.
+6. El Govern, a proposta del ministeri encarregat de les finances, ha d’elaborar el reglament aplicable per establir les disposicions següents en relació amb les obligacions d’informació:
+a) Disposicions relatives als informes d’inversions que les entitats han d’elaborar o encarregar.
+b) Disposicions relatives a les condicions que ha de complir la informació per ser imparcial, clara i no enganyosa.
+c) Disposicions relatives als requisits generals d’informació a clients.
+d) Disposicions relatives als requisits d’informació amb vista a la salvaguarda dels instruments financers o fons de clients.
+e) Disposicions relatives a la informació elaborada de conformitat amb la Llei 10/2008, del 12 de juny, de regulació dels organismes d’inversió col·lectiva de dret andorrà.
+f) Disposicions relatives a la informació d’obligacions sobre l’execució d’ordres no relacionades amb la gestió de carteres.
+g) Disposicions relatives a les obligacions d’informació pel que fa a la gestió discrecional i individualitzada de carteres de conformitat amb el mandat atorgat pels clients.
+h) Disposicions relatives a les obligacions addicionals d’informació per a operacions de gestió de carteres o responsabilitat contingent.
+i) Disposicions relatives a l’estat dels instruments financers o fons dels clients que han de facilitar les entitats.

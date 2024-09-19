@@ -1,0 +1,4 @@
+# Article 49. Comunicació il·lícita d’informació privilegiada
+1. A efectes d’aquesta Llei, hi ha comunicació il·lícita d’informació privilegiada quan una persona posseeix informació privilegiada i la revela a qualsevol altra persona, excepte quan aquesta revelació es produeix en l’exercici normal de la seva feina, professió o funcions.
+Aquest apartat és aplicable a qualsevol persona física o jurídica que es trobi en les situacions o circumstàncies a què es fa referència en l’apartat 4 de l’article 47.
+2. Als efectes d’aquesta Llei, la subsegüent revelació de les recomanacions o induccions a què es refereix l’apartat 2 de l’article 47 constitueix així mateix una comunicació il·lícita d’informació privilegiada, quan la persona que reveli la recomanació o inducció sàpiga o hagi de saber que es basava en informació privilegiada.

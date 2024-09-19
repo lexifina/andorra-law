@@ -1,0 +1,11 @@
+## Capítol cinquè. Acords de compensació contractual i garantia financera
+## Secció primera. Disposicions generals
+# Article 74. Objecte i àmbit d’aplicació
+1. L’objecte d’aquest capítol és definir el règim aplicable als acords de compensació contractuals financers, així com als acords de garantia financera.
+2. Les normes d’aquest capítol s’apliquen a les operacions financeres que es porten a terme en el marc d’un acord de compensació contractual atorgat atenent els requisits establerts en l’article 77, i als acords de garantia financera, tant de caràcter singular com si formen part d’un acord marc, que compleixen els requisits i les formalitats establerts en l’article 78 i els apartats 1 i 2 de l’article 80, i a les garanties financeres prestades de conformitat amb el que disposen l’article 79 i els apartats 1 i 2 de l’article 80.
+3. L’apartat 1 de l’article 78 i els articles 81, 81 bis i 86 no són aplicables en els supòsits en què s’impedeixi o es limiti l’execució dels acords sobre garanties financeres o es limiti l’eficàcia dels acords sobre actius pignorats, els acords de liquidació per compensació anticipada o els acords de compensació recíproca, en els termes previstos en els capítols relatius a la recapitalització interna i a les facultats de l’AREB de la Llei 7/2021, del 29 d’abril, de recuperació i de resolució d’entitats bancàries i d’empreses d’inversió i la seva normativa de desenvolupament, o en els termes previstos en una altra normativa aplicable que persegueixi les finalitats i compti amb salvaguardes equivalents a les contingudes en la llei mencionada.
+4. Els apartats 1 bis i 2 bis de l’article 81 i l’article 81 bis s’apliquen a tota contrapart, excepte a l’AFA o altres organismes públics del Principat d’Andorra que s’encarreguin de la gestió del deute públic o que intervinguin en aquesta gestió, que dugui a terme operacions de reutilització i que estigui establerta:
+a) Al Principat d’Andorra.
+b) En un tercer país, en qualsevol dels casos següents:
+i) Quan la reutilització s’efectuï en el marc de les activitats d’una sucursal al Principat d’Andorra d’aquesta contrapart.
+ii) Quan la reutilització es refereixi a instruments financers aportats en virtut d’un acord de garantia per una contrapart establerta al Principat d’Andorra o per una sucursal al Principat d’Andorra d’una contrapart establerta en un tercer país.

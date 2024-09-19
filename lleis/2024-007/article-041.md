@@ -1,0 +1,11 @@
+# Article 41. Àmbit d’aplicació
+1. Les obligacions establertes en els articles 50, 52 a 54 i 60 a 62 s’han d’aplicar:
+a) Als instruments financers admesos a negociació en un mercat regulat o per als quals s’hagi sol·licitat l’admissió a negociació en un mercat regulat del Principat d’Andorra o la Unió Europea.
+b) Als instruments financers negociats en un sistema multilateral de negociació o SMN i els admesos a negociació en un SMN, o per als quals s’hagi sol·licitat l’admissió a negociació en un SMN del Principat d’Andorra o la Unió Europea.
+c) Als instruments financers negociats en un sistema organitzat de contractació o SOC de la Unió Europea.
+d) Als instruments financers no inclosos en les lletres a), b) o c) dels quals el preu o valor depengui dels instruments financers esmentats en aquestes lletres o tingui un efecte sobre el preu o el valor d’aquests instruments, inclosos, encara que no de forma exclusiva, les permutes de risc de crèdit i els contractes per diferències.
+2. L’àmbit d’aplicació dels articles 55 i 57 s’estén, així mateix:
+a) A qualsevol tipus d’instrument financer, incloent-hi els contractes de derivats o els instruments financers derivats per a la transferència del risc de crèdit, en el qual l’operació, l’ordre, l’oferta o la conducta tingui o pugui tenir algun efecte en el preu o el valor d’un contracte al comptat sobre matèries primeres, quan el preu o el valor depenguin del preu o el valor d’aquests instruments financers.
+b) A qualsevol conducta en relació amb els índexs de referència.
+3. Les prohibicions establertes en els articles 51 i 57 són així mateix aplicables a les accions o omissions fetes tant al Principat d’Andorra com en un tercer país, en relació amb els instruments admesos a negociació o per als quals s’hagi sol·licitat l’admissió a negociació en un centre de negociació tant en el Principat d’Andorra com en un tercer país.
+4. Les prohibicions establertes en els articles 51 i 57 són així mateix aplicables a tota operació, ordre o conducta relativa a qualsevol instrument admès a negociació o per al qual s’hagi sol·licitat l’admissió a negociació en un centre de negociació, amb independència que aquesta operació, ordre o conducta es faci o no en un centre de negociació en el Principat d’Andorra o en un tercer país.

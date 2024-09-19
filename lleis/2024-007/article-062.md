@@ -1,0 +1,4 @@
+# Article 62. Publicació o difusió d’informació als mitjans de comunicació
+Als efectes de l’article 49, de la lletra c) de l’apartat 1 de l’article 55, i de l’article 61, quan es publica o difon informació o s’emeten o es difonen recomanacions per motius periodístics o d’expressió d’un altre tipus en els mitjans de comunicació, la dita publicació o difusió d’informació s’ha d’avaluar tenint en compte les normes que regulen la llibertat de premsa i la llibertat d’expressió en altres mitjans de comunicació, així com les normes o els codis que regulen la professió periodística, llevat que:
+a) Les persones afectades o les persones que hi estan estretament vinculades obtinguin, directament o indirectament, un avantatge o benefici de la publicació o difusió d’aquesta informació.
+b) La publicació o difusió es dugui a terme amb la intenció d’induir a confusió o engany el mercat pel que fa a l’oferta, la demanda o el preu dels instruments financers.
