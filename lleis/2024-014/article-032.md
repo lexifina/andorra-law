@@ -1,0 +1,5 @@
+# Article 32. Cúmul de llicències i de períodes promocionals
+1. Queda prohibit acumular la possessió de les llicències menors de les classes I i J amb les llicències majors de les classes A, A, B, C, C@ o D@ en una mateixa persona física o jurídica, sigui directament o indirectament, personalment o mitjançant una altra persona física o jurídica.
+2. No és acumulable la possessió de les llicències menors de les classes I i J en una mateixa persona, sigui directament o indirectament, personalment o mitjançant una altra persona.
+3. No és acumulable la possessió de les llicències menors de classe E en una mateixa persona física o jurídica, sigui directament o indirectament, personalment o mitjançant una altra persona física o jurídica. No es permet l’explotació de més d’una llicència durant el mateix període de vigència.
+4. Els períodes promocionals autoritzats mitjançant les llicències menors de classe E no són acumulables. No es permet l’explotació de més d’una promoció durant el mateix període, el qual no pot superar els trenta dies.

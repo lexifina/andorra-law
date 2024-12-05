@@ -1,0 +1,3 @@
+# Article 59. Suspensió temporal o cessament de l’habilitació
+1. El director general del Consell Regulador Andorrà del Joc, previ acord del Consell, pot suspendre temporalment un agent del Servei d’Inspecció per motius de salut, d’incompatibilitat o de conflicte d’interessos. L’agent és rehabilitat quan les circumstàncies que han provocat la suspensió hagin desaparegut.
+2. L’habilitació és retirada pel director general del Consell Regulador Andorrà del Joc, previ acord del Consell, quan així ho justifiquin les necessitats operatives del servei, quan cessi la relació laboral o davant el comportament indegut de l’agent habilitat en l’exercici de les seves funcions. En aquest darrer cas, s’obre l’expedient disciplinari corresponent.

@@ -1,0 +1,3 @@
+# Article 69. Decisió de sanció
+1. Si l’informe de l’instructor conclou determinant l’existència d’una infracció, el Consell ha de remetre un avís per proposar al Govern una de les sancions previstes a la Llei contra el subjecte infractor. El Govern, després de deliberar i tenint en compte la gravetat de la infracció, ha de pronunciar la sanció corresponent, o pot decidir reenviar el dossier a l’instructor si estima que no és complet. L’instructor disposa d’un termini suplementari màxim de dos mesos per completar-lo.
+2. Les decisions sancionadores, un cop adoptades pel Govern, són motivades i es notifiquen als infractors. Són immediatament executòries.

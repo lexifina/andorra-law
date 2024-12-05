@@ -1,0 +1,12 @@
+## Títol V. Servei d’Inspecció i procediment sancionador
+## Capítol primer. Servei d’Inspecció
+# Article 56. Control dels operadors i dels establiments de jocs d’atzar autoritzats
+1. El control permanent de l’activitat desenvolupada pels operadors en els establiments de jocs d’atzar autoritzats l’efectua el Servei d’Inspecció del Consell Regulador Andorrà del Joc, amb la finalitat d’assegurar el respecte als objectius definits en aquesta Llei i els reglaments que la desenvolupen.
+2. Amb aquest objectiu, els operadors de joc d’atzar posen a disposició permanent de l’entitat reguladora del joc les dades següents:
+a) Els mitjans necessaris perquè s’efectuïn els controls escaients d’acord amb el que disposen aquesta Llei, els seus reglaments i els plecs de bases, segons correspongui.
+b) Els elements d’identificació dels seus clients.
+c) El compte de cada jugador, ja sigui presencial o en línia, la data d’obertura, les referències del compte de pagament i tota dada relativa a la formació del saldo del compte de jugador.
+d) Els esdeveniments relatius a l’evolució i al manteniment dels equipaments de jocs d’atzar utilitzats.
+Reglamentàriament es determinen les dades que els operadors i els establiments de joc d’atzar estan obligats a posar a disposició del Consell Regulador Andorrà del Joc, més concretament les modalitats tècniques d’emmagatzematge i transmissió de les dades, els terminis durant els quals l’operador ha de mantenir les dades arxivades, i les modalitats de control efectuades per l’entitat reguladora del joc a partir de les dades.
+3. Per acomplir les missions que li han estat confiades, el Consell Regulador Andorrà del Joc ha de recollir totes les informacions necessàries prop dels ministeris competents, i aquests ministeris, per dur a terme les seves funcions i competències, poden obtenir informació de l’entitat reguladora del joc en relació amb els titulars de les llicències o de qualsevol altra empresa intervinent en el sector del joc d’atzar.
+Els reglaments per aplicar aquesta Llei han de precisar les obligacions d’auditoria i de control, mitjançant organismes prèviament autoritzats per l’entitat reguladora del joc, que tenen els titulars de les llicències, per justificar el respecte al conjunt de les obligacions derivades de les llicències. Les despeses d’aquestes auditories i controls corresponen de forma exclusiva als titulars de les llicències.

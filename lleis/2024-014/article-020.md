@@ -1,0 +1,4 @@
+# Article 20. Publicitat dels jocs d’atzar
+Tota comunicació comercial d’un joc d’atzar o un concurs amb intervenció de l’atzar proposat per un operador ha de ser autoritzada prèviament pel Consell Regulador Andorrà del Joc.
+Tota comunicació comercial ha d’anar acompanyada d’un missatge d’advertiment contra el joc excessiu o patològic que faci referència al sistema d’informació i d’ajut que preveu l’article 21.
+Està prohibida tota comunicació comercial a favor d’un establiment o d’un operador de jocs d’atzar en les publicacions i en els serveis de comunicació en línia destinats a menors d’edat, i en els serveis i els programes de comunicació audiovisual durant l’horari infantil (de les 7 hores a les 22 hores). Aquesta prohibició és extensiva a les sales d’espectacles cinematogràfics durant la difusió d’obres accessibles a tots els públics.
