@@ -1,0 +1,3 @@
+# Article 16. Actuació d’ofici
+1. Encara que no s’hagi plantejat cap queixa o reclamació concreta, el Raonador del Ciutadà pot, d’ofici, elaborar informes o fer recomanacions sobre qüestions d’interès per als ciutadans o la societat en general, o sobre matèries vinculades a qualsevol de les funcions que té encomanades.
+2. Encara que no s’hagi plantejat cap queixa o reclamació concreta, si el Raonador del Ciutadà té coneixement d’algun cas de discriminació, racisme, xenofòbia, antisemitisme, sexisme o intolerància, així com de qualsevol altre assumpte dins del marc de les seves competències, pot fer una enquesta d’ofici d’acord amb el procediment que es regula al títol II d’aquesta Llei.

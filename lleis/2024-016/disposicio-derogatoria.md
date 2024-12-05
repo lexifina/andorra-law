@@ -1,0 +1,2 @@
+# Disposició derogatòria
+A l’entrada en vigor d’aquesta llei, queden derogades la Llei de creació i funcionament del Raonador del Ciutadà de 4 de juny de 1998, la Llei 79/2010, del 25 d’octubre, de modificació de la Llei de creació i funcionament del Raonador del Ciutadà i la Llei 26/2017, del 23 de novembre, de modificació de la Llei de creació i funcionament del Raonador del Ciutadà, del 4 de juny de 1998.

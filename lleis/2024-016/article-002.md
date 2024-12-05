@@ -1,0 +1,4 @@
+# Article 2. Independència i immunitat
+1. El Raonador del Ciutadà és una institució independent i compleix les seves funcions amb objectivitat i total independència, sense rebre o seguir cap instrucció de qualsevol altre autoritat.
+2. En l’exercici de les funcions pròpies del seu càrrec, el Raonador no pot ser perseguit -gaudeix per tant d’immunitat- per les opinions que manifesti ni pels actes que realitzi. La immunitat funcional del Raonador del Ciutadà també es manté després d’abandonar la institució per a qualsevol acte comès en la seva funció oficial durant el seu mandat i es pot estendre, si escau, al personal de la institució que prenen decisions. La immunitat només pot ser revocada pel Consell General amb el vot favorable de dues terceres parts dels membres del Consell.
+3. El Raonador del Ciutadà gaudeix d’estatut d’autoritat pública per tal de garantir la independència, imparcialitat i legitimitat de la institució.

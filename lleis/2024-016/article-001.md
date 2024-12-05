@@ -1,0 +1,3 @@
+## Títol I. De la institució del Raonador del Ciutadà
+# Article 1. Missió
+El Raonador del Ciutadà, que actua com a comissionat del Consell General, és una institució que té com a missions la defensa i la protecció dels drets i les llibertats fonamentals reconeguts a la Constitució, la supervisió del compliment i la defensa dels drets reconeguts en els convenis internacionals signats i ratificats pel Principat d´Andorra en els termes que estableix aquesta llei, en particular sobre els drets dels infants, de les persones amb discapacitat, i també la lluita contra la discriminació de tot tipus i contra les actituds racistes, xenòfobes, antisemites, sexistes i intolerants.

@@ -1,0 +1,4 @@
+# Article 14. Límits a les queixes i reclamacions
+1. El Raonador del Ciutadà no pot intervenir arran de les queixes i les reclamacions que se li plantegin en assumptes en els quals s’hagi instat un procés davant un òrgan jurisdiccional.
+2. En cas que, un cop instada la intervenció del Raonador del Ciutadà, el mateix assumpte esdevingui l’objecte d’un procés davant un òrgan jurisdiccional, la persona interessada li ho ha de comunicar al més aviat possible. Si el Raonador del Ciutadà ha iniciat les actuacions oportunes, les ha d’aturar d’acord amb el que disposa l’apartat 1 d’aquest article.
+3. No obstant el que disposa l’apartat 1 d’aquest article, malgrat que s’hagi instat un procés davant un òrgan jurisdiccional pel mateix assumpte, el Raonador del Ciutadà pot seguir exercint les funcions d’informar, ajudar, aconsellar i assistir els menors d’edat, les víctimes de qualsevol discriminació i les persones amb discapacitat.
