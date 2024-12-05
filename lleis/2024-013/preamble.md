@@ -1,0 +1,13 @@
+Llei 13/2024, del 7 de novembre, de modificació de la Llei 1/2024, de l’1 de febrer, del pressupost per a l’exercici del 2024.
+Atès que el Consell General en la seva sessió del dia 7 de novembre del 2024 ha aprovat la següent:
+Llei de modificació de la Llei 1/2024, de l’1 de febrer, del pressupost per a l’exercici del 2024
+Exposició de motius
+L’article 20 de la Llei 1/2024, de l’1 de febrer, del pressupost per a l’exercici del 2024 preveu la revaloració de les prestacions econòmiques pagades per la Caixa Andorrana de Seguretat Social.
+Segons aquesta disposició i, més precisament, segons el primer apartat, les pensions pagades per la Caixa Andorrana de Seguretat Social s’havien de revalorar, amb efecte l’1 de gener del 2024, en funció de dos percentatges sobre l’IPC, establerts d’acord amb el valor de la pensió.
+Així doncs, les pensions inferiors a l’import que correspon a dos vegades el salari mínim interprofessional per al 2024 s’havien de revalorar en funció de l’IPC, i per a les pensions iguals o superiors a dos vegades el salari mínim referit i inferiors a l’import que correspon a tres vegades el dit salari mínim s’havien de revalorar en un percentatge equivalent al 25% de l’IPC.
+Tanmateix, la disposició legal en qüestió preveu expressament que les pensions d’un import igual o superior a tres vegades el salari mínim establert per a l’any 2024 no es revalorin.
+Addicionalment, el segon apartat de l’article 20 estableix els criteris que han de complir les persones beneficiàries i inclou dos criteris alternatius i, per tant, dos supòsits de gaudiment de la revaloració.
+Al respecte, es constata que és necessari preveure un tercer supòsit, relatiu a les persones no residents que no compleixen el criteri previst a la lletra b) de l’apartat 2, referent als períodes mínims de cotització.
+Per aquest motiu, a través de la modificació puntual de l’article 20 de la Llei 1/2024, de l’1 de febrer, del pressupost per a l’exercici del 2024, prevista per l’article únic d’aquesta Llei -concretament, a través de la incorporació d’un apartat tercer-, s’estableix expressament que les persones assegurades no residents que no compleixin el requisit abans comentat gaudeixen de la revaloració de les seves pensions d’acord amb els percentatges i trams descrits anteriorment; però, en aquests casos, el càlcul del percentatge de revaloració es referencia amb l’índex de preus de consum harmonitzat de la zona euro per al 2023, equivalent al 2,9%.
+Per assegurar que la mesura tingui els mateixos efectes temporals que la prevista inicialment, la disposició transitòria de la Llei estableix que la modificació ordenada pel seu article únic pren efecte l’1 de gener del 2024.
+Finalment, la disposició final preveu l’entrada en vigor de la Llei.
