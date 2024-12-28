@@ -1,0 +1,2 @@
+# Disposició transitòria. Requeriments en relació amb el risc de tipus d’interès derivat de les activitats alienes a la cartera de negociació
+Les disposicions necessàries per donar compliment a les modificacions que estableixen els articles 9 i 48 d’aquesta Llei respecte de l’article 23 i l’apartat 5 de l’article 92 de la Llei 35/2018, del 20 de desembre, de solvència, liquiditat i supervisió prudencial d’entitats bancàries i empreses d’inversió entren en vigor al cap de 18 mesos de l’entrada en vigor d’aquesta Llei de modificació.

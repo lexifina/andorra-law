@@ -1,0 +1,7 @@
+# Article 19. Modificació de l’article 44 de la Llei 35/2018
+Es modifiquen les lletres a) i c), així com la part introductòria del paràgraf primer de l’article 44 de la Llei 35/2018, que queden redactats de la manera següent:
+“Article 44. Capital de nivell 1 addicional, capital de nivell 1 i capital de nivell 2 admissibles i fons propis admissibles
+El capital de nivell 1 addicional, el capital de nivell 1 i el capital de nivell 2 admissibles, així com els fons propis admissibles, han d’incloure els interessos minoritaris, els instruments de capital de nivell 1 addicional o de capital de nivell 2, segons correspongui, a més de les primes d’emissió corresponents, d’una filial, sempre que:
+a) la filial sigui una entitat, bé una empresa subjecta a aquesta Llei i al reglament d’aplicació, o bé una societat financera de cartera intermèdia en un tercer país que estigui subjecta a uns requisits prudencials tan rigorosos com els que s’apliquin a les entitats bancàries del tercer país esmentat, i considerats per l’AFA equivalents a efectes de regulació i supervisió.
+[…]
+c) els elements de capital de nivell 1 ordinari, els elements de capital de nivell 1 addicional i els elements de capital de nivell 2 a què fa referència la part introductòria del paràgraf primer que pertanyin a persones diferents de les empreses incloses en la consolidación d’acord amb la secció segona del capítol primer del títol III.”

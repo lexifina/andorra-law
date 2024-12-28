@@ -1,0 +1,4 @@
+# Article 16. Modificació de l’article 42 de la Llei 35/2018
+Es modifiquen el títol de l’article, que passa a denominar-se Dispensa temporal de deduir dels fons propis i dels passius admissibles, i el paràgraf primer de l’article 42 de la Llei 35/2018, que queden redactats de la manera següent:
+“Article 42. Dispensa temporal de deduir dels fons propis i dels passius admissibles
+Quan una entitat tingui instruments de capital o passius, segons el cas, que es consideren instruments de fons propis d’un ens del sector financer o instruments de passius admissibles en una entitat i l’AFA consideri que aquesta tinença respon als fins d’una operació d’assistència financera de reestructuració i restabliment de la viabilitat d’aquest ens o entitat, l’AFA pot excepcionar temporalment, prèvia sol·licitud, a aplicar les disposicions que en matèria de deducció serien normalment aplicables a aquests instruments.”

@@ -1,0 +1,7 @@
+# Article 2. Modificació de l’article 5 de la Llei 35/2018
+Es modifiquen els apartats 1, 3 i 4 de l’article 5 de la Llei 35/2018, que queden redactats de la manera següent:
+“Article 5. Principis generals
+1. Les entitats han de complir sobre una base individual les obligacions establertes en els capítols segon a cinquè, setè, setè bis i vuitè del títol III, d’aquesta Llei i el reglament d’aplicació, excepte el que disposa la lletra c) de l’apartat 1 de l’article 85 bis.
+[…]
+3. Les entitats bancàries i les societats financeres d’inversió han de complir de forma individual les obligacions establertes en el capítol sisè del títol III d’aquesta Llei. Prèvia sol·licitud a l’AFA, les societats financeres d’inversió poden ser eximides del compliment de les obligacions establertes en el capítol sisè del títol III, així com en la lletra c) de l’apartat 1 de l’article 85 bis, en virtut de la naturalesa, l’escala i la complexitat de les seves activitats.
+4. Les empreses d’inversió a les quals es fa referència a l’apartat 1 de l’article 48 i a l’apartat 1 de l’article 49, així com les entitats que, en virtut de l’apartat 1 de l’article 6, hagin estat eximides de l’aplicació dels requisits prudencials en base individual, no han de complir en base individual les obligacions establertes en el capítol setè i els corresponents requisits d’informació sobre la ràtio de palanquejament establerts en el capítol setè bis del títol III.”

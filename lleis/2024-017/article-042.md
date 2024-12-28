@@ -1,0 +1,21 @@
+# Article 42. Addició d’un capítol setè bis al títol III, relatiu als requisits d’informació
+S’afegeixen els articles 85 bis, 85 ter i 85 quater al capítol setè bis del títol III de la Llei 35/2018, del 20 de desembre, de solvència, liquiditat i supervisió prudencial d’entitats bancàries i empreses d’inversió, que queden redactats en els termes següents:
+“Capítol setè bis. Requisits d’informació
+Article 85 bis. Presentació d’informació sobre requisits prudencials i informació financera
+1. Les entitats han d’informar l’AFA sobre el següent:
+a) els requisits de fons propis, inclosa la ràtio de palanquejament, segons l’article 46 i el capítol setè del títol III;
+b) les grans exposicions especificades en l’article 78;
+c) els requisits en matèria de liquiditat establerts a l’article 81;
+d) les dades agregades corresponents a cadascun dels mercats immobiliaris nacionals que es determinin reglamentàriament;
+e) els requisits i l’orientació establerts a l’article 97 ter que compleixin els requisits de la informació normalitzada, llevat de qualsevol obligació d’informació addicional en virtut de la lletra j) de l’apartat 1 de l’article 97;
+f) els actius amb càrregues, inclòs un desglossament per tipus de gravamen, com ara els pactes de recompra, els préstecs de valors, les exposicions titulitzades o els préstecs.
+Les entitats exemptes de conformitat amb l’apartat 4 de l’article 5 no estan subjectes de forma individual al requisit d’informació sobre la ràtio de palanquejament fixada a la lletra a) d’aquest apartat.
+2. A més de la informació sobre els requisits prudencials a què fa referència l’apartat 1, les entitats han de presentar la informació financera que calgui per oferir una imatge completa del perfil de risc de l’entitat i dels riscos sistèmics que planteja l’entitat al sector financer o a l’economia real.
+3. L’AFA ha d’establir, mitjançant un comunicat tècnic, les plantilles i formats uniformes de presentació de la informació, així com les instruccions i el mètode d’ús de les plantilles esmentades, la freqüència i les dates de presentació de la informació, les definicions i les solucions informàtiques per a la presentació de la informació a què es refereixen els apartats 1 i 2.
+Article 85 ter. Obligacions específiques de comunicació
+1. Les entitats han de comunicar a l’AFA dades rellevants d’exposicions i pèrdues per a cada un dels mercats immobiliaris nacionals als quals estiguin exposades, amb el contingut que es determini via comunicat tècnic.
+2. L’AFA ha d’establir, mitjançant un comunicat tècnic, les obligacions específiques de presentació d’informació corresponents a cadascun dels mercats immobiliaris nacionals als quals estiguin exposades les entitats. De la mateixa manera, l’AFA ha d’establir, mitjançant el comunicat tècnic, els formats, les freqüències i les dates de presentació d’estats reservats, així com les definicions i les solucions informàtiques que han d’aplicar les entitats per informar sobre les exposicions i les pèrdues per a cada un dels mercats immobiliaris nacionals als quals estiguin exposades.
+Article 85 quater. Requisits específics de presentació d’informació per risc de mercat
+1. Subjecte a l’aprovació del comunicat tècnic de l’AFA que s’estableix en l’apartat 3, les entitats que no compleixin les condicions establertes a l’apartat 1 de l’article 47, ni les establertes a l’apartat 1 de l’article 72 ter, han d’informar, per a totes les seves posicions de la cartera de negociació i totes les seves posicions de la cartera d’inversió subjectes al risc de tipus de canvi o de matèries primeres, dels resultats dels càlculs basats en l’ús del mètode estàndard alternatiu establert a l’article 72 bis, de la mateixa manera que informen de les obligacions establertes a l’incís i) de la lletra b) i la lletra c) de l’apartat 3 de l’article 46.
+2. El Govern, a proposta del ministeri encarregat de les finances, ha d’elaborar reglaments d’aplicació en relació amb els requisits específics de presentació d’informació per risc de mercat.
+3. L’AFA ha d’establir, mitjançant un comunicat tècnic, els formats, les freqüències i les dates de presentació d’estats reservats, així com les definicions i les solucions informàtiques que han d’aplicar les entitats per informar en relació amb el risc de mercat.”

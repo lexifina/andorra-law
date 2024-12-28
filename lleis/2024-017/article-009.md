@@ -1,0 +1,6 @@
+# Article 9. Modificació de l’article 23 de la Llei 35/2018
+El paràgraf primer es modifica i es converteix en un apartat, l’1, i s’insereixen dos apartats, el 2 i el 3, a l’article 23 de la Llei 35/2018, que queden redactats de la manera següent:
+“Article 23. Risc de tipus d’interès derivat d’activitats alienes a la cartera de negociació
+1. Les entitats han d’aplicar la metodologia normalitzada o la metodologia normalitzada simplificada per identificar, avaluar, gestionar i mitigar el risc derivat de possibles variacions dels tipus d’interès que incideixen tant en el valor econòmic del patrimoni net com en els ingressos nets per interessos procedents de les activitats alienes a la cartera de negociació de l’entitat.
+2. Les entitats han d’implementar sistemes per avaluar i controlar els riscos derivats de possibles variacions dels diferencials crediticis que incideixin tant en el valor econòmic del patrimoni net com en els ingressos nets per interessos procedents de les activitats alienes a la cartera de negociació de l’entitat.
+3. L’AFA pot exigir a una entitat petita i no complexa que utilitzi la metodologia normalitzada quan consideri que la metodologia normalitzada simplificada no és adequada per mesurar el risc de tipus d’interès derivat de les activitats alienes a la cartera de negociació d’aquesta entitat.”
