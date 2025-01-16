@@ -1,0 +1,5 @@
+# Article 28. Exercici de la caça per part d’un menor
+1. Les persones menors de divuit anys que compleixin els requisits generals per a l’exercici de la caça han d’anar sempre acompanyades d’una persona major d’edat que sigui titular del permís de caça i del permís d’arma de la mateixa categoria que la del permís d’arma del menor acompanyat, essent tots vigents.
+A aquest efecte, el menor ha de dur un document acreditatiu d’acompanyants responsables, que es determina reglamentàriament. En cas de no ser titular d’aquest document, es considera que és un menor no acompanyat.
+2. La persona acompanyant responsable ha de vetllar en tot moment, durant l’exercici de la caça, perquè la persona menor estigui al seu costat i compleixi la legislació vigent en la matèria, entre altres obligacions establertes en aquesta Llei i la normativa que la desenvolupi.
+3. Els incompliments del menor durant l’exercici de la caça poden ser objecte de responsabilitat per part de la persona acompanyant responsable.
