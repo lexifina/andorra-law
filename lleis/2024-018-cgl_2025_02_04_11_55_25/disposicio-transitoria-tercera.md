@@ -1,0 +1,2 @@
+# Disposició transitòria tercera. Tramitació dels expedients sancionadors en curs
+Els expedients sancionadors que s’estiguin tramitant a la data d’entrada en vigor d’aquesta Llei es continuen regint per les disposicions de la Llei 27/2021, del 25 d‘octubre, de text consolidat de caça vigent a la data de la incoació de l’expedient, llevat que les disposicions substantives d’aquesta Llei sobre tipificació de les infraccions i determinació de les sancions siguin més beneficioses per a la persona expedientada, cas en què s’apliquen aquestes últimes.
