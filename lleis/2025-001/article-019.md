@@ -1,0 +1,4 @@
+# Article 19. Modificació de l’article 183 de la Llei qualificada del Codi de procediment penal, del 10 de desembre del 1998
+Es modifica l’article 183 de la Llei qualificada del Codi de procediment penal, del 10 de desembre del 1998, que queda redactat de la manera següent:
+“Article 183
+Les sentències que es dictin per delictes de circulació o de conducció sota l’efecte de drogues, de substàncies d’efectes anàlegs o de begudes alcohòliques o amb un grau d’alcoholèmia superior al permès, o per delictes de conducció temerària, han de contenir, a més, els pronunciaments següents: invalidació del permís de conduir, en cas de condemna a la retirada definitiva del permís; abonament total pel compliment de la condemna del temps que, durant la substanciació de la causa, hagi estat impedit el processat de l’ús del permís esmentat; retenció del permís de conduir pel temps que amb aquest abonament li falti per complir, i devolució del permís de conduir en cas d’absolució.”

@@ -1,0 +1,9 @@
+## Capítol primer. Modificació de la Llei qualificada de la Justícia, del 3 de setembre de 1993
+# Article 1. Modificació de l’article 50 de la Llei qualificada de la Justícia, del 3 de setembre de 1993
+Es modifiquen els apartats 8, 9 i 11 de l’article 50 de la Llei qualificada de la Justícia, del 3 de setembre de 1993, que queden redactats de la manera següent:
+“Article 50
+[…]
+8. En iniciar-se l’any judicial el president del Tribunal de Batlles estableix, d’acord amb els nomenaments respectius acordats pel Consell Superior de la Justícia, l’adscripció principal i subsidiària dels batlles a cadascuna de les seccions a què fa referència l’apartat 3 d’aquest article, i també decideix pel que fa a les funcions de batlle suplent o de reforç, en els termes que preveu l’apartat 9 d’aquest article. El president adopta les decisions en aquest àmbit després d’haver escoltat els altres batlles, amb la finalitat d’assegurar una durada suficient de les funcions confiades a aquests darrers i d’afavorir una distribució justa de les tasques.
+9. El Consell Superior de la Justícia pot crear places a la Batllia per suplir provisionalment les situacions d’incapacitat temporal o altres situacions administratives que es produeixin i que comportin reserva de plaça de batlles, i per reforçar les oficines judicials que ho requereixin. Les places de suplència i reforç tenen la mateixa consideració que les altres places de la Batllia.
+[…]
+11. En cas de necessitat, i per acord del Consell Superior de la Justícia, els batlles poden ser habilitats per actuar en règim de suplència al Tribunal de Corts i al Tribunal Superior de Justícia, quan no sigui possible per qualsevol causa la formació del tribunal amb els seus propis membres. En aquest cas, el president de la Batllia designa el batlle corresponent d’acord amb un torn rotatori preestablert, en què l’especialitat pot ser un criteri determinant.”
