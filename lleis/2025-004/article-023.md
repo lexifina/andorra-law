@@ -1,0 +1,4 @@
+# Article 23. Reserves internacionals
+Atenent l’article 5, “Constitució de reserves internacionals”, de la Llei 36/2022, del 24 de novembre, de creació de reserves internacionals i accés del sistema financer a assistència en forma de provisió urgent de liquiditat, el nivell de reserves internacionals per a l’exercici del 2024 és el següent:
+a) El capital disponible en data 30 de setembre del 2024 –de 258.164.610 euros– més els rendiments que es generin fins al 31 de desembre del 2024, del qual l’Autoritat Financera Andorrana (AFA) exerceix la custòdia i l’administració d’acord amb el Decret 171/2022, del 27-4-2022, relatiu a l’aprovació del Reglament de creació i gestió de les reserves internacionals del Principat d’Andorra i la Llei 36/2022.
+b) Les tinences de drets especials de gir (DEG) d’Andorra com a país membre del Fons Monetari Internacional (FMI) –de 114.444.729 SDR, en data 30 de setembre del 2024–.”
