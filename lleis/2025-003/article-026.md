@@ -1,0 +1,3 @@
+# Article 26. Criteris de col·laboració externa
+1. Per completar les tasques de l’Agència de Qualitat de l’Ensenyament Superior d’Andorra, la persona que dirigeix l’AQUA pot establir relacions de col·laboració amb altres organismes i agències estrangers que tinguin atribuïdes funcions d’avaluació, d’acreditació i de certificació. S’han de prioritzar els organismes dels quals l’AQUA n’és membre i aquelles agències que estiguin inscrites al Registre Europeu de Garantia de la Qualitat per a l’Ensenyament Superior (European Quality Assurance Register for Higher Education (EQAR)).
+2. En el marc d’aquestes relacions, l’AQUA pot acordar convenis de col·laboració amb entitats estrangeres. Aquests convenis els ha d’autoritzar el Comitè Director de l’AQUA.

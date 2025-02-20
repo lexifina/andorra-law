@@ -1,0 +1,6 @@
+# Article 17. Comissió d’Avaluacions
+1. La Comissió d’Avaluacions és l’òrgan que vetlla per la correcta aplicació del conjunt d’instruments i processos d’assegurament de la qualitat que a nivell de programes i institucional es realitzen a l’AQUA.
+2. La Comissió d’Avaluacions està constituïda per la persona directora de l’AQUA, un mínim de dos persones acadèmiques de reconegut prestigi i expertesa en l’àmbit de l’assegurament de la qualitat a nivell internacional, i una persona doctoranda amb coneixements previs en l’àmbit. Les persones membres seran designades pel Comitè Director, a proposta de la persona que dirigeix l’AQUA, garantint una representació equilibrada de dones i homes en la seva composició.
+3. Els membres de la Comissió d’Avaluacions, excepte la persona directora, són nomenats per a un període de quatre anys, renovable una vegada.
+4. Entre altres funcions, a la Comissió d’Avaluacions li correspon l’aprovació de les guies, els criteris i els protocols d’avaluació, l’emissió dels informes d’avaluació pertinents i la seva signatura, així com aquelles altres que li siguin delegades pel Comitè Director.
+5. Les funcions, funcionament i la remuneració de les persones membres de la Comissió d’Avaluacions es defineixen reglamentàriament.

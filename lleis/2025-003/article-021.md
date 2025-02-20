@@ -1,0 +1,2 @@
+# Article 21. Règim Retributiu
+El règim retributiu de la persona directora de l’AQUA, de les persones que presten els seus serveis de forma remunerada en els diferents consells, comitès i comissions previstos en aquesta Llei, així com del personal laboral s’ajusten a les previsions del pressupost de l’AQUA aprovat pel Consell General. En tot cas, el règim retributiu de la persona directora de l’AQUA ha de ser aprovat per la Sindicatura, escoltada la Junta de Presidents, i ha de ser adequat i suficient per a l’exercici de les seves funcions.

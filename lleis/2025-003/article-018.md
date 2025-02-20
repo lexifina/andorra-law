@@ -1,0 +1,5 @@
+# Article 18. Comissió d’Apel·lacions
+1. La Comissió d’Apel·lacions és la comissió encarregada de resoldre els recursos administratius interposats contra les resolucions de l’AQUA, o de la Comissió d’Avaluacions, així com per dur a terme aquelles altres funcions que li siguin delegades pel Comitè Director.
+2. La Comissió d’Apel·lacions està constituïda per la persona experta internacional que integra el Comitè Director, un mínim de dos persones acadèmiques de reconegut prestigi, i una persona doctoranda experta en l’àmbit de l’assegurament de la qualitat a nivell internacional. Les persones membres seran designades pel Comitè Director, a proposta de la persona que dirigeix l’Agència de Qualitat de l’Ensenyament Superior d’Andorra, garantint una representació equilibrada de dones i homes en la seva composició.
+3. Les persones membres de la Comissió d’Apel·lacions, excepte la persona experta internacional que integra el Comitè Director són nomenats per a un període de quatre anys, renovable una vegada.
+4. Les funcions, funcionament i la remuneració de les persones membres de la Comissió d’Apel·lacions es defineixen reglamentàriament.
