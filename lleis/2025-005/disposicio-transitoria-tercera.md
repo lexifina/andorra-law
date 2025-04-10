@@ -1,0 +1,2 @@
+# Disposició transitòria tercera. Autoritzacions de residència i treball per compte propi
+Totes les sol·licituds d’inversió estrangera presentades abans de l’entrada en vigor de la present Llei es regeixen per la normativa vigent abans d’aquesta data amb relació a les sol·licituds d’autoritzacions de residència i treball per compte propi previstes a l’article 38 ter.2.B) de la Llei 9/2012, del 31 de maig, de modificació de la Llei qualificada d’immigració.

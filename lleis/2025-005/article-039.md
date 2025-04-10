@@ -1,0 +1,5 @@
+# Article 39. Modificació de l’article 106 de la Llei 9/2012, del 31 de maig, de modificació de la Llei qualificada d’immigració
+Es modifica l’apartat 1 de l’article 106 de la Llei 9/2012, del 31 de maig, de modificació de la Llei qualificada d’immigració, el qual queda redactat com segueix:
+“Article 106. Requisits per al reagrupament
+1. El resident que sol·licita el reagrupament familiar amb una de les persones descrites a l’article 103 d’aquesta Llei ha d’acreditar que disposa dels mitjans econòmics suficients per assegurar-los un nivell de vida digne i un allotjament adequat. L’allotjament ha de complir les condicions mínimes d’habitabilitat. La suficiència de mitjans econòmics es determina reglamentàriament, atenent especialment com a criteris de càlcul el cost dels béns i dels serveis bàsics i l’avaluació objectiva de les necessitats econòmiques de totes les persones a càrrec. Aquests mitjans econòmics s’han de mantenir al llarg de tota la durada de la vigència de l’autorització del reagrupament acordat.
+[…].”

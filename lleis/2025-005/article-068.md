@@ -1,0 +1,5 @@
+## Títol IV. Cessió d’habitatges buits i desatesos
+## Capítol primer. Disposicions generals
+# Article 68. Definició d’habitatge
+Als efectes de la present Llei, s’entén per habitatge l’edificació habitable la destinació de la qual sigui servir de residència per a persones físiques o emprada per aquesta finalitat, que estigui ubicada en immobles que hagin estat dividits o siguin susceptibles de divisió en règim de propietat horitzontal conforme a la Llei 12/2004, del 30 de juny, de propietat horitzontal, o bé que estigui situada en un edifici plurifamiliar que no ha estat objecte de divisió en règim de propietat horitzontal però que està destinat a lloguer, inclosos els espais i els serveis comuns de l’immoble en què està situat i els annexos que hi són vinculats.
+Per tenir la consideració d’habitatge, l’edificació habitable ha de ser susceptible, ja sigui immediatament o prèviament a la realització dels treballs d’adequació que siguin convenients, de gaudir del certificat o cèdula d’habitabilitat.

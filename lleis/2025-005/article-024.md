@@ -1,0 +1,6 @@
+# Article 24. Modificació de l’article 28 de la Llei 9/2012, del 31 de maig, de modificació de la Llei qualificada d’immigració
+Es modifica l’apartat 2 de l’article 28 de la Llei 9/2012, del 31 de maig, de modificació de la Llei qualificada d’immigració, el qual queda redactat com segueix:
+“Article 28. Autorització de residència i treball
+[…]
+2. L’autorització de residència i treball es lliura per una durada inicial d’un any i es renova tres vegades per períodes de dos anys. Durant el primer any, el titular de l’autorització ha de mantenir les condicions en mèrits de les quals se li ha atorgat l’autorització i no pot canviar del sector econòmic per al qual ha demanat i obtingut l’autorització, ni treballar per compte propi. Els sectors econòmics agrupats amb aquesta finalitat es determinen reglamentàriament. Això no obstant, es permet, prèvia autorització administrativa, el canvi de sector econòmic durant el primer any de l’autorització de residència i treball quan concorri una necessitat urgent de personal en els sectors sanitari o educatiu, i que aquest fet estigui avalat prèviament mitjançant el corresponent informe del ministeri d’educació o de salut, segons el cas, i sempre que el perfil professional del titular de l’autorització es correspongui a les necessitats del sector en qüestió.
+[…].”

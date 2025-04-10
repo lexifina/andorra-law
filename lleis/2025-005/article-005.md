@@ -1,0 +1,3 @@
+# Article 5. Inversió estrangera no autoritzable
+No es concedeix autorització administrativa prèvia a les inversions estrangeres que la requereixen, quan incorren en supòsits de prohibició o quan puguin perjudicar, encara que sigui ocasionalment, l’exercici del poder públic, la sobirania i la seguretat nacional, l’ordre públic i econòmic, el medi ambient, la salut pública, la seguretat alimentària, l’accés a fonts d’energia i matèries primeres, l’accés -o la capacitat de controlar- informació sensible, en particular dades personals, el mercat de treball i de l’habitatge o l’interès general del Principat d’Andorra.
+El Govern determina reglamentàriament els elements objectius que el ministeri competent en matèria d’inversió estrangera ha de verificar.

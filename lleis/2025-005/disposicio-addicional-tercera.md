@@ -1,0 +1,2 @@
+# Disposició addicional tercera. Habilitació per a l’actualització de valor de l’habitatge perquè operi l’exempció de l’impost sobre transmissions patrimonials immobiliàries
+La xifra corresponent al valor de l’habitatge establerta a l’article 4.11.d) de la Llei de l’impost sobre transmissions patrimonials immobiliàries, del 29 de desembre del 2000, pot ser actualitzada a través de la Llei del pressupost general.

@@ -1,0 +1,8 @@
+# Article 75. Causes de finalització de la cessió obligatòria i temporal
+1. Són causes de finalització de la cessió obligatòria i temporal de l’ús d’habitatges buits i desatesos les següents:
+a) L’expiració del termini de durada de la cessió obligatòria i temporal de l’ús de l’habitatge previst a l’article 73 de la present Llei o de les seves eventuals pròrrogues per mutu acord.
+b) La voluntat de recuperar l’ús de l’habitatge per part del propietari o titular dels drets a què fa referència l’article 71.1.a), a la finalització del termini de cessió obligatòria.
+c) La cessió voluntària de l’ús de l’habitatge per part del seu propietari o titular dels drets a què fa referència l’article 71.1.a) al Govern en les condicions que es convinguin, perquè passi a formar part del parc públic d’habitatges de lloguer a preu assequible.
+d) L’extinció per qualsevol causa del contracte de cessió administrativa d’ús de l’habitatge formalitzat entre el ministeri responsable de l’habitatge o l’Institut Nacional de l’Habitatge i la persona adjudicatària de l’habitatge a preu assequible.
+e) La resolució prevista a l’article 73.3, per manca d’adjudicació de l’ús de l’habitatge per part del ministeri responsable de l’habitatge o de l’Institut Nacional de l’Habitatge, en el termini de sis mesos.
+2. En els casos de transmissió o cessió de l’habitatge per qualsevol títol, l’adquirent de l’habitatge respecte del qual s’hagi acordat la cessió obligatòria i temporal de l’ús se subroga en la posició del transmitent o cedent i, doncs, ha de respectar el termini de durada que resti de la cessió obligatòria i temporal de l’ús prèviament acordada imperativament.

@@ -1,0 +1,6 @@
+# Article 50. Modificació de l’article 40 bis de la Llei 16/2017, del 13 de juliol, general de l’allotjament turístic
+Es modifica l’article 40 bis de la Llei 16/2017, del 13 de juliol, general de l’allotjament turístic, que queda redactat de la manera següent:
+“Article 40 bis. Regularització de dades en cas de canvi de propietari
+1. A l’efecte del que estableix l’apartat 4 de l’article 40, la regularització de les dades del Registre d’HUT per canvi del propietari de l’habitatge d’ús turístic per qualsevol motiu diferent de la successió per causa de mort, comporta la baixa d’ofici de la inscripció de l’habitatge al registre referit.
+2. El canvi de propietari s’ha de notificar al Registre d’HUT en el termini previst a l’apartat 4 de l’article 40. La notificació de la transmissió correspon al transmitent, excepte en el cas d’adquisició per successió per causa de mort, en què la notificació correspon a l’adquirent. En cas que hagi cedit la gestió de l’habitatge d’ús turístic, el transmitent o l’adquirent, segons el cas, també ho ha de notificar a l’EGHUT encarregada d’aquesta gestió en el mateix termini.
+3. S’assimila al canvi de propietari la transmissió lucrativa, gratuïta o onerosa, de qualsevol dret real.”

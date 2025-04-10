@@ -1,0 +1,2 @@
+# Disposició final primera. Qualificació de la Llei
+Els articles continguts en el títol II, relatius a la modificació de la Llei 9/2012, del 31 de maig, de modificació de la Llei qualificada d’immigració, així com els articles continguts en el títol IV, relatiu a la cessió d’habitatges buits i desatesos, l’article 51, que introdueix l’article 40 ter a la Llei 16/2017, del 13 de juliol, general de l’allotjament turístic i també les disposicions addicionals primera i cinquena, tenen el caràcter de qualificats.

@@ -1,0 +1,5 @@
+# Article 54. Modificació de l’article 64 de la Llei 16/2017, del 13 de juliol, general de l’allotjament turístic
+Es modifica l’article 64 de la Llei 16/2017, del 13 de juliol, general de l’allotjament turístic, que queda redactat de la manera següent:
+“Article 64. Autorització administrativa
+Les empreses, establiments o instal·lacions on es duguin a terme activitats d’allotjament turístic han de disposar de les autoritzacions administratives pertinents, així com de la inscripció preceptiva en el Registre de Comerç i Indústria, exceptuant els HUT en el cas previst a l’article 35.2.
+L’incompliment dels requisits a què es refereix el paràgraf anterior comporta la clausura o el tancament de l’establiment, de conformitat amb la normativa aplicable en la matèria. Els comuns resten exceptuats d’obtenir l’autorització administrativa com a allotjament turístic per a l’obertura d’àrees d’estada d’autocaravanes i d’àrees d’acollida d’autocaravanes, així com d’obtenir la inscripció prop del Registre de Comerç i Indústria, sense perjudici de l’obligació de comptar amb els informes preceptius dels departaments competents.”

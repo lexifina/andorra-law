@@ -1,0 +1,3 @@
+# Disposició final novena. Desenvolupament reglamentari
+1. El Govern podrà aprovar i publicar el reglament o els reglaments que siguin necessaris o convenients per al desenvolupament i correcta aplicació de la present Llei en el termini de sis mesos, a comptar de la seva entrada en vigor. El Govern queda també facultat per dictar les restants disposicions que siguin convenients per a la seva deguda aplicació.
+2. Tanmateix, s’encomana al Govern aprovar, en el termini màxim d’un any des de la data de publicació de la present Llei, les disposicions reglamentàries necessàries per al desplegament de les modificacions introduïdes a la Llei 16/2017, del 13 de juliol, general de l’allotjament turístic.

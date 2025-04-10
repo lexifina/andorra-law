@@ -1,0 +1,2 @@
+# Disposició final onzena. Entrada en vigor
+La present Llei entra en vigor al cap de quinze dies a comptar de l’endemà de la seva publicació al Butlletí Oficial del Principat d’Andorra excepte les disposicions del títol IV, el relatiu a la cessió d’habitatges buits i desatesos, que entraran en vigor al cap de sis mesos a comptar de l’endemà de la seva publicació al Butlletí Oficial del Principat d’Andorra.

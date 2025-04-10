@@ -1,0 +1,4 @@
+## Capítol cinquè. Formalització i registre
+# Article 12. Cobraments i pagaments
+1. Els cobraments o els pagaments derivats de les inversions estrangeres i de la seva liquidació s’han d’efectuar a través d’entitats bancàries autoritzades al Principat d’Andorra o d’entitats bancàries domiciliades en algun dels països que no siguin considerats de risc en matèria de prevenció de blanqueig de diners i lluita contra el finançament de terrorisme en els termes i d’acord amb les tipologies de llistes definides pel Grup d’Acció Financera (GAFI), per la Unió Europea o per altres organismes internacionals competents en aquesta matèria.
+2. Els titulars de les inversions estrangeres efectuades de conformitat amb aquesta Llei i les normes que la desenvolupin poden transferir a l’exterior el producte que obtinguin de la seva liquidació i els rendiments obtinguts amb les dites inversions.

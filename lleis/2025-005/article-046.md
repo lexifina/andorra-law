@@ -1,0 +1,5 @@
+# Article 46. Modificació de l’article 19 de la Llei 16/2017, del 13 de juliol, general de l’allotjament turístic
+Es modifica l’article 19 de la Llei 16/2017, del 13 de juliol, general de l’allotjament turístic, que queda redactat de la manera següent:
+“Article 19. Definició i classificació dels establiments del grup àrees d’acollida d’autocaravanes
+Tenen la consideració d’àrea d’acollida d’autocaravanes els espais de terreny, degudament delimitats, oberts al públic per a l’ocupació exclusiva d’autocaravanes en trànsit, que permeten l’estada màxima que es defineixi per reglament, que no pot superar les 24 hores, sense dret a pernoctar o acampar. No admeten cap element fix d’allotjament, com ara bungalous o mòduls.
+Els espais destinats a l’estacionament d’autocaravanes han de quedar definits, en les seves característiques essencials i serveis mínims i capacitat, i en la prestació i la qualitat dels serveis, mitjançant reglament, sense perjudici de la normativa vigent en cada moment en matèria de protecció del medi ambient i d’altres.”

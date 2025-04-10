@@ -1,0 +1,10 @@
+# Article 18. Sancions administratives
+1. La realització d’una inversió estrangera, si aplica l’article 15, comporta a cada infractor, a més de la nul·litat, una multa d’entre 10.000 i 20.000 euros.
+2. La realització d’una inversió estrangera, si aplica l’article 16.1, comporta a cada infractor una multa per un import equivalent al 25% del valor de la inversió, amb un mínim de 50.000 euros.
+3. En defecte de declaració al Registre d’Inversions Estrangeres de les inversions estrangeres no sotmeses a autorització prèvia, o de la liquidació d’una inversió estrangera, transcorreguts 30 dies de la data d’efectes, l’infractor se sanciona amb una multa de 5.000 euros.
+4. En el cas que les informacions o la documentació que el ministeri competent en matèria d’inversió estrangera requereixi en compliment de les funcions que li imposa aquesta Llei, siguin incorrectes o incompletes, cada infractor se sanciona amb una multa d’entre 15.000 i 30.000 euros, sense perjudici de les altres sancions que procedeixin.
+5. En el cas que el representant de la societat, en el marc de l’article 13.3, efectuï una declaració disconforme amb el contingut del llibre registre de socis, se sanciona amb una multa de 15.000 euros, sense perjudici de les altres sancions que procedeixin.
+6. Les infraccions prescriuen en el termini de tres anys des del seu coneixement pel ministeri competent en matèria d’inversió estrangera. El termini de prescripció s’interromp amb la incoació del procediment sancionador.
+7. Les sancions prescriuen en el termini de dotze mesos. El termini de prescripció es computa a partir de la data en què les sancions han esdevingut fermes.
+8. El procediment sancionador se subjecta al reglament regulador del procediment vigent i, subsidiàriament, al Codi de l’Administració.
+9. El ministeri competent en matèria d’inversió estrangera pot adoptar mesures cautelars en qualsevol moment del procediment sancionador, amb la finalitat d’impedir actes o omissions que suposin infracció de la Llei.
