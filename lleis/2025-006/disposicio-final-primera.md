@@ -1,0 +1,2 @@
+# Disposició final primera. Text consolidat
+S’encomana al Govern, en els termes previstos a l’article 116 del Reglament del Consell General, que en el termini màxim d’un any des de l’entrada en vigor d’aquesta Llei presenti al Consell General el projecte de consolidació de la Llei general d’ordenació del territori i urbanisme, del 29 de desembre del 2000, el qual ha d’integrar la legislació vigent sobre les matèries regulades.
