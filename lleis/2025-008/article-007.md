@@ -1,0 +1,4 @@
+# Article 7 .Modificació del paràgraf segon de l’article 20 de la Llei 10/2024, del 27 de maig, d’auditoria de comptes del Principat d’Andorra
+Es modifica el paràgraf segon de l’article 20 de la Llei 10/2024, del 27 de maig, d’auditoria de comptes del Principat d’Andorra, que queda redactat de la manera següent:
+“[…]
+Els honoraris professionals es determinen en funció de la complexitat de l’encàrrec, la càrrega de treball estimada i la categoria professional de les persones destinades a l’auditoria. La Branca d’Auditors del Col·legi Oficial d’Economistes d’Andorra pot emetre normes orientatives per als auditors de comptes sobre l’estimació de la càrrega de treball i pot establir els honoraris mínims recomanats que els auditors han d’intentar aplicar en els treballs d’auditoria per categories professionals i tipologia de treballs.”

@@ -1,0 +1,4 @@
+# Article 6. Modificació dels apartats i i j de l’article 16 de la Llei 10/2024, del 27 de maig, d’auditoria de comptes del Principat d’Andorra
+Es modifiquen els apartats i i j de l’article 16 de la Llei 10/2024, del 27 de maig, d’auditoria de comptes del Principat d’Andorra, que queden redactats de la manera següent:
+“i) Rotació de firma: respecte a una auditoria d’una entitat d’interès públic, una firma no pot ser firma auditora durant més de deu anys. Passat aquest termini, la dita firma no pot ser nomenada firma auditora fins que transcorrin almenys tres anys.
+j) Rotació de soci: respecte a una auditoria d’una entitat d’interès públic, el soci responsable de l’auditoria no pot participar en la mateixa auditoria durant més de cinc anys consecutius. Passat aquest termini, el soci no pot participar en cap rol rellevant per a l’auditoria de la mateixa entitat fins que transcorrin almenys tres anys consecutius.”

@@ -1,0 +1,4 @@
+# Article 17. Modificació de la disposició transitòria primera de la Llei 10/2024, del 27 de maig, d’auditoria de comptes del Principat d’Andorra
+Es modifica la disposició transitòria primera de la Llei 10/2024, del 27 de maig, d’auditoria de comptes del Principat d’Andorra, que queda redactada de la manera següent:
+“Poden inscriure’s al Registre d’auditors de comptes les persones que, en la data d’entrada en vigor d’aquesta Llei, compleixin els requisits establerts als articles 9 i 10 de la mateixa Llei, a excepció dels requisits e i f de l’apartat 2 de l’article 9, i que hagin acreditat la seva competència professional d’acord amb els termes de la disposició transitòria segona d’aquesta Llei.
+Les societats andorranes d’auditoria de comptes disposen d’un període transitori de quinze mesos per adaptar-se als requisits que estableix l’article 10 d’aquesta Llei.”
