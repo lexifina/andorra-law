@@ -1,0 +1,3 @@
+# Article 13. Intercanvi d’informació complementària entre les autoritats duaneres i els operadors econòmics
+1. En particular, a l’efecte de la cooperació mútua en la detecció i la prevenció de riscos, les autoritats duaneres i els operadors econòmics es poden intercanviar qualsevol informació que no estigui exigida expressament en la legislació duanera. Aquest intercanvi pot tenir lloc en el marc d’un acord escrit i incloure l’accés de les autoritats duaneres als sistemes informàtics de l’operador econòmic.
+2. Tota informació que faciliti una part a l’altra en el marc de la cooperació prevista en l’apartat 1 es considera de caràcter confidencial, llevat que ambdós parts acordin el contrari.

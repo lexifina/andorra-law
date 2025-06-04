@@ -1,0 +1,11 @@
+# Article 102. Notificació del deute duaner
+1. El deute duaner es notifica al deutor en la forma establerta al lloc on hagi nascut el deute o on es consideri que ha nascut de conformitat amb l’article 87.
+La notificació prevista pel paràgraf primer no s’efectua en cap dels casos següents:
+a) Quan, en espera de la determinació final de l’import dels drets a la importació o a l’exportació, s’hagi imposat una mesura de política comercial provisional que adopti la forma d’un dret.
+b) Quan l’import dels drets a la importació o a l’exportació exigibles sigui superior a l’import determinat sobre la base d’una decisió presa de conformitat amb l’article 33.
+c) Quan la decisió original de no notificar el deute duaner o de notificar-lo amb l’import dels drets a la importació o a l’exportació en una xifra inferior a la de l’import dels drets a la importació o a l’exportació exigible s’hagi pres conformement a disposicions generals invalidades en una data posterior per una decisió judicial.
+d) Quan les autoritats duaneres estiguin dispensades d’acord amb la normativa duanera de la notificació del deute duaner.
+2. Quan l’import dels drets a la importació o a l’exportació exigibles sigui igual a l’import consignat en la declaració a la duana, el dret a disposar de les mercaderies per part de les autoritats duaneres és equivalent a la notificació al deutor del deute duaner.
+3. Quan no sigui aplicable l’apartat 2, les autoritats duaneres han de notificar el deute duaner al deutor quan es trobin en posició de determinar l’import dels drets a la importació o a l’exportació exigibles i prendre una decisió.
+No obstant això, quan la notificació del deute duaner sigui perjudicial per a una investigació judicial, les autoritats duaneres poden ajornar aquesta notificació fins al moment en què la notificació no perjudiqui aquesta investigació judicial.
+4. Sempre que el pagament hagi estat garantit, el deute duaner corresponent a l’import total dels drets a la importació o a l’exportació relatius a totes les mercaderies el dret a disposar de les quals hagi estat concedit a una única i mateixa persona durant un termini fixat per les autoritats duaneres es pot notificar al final d’aquest període. El període establert per les autoritats duaneres no ha de ser superior a 31 dies.

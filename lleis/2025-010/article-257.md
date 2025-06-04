@@ -1,0 +1,8 @@
+# Article 257. Termini de tancament del règim
+1. Les autoritats duaneres han de fixar el termini dins el qual s’ha de tancar el règim de perfeccionament actiu, de conformitat amb l’article 215.
+Aquest termini comença a comptar a partir de la data en què les mercaderies no posades en lliure disposició siguin incloses en el règim i ha de tenir en compte el temps necessari per dur a terme les operacions de transformació i de tancament del règim.
+2. Les autoritats duaneres poden autoritzar una pròrroga, d’una durada raonable, del termini especificat conformement a l’apartat 1, amb sol·licitud prèvia, degudament justificada, del titular de l’autorització.
+L’autorització pot especificar que els terminis que s’iniciïn en el curs d’un mes, trimestre o semestre natural finalitzin l’últim dia d’un mes, trimestre o semestre natural ulterior, respectivament.
+3. En els casos d’exportació anticipada de conformitat amb l’article 223, apartat 2, lletra c, en l’autorització s’ha d’especificar el termini dins el qual les mercaderies no posades en lliure disposició han de ser declarades per al règim de perfeccionament actiu, atenent el termini necessari per a l’adquisició i el transport fins al territori duaner del Principat d’Andorra.
+El termini a què es refereix el paràgraf primer s’estipula en mesos, i no pot ser superior a sis mesos. Comença a comptar a partir de la data d’admissió de la declaració d’exportació dels productes transformats obtinguts a partir de les mercaderies equivalents corresponents.
+4. A petició del titular de l’autorització, el termini de sis mesos a què es refereix l’apartat 3 es pot prorrogar fins i tot després del seu venciment, a condició que el termini total no superi els 12 mesos.

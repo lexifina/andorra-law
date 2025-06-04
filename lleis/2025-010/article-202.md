@@ -1,0 +1,8 @@
+# Article 202. Mesures de política comercial
+1. Quan els productes transformats obtinguts en el marc del règim de perfeccionament actiu siguin despatxats de lliure disposició i el càlcul de l’import del dret a la importació s’efectuï de conformitat amb l’article 86, apartat 3, les mesures de política comercial que s’han d’aplicar són les aplicables a la posada en lliure disposició de les mercaderies que es van incloure en el règim de perfeccionament actiu.
+2. L’apartat 1 no s’aplica a les deixalles i els residus.
+3. Quan els productes transformats obtinguts en el marc del règim de perfeccionament actiu siguin posats en lliure disposició i el càlcul de l’import del dret a la importació s’efectuï de conformitat amb l’article 85, apartat 1, les mesures de política comercial aplicables a aquestes mercaderies s’apliquen únicament quan les mercaderies que es van incloure en el règim de perfeccionament actiu estiguin subjectes a aquestes mesures.
+4. Quan la legislació del Principat d’Andorra o quan els acords internacionals estableixin mesures de política comercial relatives a la posada en lliure disposició, aquestes mesures no s’apliquen als productes transformats que hagin estat posats en lliure disposició després d’un perfeccionament passiu quan:
+a) Els productes transformats conservin el seu origen andorrà segons l’accepció de l’article 60.
+b) El perfeccionament passiu comporti la reparació, inclòs el sistema d’intercanvis estàndard a què es refereix l’article 261; o
+c) El perfeccionament passiu tingui lloc després d’operacions ulteriors de transformació de conformitat amb l’article 258.

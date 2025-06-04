@@ -1,0 +1,2 @@
+# Article 35. Decisions relatives a les informacions vinculants en relació amb altres elements
+En casos específics, les autoritats duaneres han d’adoptar, amb sol·licitud prèvia, decisions sobre les informacions vinculants en relació amb altres elements als quals es refereix el títol II que fonamentin l’aplicació de drets a la importació o a l’exportació i altres mesures respecte del comerç de mercaderies.

@@ -1,0 +1,4 @@
+# Article 252. Quantia del dret a la importació en cas d’importació temporal amb exempció parcial de drets a la importació
+1. L’import dels drets a la importació respecte de les mercaderies incloses en el règim d’importació temporal amb exempció parcial d’aquests drets es fixa en el 3% de l’import del dret a la importació que hauria estat exigible per a aquestes mercaderies si haguessin estat posades en lliure disposició en la data en què van ser incloses en el règim d’importació temporal.
+Aquest import és exigible per cada mes o fracció de mes en què les mercaderies hagin estat incloses en el règim d’importació temporal amb exempció parcial dels drets a la importació.
+2. L’import dels drets a la importació no ha d’excedir el que hauria estat exigible en cas de posar en lliure disposició les mercaderies de què es tracti en la data en què van ser incloses en el règim d’importació temporal.

@@ -1,0 +1,6 @@
+# Article 87. Lloc de naixement del deute duaner
+1. Un deute duaner neix al lloc on s’ha presentat la declaració a la duana o la declaració de reexportació esmentades en els articles 77, 78 i 81.
+En tots els altres casos, el lloc de naixement d’un deute duaner és el lloc on es produeixen els fets dels quals es deriva.
+Si no és possible determinar aquest lloc, el deute duaner neix al lloc on les autoritats duaneres concloguin que les mercaderies es troben en una situació que ha originat un deute duaner.
+2. Si les mercaderies s’han inclòs en un règim duaner que no s’ha tancat o si el dipòsit temporal no s’ha tancat correctament, i no es pot determinar el lloc de naixement del deute duaner d’acord amb els paràgrafs segon o tercer de l’apartat 1, en un termini determinat, el deute duaner neix al lloc on les mercaderies van ser incloses en el règim de què es tracti, introduïdes al territori duaner del Principat d’Andorra conformement a aquest règim, o bé al lloc on les mercaderies van ser col·locades en dipòsit temporal.
+3. Quan la informació de què disposin les autoritats duaneres els permeti comprovar que el deute duaner pot haver nascut en diversos llocs, es considera que el deute duaner neix en el primer.

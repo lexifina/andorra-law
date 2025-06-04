@@ -1,0 +1,16 @@
+# Article 145. Declaració de dipòsit temporal
+1. Les mercaderies no posades en lliure disposició presentades a la Duana estan cobertes per una declaració de dipòsit temporal, que ha de contenir totes les dades necessàries per aplicar les disposicions que regulen el dipòsit temporal.
+2. Els documents relatius a les mercaderies en dipòsit temporal s’han de facilitar a les autoritats duaneres quan així ho exigeixi la legislació o s’estimi necessari a l’efecte de control duaner.
+3. La declaració de dipòsit temporal ha de ser presentada per una de les persones esmentades en l’article 139, apartats 1 o 2, a tot tardar en el moment de presentar les mercaderies a la Duana.
+4. Llevat que es dispensi de l’obligació de presentar una declaració sumària d’entrada, la declaració de dipòsit temporal ha d’incloure una referència a tota declaració sumària d’entrada presentada per a les mercaderies presentades a la Duana, excepte si ja han estat en dipòsit temporal o han estat incloses en un règim duaner i no han abandonat el territori duaner del Principat d’Andorra.
+5. Les autoritats duaneres poden acceptar que la declaració de dipòsit temporal adopti així mateix les formes següents:
+a) Una referència a qualsevol declaració sumària d’entrada presentada per a les mercaderies de què es tracti, completada amb les dades d’una declaració de dipòsit temporal.
+b) Un manifest o un altre document de transport, sempre que contingui les dades d’una declaració de dipòsit temporal, inclosa una referència a qualsevol declaració sumària d’entrada de les mercaderies de què es tracti.
+6. Les autoritats duaneres poden acceptar que els sistemes d’informació comercial, portuària o relatius al transport s’utilitzin per presentar una declaració de dipòsit temporal, sempre que continguin totes les dades necessàries per a aquesta declaració i es disposi d’aquestes dades de conformitat amb l’apartat 3.
+7. Els articles 188 a 193 s’apliquen a la declaració de dipòsit temporal.
+8. La declaració de dipòsit temporal es pot utilitzar així mateix a l’efecte de:
+a) La notificació de l’arribada establerta per l’article 133; o
+b) La presentació de les mercaderies a la Duana prevista per l’article 139, en la mesura que compleixi les condicions establertes en aquestes disposicions.
+9. No s’exigeix una declaració de dipòsit temporal quan, a tot tardar, en el moment de presentar les mercaderies a la Duana s’estableixi que aquestes mercaderies tenen l’estatut duaner de mercaderies posades en lliure disposició, de conformitat amb els articles 153 a 156.
+10. Les autoritats duaneres han de conservar la declaració de dipòsit temporal, o tenir-hi accés, a fi de verificar que les mercaderies a què es refereix s’inclouen posteriorment en un règim duaner o es reexporten de conformitat amb l’article 149.
+11. Als efectes dels apartats 1 a 10, quan les mercaderies no posades en lliure disposició, traslladades en règim de trànsit, es presentin en una duana de destinació situada al territori duaner del Principat d’Andorra, es considera que les dades de l’operació de trànsit de què es tracti constitueixen la declaració de dipòsit temporal, sempre que compleixin els requisits a aquest efecte. No obstant això, el titular de les mercaderies pot presentar una declaració de dipòsit temporal una vegada finalitzat el règim de trànsit.

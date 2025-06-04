@@ -1,0 +1,5 @@
+# Article 262. Importació prèvia dels productes de substitució
+1. Les autoritats duaneres han de permetre que, d’acord amb condicions que hagin fixat i amb sol·licitud prèvia de la persona afectada, els productes de substitució s’importin amb anterioritat a l’exportació de les mercaderies defectuoses.
+La importació prèvia d’un producte de substitució dona lloc a la constitució d’una garantia que cobreix l’import del dret d’importació que seria exigible si les mercaderies defectuoses no s’arribessin a exportar de conformitat amb l’apartat 2.
+2. L’exportació de les mercaderies defectuoses s’ha d’efectuar dins un termini de dos mesos a partir de la data d’admissió per les autoritats duaneres de la declaració de posada en lliure disposició dels productes de substitució.
+3. Quan, a causa de circumstàncies excepcionals, les mercaderies defectuoses no es puguin exportar dins el termini esmentat en l’apartat 2, les autoritats duaneres poden prorrogar aquest termini per un temps raonable amb sol·licitud prèvia degudament justificada del titular de l’autorització.

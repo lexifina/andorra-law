@@ -1,0 +1,4 @@
+# Article 85. Regles generals per al càlcul de l’import dels drets a la importació o a l’exportació
+1. L’import dels drets a la importació o a l’exportació es determina d’acord amb les regles de càlcul dels drets que van ser aplicables a les mercaderies de què es tracti en el moment en què va néixer el deute duaner relatiu a aquestes mercaderies.
+2. Quan no sigui possible determinar amb precisió el moment en què va néixer el deute duaner, es considera que és el moment en què les autoritats duaneres determinen que les mercaderies es troben en una situació que ha originat un deute duaner.
+No obstant això, quan la informació de què disposin les autoritats duaneres els permeti comprovar que el deute duaner havia nascut abans del moment en què van arribar a aquesta conclusió, es considera que el deute duaner va néixer en el moment més llunyà en el temps en què es pugui comprovar aquesta situació.

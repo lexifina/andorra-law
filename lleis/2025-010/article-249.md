@@ -1,0 +1,3 @@
+# Article 249. Estatut duaner
+Les mercaderies que surtin d’una zona franca i s’introdueixin en una altra part del territori duaner del Principat d’Andorra o que s’incloguin en un règim duaner es consideren mercaderies no posades en lliure disposició, llevat que es demostri el seu estatut duaner de mercaderies posades en lliure disposició.
+No obstant això, a l’efecte de l’aplicació dels drets a l’exportació i de les llicències d’exportació, així com de les mesures de control d’exportacions en el marc de la política comercial, aquestes mercaderies són considerades mercaderies posades en lliure disposició, llevat que s’estableixi que no tenen l’estatut duaner de mercaderies posades en lliure disposició.

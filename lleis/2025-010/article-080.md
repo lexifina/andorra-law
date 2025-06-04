@@ -1,0 +1,4 @@
+# Article 80. Deducció d’un import de drets a la importació ja pagat
+1. Quan neixi un deute duaner, conformement a l’article 79, apartat 1, respecte de mercaderies posades en lliure disposició amb una reducció del tipus dels drets a la importació a causa de la seva destinació particular, l’import dels drets a la importació pagats en despatxar les mercaderies en lliure disposició es dedueix de l’import dels drets a la importació corresponent al deute duaner.
+El paràgraf primer s’aplica quan neix un deute duaner respecte dels residus i les deixalles resultants de la destrucció d’aquestes mercaderies.
+2. Quan neixi un deute duaner, conformement a l’article 79, apartat 1, respecte de mercaderies incloses en un règim d’importació temporal amb exempció parcial de drets a la importació, l’import dels drets a la importació pagats d’acord amb l’exempció parcial es dedueix de l’import dels drets a la importació corresponent al deute duaner.

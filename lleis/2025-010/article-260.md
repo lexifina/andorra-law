@@ -1,0 +1,7 @@
+# Article 260. Mercaderies reparades de manera gratuïta o modificades en el marc d’acords internacionals
+1. Quan es demostri, a satisfacció de les autoritats duaneres, que la reparació de les mercaderies s’ha efectuat de manera gratuïta, bé per obligació contractual o legal derivada d’una garantia, bé per l’existència d’un defecte material o de fabricació, se’ls ha de concedir una exempció total de drets a la importació.
+2. L’apartat 1 no és aplicable en cas que el defecte material o de fabricació ja s’hagi tingut en compte en el moment de la primera posada en lliure disposició de les mercaderies.
+3. S’acorda l’exoneració total o parcial dels drets a la importació per als productes transformats que resulten de les mercaderies posades sota el règim de perfeccionament passiu si, a satisfacció de les autoritats duaneres, s’estableix que:
+a) Aquestes mercaderies han estat reparades o modificades en un país o territori situat fora del territori duaner del Principat d’Andorra amb el qual Andorra ha conclòs un acord internacional que estableix la dita exoneració.
+b) Que es compleixin les condicions relatives a l’exoneració dels drets a la importació previstes en l’acord esmentat a la lletra a.
+4. L’apartat 3 no s’aplica als productes transformats que resulten de les mercaderies equivalents a les quals es refereix l’article 223 i als productes de substitució previstos als articles 261 i 262.

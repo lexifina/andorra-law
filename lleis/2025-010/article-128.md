@@ -1,0 +1,2 @@
+# Article 128. Anàlisi de riscos
+La Duana a què es refereix l’article 127, apartat 2, s’ha d’assegurar que es dugui a terme, dins un termini determinat, una anàlisi de riscos essencialment als efectes de seguretat i protecció, sobre la base de la declaració sumària d’entrada esmentada en l’article 127, apartat 1, o les dades a què es refereix l’article 127, apartat 7, i ha adoptar les mesures necessàries en funció dels resultats d’aquesta anàlisi.

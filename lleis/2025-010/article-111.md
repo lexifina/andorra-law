@@ -1,0 +1,8 @@
+# Article 111. Terminis per a l’ajornament del pagament
+1. El termini durant el qual s’ajorna el pagament de conformitat amb l’article 110 és de 30 dies.
+2. Quan el pagament s’ajorni de conformitat amb l’article 110, lletra a, el termini comença l’endemà del dia en què es notifiqui al deutor el deute duaner.
+3. Quan el pagament s’ajorni de conformitat amb l’article 110, lletra b, el termini comença l’endemà del dia en què finalitzi el termini de globalització. Es redueix en el nombre de dies corresponent a la meitat del nombre de dies que comprengui el període de globalització.
+4. Quan el pagament s’ajorni de conformitat amb l’article 110, lletra c, el termini comença l’endemà del dia en què finalitzi el termini establert per donar el dret a disposar de les mercaderies de què es tracti. Es redueix en el nombre de dies corresponent a la meitat del nombre de dies que comprengui el període de què es tracti.
+5. Quan el nombre de dies dels terminis esmentats en els apartats 3 i 4 sigui imparell, el nombre de dies que es dedueix del termini de 30 dies conformement a aquests apartats és igual a la meitat del nombre parell immediatament inferior.
+6. Quan els terminis esmentats en els apartats 3 i 4 siguin setmanes naturals, les autoritats duaneres poden disposar que l’import dels drets a la importació o a l’exportació respecte del qual s’hagi ajornat el pagament s’ha de pagar, a tot tardar, el divendres de la quarta setmana següent a la setmana natural de què es tracti.
+En cas que aquests terminis siguin mesos naturals, les autoritats duaneres poden disposar que l’import dels drets a la importació o a l’exportació respecte del qual s’hagi ajornat el pagament s’ha de pagar, a tot tardar, el setzè dia del mes següent al mes natural de què es tracti.

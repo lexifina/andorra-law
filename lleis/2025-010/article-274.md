@@ -1,0 +1,7 @@
+## Capítol cinquè. Notificació de reexportació
+# Article 274. Presentació d’una notificació de reexportació
+1. Quan surtin del territori duaner del Principat d’Andorra les mercaderies no posades en lliure disposició esmentades en l’article 270, apartat 3, lletres b) i c), i s’hagi concedit la dispensa de l’obligació de presentar una declaració sumària de sortida per a aquestes mercaderies, s’ha de presentar una notificació de reexportació.
+2. La notificació de reexportació ha de ser presentada a la duana de sortida de les mercaderies per la persona responsable de la presentació de les mercaderies a la sortida de conformitat amb l’article 267, apartat 2.
+3. La notificació de reexportació ha de contenir les dades necessàries per tancar el règim de zona franca o posar fi al dipòsit temporal.
+Les autoritats duaneres poden acceptar que s’utilitzin, per presentar una notificació de reexportació, sistemes d’informació comercial, portuària o relativa al transport, sempre que continguin les dades necessàries per a aquesta notificació i que aquestes dades estiguin disponibles abans que les mercaderies surtin del territori duaner del Principat d’Andorra.
+4. Les autoritats duaneres poden permetre que la presentació de la notificació de reexportació se substitueixi per la presentació d’una notificació i l’accés a les dades d’una notificació de reexportació en el sistema informàtic de l’operador econòmic.

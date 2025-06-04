@@ -1,0 +1,4 @@
+# Article 94. Fiador
+1. El fiador esmentat en l’article 92, apartat 1, lletra b, ha de ser una tercera persona establerta al territori duaner del Principat d’Andorra. El fiador ha de ser aprovat per les autoritats duaneres que exigeixen la garantia, llevat que sigui una entitat de crèdit, una institució financera o una companyia d’assegurances acreditades al Principat d’Andorra de conformitat amb les disposicions vigents.
+2. El fiador es compromet per escrit a pagar l’import garantit dels drets a la importació o a l’exportació corresponent a un deute duaner i dels altres gravàmens.
+3. Les autoritats duaneres es poden negar a aprovar el fiador o el tipus de garantia proposats quan considerin que no queda prou garantit el pagament, en el termini establert, de l’import dels drets a la importació o a l’exportació corresponent al deute duaner i dels altres gravàmens.

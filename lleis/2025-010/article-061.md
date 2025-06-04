@@ -1,0 +1,4 @@
+# Article 61. Prova de l’origen
+1. Quan en la declaració a la duana s’indiqui un origen d’acord amb la legislació duanera, les autoritats duaneres poden exigir que el declarant acrediti l’origen de les mercaderies.
+2. En cas que es plantegin dubtes raonables sobre la prova de l’origen que s’hagi presentat en virtut de la legislació duanera o d’altres disposicions d’àmbits específics, les autoritats duaneres poden exigir qualsevol altra prova complementària necessària per assegurar-se que la indicació de l’origen compleix la legislació aplicable.
+3. Si les necessitats del comerç així ho requereixen, es poden expedir documents que acreditin l’origen conformement a les normes d’origen vigents al país o territori de destinació o a qualsevol altre sistema que identifiqui el país en el qual s’hagin obtingut totalment les mercaderies o en el qual s’hagi efectuat l’última transformació substancial.

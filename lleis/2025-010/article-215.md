@@ -1,0 +1,5 @@
+# Article 215. Tancament d’un règim especial
+1. Excepte quan es tracti del règim de trànsit, i sense perjudici del que disposa l’article 254, un règim especial es tanca quan les mercaderies incloses en aquest règim o els productes transformats s’incloguin en un altre règim duaner posterior, hagin sortit del territori duaner del Principat d’Andorra, s’hagin destruït sense produir residus o s’abandonin en favor de l’Estat, de conformitat amb l’article 199.
+2. Les autoritats duaneres han de tancar el règim de trànsit quan puguin determinar que el procediment ha finalitzat correctament, comparant les dades que estiguin en poder de les duanes de partida amb aquelles de què disposi la duana de destinació.
+3. Les autoritats duaneres han d’adoptar totes les mesures necessàries per regularitzar la situació de les mercaderies per a les quals no s’hagi tancat un règim en les condicions previstes.
+4. Llevat que es disposi d’una altra manera, el tancament del règim s’ha de dur a terme dins un termini determinat.

@@ -1,0 +1,4 @@
+# Article 192. Mesures d’identificació
+1. Les autoritats duaneres o, si escau, els operadors econòmics autoritzats a aquest efecte per les autoritats duaneres han d’adoptar les mesures que permetin identificar les mercaderies quan aquesta identificació sigui necessària per garantir el compliment de les disposicions per les quals es regeix el règim duaner per al qual aquestes mercaderies han estat declarades.
+Aquestes mesures d’identificació tenen el mateix efecte jurídic en tot el territori duaner.
+2. Els mitjans d’identificació col·locats en les mercaderies, en els embalatges o en els mitjans de transport només poden ser retirats o destruïts per les autoritats duaneres o pels operadors econòmics amb l’autorització d’aquestes autoritats, llevat que, per un cas fortuït o de força major, sigui indispensable retirar-los o destruir-los per garantir la protecció de les mercaderies o dels mitjans de transport.

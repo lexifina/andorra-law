@@ -1,0 +1,9 @@
+## Secció tercera. Perfeccionament passiu
+# Article 259. Àmbit d’aplicació
+1. En el marc del règim de perfeccionament passiu, les mercaderies posades en lliure disposició es poden exportar temporalment fora del territori duaner a fi de ser objecte d’operacions de transformació. Els productes transformats resultants d’aquestes transformacions poden ser posats en lliure disposició amb exempció total o parcial de drets a la importació amb sol·licitud prèvia del titular de l’autorització o de qualsevol altra persona establerta al territori duaner del Principat d’Andorra i que hagi obtingut el consentiment del titular de l’autorització, sempre que es compleixin les condicions de l’autorització.
+2. No es poden acollir al règim de perfeccionament passiu cap de les mercaderies posades en lliure disposició:
+a) L’exportació de les quals doni lloc a una devolució o condonació dels drets a la importació.
+b) Que, amb anterioritat a l’exportació, s’hagin posat en lliure disposició acollides a una exempció de drets o a un tipus reduït de drets quant a la seva destinació particular, mentre els objectius d’aquesta destinació particular no s’hagin complert, llevat que aquestes mercaderies hagin de ser sotmeses a operacions de reparació.
+c) L’exportació de les quals doni lloc a la concessió de restitucions per exportació.
+d) Per l’exportació de les quals es concedeixi un avantatge financer.
+3. Les autoritats duaneres han de fixar el termini dins el qual les mercaderies exportades temporalment han de ser reimportades al territori duaner del Principat d’Andorra en forma de productes transformats i despatxades de lliure disposició per poder acollir-se a l’exempció total o parcial de drets a la importació. Poden concedir una ampliació del termini per un temps raonable, amb sol·licitud prèvia, degudament justificada, del titular de l’autorització.

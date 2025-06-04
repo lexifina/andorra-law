@@ -1,0 +1,8 @@
+# Article 15. Subministrament d’informació a les autoritats duaneres
+1. A requeriment de les autoritats duaneres i dins el termini fixat, tota persona que intervingui directament o indirectament en la realització de les formalitats duaneres o en els controls duaners ha de facilitar a aquestes autoritats tota la informació i la documentació exigides, en una forma adequada, i tota l’assistència que sigui necessària per efectuar aquests controls o formalitats.
+2. Tota persona que presenti a les autoritats duaneres una declaració a la duana, una declaració de dipòsit temporal, una declaració sumària d’entrada, una declaració sumària de sortida, una declaració de reexportació o una notificació de reexportació, o una sol·licitud d’autorització o de qualsevol altra decisió, és responsable del següent:
+a) L’exactitud i la integritat de la informació que contingui la declaració, notificació o sol·licitud.
+b) L’autenticitat, l’exactitud i la validesa dels documents justificatius de la declaració, notificació o sol·licitud.
+c) Si escau, el compliment de totes les obligacions derivades del règim duaner en el qual s’incloguin les mercaderies o de la realització de les operacions que s’hagin autoritzat.
+El que disposa el paràgraf primer s’aplica també al subministrament de qualsevol informació en qualsevol altra forma exigida per les autoritats duaneres o comunicada a aquestes autoritats.
+En cas que sigui el representant duaner de la persona interessada, segons l’article 18, qui presenti la declaració o notificació o sol·licitud, o faciliti la informació, aquest representant duaner també queda subjecte a la responsabilitat establerta en el paràgraf primer d’aquest apartat.

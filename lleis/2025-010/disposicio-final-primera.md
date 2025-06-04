@@ -1,0 +1,5 @@
+# Disposició final primera
+Es modifica l’article 34 de la Llei 11/2012, del 21 de juny, de l’impost general indirecte, que queda redactat com segueix:
+“Article 34. Importacions d’objectes de col·lecció o d’art
+1. Estan exemptes de l’impost les importacions dels objectes de col·lecció o d’art de caràcter educatiu, científic o cultural no destinats a la venda i importats per museus, galeries i altres establiments autoritzats per rebre aquests objectes amb exempció. L’exempció està condicionada al fet que els objectes s’importin a títol gratuït o, si ho són a títol onerós, que siguin lliurats per una persona o una entitat que no actuï com a empresari o professional.
+2. Estan exemptes de presentar una garantia financera que cobreixi l’import de l’impost, les importacions temporals d’obres d’art per a la seva participació en exposicions públiques o privades, acordades pel Govern com a projecte estratègic i d’interès general, que tenen lloc en el territori duaner nacional. A aquest efecte es considera estratègic i d’interès general el projecte que, entre d’altres, reuneixi factors culturals, econòmics, educatius i turístics rellevants per al país.”

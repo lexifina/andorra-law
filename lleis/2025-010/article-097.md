@@ -1,0 +1,2 @@
+# Article 97. Garantia addicional o de substitució
+Quan les autoritats duaneres comprovin que la garantia constituïda no garanteix o ha deixat de garantir o és insuficient per garantir el pagament, en el termini establert, de l’import dels drets d’importació o d’exportació corresponent al deute duaner i altres gravàmens, han d’exigir de qualsevol de les persones esmentades en l’article 89, apartat 3, bé que constitueixi una garantia addicional, bé que substitueixi la garantia original per una de nova, a la seva elecció.

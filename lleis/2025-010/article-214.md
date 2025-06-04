@@ -1,0 +1,4 @@
+# Article 214. Registres
+1. Excepte per al règim de trànsit o llevat que es disposi el contrari, el titular de l’autorització, el titular del règim i tota persona que exerceixi una activitat d’emmagatzematge, d’elaboració o de transformació de mercaderies o de venda o compra de mercaderies en zones franques han de portar els registres adequats, de la forma aprovada per les autoritats duaneres.
+Aquests registres han de contenir la informació i les dades que permetin a les autoritats duaneres la vigilància del règim de què es tracti, particularment quant a la identificació de les mercaderies incloses en aquest règim, al seu estatut duaner i a la seva circulació.
+2. Es considera que els operadors econòmics autoritzats de simplificacions duaneres compleixen l’obligació establerta en l’apartat 1 en la mesura que els seus registres siguin adequats per a les finalitats del règim especial de què es tracti.

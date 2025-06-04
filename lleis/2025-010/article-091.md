@@ -1,0 +1,2 @@
+# Article 91. Garantia facultativa
+Quan la constitució d’una garantia sigui facultativa, aquesta garantia és exigida en qualsevol cas per les autoritats duaneres si consideren que no hi ha la certesa que es pagui l’import dels drets a la importació o a l’exportació corresponent al deute duaner i altres gravàmens en el termini establert. L’import és fixat per aquestes autoritats de manera que no sobrepassi el nivell esmentat en l’article 90.

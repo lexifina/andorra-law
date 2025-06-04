@@ -1,0 +1,2 @@
+# Article 258. Reexportació temporal per a transformació ulterior
+Amb sol·licitud prèvia, les autoritats duaneres poden autoritzar que la totalitat o una part de les mercaderies incloses en el règim de perfeccionament actiu, o els productes transformats, es reexportin temporalment per ser objecte de transformació ulterior fora del territori duaner del Principat d’Andorra, de conformitat amb les condicions establertes per al règim de perfeccionament passiu.

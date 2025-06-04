@@ -1,0 +1,5 @@
+# Article 117. Cobrament excessiu d’imports de drets a la importació o a l’exportació
+1. Un import de drets a la importació o a l’exportació es retorna o condona en la mesura que l’import corresponent al deute duaner notificat inicialment excedeixi l’import exigible, o en la mesura que el deute duaner s’hagi notificat al deutor en contra del que estableix l’article 102, apartat 1, lletres c o d.
+2. Quan la sol·licitud de devolució o de condonació es basi en l’existència, en la data d’admissió de la declaració de despatx de posada en lliure disposició de les mercaderies, d’un dret a la importació reduït o de tipus zero aplicable en el marc d’un contingent aranzelari, d’un límit màxim aranzelari o d’una altra mesura aranzelària favorable, la devolució o condonació s’autoritza només quan en la data de presentació de la sol·licitud, acompanyada dels documents necessaris, es compleixi qualsevol de les condicions següents:
+a) Si es tracta d’un contingent aranzelari, que no se n’hagi esgotat el volum.
+b) En els altres casos, que no s’hagi restablert el dret degut normalment.

@@ -1,0 +1,22 @@
+## Capítol quart. Extinció del deute duaner
+# Article 124. Extinció
+1. Sense perjudici de les disposicions vigents relatives a la no recaptació de l’import de drets a la importació o a l’exportació corresponent a un deute duaner en cas que es determini judicialment la insolvència del deutor, un deute duaner a la importació o a l’exportació s’extingeix de qualsevol de les maneres següents:
+a) Quan al deutor ja no se li pugui notificar el deute duaner contret, conformement a l’article 103.
+b) Mitjançant el pagament de l’import dels drets a la importació o a l’exportació.
+c) Per condonació de l’import dels drets a la importació o a l’exportació, de conformitat amb el que disposa l’apartat 5.
+d) Quan s’invalidi la declaració a la duana respecte de mercaderies declarades per a un règim duaner que impliqui l’obligació de pagar drets a la importació o a l’exportació.
+e) Quan unes mercaderies subjectes a drets a la importació o a l’exportació siguin confiscades o decomissades, i confiscades simultàniament o posteriorment.
+f) Quan unes mercaderies subjectes a drets a la importació o a l’exportació siguin destruïdes sota vigilància duanera o abandonades en benefici de l’Estat.
+g) Quan la desaparició de les mercaderies o l’incompliment de les obligacions derivades de la legislació duanera es derivi de la destrucció total o la pèrdua irremeiable d’aquestes mercaderies per una causa inherent a la naturalesa mateixa de les mercaderies, per un cas fortuït o per força major, o com a conseqüència d’instruccions de les autoritats duaneres; a l’efecte d’aquesta lletra, les mercaderies es consideren perdudes irremeiablement quan ningú no les pugui utilitzar.
+h) Quan el deute duaner neixi conformement als articles 79 o 82 i es compleixin les condicions següents:
+i) Que l’incompliment que va portar al naixement del deute duaner no tingui efectes significatius per al funcionament adequat del dipòsit temporal o del règim duaner de què es tracti i no constitueixi una temptativa de frau.
+ii) Que tots els tràmits necessaris per regularitzar la situació de les mercaderies es duguin a terme posteriorment.
+i) Quan les mercaderies posades en lliure disposició amb exempció de drets, o acollides a un dret a la importació reduït a causa de la seva destinació particular, s’hagin exportat amb autorització de les autoritats duaneres.
+j) Quan hagi nascut conformement a l’article 78 i quan els tràmits efectuats per obtenir el tractament aranzelari preferencial esmentat en aquest article siguin anul·lats.
+k) Quan, sense perjudici del que disposa l’apartat 6, el deute duaner hagi nascut de conformitat amb l’article 79 i es justifiqui a satisfacció de les autoritats duaneres que les mercaderies no s’han utilitzat ni consumit i han sortit del territori duaner del Principat d’Andorra.
+2. No obstant això, en els casos esmentats en l’apartat 1, lletra e, es considera que el deute duaner no s’ha extingit, a l’efecte de les sancions aplicables a les infraccions duaneres, quan, d’acord amb el dret nacional, els drets a la importació o a l’exportació o l’existència d’un deute duaner constitueixin la base per determinar les sancions.
+3. Quan, conformement a l’apartat 1, lletra g, un deute duaner s’hagi extingit respecte d’unes mercaderies posades en lliure disposició amb exempció de drets o acollides a un dret a la importació reduït a causa de la seva destinació particular, tot residu o deixalla resultant de destruir-les es considera com a mercaderia no posada en lliure disposició.
+4. Són aplicables les disposicions en vigor relatives als percentatges normals de pèrdues irrecuperables degudes a la naturalesa de les mercaderies quan l’interessat no demostri que la pèrdua real ha estat més gran que la calculada mitjançant l’aplicació del percentatge normal a les mercaderies de què es tracti.
+5. Quan diverses persones siguin responsables del pagament de l’import dels drets a la importació o a l’exportació corresponent al deute duaner i es concedeixi la condonació, el deute duaner només s’extingeix respecte de la persona o les persones a les quals es concedeixi la condonació.
+6. En el cas esmentat en l’apartat 1, lletra k, el deute duaner no s’extingeix respecte de tota persona o persones que hagin intentat cometre un frau.
+7. Quan el deute duaner hagi nascut conformement a l’article 79, s’extingeix respecte a la persona el comportament de la qual no estigui implicada en cap temptativa de frau i hagi contribuït a la lluita contra el frau.

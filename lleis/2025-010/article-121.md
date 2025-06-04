@@ -1,0 +1,8 @@
+# Article 121. Procediment per a devolucions i condonacions
+1. Les sol·licituds de devolució o de condonació de conformitat amb l’article 116 s’han de presentar a les autoritats duaneres dins els terminis següents:
+a) En cas d’un excés de cobrament de drets a la importació o a l’exportació, error de les autoritats competents o equitat, en el termini de tres anys a partir de la data de notificació del deute duaner.
+b) En cas de mercaderies defectuoses o que incompleixen les condicions del contracte, en el termini d’un any a partir de la data de notificació del deute duaner.
+c) En cas d’invalidació d’una declaració a la duana, en el termini especificat en les normes aplicables a la invalidació.
+El termini especificat en les lletres a i b del paràgraf primer es prorroga quan el sol·licitant presenti proves que es va veure impossibilitat per presentar una sol·licitud dins el termini establert pel fet de tractar-se d’un cas fortuït o de força major.
+2. Quan, tenint en compte els motius invocats, les autoritats duaneres no estiguin en condicions de concedir la devolució o condonació d’un import dels drets a la importació o a l’exportació, estan obligades a examinar el fonament d’una sol·licitud de devolució o condonació tenint en compte els altres motius de devolució o condonació a què es refereix l’article 116.
+3. Quan s’hagi presentat un recurs conformement a l’article 44 contra la notificació del deute duaner, se suspèn el termini corresponent especificat en el paràgraf primer de l’apartat 1, a partir de la data en què es presenti el recurs i mentre duri el procediment d’aquest recurs.

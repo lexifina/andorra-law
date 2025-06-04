@@ -1,0 +1,3 @@
+# Article 155. Mercaderies posades en lliure disposició que surten temporalment del territori duaner del Principat d’Andorra
+1. En els casos que disposa l’article 227, apartat 2, lletres b a d, les mercaderies conserven l’estatut duaner de mercaderies posades en lliure disposició únicament si aquest estatut ha estat establert d’acord amb determinades condicions i en virtut dels mitjans previstos per la legislació duanera.
+2. En casos específics, les mercaderies posades en lliure disposició poden circular, sense trobar-se a l’empara d’un règim duaner, entre dos punts del territori duaner del Principat d’Andorra i temporalment fora d’aquest territori sense alteració del seu estatut duaner.

@@ -1,0 +1,20 @@
+## Secció tercera. Decisions relatives a l’aplicació de la legislació duanera
+# Article 22. Decisions adoptades amb sol·licitud prèvia
+1. Tota persona que sol·liciti una decisió relacionada amb l’aplicació de la legislació duanera ha de facilitar la informació que les autoritats duaneres competents necessitin per poder adoptar aquesta decisió.
+La decisió també pot ser sol·licitada per diverses persones i adoptar-se per a totes elles, d’acord amb les condicions establertes en la legislació duanera.
+2. Les autoritats duaneres han de comprovar, sense demora i a tot tardar en el termini de 30 dies a partir de la recepció de la sol·licitud de decisió, si se satisfan les condicions d’acceptació d’aquesta sol·licitud.
+Quan les autoritats duaneres comprovin que la sol·licitud conté tota la informació requerida per adoptar la decisió, han de comunicar-ne l’acceptació al sol·licitant en el termini assenyalat en el paràgraf primer.
+3. Les autoritats duaneres competents han de prendre les decisions a les quals es refereix l’apartat 1 i les han de notificar al sol·licitant, sense demora i a tot tardar en el termini de 120 dies a partir de la data d’acceptació de la sol·licitud, llevat que es disposi el contrari.
+Quan les autoritats duaneres no puguin complir el termini per adoptar una decisió, n’han d’informar el sol·licitant abans que venci aquest termini, exposar-li els motius d’aquesta impossibilitat i indicar-li el termini suplementari que considerin necessari per adoptar una decisió. Llevat que es disposi el contrari, aquest termini suplementari no ha d’excedir els 30 dies.
+Sense perjudici del que estableix el paràgraf segon, les autoritats duaneres poden prorrogar el termini per adoptar una decisió, segons el que preveu la legislació duanera, quan el sol·licitant demani una pròrroga per procedir a ajustos a fi de garantir el compliment de les condicions i els criteris. Aquests ajustos i el termini ulterior necessari per fer-los s’han de comunicar a les autoritats duaneres, que han de decidir sobre la pròrroga.
+4. Llevat que la legislació duanera o la decisió que s’adopti disposi el contrari, aquesta decisió esdevé efectiva des de la data en què el sol·licitant rebi, o es consideri que ha rebut, la notificació de l’adopció. Excepte en els casos previstos per l’article 45, apartat 2, les decisions adoptades són executables per les autoritats duaneres des d’aquesta mateixa data.
+5. Llevat que la legislació duanera disposi el contrari, la decisió és vàlida sense limitació temporal.
+6. Abans d’adoptar una decisió que perjudiqui el sol·licitant, les autoritats duaneres li han de comunicar els motius en els quals pretenen basar la seva decisió, i el sol·licitant té l’oportunitat de presentar observacions dins un termini establert, que comença a comptar a partir de la data que rebi o es consideri que ha d’haver rebut la comunicació. Després del venciment d’aquest termini, s’ha de notificar al sol·licitant, de la manera deguda, la decisió adoptada.
+El paràgraf primer no és aplicable en qualsevol dels casos següents:
+a) Quan es refereixi a una decisió prevista per l’article 33, apartat 1.
+b) En cas de denegació del benefici d’un contingent aranzelari, quan s’arribi al volum del contingent aranzelari especificat, de conformitat amb l’article 56, apartat 4, paràgraf primer.
+c) Quan així ho exigeixi la naturalesa o el nivell de l’amenaça per a la seguretat i protecció del Principat d’Andorra i dels seus residents, per a la salut humana, la sanitat animal o la fitosanitat, per al medi ambient o per als consumidors.
+d) Quan la decisió tingui per objecte vetllar per l’aplicació d’una altra decisió a la qual s’hagi aplicat el paràgraf primer, sense perjudici de la legislació de què es tracti.
+e) Quan pugui afectar investigacions iniciades per lluitar contra el frau.
+f) En altres casos específics.
+7. Quan perjudiqui el sol·licitant, la decisió que s’adopti ha d’exposar els motius que han portat a adoptar-la i ha d’esmentar el dret de recurs que disposa l’article 44.

@@ -1,0 +1,4 @@
+# Article 205. Mercaderies incloses amb anterioritat en el règim de perfeccionament actiu
+1. L’article 203 s’aplica als productes transformats reexportats inicialment fora del territori duaner del Principat d’Andorra després d’haver estat inclosos en el règim de perfeccionament actiu.
+2. Amb sol·licitud prèvia del declarant i a condició que presenti la informació necessària, l’import dels drets a la importació relatius a les mercaderies a què es refereix l’apartat 1 es determina de conformitat amb l’article 86, apartat 3. La data d’admissió de la declaració de reexportació es considera la data de posada en lliure disposició.
+3. L’exempció de drets a la importació establerta en l’article 203 no es concedeix per als productes transformats que hagin estat exportats de conformitat amb l’article 223, apartat 2, lletra c, llevat que es garanteixi que les mercaderies no s’inclouran en el règim de perfeccionament actiu.

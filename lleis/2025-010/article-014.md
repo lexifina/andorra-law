@@ -1,0 +1,3 @@
+# Article 14. Subministrament d’informació per les autoritats duaneres
+1. Qualsevol persona interessada pot sol·licitar a les autoritats duaneres informació relativa a l’aplicació de la legislació duanera. Aquesta sol·licitud es pot refusar si no es relaciona amb una activitat que es prevegi dur a terme en l’àmbit del comerç internacional de mercaderies.
+2. Les autoritats duaneres han de mantenir un diàleg regular amb els operadors econòmics i amb altres autoritats que intervinguin en el comerç internacional de mercaderies. Així mateix, han de promoure la transparència necessària divulgant sense restriccions, i sempre que sigui factible, sense despeses i a través d’Internet, la legislació duanera, les resolucions administratives generals i els formularis de sol·licitud.

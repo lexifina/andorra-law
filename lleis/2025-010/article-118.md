@@ -1,0 +1,9 @@
+# Article 118. Mercaderies defectuoses o que incompleixen els termes del contracte
+1. Un import de drets a la importació es retorna o condona si la notificació del deute duaner es refereix a mercaderies que van ser refusades per l’importador pel fet que, en el moment del dret a disposar, eren defectuoses o no complien els termes del contracte d’acord amb el qual es van importar.
+S’assimilen a mercaderies defectuoses les mercaderies danyades abans del dret a disposar.
+2. No obstant el que disposa l’apartat 3, es concedeix la devolució o la condonació sempre que les mercaderies no s’hagin utilitzat, excepte pel que respecta a la utilització inicial que pugui haver estat necessària per comprovar que eren defectuoses o que no complien els termes del contracte i sempre que hagin sortit del territori duaner del Principat d’Andorra.
+3. No es concedeix la devolució ni la condonació quan:
+a) Les mercaderies, abans de ser posades en lliure disposició, s’hagin inclòs en un règim especial per ser sotmeses a proves, llevat que es demostri que normalment aquestes proves no permeten detectar que les mercaderies són defectuoses o no compleixen els termes del contracte.
+b) El caràcter defectuós de les mercaderies es va tenir en compte en el moment d’establir els termes del contracte, en particular el preu, abans d’incloure les mercaderies en un règim duaner que comporti el naixement d’un deute duaner.
+c) El sol·licitant hagi venut les mercaderies després d’haver-se comprovat que són defectuoses o que no compleixen els termes del contracte.
+4. Les autoritats duaneres autoritzen, amb sol·licitud prèvia de l’interessat, que les mercaderies s’incloguin en el règim de perfeccionament actiu, fins i tot que es destrueixin, o en el règim de dipòsit duaner o de zona franca, en lloc que surtin del territori duaner del Principat d’Andorra.

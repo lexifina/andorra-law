@@ -1,0 +1,2 @@
+# Article 204. Mercaderies que s’hagin beneficiat de mesures establertes en virtut de la política agrícola
+No es concedeix l’exempció dels drets a la importació prevista per l’article 203 a les mercaderies que s’hagin beneficiat de mesures establertes en virtut de la política agrícola que impliquin l’exportació fora del territori duaner del Principat d’Andorra, llevat que es disposi el contrari en casos concrets.

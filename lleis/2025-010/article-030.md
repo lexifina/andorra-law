@@ -1,0 +1,2 @@
+# Article 30. Limitacions aplicables a les decisions relatives a la inclusió de mercaderies en un règim duaner o en dipòsit temporal
+Llevat que la persona afectada ho sol·liciti, la revocació, modificació o suspensió d’una decisió favorable no afecta les mercaderies que en el moment en què aquesta revocació, modificació o suspensió esdevingui efectiva hagin estat incloses i encara es trobin en un règim duaner o en dipòsit temporal en virtut de la decisió revocada, modificada o suspesa.

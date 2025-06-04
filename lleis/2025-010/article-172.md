@@ -1,0 +1,3 @@
+# Article 172. Admissió d’una declaració a la duana
+1. Les declaracions a la duana que compleixin les condicions establertes en aquest capítol han de ser admeses immediatament per les autoritats duaneres, sempre que les mercaderies a les quals es refereixin hagin estat presentades a la Duana.
+2. Llevat que hi hagi una disposició en contra, la data d’admissió de la declaració a la duana per les autoritats duaneres és la data que s’ha d’utilitzar per aplicar les disposicions que regulen el règim duaner per al qual es declarin les mercaderies i per a qualssevol altres formalitats d’importació o d’exportació.
