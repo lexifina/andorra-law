@@ -1,0 +1,6 @@
+## Capítol cinquè. Entitats gestores i dipositàries
+# Article 32. Entitats gestores dels actius
+1. La Comissió Gestora del Fons pot acordar que la inversió del patrimoni es porti a terme a través d’entitats gestores andorranes o estrangeres, regulades d’acord amb la legislació OCDE, andorrana o assimilable. En aquest cas, la gestió es duu a terme d’acord amb un mandat de gestió únic o específic per a cadascuna d’elles i la Comissió Gestora ha d’establir els percentatges de patrimoni per invertir a través d’una mateixa entitat gestora, amb l’objecte de garantir una diversificació correcta.
+2. El nombre d’entitats gestores ve determinat pel volum de patrimoni del Fons de Reserva en cada moment i els criteris o principis de gestió del Fons. S’estableix un màxim de patrimoni gestionat per una mateixa entitat d’un 25% del total del patrimoni del Fons de Reserva.
+3. La Comissió Gestora revisa anualment el compliment d’aquests criteris.
+4. Es consideren com una única entitat gestora, i per tant subjecta a aquests límits, les entitats gestores que formin part del mateix grup o que tinguin una participació superior al 25% en el seu accionariat, tant en el moment de l’entrada en vigor d’aquesta Llei com si es dona aquesta circumstància en el futur fruit d’operacions societàries.
