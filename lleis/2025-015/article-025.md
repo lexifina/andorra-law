@@ -1,0 +1,2 @@
+# Article 25. Número de dipòsit legal de les publicacions en línia
+Les publicacions en línia no són objecte d’assignació de número de dipòsit legal. En cap cas això no ha d’afectar els drets ni impedir el compliment de les obligacions de l’editor de sol·licitar el número ISBN o un altre identificador numèric estàndard acceptat pels organismes internacionals competents, quan calgui, mitjançant els procediments respectius.

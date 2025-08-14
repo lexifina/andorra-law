@@ -1,0 +1,5 @@
+# Article 26. Dipòsit de publicacions en línia d’accés restringit
+1. Al formulari de sol·licitud de dipòsit legal de publicacions en línia d’accés restringit, els subjectes obligats hi han de fer constar les dades del document electrònic accessible en línia, així com l’adreça i les instruccions d’accés dels recursos electrònics que es comuniquin en línia per Internet o qualsevol altra xarxa. Sempre que sigui possible, els subjectes obligats han d’aportar una còpia digital del material objecte de dipòsit.
+2. Per als documents electrònics per als quals es requereixi una clau d’accés, aquesta clau ha de constar en la sol·licitud del dipòsit legal.
+3. Els subjectes obligats han de notificar a la Biblioteca Nacional els canvis d’adreça i les instruccions d’accés dels documents electrònics, així com els canvis de les claus d’accés.
+4. Els subjectes obligats han de complir l’obligació consagrada en aquest apartat en un termini màxim de 30 dies naturals després de la data en què es publiqui la publicació en línia.

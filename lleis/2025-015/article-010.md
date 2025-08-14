@@ -1,0 +1,3 @@
+# Article 10. Anul·lació i pròrroga del número de dipòsit legal
+1. Si el material no es publica en un termini de dos mesos a comptar de la data de sol·licitud d’assignació de número de dipòsit legal, el sol·licitant ha de fer una nova sol·licitud per demanar una pròrroga o, en cas que no s’opti per la pròrroga, ha de comunicar-ne l’anul·lació a la Biblioteca Nacional. La pròrroga té una durada màxima de dos mesos més. Si dins d’aquest nou termini de pròrroga el material per al qual s’ha obtingut el número de dipòsit legal no s’ha publicat, aquest número queda automàticament anul·lat.
+2. Els números de dipòsit legal anul·lats no es poden atribuir a cap altre material objecte de dipòsit legal.

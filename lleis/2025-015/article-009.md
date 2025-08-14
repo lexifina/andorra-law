@@ -1,0 +1,5 @@
+# Article 9. Procediment de sol·licitud i d’obtenció del número de dipòsit legal
+1. El número de dipòsit legal s’ha de sol·licitar abans de finalitzar l’edició o la producció del material de què es tracti. En cas d’incompliment d’aquesta obligació, el material no es pot publicar.
+2. El subjecte obligat ha de presentar la sol·licitud d’assignació del número de dipòsit legal omplint el document de sol·licitud corresponent, presencialment a les oficines del servei de dipòsit legal situades a la Biblioteca Nacional, o mitjançant la seva seu electrònica.
+3. La Biblioteca Nacional ha de posar en marxa un servei en línia des del qual es pugui efectuar, entre altres funcions relatives al dipòsit legal, la sol·licitud d’assignació de número corresponent.
+4. La Biblioteca Nacional ha de lliurar o posar a disposició del subjecte obligat un duplicat del document de sol·licitud, signat i segellat pel servei de dipòsit legal, que identifiqui el número de dipòsit legal atorgat per al material respectiu.

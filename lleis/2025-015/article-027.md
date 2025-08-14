@@ -1,0 +1,2 @@
+# Article 27. Procediment de gestió del dipòsit legal de les publicacions en línia
+El procediment de gestió i constitució del dipòsit legal de les publicacions en línia, les condicions en les quals els subjectes obligats han de permetre i fer el dipòsit legal, i altres qüestions que es puguin suscitar en relació amb el dipòsit legal de publicacions en línia, incloses les que s’indiquen als articles anteriors d’aquest capítol, són objecte d’un desplegament reglamentari.
