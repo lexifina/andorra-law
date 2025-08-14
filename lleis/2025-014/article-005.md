@@ -1,0 +1,3 @@
+# Article 5. Modificació de l’article 139
+S’addiciona l’apartat 4 bis a l’article 139 del text vigent de la Llei general d’ordenació del territori i urbanisme, del 29 de desembre del 2000, que queda redactat de la manera següent:
+“4 bis. No obstant això, quan es tracta d’autoritzar una instal·lació o un canvi d’ús permesos en règim permanent en aplicació dels apartats 4 i 5 de l’article 51, el retard de més de dos (2) mesos en el lliurament dels informes preceptius per part dels ministeris competents en la matèria o el silenci del comú de tres (3) mesos comptats des de la presentació de la sol·licitud en pressuposen la denegació tàcita.”

@@ -1,0 +1,2 @@
+# Disposició transitòria única. Modificació del règim provisional aplicable a les instal·lacions d’activitats forestal i agropecuàries en sòl no urbanitzable
+Les instal·lacions pròpies de les activitats forestal i agropecuàries radicades en sòl no urbanitzable i actualment autoritzades en règim provisional poden obtenir la modificació de la seva autorització al règim d’obres i actuacions permanents, sempre que acreditin que compleixen les condicions i els requisits de l’article 51 que els resultin aplicables.
