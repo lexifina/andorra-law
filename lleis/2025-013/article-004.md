@@ -1,0 +1,3 @@
+# Article 4. Titulació i integració
+El Col·legi Oficial de Veterinaris del Principat d’Andorra (COVA) agrupa els professionals que disposen d’una titulació oficial d’ensenyament superior del nivell 7 del Marc andorrà de qualificacions (MAQ) en l’àmbit de la veterinària, degudament reconeguda al Principat d’Andorra, i tots els professionals que en el moment de la publicació dels estatuts del Col·legi disposen de l’autorització administrativa pertinent per exercir la professió.
+La integració s’ha de fer d’acord amb el que disposen els estatuts del Col·legi i les normes reguladores dels col·legis professionals.

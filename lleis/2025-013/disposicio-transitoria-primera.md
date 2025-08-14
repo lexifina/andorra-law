@@ -1,0 +1,2 @@
+# Disposició transitòria primera. Assemblea constituent
+Els membres de l’òrgan de govern del Col·legi Oficial de Veterinaris del Principat d’Andorra (COVA), en el termini de sis mesos des de l’entrada en vigor d’aquesta Llei, han de convocar una assemblea general extraordinària, que tindrà el caràcter d’assemblea constituent del COVA. Aquesta assemblea ha d’aprovar els estatuts definitius del Col·legi i ha d’escollir les persones que ocuparan els càrrecs corresponents en els òrgans de govern de la institució.

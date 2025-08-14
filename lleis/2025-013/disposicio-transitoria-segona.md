@@ -1,0 +1,2 @@
+# Disposició transitòria segona. Aprovació i registre dels estatuts
+Els estatuts definitius, una vegada aprovats, juntament amb el certificat de l’acta de l’assemblea constituent, s’han de remetre al Registre de Professionals Titulats, Col·legis i Associacions Professionals, als efectes escaients.
