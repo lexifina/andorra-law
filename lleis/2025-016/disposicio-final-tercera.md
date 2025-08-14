@@ -1,0 +1,2 @@
+# Disposició final tercera. Entrada en vigor
+Aquesta Llei entrarà en vigor l’endemà de ser publicada al Butlletí Oficial del Principat d’Andorra, tret de l’article 6.4 de la Llei 9/2007, del 17 de maig, del cens modificat per l’article 3 d’aquesta llei, que entrarà en vigor tan aviat com els comuns disposin de l’eina informàtica d’interoperativitat que permeti la realització del tràmit de modificació de la parròquia de residència amb una única gestió.
