@@ -1,0 +1,3 @@
+# Article 15. Entitats religioses no inscrites
+1. Tots els membres d’una entitat religiosa no inscrita al Registre són responsables solidaris, juntament amb la mateixa entitat, de les actuacions efectuades en nom seu i de les obligacions contretes davant de tercers per l’entitat, sense perjudici del dret a repetir contra qui hagi actuat en nom de l’associació o el responsable immediat i directe de l’acte o fet que generi aquesta responsabilitat.
+2. Els qui promoguin una entitat religiosa responen personalment i solidàriament de les actuacions encaminades a la seva constitució i inscripció registral. Aquesta responsabilitat és assumida per l’entitat en el moment de la inscripció en el Registre, llevat que l’acta de constitució o els estatuts disposin altrament.

@@ -1,0 +1,2 @@
+# Article 12. Tractament de les dades personals
+El tractament i l’arxivament de les dades personals del Registre s’ha d’ajustar al que estableix la normativa vigent en matèria de protecció de dades personals. D’acord amb l’article 9.2 de la Llei 29/2021, del 28 d’octubre, qualificada de protecció de dades personals, atès l’interès públic essencial d’aquesta norma, no s’exigeix el consentiment explícit de les persones que formin part dels òrgans representatius i de govern de la religió inscrita en relació amb les dades personals que constin en el Registre.

@@ -1,0 +1,3 @@
+# Disposició final tercera. Desenvolupament reglamentari i consolidació de la legislació vigent
+1. S’encomana al Govern que el termini màxim de sis mesos desenvolupi reglamentàriament aquesta Llei.
+2. S’encomana al Govern, en els termes previstos a l’article 116 del Reglament del Consell General, que en el termini màxim de sis mesos des de la publicació d’aquesta Llei al Butlletí Oficial del Principat d’Andorra presenti al Consell General el projecte de consolidació de la Llei 9/2012, del 31 de maig de modificació de la Llei qualificada d’immigració i de la Llei 13/2018, del 31 de maig, del Tribunal d’Arbitratge del Principat d’Andorra, amb la incorporació de totes les modificacions que s’hi han produït.

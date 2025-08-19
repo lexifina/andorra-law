@@ -1,0 +1,7 @@
+# Article 8. Publicitat del Registre
+1. El Registre d’entitats religioses és públic i la ciutadania té dret a accedir-hi en els termes establerts a la normativa vigent.
+2. Les persones interessades poden fer la consulta a través de la seu electrònica del ministeri competent en matèria de justícia o per escrit dirigit al Registre d’entitats religioses en què hauran d’especificar els documents concrets a què es pretengui consultar, sempre que corresponguin a procediments acabats en la data de la sol·licitud.
+3. No s’admet, excepte per a la seva consideració amb caràcter potestatiu, la sol·licitud de consulta genèrica dels expedients que, en tot cas, s’ajustarà al que disposa la normativa sobre protecció de dades de caràcter personal.
+4. La publicitat formal del Registre s’efectua mitjançant certificacions o còpies del contingut dels assentaments, en la forma establerta a la normativa vigent que s’ajustarà, en tot cas, als requisits establerts en matèria de protecció de dades de caràcter personal.
+5. En el trasllat de les certificacions o còpies dels assentaments a què es refereixen els articles següents es farà constar a les persones destinatàries la prohibició de crear fitxers amb la finalitat exclusiva d’emmagatzemar dades de caràcter personal que revelin la religió o creences, en els termes previstos a la Llei 29/ 2021, del 28 d’octubre, qualificada de protecció de dades personals.
+6. El procediment relatiu a les certificacions, les còpies dels assentaments i a la seva obtenció es definirà reglamentàriament.
