@@ -1,0 +1,3 @@
+# Article 28. Concepte de lesions i danys
+1. A l’efecte d’aquest capítol, són lesions greus les que menyscaben la integritat corporal o la salut física o psicològica de la persona i que incapaciten amb caràcter temporal o permanent la persona que les ha patit.
+2. Les lesions corporals o els danys a la salut física o mental han de tenir entitat suficient per suposar un grau de menyscabament de, com a mínim, el 33%, en el cas de la incapacitat permanent, o una situació d’incapacitat temporal superior a tres mesos, en funció de la valoració efectuada en el marc del procediment penal seguit i que hagi servit de base per a la determinació de l’import de la indemnització a càrrec de l’autor del delicte.

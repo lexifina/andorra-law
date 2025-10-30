@@ -1,0 +1,3 @@
+# Disposició addicional segona. Terminologia i referències
+1. El terme “eradicació” contingut al cos de la Llei 1/2015, del 15 de gener, per l’eradicació de la violència de gènere i de la violència domèstica s’ha de substituir pel terme “erradicació”.
+2. Les referències al ministeri en matèria de salut i benestar social contingudes a la Llei 1/2015, del 15 de gener, per l’eradicació de la violència de gènere i de la violència domèstica, s’han d’entendre fetes al ministeri competent en matèria de serveis socials, excepte pel que respecta a la referència continguda a l’apartat 2 de l’article 20, que s’ha d’entendre efectuada al ministeri competent en matèria d’igualtat o, si no n’hi ha, a la secretaria d’Estat en matèria d’igualtat.

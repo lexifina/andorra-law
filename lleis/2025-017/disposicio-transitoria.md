@@ -1,0 +1,2 @@
+# Disposició transitòria. Sol·licitud de les prestacions previstes al capítol cinquè
+Les prestacions previstes al capítol cinquè són aplicables en relació amb les resolucions penals recaigudes a partir del 12 de febrer del 2015, inclòs, sempre que la sol·licitud corresponent es presenti dins el termini màxim de dos anys comptats des de l’entrada en vigor de la present llei de modificació de la Llei 1/2015, del 15 de gener, per l’eradicació de la violència de gènere i de la violència domèstica.
