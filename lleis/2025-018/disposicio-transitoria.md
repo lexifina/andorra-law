@@ -1,0 +1,3 @@
+# Disposició transitòria. Suspensió temporal d’atorgament de llicències
+1. S’estableix una moratòria transitòria d’atorgament de llicències per operar amb mercaderies sensibles per a les persones físiques o jurídiques que en sol·licitin per operar al nucli urbà del Pas de la Casa, que queda exclòs de la franja duanera i definit a l’annex 2, de la Llei 10/2025, del 13 de maig, del Codi de Duana. Aquesta disposició s’aplica a les sol·licituds de llicència per operar amb mercaderies sensibles presentades a comptar del 28 d’octubre del 2025.
+2. El Govern pot acordar l’aixecament d’aquesta moratòria quan les circumstàncies ho permetin.
