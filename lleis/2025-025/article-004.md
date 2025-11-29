@@ -1,0 +1,9 @@
+# Article 4. Modificació de l’article 9
+Es modifica l’article 9 de la Llei 39/2022, de l’1 de desembre, reguladora de les professions titulades de la salut, que queda redactat com segueix:
+“Article 9. Condicions d’exercici
+1. L’exercici de les professions de la salut està sotmès a la legalitat vigent en cada moment, així com al compliment de les normes col·legials, amb una incidència especial en l’ètica i la deontologia pròpies de cada professió.
+2. L’exercici d’una professió titulada de la salut implica respectar els deures previstos a l’article 6.
+3. L’exercici de curta durada únicament es pot efectuar amb el compliment previ dels requisits previstos per la Llei d’exercici de professions titulades i de col·legis i associacions professionals i en les condicions que s’hi preveuen.
+4. Els professionals de la medicina que desitgin exercir en la modalitat de curta durada, a més de complir el que estableix l’apartat 3 d’aquest article, estan subjectes també als requisits següents:
+a) Els professionals que vulguin exercir sense conveni amb la Caixa Andorrana de Seguretat Social (CASS) i sense cap relació amb el sistema sanitari públic poden treballar un màxim de trenta (30) dies per any natural.
+b) Els professionals que vulguin exercir amb conveni amb la CASS, desenvolupar la seva activitat al Servei Andorrà d’Atenció Sanitària (SAAS) o bé treballar en virtut d’un conveni subscrit entre el SAAS i una institució sanitària estrangera poden exercir un màxim de noranta (90) dies per any natural, en el cas que es compleixi el que estableix l’article 8, apartat 1.b), en relació amb els coneixements de català. En cas que no compleixin aquestes condicions, es pot autoritzar el seu exercici en els supòsits excepcionals i les condicions que preveu la disposició addicional quarta d’aquesta Llei.”

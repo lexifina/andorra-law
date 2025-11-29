@@ -1,0 +1,6 @@
+# Article 8. Modificació de l’article 66
+Es modifica l’article 66 de la Llei 39/2022, de l’1 de desembre, reguladora de les professions titulades de la salut, que queda redactat com segueix:
+“Article 66. Requisits de titulació per exercir la professió de metge
+1. Per accedir a l’exercici de la professió, els metges han d’estar en possessió d’una titulació d’ensenyament superior, com a mínim, del nivell 7 del Marc andorrà de qualificacions (MAQ) en l’àmbit de la medicina o complir els requisits de l’article 8.3.
+2. Per accedir a l’exercici de la professió de metge especialista, a més de complir els requisits establerts en aquesta Llei, cal estar en possessió d’una titulació en l’especialitat mèdica corresponent obtinguda, reconeguda o homologada en un estat membre de la Unió Europea o de l’Associació Europea de Lliure Comerç que doni dret a l’exercici de la professió de metge especialista en l’estat que l’ha emès o acordat.
+3. En cas que la titulació d’especialista no compleixi els requisits establerts a l’apartat anterior, cal iniciar el procediment nacional per dur a terme el reconeixement professional del candidat que té en compte la titulació d’especialista, així com l’experiència i altres aspectes del perfil del candidat segons el que es determini per via reglamentària.”

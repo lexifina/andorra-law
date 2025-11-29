@@ -1,0 +1,4 @@
+# Article 15. Addició de la disposició transitòria quarta
+S’addiciona la disposició transitòria quarta a la Llei 39/2022, de l’1 de desembre, reguladora de les professions titulades de la salut, que queda redactada com segueix:
+“Disposició transitòria quarta. Professionals de la salut del Servei Andorrà d’Atenció Sanitària
+Els professionals sanitaris que exerceixen al Servei Andorrà d’Atenció Sanitària (SAAS) per compte aliè, que estan inscrits al Registre de professionals sanitaris (RPS) i al col·legi professional corresponent, en cas d’existir, però que no disposen de l’autorització d’exercici professional, han de sol·licitar l’autorització referida, en règim d’exercent per compte aliè, en el termini màxim de dos (2) anys a comptar de l’entrada en vigor d’aquesta Llei. A aquest efecte, han de presentar la sol·licitud de professió titulada acompanyada d’un certificat que acrediti la seva inscripció prop del col·legi professional”.

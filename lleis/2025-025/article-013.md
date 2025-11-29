@@ -1,0 +1,6 @@
+# Article 13. Addició de la disposició addicional sisena
+S’addiciona la disposició addicional sisena a la Llei 39/2022, de l’1 de desembre, reguladora de les professions titulades de la salut, que queda redactada com segueix:
+“Disposició addicional sisena. Exercici en l’àmbit de la docència amb activitat assistencial
+Els professionals de la salut que desitgin exercir la seva professió en l’àmbit de la docència amb activitat assistencial en la modalitat de curta durada han de sol·licitar un permís de professió titulada per un període màxim de noranta (90) dies per any natural i estan subjectes als requisits previstos per la Llei d’exercici de professions titulades i de col·legis i associacions professionals. En qualsevol cas, han de complir els requisits establerts en relació amb els nivells de titulació i immigració i col·legiar-se.
+Les mateixes condicions s’apliquen als professionals sanitaris que cursen aquesta formació de postgrau i que han de dur a terme activitat de pràctiques assistencials.
+Mentre està vigent aquest permís d’exercici en l’àmbit de la docència amb activitat assistencial, ni els professionals sanitaris estudiants ni els docents no poden disposar de cap altre permís que els permeti l’exercici al Principat.”
