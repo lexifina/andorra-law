@@ -1,0 +1,5 @@
+# Article 23. Obligacions dels proveïdors de servei de transport públic
+1. Els proveïdors de servei de transport públic regular urbà i interurbà de viatgers han de garantir l’accessibilitat en tots els espais i els elements que integren els mitjans de transport, incloent-hi els sistemes d’accés com rampes, espais reservats, i sistemes d’informació i de comunicació amb les persones usuàries, i també dels productes i els serveis d’ús públic que s’ofereixen en aquests espais. Tots aquests elements han d’estar sempre disponibles i en bon ús.
+2. Els proveïdors del servei de transport públic de viatgers han de formar el seu personal en la correcta utilització dels productes o mitjans de suport.
+3. Els proveïdors del servei de transport públic de viatgers han d’elaborar un pla d’accessibilitat, en els termes previstos a l’article 36 en relació amb els vehicles i els equipaments existents.
+4. Els nous vehicles de transport públic de viatgers han d’incorporar sistemes d’accés, senyalització i informació alternativa per a tot tipus de persones usuàries i han de reservar diversos seients o espais prioritaris per a l’accés a persones amb mobilitat reduïda.

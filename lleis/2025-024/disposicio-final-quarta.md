@@ -1,0 +1,6 @@
+# Disposició final quarta. Modificació de la Llei 15/2022, del 23 de maig, de text consolidat d’arrendaments de finques urbanes
+Es modifica l’article 46 de la Llei 15/2022, del 23 de maig, de text consolidat d’arrendaments de finques urbanes, que queda redactat de la manera següent:
+“Article 46
+[…]
+3. Si la persona arrendatària, el seu cònjuge o un dels familiars de la unitat familiar de convivència és una persona amb discapacitat, pot sol·licitar a la propietat que demani a la comunitat de propietaris la realització de les obres necessàries per dotar els espais comuns de les condicions adequades d’accessibilitat, d’acord amb la normativa aplicable i sempre que no suposin una càrrega desproporcionada. La comunitat de propietaris ha de respondre motivadament a la petició en un termini màxim de 60 dies. Mentrestant, es poden utilitzar mitjans provisionals que li permetin l’accessibilitat en condicions de seguretat i dignitat a l’habitatge sense afectar-ne l’estructura. Aquests mitjans són provisionals i no poden excedir els vuit mesos, llevat que les obres hagin estat autoritzades i estiguin en procés d’execució.
+4. En cas de discrepància o de negativa no motivada per la comunitat, les persones concernides poden demanar un informe a la Comissió per al Foment de l’Accessibilitat a què fa referència la normativa vigent en matèria d’accessibilitat.”

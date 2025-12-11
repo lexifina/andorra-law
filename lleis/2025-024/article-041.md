@@ -1,0 +1,4 @@
+# Article 41. Ajuts a les actuacions de promoció de l’accessibilitat
+1. El Govern pot finançar la supressió de barreres arquitectòniques i de la comunicació; l’adquisició i l’adaptació dels vehicles destinats a les persones amb mobilitat reduïda; l’adquisició de productes de suport, i les despeses de millora de l’espai o establiment, d’acord amb el que està previst a la normativa vigent.
+2. Les administracions públiques han de destinar partides de cada exercici pressupostari a actuacions de promoció de l’accessibilitat i de supressió de barreres a l’accessibilitat, en llurs àmbits de competència.
+3. El Govern ha d’aprovar un programa d’incentius i ajuts per col·laborar en el finançament de les actuacions que es desprenguin dels plans d’accessibilitat en els termes que s’estableixin per reglament.

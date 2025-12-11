@@ -1,0 +1,2 @@
+# Article 2. Objecte
+Aquesta Llei té com a objecte garantir l’accessibilitat a l’entorn físic, els transports, la informació i les comunicacions, incloent-hi els sistemes i les tecnologies de la informació i la comunicació, els serveis i les instal·lacions públics o d’ús públic i els productes, a totes les persones perquè puguin viure d’una manera independent i participar plenament en tots els aspectes de la vida.

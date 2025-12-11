@@ -1,0 +1,2 @@
+# Article 18. Informació, senyalització i seguretat en cas d’incendi o d’una altra necessitat d’evacuació dels edificis
+El Govern ha de definir per via reglamentària les característiques que han de reunir els edificis d’habitatges, edificis i locals d’ús públic de nova construcció i existents, en relació amb la informació, la senyalització i la seguretat en cas d’incendi, sinistre o d’una altra necessitat d’evacuació, quan sigui aplicable la normativa sectorial corresponent.

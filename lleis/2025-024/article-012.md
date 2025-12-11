@@ -1,0 +1,5 @@
+## Secció tercera. Accessibilitat a l’entorn edificat
+# Article 12. Condicions d’accessibilitat dels edificis i locals d’ús públic de nova construcció
+1. Els edificis i locals d’ús públic de nova construcció, ja siguin de titularitat pública o privada i independentment de l’ús al qual es destinin, han de complir les condicions d’accessibilitat establertes en aquesta Llei i en els reglaments que la desenvolupin.
+2. Aquestes condicions d’accessibilitat s’apliquen a tots els entorns, àmbits, espais i als seus elements o parts funcionals, i s’ha de garantir que siguin accessibles, usables i comprensibles per a totes les persones, amb independència de les seves capacitats físiques, sensorials o cognitives, i en compliment del principi del disseny universal.
+3. Els complexos formats per un conjunt d’edificis i locals d’ús públic connectats entre si han de tenir itineraris accessibles per a vianants, a l’efecte que totes les persones puguin desplaçar-se entre els edificis i connectar amb les zones d’ús públic i amb la via pública.

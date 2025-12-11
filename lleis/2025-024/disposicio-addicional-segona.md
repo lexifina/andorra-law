@@ -1,0 +1,2 @@
+# Disposició addicional segona. Encomana per publicar un nou sistema d’ajuts, subvencions i incentius fiscals
+S’encomana al Govern que, de forma simultània a l’aprovació de la modificació del Reglament d’accessibilitat, publiqui un nou sistema d’ajuts, subvencions i incentius fiscals adreçats a aquelles empreses que hagin d’adaptar les seves infraestructures, productes o serveis a les exigències d’accessibilitat. Aquest sistema ha d’incloure, com a mínim, un règim de desgravacions fiscals per a les inversions en accessibilitat i línies de finançament preferencial.

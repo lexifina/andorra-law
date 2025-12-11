@@ -1,0 +1,2 @@
+# Article 29. Accessibilitat en la comunicació en la relació amb les administracions públiques i amb els proveïdors de serveis públics
+Els poders públics i els proveïdors de serveis públics han de garantir el dret a l’ús dels mitjans de suport a la comunicació en l’accés als serveis públics en condicions d’igualtat. S’han d’incorporar, progressivament, a les tecnologies de la informació i la comunicació que s’empren, els avenços i els sistemes nous que afavoreixen l’accessibilitat en la comunicació.

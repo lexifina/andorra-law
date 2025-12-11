@@ -1,0 +1,2 @@
+# Article 42. Informació i assessorament
+El Govern, mitjançant el servei d’assessorament i subministrament de productes de suport, ha de facilitar a totes les persones i als agents socials l’assessorament gratuït i la informació sobre l’àmbit de l’accessibilitat i sobre la utilització de mitjans de suport i llur adequació a les necessitats específiques, en els termes previstos a la normativa vigent en matèria de serveis i sociosanitaris.

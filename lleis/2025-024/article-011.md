@@ -1,0 +1,4 @@
+# Article 11. Elements d’urbanització i mobiliari urbà
+1. Els elements d’urbanització i el mobiliari urbà, incloent bancs, papereres, fonts, semàfors i senyalització, ubicats en àrees d’ús públic han de ser dissenyats, instal·lats i mantinguts de manera que garanteixin l’accessibilitat universal, tenint en compte les necessitats de totes les persones, de manera que no suposi un obstacle i sigui utilitzable per tothom.
+2. S’han d’evitar obstacles o elements que dificultin la mobilitat o la seguretat, assegurant superfícies contínues, zones de pas lliures, espais de maniobra suficients i una senyalització clara i comprensible. Així mateix, s’han de prioritzar materials i acabats que assegurin la percepció tàctil, visual i acústica.
+3. El Govern ha d’establir reglamentàriament les característiques dels elements i el mobiliari per ser accessibles i comprensibles.

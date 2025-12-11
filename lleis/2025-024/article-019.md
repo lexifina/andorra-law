@@ -1,0 +1,3 @@
+## Secció quarta. Tramitacions i procediments administratius
+# Article 19. Llicències d’obres
+Per obtenir la llicència d’obres majors, la persona sol·licitant ha d’aportar una memòria d’accessibilitat. Per a les obres menors en locals d’ús públic i en zones comunes d’edificis, en el supòsit que aquests locals o zones estiguin subjectes a donar compliment a les condicions d’accessibilitat establertes, s’ha de presentar la memòria d’accessibilitat, que ha de tenir en consideració les exigències específiques que es determinin reglamentàriament, i com a mínim, els aspectes físics, els sorolls, la il·luminació i els sistemes de comunicació universals i, si escau, els ajustos raonables de conformitat amb l’article 5.g).

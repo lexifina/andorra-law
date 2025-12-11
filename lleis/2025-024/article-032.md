@@ -1,0 +1,7 @@
+# Article 32. Condicions d’accessibilitat dels serveis d’ús públic
+1. Els serveis d’ús públic, tant de caràcter presencial com en línia, han de complir les condicions d’accessibilitat previstes reglamentàriament per garantir que totes les persones, amb independència de les seves capacitats, puguin accedir-hi i utilitzar-los de manera autònoma i segura.
+2. Els proveïdors d’aquests serveis han d’adoptar mesures específiques per assegurar l’accessibilitat en la informació, l’atenció i la prestació dels serveis, seguint els principis del disseny universal i d’ajustos raonables.
+3. El compliment d’aquestes condicions d’accessibilitat es verifica durant els processos d’autorització, inspecció i seguiment, segons el que estableixi la normativa vigent.
+4. Els proveïdors de serveis d’ús públic que, per la naturalesa o les característiques de la seva activitat, estiguin obligats a disposar d’una proporció de places, unitats o elements accessibles han de garantir que aquestes places, unitats o elements compleixin els requisits d’accessibilitat establerts per la normativa vigent.
+5. Els proveïdors de serveis d’ús públic existents han d’elaborar el pla d’accessibilitat d’acord amb el que disposa l’article 36.
+6. Els establiments i els serveis d’ús públic que siguin determinats per reglament han de tenir a disposició del públic i dels organismes inspectors un document que informi de les condicions d’accessibilitat de què disposen. S’han d’establir per reglament el contingut, les característiques i la tramitació d’aquest document.

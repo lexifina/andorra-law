@@ -1,0 +1,5 @@
+# Article 30. Persones de suport de la comunicació o de la interacció
+1. En l’àmbit judicial i policial, les persones que presentin dificultats en la interacció o la comunicació funcional tenen dret al suport d’alguna persona del seu cercle de confiança que les ajudi a expressar-los les seves idees.
+2. Aquest dret se’ls ofereix, de manera clara, expressa i entenedora, al començament del procediment, sigui policial o judicial. La persona interessada és la que designa qui li ha d’oferir el suport i pot fer-ho en qualsevol moment del procés, llevat que s’acrediti conflicte d’interessos o influències inadequades en contra del seu interès superior.
+3. La persona designada com a persona de suport de la comunicació o de la interacció pot ser present a totes les diligències policials i judicials i intervenir sempre que calgui, per tal de cooperar en la millor entesa d’allò que la persona interessada vulgui expressar.
+4. Intervé, de manera explícita, durant els interrogatoris i les confessions, entre altres actuacions en què calgui el seu suport.

@@ -1,0 +1,5 @@
+# Disposició final setena. Modificació de la Llei 9/2022, del 7 d’abril, del procediment contenciós administratiu
+S’incorpora la disposició addicional quarta a la Llei 9/2022, del 7 d’abril, del procediment contenciós administratiu, amb el contingut següent:
+“Disposició addicional quarta. Adaptació a la Llei d’accessibilitat universal
+En les fases de qualsevol mena d’actuació o procediment davant qualsevol batlle o tribunal en el marc de la jurisdicció administrativa en què intervinguin persones amb una discapacitat que dificulti la interacció i la comunicació d’acord amb l’article 30 de la Llei d’accessibilitat universal i que no disposin de les mesures de suport necessàries per a l’exercici de la seva capacitat en els termes establerts a la Llei 30/2022, del 21 de juliol, qualificada de la persona i de la família en el marc d’aquestes actuacions, cal que els sigui garantit el suport d’una tercera persona en els termes establerts a l’article esmentat.
+En qualsevol cas aquest dret ha de ser ofert de manera prèvia a l’actuació pel responsable d’aquesta, que ha de fer constar fefaentment l’oferiment, i si escau, la designació, la renúncia i la intervenció.”
