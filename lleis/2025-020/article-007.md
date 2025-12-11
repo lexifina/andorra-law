@@ -1,0 +1,2 @@
+# Article 7. Reconeixement professional
+Tant els títols no oficials que habilitin per a l’exercici de la professió en l’àmbit de les activitats de muntanya i que no hagin estat emesos per l’Estat andorrà com l’experiència professional acreditada en la matèria poden ser objecte del corresponent reconeixement o validació, segons correspongui, de conformitat amb el que disposa la normativa en cada moment vigent en matèria d’esport.

@@ -1,0 +1,3 @@
+# Article 34. Acta d’inspecció
+1. A cada visita d’inspecció, els inspectors en la matèria han d’aixecar acta sobre els fets i els resultats que corresponguin. Hi han de fer constar les circumstàncies personals del professional inspeccionat i les seves observacions, la identificació de l’inspector actuant, la data i l’hora de la visita, les dades relatives als fets que, si escau, serveixin de base per al procediment sancionador corresponent i qualsevol altra circumstància que pugui ser rellevant.
+2. L’acta l’ha de signar l’inspector actuant i l’inspeccionat. La signatura de l’acta té efecte de notificació però no d’acceptació del seu contingut. Si la persona inspeccionada es nega a signar, l’inspector ha de fer constar aquest fet en l’acta corresponent.

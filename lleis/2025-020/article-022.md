@@ -1,0 +1,3 @@
+# Article 22. Prescripció de les infraccions
+1. El termini de prescripció de les infraccions és de dos anys per a les molt greus, un any per a les greus i sis mesos per a les lleus, a comptar de la data de comissió de la infracció o des del seu coneixement formal per part de l’autoritat competent. Si la infracció és continuada, el termini de la prescripció és a comptar de la data en què es comet la darrera acció constitutiva d’infracció.
+2. És causa d’interrupció de la prescripció l’inici, amb coneixement de l’interessat, del procediment sancionador. La interrupció deixa de tenir efecte si l’expedient sancionador ha estat aturat durant un mes per causa no imputable al presumpte infractor.

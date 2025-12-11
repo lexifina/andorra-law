@@ -1,0 +1,2 @@
+# Disposició addicional segona. Formacions per a les actualitzacions de competències
+L’Escola de Formació de Professions Esportives i de Muntanya (EFPEM) i el ministeri competent en matèria d’educació han d’oferir, de manera periòdica, l’oferta de les formacions necessàries perquè els professionals autoritzats com a guies de muntanya puguin actualitzar les seves competències professionals, de conformitat amb l’article 4.1.d).

@@ -1,0 +1,2 @@
+# Disposició transitòria segona. Titulació necessària per a l’exercici de la professió per compte propi
+Per a exercir la professió per compte propi, s’ha d’acreditar la possessió, directament o indirectament per mitjà d’una persona assalariada, d’una titulació de nivell 2 o equivalent en l’àmbit del muntanyisme, en el termini màxim de tres anys a comptar de l’entrada en vigor de la Llei. Transcorregut aquest termini sense que s’hagi obtingut la dita titulació i la conseqüent inscripció, l’autorització en el seu moment concedida s’entendrà automàticament revocada.

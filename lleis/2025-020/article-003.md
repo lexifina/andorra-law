@@ -1,0 +1,6 @@
+## Capítol segon. Exercici de la professió de guia de muntanya
+# Article 3. Exercici professional
+1. L’exercici de la professió de guia de muntanya es pot dur a terme per compte propi o per compte aliè.
+2. Per a exercir la professió per compte propi, cal disposar de la preceptiva autorització de comerç, per a l’obtenció de la qual és imprescindible acreditar la possessió, directament o indirectament per mitjà d’una persona assalariada, d’una titulació de nivell N2 o equivalent en l’àmbit del muntanyisme, com a mínim, sense perjudici de disposar de la titulació en altres disciplines més concretes descrites en l’article 2.1, en el cas que es vulguin exercir, així com estar degudament autoritzat per l’autoritat competent per a exercir la professió de guia de muntanya al Principat d’Andorra.
+3. Per a exercir la professió per compte aliè, la persona assalariada ha de posseir una titulació de nivell N1 o equivalent, com a mínim, i estar degudament autoritzada per a exercir la professió de guia de muntanya al Principat d’Andorra.
+4. La prestació del servei ha de ser efectuada, sempre i en tot cas, per un o diversos professionals degudament autoritzats i inscrits al Registre de guies de muntanya, de conformitat amb el que disposa aquesta Llei.
