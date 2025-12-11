@@ -1,0 +1,2 @@
+# Disposició transitòria. Normes aplicables als processos de selecció iniciats abans de l’entrada en vigor d’aquesta Llei
+Els processos de selecció de personal del Cos de Policia, del Cos Penitenciari, del Cos de Prevenció i Extinció d’Incendis i Salvaments, del Cos de Duana, del Cos de Banders, del Cos d’Educació, del Cos especial de la carrera diplomàtica i del personal de l’Administració de Justícia iniciats abans de l’entrada en vigor d’aquesta Llei, es continuen tramitant de conformitat amb la normativa vigent abans de la data esmentada.
