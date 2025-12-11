@@ -1,0 +1,7 @@
+# Article 18. Modificació de l’article 49 de la Llei 37/2018, del 20 de desembre, de l’esport del Principat d’Andorra
+Es modifica l’article 49 de la Llei 37/2018, del 20 de desembre, de l’esport del Principat d’Andorra, que queda redactat de la manera següent:
+“Article 49. Esportistes menors i esport de base
+1. Els poders públics i les federacions esportives han d’articular, dins la seva planificació esportiva, mesures per incentivar que totes les entitats esportives fomentin l’esport de base, especialment en aquelles seccions esportives en què un dels sexes estigui infrarepresentat, i evitin qualsevol actuació que constitueixi una explotació d’aquest nivell esportiu.
+2. Les entitats esportives i, en particular, les SAOE, en virtut del conveni amb el club esportiu corresponent, segons previst a l’article 32, han de promoure i incentivar el desenvolupament de l’esport de base.
+3. Les federacions esportives, els clubs esportius, les agrupacions esportives i les seccions d’acció esportiva han d’implementar els mecanismes per prevenir i detectar situacions que puguin afectar la protecció dels infants i adolescents en l’àmbit esportiu i han de nomenar el delegat de protecció segons es prevegi en el protocol que aprovi el Govern en la matèria. Les SAOE han de vetllar perquè el club esportiu corresponent compleixi amb aquestes obligacions.
+4. No poden exigir-se drets de retenció, de pròrroga, de formació, de compensació o anàlegs sobre les persones esportistes menors de setze anys, entre entitats radicades al Principat d’Andorra.”

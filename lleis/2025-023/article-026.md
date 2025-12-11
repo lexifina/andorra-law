@@ -1,0 +1,5 @@
+# Article 26. Modificació de l’article 68 de la Llei 37/2018, del 20 de desembre, de l’esport del Principat d’Andorra
+Es modifica l’article 68 de la Llei 37/2018, del 20 de desembre, de l’esport del Principat d’Andorra, que queda redactat de la manera següent:
+“Article 68. Agència Andorrana Antidopatge (AGAD) i lluita contra el dopatge
+1. De conformitat amb la seva llei de creació, l’Agència Andorrana Antidopatge és l’organització antidopatge independent del Principat d’Andorra amb autoritat i competència per actuar en matèria antidopatge d’acord amb el Codi mundial antidopatge dins el marc de l’ordenament jurídic andorrà.
+2. La lluita contra el dopatge, de conformitat amb els compromisos internacionals assumits pel Principat d’Andorra, té per finalitat garantir el desenvolupament de la pràctica de l’esport i de les competicions esportives en condicions d’igualtat i d’adaptació a les capacitats naturals pròpies de les persones esportistes, evitant qualsevol adulteració mitjançant la utilització de substàncies i mètodes prohibits, en els termes establerts tant per la normativa internacional com per la normativa nacional.”

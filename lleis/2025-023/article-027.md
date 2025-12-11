@@ -1,0 +1,6 @@
+# Article 27. Modificació de l’article 74 de la Llei 37/2018, del 20 de desembre, de l’esport del Principat d’Andorra
+Es modifica l’article 74 de la Llei 37/2018, del 20 de desembre, de l’esport del Principat d’Andorra, que queda redactat de la manera següent:
+“Article 74. Tractament de les dades i cessió de dades
+1. L’Agència Andorrana Antidopatge pot procedir al tractament de les dades de què disposi i fer servir el sistema de gestió i administració antidopatge de l’Agència Mundial Antidopatge dins el respecte de la legislació sobre protecció de dades personals d’Andorra aplicable al Principat d’Andorra.
+2. Les dades relatives als controls de dopatge poden ser cedides, en els termes establerts en la Llei qualificada de protecció de dades, als organismes internacionals públics o privats que participin en la lluita contra el dopatge en l’àmbit esportiu, en el marc del que disposin els compromisos internacionals legalment vinculants.
+3. Les dades també poden ser cedides per efectuar estadístiques o estudis d’investigació. La cessió de dades relatives a controls de dopatge amb fins estadístics o d’investigació científica només pot fer-se quan sigui proporcional a l’objectiu perseguit, respecti en l’essencial el dret a la protecció de dades i es protegeixin suficientment els interessos i drets fonamentals de la persona interessada.”

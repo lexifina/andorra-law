@@ -1,0 +1,6 @@
+# Article 31. Modificació de l’article 82 de la Llei 37/2018, del 20 de desembre, de l’esport del Principat d’Andorra
+Es modifica l’article 82 de la Llei 37/2018, del 20 de desembre, de l’esport del Principat d’Andorra, que queda redactat de la manera següent:
+“Article 82. Audiència i recursos
+1. Les qüestions relatives a audiència i recursos en el marc del règim disciplinari en matèria de lluita contra el dopatge s’estableixen en les Regles antidopatge de l’Agència Andorrana Antidopatge i en el Reglament de la Comissió de Disciplina contra el Dopatge.
+2. Les decisions de la Comissió de Disciplina contra el Dopatge (CDD) posen fi a la via administrativa i són directament recurribles davant la jurisdicció administrativa, en la forma i en els terminis establerts per la llei que regula el procediment davant aquesta jurisdicció.
+3. Les resolucions sancionadores de la Comissió de Disciplina contra el Dopatge (CDD) dictades en relació amb persones esportistes qualificades oficialment com de nivell internacional, o les que es dictin en el marc d’una competició internacional, també poden ser objecte de recurs, alternativament, davant l’òrgan i de conformitat amb el sistema de resolució de conflictes previst en el Codi mundial antidopatge o, si és el cas, en la normativa de la federació internacional corresponent.”

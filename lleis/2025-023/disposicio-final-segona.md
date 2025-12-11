@@ -1,0 +1,17 @@
+# Disposició final segona. Modificació de la Llei 3/2016, del 10 de març, de creació de l’Agència Andorrana Antidopatge
+1. Es modifica l’article 2 de la Llei 3/2016, del 10 de març, de creació de l’Agència Andorrana Antidopatge, que queda redactat de la manera següent:
+“Article 2. Àmbit d’aplicació
+Aquesta Llei és aplicable a tots els esportistes, a les entitats esportives, segons estan definides per la Llei de l’esport del Principat d’Andorra (federacions nacionals, clubs esportius, seccions d’acció esportiva, agrupacions esportives i societats anònimes d’objecte esportiu), als seus tècnics i directius i, en general, a tot el personal de suport als esportistes de qualsevol disciplina esportiva, tant de nivell competitiu com en l’àmbit del lleure. També és aplicable a les altres persones a les quals s’aplica el capítol segon del títol IV de la Llei 37/2018, del 20 de desembre, de l’esport del Principat d’Andorra.”
+2. Es modifica l’article 3 de la Llei 3/2016, del 10 de març, de creació de l’Agència Andorrana Antidopatge, que queda redactat de la manera següent:
+“Article 3. Dopatge
+Es considera dopatge en l’esport una o més violacions de les regles antidopatge vigents en cada moment, contingudes en el Codi mundial antidopatge, aprovat per l’Agència Mundial Antidopatge i en la Llei 37/2018, del 20 de desembre, de l’esport del Principat d’Andorra.”
+3. Es modifica l’article 7 de la Llei 3/2016, del 10 de març, de creació de l’Agència Andorrana Antidopatge, que queda redactat de la manera següent:
+“Article 7. Òrgans de l’Agència Andorrana Antidopatge
+1. L’Agència Andorrana Antidopatge està integrada pel Consell de l’Agència Andorrana Antidopatge, per la Comissió Executiva, pel Comitè d’Autoritzacions d’Ús Terapèutic (CAUT) i per la Comissió de Disciplina Contra el Dopatge (CDD).
+2. El Comitè d’Autoritzacions d’Ús Terapèutic (CAUT) és l’òrgan encarregat d’avaluar les sol·licituds d’autoritzacions d’ús terapèutic, de conformitat amb l’Estàndard internacional per a les autoritzacions d’ús terapèutic, aprovat per l’Agència Mundial Antidopatge i vigent en cada moment.
+3. La Comissió de Disciplina Contra el Dopatge (CDD) és l’òrgan encarregat de conèixer de les possibles infraccions de les Regles antidopatge un cop dut a terme el procediment de gestió de resultats per l’Agència Andorrana Antidopatge.
+4. La composició, el funcionament i les restants normes d’organització del Comitè del d’Autoritzacions d’Ús Terapèutic (CAU) i de la Comissió de Disciplina Contra el Dopatge (CDD) es regulen a través de les disposicions de desenvolupament d’aquesta Llei que aprovi en cada moment el Consell de l’Agència Andorrana Antidopatge.”
+4. Es modifica l’apartat 3 de l’article 9 de la Llei 3/2016, del 10 de març, de creació de l’Agència Andorrana Antidopatge, que queda redactat de la manera següent:
+“Article 9. Comissió Executiva
+[…]
+3. Únicament pot rebre remuneració econòmica el director executiu de l’Agència Andorrana Antidopatge. No obstant això, amb càrrec al pressupost de l’Agència, la Comissió Executiva pot contractar personal administratiu i tècnic que actuï com a suport per a l’administració i la gestió pressupostària. El personal contractat no forma part de la Comissió Executiva i es regeix per la Llei de relacions laborals vigent, i s’han de respectar els principis d’objectivitat, concurrència, transparència i publicitat en tots els procediments de contractació de personal.”

@@ -1,0 +1,7 @@
+# Article 32. Modificació de l’article 83 de la Llei 37/2018, del 20 de desembre, de l’esport del Principat d’Andorra
+Es modifica l’article 83 de la Llei 37/2018, del 20 de desembre, de l’esport del Principat d’Andorra, que queda redactat de la manera següent:
+“Article 83. Confidencialitat
+1. L’Agència Andorrana Antidopatge només pot recollir, conservar, tractar o divulgar dades personals sobre una infracció de les Regles antidopatge en les condicions estrictes establertes a l’Estàndard internacional per a la protecció de les dades personals i la resta d’estàndards internacionals de l’Agència Mundial Antidopatge, d’acord amb les Regles antidopatge de l’Agència Andorrana Antidopatge i amb la legislació andorrana sobre protecció de dades personals aplicable al Principat d’Andorra.
+2. El personal que desenvolupa les funcions de control de dopatge ha de guardar confidencialitat respecte dels assumptes que conegui per raó de les funcions que desenvolupa.
+3. Les dades personals obtingudes en el desenvolupament de les seves funcions per les persones directives i per la resta de personal d’entitats esportives competents només poden utilitzar-se amb les finalitats per a les quals van ser recollides i, si escau, per a la denúncia dels fets que puguin ser constitutius d’una infracció administrativa o delicte.
+4. Qualsevol altra persona que participi en els controls de dopatge té la mateixa obligació de confidencialitat i deure de secret respecte de les dades personals o informacions que conegui per raó de l’exercici de les seves funcions.”

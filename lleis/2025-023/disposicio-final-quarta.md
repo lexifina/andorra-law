@@ -1,0 +1,2 @@
+# Disposició final quarta. Textos consolidats
+S’encomana al Govern, en els termes previstos a l’article 116 del Reglament del Consell General, que en el termini màxim de sis mesos des de l’entrada en vigor d’aquesta Llei al Butlletí Oficial del Principat d’Andorra presenti al Consell General els projectes de consolidació de la Llei 37/2018, del 20 de desembre, de l’esport del Principat d’Andorra i de la Llei 3/2016, del 10 de març, de creació de l’Agència Andorrana Antidopatge, amb la incorporació de totes les modificacions que s’hi han efectuat.

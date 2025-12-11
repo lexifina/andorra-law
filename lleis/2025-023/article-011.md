@@ -1,0 +1,5 @@
+# Article 11. Modificació de l’article 31 de la Llei 37/2018, del 20 de desembre, de l’esport del Principat d’Andorra
+Se suprimeix l’apartat 3 de l’article 31 de la Llei 37/2018, del 20 de desembre, de l’esport del Principat d’Andorra, article que queda redactat de la manera següent:
+“Article 31. Dividends i préstecs
+1. Les SAOE no poden repartir dividends fins que no estigui constituïda una única reserva legal igual, almenys, a la mitjana de les despeses efectuades en els tres últims exercicis. Durant els tres primers exercicis, aquesta quantitat s’ha de calcular sobre la mitjana de les despeses fetes o sobre l’import del pressupost inicial si no es disposa del tancament anyal.
+2. Les persones accionistes i administradores que efectuïn préstecs a favor de les SAOE no els poden exigir si la societat no ha obtingut beneficis en l’últim exercici anterior al seu venciment. En aquest cas, els préstecs queden renovats fins al tancament de l’exercici, moment en què són retornats si s’han obtingut beneficis.”

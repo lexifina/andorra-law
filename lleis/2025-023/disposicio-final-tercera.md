@@ -1,0 +1,2 @@
+# Disposició final tercera. Desplegament reglamentari
+S’encomana al Govern que, en el termini màxim de sis mesos des de l’entrada en vigor d’aquesta Llei, dicti les disposicions reglamentàries necessàries per desenvolupar-la. En el mateix termini, el Consell de l’Agència Andorrana Antidopatge ha d’adaptar la normativa de desenvolupament de la Llei 3/2016, del 10 de març, de creació de l’Agència Andorrana Antidopatge a les disposicions introduïdes per aquesta Llei.

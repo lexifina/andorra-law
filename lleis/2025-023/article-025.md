@@ -1,0 +1,7 @@
+# Article 25. Modificació de l’article 62 de la Llei 37/2018, del 20 de desembre, de l’esport del Principat d’Andorra
+Es modifica l’article 62 de la Llei 37/2018, del 20 de desembre, de l’esport del Principat d’Andorra, que queda redactat de la manera següent:
+“Article 62. Professions esportives
+1. El Marc andorrà de qualificacions esportives (MAQES) recull tant les qualificacions estatals esportives com els diferents nivells d’exercici professional dels tècnics esportius.
+2. El reconeixement de titulacions correspon al ministeri competent en matèria d’educació.
+3. La Comissió nacional de reconeixement professional esportiu té les funcions d’acreditació i reconeixement de les competències professionals adquirides per la via formal, no formal i informal. La Comissió nacional de reconeixement professional esportiu és un òrgan col·legiat en què participen els ministeris encarregats de l’esport, de l’educació i l’Escola de Formació de Professions Esportives i de Muntanya com a membres permanents. El règim de funcionament i la composició s’estableixen reglamentàriament.
+4. En l’àmbit de l’activitat física i esportiva, s’ha d’establir reglamentàriament el procediment i els requisits per a l’avaluació, el reconeixement i l’acreditació de les competències professionals adquirides per les persones a través de l’experiència laboral, de vies formals, no formals de formació i informals, així com els seus efectes.”
