@@ -1,0 +1,3 @@
+# Article 3. Personalitat jurídica
+1. La societat, a partir de la seva inscripció al Registre de Societats, té plena personalitat jurídica i capacitat d’obrar per exercir eficaçment tota mena d’accions i recursos davant els òrgans administratius i jurisdiccionals de qualsevol grau i jurisdicció, i per fer totes les operacions i els contractes civils, administratius, mercantils, financers i de tota altra naturalesa que estimi necessaris o convenients per desenvolupar millor el seu objecte social.
+2. La societat du a terme les activitats que constitueixen el seu objecte social mitjançant les formes usuals de la pràctica civil i mercantil.

@@ -1,0 +1,4 @@
+# Article 48. Control financer
+1. La societat està subjecta a control financer dirigit per la Intervenció General del Govern, en la forma prevista per la Llei general de les finances públiques, sense perjudici que es puguin establir altres mesures de control per valorar el funcionament correcte en la gestió de la societat, però sense fiscalització prèvia.
+2. Almenys una vegada a l’any s’ha d’efectuar, per mitjà d’un professional que tingui la condició legal d’auditor de comptes a Andorra, una auditoria sobre els comptes anuals de la societat, d’acord amb les disposicions legals en la matèria. Addicionalment, la Junta General ha d’encomanar al final de la legislatura, o quan ho estimi convenient, una auditoria d’eficàcia amb l’objectiu d’avaluar l’assoliment dels resultats i els objectius aprovats per la Junta General. Aquestes auditories es trameten al Tribunal de Comptes per a l’exercici de les seves funcions.
+XI. Dissolució i liquidació

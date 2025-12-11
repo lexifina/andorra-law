@@ -1,0 +1,5 @@
+# Article 31. Composició
+1. El Consell d’Administració és l’òrgan de gestió, d’administració i de representació de la societat i d’execució dels acords socials. Està compost per un mínim de tres membres i un màxim de quatre, amb un president, un vicepresident i un secretari no conseller.
+2. Formen part del Consell d’Administració:
+a) En tot cas, com a designades en representació del setanta-cinc per cent (75%) de les accions que necessàriament han de pertànyer al Govern, tres persones designades pel Govern entre membres o alts càrrecs del Govern o entre persones expertes en l’àmbit digital.
+b) Una persona designada directament per Andorra Telecom, SAU, en tant que titular del vint-i-cinc per cent (25%) de les accions restant. La persona designada ha de ser una persona amb facultats de direcció. És facultativa la designació d’aquest conseller en cas que el vint-i-cinc per cent (25%) de les accions passi a ser titularitat del Govern. El Govern pot nomenar, en aquest cas, un conseller més, entre membres o alts càrrecs del Govern o entre persones expertes en l’àmbit digital.

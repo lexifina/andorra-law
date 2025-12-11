@@ -1,0 +1,4 @@
+# Article 19. Forma de la convocatòria
+1. La convocatòria de la Junta General es fa sempre per correu electrònic, missatgeria electrònica o un altre sistema similar que permeti tenir constància de la tramesa i del seu contingut, a l’adreça electrònica que figura al llibre de registre d’accionistes, i s’ha de cursar amb una antelació mínima de vint-i-un dies naturals respecte al dia en què se celebri la Junta.
+2. La convocatòria ha d’expressar la data, el lloc i l’hora de la reunió, tant en primera convocatòria com en segona, i l’ordre del dia dels assumptes que s’hagin de tractar. Entre la primera convocatòria i la segona han de transcórrer, com a mínim, vint-i-quatre hores.
+3. La convocatòria per celebrar les juntes generals, tant les ordinàries com les extraordinàries, no s’ha de publicar en cap diari, i no necessita cap mena de publicitat.

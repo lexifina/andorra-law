@@ -1,0 +1,2 @@
+# Article 50. Liquidació
+El liquidador o els liquidadors han de fer un inventari i un balanç de la societat del dia de la dissolució, que han de ser aprovats per la Junta General d’Accionistes, i una vegada fetes les operacions de liquidació han de presentar un balanç final de liquidació, amb un informe sobre les operacions efectuades i una proposta de distribució entre els accionistes del patrimoni resultant perquè la Junta General els aprovi.

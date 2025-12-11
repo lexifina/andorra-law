@@ -1,0 +1,4 @@
+# Article 45. Obligació de portar i de conservar la comptabilitat
+1. La societat està obligada a portar la seva comptabilitat d’acord amb la naturalesa de les seves activitats i de manera que permeti un seguiment de les operacions i l’elaboració dels comptes anuals.
+2. El Consell d’Administració està obligat a portar una comptabilitat ordenada i adequada a l’objecte social d’acord amb els paràmetres i els principis establerts a la legislació vigent en matèria de comptabilitat, i ha de formular i signar els comptes anuals i la proposta d’aplicació del resultat de cada exercici dins els sis mesos següents al seu tancament.
+3. Tots els accionistes tenen dret a obtenir una còpia dels comptes anuals i de l’informe d’auditoria, a partir de la convocatòria de la Junta General que s’ha de celebrar per aprovar-los.

@@ -1,0 +1,3 @@
+# Article 13. Transmissió de les accions
+1. La transmissió d’accions onerosa o gratuïta es pot efectuar únicament i lliurement entre accionistes, i respectant sempre el requisit de participació mínima del Govern establert en l’article 8 d’aquests estatuts. La transmissió s’ha de comunicar al president del Consell d’Administració a l’efecte d’inscriure l’adquirent al llibre de registre d’accionista.
+2. En tota transmissió d’accions, el preu l’han de fixar de comú acord les parts o, en defecte d’acord, l’ha de fixar un perit nomenat pel batlle president de la Batllia a instància del Govern o d’ambdós parts. Les despeses del procediment i els honoraris del perit es reparteixen per meitats entre totes dos parts.
