@@ -1,0 +1,3 @@
+# Article 18. Addició de l’apartat 7 a l’annex I, secció VIII, lletra E, de la Llei 19/2016
+S’addiciona l’apartat 7 a l’annex I, secció VIII, lletra E, de la Llei 19/2016, del 30 de novembre, d’intercanvi automàtic d’informació en matèria fiscal, que queda redactat com segueix:
+“7. Per servei de verificació governamental s’entén un procés electrònic posat a disposició per una jurisdicció subjecta a comunicació d’informació a una institució financera obligada a comunicar informació amb la finalitat de determinar la identitat i la residència fiscal d’un titular de compte o d’una persona que n’exerceix el control.”

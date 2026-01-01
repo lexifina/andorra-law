@@ -1,0 +1,3 @@
+# Article 16. Addició de l’apartat 17.e bis a l’annex I, secció VIII, lletra C, de la Llei 19/2016
+S’addiciona l’apartat 17.e bis a l’annex I, secció VIII, lletra C, de la Llei 19/2016, del 30 de novembre, d’intercanvi automàtic d’informació en matèria fiscal, que queda redactat com segueix:
+“e bis) Un compte de dipòsit que representa tots els productes específics de diner electrònic que es mantenen en benefici d’un client, si la mitja mòbil del saldo o el valor agregat del compte al final de la jornada a 90 dies durant qualsevol període de 90 dies consecutius no supera els 10.000 USD o un import equivalent denominat en la moneda nacional de cada estat membre o d’Andorra en qualsevol dia de l’any natural o en un altre període d’intercanvi d’informació apropiat.”

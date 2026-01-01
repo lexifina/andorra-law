@@ -1,0 +1,6 @@
+# Article 4. Modificació de l’article 9 de la Llei 19/2016
+Es modifica l’article 9 de la Llei 19/2016, del 30 de novembre, d’intercanvi automàtic d’informació en matèria fiscal, que queda redactat com segueix:
+“Article 9. Règim de comprovació
+1. El ministeri encarregat de les finances, quan ho consideri necessari als efectes de qualsevol actuació dirigida a la comprovació del compliment d’aquesta Llei, està facultat per exercir les prerrogatives de control previstes en la Llei 21/2014, del 16 d’octubre, de bases de l’ordenament tributari.
+2. Les institucions financeres andorranes obligades a comunicar informació han de presentar anualment al ministeri encarregat de les finances un informe d’una entitat auditora externa sobre el compliment de les obligacions d’aquesta Llei. Aquest informe es presenta en la forma, el lloc i el termini que es determinin reglamentàriament. Per a les institucions financeres que disposin d’auditors externs, l’informe el poden fer els mateixos auditors externs amb el vistiplau previ del ministeri encarregat de les finances.
+El ministeri encarregat de les finances pot sol·licitar i revisar la informació complementària i els aclariments que consideri oportuns sobre el contingut de l’informe de l’entitat auditora.”
