@@ -1,0 +1,3 @@
+## Capítol tercer. Activitats estadístiques
+# Article 6. Naturalesa de les activitats estadístiques
+Els objectius estratègics del Pla d’estadística 2026-2029 es despleguen en objectius més específics que, en termes operacionals, constitueixen les activitats estadístiques previstes en el Pla. Aquestes activitats estadístiques comprenen totes les modalitats definides per l’article 2.9 de la Llei 2/2013, del 18 d’abril, de la funció de l’estadística pública.

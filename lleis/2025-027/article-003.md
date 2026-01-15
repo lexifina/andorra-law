@@ -1,0 +1,2 @@
+# Article 3. Obligatorietat de la resposta
+De conformitat amb el que estableixen els articles 14 i 15 de la Llei 2/2013, del 18 d’abril, de la funció de l’estadística pública, cadascuna de les activitats estadístiques incloses en el Pla d’estadística 2026-2029 és de compliment obligatori, sense perjudici que siguin d’aportació estrictament voluntària, i, en conseqüència, només es poden recollir amb el consentiment exprés previ dels interessats, les dades susceptibles de revelar l’origen ètnic, les opinions polítiques i les conviccions religioses o ideològiques.

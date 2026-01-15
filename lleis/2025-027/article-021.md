@@ -1,0 +1,4 @@
+# Article 21. Mitjans de difusió
+1. S’han de difondre els resultats de cadascuna de les activitats estadístiques incloses en el Pla d’estadística 2026-2029, juntament amb la seva metodologia bàsica i el calendari de difusió.
+2. Amb caràcter general, els resultats de les activitats estadístiques que es derivin d’aquesta Llei s’han de difondre per Internet sota una llicència oberta que permeti utilitzar-los esmentant-ne la font.
+3. El web del Departament d’Estadística és la plataforma de difusió de l’estadística pública, concebuda com un espai de referència des del qual s’ha de poder accedir a la informació produïda pel Sistema estadístic d’Andorra de manera integral, homogènia i estructurada, per facilitar l’accés dels usuaris de l’estadística al conjunt d’informació relativa a les activitats estadístiques i els seus resultats.

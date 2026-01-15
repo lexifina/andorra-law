@@ -1,0 +1,2 @@
+# Disposició addicional primera. Subjecció a la llei
+El Departament d’Estadística i els organismes del Sistema estadístic d’Andorra, així com la resta d’entitats, l’Administració pública i altres participants del Pla d’estadística 2026-2029 estan subjectes al que disposa la Llei 2/2013, del 18 d’abril, de la funció de l’estadística pública, a l’acompliment de la normativa en matèria de protecció de dades personals i al control de l’Agència Andorrana de Protecció de Dades.
