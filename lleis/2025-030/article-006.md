@@ -1,0 +1,2 @@
+# Article 6. Obligació d’informació
+Les empreses o entitats auditades estan obligades a facilitar tota la informació que sigui necessària a judici de l’auditor per fer els treballs d’auditoria de comptes, i és responsabilitat dels seus administradors el compliment d’aquesta obligació. Així mateix, la persona o les persones que facin aquests treballs estan obligades a requerir, verbalment o per escrit, tota la informació que considerin necessària per emetre l’informe d’auditoria de comptes.

@@ -1,0 +1,2 @@
+# Article 27. Impugnació de les resolucions del supervisor d’Auditoria de Comptes i de la Comissió de Supervisió d’Auditoria de Comptes
+Tant les resolucions dictades pel supervisor d’Auditoria de Comptes com per la Comissió de Supervisió d’Auditoria de Comptes en l’exercici de les seves funcions poden ser objecte de recurs administratiu davant del Govern, seguint els preceptes marcats pel Codi de l’Administració.

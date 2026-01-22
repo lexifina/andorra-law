@@ -1,0 +1,3 @@
+# Disposició final segona
+El Col·legi Oficial d’Economistes d’Andorra, en el termini màxim d’un any des de l’entrada en vigor de la Llei 10/2024, del 27 de maig, d’auditoria de comptes del Principat d’Andorra, ha de modificar els seus estatuts i incorporar-hi la branca especialitzada per als professionals de l’auditoria d’acord amb els requisits establerts en aquesta Llei.
+Mentre el Col·legi no hagi adaptat els seus estatuts, ha d’acceptar la col·legiació dels auditors que, malgrat no complir tots els requisits establerts en els estatuts actuals, compleixin els requisits inclosos en aquesta Llei.

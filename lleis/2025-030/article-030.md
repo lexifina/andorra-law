@@ -1,0 +1,15 @@
+# Article 30. Infraccions
+1. Les infraccions comeses pels auditors de comptes i les societats d’auditoria de comptes en l’exercici de les seves funcions es classifiquen en molt greus, greus i lleus.
+2. Es consideren infraccions molt greus les que impliquin una transgressió molt significativa de les obligacions fonamentals de l’auditor de comptes. En particular, es qualifiquen com a tals les següents:
+a) L’emissió d’informes d’auditoria de comptes l’opinió dels quals no correspon a les proves obtingudes per l’auditor en el seu treball, sempre que s’hagi demostrat que hi ha hagut dol o una negligència especialment greu i inexcusable.
+b) L’incompliment del que disposen els articles 15, 16 i 17 d’aquesta Llei, en relació amb el deure d’independència dels auditors de comptes sempre que hagi intervingut dol o negligència especialment greu i inexcusable.
+c) Així mateix, es considera infracció molt greu dur a terme treballs d’auditoria de comptes sense estar inscrit com a exercent al Registre d’Auditors de Comptes.
+3. Es consideren infraccions greus les que impliquin una transgressió significativa de les obligacions fonamentals de l’auditor. En particular, es qualifiquen com a tals les següents:
+a) L’emissió d’informes d’auditoria de comptes l’opinió dels quals no correspon a les proves obtingudes per l’auditor en el seu treball.
+b) L’incompliment greu del que es disposa en els articles 15, 16 i 17 d’aquesta Llei, en relació amb el deure d’independència dels auditors de comptes.
+c) L’incompliment del deure de secret establert en l’article 18 d’aquesta Llei.
+d) La utilització intencionada i en benefici propi o aliè d’informació obtinguda durant l’exercici de les funcions pròpies d’una auditoria per a fins distints al propi de l’auditoria de comptes, tret que l’ús estigui expressament autoritzat per l’entitat auditada.
+e) L’incompliment de l’obligació de realitzar una auditoria de comptes contractada en ferm o acceptada, en el cas de designació judicial, per causes imputables a l’auditor de comptes o a la societat d’auditoria, sempre que no incorrin en causa d’incompatibilitat o de força major.
+f) L’incompliment de l’obligació de permetre a l’auditor de comptes o societat d’auditoria successora, en cas que es substitueixi l’auditor de comptes de la societat auditada, o l’auditor de comptes o societat d’auditoria del grup, en el cas de l’auditoria de comptes consolidades, l’accés a la documentació relacionada amb l’entitat auditada o amb les entitats consolidades, respectivament.
+4. Es consideren infraccions lleus qualsevol acció i omissió que suposin l’incompliment de la norma d’auditoria o de les disposicions d’aquesta Llei i que no estiguin incloses en els apartats anteriors.
+5. No es considera incompliment de les normes d’auditoria el que es derivi d’una discrepància jurídica o tècnica raonablement justificada. A aquest efecte, la informació continguda als papers de treball de l’auditor o la societat han de permetre concloure sobre la raonabilitat de la interpretació efectuada.

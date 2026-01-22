@@ -1,0 +1,4 @@
+# Article 8. Normes d’auditoria
+Les normes d’auditoria de comptes constitueixen el cos normatiu que ha d’observar necessàriament l’auditor de comptes o la societat d’auditoria en l’exercici de les seves funcions i sobre el qual han de basar-se les actuacions professionals per expressar una opinió tècnica i responsable.
+Les normes d’auditoria estan integrades per les normes internacionals d’auditoria i les normes internacionals sobre control de qualitat emeses pel Consell de Normes Internacionals d’Auditoria i Assegurament (IAASB) o les seves adequacions a Andorra, les normes incloses en aquesta Llei i, si escau, les incloses en la legislació mercantil nacional i les que pugui emetre el supervisor.
+Addicionalment, les guies i interpretacions emeses per l’IAASB –tals com les referides a l’aplicació de les normes d’auditoria per petits i mitjans auditors– poden ser utilitzades pels auditors de comptes.

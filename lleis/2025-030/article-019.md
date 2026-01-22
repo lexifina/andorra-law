@@ -1,0 +1,3 @@
+# Article 19. Conservació i custòdia de la documentació referent a cada auditoria
+Els auditors de comptes i les societats d’auditoria de comptes han de conservar i custodiar durant el termini de cinc anys, a comptar de la data de l’informe d’auditoria, la documentació referent a cada auditoria de comptes que hagin efectuat, inclosos els papers de treball de l’auditor que constitueixin les proves i el suport de les conclusions que constin a l’informe, així com les anàlisis d’independència a què fa referència l’apartat 4 de l’article 15 d’aquesta Llei.
+El supervisor pot demanar formalment la conservació i la custòdia d’aquesta documentació per a períodes superiors a cinc anys en el cas que hi hagi alguna inspecció oberta i fins que finalitzi.
