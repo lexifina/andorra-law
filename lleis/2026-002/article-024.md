@@ -1,0 +1,9 @@
+# Article 24. Modificació de l’article 13 bis de la Llei 12/2013, del 13 de juny, del comerç
+Es modifica l’article 13 bis de la Llei 12/2013, del 13 de juny, del comerç, que queda redactat de la manera següent:
+“Article 13 bis. Resolució i autorització d’obertura, modificació i baixa
+1. El ministre competent en matèria de registre de comerç i indústria resol favorablement la sol·licitud referida en l’article anterior quan disposa de la resolució prèvia favorable comunal, i si la documentació adjuntada a la sol·licitud dona compliment als requisits que estableixen aquesta Llei i la normativa sectorial que sigui aplicable.
+2. El ministre competent en matèria de registre de comerç i indústria resol desfavorablement la sol·licitud referida en l’article anterior quan disposa d’una resolució prèvia desfavorable comunal, amb independència de si la documentació adjuntada a la sol·licitud dona compliment als requisits que estableixen aquesta Llei i la normativa sectorial que sigui aplicable.
+3. El ministre competent en matèria de registre de comerç i indústria resol desfavorablement la sol·licitud referida en l’article anterior quan, tot i la resolució prèvia favorable comunal, la documentació adjuntada a la sol·licitud no dona compliment als requisits que estableixen aquesta Llei i la normativa sectorial que sigui aplicable.
+4. En el cas que alguna de les administracions competents o totes dos resolguin desfavorablement la sol·licitud, la resolució ha de ser motivada.
+5. La resolució favorable del Govern comporta l’autorització a la persona sol·licitant d’exercir de les activitats detallades, a l’adreça indicada i sota el nom comercial reservat, i la seva inscripció al Registre de Comerç i Indústria.
+6. Reglamentàriament s’estableix el procediment mitjançant el qual l’Administració comunal tramet la seva resolució a l’Administració general.”

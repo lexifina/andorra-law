@@ -1,0 +1,9 @@
+# Article 2. Modificació de l’article 26 de la Llei 9/2012, del 31 de maig, de modificació de la Llei qualificada d’immigració
+Es modifica l’apartat 5 de l’article 26 de la Llei 9/2012, del 31 de maig, de modificació de la Llei qualificada d’immigració, article que queda redactat de la manera següent:
+“Article 26. Autorització d’immigració temporal
+1. L’estranger que sol·licita i obté una autorització d’immigració temporal està autoritzat a treballar i residir temporalment al Principat d’Andorra mentre estigui vigent la seva autorització.
+2. La durada de l’autorització d’immigració temporal s’ajusta a una temporada de l’any prèviament determinada quan es concedeix en el marc d’una quota especial fixada pel Govern de conformitat amb l’article 23.7.
+3. La durada de l’autorització d’immigració temporal no pot excedir el termini de dotze mesos seguits quan es concedeix en el marc d’una quota especial fixada pel Govern de conformitat amb l’article 23.8.
+4. L’autorització d’immigració temporal comporta condicions particulars que limiten les possibilitats de treball a una activitat laboral determinada en un sector econòmic concret, de conformitat amb els criteris legals i els convenis internacionals vigents.
+5. L’autorització d’immigració temporal té caràcter improrrogable, i el seu titular, una vegada esgotat el termini de vigència, no pot sol·licitar ni obtenir una altra autorització d’immigració temporal fins que hagi transcorregut el termini que s’estableixi reglamentàriament.
+6. El titular d’una autorització de treball temporal no pot sol·licitar ni obtenir una altra autorització d’immigració temporal si la temporada anterior s’ha constatat qualsevol incompliment de la normativa en matèria de reagrupament i que un o diversos dels seus familiars es trobaven en situació irregular al Principat d’Andorra, o qualsevol altre incompliment de la normativa vigent en matèria d’immigració al Principat d’Andorra.”

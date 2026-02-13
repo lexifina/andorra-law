@@ -1,0 +1,19 @@
+# Article 29. Modificació de l’article 8 de la Llei 3/2024, de l’1 de febrer, de l’impost sobre la inversió estrangera immobiliària al Principat d’Andorra
+Es modifica l’article 8 de la Llei 3/2024, de l’1 de febrer, de l’impost sobre la inversió estrangera immobiliària al Principat d’Andorra, que queda redactat com segueix:
+“Article 8. Tipus de gravamen
+1. Els tipus de gravamen de l’impost són els següents:
+a) El tipus de gravamen és del 6 per cent sobre el valor real de la inversió estrangera immobiliària efectuada, amb el límit màxim d’inversió en una parcel·la de terreny en la qual es construeixi un sol habitatge unifamiliar, o en la qual estigui construït un habitatge unifamiliar; o un habitatge unifamiliar, un pis, apartament o estudi, juntament amb els seus annexos, que en cap cas no podran excedir de tres places d’aparcament i de tres trasters o similars per pis.
+b) El tipus de gravamen és del 10 per cent sobre el valor real de la inversió estrangera immobiliària efectuada per a la resta d’inversions estrangeres immobiliàries que superin els límits d’inversió immobiliària establerts a la lletra a); o en el cas d’inversions en les quals la propietat de l’immoble, la titularitat del dret real o la participació no es mantingui en les condicions fixades en l’article 4.g).
+2. El tipus de gravamen aplicable a cada cas es determina, progressivament i per trams, en funció del nombre total d’unitats immobiliàries en les quals s’inverteixi, tenint en compte, si escau, el nombre d’inversions formalitzades anteriorment, sempre a comptar des de la data d’entrada en vigor d’aquesta Llei. Quan el tipus de gravamen que correspon aplicar a la inversió considerada és el tipus màxim, totes les inversions posteriors es graven al tipus màxim amb independència de la tipologia d’inversió formalitzada.
+3. En el cas de persones jurídiques diferents entre les quals es considera que hi ha vinculació, el tipus de gravamen és el resultant de sumar el nombre total d’unitats immobiliàries en les quals les dites persones han invertit, de forma agregada.
+Es considera que hi ha vinculació quan unes mateixes persones o entitats participen directament o indirectament en la direcció, el control o el capital de dos entitats. En tot cas, es consideren persones o entitats vinculades les següents:
+a) Una entitat i els seus socis o partícips.
+b) Una entitat i els seus consellers o administradors de fet o de dret.
+c) Una entitat i els cònjuges, convivents en unió estable de parella, o persones unides per relacions de parentiu, en línia directa o col·lateral, per consanguinitat fins al tercer grau, dels socis o partícips, consellers o administradors.
+d) Una entitat i una altra entitat participada per la primera indirectament, almenys, en el 25 per cent del capital social o del patrimoni net.
+e) Dos entitats que pertanyin a un grup.
+f) Dos entitats en les quals els mateixos socis o partícips o els seus cònjuges, convivents en unió estable de parella o persones unides per relacions de parentiu, en línia directa o col·lateral, per consanguinitat fins al tercer grau, participin, directament o indirectament, almenys en el 25 per cent del capital social o del patrimoni net.
+g) Una entitat resident fiscal en territori andorrà i els seus establiments permanents a l’estranger.
+h) Una entitat no resident fiscal en territori andorrà i els seus establiments permanents en el territori esmentat.
+En els casos en què la vinculació es defineixi segons la relació socis o partícips-entitat, la participació ha de ser igual o superior al 15 per cent, o al 3 per cent si es tracta de valors admesos a negociació en un mercat secundari.
+4. Els tipus de gravamen establerts en aquesta Llei es poden modificar mitjançant la Llei general del pressupost, d’acord amb el que determina la Llei de bases de l’ordenament tributari.”

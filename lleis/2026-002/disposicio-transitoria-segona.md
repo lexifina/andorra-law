@@ -1,0 +1,2 @@
+# Disposició transitòria segona. Autoritzacions de residència i treball per compte propi i de residència sense activitat lucrativa
+Totes les sol·licituds d’autorització de residència i treball per compte propi i de residència sense activitat lucrativa presentades abans de l’aprovació d’aquesta Llei, estiguin o no vinculades a una inversió estrangera o a una reserva de quota, es regeixen per la normativa vigent abans de la data referida.
