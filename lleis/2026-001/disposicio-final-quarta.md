@@ -1,0 +1,10 @@
+# Disposició final quarta
+Es modifiquen els articles següents de la Llei 17/2008, del 3 d’octubre, de la seguretat social i les seves modificacions posteriors:
+1. S’addicionen els apartats 4 i 5 a l’article 140, que queden redactats de la manera següent:
+“Article 140. Finalització de les prestacions
+[…]
+4. Les persones que tenen la condició d’assegurades indirectes d’acord amb l’article 13, fins i tot si estan subjectes al règim especial de l’article 224, mantenen el dret a percebre les prestacions de reembossament després de la defunció de la persona assegurada directa que els hi donava dret durant els mateixos terminis establerts a l’apartat 1, sempre que mantinguin totes les condicions que estableix l’article 13. Aquells terminis es calculen en funció del temps de cotització acreditat per la persona assegurada directa abans de la seva defunció.
+5. Les persones que cotitzen en els règims especials previstos als articles 220 ter i 221 d’aquesta Llei mantenen el dret a percebre les prestacions de reembossament després de causar baixa en aquells règims d’acord amb les mateixes condicions i límits establerts a l’apartat 1. Els períodes cotitzats en aquells règims especials es tenen en compte per al còmput del període cotitzat abans de la demanda de prestacions.”
+2. Es modifica la disposició addicional dissetena, que queda redactada de la manera següent:
+“Disposició addicional dissetena
+Els punts corresponents a les cotitzacions a la branca de jubilació de les persones assalariades es consideren adquirits des del moment en què l’empresa presenta la declaració, encara que no hagi estat efectivament pagada, i sense importar el resultat de les actuacions que la Caixa Andorrana de Seguretat Social emprengui per cobrar-la. Aquest règim s’aplica exclusivament a les declaracions corresponents a períodes de liquidació posteriors al gener del 2025, amb independència de la data en què es presentin. Quan la declaració és objecte de discussió en un procediment administratiu o judicial, aquesta norma no és aplicable fins que es resolgui definitivament aquest procediment.”

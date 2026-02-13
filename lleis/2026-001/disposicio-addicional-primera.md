@@ -1,0 +1,3 @@
+# Disposició addicional primera
+El Govern, excepcionalment, tramita a la Sindicatura el Projecte de llei de pressupost general per a l’exercici 2026 sense haver-hi inclòs el pressupost de la societat Andorra Digital, SA perquè la Llei de constitució de la societat ha estat aprovada en la sessió del Consell General del 13 de novembre 2025, de manera que la societat encara no s’ha constituït.
+Consegüentment, el Govern, excepcionalment, tramita a la Sindicatura el Projecte de pressupost de l’exercici 2026 d’aquesta entitat de dret públic, de manera separada i amb posterioritat a la resta del Projecte de llei del pressupost general per a l’exercici 2026, i en tot cas, després de constitució de la societat Andorra Digital, SA.

@@ -1,0 +1,3 @@
+# Disposició addicional segona
+1. S’annexen a la present Llei els pressupostos del Consell General, dels òrgans i institucions de dret públic que es financen amb càrrec al pressupost del Consell General (Institució del Raonador del Ciutadà, Tribunal de Comptes, Agència Andorrana de Protecció de Dades i Agència de Qualitat de l’Ensenyament Superior d’Andorra – AQUA), del Tribunal Constitucional i del Consell Superior de la Justícia.
+2. Aquesta Llei és aplicable a aquests organismes públics excepte en les qüestions en què la singularitat de cada entitat requereixi una regulació diferent. Les referències als òrgans de l’Administració general s’entenen substituïdes pels òrgans competents dels mateixos.
