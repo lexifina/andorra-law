@@ -1,0 +1,11 @@
+# Article 13. Modificació de l’article 112 de la Llei 31/2018, del 6 de desembre, de relacions laborals
+Es modifica l’apartat 1 de l’article 112 de la Llei 31/2018, del 6 de desembre, de relacions laborals, s’hi afegeix un nou apartat 3 i es renumera correlativament l’apartat següent de l’article 112, que queda redactat de la manera següent:
+“Article 112. Durada del mandat, revocació i substitució
+1. La durada del mandat dels membres del comitè d’empresa i dels delegats dels assalariats és de quatre anys, amb un límit de dos mandats consecutius. El dit límit no és aplicable en el cas que en les eleccions no concorrin altres candidats que no hagin superat aquest límit, i que siguin suficients per cobrir les places vacants del comitè. Al final de cada mandat s’han de promoure unes noves eleccions.
+Els membres del comitè d’empresa i els delegats dels assalariats es mantenen en funcions, en l’exercici de les seves competències i amb les garanties corresponents fins que no es promoguin i celebrin noves eleccions, dins un període màxim de sis mesos.
+[…]
+3. Només és efectiva la vacant d’un delegat dels assalariats o d’un membre del comitè d’empresa quan es comuniqui per escrit a l’autoritat competent en matèria laboral la seva dimissió o cessament.
+4. Quan es produeix la vacant d’un delegat dels assalariats, s’ha de cobrir amb la persona assalariada que hagi obtingut en la votació un nombre de vots immediatament inferior al del delegat que s’ha de substituir, pel temps que resti del mandat.
+Quan es produeix una vacant d’un membre del comitè d’empresa, s’ha de cobrir amb la persona assalariada que hagi obtingut més vots en la votació després del darrer elegit en la llista del col·legi al qual pertany el membre que s’ha de substituir.
+Si no queden suplents disponibles, s’ha de promoure el procés electoral corresponent per a la vacant que s’hagi de cobrir.
+Els delegats dels assalariats o el comitè d’empresa han de comunicar al Departament de Treball i a l’empresari la seva substitució o la dels seus membres, amb indicació de les persones substituïda i substituta i els motius de la substitució, aportant, si escau, els documents acreditatius del procés que s’ha seguit per al nomenament del substitut.”
