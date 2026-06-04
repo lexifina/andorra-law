@@ -1,0 +1,2 @@
+# Disposició final primera. Text consolidat
+S’encomana al Govern, en els termes previstos a l’article 116 del Reglament del Consell General, que en el termini màxim de sis mesos des de l’entrada en vigor d’aquesta Llei al Butlletí Oficial del Principat d’Andorra presenti al Consell General el projecte de consolidació de la Llei 32/2014, del 27 de novembre, de sostenibilitat de les finances públiques i d’estabilitat pressupostària i fiscal, amb la incorporació de totes les modificacions que s’hi han produït.

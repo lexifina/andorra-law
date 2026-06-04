@@ -1,0 +1,9 @@
+# Article 4. Modificació de l’article 19 de la Llei 32/2014
+Es modifica l’article 19 de la Llei 32/2014, del 27 de novembre, de sostenibilitat de les finances públiques i d’estabilitat pressupostària i fiscal, que queda redactat de la manera següent:
+“Article 19. Compte de compensació
+1. El Govern constituirà i gestionarà un compte de compensació que s’utilitzarà per sufragar els pressupostos extraordinaris per causes excepcionals definits en l’article 14.
+2. Els pressupostos generals de l’Estat i dels comuns inclouran una partida pressupostària corresponent al zero coma cinquanta per cent (0,50%) del total de les seves despeses que anirà destinada a la dotació del compte de compensació. En els exercicis en què es tingui un pla d’equilibri financer vigent, segons el previst en aquesta Llei, no caldrà obligatòriament fer aportacions al compte de compensació.
+3. Per als càlculs associats amb l’apartat anterior es tindrà en consideració el pressupost de despeses liquidat sense considerar les variacions d’actius i passius financers. L’aportació al compte de compensació s’efectuarà abans de finalitzar el primer trimestre de l’any pressupostari següent, tenint en compte la dada del PIB nominal publicada pel Govern.
+4. En cas que el seu volum superi el cinc per cent (5%) del producte interior brut nominal, i si no existeix cap pressupost extraordinari viu, el Consell General, a proposta del Govern i els comuns, podrà decidir aplicar-ne la part excedent a la reducció del deute públic o a constituir o dotar un fons sobirà.
+5. Els fons del compte de compensació han d’estar invertits en actius líquids per assegurar de donar compliment ràpid al que preveu l’article 14.
+6. Els fons del compte de compensació poden estar dipositats a Andorra o fora d’Andorra. En aquest darrer cas, es poden gestionar com a reserves a l’exterior.”
