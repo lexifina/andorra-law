@@ -1,0 +1,4 @@
+## Secció segona. Planificació turística
+# Article 12. Planificació turística
+1. La planificació turística s’ha de dur a terme en coherència amb les polítiques nacionals i de conformitat amb la normativa vigent en matèria d’ordenació i planificació territorial i urbanisme. Aquesta planificació s’ha d’orientar al desenvolupament, la promoció i la protecció dels recursos turístics de manera sostenible i respectuosa amb el medi ambient, al foment d’una oferta turística competitiva, de qualitat i resilient al canvi climàtic, i a l’estímul de les actuacions que reforcin la consideració d’Andorra com a marca global.
+2. Els instruments de planificació turística poden incloure, entre altres coses, el Pla nacional de turisme, els plans territorials elaborats pels comuns i els plans sectorials o temàtics per segment turístic.

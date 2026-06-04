@@ -1,0 +1,2 @@
+# Article 82. Resolució del procediment
+La resolució que posi fi al procediment ha de ser motivada i ha de resoldre totes les qüestions plantejades en l’expedient, sense que en la mateixa resolució es puguin acceptar fets diferents dels determinats en el curs del procediment, amb independència de la seva valoració jurídica. La resolució s’ha de notificar en el termini màxim de sis mesos des del seu inici.

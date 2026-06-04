@@ -1,0 +1,2 @@
+# Disposició addicional segona. Publicació del primer estudi realitzat relatiu a la capacitat de càrrega turística
+S’encomana al Govern la publicació del primer estudi realitzat relatiu a la capacitat de càrrega turística del país i a les mesures necessàries per garantir la sostenibilitat i la qualitat del sector turístic en un termini de tres mesos a comptar des de l’aprovació de la present Llei.

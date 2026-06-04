@@ -1,0 +1,4 @@
+## Capítol segon. Innovació turística
+# Article 49. Innovació turística
+1. El ministeri competent en matèria de turisme ha de donar suport a la innovació i a la modernització tecnològica de les empreses, els establiments i serveis turístics, com a instrument estratègic per incrementar la seva competitivitat i sostenibilitat. A aquest efecte, pot adoptar les mesures que consideri necessàries i utilitzar els instruments que resultin procedents.
+2. Igualment, el ministeri ha de promoure la professionalització i regulació de nous actors de l’ecosistema digital turístic, incloent-hi creadors de contingut i altres actors digitals especialitzats en turisme. S’ha de fomentar la seva integració responsable en l’estratègia de turisme nacional, amb l’objectiu d’assegurar la qualitat de la informació difosa i vetllar per la seva alineació amb els objectius de competitivitat i sostenibilitat.

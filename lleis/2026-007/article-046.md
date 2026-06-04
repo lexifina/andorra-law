@@ -1,0 +1,4 @@
+# Article 46. Incentius i estímuls honorífics
+1. El ministeri competent en matèria de turisme pot crear i atorgar incentius i estímuls honorífics en reconeixement de les actuacions que contribueixin a assolir un turisme de qualitat i sostenible.
+2. Així mateix, el ministeri competent en matèria de turisme pot crear i atorgar incentius i estímuls honorífics amb la finalitat de fomentar la formació especialitzada per als professionals del sector turístic i la implementació de sistemes de certificació de sostenibilitat per al turisme. Els requisits i les condicions per atorgar-los s’han d’establir reglamentàriament, sense perjudici de la normativa vigent en la matèria.
+3. Reglamentàriament, s’han de desenvolupar les convocatòries per concedir medalles, guardons, distincions i premis, sense perjudici de la normativa vigent en la matèria.

@@ -1,0 +1,7 @@
+# Article 51. Sistema d’intel·ligència turística i transferència de coneixement
+1. Les administracions públiques i les entitats esmentades en l’article anterior han de promoure un sistema d’intel·ligència turística i transferència de coneixement orientat a l’anàlisi, l’estudi i la difusió dels comportaments i les tendències de la demanda turística, tenint en compte les dades estadístiques periòdiques esmentades a la lletra v de l’article 19, amb l’objectiu d’aportar valor afegit als agents turístics andorrans en el seu procés de millora de la qualitat i increment de la competitivitat.
+2. Són finalitats del sistema d’intel·ligència turística i transferència de coneixement:
+a) Establir un sistema d’informació estadística que garanteixi la fiabilitat de les dades obtingudes i la seva actualització permanent.
+b) Elaborar la informació de caràcter micro i macroeconòmic de l’oferta i la demanda en el sector turístic que permeti desenvolupar el màxim potencial del territori i facilitar la presa avançada de decisions estratègiques.
+c) Determinar l’evolució natural del mercat turístic, per permetre a les empreses i als destins d’Andorra anticipar-se a la competència.
+3. El sistema d’intel·ligència turística ha de permetre l’accés a les dades de manera estructurada, amb l’objectiu que puguin aportar valor afegit als agents del sector turístic, i millorar la presa de decisions i afavorir la innovació i l’eficiència en el sector esmentat.

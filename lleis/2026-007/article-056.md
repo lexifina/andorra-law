@@ -1,0 +1,3 @@
+# Article 56. Espai turístic saturat
+1. El ministeri competent en matèria de turisme, amb la consulta prèvia a les autoritats competents en matèria de medi ambient i als comuns afectats, pot declarar, amb caràcter excepcional, espai turístic saturat la part del territori on existeixin problemes ambientals relacionats amb l’activitat turística.
+2. En aquests casos, i en els termes establerts reglamentàriament, es pot limitar temporalment l’exercici de determinades activitats turístiques, sempre que aquestes limitacions siguin necessàries i proporcionades per resoldre els problemes ambientals, fins que desapareguin les circumstàncies que van motivar la declaració, sense que en cap cas no es puguin establir prohibicions de caràcter general.

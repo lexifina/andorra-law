@@ -1,0 +1,4 @@
+## Capítol tercer. Empreses de turisme actiu i d’ecoturisme
+# Article 23. Empreses de turisme actiu
+1. Són empreses de turisme actiu les empreses dedicades a proporcionar al públic en general, de manera habitual i professional, mitjançant preu, activitats turístiques de lleure, esportives i d’aventura que es practiquen servint-se, sense degradar-los, bàsicament dels recursos que ofereix la mateixa natura en el medi on es desenvolupen, i a les quals és inherent el factor risc o un cert grau d’habilitat per practicar-les. Per a la pràctica de les activitats, han de disposar d’equips i material homologats i, excepcionalment, es poden utilitzar recursos diferents dels que ofereix la natura.
+2. Reglamentàriament, es determinen els requisits i el règim administratiu aplicable a aquestes empreses.

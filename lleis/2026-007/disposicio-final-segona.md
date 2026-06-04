@@ -1,0 +1,2 @@
+# Disposició final segona. Projecte de llei de modificació de l’impost sobre les estades en allotjaments turístics
+S’encomana al Govern l’elaboració d’un Projecte de Llei relatiu a la modificació de l’impost sobre les estades en allotjaments turístics. Aquesta modificació haurà de preveure, entre altres mesures, la introducció d’un mecanisme de tributació dinàmica que permeti ajustar l’import de l’impost en funció del nivell de demanda turística, amb increments en períodes d’alta ocupació i reduccions en temporades de menor afluència a Andorra.

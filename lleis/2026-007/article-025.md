@@ -1,0 +1,2 @@
+# Article 25. Cobertures d’assegurances
+Les empreses de turisme actiu i d’ecoturisme han de tenir subscrits contractes d’assegurança per accidents i de responsabilitat civil que cobreixin de manera suficient els possibles riscos imputables a l’empresa per l’oferta i la pràctica de les activitats que ofereixin i prestin, així com una pòlissa d’assegurances de rescat, trasllat i assistència derivats d’accidents en la prestació d’aquests serveis, en els termes que es fixin reglamentàriament.

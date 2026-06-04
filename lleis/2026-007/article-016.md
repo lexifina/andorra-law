@@ -1,0 +1,17 @@
+## Títol IV. Drets i deures dels usuaris i dels prestadors de serveis turístics
+## Capítol primer. Drets i deures dels usuaris dels serveis turístics
+# Article 16. Drets dels usuaris dels serveis turístics
+Els usuaris dels serveis turístics, sense perjudici del que estableix la Llei sobre competència efectiva i protecció del consumidor, i la Llei general d’allotjament turístic, tenen dret a:
+a) Rebre informació completa, veraç i comprensible, incloent-hi el preu amb tots els impostos, les condicions i les característiques dels béns i serveis turístics que s’ofereixen abans de contractar-los, tenint en compte els usuaris especialment vulnerables. En cap cas aquesta informació no pot induir a error l’usuari dels serveis.
+b) Obtenir tots els documents que acreditin els termes de la contractació dels serveis turístics, identificant el bé o servei, la qualitat, el preu i les seves característiques i condicions, així com els justificants de pagament.
+c) Gaudir dels serveis turístics amb la qualitat contractada, d’acord amb la categoria de l’empresa, especialment en els establiments d’allotjament, el servei o l’establiment contractats i d’acord amb la publicitat i l’oferta efectuades.
+d) Rebre informació, dins del mateix establiment i en un lloc fàcilment visible, sobre els distintius acreditatius del registre, la classificació i la categoria, així com els distintius de qualitat, capacitat màxima i qualsevol altra informació referida a l’exercici de l’activitat, de conformitat amb la normativa corresponent.
+e) Rebre informació veraç, dins del mateix establiment i en un lloc de fàcil visibilitat, en relació amb els distintius de sostenibilitat i circularitat del servei turístic ofert.
+f) Gaudir dels serveis turístics amb un nivell de seguretat adequat i rebre, per part del prestador de serveis turístics, informació sobre qualsevol risc que es pugui derivar de l’ús normal de les instal·lacions, els recursos o els serveis, en funció de la naturalesa i les característiques de l’activitat i de les mesures de seguretat adoptades.
+g) Gaudir d’entorns, infraestructures i serveis turístics accessibles, que no poden denegar ajustos raonables als usuaris amb discapacitat, segons el que estipula la normativa sectorial nacional en matèria d’accessibilitat universal.
+h) Formular queixes i reclamacions quan els serveis turístics no tinguin el nivell de qualitat suficient d’acord amb el que s’ha contractat. L’empresari turístic ha d’informar sobre l’existència de fulls de reclamació als usuaris dels seus serveis, i l’Administració pública ha de posar a disposició dels usuaris de serveis turístics fulls de reclamació en format digital.
+i) Obtenir de l’Administració turística informació actualitzada i detallada sobre els aspectes de l’oferta i els recursos turístics.
+j) Obtenir la protecció adequada de les dades de caràcter personal dels usuaris dels serveis turístics, de conformitat amb la normativa sobre protecció de dades personals.
+k) Conèixer el número de registre en cas de publicitat o contractació d’allotjaments turístics o de comercialització d’estades turístiques en habitatges, d’acord amb el que estableix la normativa aplicable segons la tipologia d’allotjament turístic.
+l) Poder optar per un sistema de resolució extrajudicial de conflictes, a més de la via judicial, en cas que sigui necessari.
+m) Rebre una compensació adequada o el reemborsament proporcional quan el servei turístic no es presti en els termes essencials contractats, de conformitat amb la normativa de defensa de les persones consumidores.

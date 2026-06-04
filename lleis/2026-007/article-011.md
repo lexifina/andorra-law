@@ -1,0 +1,5 @@
+## Capítol segon. Ordenació i planificació
+## Secció primera. Ordenació territorial dels recursos turístics
+# Article 11. Ordenació territorial dels recursos turístics
+1. L’ordenació territorial dels recursos turístics s’ha de dur a terme de conformitat amb el que disposa aquesta Llei, d’acord amb les normes d’ordenació del territori, així com amb la normativa d’habitatge i els instruments de planificació aplicables. Aquesta ordenació ha de respectar les competències del ministeri competent en matèria de territori i urbanisme i dels comuns en la matèria, sense perjudici dels mecanismes de coordinació i cooperació interinstitucional que siguin procedents aplicar.
+2. Sense perjudici del que estableix la normativa vigent i de les competències del ministeri competent en matèria de territori i urbanisme i dels comuns, els procediments d’ordenació i planificació territorial i urbanística han de fomentar la protecció dels recursos turístics i el desenvolupament d’activitats turístiques que siguin conformes als principis establerts per aquesta Llei.

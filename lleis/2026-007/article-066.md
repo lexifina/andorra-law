@@ -1,0 +1,3 @@
+# Article 66. Deures del titular de l’activitat turística i del personal empleat
+1. Els titulars de l’activitat turística, els seus representants legals, el personal empleat degudament autoritzat o, en defecte d’això, les persones que es trobin al capdavant de l’activitat en el moment de la inspecció, tenen el deure de facilitar als inspectors de turisme l’accés a les instal·lacions i dependències on es desenvolupi l’activitat.
+2. Així mateix, han de facilitar tant l’examen dels documents relacionats amb l’activitat turística, proporcionant la possibilitat d’obtenir-ne còpies o reproduccions, com la comprovació de totes les dades que siguin necessàries per als fins de la inspecció.

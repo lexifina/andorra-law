@@ -1,0 +1,5 @@
+# Article 32. Principis d’actuació en matèria de promoció turística
+1. Andorra, en conjunt, es considera, als efectes d’aquesta Llei, una destinació turística integral. Els seus recursos i serveis requereixen un tractament unitari en la promoció fora del territori andorrà. La promoció d’aquesta imatge ha d’integrar la diversitat dels destins turístics d’Andorra.
+2. S’ha de potenciar el destí turístic d’Andorra al mercat nacional, europeu i internacional, afavorint l’ajust adequat entre les accions promocionals que cal desenvolupar, les demandes del mercat i el desenvolupament sostenible del turisme.
+3. La promoció s’ha d’orientar als diversos segments de mercat, diversificant una oferta turística autèntica i de qualitat que ofereixi una imatge d’Andorra com a destinació turística singular.
+4. El ministeri competent en matèria de turisme, amb la consulta prèvia al Consell Nacional de Turisme, ha de fomentar la participació i la coordinació amb els comuns i amb les associacions empresarials més representatives del sector turístic en les activitats de promoció.

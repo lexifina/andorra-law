@@ -1,0 +1,4 @@
+# Article 7. Relacions interadministratives
+1. Les administracions i entitats amb competències en matèria de turisme, dins l’àmbit de les seves atribucions, s’han d’ajustar en les seves relacions recíproques als principis d’informació mútua, coordinació, col·laboració, cooperació, respecte als àmbits competencials respectius i ponderació dels interessos públics implicats, prioritzant l’eficàcia i l’eficiència administratives.
+2. En aplicació d’aquests principis es poden subscriure convenis de col·laboració, celebrar conferències sectorials, crear comissions interadministratives i elaborar instruments de planificació.
+3. En tot cas, les administracions competents han de coordinar-se amb les polítiques d’habitatge, de mobilitat i de protecció del medi ambient, mitjançant els informes que siguin preceptius de conformitat amb la normativa aplicable en els àmbits referits.

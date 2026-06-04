@@ -1,0 +1,2 @@
+# Article 77. Prescripció de les sancions
+Les sancions i mesures accessòries a què es refereix aquesta Llei que siguin imposades per infraccions molt greus prescriuen al cap de tres anys; les imposades per infraccions greus, al cap de dos anys, i les imposades per infraccions lleus, al cap d’un any, començant el còmput d’aquests terminis l’endemà del dia en què adquireixi fermesa la resolució per la qual s’imposa la sanció.

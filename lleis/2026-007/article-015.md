@@ -1,0 +1,5 @@
+## Secció tercera. Accessibilitat
+# Article 15. Andorra accessible i sense barreres
+1. Les administracions públiques han de fomentar el turisme accessible, de conformitat amb el que preveu la normativa sectorial nacional en matèria d’accessibilitat universal.
+2. A l’efecte d’aquesta Llei, s’entén per turisme accessible una forma de turisme que implica un procés de col·laboració entre les parts interessades per permetre a les persones amb necessitats especials d’accés (en diferents dimensions, com ara la mobilitat, la visió, l’audició i la cognició) funcionar de manera independent, amb igualtat i dignitat, gràcies a una oferta de productes, serveis i entorns turístics dissenyats de manera universal.
+3. El ministeri competent en matèria de turisme ha de promoure, juntament amb totes les administracions implicades, associacions empresarials i organitzacions de persones amb discapacitat, iniciatives que eliminin les barreres, en particular per a les persones que tinguin alguna discapacitat, sigui física, intel·lectual o sensorial, de conformitat amb la normativa sectorial vigent en matèria d’accessibilitat.

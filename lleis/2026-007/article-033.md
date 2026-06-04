@@ -1,0 +1,4 @@
+# Article 33. Creació, modificació, utilització i extinció de la marca Andorra
+1. Es crea la marca Andorra, com a distintiu exclusiu i integral del país i de la seva imatge global en l’àmbit internacional, titularitat del Govern, que prestigia els recursos, els productes i els serveis turístics, i fomenta una imatge de qualitat de l’oferta turística d’Andorra als mercats nacionals i internacionals. La titularitat de la marca Andorra correspon al Govern i la seva promoció ha de ser liderada per Andorra Turisme, SAU.
+2. La marca Andorra s’ha de regular reglamentàriament, en particular la descripció i l’àmbit, així com les normes d’utilització.
+3. Sense perjudici del que s’ha dit anteriorment, la creació, la modificació, l’extinció i la utilització de les marques turístiques estan subjectes al que disposa la normativa vigent sobre marques i noms comercials.
