@@ -1,0 +1,8 @@
+# Article 7. Modificació de l’article 10
+Es modifica l’article 10 de la Llei qualificada de la nacionalitat, del 5 d’octubre de 1995, que queda redactat de la manera següent:
+“Article 10
+1. Pot adquirir la nacionalitat andorrana, en la forma prevista per l’article 28, la persona estrangera que ha contret matrimoni amb una persona de nacionalitat andorrana, si compleix les condicions de l’article 7, si acredita tenir la residència principal i permanent al Principat d’Andorra ininterrompudament des d’almenys cinc anys, abans o després de la celebració del matrimoni, i si prova la seva integració al Principat d’Andorra.
+2. Per tenir dret a adquirir la nacionalitat andorrana en virtut d’aquest article és necessari que la convivència es mantingui fins que es resolgui el dret d’adquisició de la nacionalitat. La constatació del trencament de la convivència abans que es resolgui el dret d’adquisició de la nacionalitat implica l’incompliment del requisit principal i fonamenta desestimar la sol·licitud i l’arxivament de l’expedient.
+3. No pot adquirir la nacionalitat andorrana en virtut d’aquest article qui hagi estat prèviament condemnat per delicte dolós a una pena igual o superior a un any de privació de llibertat, o per dos o més delictes dolosos, mentre no s’ha cancel·lat la inscripció de la condemna en el registre d’antecedents penals.
+4. El Govern pot denegar la naturalització en virtut d’aquest article per raons d’ordre públic o d’interès nacional.
+5. En cas de trencament del vincle matrimonial, la nacionalitat adquirida en virtut d’aquest article no és transmissible per matrimoni fins a complir els vint anys de residència.”

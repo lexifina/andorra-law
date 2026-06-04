@@ -1,0 +1,2 @@
+# Disposició final segona. Text consolidat
+S’encomana al Govern, en els termes previstos a l’article 116 del Reglament del Consell General, que en el termini màxim de sis mesos des de la publicació d’aquesta Llei al Butlletí Oficial del Principat d’Andorra presenti al Consell General el projecte de consolidació de la Llei qualificada de la nacionalitat, del 5 d’octubre de 1995, amb la incorporació de totes les modificacions que s’hi han produït.

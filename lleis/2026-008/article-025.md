@@ -1,0 +1,4 @@
+# Article 25. Incorporació d’una disposició addicional
+S’incorpora una disposició addicional a la Llei qualificada de la nacionalitat, del 5 d’octubre de 1995, que queda redactada de la manera següent:
+“Disposició addicional
+En cas que la filiació paterna o materna resulti del reconeixement d’un títol estranger que acrediti una relació de filiació constituïda mitjançant gestació per substitució, en els termes previstos a l’article 12 de la Llei qualificada de tècniques de reproducció humana assistida i a l’article 256 de la Llei qualificada de la persona i de la família, és aplicable, per analogia, el règim establert en aquesta Llei per a l’adopció. En aquest supòsit, s’ha d’aportar la resolució judicial de reconeixement del títol estranger a l’expedient de sol·licitud de la nacionalitat.”

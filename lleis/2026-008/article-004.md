@@ -1,0 +1,5 @@
+# Article 4. Modificació de l’article 7
+Es modifica l’article 7 de la Llei qualificada de la nacionalitat, del 5 d’octubre de 1995, que queda redactat de la manera següent:
+“Article 7
+1. Ningú no pot adquirir o recuperar la nacionalitat andorrana en aplicació dels articles 9, 10, 11, 12 i 26 si, prèviament, no ha establert la seva residència principal i permanent al Principat d’Andorra i si, en el termini previst en l’article 28, no ha demostrat haver perdut la o les nacionalitats que posseïa anteriorment.
+2. Correspon a la persona sol·licitant provar la seva residència principal i permanent al Principat d’Andorra durant els terminis requerits en aquesta Llei, segons el cas. El servei competent per instruir l’expedient de sol·licitud de la nacionalitat pot dur a terme totes les verificacions escaients, pot requerir les enquestes que estimi oportunes i pot sol·licitar i obtenir informació als altres serveis de l’Administració i de qualsevol entitat pública a l’efecte de verificar el compliment del requisit relatiu a la residència principal i permanent, i de tots els altres requisits previstos en aquesta Llei.”
