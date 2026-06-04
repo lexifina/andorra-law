@@ -1,0 +1,6 @@
+# Article 26. Modificació de l’article 70
+Es modifica l’apartat 1 de l’article 70 de la Llei 7/2021, del 29 d’abril, de recuperació i de resolució d’entitats bancàries i d’empreses d’inversió, que queda redactat de la manera següent:
+“Article 70. Altres condicions aplicables
+1. L’adopció de qualsevol mesura d’actuació primerenca o de resolució, fins i tot la facultat per suspendre determinades obligacions prevista a l’article 74 ter, no constitueix per si mateixa un supòsit d’incompliment ni permet per si mateixa a cap contrapart declarar el venciment, la modificació, la suspensió o la resolució anticipada de l’operació corresponent, o instar l’execució o la compensació de qualsevol dret o obligació que es derivi de l’operació o del contracte, o afectar de qualsevol altra manera aquest contracte, i es tenen per no posades les clàusules que així ho estableixin.
+No obstant el que es determina al paràgraf anterior, la contrapart pot declarar, en els termes i les condicions establerts en el contracte, el venciment o la resolució anticipada del contracte o l’operació corresponent com a conseqüència d’un supòsit d’incompliment anterior o posterior a l’adopció o l’exercici de la mesura o facultat corresponent i no vinculat necessàriament a aquesta mesura o facultat.
+[…]”

@@ -1,0 +1,5 @@
+# Article 9. Modificació de l’article 36
+Es modifiquen els apartats 1 i 2 de l’article 36 de la Llei 7/2021, del 29 d’abril, de recuperació i de resolució d’entitats bancàries i d’empreses d’inversió, que queden redactats de la manera següent:
+“Article 36. Amortització i conversió d’instruments de capital i recapitalització interna
+1. L’AREB ha de procedir a l’amortització i la conversió d’instruments de capital i passius admissibles d’una entitat, d’una entitat financera o d’un societat de cartera o a l’aplicació de l’instrument de recapitalització interna, i ha d’acordar l’amortització de qualsevol dels seus passius o la seva conversió en accions o altres instruments de capital de les entitats, en els termes previstos en aquesta Llei. Els actes que l’AREB adopti en aplicació de les previsions d’aquest capítol tenen caràcter d’actes administratius.
+2. Sempre que l’AREB adopti mesures de resolució de les quals es derivi l’assumpció de pèrdues per part dels creditors, de manera prèvia o amb caràcter simultani, ha de procedir a l’amortització o la conversió dels instruments de capital i passius admissibles, en els termes previstos en aquesta Llei.”

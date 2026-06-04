@@ -1,0 +1,7 @@
+# Article 27. Modificació de l’article 72
+El segon paràgraf de l’apartat 2 passa a ser l’apartat 3 i s’afegeixen un segon paràgraf a l’apartat 2 de l’article 72 de la Llei 7/2021, del 29 d’abril, de recuperació i de resolució d’entitats bancàries i d’empreses d’inversió, que queden redactats de la manera següent:
+“Article 72. Publicitat
+[…]
+2. Sense perjudici del que s’estableix a l’apartat anterior, l’AREB ha de notificar les mesures que adopti a l’entitat, a l’entitat financera o a la societat de cartera, al ministeri encarregat de les finances i a l’AFA.
+Igualment, l’AREB ha d’informar sense demora l’entitat, l’entitat financera o la societat de cartera, el ministeri encarregat de les finances, l’AFA i el Fons Andorrà de Garantia de Dipòsits (Fagadi), en cas d’exercir la facultat prevista a l’apartat 1 de l’article 74 ter, una vegada que s’hagi determinat que l’entitat, l’entitat financera o la societat de cartera és inviable o té probabilitat de ser-ho d’acord amb la lletra a de l’apartat 1 de l’article 19.
+3. Durant la preparació de les mesures d’actuació primerenca i de resolució i, en particular, mentre es du a terme la valoració que s’estableix a l’article 5 i durant les fases d’estudi o negociació de qualsevol operació en què es pugui concretar l’aplicació d’un dels instruments de resolució, l’entitat, l’entitat financera o la societat de cartera està exempta de l’obligació de fer pública i de difondre qualsevol informació que pugui tenir la consideració d’informació rellevant d’acord amb la normativa aplicable.”

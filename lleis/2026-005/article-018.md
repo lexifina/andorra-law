@@ -1,0 +1,9 @@
+# Article 18. Modificació de l’article 44
+Es modifiquen els apartats 1 i 3 i s’afegeix un apartat 1 bis a l’article 44 de la Llei 7/2021, del 29 d’abril, de recuperació i de resolució d’entitats bancàries i d’empreses d’inversió, que queden redactats de la manera següent:
+“Article 44. Passius susceptibles d’exclusió de la recapitalització interna per decisió de l’AREB
+1. En circumstàncies excepcionals, i amb notificació prèvia al ministeri encarregat de les finances, l’AREB, en els termes i amb les condicions previstes en aquesta Llei i, si escau, en el seu desenvolupament reglamentari, pot excloure de la recapitalització interna, totalment o parcialment, certs passius o categories de passius susceptibles de recapitalització interna quan es produeixi alguna de les circumstàncies següents:
+[…]
+1 bis. L’AREB ha de valorar atentament si els passius d’entitats, d’entitats financeres o de societats de cartera que formin part del mateix grup de resolució sense ser elles mateixes entitats de resolució i que no estiguin exclosos de l’aplicació de les facultats d’amortització o de conversió de conformitat amb la lletra h de l’apartat 1 de l’article 43 han de quedar exclosos totalment o parcialment, en virtut de les lletres a a c de l’apartat anterior, per garantir l’execució efectiva de l’estratègia de resolució.
+[…]
+3. Quan l’AREB decideixi excloure totalment o parcialment un passiu susceptible de recapitalització interna o una categoria de passius susceptibles de recapitalització interna de conformitat amb aquest article, el nivell de l’amortització o conversió aplicada a altres passius susceptibles de recapitalització interna es pot augmentar per tenir en compte aquestes exclusions, sempre que el nivell d’amortització i conversió aplicada a altres passius susceptibles de recapitalització interna respecti el principi que s’estableix a la lletra d de l’apartat 1 de l’article 4.
+[…]”
