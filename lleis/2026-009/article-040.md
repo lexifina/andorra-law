@@ -1,0 +1,7 @@
+# Article 40. Qualificació registral
+1. En exercici de la seva funció de qualificació registral, el registrador ha de determinar, tenint en compte les declaracions formulades, els documents i altres proves aportats, i també els assentaments del mateix Registre:
+a) Si un fet, un acte o una altra circumstància o situació jurídica són susceptibles d’accedir al Registre Civil i, en cas que ho siguin, el tipus d’assentament que s’ha de practicar.
+b) Si l’objecte de l’assentament reuneix els requisits substantius i de forma exigits per les lleis per a la seva validesa i eficàcia.
+c) Si les declaracions i els documents o els mitjans de prova aportats compleixen els requisits legals de forma, s’adeqüen als efectes registrals pretesos i tenen eficàcia probatòria d’acord amb les lleis i les regles de la sana crítica.
+2. La qualificació de les declaracions comprèn també la comprovació de la identitat de la persona declarant i de la seva aptitud per formular la declaració. Si escau, cal comprovar també l’autenticitat de la signatura.
+3. La qualificació de les resolucions administratives i judicials es limita a comprovar la competència de l’òrgan que les dicta, la classe de procediment seguit i les formalitats extrínseques dels documents presentats, tenint en compte els assentaments del mateix Registre. Si es tracta de resolucions d’òrgans o tribunals estrangers, la qualificació s’estén també a l’examen de la seva executorietat a Andorra.

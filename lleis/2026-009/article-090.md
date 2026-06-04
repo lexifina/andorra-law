@@ -1,0 +1,5 @@
+## Capítol sisè. Autoritat parental i representacions legals de menors
+# Article 90. Resolucions relatives a l’autoritat parental i a l’atribució de funcions tutelars
+1. S’inscriuen en el Registre Civil les resolucions judicials que afectin la titularitat o la modalitat d’exercici de l’autoritat parental, inclosa la seva modificació, suspensió, privació, recuperació o extinció, com també l’atribució de funcions tutelars a altres persones, amb expressió del fet o l’acte que les motiva.
+2. Les vicissituds relatives a l’autoritat parental dels progenitors s’inscriuen en el foli personal dels fills i en els dels progenitors. L’atribució de funcions tutelars a terceres persones s’inscriu en el foli personal dels menors concernits i, si la persona nomenada és una persona física, també en el seu foli personal.
+3. En la inscripció s’ha d’expressar la resolució i el procediment en què s’hagi acordat la vicissitud que es tracti i el contingut d’aquesta, amb indicació, si escau, dels drets o funcions atribuïts i de la data d’acceptació dels càrrecs.

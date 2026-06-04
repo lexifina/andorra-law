@@ -1,0 +1,2 @@
+# Disposició transitòria tercera. Publicitat formal
+La publicitat formal de les dades contingudes en els llibres i seccions del Registre Civil preexistents a l’entrada en vigor d’aquesta Llei es farà efectiva amb aplicació de les normes vigents en el moment de sol·licitar-la, si bé les certificacions es podran continuar expedint també en els formats previstos en la llei anterior ateses les circumstàncies del servei.

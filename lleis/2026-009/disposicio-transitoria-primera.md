@@ -1,0 +1,3 @@
+# Disposició transitòria primera. Procediments en tramitació
+1. Els expedients i procediments en curs en el moment de l’entrada en vigor d’aquesta Llei continuaran la seva tramitació amb aplicació de la normativa vigent en el moment de la seva incoació. Les inscripcions o anotacions que se’n derivin es practicaran en els llibres i seccions del Registre preexistents a aquesta Llei. Es manté l’historial complet i la traçabilitat dels assentaments antics.
+2. Els representants legals de les persones que a la data d’entrada en vigor d’aquesta Llei siguin menors d’edat poden sol·licitar la modificació del lloc de naixement del menor, de conformitat amb l’apartat 3 de l’article 72 i la disposició addicional segona, en el termini màxim d’un any des de la data referida.

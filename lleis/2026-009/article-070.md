@@ -1,0 +1,4 @@
+# Article 70. Determinació o exclusió de la paternitat per sentència
+1. La paternitat que no s’hagi pogut establir o l’establiment de la qual hagi quedat en suspens o sense efecte per declaració de persona legitimada o per manca de compliment de requisits legals es pot determinar per sentència judicial ferma.
+2. La determinació de la paternitat per sentència, dictada en un procés de reclamació de la paternitat o en un procés penal, s’inscriu d’acord amb el que resulti de la mateixa. En els supòsits en què sigui possible, d’acord amb la llei, limitar els efectes de la declaració de filiació i així ho demani el representant legal del fill o el propi fill major d’edat, es fa constar aquesta limitació en el mateix assentament.
+3. La paternitat que hagi quedat determinada per presumpció, per reconeixement o per expedient registral només pot quedar sense efecte per sentència judicial ferma dictada en un procés d’impugnació de la paternitat.

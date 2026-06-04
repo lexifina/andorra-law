@@ -1,0 +1,7 @@
+# Article 159. Documents públics estrangers
+1. Els documents públics estrangers que han de servir com a títol d’accés al Registre Civil han de complir els requisits següents:
+a) Que en l’atorgament del document s’hagin observat els requisits exigits en el país de provinença perquè el document tingui efectes probatoris i de fe pública.
+b) Que l’autoritat estrangera hagi intervingut en l’atorgament del document desenvolupant funcions equivalents a les que exerceixen les autoritats andorranes en la matèria de què es tracti o que, tractant-se d’una certificació estesa en registre estranger, aquest tingui garanties anàlogues a les requerides per a la inscripció per la llei andorrana, quant als fets dels quals dona fe.
+c) Que el fet o acte contingut en el document sigui vàlid conforme a l’ordenament designat per les normes andorranes de dret internacional privat.
+d) Que la inscripció del document estranger no resulti manifestament incompatible amb l’ordre públic andorrà.
+2. Als efectes que les certificacions d’assentaments d’estat civil estesos en registres estrangers puguin causar inscripció en el Registre Civil del Principat d’Andorra, el registrador ha d’actuar segons el que resulti dels termes de l’assentament estranger que es desitja traslladar, o del títol documental aportat per al trasllat o, en defecte de tot això, de la prova complementària que es practiqui per altres mitjans.

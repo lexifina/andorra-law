@@ -1,0 +1,3 @@
+# Article 3. Competència del Registre Civil
+1. Han de constar en el Registre Civil del Principat d’Andorra, d’acord amb aquest precepte i amb les disposicions del capítol primer del títol VII, els fets i actes que afectin persones de nacionalitat andorrana, sigui quin sigui el lloc on es produeixin, i els que afectin persones estrangeres amb residència legal, efectiva i permanent a Andorra o que es produeixin en territori andorrà.
+2. Si el primer assentament d’una persona que s’ha de practicar al Registre Civil no és la inscripció de naixement, cal procedir d’acord amb el que disposa l’apartat 3 de l’article 19.

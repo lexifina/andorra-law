@@ -1,0 +1,5 @@
+# Article 91. Títol d’inscripció i deure o facultat de promoure-la
+1. Les resolucions judicials fermes que afecten la modalitat d’exercici de l’autoritat parental o que en declaren la modificació, suspensió, privació, recuperació o extinció, o que atribueixen funcions tutelars a terceres persones, han de ser remeses per l’òrgan jurisdiccional que les ha dictat al Registre Civil perquè es procedeixi a la seva inscripció.
+2. En les resolucions a què es refereix l’apartat 1 han de constar totes les dades d’identificació de la persona o persones concernides per procedir, quan calgui, a l’anotació del seu naixement amb la seva data, fent constar que es realitza l’assentament a l’efecte únic de servir de suport a la dita inscripció.
+3. Si es tracta de resolucions dictades per òrgans jurisdiccionals estrangers, les persones que exerceixen l’autoritat parental o les funcions tutelars o les altres afectades per la resolució tenen el deure de promoure’n la inscripció sense dilació.
+4. Poden també promoure la inscripció d’aquestes resolucions les persones que en tinguin coneixement i que acreditin tenir-hi interès legítim.

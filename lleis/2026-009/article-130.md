@@ -1,0 +1,6 @@
+## Secció segona. Declaració judicial de mort
+# Article 130. Inscripció de la declaració judicial de mort
+1. Les declaracions judicials de mort s’inscriuen en el foli personal de la persona afectada. La inscripció ha de mencionar les dades referides a les lletres a) i b) de l’apartat 1 de l’article 126, les circumstàncies de la desaparició de la persona i la data a partir de la qual s’entén produïda la mort.
+2. Són també objecte d’inscripció les resolucions judicials que deixin sense efecte les declaracions de mort, amb expressió de la seva causa. En cas d’aparició del cadàver de la persona declarada morta, s’expedeix certificat de defunció i s’inscriu aquesta amb inclusió de les mencions referides a l’article 126.
+3. Un cop practicades les inscripcions referides en els apartats 1 i 2, se’n deixa també constància en els folis oberts d’altres persones on la persona declarada morta és mencionada per raó d’una relació familiar o de l’atribució i exercici de càrrecs i funcions objecte d’inscripció registral.
+4. Tenen el deure de promoure la inscripció de la declaració de mort les persones que l’hagin sol·licitat, sens perjudici del que disposa l’article 39. Pot instar també la inscripció qualsevol altra persona que acrediti tenir-hi interès.

@@ -1,0 +1,2 @@
+# Disposició addicional primera. Comunicació de naixements i defuncions pels centres sanitaris
+L’Administració competent en matèria de Registre Civil, en cooperació amb els establiments sanitaris andorrans, ha d’establir protocols que facilitin la comunicació per mitjans segurs d’identificació i signatura electrònica dels naixements i les defuncions que tinguin lloc en aquests establiments, mitjançant la remissió al Registre Civil de formularis oficials degudament emplenats, acompanyats dels certificats mèdics expedits pel facultatiu d’acord amb la llei.

@@ -1,0 +1,2 @@
+# Article 124. Circumstàncies de la mort
+Si hi ha indicis de mort violenta o sospites de crim, o si el metge certificant declara que ignora la causa de la mort, el registrador ha de comunicar al batlle de guàrdia i al Ministeri Fiscal els fets perquè es promoguin les diligències necessàries per a la investigació de les causes i les circumstàncies de la mort i, si és el cas, perquè es realitzi l’autòpsia. El resultat d’aquestes diligències es comunica al Registre Civil i les indicacions donades s’han d’incloure en la inscripció.

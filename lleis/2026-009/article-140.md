@@ -1,0 +1,3 @@
+# Article 140. Publicitat de la filiació adoptiva
+1. En les certificacions en extracte de naixement dels fills adoptius, s’ha de mencionar la filiació respecte dels pares adoptius. Aquestes certificacions només donen fe del mateix naixement, de la seva data i lloc i del sexe de la persona inscrita.
+2. La filiació per naturalesa de la persona adoptada, si és coneguda, només es pot mencionar en les certificacions de naixement en extracte si la persona adoptada ho demana o hi consent. Tanmateix, les certificacions expedides per a la seva aportació als expedients de celebració de matrimoni o de constitució d’unió estable de parella de la persona inscrita han de mencionar sempre tant la filiació adoptiva com la natural si és coneguda.

@@ -1,0 +1,2 @@
+# Article 85. Cognoms en cas d’abandonament
+Quan no consti la filiació d’una persona, el registrador li ha d’atribuir nom propi i cognoms, escollint-los d’entre els més usuals i evitant sempre qualsevol referència a la condició d’abandonada. En aquest cas s’han de respectar les indicacions escrites que s’hagin trobat en poder de la persona, sempre que no comportin l’atribució de paternitat o maternitat.

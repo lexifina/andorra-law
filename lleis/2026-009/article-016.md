@@ -1,0 +1,4 @@
+# Article 16. Accés i comunicació telemàtiques
+1. El Registre Civil ha de facilitar que els usuaris puguin sol·licitar informació, presentar els formularis o altres documents necessaris en els expedients registrals o fer qualsevol altra actuació davant del Registre per via telemàtica, llevat dels casos en què la llei requereixi la compareixença personal o una altra modalitat d’actuació.
+2. Les comunicacions i notificacions del Registre Civil s’han de practicar preferentment per mitjans electrònics i sempre d’aquesta manera si la persona o entitat que les ha de rebre està obligada a relacionar-se electrònicament amb el Registre o ha sol·licitat rebre-les d’aquesta manera.
+3. Per via reglamentària s’ha d’establir les persones i institucions obligades a relacionar-se amb el Registre Civil per mitjans electrònics.

@@ -1,0 +1,2 @@
+# Article 116. Disposicions sobre curatela futura
+Si en previsió d’una necessitat futura de suport la persona formula en escriptura pública una proposta de nomenament o d’exclusió de persones per a exercir la curatela o altres càrrecs de suport o adopta disposicions sobre el contingut o funcionament d’aquestes mesures, cal anotar l’atorgament de l’escriptura en el seu foli personal, amb indicació del notari que l’ha autoritzada i la seva data.

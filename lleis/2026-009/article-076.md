@@ -1,0 +1,3 @@
+# Article 76. Elecció del nom propi
+1. El nom propi és elegit lliurement pel progenitor o progenitors del fill que hagin quedat determinats en la declaració de naixement, en la qual s’ha de fer constar el nom que hagin escollit.
+2. Si la declaració de naixement no ha estat feta per cap dels progenitors, o bé no consta que aquests hagin elegit nom, o el nom elegit infringeix les limitacions establertes en l’article 75, el registrador ha d’apercebre el progenitor o progenitors legalment determinats perquè escullin un nom conforme a la llei. Si no ho fan en el termini de tres dies hàbils, el registrador imposa al nadó un nom d’ús corrent.

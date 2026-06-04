@@ -1,0 +1,3 @@
+# Article 7. Provisió dels càrrecs i dotació pressupostària
+1. Els registradors civils titular i suplent són personal funcionari. Les seves places han de ser cobertes per persones titulades en dret i es proveeixen pel procediment i amb els requisits establerts en la legislació reguladora de la funció pública. Les bases de la convocatòria han d’informar de les proves selectives que cal superar.
+2. El pressupost general de l’Estat ha d’incloure sempre la dotació per als càrrecs de registrador titular i de registrador suplent, sigui quina sigui la permanència en el càrrec de les persones que els exerceixin.

@@ -1,0 +1,10 @@
+## Secció segona. Patrimonis protegits
+# Article 117. Inscripció de la constitució i administració de patrimonis protegits
+1. En relació amb els patrimonis protegits a favor de persones amb discapacitat, es poden inscriure en el Registre Civil, a instància de les persones constituents, administradores o beneficiàries:
+a) La seva constitució, modificació i extinció.
+b) La designació o nomenament dels administradors i el seu cessament.
+2. Les inscripcions de constitució o modificació dels patrimonis protegits es practiquen en virtut de l’escriptura pública o resolució judicial que l’ha autoritzat, amb indicació de la seva denominació, la seva data, les mencions d’identitat dels constituents o aportants, dels administradors i de la persona o persones beneficiàries i, en cas de modificació, l’objecte d’aquesta.
+3. La inscripció de l’extinció dels patrimonis protegits es practica a instància dels administradors, acreditant que concorre algunes de les causes legals, o en virtut de la resolució judicial que l’hagi declarat. En la inscripció s’ha de fer constar, quan s’hagi produït, la liquidació i eventual adjudicació del romanent d’acord amb el disposat en la llei.
+4. Les inscripcions de designació o nomenament d’administradors han d’incloure les regles d’administració del patrimoni i les facultats que tenen atribuïdes, com també les regles de supervisió i control que eventualment s’haguessin establert. En la inscripció del seu cessament, se n’ha d’indicar la causa i, si escau, la resolució judicial que l’ha declarat.
+5. Tenen el deure de promoure les inscripcions en matèria de patrimonis protegits les persones que els constitueixen i els administradors, sens perjudici del que disposa l’article 39. Pot instar també aquestes inscripcions qualsevol altra persona que acrediti tenir-hi interès.
+6. La constitució, modificació i extinció del patrimoni protegit s’inscriu en el foli personal de la persona o persones beneficiàries i la designació o nomenament dels administradors i el seu cessament en els folis personals dels mateixos.

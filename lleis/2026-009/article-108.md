@@ -1,0 +1,3 @@
+# Article 108. Inscripcions de sentències de nul·litat matrimonial, separació o divorci
+1. Les sentències fermes de nul·litat matrimonial, separació o divorci dictades pels òrgans jurisdiccionals andorrans han de ser remeses al Registre Civil per a la seva inscripció sense dilació, per testimoni o còpia electrònica, d’acord amb el que disposa l’apartat 4 de l’article 39.
+2. Els cònjuges tenen el deure d’aportar còpia de les sentències o resolucions canòniques o les dictades per òrgans jurisdiccionals o administratius estrangers. La inscripció d’aquestes sentències o resolucions requereix que compleixin els requisits generals previstos per la llei per a les resolucions canòniques o estrangeres, segons el cas.

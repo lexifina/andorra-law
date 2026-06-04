@@ -1,0 +1,3 @@
+# Article 28. No alteració dels assentaments signats
+1. Una vegada signats, els assentaments no poden ésser alterats. La seva rectificació o modificació s’ha de fer d’acord amb les normes del capítol segon d’aquest títol. Tanmateix, el registrador pot esmenar en qualsevol moment, d’ofici o a instància de persona interessada, els mers errors de transcripció, materials o de fet, deixant constància que es tracta d’una esmena d’aquesta naturalesa.
+2. Una vegada estès i signat l’assentament, el registrador és responsable de les irregularitats o omissions que s’hagin produït en la seva pràctica, llevat que, constatada la deficiència, no hagi estat encara possible esmenar-la. En aquest cas, cal deixar constància de la deficiència en el text de l’assentament.

@@ -1,0 +1,2 @@
+# Article 43. Conservació i custòdia de la documentació
+Els documents presentats al Registre Civil han de ser custodiats i conservats d’acord amb el que disposen les normes aplicables en matèria de preservació dels objectes digitals del Govern. Si s’han presentat o estès en suport paper, han de ser objecte de digitalització qualificada per al seu arxivament electrònic qualificat d’acord amb les normes aplicables en matèria de digitalització qualificada.

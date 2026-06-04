@@ -1,0 +1,2 @@
+# Article 73. Extinció de l’adopció
+En cas que l’autoritat judicial acordi l’extinció de l’adopció a demanda del pare o mare per naturalesa en el supòsit previst per la Llei qualificada de la persona i de la família, s’ha de cancel·lar l’assentament d’inscripció de l’adopció i restablir la inscripció o inscripcions de filiació relatives al progenitor o progenitors que van instar la declaració d’extinció de l’adopció.

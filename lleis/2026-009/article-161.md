@@ -1,0 +1,2 @@
+# Article 161. Declaracions de coneixement o voluntat
+Les declaracions de coneixement o de voluntat que constitueixen títol d’accés al Registre Civil d’Andorra efectuades davant de la persona encarregada del Registre Civil i que afecten l’estat civil de les persones es formulen d’acord amb allò previst en aquesta Llei amb independència que els fets i actes s’hagin d’ajustar a la llei que correspongui aplicar de conformitat amb les normes andorranes de dret internacional privat.

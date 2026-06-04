@@ -1,0 +1,3 @@
+# Article 129. Llicència d’inhumació o incineració
+1. Per inhumar o incinerar un cadàver cal haver obtingut la llicència corresponent, que el registrador ha d’expedir després d’haver estat practicada la inscripció de la defunció.
+2. La inhumació o incineració del cos o les restes de la persona difunta no pot tenir lloc abans que hagi transcorregut un interval de temps d’almenys dotze hores ni tampoc després de setanta-dues hores, comptades des de la defunció o el trobament del cadàver, llevat dels casos en què reglamentàriament es permeti demorar-les o en què el batlle de guàrdia disposi una altra cosa.

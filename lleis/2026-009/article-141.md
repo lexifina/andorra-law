@@ -1,0 +1,3 @@
+# Article 141. Sol·licitud de certificacions per l’autoritat eclesiàstica
+1. En la instrucció d’expedients de celebració de matrimoni, tramitació de dispensa d’impediments o substanciació de causes de separació, dissolució o nul·litat de matrimonis canònics, l’autoritat eclesiàstica, havent-ne assabentat prèviament als interessats, pot sol·licitar el lliurament de certificacions literals de matrimoni i de naixement de fills, sense limitació per raó de la classe de filiació.
+2. A les sol·licituds a què es refereix l’apartat 1, l’autoritat eclesiàstica ha d’adjuntar-hi un certificat emanat de la mateixa autoritat que acrediti que està instruint un expedient matrimonial, tramitant una dispensa o substanciant algun dels processos referits.

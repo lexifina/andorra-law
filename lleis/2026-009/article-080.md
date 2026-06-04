@@ -1,0 +1,3 @@
+# Article 80. Inversió dels cognoms
+1. La persona major d’edat o emancipada pot sol·licitar la inversió dels seus cognoms per mitjà d’una declaració davant del registrador. Aquesta inversió no té efectes fins que no és inscrita, i només es pot efectuar una vegada.
+2. La inversió dels cognoms pot també ser sol·licitada pel progenitor o progenitors que exerceixin l’autoritat parental respecte de tots els fills menors d’edat, si concorre una causa justa que ha d’apreciar el registrador. Contra la decisió negativa del registrador es pot interposar un recurs davant el tribunal de la jurisdicció civil al qual correspongui per torn.

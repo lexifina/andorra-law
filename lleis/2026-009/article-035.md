@@ -1,0 +1,4 @@
+# Article 35. Representació
+1. Les persones legitimades per a promoure o intervenir en un procediment registral ho poden fer, si escau, per mitjà del seu representant legal o, en cas de discapacitat, per mitjà de la persona que els presti un suport de caràcter representatiu designada per la pròpia persona afectada o per l’autoritat judicial.
+2. Les persones legitimades per a promoure o intervenir en un procediment registral ho poden fer també per mitjà de representació voluntària conferida a un advocat o un procurador que exerceixin legalment la professió a Andorra o un altre professional legitimat per actuar davant les administracions públiques i disposin de poder especial a l’efecte, conferit davant un notari o en virtut de la compareixença davant el registrador.
+3. S’exceptuen de l’actuació per mitjà de representant els supòsits en què la llei exigeix la intervenció personal de la persona interessada.

@@ -1,0 +1,3 @@
+# Article 56. Inscripció de naixement de menors abandonats
+1. El Servei Especialitzat d’Atenció a la Infància i a l’Adolescència ha de promoure la inscripció de naixement dels menors desemparats per abandonament, que siguin trobats en territori andorrà, sigui coneguda o no la seva filiació. També la pot promoure el Ministeri Fiscal, si rep comunicació d’aquesta eventualitat.
+2. La inscripció s’ha de promoure sempre per mitjà d’expedient registral o de procediment judicial, d’acord amb el que estableix l’article 51. En el procediment, cal comprovar pels mitjans a l’abast de les autoritats andorranes que no consti la inscripció del menor en un altre registre civil.

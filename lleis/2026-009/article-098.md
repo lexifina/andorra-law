@@ -1,0 +1,3 @@
+# Article 98. Curatela de persona emancipada
+1. S’inscriu en el Registre Civil la constitució de la curatela i el nomenament del curador de les persones emancipades.
+2. La inscripció es practica en el foli personal de la persona emancipada i de la nomenada com a curadora en virtut de la resolució judicial corresponent, tan bon punt consti que el càrrec ha estat acceptat. També es fa constar el cessament en el seu exercici, per remissió de la resolució judicial que el declari o fins i tot d’ofici, si la causa resulta d’altres inscripcions en el mateix Registre o de la constatació que la persona emancipada ha arribat a la majoria d’edat.

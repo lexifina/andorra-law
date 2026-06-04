@@ -1,0 +1,3 @@
+# Article 123. Certificat mèdic de defunció
+1. En el moment de fer la declaració s’ha de presentar el certificat mèdic de defunció expedit per un metge en exercici legal de la professió en el lloc on s’ha esdevingut la defunció. El certificat facultatiu ha d’ésser estès en lletra impresa o clarament llegible i ha de restar arxivat. En el certificat ha de constar l’existència de senyals inequívocs de mort.
+2. Si amb la declaració no es presenta el certificat mèdic de defunció, el registrador requereix del metge forense, o d’un altre metge en defecte del forense, que comprovi la defunció i en lliuri el certificat.

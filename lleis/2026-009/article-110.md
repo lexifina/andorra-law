@@ -1,0 +1,4 @@
+# Article 110. Inscripció de la unió estable de parella i règim d’eficàcia
+1. La unió estable de parella, si ha esdevingut ferma la resolució que n’autoritza la constitució, s’inscriu en el Registre un cop transcorreguts sis mesos a comptar del moment en què es va promoure l’expedient previ.
+2. La unió estable de parella s’inscriu en el foli personal de cadascun dels convivents. En cas que el naixement d’algun dels convivents no consti inscrit en el Registre Civil, es procedeix a una anotació del naixement i la seva data, fent constar que es realitza l’assentament a l’efecte únic de servir de suport a la inscripció corresponent.
+3. La unió estable de parella produeix efectes entre els convivents des del dia en què es va promoure l’expedient previ, sempre que hagi estat inscrita. Respecte de tercers, els produeix a comptar de la data de la inscripció.

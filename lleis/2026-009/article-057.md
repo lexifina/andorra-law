@@ -1,0 +1,4 @@
+# Article 57. Mencions de la inscripció de naixement dels menors abandonats
+1. La inscripció del naixement de la persona abandonada es practica d’acord amb les dades resultants de la resolució de l’expedient registral o de la sentència, en què s’han de fer constar totes les mencions d’identificació de la persona que puguin ser establertes, així com el lloc, el dia i l’hora en què la persona ha estat trobada.
+2. En la inscripció es fa constar com a lloc i data del naixement el lloc, el dia i l’hora en què la persona ha estat trobada i l’any corresponent a la seva edat estimada, la qual es fixarà per mitjà de les proves pericials pertinents.
+3. Si amb posterioritat a la inscripció arriben a ser coneguts el lloc o la data reals del naixement o altres dades d’identificació de la persona que no es corresponguin amb les mencionades en l’assentament, s’ha de procedir a la seva rectificació d’acord amb el procediment establert en aquesta Llei.

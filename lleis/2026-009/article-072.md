@@ -1,0 +1,5 @@
+# Article 72. Inscripció de la filiació adoptiva
+1. La filiació adoptiva s’inscriu mitjançant certificació, testimoni o còpia electrònica de la resolució judicial en virtut de la qual s’ha constituït l’adopció, a la qual s’ha de fer menció expressa.
+2. Quan el naixement de la persona adoptada no estigui inscrit al Registre Civil del Principat d’Andorra, cal aportar un certificat literal de naixement del registre estranger on es va practicar la inscripció, a fi de transcriure el naixement en el registre andorrà. En el cas que no es pugui aportar certificat literal de naixement, s’ha de practicar una anotació de suport fent constar que s’ha realitzat a l’efecte únic de servir de suport a la inscripció d’adopció.
+3. En els casos d’adopció internacional, la persona adoptant o les persones adoptants de comú acord, poden sol·licitar que consti el seu domicili com a lloc de naixement de la persona adoptada.
+4. La menció de la naturalesa adoptiva de la filiació i les dades d’identitat del progenitor o progenitors substituïts per l’adopció i de la persona adoptada queden sotmeses al règim de publicitat establert en els articles 139 i 140.

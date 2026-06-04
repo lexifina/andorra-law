@@ -1,0 +1,3 @@
+# Article 114. Càrrecs per a la provisió de suport
+1. En la inscripció de nomenament de curador, defensor judicial o d’altres càrrecs a qui s’atribueixen funcions tutelars s’ha de fer constar l’acceptació o presa de possessió del càrrec i, quan es produeixi, el seu cessament. Si el nomenament de curador és preventiu, s’ha de fer constar aquesta qualitat.
+2. Si el cessament es produeix per causa que hagi causat inscripció en el Registre Civil, el registrador el fa constar d’ofici. Si es produeix per resolució judicial, se n’ha remetre testimoni o còpia al Registre Civil per a la seva constància en els folis personals corresponents.

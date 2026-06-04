@@ -1,0 +1,4 @@
+# Article 52. Contingut i formalització de la declaració
+1. La declaració de naixement s’ha d’efectuar en el formulari oficial, que ha de ser signat per la persona o persones declarants. En cas que aquests siguin els progenitors, el formulari ha de fer els advertiments escaients respecte del valor de la declaració als efectes de la determinació de la filiació.
+2. La declaració ha d’incloure les mencions que ha de contenir la inscripció de naixement d’acord amb l’article 55, si la persona declarant les coneix i si no resulten ja del certificat facultatiu del naixement, i ha d’anar acompanyada de la documentació acreditativa de la identitat dels progenitors de la persona nascuda, si la filiació queda determinada.
+3. El registrador ha de comprovar l’exactitud de la declaració realitzada, mitjançant els documents aportats, les dades del Registre i qualsevol altra informació que tingui al seu abast.

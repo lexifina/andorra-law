@@ -1,0 +1,5 @@
+# Article 146. Competència en matèria d’autoritat parental i representació legal de menors
+1. S’han d’inscriure al Registre Civil les vicissituds relatives a la titularitat o l’exercici de l’autoritat parental, a la tutela de menors o a altres modalitats de representació legal de menors si afecten:
+a) Persones de nacionalitat andorrana o amb residència legal, efectiva i permanent a Andorra, amb independència de si l’afectació és fruit d’una resolució dictada per òrgans jurisdiccionals andorrans o estrangers.
+b) Persones estrangeres no residents a Andorra, si les resolucions en aquestes matèries han estat dictades per òrgans jurisdiccionals andorrans.
+2. En cas que el naixement dels pares, dels tutors o les altres persones amb funcions de representació legal, o el naixement dels fills o dels menors tutelats o subjectes a alguna altra modalitat de representació legal no constin inscrits en el Registre Civil, s’ha d’efectuar una anotació del naixement i la seva data, fent constar que es realitza l’assentament a l’efecte únic de servir de suport a la inscripció corresponent.
