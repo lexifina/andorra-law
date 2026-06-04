@@ -1,0 +1,7 @@
+# Article 4. Suplement de crèdit per al pressupost de l’Administració general
+1. S’aprova un suplement de crèdit per a l’exercici del 2026, per un import total de 33.750.000 euros, per al pressupost de l’Administració general, per atendre inversions destinades a ampliar el parc públic d’habitatge i a enfortir el sistema sociosanitari, per a les partides següents:
+15 Ministeri de Presidència, Economia, Treball i Habitatge – 180 Departament d’Habitatge – 180 Gabinet Tècnic d’Habitatge – D/60200 Adquisicions d’edificis i altres construccions –106001 Habitatge social – PR0278 Habitatge, per un import de 21.600.000 d’euros
+55 Ministeri de Territori i Urbanisme – 560 Departament d’Urbanisme – 561 Àrea d’Edificació Pública – D/60260 Construccions d’altres edificis –106001 Habitatge social – IN0109 Habitatges Socials, per un import de 6.000.000 d’euros
+55 Ministeri de Territori i Urbanisme – 560 Departament d’Urbanisme – 561 Àrea d’Edificació Pública – D/60910 Estudis i projectes d’inversió –106001 Habitatge social – IN0109 Habitatges Socials, per un import d’1.000.000 d’euros
+55 Ministeri de Territori i Urbanisme – 560 Departament d’Urbanisme – 561 Àrea d’Edificació Pública – D/71111 Servei Andorrà d’Atenció Sanitària – 073101 Serveis hospitalaris – IN0007 Infraestructures centre hospitalari, per un import de 750.000 euros
+65 - Ministeri de Salut - 650 Secretaria d’Estat de Salut - 650 Àrea de Recursos Sanitaris - D/71111/073101 - Servei Andorrà d’Atenció Sanitària - PR0097 - Subvenció explotació HNSM, per un import de 4.400.000 euros
