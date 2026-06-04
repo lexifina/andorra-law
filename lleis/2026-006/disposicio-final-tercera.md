@@ -1,0 +1,2 @@
+# Disposició final tercera. Textos consolidats
+S’encomana al Govern, en els termes previstos a l’article 116 del Reglament del Consell General, que en el termini màxim de sis mesos des de l’entrada en vigor d’aquesta Llei presenti al Consell General els projectes de consolidació de la Llei 31/2018, del 6 de desembre, de relacions laborals i de la Llei 17/2008, del 3 d’octubre, de la seguretat social, amb la incorporació de totes les modificacions que s’hi han produït.

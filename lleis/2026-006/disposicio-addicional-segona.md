@@ -1,0 +1,2 @@
+# Disposició addicional segona. Referències als períodes de descans
+Les referències contingudes en qualsevol norma legal o reglamentària als períodes de descans s’han d’entendre fetes, a partir de l’entrada en vigor de la present Llei, als períodes de suspensió, inclòs si es tracta de disposicions de la Llei 31/2018, del 6 de desembre, de relacions laborals i de la Llei 17/2008, del 3 d’octubre, de la seguretat social, que no hagin estat expressament modificades per la present Llei.

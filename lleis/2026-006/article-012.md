@@ -1,0 +1,7 @@
+# Article 12. Modificació de l’article 154 bis de la Llei de seguretat social
+Es modifica l’article 154 bis de la Llei 17/2008, del 3 d’octubre, de la seguretat social, que queda redactat de la manera següent:
+“Article 154 bis. Durada de la prestació econòmica per acolliment familiar
+1. En el cas de persones assalariades i assimilades, el dret a la prestació econòmica per acolliment familiar neix des del mateix dia que comença el període de suspensió corresponent o a l’arribada efectiva de l’infant o adolescent a la família, i té la mateixa durada que el període de suspensió de què gaudeixi efectivament la persona que s’hi acull, d’acord amb la legislació laboral.
+2. Si les persones acollidores exerceixen una activitat per compte propi tenen dret a la prestació econòmica per acolliment familiar des del mateix dia que comença el període corresponent o a l’arribada de l’infant o adolescent a la família, amb suspensió de l’activitat econòmica, i la prestació té, com a màxim, la durada de suspensió que la Llei de relacions laborals reconeix a les persones assalariades, sempre que mantinguin suspesa de forma efectiva l’activitat econòmica durant tot el període.
+En aquest cas, són d’aplicació les disposicions previstes als apartats 3 i 4 de l’article 154.
+3. En cas de substitució, d’acord amb la normativa continguda en la normativa laboral, la persona acollidora té dret a la prestació econòmica des del dia següent a aquell en què es produeix la substitució i per a tot el període que manca fins a l’extinció de la prestació.”

@@ -1,0 +1,23 @@
+# Article 5. Modificació de l’article 36 de la Llei de relacions laborals
+Es modifica l’article 36 de la Llei 31/2018, del 6 de desembre, de relacions laborals, que queda redactat de la manera següent:
+“Article 36. Suspensió per acolliment familiar
+1. La relació laboral queda en suspens durant el període previst a l’apartat 2 per causa d’acolliment familiar, sempre que aquest acolliment sigui superior a un any, es faci en família aliena, i es tracti de l’acolliment d’infants menors de 6 anys o d’infants o adolescents d’entre 6 i 18 anys amb una discapacitat igual o superior al 33% dictaminada per la Comissió Nacional de Valoració (Conava). En el cas d’acolliment de dos o més infants o adolescents que compleixin els requisits establerts en aquest apartat, el període s’amplia en dos setmanes més per cada infant o adolescent acollit addicional.
+2. El període de suspensió s’amplia progressivament cada any, fins al 2030, i es determina en funció de la data de començament del seu còmput, de conformitat amb l’apartat 7, d’acord amb les regles següents:
+a) Per a l’any 2026, el període és de vint-i-quatre setmanes.
+b) Per a l’any 2027, el període és de trenta setmanes.
+c) Per a l’any 2028, el període és de trenta-quatre setmanes.
+d) Per a l’any 2029, el període és de trenta-vuit setmanes.
+e) Per a l’any 2030 i successius, el període és de quaranta setmanes.
+3. Poden gaudir d’aquest període de suspensió tant la persona sola que acull com els dos membres de la família acollidora indistintament, de forma simultània o successiva, sempre en períodes ininterromputs i sense que la durada total conjunta del període de suspensió pugui superar el període previst, excepte pel que respecta a les dos setmanes immediatament posteriors a la data de començament del còmput previst a l’apartat 7, que són de gaudiment obligatori i simultani per part dels membres de la família acollidora.
+El gaudiment del període de suspensió restant és facultatiu, i s’ha de gaudir de manera ininterrompuda a comptar del seu inici. El període de suspensió facultatiu pot començar, a tot tardar, l’endemà del dia en què l’altre membre de la família acollidora hagi finalitzat el seu període de suspensió facultatiu.
+No obstant el que disposa el primer paràgraf d’aquest apartat, a partir de l’1 de gener del 2030, en cas de tractar-se d’una acollida conjunta, el període de suspensió per acolliment es computa de forma paritària, de manera que cada membre de la família acollidora té dret a gaudir de vint setmanes de suspensió. La manca de gaudiment del període de suspensió facultatiu per part d’un dels membres de la família acollidora comporta que el perdi.
+4. Quan els dos membres de la família acollidora que exerceixin aquest dret treballin per a la mateixa empresa, la direcció empresarial pot limitar el seu exercici simultani en cas que concorrin causes fonamentades i objectives, degudament motivades per escrit, i limitades als supòsits següents:
+a) Pertinença simultània al mateix departament, unitat funcional o servei essencial, quan la coincidència dels períodes de suspensió impedeixi garantir la continuïtat mínima de l’activitat.
+b) Empreses de menys de cinquanta persones treballadores, quan la simultaneïtat generi una afectació organitzativa rellevant i no hi hagi alternatives raonables de reorganització interna.
+c) Existència d’una necessitat justificada de manteniment d’un servei crític, vinculada a raons tècniques, de seguretat, sanitàries, operatives o contractuals que en facin necessària la continuïtat.
+En cap cas aquesta limitació pot afectar el gaudiment de les dos setmanes de suspensió inicials obligatòries que cada membre de la família acollidora ha de gaudir.
+5. Abans d’iniciar-se el període de suspensió per acolliment familiar, la família acollidora ha de notificar per escrit com es distribuirà el període de suspensió per acolliment familiar a la Caixa Andorrana de Seguretat Social i a les empreses on treballen.
+6. El període de suspensió per acolliment familiar s’aplica en els casos d’acolliment familiar en família aliena, per tal d’afavorir i potenciar el procés de construcció del vincle de l’infant o adolescent amb la família acollidora.
+7. El període de suspensió per acolliment familiar comença a comptar en la data en què es formalitza el contracte d’acolliment familiar.
+8. El termini de suspensió per acolliment familiar computa a efectes de vacances i del càlcul d’antiguitat a l’empresa.
+9. El període de suspensió per acolliment familiar s’extingeix quan finalitzi l’acolliment familiar per qualsevol de les causes previstes a la normativa aplicable. La persona o la família d’acollida té l’obligació de notificar la resolució de l’acolliment familiar a la Caixa Andorrana de Seguretat Social.”
