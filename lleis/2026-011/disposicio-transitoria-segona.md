@@ -1,0 +1,2 @@
+# Disposició transitòria segona
+Amb la finalitat de garantir un procés de transició amb garanties, la part arrendadora pot comunicar a la part arrendatària la decisió de renovar o d’extingir el contracte d’acord amb aquesta Llei a partir del moment en què sigui publicada al Butlletí Oficial del Principat d’Andorra, i respectant en qualsevol cas el preavís mínim de sis mesos d’antelació respecte a la data de venciment del contracte.

@@ -1,0 +1,3 @@
+# Disposició final tercera. Programa d’incentius econòmics i fiscals per construir i rehabilitar edificis d’habitatges de lloguer a preu assequible
+1. En el termini de sis mesos des de l’entrada en vigor d’aquesta Llei, el Govern crearà un programa d’incentius, de caràcter estatal i comunal, destinat a facilitar la construcció i la rehabilitació d’habitatges amb la finalitat de destinar-los al lloguer a preu assequible. Aquest programa inclourà igualment l’ampliació dels incentius fiscals i econòmics adreçats als propietaris que destinin habitatges al mercat de lloguer a preu assequible.
+2. S’encomana al Govern que promogui la creació d’un fons de garanties destinat a cobrir els possibles impagaments de les rendes derivades dels contractes de lloguer d’habitatge.

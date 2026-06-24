@@ -1,0 +1,2 @@
+# Disposició final quarta. Textos consolidats
+S’encomana al Govern que, en el termini màxim de sis mesos des de l’entrada en vigor d’aquesta Llei i en els termes previstos a l’article 116 del Reglament del Consell General, tramiti al Consell General el Projecte de text consolidat de la Llei 15/2022, del 23 de maig, del text consolidat d’arrendaments de finques urbanes; de la Llei 15/2021, del 17 de juny, de creació de l’Institut Nacional de l’Habitatge, i de la Llei de l’impost de les transmissions patrimonials immobiliàries, del 29 de desembre del 2000.

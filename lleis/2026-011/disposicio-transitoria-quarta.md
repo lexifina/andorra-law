@@ -1,0 +1,3 @@
+# Disposició transitòria quarta
+Durant l’any 2027, l’actualització de la renda del nou contracte d’arrendament que es pot formalitzar d’acord amb la lletra a de l’apartat 1 de l’article 1 d’aquesta Llei, es fa d’acord amb el que estableix l’article 2 o 3 d’aquesta Llei, amb la salvaguarda que durant el primer any de repercussió de la nova renda, el percentatge corresponent a l’índex general de preus de consum no podrà superar el 2,5%.
+Aquesta salvaguarda no és aplicable als contractes que siguin objecte d’una pròrroga tàcita o legal, els quals es podran actualitzar d’acord amb l’índex general de preus de consum corresponent a l’any 2026.
