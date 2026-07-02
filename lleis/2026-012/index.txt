@@ -1,0 +1,7 @@
+preamble.md
+article-006.md
+disposicio-final-primera.md
+disposicio-final-segona.md
+disposicio-final-tercera.md
+disposicio-final-quarta.md
+signatures.md
