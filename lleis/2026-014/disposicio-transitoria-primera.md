@@ -1,0 +1,2 @@
+# Disposició transitòria primera. Convenis subscrits
+Els convenis subscrits amb el Govern per entitats privades o públiques per donar compliment a alguna de les disposicions d’aquesta Llei que estiguessin vigents a l’entrada en vigor de la Llei 1/2015, del 15 de gener, per l’erradicació de la violència de gènere i de la violència domèstica, tenen plena validesa fins que no es revisin o finalitzin, de conformitat amb les previsions establertes al conveni corresponent, sense perjudici de les adaptacions que exigeixi l’aplicació d’aquesta Llei.

@@ -1,0 +1,6 @@
+## Capítol quart. Defensa, protecció i tutela judicial
+# Article 21. Mesures de protecció institucional
+1. La protecció en situacions de violència de gènere i violència domèstica obliga a aplicar immediatament tots els mitjans i els instruments necessaris per detectar-les, per adoptar mesures preventives i per articular mesures adequades perquè cessin les vulneracions.
+2. Les garanties de protecció s’han d’assegurar tant per mitjans tecnològics com per serveis policials, i també per qualsevol altre mitjà que asseguri la protecció de les víctimes.
+3. En cada despatx de policia s’ha de crear un grup d’atenció a les víctimes de violència de gènere contra les dones i llurs filles i fills, amb formació especialitzada per donar l’atenció i fer el seguiment de les víctimes, garantint-ne així l’assessorament, l’acompanyament i la seguretat, així com el compliment de les mesures que l’autoritat judicial hagi pogut determinar.
+4. La policia ha de dur a terme la recollida i el registre de les dades relatives a totes les formes de violència contra les dones, diferenciant-les de les relatives a la violència domèstica, amb indicació del sexe i l’edat de la víctima i de l’agressor i llur vincle, del tipus de violència i del tipus d’actuació policial duta a terme.

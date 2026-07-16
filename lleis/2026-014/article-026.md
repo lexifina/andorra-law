@@ -1,0 +1,5 @@
+## Capítol cinquè. Sistema de prestacions econòmiques
+# Article 26 Sistema de prestacions econòmiques
+1. S’estableix un sistema de prestacions econòmiques en benefici de les víctimes dels delictes de violència de gènere, de maltractaments en l’àmbit domèstic o dels delictes contra la llibertat sexual comesos contra una dona al territori nacional, amb el resultat de lesions greus o de danys greus contra la integritat física o la salut, física o psicològica, o de mort, i sempre que compleixi les condicions per ser-ne beneficiària, segons previst a l’article següent.
+2. El sistema de prestacions econòmiques previstes en aquest capítol té caràcter subsidiari a la responsabilitat de l’autor del delicte i a l’eventual existència d’altres sistemes de compensació.
+3. L’Estat ha de rescabalar de l’autor del delicte l’import de les prestacions satisfetes, de conformitat amb les disposicions de l’article 33.
