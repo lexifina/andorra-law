@@ -1,0 +1,8 @@
+# Article 3. Modificació de l’article 54 de la Llei 19/2023, del 2 d’octubre, de text consolidat qualificada penitenciària
+Es modifica l’article 54 de la Llei 19/2023, del 2 d’octubre, de text consolidat qualificada penitenciària, que queda redactat de la manera següent:
+“Article 54. Aïllament en cel·la
+1. La sanció d’aïllament en cel·la no es pot aplicar a les dones en estat de gestació. Tampoc no es pot aplicar a les persones menors d’edat, excepte quan sigui necessari per motius de seguretat del mateix intern, dels altres interns o dels agents penitenciaris tot garantint el compliment de les convencions signades per Andorra en relació als drets dels infants.
+2. L’aplicació de la sanció d’aïllament en cel·la requereix un informe mèdic previ favorable, que ha d’emetre un facultatiu aliè als serveis sanitaris del Centre Penitenciari.
+3. Durant el compliment de la sanció d’aïllament en cel·la, un facultatiu aliè als serveis sanitaris del Centre Penitenciari ha de supervisar diàriament aquest compliment i pot proposar, si escau, la suspensió o la modificació de la sanció imposada quan hi hagi motius de salut que ho justifiquin.
+Durant el compliment de la sanció prevista en aquest article, l’intern sancionat té dret a comunicar-se per via telefònica i telemàtica i a rebre visites, de conformitat amb els articles 38 i 38 bis, sempre que no comporti un risc per a la seguretat del mateix intern, dels altres interns, dels agents penitenciaris o de terceres persones.
+4. En cas que no sigui possible complir la sanció d’aïllament d’acord amb el que estableixen els apartats segon i tercer d’aquest article, aquesta sanció se substitueix per una altra sanció.”

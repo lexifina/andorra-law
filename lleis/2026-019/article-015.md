@@ -1,0 +1,5 @@
+# Article 15. S’afegeix un article 115 bis a la Llei qualificada del Codi de procediment penal, del 10 de desembre del 1998
+S’afegeix un article 115 bis a la Llei qualificada del Codi de procediment penal, del 10 de desembre del 1998, que queda redactat de la manera següent:
+“Article 115 bis
+L’assegurament de l’eventual responsabilitat civil que provingui de la comissió d’un delicte i les despeses processals s’ha d’acordar mitjançant aute motivat tenint en compte la proporcionalitat entre el valor dels béns i drets que s’embarguen o es bloquegen i l’import del perjudici ocasionat, la més gran facilitat de realització i també la mínima onerositat per a la persona embargada.
+La persona embargada pot assenyalar béns i drets per fer efectiu l’embargament. L’embargament s’ha de practicar amb preferència sobre aquests béns i drets si garanteixen el cobrament del deute amb la mateixa eficàcia que els altres béns i drets susceptibles d’embargament, i amb això no es causa perjudici a terceres persones.”

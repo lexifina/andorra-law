@@ -1,0 +1,5 @@
+# Article 20 .Modificació de l’article 210 de la Llei qualificada del Codi de procediment penal, del 10 de desembre del 1998
+Es modifica el primer paràgraf de l’article 210 de la Llei qualificada del Codi de procediment penal, del 10 de desembre del 1998, que queda redactat de la manera següent:
+“Article 210
+El condemnat que, en període d’execució de sentència o ordenança penal, i un cop aplicats els beneficis penitenciaris a què fa referència l’article anterior, hagi complert almenys la meitat de la pena de presó ferma, pot sol·licitar la substitució de la resta de la pena de presó que quedi per complir per la pena d’arrest domiciliari amb control monitoritzat, sempre que la presó no hagi estat acordada per raó de delictes majors d’evasió, contra la llibertat sexual, o relatius a la seguretat interior del Principat, a la moneda falsa, al blanqueig de diners o valors, a la vida, la integritat i la llibertat de les persones, o a la salut pública, excepte el delicte de consum, introducció o possessió de droga tòxica per al consum propi, i sempre que la persona interessada sigui resident al Principat i no hagi estat expulsada.
+[…].”
