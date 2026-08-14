@@ -1,0 +1,2 @@
+# Disposició final segona. Text consolidat
+S’encomana al Govern que, en el termini màxim de dotze mesos des de l’entrada en vigor d’aquesta Llei, en els termes previstos a l’article 121 del Reglament del Consell General, trameti al Consell General el Projecte de text consolidat de la Llei 20/2007, del 18 d’octubre, de societats anònimes i de responsabilitat limitada, amb la incorporació de les modificacions produïdes per aquesta Llei.

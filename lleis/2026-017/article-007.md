@@ -1,0 +1,6 @@
+# Article 7. Verificació de l’existència d’activitat efectiva
+1. Ja sigui durant la instrucció del procediment o en qualsevol fase d’investigació preliminar del mateix, el director de Registres Jurídics i Econòmics o el registrador mercantil pot iniciar una verificació que té per objecte confirmar l’absència d’assalariats de la societat i comprovar l’existència de comerços oberts per la societat.
+2. Amb aquesta finalitat, el director de Registres Jurídics i Econòmics o el registrador mercantil requereix a la Caixa Andorrana de Seguretat Social, que té l’obligació de proporcionar-li, la identitat d’assalariats inscrits, ja sigui a nom de la societat mercantil o bé de comerços oberts per la societat que està subjecta al procediment de dissolució administrativa sense liquidació.
+La Caixa Andorrana de Seguretat Social dona resposta al requeriment en el termini d’un mes a partir de la demanda de comunicació de la informació.
+En el cas que la Caixa Andorrana de Seguretat Social no trameti la resposta en el termini establert, el procediment prossegueix.
+3. Les informacions trameses en aplicació d’aquest article al director de Registres Jurídics i Econòmics o al registrador mercantil només es poden emprar amb la finalitat de verificació que prescriu aquesta Llei.

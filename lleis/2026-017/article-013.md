@@ -1,0 +1,2 @@
+# Article 13. Jurisdicció competent
+La jurisdicció administrativa, amb l’exhauriment previ de la via administrativa, és l’única competent per conèixer les controvèrsies de fet i dret que se suscitin entre el ministeri encarregat de l’economia i les societats mercantils objecte d’un procediment de dissolució administrativa sense liquidació en relació amb qualsevol de les qüestions a què es refereix aquesta Llei.

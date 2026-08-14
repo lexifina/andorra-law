@@ -1,0 +1,7 @@
+# Article 9. Resolució de dissolució administrativa i efectes
+1. El procediment de dissolució administrativa sense liquidació s’ha de resoldre en el termini màxim de sis mesos després de la publicació de la resolució que n’acorda l’obertura.
+El transcurs d’aquest termini màxim sense resolució expressa produeix la caducitat del procediment, sens perjudici que se’n pugui incoar un de nou si persisteixen els pressupòsits legalment exigits.
+2. La resolució es notifica a la societat i se’n publica un extracte al Butlletí Oficial del Principat d’Andorra als efectes de notificació i de publicitat.
+3. Contra la resolució adoptada pel ministre encarregat de l’economia es pot interposar un recurs d’acord amb el que estableix la secció quarta.
+4. La resolució definitiva de dissolució administrativa sense liquidació comporta la cancel·lació d’ofici dels assentaments de la societat al Registre de societats i al Registre tributari, sense perjudici del que disposa l’article 16, relatiu a l’aparició d’actius o passius de la societat.
+5. Així mateix, la resolució definitiva de dissolució administrativa sense liquidació comporta, respecte dels administradors de dret o de fet de la societat que siguin responsables dels incompliments que han motivat la dissolució, la prohibició temporal d’exercir funcions d’administració o de direcció en qualsevol societat mercantil inscrita al Principat d’Andorra per un termini d’un any.

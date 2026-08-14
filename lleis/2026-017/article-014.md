@@ -1,0 +1,4 @@
+# Article 14. Recurs jurisdiccional
+1. Contra la desestimació, expressa o presumpta, d’un recurs administratiu, les persones interessades poden interposar un recurs davant de la jurisdicció administrativa, en la forma i els terminis establerts per la llei que regula el procediment d’aquesta jurisdicció.
+2. La interposició del recurs jurisdiccional no té efectes suspensius sobre la resolució impugnada, sens perjudici de les mesures cautelars que, si escau, pugui acordar l’òrgan jurisdiccional competent en els termes previstos a la legislació processal aplicable.
+3. L’estimació del recurs administratiu o jurisdiccional comporta, si escau, la reinscripció d’ofici de la societat al Registre de societats i la comunicació al Departament de Tributs i Fronteres als efectes que corresponguin, sempre que la societat acrediti el compliment de les seves obligacions registrals, comptables, tributàries i de declaració dels beneficiaris efectius.

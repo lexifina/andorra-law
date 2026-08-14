@@ -1,0 +1,6 @@
+## Secció tercera. Procediment de dissolució sense liquidació
+# Article 5. Obertura formal del procediment
+1. El director de Registres Jurídics i Econòmics o el registrador mercantil obre el procediment de dissolució administrativa sense liquidació dins els tres dies hàbils que segueixen el requeriment del ministre assenyalat en l’article 3.
+2. La decisió d’obertura del procediment es notifica per carta certificada amb avís de recepció dirigida a la seu de la societat que figura al Registre de societats. La tramesa de les informacions assenyalades també es pot practicar per via electrònica d’acord amb la normativa general aplicable en matèria de notificacions administratives i administració electrònica.
+3. La decisió es publica igualment al Butlletí Oficial del Principat d’Andorra als efectes de notificació i de publicitat, perquè qualsevol persona pugui informar el director de Registres Jurídics i Econòmics o el registrador mercantil sobre l’existència d’actius o passius de la societat, en el termini màxim de quinze dies naturals des de la data de la publicació.
+4. En el cas que la notificació no hagi pogut ser practicada al domicili social o pels mitjans electrònics habilitats, la notificació es considera duta a terme vàlidament a partir de la data de publicació al Butlletí Oficial del Principat d’Andorra.

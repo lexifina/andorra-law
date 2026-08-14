@@ -1,0 +1,2 @@
+# Article 10. Notificació a la UIFAND
+Als efectes del que estableix l’article 19 de la Llei 14/2017, del 22 de juny, de prevenció i lluita contra el blanqueig de diners o valors i el finançament del terrorisme sobre l’obligació d’accés a la informació relativa als beneficiaris efectius, en la redacció modificada per la Llei 37/2021, del 16 de desembre, el director de Registres Jurídics i Econòmics o el registrador mercantil que obre el procediment de dissolució administrativa sense liquidació d’acord amb el que estableix l’article 5, procedeix a notificar-ho a la UIFAND.
