@@ -1,0 +1,12 @@
+Llei 20/2026, del 17 de setembre, de modificació de la Llei 15/2026, del 14 de juliol, de mesures temporals per fer front a l’increment dels preus dels hidrocarburs.
+Atès que el Consell General en la seva sessió del dia 17 de setembre del 2026 ha aprovat la següent:
+Llei 20/2026, del 17 de setembre, de modificació de la Llei 15/2026, del 14 de juliol, de mesures temporals per fer front a l’increment dels preus dels hidrocarburs
+Exposició de motius
+Històricament, la tributació que afecta els hidrocarburs ha permès mantenir una competitivitat comercial respecte dels estats veïns i, al mateix temps, possibilita que l’impacte del cost del consum energètic no sigui tan important per a les llars i les empreses andorranes.
+No obstant això, durant els darrers mesos, com a conseqüència de la crisi de l’Orient Mitjà i de les mesures fiscals establertes pels estats veïns, els preus dels hidrocarburs ja no han resultat tan competitius, cosa que ha afectat negativament el poder adquisitiu de les llars andorranes i els costos que han d’assumir les empreses.
+Per aquests motius, el 14 de juliol es va aprovar la Llei 15/2026, de mesures temporals per fer front a l’increment dels preus dels hidrocarburs, que establia la possibilitat que els importadors i els distribuïdors d’hidrocarburs sol·licitessin la devolució parcial de l’impost especial de les quotes suportades de l’impost especial sobre els hidrocarburs, sempre que haguessin aplicat la rebaixa en el preu de venda al públic que establia la Llei.
+Un cop transcorregut més d’un mes de la seva aplicació efectiva, s’ha constatat que el resultat ha estat positiu, atès que s’han aplicat les rebaixes proposades i que el volum de litres d’hidrocarburs importats ha recuperat els valors de l’any anterior.
+No obstant això, l’afectació negativa de la crisi de l’Orient Mitjà es manté i es preveu una pèrdua de competitivitat del gasoil respecte del mercat veí.
+Així mateix, s’ha de tenir en compte la voluntat manifestada per les empreses del sector de la distribució i importació de carburants de col·laborar en la implementació de mesures per disminuir els preus dels hidrocarburs.
+Per tant, és necessari mantenir els incentius per rebaixar el preu de la gasolina durant el mes de setembre i incorporar-los incrementats sensiblement en relació amb el preu del gasoil. En tot cas, aquestes mesures són temporals i entren en vigor l’1 de setembre i finalitzen el 30 de setembre del 2026.
+Aquesta Llei consta d’un article i d’una disposició final.
