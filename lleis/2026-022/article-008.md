@@ -1,0 +1,5 @@
+# Article 8. Responsabilitat
+1. La responsabilitat del Tribunal d’Arbitratge del Principat d’Andorra es limita al seu àmbit patrimonial i els seus socis no responen dels deutes que tingui.
+2. El Ple, la Secretaria General i el personal contractat han de complir fidelment amb les disposicions legals, reglamentàries i contractuals que defineixen les seves funcions.
+3. El Tribunal d’Arbitratge del Principat d’Andorra ha de contractar una pòlissa de responsabilitat civil que cobreixi els danys que pugui causar amb la prestació del servei d’administració dels arbitratges, i que sigui proporcional a la naturalesa i l’abast del risc assumit amb la prestació del servei esmentat. En qualsevol cas, però, el Govern determina quin és l’import mínim que ha de cobrir la pòlissa.
+4. El Tribunal d’Arbitratge del Principat d’Andorra ha d’exigir que els seus àrbitres tinguin contractada una pòlissa de responsabilitat civil professional que cobreixi els danys que puguin causar en l’exercici de la seva professió d’àrbitres, d’acord amb l’import mínim que determini el Govern.

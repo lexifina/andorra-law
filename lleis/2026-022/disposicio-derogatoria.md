@@ -1,0 +1,2 @@
+# Disposició derogatòria
+Amb l’entrada en vigor d’aquesta Llei queden derogades la Llei 13/2018, del 31 de maig, del Tribunal d’Arbitratge del Principat d’Andorra; la disposició final desena de la Llei 2/2020, del 27 de febrer, del pressupost per a l’exercici del 2020, i la disposició final segona de la Llei 2/2025, del 23 de gener, qualificada del registre d’entitats religioses, així com totes les disposicions de rang igual o inferior que en contradiguin el contingut.
