@@ -1,0 +1,50 @@
+{
+  "corpus": "ad/national/acts",
+  "name": "Laws of Andorra (the Constitution and the laws of the Consell General), as enacted",
+  "label": "Andorra",
+  "language": "ca",
+  "history": "as-enacted",
+  "history_from": "1989-01-29",
+  "record_to": "2026-10-29",
+  "record_note": "1041 texts from the Butlletí Oficial del Principat d'Andorra (the Constitution and 1040 laws, published 1989-01-29 to 2026-10-28), each as enacted, dated by its entry into force; amendments are not applied (they are listed in data/amendments.csv). Retrieved 2026-10-29, built 2026-10-29.",
+  "built": "2026-10-29",
+  "in_force_trailer": "In-force",
+  "has_future_branch": true,
+  "future_branch": "future",
+  "laws": {
+    "constitution": 1,
+    "laws": 1040
+  },
+  "dates": {
+    "commit": "in-force (the law's own entry-into-force provision, counted from its BOPA publication date; else fifteen days after publication, Codi de l'Administracio 1989 art. 9)",
+    "other_trailers": [
+      "In-force-basis",
+      "Published"
+    ],
+    "time": "12:00 Europe/Andorra (CET/CEST)",
+    "before_1970": "none (the record starts in 1989)",
+    "future": "branch future, never merged"
+  },
+  "author": {
+    "enacted": "the law itself",
+    "amendment": "none: amendments are not applied"
+  },
+  "scope": {
+    "trailer": "Applies",
+    "groups": "any one line",
+    "conditions": "all of a line",
+    "when_absent": "not extracted for Andorra; transitional provisions are in each law",
+    "default_reach": {
+      "rule": "no retroactivity of restrictive provisions",
+      "meaning": "the Constitution guarantees the principle of the non-retroactivity of provisions that restrict individual rights or that impose a penalty; otherwise a law applies from its entry into force unless it says so",
+      "authority": "Constitució del Principat d'Andorra (1993), article 3.2",
+      "decided_here": false
+    }
+  },
+  "citation": {
+    "file": "((?:constitucio|lleis/[^/]+))/article-0*([0-9]+)(?:-[a-z]+)?\\.md",
+    "cites": "(^|[^[:alnum:]])[Aa]rticles? {n}([^0-9]|$)",
+    "note": "article numbers within the same law (\"article 25\", \"articles 25 i 26\" match only the first); a later law's reference to an article of another law is not resolved"
+  },
+  "tool": "tools/in_force_on.py"
+}

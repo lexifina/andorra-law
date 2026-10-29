@@ -1,0 +1,46 @@
+The legislative texts in this repository are from the Butlletí Oficial del Principat d'Andorra (BOPA), the official
+gazette of the Principality of Andorra, https://www.bopa.ad, as published there. The wording was not changed; it was
+only split into files and lines (one file per article, disposition or annex, one paragraph per line).
+
+Official texts are not protected by copyright in Andorra: Llei sobre drets d'autor i drets veïns, del 10 de juny de
+1999 (BOPA núm. 38, any 1999, 6 July 1999), article 4(2):
+
+  "Cap text oficial de naturalesa legislativa, administrativa o judicial, com tampoc cap traducció oficial seva,
+  queden protegits per aquesta Llei."
+  (No official text of a legislative, administrative or judicial nature, nor any official translation of one, is
+  protected by this Law.)
+
+The BOPA's legal notice (www.bopa.ad/AvisLegal, read 2026-10-29) allows reuse on these conditions, quoted as published:
+
+  "Condicions generals d'utilització de la informació continguda a la seu electrònica del 'Butlletí Oficial del
+  Principat d'Andorra'. Pel que fa a la utilització de la informació inserida a la seu electrònica del Butlletí
+  Oficial del Principat d'Andorra, el Servei del Butlletí Oficial del Principat d'Andorra en permet:
+  - La còpia i la difusió.
+  - L'adaptació, l'extracció, la reordenació i la combinació.
+  - La reproducció, la distribució, la comunicació pública o la transformació necessària per a aquesta utilització,
+    en qualsevol modalitat i format.
+  Les condicions per a aquesta utilització són les següents:
+  - Es prohibeix desnaturalitzar el sentit de la informació.
+  - Es prohibeix indicar, insinuar o suggerir que Servei del Butlletí Oficial del Principat d'Andorra participa,
+    patrocina o dóna suport a aquesta utilització.
+  - Les metadades sobre la data d'actualització i les condicions d'utilització de la informació, si s'inclouen en la
+    informació, s'han de conservar sense alterar-les, i no es poden suprimir.
+  - Es prohibeix la utilització de dominis, logotips i elements gràfics que pertanyin al Servei del Butlletí Oficial
+    del Principat d'Andorra, i la seva forma de presentació.
+  - El Servei del Butlletí Oficial del Principat d'Andorra no es fa responsable de l'ús que els usuaris facin de la
+    informació inserida a la seva seu electrònica, ni tampoc dels danys soferts o de les pèrdues econòmiques que, de
+    forma directa o indirecta, produeixin o puguin produir perjudicis econòmics, materials o sobre les dades,
+    provocats per l'ús de la informació utilitzada."
+
+In English: copying, distribution, adaptation, extraction, reordering and combination are allowed, in any format, on
+condition that the meaning is not distorted; that nothing says or suggests the BOPA Service takes part in, sponsors or
+supports this use; that metadata on update dates and conditions of use, where included, are kept unchanged; and that
+no BOPA domains, logos or graphic elements are used. The BOPA Service accepts no liability for the use made of it.
+
+Accordingly: this repository is not made, sponsored or endorsed by the Servei del Butlletí Oficial del Principat
+d'Andorra. Each law's publication date and bulletin number (the BOPA's own metadata) are kept unchanged in its commit
+(`Published:`, `Bulletin:`). The commit author addresses end in `bopa-ad.invalid`, which is not a BOPA domain and
+cannot exist.
+
+Lexifina's own contributions (tools, file arrangement, commit messages and documentation) are dedicated to the
+public domain under CC0 1.0: https://creativecommons.org/publicdomain/zero/1.0/
