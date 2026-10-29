@@ -1,0 +1,9 @@
+# Article 21. Òrgan disciplinari
+1. La potestat disciplinària és exercida per l’òrgan disciplinari, que està integrat pels membres següents:
+a) El president de la Cambra de Notaris, o, si escau, la persona que el substitueixi o el supleixi en el càrrec.
+b) Dos representants del ministeri encarregat de la justícia, designats pel ministre entre funcionaris que ocupin llocs de treball de direcció, comandament o responsabilitat.
+c) Un representant del ministeri encarregat de les finances, designat pel ministre entre funcionaris que ocupin un lloc de treball de direcció, comandament o responsabilitat.
+2. Les reclamacions o les queixes que es puguin formular contra un notari s’adrecen al ministre encarregat de la justícia, el qual les comunica al president de la Cambra de Notaris i, si escau, a la persona que el substitueixi o el supleixi en el càrrec.
+3. Si en el decurs de la tramitació d’un expedient disciplinari es manifesten indicis de conductes que poden constituir una infracció penal, l’òrgan disciplinari ho ha de fer saber a l’òrgan jurisdiccional competent i suspendre, tot seguit, la tramitació de l’expedient esmentat, la qual cosa interromp el còmput dels terminis de prescripció i caducitat, fins que recaigui una resolució ferma en l’àmbit penal.
+D’altra banda, quan s’estigui instruint o jutjant un procés penal pels mateixos fets que han originat o han de comportar la incoació d’un expedient disciplinari, o per altres fets que hi estiguin íntimament vinculats, s’ha d’iniciar la tramitació de l’expedient disciplinari, si no s’ha iniciat amb anterioritat, i se’n suspèn tot seguit la tramitació, la qual cosa interromp el còmput dels terminis de prescripció o caducitat, fins que recaigui una resolució ferma en l’àmbit penal.
+En qualsevol cas, la declaració de fets provats que pugui fer el tribunal penal és vinculant per a l’òrgan disciplinari.

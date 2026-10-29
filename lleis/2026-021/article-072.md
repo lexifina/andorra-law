@@ -1,0 +1,2 @@
+# Article 72. Recurs
+Contra la negativa dels notaris d’exhibir els instruments originals o de lliurar-ne còpies i certificats, es pot formular recurs davant la Cambra de Notaris, en els termes establerts al Codi de l’Administració. Exhaurida aquesta via, es pot interposar recurs davant de la Secció Administrativa de la Batllia, en els termes que preveu la Llei de la jurisdicció administrativa i fiscal.

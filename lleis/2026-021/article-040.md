@@ -1,0 +1,3 @@
+# Article 40. Inscripció
+1. Els actes inscrits al Registre de disposicions de darrera voluntat han de fer constar el nom i els cognoms, la data de naixement, els noms del pare i la mare, i l’estat civil de les persones atorgants i, si escau, el nom i els cognoms dels cònjuges o de les persones amb qui estiguin units civilment o com a parella estable, la nacionalitat, el número del passaport o del document d’identitat i el domicili de les persones atorgants.
+2. Els actes inscrits al Registre de disposicions de darrera voluntat també han de fer constar el notari que els hagi autoritzat, i el lloc, la data, l’hora i el tipus d’acte de què es tracta.

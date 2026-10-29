@@ -1,0 +1,4 @@
+## Capítol quart. Originals, còpies, certificats i testimonis
+# Article 69. Original o matriu
+1. Els instruments públics que consisteixen en les escriptures públiques i les actes notarials són autoritzats en un únic exemplar original o matriu que queda sota la custòdia dels notaris que els autoritzen i que s’integra en el seu protocol. Les persones atorgants en reben una còpia autèntica o simple, segons escaigui, lliurada pels notaris.
+2. Els originals o les matrius han de romandre a l’arxiu dels notaris que els autoritzen, excepte en cas de manament judicial i si esdevé imprescindible examinar-los i aquest examen no es pot dur a terme a la notaria. En aquest supòsit, abans de desglossar del protocol l’instrument públic original, els notaris en fan una còpia literal que el substitueix fins que sigui reintegrat al protocol.
