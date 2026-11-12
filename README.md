@@ -1,5 +1,10 @@
 # The laws of Andorra, as enacted, as a git repository
 
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="data/effort-dark.svg">
+<img alt="Andorran law in this repository: what it holds, changes by the year they took effect, completeness against the official sources, and the correctness of what is held" src="data/effort-light.svg" width="880">
+</picture>
+
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Andorra's national law, which global-law reads at `andorra/national/acts/`.
 
 The laws of the Principality of Andorra as a git repository: the Constitution of 1993 and 1040 laws (lleis) of the Consell General, from 1989-01-29 to 2026-10-28, each as the Butlletí Oficial del Principat d'Andorra (BOPA) published it. There is one file per article, disposition or annex (31718 files), plus each law's preamble and signatures, with one paragraph per line, so `git blame` and `git diff` work line by line. The text is in Catalan, the official language.
