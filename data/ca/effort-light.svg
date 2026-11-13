@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="880" height="752" viewBox="0 0 880 752" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif">
 <rect x="0.5" y="0.5" width="879" height="751" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
 <text x="24" y="38" font-size="16" font-weight="600" fill="#1f2328">El dret andorrà com a historial git</text>
-<rect x="528.0" y="24.5" width="163" height="20" rx="10" fill="none" stroke="#d1d9e0"/>
-<text x="609.6" y="38.5" font-size="11.5" font-weight="500" text-anchor="middle" fill="#59636e">situació a 29 oct. 2026</text>
-<rect x="699.2" y="24.5" width="157" height="20" rx="10" fill="none" stroke="#d1d9e0"/>
-<text x="777.6" y="38.5" font-size="11.5" font-weight="500" text-anchor="middle" fill="#59636e">estat: sense verificar</text>
+<rect x="565.4" y="24.5" width="145" height="20" rx="10" fill="none" stroke="#d1d9e0"/>
+<text x="637.8" y="38.5" font-size="11.5" font-weight="500" text-anchor="middle" fill="#59636e">situació a 29 oct. 2026</text>
+<rect x="718.2" y="24.5" width="138" height="20" rx="10" fill="none" stroke="#d1d9e0"/>
+<text x="787.1" y="38.5" font-size="11.5" font-weight="500" text-anchor="middle" fill="#59636e">estat: sense verificar</text>
 <rect x="24.5" y="60.5" width="831" height="58" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
 <text x="40.0" y="87" font-size="20" font-weight="600" fill="#1f2328">1.037</text>
 <text x="40.0" y="106" font-size="12" fill="#59636e">normes</text>
@@ -120,5 +120,5 @@
 <text x="456.0" y="612.5" font-size="13" fill="#1f2328">Corpus del país a global-law</text>
 <text x="456.0" y="628.5" font-size="11.5" fill="#59636e">normes nacionals: 1</text>
 <text x="839.5" y="616.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">1</text>
-<text x="24" y="736" font-size="11.5" fill="#59636e">lexifina/andorra-law a 01a90b5, generat el 2026-11-13. Sense commits de documentació. Abast: Laws of Andorra (the Constitution and the laws of the Consell General), as…</text>
+<text x="24" y="736" font-size="11.5" fill="#59636e" textLength="832" lengthAdjust="spacingAndGlyphs">lexifina/andorra-law a 01a90b5, generat el 2026-11-13. Sense commits de documentació. Abast: Laws of Andorra (the Constitution and the laws of the Consell General), as…</text>
 </svg>

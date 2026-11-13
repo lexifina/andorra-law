@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="880" height="752" viewBox="0 0 880 752" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif">
 <rect x="0.5" y="0.5" width="879" height="751" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
 <text x="24" y="38" font-size="16" font-weight="600" fill="#1f2328">Andorran law as a git history</text>
-<rect x="540.8" y="24.5" width="157" height="20" rx="10" fill="none" stroke="#d1d9e0"/>
-<text x="619.2" y="38.5" font-size="11.5" font-weight="500" text-anchor="middle" fill="#59636e">record to Oct 29, 2026</text>
-<rect x="705.6" y="24.5" width="150" height="20" rx="10" fill="none" stroke="#d1d9e0"/>
-<text x="780.8" y="38.5" font-size="11.5" font-weight="500" text-anchor="middle" fill="#59636e">freshness: unverified</text>
+<rect x="573.1" y="24.5" width="140" height="20" rx="10" fill="none" stroke="#d1d9e0"/>
+<text x="643.3" y="38.5" font-size="11.5" font-weight="500" text-anchor="middle" fill="#59636e">record to Oct 29, 2026</text>
+<rect x="721.5" y="24.5" width="134" height="20" rx="10" fill="none" stroke="#d1d9e0"/>
+<text x="788.8" y="38.5" font-size="11.5" font-weight="500" text-anchor="middle" fill="#59636e">freshness: unverified</text>
 <rect x="24.5" y="60.5" width="831" height="58" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
 <text x="40.0" y="87" font-size="20" font-weight="600" fill="#1f2328">1,037</text>
 <text x="40.0" y="106" font-size="12" fill="#59636e">acts</text>
@@ -16,7 +16,7 @@
 <text x="372.8" y="106" font-size="12" fill="#59636e">provision files</text>
 <line x1="523.2" y1="61" x2="523.2" y2="118" stroke="#d1d9e0"/>
 <text x="539.2" y="87" font-size="20" font-weight="600" fill="#1f2328">1,038</text>
-<text x="539.2" y="106" font-size="12" fill="#59636e">laws and publishers credited</text>
+<text x="539.2" y="106" font-size="12" fill="#59636e" textLength="142" lengthAdjust="spacingAndGlyphs">laws and publishers credited</text>
 <line x1="689.6" y1="61" x2="689.6" y2="118" stroke="#d1d9e0"/>
 <text x="705.6" y="87" font-size="20" font-weight="600" fill="#1f2328">1989–2026</text>
 <text x="705.6" y="106" font-size="12" fill="#59636e">years of history</text>
@@ -120,5 +120,5 @@
 <text x="456.0" y="612.5" font-size="13" fill="#1f2328">Corpora for this country in global-law</text>
 <text x="456.0" y="628.5" font-size="11.5" fill="#59636e">national acts: 1</text>
 <text x="839.5" y="616.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">1</text>
-<text x="24" y="736" font-size="11.5" fill="#59636e">lexifina/andorra-law at 01a90b5, built 2026-11-13. Changes exclude documentation commits. Scope: Laws of Andorra (the Constitution and the laws of the Consell General), as…</text>
+<text x="24" y="736" font-size="11.5" fill="#59636e" textLength="832" lengthAdjust="spacingAndGlyphs">lexifina/andorra-law at 01a90b5, built 2026-11-13. Changes exclude documentation commits. Scope: Laws of Andorra (the Constitution and the laws of the Consell General), as…</text>
 </svg>
