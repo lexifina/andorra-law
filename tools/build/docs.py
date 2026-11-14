@@ -15,7 +15,7 @@ CACHE = HERE / '.cache'
 # Published with the record. The retrieval script and its notes stay private (the user's rule of 2026-10-29), and
 # publish_gate (gitlaw_common, private) checks every file before it is written.
 BUILD_FILES = ('manifest.py', 'parse.py', 'inforce.py', 'build.py', 'docs.py', 'check_words.py')
-sys.path.insert(0, str(HERE.parent / 'gitlaw_common'))
+sys.path.append(str(HERE.parent / 'gitlaw_common'))
 try:
     from publish_gate import publish_gate
 except ImportError:          # an outside reader rebuilding from the published tools: no private rule to apply
@@ -24,6 +24,8 @@ except ImportError:          # an outside reader rebuilding from the published t
 
     def publish_gate(files): return files
 TEMPLATES = ('README.md', 'REPRODUCE.md', 'SOURCES.md', 'LICENSE', 'tools/in_force_on.py')
+# The English README beside the Catalan README.md (the serbia-law model, 2026-11-14), published from repo/ when present.
+TEMPLATES += tuple(n for n in ('README.en.md',) if (REPO_FILES / n).exists())
 
 
 def _sha(b: bytes) -> str:

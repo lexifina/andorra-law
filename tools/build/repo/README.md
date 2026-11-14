@@ -1,74 +1,94 @@
-# The laws of Andorra, as enacted, as a git repository
+# Andorra: història del dret en git
 
-The laws of the Principality of Andorra as a git repository: the Constitution of 1993 and {{LAWS}} laws (lleis) of the Consell General, from {{FIRST_PUBLISHED}} to {{LAST_PUBLISHED}}, each as the Butlletí Oficial del Principat d'Andorra (BOPA) published it. There is one file per article, disposition or annex ({{UNITS}} files), plus each law's preamble and signatures, with one paragraph per line, so `git blame` and `git diff` work line by line. The text is in Catalan, the official language.
+**Català** · **[Or read it in English](README.en.md)**
 
-**What this repository is: each law as enacted, not a consolidated history.** The BOPA publishes each law once, as passed. It publishes no consolidated texts with dated past versions; when Andorra consolidates a law, it does so by passing a new law ("Llei N/AAAA ... del text consolidat de ..."), which is here as a law in its own right. So each law is one commit holding its text as enacted, dated by the day it entered into force. **Amendments are not applied**: when a later law changes an article, the earlier law's file here still shows the text as first enacted. The changes later laws state ("Es modifica l'article 5 de la Llei 3/2010...") are listed, law by law, in [`data/amendments.csv`](data/amendments.csv) ({{AMENDMENT_ROWS}} rows). There is no line-by-line history of any law's text before or after its enactment.
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="data/ca/effort-dark.svg">
+<img alt="El dret andorrà en aquest repositori: què conté, els canvis per any d’entrada en vigor, la completesa respecte a les fonts oficials i l’exactitud del contingut" src="data/ca/effort-light.svg" width="880">
+</picture>
 
-The record holds {{COMMITS_MAIN}} commits on `main` ({{LAW_COMMITS}} laws, in force from {{FIRST}} to {{LAST}}, and one documentation commit) and {{FUTURE}} laws on the branch `future`, which enter into force after {{TODAY}}.
+El dret d’Andorra com a història git: un fitxer per article, un commit per llei el dia que va entrar en vigor, i la mateixa llei com a autora del commit. Cada llei és el seu text tal com es va aprovar: el butlletí oficial (BOPA) no publica versions consolidades, de manera que aquí no s’hi apliquen les modificacions posteriors, sinó que es recullen a part els canvis que declaren les lleis posteriors. `git log` dona el dia que cada llei va entrar en vigor; triar una data indica si una llei era en vigor aquell dia i en dona el text tal com es va aprovar.
 
-## A lawyer's questions as git commands
+Forma part de [lexifina/global-law](https://github.com/lexifina/global-law), una sola història git per al dret de tots els països: aquest és el dret nacional d’Andorra, que global-law llegeix a `andorra/national/acts/`.
 
-| Question | Command |
+**Què conté ara:** la Constitució del 1993 i 1.040 lleis del Consell General, publicades al Butlletí Oficial del Principat d’Andorra (BOPA) del 1989-01-29 al 2026-10-28: 1.037 lleis en vigor el 2026-10-29 a `main`, i 3 que entren en vigor més tard a la branca `future`; 4.048 canvis declarats per lleis posteriors, recollits a [`data/amendments.csv`](data/amendments.csv); i 24 correccions d’errates, recollides a [`data/corrections.csv`](data/corrections.csv). [`laws.csv`](laws.csv) enumera totes les lleis, amb el seu butlletí i els dies en què es van publicar i van entrar en vigor.
+
+Cada llei té la seva carpeta, `lleis/<any>-<número>/` (`lleis/2018-031/` és la Llei 31/2018, del 6 de desembre, de relacions laborals); les lleis d’abans del 2003, quan va començar la numeració, i unes poques més són a `lleis/<data de publicació>-<identificador del document al BOPA>/`, i la Constitució és a [`constitucio/`](constitucio/). Cada carpeta conté un fitxer per article, disposició o annex, amb `preamble.md`, `signatures.md` i `index.txt` (els fitxers en l’ordre de la llei).
+
+El text és en català, la llengua oficial, tal com el publica el BOPA. Una traducció a l’anglès no forma part d’aquest registre.
+
+## Preguntes com a ordres de git
+
+| Pregunta | Ordre |
 | --- | --- |
-| What does article 4 of the copyright law of 1999 say, as enacted? | `python tools/in_force_on.py {{TODAY}} {{COPYRIGHT_DIR}} article-004` |
-| The whole of a law, in order | `python tools/in_force_on.py {{TODAY}} lleis/2022-041` |
-| Was a law in force on a date? | `python tools/in_force_on.py 2022-12-15 lleis/2022-041` |
-| Which later laws say they change Llei 15/2021? | `grep ',lleis/2021-015,' data/amendments.csv` |
-| What a law says about its own entry into force | `git log -1 --format=%B -- lleis/2022-041` |
-| Which laws were in force by a date | `git log --format='%(trailers:key=In-force,valueonly,separator=) %s' main` |
-| Laws not yet in force | `git log main..future --format=%s` |
-| The list of laws, with their dates | [`laws.csv`](laws.csv) |
-| Every citation of an article number | `git grep -E "[Aa]rticles? 25([^0-9]|$)" -- lleis/2022-041` |
+| Tots els canvis que les lleis posteriors declaren a la Llei de relacions laborals | `grep ',lleis/2018-031,' data/amendments.csv` |
+| Quina llei va escriure cada línia de l’article 1? | `git blame lleis/2018-031/article-001.md` |
+| El dia que la Llei de relacions laborals va entrar en vigor, i per què aquell dia | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %(trailers:key=In-force-basis,valueonly,separator=)" -- lleis/2018-031` |
+| L’article 1 tal com es va aprovar, si era en vigor l’1 de gener del 2026 | `python tools/in_force_on.py 2026-01-01 lleis/2018-031 article-001` |
 
-Each law has its own folder: `constitucio/` for the Constitution, `lleis/2022-041/` for Llei 41/2022 (year, then the number), and, for the laws before numbering began (about 2000), `lleis/<publication date>-<BOPA document id>/`. In it: `preamble.md` (the title, the enacting words, the statement of reasons and any table of contents), one file per article (`article-001.md`, `article-004-bis.md`, `article-unic.md`), one per disposition (`disposicio-final-primera.md`, `disposicio-derogatoria.md`), one per annex, and `signatures.md` (the place and date, the signatures and the co-princes' promulgation). `index.txt` lists the files in the law's order. Each file starts with any Títol, Capítol or Secció heading above it (`## Capítol segon. ...`), then its own heading (`# Article 4. ...`), then its paragraphs, one per line. Tables are one row per line, cells separated by ` | `.
+**Fora de git**, també oferim aquest registre públicament i de franc:
 
-## The dates, and which one we use
+- **[Pregunteu a Claude sobre el dret andorrà](https://global-law.lexifina.com/v1/try_claude?country=andorra)**: obre Claude amb una primera pregunta preparada.
+- **[Pregunteu a ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=andorra)**: la mateixa pregunta a ChatGPT.
+- **[Crideu l’API al navegador](https://global-law.lexifina.com/v1/search_law?query=vacances+anuals&jurisdictions=andorra)**: una cerca de «vacances anuals» al dret andorrà, amb la resposta en JSON. La documentació és [aquí](https://lexifina.com/api/global-law).
 
-Every law commit is dated by the day the law entered into force, at noon Andorra time (Central European Time, with summer time as in the EU), and the date is in its `In-force:` trailer. The trailer `In-force-basis:` says where the date comes from:
+Tots dos assistents llegeixen el registre a través del connector gratuït Global law (MCP, `https://global-law.lexifina.com/mcp`); la primera vegada, el xat us dona l’enllaç que l’afegeix. Pregunteu en català o en anglès.
 
-- {{BASIS_OWN}} laws say when they enter into force (`entra en vigor l'endemà de ser publicada`, `al cap de vint dies`, `l'1 de gener del 2023`). The date is counted from the BOPA publication date, which is in the `Published:` trailer. The commit message quotes the sentence.
-- {{BASIS_DEFAULT}} laws say nothing about it. They are dated by the general rule of the Codi de l'Administració of 29 March 1989, article 9 ("Llevat que es disposi altrament per llei dels Coprínceps o del Consell General, les normes jurídiques entraran en vigor als quinze dies de llur publicació íntegra"): fifteen days after publication.
-- {{BASIS_PUBLICATION}} laws published before that Code are dated by their publication date.
+**Allotgeu-lo vosaltres mateixos fàcilment.** Només calen git i Python, i les eines funcionen al vostre ordinador:
 
-Where a law names a day before its own publication date (a budget law published after 1 January, for example), the commit carries the day it names. A provision that enters into force on a different day from the rest of its law is not separated out; it carries its law's date.
+```sh
+git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
+python3 tools/countries.py add andorra/national/acts
+python3 tools/law.py show 2026-01-01 andorra/national/acts/lleis/2018-031/article-001.md
+```
 
-`tools/in_force_on.py` answers for any date: before a law's in-force date it says the law was not yet in force; after it, it prints the text as enacted and warns that later amendments are not applied.
+Obert a Claude Code, Cursor, VS Code o Codex, el clon també inicia un servidor MCP local amb les mateixes eines ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
 
-## What "author" means
+## Dates
 
-Each law commit is authored by the law itself: `Llei 41/2022 <llei-2022-41@bopa-ad.invalid>`, or for the Constitution `Constitució del Principat d'Andorra <constitucio-1993@bopa-ad.invalid>`. The addresses cannot exist. The committer is Lexifina. There are no amendment commits: an amending law is a commit of its own text, in its own folder, and is not credited with any line of the law it amends.
+Cada commit està datat a les dotze del migdia, hora d’Andorra (Europe/Andorra), el dia que la llei va entrar en vigor, i porta aquest dia al trailer `In-force:`; `In-force-basis:` indica d’on surt el dia. Dels 1.041 textos:
 
-## What it does not show
+- 957 indiquen quan entren en vigor; el dia es compta a partir del dia de publicació al BOPA (el trailer `Published:`), i el missatge del commit cita la frase;
+- 71 no en diuen res i es daten quinze dies després de la publicació, la regla general del Codi de l’Administració del 29 de març del 1989, article 9;
+- 13 publicats abans d’aquest Codi es daten pel dia de publicació.
 
-- Any law's text as amended. Changes stated by later laws are rows in [`data/amendments.csv`](data/amendments.csv), extracted automatically from sentences such as "Es modifica l'article 25 del Codi de procediment civil" and "Queda derogada la Llei ...": the amended law as the amending law names it (and its folder here, when it is cited by number), the provision, the kind of change (modification, insertion, repeal, renumbering), the amending law and its in-force date, the file the sentence is in, and the sentence. The extraction is not complete and not checked by hand.
-- Corrections of errata ({{CORRECTIONS}} documents). They are listed in [`data/corrections.csv`](data/corrections.csv) and not applied.
-- Other legislation (decrees, regulations, the Government's acts), and the laws of the parishes (comuns).
-- The links the BOPA website adds to old laws ("Text refós", "Descarrega el document"); they are not part of the law.
-- Pictures and the gazette's page layout.
+Una disposició que entra en vigor un dia diferent de la resta de la llei porta el dia de la seva llei. Cada commit s’atribueix a la mateixa llei (`Llei 31/2018 <llei-2018-31@bopa-ad.invalid>`; les adreces no poden existir); una llei modificadora és un commit del seu propi text, a la seva pròpia carpeta, i no se li atribueix cap línia de la llei que modifica.
 
-Documents that could not be read or placed are listed in [`data/unreadable.csv`](data/unreadable.csv) ({{UNREADABLE}} rows).
+## Com es comprova
 
-This is a research aid, not an official publication. For anything that matters, read the BOPA. This repository is not made, sponsored or endorsed by the Servei del Butlletí Oficial del Principat d'Andorra.
+- Les lletres i els dígits dels fitxers de cada llei, en ordre, coincideixen amb els del document del BOPA del qual provenen, cosa que comprova `tools/build/check_words.py`, que no fa servir l’analitzador de la construcció.
+- Cada commit indica el seu document del BOPA i el sha256 d’aquest document (`Source:`, `Source-sha256:`, tots a [`data/source-sha256.tsv`](data/source-sha256.tsv)); dues construccions a partir dels mateixos documents donen els mateixos hashos de commit ([`REPRODUCE.md`](REPRODUCE.md)).
+- `tools/in_force_on.py` dona la resposta correcta per a articles de mostra en diverses dates.
+- Els trailers de tots els commits es poden analitzar; a `main` no hi ha fusions, ni dates que retrocedeixin, ni cap data posterior a la de la construcció.
 
-## How it is checked
+## Què no mostra
 
-`tools/build/` holds the build as it was run. [`data/source-sha256.tsv`](data/source-sha256.tsv) has the sha256 of every BOPA document the build read, and each commit names its document (`Source:`, `Source-sha256:`). The build is deterministic: from the same documents it gives the same commit hashes. See [`REPRODUCE.md`](REPRODUCE.md). Before publishing, the build was checked for these things:
-- the letters and digits of every law's files, in order, equal those of the BOPA document it came from (with the site's added links taken out), checked by a separate script that does not use the build's parser;
-- `tools/in_force_on.py` gives the right answer for sample articles at several dates;
-- every commit's trailers parse; there are no merges, no dates that go backwards and no dates after the build date on `main`; no message has a carriage return;
-- two builds from the same documents give the same HEAD.
+- **Cap llei tal com ha quedat modificada.** Els canvis que declaren les lleis posteriors són files de `data/amendments.csv`, extretes automàticament de frases com «Es modifica l'article 25 ...»; l’extracció no és completa ni s’ha revisat a mà.
+- **Les correccions d’errates** (24 documents): es recullen, però no s’apliquen.
+- **Altres normes:** decrets, reglaments i altres actes del Govern, i les ordinacions de les parròquies (comuns).
+- **Les imatges** i la maquetació del butlletí.
 
-## How it is built
+## Fonts
 
-The build reads every document the BOPA lists under the themes "Lleis" and "Constitució", as HTML from the BOPA document store. Long documents are listed in the search as chunks (`1_<id>.html`, `2_<id>.html`); the whole document is `<id>.html` in the same folder, and that is what is read. `parse.py` turns the HTML into paragraphs (old documents are printed lines, joined back into paragraphs) and splits them at the law's own article headings; `inforce.py` reads the entry-into-force provision; `build.py` writes one commit per law with `git fast-import`. No AI model takes part in building or checking it.
+| Font | Tipus | Versions anteriors | Notes |
+| --- | --- | --- | --- |
+| [Butlletí Oficial del Principat d’Andorra](https://www.bopa.ad) | Butlletí oficial: la Constitució i les lleis del Consell General | no, cada llei una sola vegada, tal com es va aprovar | 1.065 documents dels temes «Lleis» i «Constitució», obtinguts el 2026-10-29; 24 són correccions d’errates ([`SOURCES.md`](SOURCES.md)) |
 
-## Licence
+## Llicència
 
-Source: Butlletí Oficial del Principat d'Andorra, https://www.bopa.ad. Official texts are not protected by copyright in Andorra (Llei sobre drets d'autor i drets veïns, del 10 de juny de 1999, article 4(2): "Cap text oficial de naturalesa legislativa, administrativa o judicial, com tampoc cap traducció oficial seva, queden protegits per aquesta Llei."). The BOPA's legal notice allows copying, distribution, adaptation, extraction, reordering and combination, in any format, on these conditions, quoted as published:
+Vegeu [`LICENSE`](LICENSE). Els textos oficials no estan protegits per drets d’autor a Andorra (Llei sobre drets d'autor i drets veïns, del 10 de juny de 1999, article 4(2)), i l’avís legal del BOPA en permet la reutilització amb les condicions citades a `LICENSE`, una de les quals és que res no suggereixi que el Servei del BOPA hi participa, la patrocina o hi dona suport: aquest repositori no l’ha elaborat, patrocinat ni avalat el Servei del Butlletí Oficial del Principat d’Andorra. Les aportacions pròpies de Lexifina són CC0 1.0.
 
-> - Es prohibeix desnaturalitzar el sentit de la informació.
-> - Es prohibeix indicar, insinuar o suggerir que Servei del Butlletí Oficial del Principat d'Andorra participa, patrocina o dóna suport a aquesta utilització.
-> - Les metadades sobre la data d'actualització i les condicions d'utilització de la informació, si s'inclouen en la informació, s'han de conservar sense alterar-les, i no es poden suprimir.
-> - Es prohibeix la utilització de dominis, logotips i elements gràfics que pertanyin al Servei del Butlletí Oficial del Principat d'Andorra, i la seva forma de presentació.
+Cap model d’IA no ha escrit ni modificat text jurídic, i cap no intervé quan es construeix o es comprova el repositori; els scripts els va escriure un model d’IA (vegeu [`REPRODUCE.md`](REPRODUCE.md)).
 
-The wording of the laws was not changed. Lexifina's own contributions (the tools, the arrangement and the commit messages) are CC0. See [`LICENSE`](LICENSE) and [`SOURCES.md`](SOURCES.md).
+Aquesta és una traducció de la versió anglesa ([README.en.md](README.en.md)); si hi ha diferències, preval la versió anglesa.
+
+## Més informació
+
+Del repositori [lexifina/global-law](https://github.com/lexifina/global-law) (pàgines en anglès):
+
+- [FEATURES.md](https://github.com/lexifina/global-law/blob/main/FEATURES.md): totes les funcions i què ha d’admetre cada corpus (`git blame`, `law.py`, eines MCP)
+- [FAQ.md](https://github.com/lexifina/global-law/blob/main/FAQ.md): preguntes i respostes · [CONTRIBUTING.md](https://github.com/lexifina/global-law/blob/main/CONTRIBUTING.md): proposar canvis · [MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md): servidor MCP · [REPRODUCE.md](https://github.com/lexifina/global-law/blob/main/REPRODUCE.md): com s’ha construït · [CHANGELOG.md](https://github.com/lexifina/global-law/blob/main/CHANGELOG.md)
+- [FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md): fins a quin punt està al dia cada corpus · [Supervisió](https://github.com/lexifina/global-law/tree/main/monitoring): si les actualitzacions funcionen · [WATCHING.md](https://github.com/lexifina/global-law/blob/main/WATCHING.md): com es vigila cada font oficial per detectar canvis
+- [performance/](https://github.com/lexifina/global-law/tree/main/performance): la rapidesa de les eines, mesurada
+- [visualisations/](https://github.com/lexifina/global-law/tree/main/visualisations): gràfics i connexions a través del dret de tot el món
+- [Vulnerabilitats](https://github.com/lexifina/global-law/tree/main/vulnerabilities): errors en les normes tal com es van publicar
