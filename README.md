@@ -30,7 +30,8 @@ El text és en català, la llengua oficial, tal com el publica el BOPA. Una trad
 
 - **[Pregunteu a Claude sobre el dret andorrà](https://global-law.lexifina.com/v1/try_claude?country=andorra)**: obre Claude amb una primera pregunta preparada.
 - **[Pregunteu a ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=andorra)**: la mateixa pregunta a ChatGPT.
-- **[Crideu l’API al navegador](https://global-law.lexifina.com/v1/search_law?query=vacances+anuals&jurisdictions=andorra)**: una cerca de «vacances anuals» al dret andorrà, amb la resposta en JSON. La documentació és [aquí](https://lexifina.com/api/global-law).
+- **[Cerqueu al dret andorrà al nostre web](https://lexifina.com/law?country=andorra&q=vacances+anuals)**: una cerca de «vacances anuals», amb el text de cada disposició i les seves versions, sense compte.
+- **[API REST per a desenvolupadors](https://global-law.lexifina.com/v1/search_law?query=vacances+anuals&jurisdiction=andorra)**: la mateixa cerca en JSON, sense clau. La documentació és [aquí](https://lexifina.com/api/global-law).
 
 Tots dos assistents llegeixen el registre a través del connector gratuït Global law (MCP, `https://global-law.lexifina.com/mcp`); la primera vegada, el xat us dona l’enllaç que l’afegeix. Pregunteu en català o en anglès.
 
