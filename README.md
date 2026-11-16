@@ -84,6 +84,10 @@ Cap model d’IA no ha escrit ni modificat text jurídic, i cap no intervé quan
 
 Aquesta és una traducció de la versió anglesa ([README.en.md](README.en.md)); si hi ha diferències, preval la versió anglesa.
 
+## Visualitzacions
+
+- [visualisations/](visualisations/): gràfics fets a partir d'aquest repositori. Encara no s'han fet.
+
 ## Més informació
 
 Del repositori [lexifina/global-law](https://github.com/lexifina/global-law) (pàgines en anglès):
