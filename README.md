@@ -61,6 +61,7 @@ Una disposició que entra en vigor un dia diferent de la resta de la llei porta 
 - Cada commit indica el seu document del BOPA i el sha256 d’aquest document (`Source:`, `Source-sha256:`, tots a [`data/source-sha256.tsv`](data/source-sha256.tsv)); dues construccions a partir dels mateixos documents donen els mateixos hashos de commit ([`REPRODUCE.md`](REPRODUCE.md)).
 - `tools/in_force_on.py` dona la resposta correcta per a articles de mostra en diverses dates.
 - Els trailers de tots els commits es poden analitzar; a `main` no hi ha fusions, ni dates que retrocedeixin, ni cap data posterior a la de la construcció.
+- [vulnerabilities/](vulnerabilities/): possibles errors de redacció en el dret andorrà, trobats pels detectors de global-law i comprovats a mà.
 
 ## Què no mostra
 

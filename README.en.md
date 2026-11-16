@@ -61,6 +61,7 @@ A provision that enters into force on a different day from the rest of its law c
 - Each commit names its BOPA document and that document's sha256 (`Source:`, `Source-sha256:`, all in [`data/source-sha256.tsv`](data/source-sha256.tsv)); two builds from the same documents give the same commit hashes ([`REPRODUCE.md`](REPRODUCE.md)).
 - `tools/in_force_on.py` gives the right answer for sample articles at several dates.
 - Every commit's trailers parse; there are no merges, no dates that go backwards and none after the build date on `main`.
+- [vulnerabilities/](vulnerabilities/README.en.md): possible drafting mistakes in Andorran law, found by global-law's detectors and checked by hand.
 
 ## What it does not show
 
