@@ -1,0 +1,1587 @@
+<!doctype html>
+<html lang="ca">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>El dret andorrà en 20 gràfics</title>
+<meta name="description" content="Vint gràfics del dret andorrà a partir de les dades del repositori andorra-law / Twenty charts on Andorran law from the andorra-law repository">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,500;8..60,600&display=swap" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
+<style>
+:root {
+  color-scheme: light;
+  --bg: #f7f6f3; --surface: #fcfcfb; --surface-2: #f1f0ec; --line: #e4e2dc; --grid: #ebe9e4;
+  --text: #0b0b0b; --text-2: #52514e; --text-3: #7a7974; --accent: #2a78d6;
+  --s1: #2a78d6; --s2: #eb6834; --s3: #1baf7a; --s4: #eda100; --s5: #e87ba4; --s6: #008300; --s7: #6250d6; --s8: #e34948;
+  --muted-mark: #b9b7b0;
+  --seq-lo: #eef4fc; --seq-hi: #0d366b;
+  --sans: Inter, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  --serif: "Source Serif 4", Georgia, serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    color-scheme: dark;
+    --bg: #131312; --surface: #1a1a19; --surface-2: #222220; --line: #33322f; --grid: #2a2a28;
+    --text: #f0efec; --text-2: #c3c2b7; --text-3: #8f8e86; --accent: #3987e5;
+    --s1: #3987e5; --s2: #d95926; --s3: #199e70; --s4: #c98500; --s5: #d55181; --s6: #0ca30c; --s7: #9085e9; --s8: #e66767;
+    --muted-mark: #55544f;
+    --seq-lo: #1f2a38; --seq-hi: #9ec5f4;
+  }
+}
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --bg: #131312; --surface: #1a1a19; --surface-2: #222220; --line: #33322f; --grid: #2a2a28;
+  --text: #f0efec; --text-2: #c3c2b7; --text-3: #8f8e86; --accent: #3987e5;
+  --s1: #3987e5; --s2: #d95926; --s3: #199e70; --s4: #c98500; --s5: #d55181; --s6: #0ca30c; --s7: #9085e9; --s8: #e66767;
+  --muted-mark: #55544f;
+  --seq-lo: #1f2a38; --seq-hi: #9ec5f4;
+}
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body { margin: 0; background: var(--bg); color: var(--text); font: 15px/1.6 var(--sans); }
+a { color: var(--accent); }
+.wrap { max-width: 1040px; margin: 0 auto; padding: 0 16px; }
+header.top { padding: 28px 0 8px; }
+.bar { display: flex; justify-content: flex-end; align-items: center; gap: 12px; flex-wrap: wrap; margin-bottom: 18px; }
+.toggles { display: inline-flex; gap: 8px; flex-wrap: wrap; justify-content: flex-end; }
+.seg { display: inline-flex; border: 1px solid var(--line); border-radius: 999px; padding: 2px; background: var(--surface); }
+.seg button { border: 0; background: transparent; color: var(--text-2); font: 500 13px/1 var(--sans); padding: 7px 12px; border-radius: 999px; cursor: pointer; min-height: 30px; }
+.seg button[aria-pressed="true"] { background: var(--text); color: var(--surface); }
+.seg button:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
+h1 { font: 600 clamp(28px, 5vw, 44px)/1.2 var(--serif); margin: 0 0 14px; letter-spacing: -.01em; }
+.lede { font-size: 17px; color: var(--text-2); max-width: 780px; margin: 0 0 8px; }
+.tiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 10px; margin: 26px 0 10px; }
+.tile { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 14px 14px 12px; }
+.tile b { display: block; font: 600 24px/1.15 var(--sans); font-variant-numeric: tabular-nums; }
+.tile span { font-size: 12px; color: var(--text-2); line-height: 1.5; display: block; margin-top: 2px; }
+details.profile { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; margin: 10px 0 0; }
+details.profile > summary, details.tbl > summary { cursor: pointer; padding: 12px 14px; font-weight: 500; font-size: 14px; list-style: none; }
+details.profile > summary::-webkit-details-marker, details.tbl > summary::-webkit-details-marker { display: none; }
+details.profile > summary::before, details.tbl > summary::before { content: "▸"; display: inline-block; width: 1.1em; color: var(--text-3); transition: transform .15s; }
+details[open].profile > summary::before, details[open].tbl > summary::before { transform: rotate(90deg); }
+.scroll { overflow-x: auto; padding: 0 14px 14px; }
+table { border-collapse: collapse; width: 100%; font-size: 13px; font-variant-numeric: tabular-nums; }
+th, td { text-align: left; padding: 6px 8px; border-bottom: 1px solid var(--line); vertical-align: top; }
+th { font-weight: 600; color: var(--text-2); font-size: 12px; }
+td.n, th.n { text-align: right; white-space: nowrap; }
+code { font: 12px/1.4 ui-monospace, SFMono-Regular, Consolas, monospace; background: var(--surface-2); padding: 1px 5px; border-radius: 5px; word-break: break-all; }
+nav.toc { margin: 30px 0 10px; display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 6px 22px; font-size: 13px; }
+nav.toc a { color: var(--text-2); text-decoration: none; display: block; padding: 3px 0; line-height: 1.5; }
+nav.toc a:hover { color: var(--text); text-decoration: underline; }
+nav.toc .p { font-weight: 600; color: var(--text); margin-top: 6px; }
+section.part { padding-top: 34px; }
+section.part > h2 { font: 600 26px/1.3 var(--serif); margin: 0 0 6px; }
+section.part > p.pd { color: var(--text-2); margin: 0 0 6px; max-width: 780px; }
+figure.chart { margin: 22px 0 0; background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 18px 18px 6px; }
+figure.chart h3 { font: 600 19px/1.45 var(--serif); margin: 0 0 6px; }
+figure.chart h3 .no { color: var(--text-3); font-weight: 500; margin-right: .35em; }
+.dek { color: var(--text-2); margin: 0 0 12px; max-width: 840px; }
+.legend { display: flex; flex-wrap: wrap; gap: 6px 16px; font-size: 12px; color: var(--text-2); margin: 0 0 8px; line-height: 1.5; }
+.legend i { display: inline-block; width: 10px; height: 10px; border-radius: 3px; margin-right: 6px; vertical-align: -1px; }
+.legend i.dot { border-radius: 50%; }
+.legend i.ring { background: transparent !important; border: 2px solid var(--text-3); border-radius: 50%; }
+.legend i.line { height: 2px; width: 14px; border-radius: 1px; vertical-align: 3px; }
+.legend i.dash { height: 0; width: 14px; border-radius: 0; border-top: 2px dashed; background: transparent !important; vertical-align: 3px; }
+.legend i.hatch { background-image: repeating-linear-gradient(135deg, var(--muted-mark) 0 2px, transparent 2px 5px) !important; background-color: var(--surface-2) !important; }
+.legend i.outline { background: transparent !important; border: 2px solid var(--text); border-radius: 3px; }
+.plot { width: 100%; position: relative; }
+.plot svg { display: block; width: 100%; height: auto; overflow: visible; }
+.axis text, .lbl { fill: var(--text-2); font: 11px var(--sans); font-variant-numeric: tabular-nums; }
+.lbl.strong { fill: var(--text); font-weight: 500; }
+.lbl.mut { fill: var(--text-3); }
+.axis path { display: none; }
+.axis line, .grid line { stroke: var(--grid); }
+.base { stroke: var(--text-3); stroke-width: 1; }
+.note { font-size: 12px; color: var(--text-3); margin: 10px 0 4px; line-height: 1.6; }
+.note b { color: var(--text-2); font-weight: 500; }
+details.tbl { border-top: 1px solid var(--line); margin: 10px -18px 0; }
+details.tbl > summary { font-size: 12px; color: var(--text-2); padding: 10px 18px; }
+details.tbl .scroll { max-height: 360px; overflow: auto; padding: 0 18px 12px; }
+.tip { position: fixed; pointer-events: none; z-index: 10; background: var(--surface); color: var(--text); border: 1px solid var(--line); border-radius: 10px; padding: 8px 10px; font-size: 12px; line-height: 1.5; box-shadow: 0 6px 24px rgba(0,0,0,.12); max-width: 340px; opacity: 0; transition: opacity .08s; }
+.tip b { font-weight: 600; }
+.tip .r { display: flex; justify-content: space-between; gap: 14px; }
+.tip .r span:last-child { font-variant-numeric: tabular-nums; }
+.tip .sw { display: inline-block; width: 8px; height: 8px; border-radius: 2px; margin-right: 6px; }
+.tip .q { margin-top: 4px; color: var(--text-2); }
+.hit { fill: transparent; cursor: default; }
+.mini { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 18px; }
+.mini h4 { margin: 0 0 2px; font: 600 13px/1.4 var(--sans); }
+.mini p { margin: 0 0 6px; font-size: 12px; color: var(--text-2); }
+.multi { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 14px 18px; }
+.multi h4 { margin: 0; font: 600 13px/1.4 var(--sans); overflow-wrap: anywhere; }
+.multi p { margin: 0 0 2px; font-size: 12px; color: var(--text-2); }
+.ptiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 8px; margin: 4px 0 14px; }
+.ptile { background: var(--surface-2); border-radius: 10px; padding: 10px 12px; }
+.ptile .pn { font: 500 12px/1.4 var(--sans); color: var(--text-2); overflow-wrap: anywhere; }
+.ptile .pv { font-size: 12px; color: var(--text-2); margin: 2px 0; }
+.ptile .pv b { font: 600 22px/1.15 var(--sans); color: var(--text); font-variant-numeric: tabular-nums; margin-right: 2px; }
+.ptile .ps { font-size: 12px; color: var(--text-3); line-height: 1.5; }
+.ptile .pbar { display: flex; gap: 2px; height: 6px; margin-top: 8px; border-radius: 3px; overflow: hidden; }
+.ptile .pbar i { display: block; }
+.sub { margin: 18px 0 4px; font: 600 13px/1.4 var(--sans); }
+footer { color: var(--text-3); font-size: 12px; padding: 40px 0 60px; line-height: 1.6; }
+@media (max-width: 560px) {
+  figure.chart { padding: 14px 12px 4px; border-radius: 12px; }
+  details.tbl { margin: 10px -12px 0; }
+  details.tbl > summary { padding: 10px 12px; }
+  details.tbl .scroll { padding: 0 12px 12px; }
+  .lede { font-size: 15px; }
+  .multi { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px 10px; }
+  .ptiles { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+@media (forced-colors: active) { .seg button[aria-pressed="true"] { outline: 2px solid CanvasText; } }
+/* Catalan "l·l": Inter's Catalan form (locl) pulls the dot so tight between the two l's that at small sizes it reads like an H */
+body, .plot svg text, .plot svg text.lbl { font-feature-settings: "locl" 0; }
+</style>
+</head>
+<body>
+<div class="wrap">
+<header class="top">
+  <div class="bar">
+    <span class="toggles">
+      <span class="seg" role="group" aria-label="Llengua / Language"><button data-lang="ca">CA</button><button data-lang="en">EN</button></span>
+      <span class="seg" role="group" aria-label="Tema / Theme"><button data-theme-set="auto">Auto</button><button data-theme-set="light">☀</button><button data-theme-set="dark">☾</button></span>
+    </span>
+  </div>
+  <h1 data-i="title"></h1>
+  <p class="lede" data-i="lede"></p>
+  <p class="note" id="gl-link"></p>
+  <div class="tiles" id="tiles"></div>
+  <details class="profile"><summary data-i="profile_h"></summary><div class="scroll" id="profile"></div></details>
+  <nav class="toc" id="toc"></nav>
+</header>
+<main id="main"></main>
+<footer id="foot"></footer>
+</div>
+<div class="tip" id="tip" role="status" aria-live="polite"></div>
+<script>
+const DATA = /*DATA*/null;
+</script>
+<script>
+"use strict";
+const D = DATA.charts, PF = DATA.profile, TT = DATA.titles;
+const LANGS = ['ca', 'en'];
+let LANG = 'ca';
+try { const q = new URLSearchParams(location.search).get('lang'); if (LANGS.includes(q)) LANG = q; else { const s = localStorage.getItem('ad-viz-lang'); if (LANGS.includes(s)) LANG = s; } } catch (e) {}
+let THEME = 'auto';
+try { const tt = localStorage.getItem('ad-viz-theme'); if (tt === 'light' || tt === 'dark') THEME = tt; } catch (e) {}
+
+// ------------------------------------------------------------------ strings
+const GL = '<a href="https://github.com/lexifina/global-law/tree/main/visualisations">global-law visualisations/</a>';
+const S = {
+ca: {
+  title: 'El dret andorrà en 20 gràfics',
+  lede: 'Vint gràfics dibuixats només amb les dades d’aquest repositori: la Constitució del 1993 i els {laws} textos del Consell General que el Butlletí Oficial del Principat d’Andorra (BOPA) publica com a lleis des del 1989, cadascun tal com es va aprovar, amb un fitxer per article o disposició i un commit per llei, datat el dia que va entrar en vigor.',
+  profile_h: 'Perfil de les dades: què s’ha fet servir i fins on arriba',
+  tbl: 'Taula de dades', src: 'Font al repositori', n: 'Registres', cover: 'Cobertura', caveat: 'Límits',
+  ds: 'Dades', foot: 'Elaborat a partir del repositori lexifina/andorra-law ({built}). Els textos són els que publica el Butlletí Oficial del Principat d’Andorra (BOPA), tal com es van aprovar: el BOPA no publica versions consolidades, i aquí no s’hi apliquen les modificacions posteriors. Aquest repositori no l’ha elaborat, patrocinat ni avalat el Servei del Butlletí Oficial del Principat d’Andorra. Dades fins al {record}. Les xifres les calcula visualisations/src/prep.py a partir de l’historial de git, els fitxers de cada llei i les taules del repositori; build.py compon la pàgina. Els gràfics descriuen el que conté el registre, no les causes.',
+  year: 'Any', total: 'Total', share: 'Percentatge', count: 'Nombre', partial: 'any incomplet',
+  gl: 'Gràfics del dret de tots els països, a partir de tot global-law: ' + GL + '. Aquí, només els d’Andorra.',
+},
+en: {
+  title: 'Andorran law in 20 charts',
+  lede: 'Twenty charts drawn only from the data in this repository: the 1993 Constitution and the {laws} texts of the Consell General that the Butlletí Oficial del Principat d’Andorra (BOPA) has published as laws since 1989, each as enacted, with one file per article or provision and one commit per law, dated the day it entered into force.',
+  profile_h: 'Data profile: what was used and how far it goes',
+  tbl: 'Data table', src: 'Source in the repository', n: 'Records', cover: 'Coverage', caveat: 'Limit',
+  ds: 'Dataset', foot: 'Built from the lexifina/andorra-law repository ({built}). The texts are those the Butlletí Oficial del Principat d’Andorra (BOPA) publishes, as enacted: the BOPA publishes no consolidated versions, and later amendments are not applied here. This repository is not made, sponsored or endorsed by the Servei del Butlletí Oficial del Principat d’Andorra. Data to {record}. The numbers are computed by visualisations/src/prep.py from the git history, the files of each law and the repository’s tables; build.py assembles the page. The charts describe what the record holds, not why.',
+  year: 'Year', total: 'Total', share: 'Share', count: 'Count', partial: 'partial year',
+  gl: 'Charts on every country’s law, from the whole of global-law: ' + GL + '. These are the charts on Andorra alone.',
+}};
+const t = k => S[LANG][k];
+const L = (ca, en) => LANG === 'ca' ? ca : en;
+const LA = a => Array.isArray(a) ? L(a[0], a[1]) : a;
+const grp = s => s.replace(/\B(?=(\d{3})+(?!\d))/g, LANG === 'ca' ? '.' : ',');
+const dec = (v, d = 1) => { const s = Math.abs(+v).toFixed(d); const [a, b] = s.split('.'); return (+v < 0 && +s !== 0 ? '−' : '') + grp(a) + (b ? (LANG === 'ca' ? ',' : '.') + b : ''); };
+const fmt = n => (n == null ? '–' : Number.isInteger(+n) ? (+n < 0 ? '−' : '') + grp(String(Math.abs(Math.round(+n)))) : dec(+n, 1));
+const pv = (v, d = 0) => dec(v, d) + (LANG === 'ca' ? ' %' : '%');
+const pct = (a, b, d = 0) => b ? pv(100 * a / b, d) : '–';
+const MES = ['gener', 'febrer', 'març', 'abril', 'maig', 'juny', 'juliol', 'agost', 'setembre', 'octubre', 'novembre', 'desembre'];
+const MEN = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
+const MON = { ca: ['gen', 'febr', 'març', 'abr', 'maig', 'juny', 'jul', 'ag', 'set', 'oct', 'nov', 'des'], en: ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'] };
+const DOW = { ca: ['dilluns', 'dimarts', 'dimecres', 'dijous', 'divendres', 'dissabte', 'diumenge'], en: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'] };
+const deMes = m => (/^[aeiouàèéíòóú]/i.test(MES[m - 1]) ? 'd’' : 'de ') + MES[m - 1];
+const delAny = y => (+y >= 2000 ? 'del ' : 'de ') + y;
+const dateTxt = s => { const [y, m, d] = s.split('-').map(Number); return LANG === 'ca' ? `${d} ${deMes(m)} ${delAny(y)}` : `${d} ${MEN[m - 1]} ${y}`; };
+const dateShort = s => { const [y, m, d] = s.split('-').map(Number); return LANG === 'ca' ? `${d} ${MON.ca[m - 1]} ${y}` : `${d} ${MON.en[m - 1]} ${y}`; };
+const monthTxt = s => { const [y, m] = s.split('-').map(Number); return LANG === 'ca' ? `${MES[m - 1]} ${delAny(y)}` : `${MEN[m - 1]} ${y}`; };
+const dayMonth = (m, d) => LANG === 'ca' ? `${d} ${deMes(m)}` : `${d} ${MEN[m - 1]}`;
+const css = v => getComputedStyle(document.documentElement).getPropertyValue(v).trim();
+const esc = s => String(s).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+const sum = (a, f) => a.reduce((s, d) => s + (f ? f(d) : d), 0);
+const PD = s => d3.timeParse('%Y-%m-%d')(s);
+const DAYS = (a, b) => Math.round((PD(b) - PD(a)) / 864e5);
+const Cap = s => s.charAt(0).toUpperCase() + s.slice(1);
+const nn = (n, ca, en) => LANG === 'ca' ? `${fmt(n)} ${n === 1 ? ca[0] : ca[1]}` : `${fmt(n)} ${n === 1 ? en[0] : en[1]}`;
+const andList = a => a.length < 2 ? a.join('') : a.slice(0, -1).join(', ') + L(' i ', ' and ') + a[a.length - 1];
+const median = a => { const s = [...a].sort((x, y) => x - y), n = s.length; return n ? (n % 2 ? s[(n - 1) / 2] : (s[n / 2 - 1] + s[n / 2]) / 2) : null; };
+const yr = s => s.slice(0, 4);
+const mix = (c, k) => d3.interpolateRgb(c, css('--surface'))(k);
+const lleis = n => nn(n, ['llei', 'lleis'], ['law', 'laws']);
+const YEARS = d3.range(1989, +PF.record_to.slice(0, 4) + 1);
+const LASTY = YEARS[YEARS.length - 1];
+
+// ------------------------------------------------------------------ laws: short names in each language, and citations
+const NM = {
+  'constitucio': ['Constitució', 'Constitution'],
+  'lleis/1989-02-26-143be': ['Codi de procediment penal', 'Code of Criminal Procedure'],
+  'lleis/1989-04-09-14772': ['Codi de l’Administració', 'Administration Code'],
+  'lleis/1990-07-29-13922': ['Codi penal', 'Criminal Code'],
+  'lleis/1991-06-27-124ca': ['Llei de l’impost de mercaderies indirecte (IMI)', 'Indirect Goods Tax Act (IMI)'],
+  'lleis/1993-09-27-2e62': ['Llei qualificada del Tribunal Constitucional', 'Qualified Law on the Constitutional Court'],
+  'lleis/1993-09-27-58d2': ['Llei qualificada del règim electoral i del referèndum', 'Qualified Law on Elections and Referendums'],
+  'lleis/1993-09-27-7cf6': ['Llei qualificada de la Justícia', 'Qualified Law on Justice'],
+  'lleis/1993-09-27-e8aa': ['Llei qualificada de la nacionalitat', 'Qualified Law on Nationality'],
+  'lleis/1994-05-03-2102': ['Llei del cànon sobre el consum d’electricitat i telèfon', 'Electricity and Telephone Levy Act'],
+  'lleis/1994-05-03-68be': ['Llei de la taxa sobre la tinença de vehicles', 'Vehicle Ownership Charge Act'],
+  'lleis/1994-07-26-b502': ['Llei del coeficient d’inversions obligatòries', 'Mandatory Investment Ratio Act'],
+  'lleis/1994-07-26-bcae': ['Modificació de l’Estatut orgànic del Servei de Telecomunicacions', 'Amendment of the Statute of the Telecommunications Service'],
+  'lleis/1995-08-01-c9de': ['Llei qualificada del matrimoni', 'Qualified Law on Marriage'],
+  'lleis/1996-01-16-84c2': ['Llei de la taxa sobre el Registre de Titulars d’Activitats Econòmiques', 'Business Register Charge Act'],
+  'lleis/1996-01-30-4852': ['Llei qualificada de la nacionalitat', 'Qualified Law on Nationality'],
+  'lleis/1996-07-09-b61a': ['Codi de duana', 'Customs Code'],
+  'lleis/1996-04-23-b302': ['Llei qualificada de l’adopció', 'Qualified Law on Adoption'],
+  'lleis/2000-11-07-1f2e2': ['Llei de mesures per a la transició cap a l’euro', 'Euro Transition Act'],
+  'lleis/2004-015': ['Llei qualificada d’incapacitació i organismes tutelars', 'Qualified Law on Incapacity and Guardianship'],
+  'lleis/2013-008': ['Llei de les entitats operatives del sistema financer', 'Financial System Entities Act'],
+  'lleis/2014-026': ['Llei de patents', 'Patents Act'],
+  'lleis/2014-046': ['Llei de la successió per causa de mort', 'Succession Act'],
+  'lleis/2017-014': ['Llei de prevenció i lluita contra el blanqueig', 'Anti-Money-Laundering Act'],
+  'lleis/2018-020': ['Llei del Fons Andorrà de Garantia de Dipòsits', 'Deposit Guarantee Fund Act'],
+  'lleis/2018-036': ['Llei de conglomerats financers', 'Financial Conglomerates Act'],
+  'lleis/2022-022': ['Llei de seguretat de les xarxes i els sistemes d’informació', 'Network and Information Security Act'],
+  'lleis/2022-028': ['Llei qualificada de protecció civil', 'Qualified Law on Civil Protection'],
+  'lleis/2022-045': ['Modificació del Codi penal (qualificada)', 'Amendment of the Criminal Code (qualified)'],
+  'lleis/2023-004': ['Llei d’avaluació ambiental', 'Environmental Assessment Act'],
+  'lleis/1996-12-26-dfd2': ['Modificació de l’article 198 del Codi penal (qualificada)', 'Amendment of article 198 of the Criminal Code (qualified)'],
+  'lleis/1997-01-14-3f5a': ['Llei general de les finances públiques', 'General Public Finance Act'],
+  'lleis/1997-01-14-a50e': ['Llei de bases de l’ordenament tributari', 'Tax Code Framework Act'],
+  'lleis/1997-08-19-3c7e': ['Llei d’universitats', 'Universities Act'],
+  'lleis/1997-08-19-5f16': ['Llei qualificada de quota d’immigració 1997–1998', 'Qualified Law on the 1997–1998 Immigration Quota'],
+  'lleis/1999-01-06-17caa': ['Codi de procediment penal (llei qualificada de modificació)', 'Code of Criminal Procedure (qualified amending law)'],
+  'lleis/1999-07-13-199a6': ['Codi de la circulació', 'Highway Code'],
+  'lleis/1999-07-27-19bf6': ['Llei d’arrendaments de finques urbanes', 'Urban Leases Act'],
+  'lleis/2000-05-16-1cfae': ['Llei dels mòduls aplicables a les entitats bancàries', 'Bank Modules Act (services tax)'],
+  'lleis/2000-05-16-1cfce': ['Llei de l’impost indirecte sobre la prestació de serveis', 'Indirect Tax on Services Act'],
+  'lleis/2001-01-09-1ff8e': ['Llei dels mòduls aplicables a les entitats bancàries', 'Bank Modules Act (services tax)'],
+  'lleis/2001-01-23-201a6': ['Llei de cooperació penal internacional i de lluita contra el blanqueig', 'International Criminal Cooperation and Anti-Money-Laundering Act'],
+  'lleis/2001-01-23-201be': ['Llei qualificada d’associacions', 'Qualified Law on Associations'],
+  'lleis/2001-01-23-20256': ['Llei de l’impost sobre transmissions patrimonials immobiliàries', 'Property Transfer Tax Act'],
+  'lleis/2001-01-23-20286': ['Llei general d’ordenació del territori i urbanisme', 'General Land Planning and Urban Development Act'],
+  'lleis/2002-06-11-27f3a': ['Llei de l’impost indirecte sobre els serveis d’assegurança', 'Indirect Tax on Insurance Services Act'],
+  'lleis/2002-06-11-27f46': ['Llei de l’impost indirecte sobre els serveis bancaris i financers', 'Indirect Tax on Banking and Financial Services Act'],
+  'lleis/2002-07-23-28a2a': ['Llei de pesca i de gestió del medi aquàtic', 'Fishing and Aquatic Environment Act'],
+  'lleis/2003-007': ['Modificació urgent de la Llei d’ordenació del territori i urbanisme', 'Urgent amendment of the Land Planning Act'],
+  'lleis/2003-010': ['Llei de les finances comunals', 'Communal Finances Act'],
+  'lleis/2004-005': ['Codi de duana', 'Customs Code'],
+  'lleis/2004-017': ['Llei de l’impost indirecte sobre els serveis empresarials i professionals', 'Indirect Tax on Business and Professional Services Act'],
+  'lleis/2004-018': ['Llei de l’impost indirecte sobre la producció interna', 'Indirect Tax on Domestic Production Act'],
+  'lleis/2004-019': ['Llei de l’impost indirecte sobre les activitats comercials', 'Indirect Tax on Commercial Activities Act'],
+  'lleis/2004-025': ['Llei de residus', 'Waste Act'],
+  'lleis/2005-004': ['Llei qualificada de les unions estables de parella', 'Qualified Law on Stable Couples'],
+  'lleis/2005-009': ['Codi penal', 'Criminal Code'],
+  'lleis/2006-021': ['Llei de l’impost sobre les plusvàlues immobiliàries', 'Property Capital Gains Tax Act'],
+  'lleis/2007-004': ['Llei qualificada penitenciària', 'Qualified Prisons Law'],
+  'lleis/2007-020': ['Llei de societats anònimes i de responsabilitat limitada', 'Companies Act (SA and SL)'],
+  'lleis/2008-011': ['Llei de fundacions', 'Foundations Act'],
+  'lleis/2008-017': ['Llei de la seguretat social', 'Social Security Act'],
+  'lleis/2008-027': ['Llei d’impostos especials', 'Excise Duties Act'],
+  'lleis/2008-032': ['Llei del Cos de Banders', 'Banders Corps Act'],
+  'lleis/2008-035': ['Codi de relacions laborals', 'Labour Relations Code'],
+  'lleis/2010-014': ['Llei de règim jurídic de les entitats bancàries', 'Banking Entities Act'],
+  'lleis/2010-094': ['Llei de l’impost sobre la renda dels no-residents fiscals', 'Non-Resident Income Tax Act'],
+  'lleis/2010-095': ['Llei de l’impost sobre societats', 'Corporate Income Tax Act'],
+  'lleis/2010-096': ['Llei de l’impost sobre la renda de les activitats econòmiques', 'Business Income Tax Act'],
+  'lleis/2012-005': ['Crèdit extraordinari per a impostos del Centre de Tractament de Residus', 'Extraordinary credit for taxes of the waste treatment plant'],
+  'lleis/2012-006': ['Suplement de crèdit per a la captació d’inversió estrangera', 'Supplementary credit for attracting foreign investment'],
+  'lleis/2012-007': ['Llei de protecció contra el tabaquisme passiu', 'Second-Hand Smoke Act'],
+  'lleis/2012-008': ['Modificació de la Llei general de l’allotjament turístic', 'Amendment of the Tourist Accommodation Act'],
+  'lleis/2012-009': ['Modificació de la Llei qualificada d’immigració', 'Amendment of the Qualified Law on Immigration'],
+  'lleis/2012-011': ['Llei de l’impost general indirecte (IGI)', 'General Indirect Tax Act (IGI)'],
+  'lleis/2013-010': ['Llei de l’Institut Nacional Andorrà de Finances', 'National Institute of Finance Act'],
+  'lleis/2013-021': ['Llei de foment de la rehabilitació del parc immobiliari', 'Building Renovation Act'],
+  'lleis/2014-005': ['Llei de l’impost sobre la renda de les persones físiques (IRPF)', 'Personal Income Tax Act (IRPF)'],
+  'lleis/2014-009': ['Llei d’ajuts a l’estudi', 'Study Grants Act'],
+  'lleis/2014-019': ['Llei qualificada de partits polítics i finançament electoral', 'Qualified Law on Political Parties and Election Funding'],
+  'lleis/2014-021': ['Llei de bases de l’ordenament tributari', 'Tax Code Framework Act'],
+  'lleis/2014-023': ['Llei qualificada del pla de pensions de la funció pública', 'Qualified Law on the Civil Service Pension Plan'],
+  'lleis/2014-028': ['Modificació de la Llei qualificada de la Justícia', 'Amendment of the Qualified Law on Justice'],
+  'lleis/2014-034': ['Llei qualificada de les unions civils', 'Qualified Law on Civil Unions'],
+  'lleis/2014-037': ['Llei de regulació dels jocs d’atzar', 'Gambling Act'],
+  'lleis/2014-043': ['Llei del saig', 'Court Bailiffs Act'],
+  'lleis/2015-001': ['Llei per a l’erradicació de la violència de gènere i domèstica', 'Gender and Domestic Violence Act'],
+  'lleis/2015-006': ['Llei del Fons de reserva de jubilació', 'Retirement Reserve Fund Act'],
+  'lleis/2016-013': ['Llei de caça', 'Hunting Act'],
+  'lleis/2017-009': ['Llei contra el tràfic d’éssers humans', 'Human Trafficking Act'],
+  'lleis/2017-010': ['Llei d’intercanvi d’informació en matèria fiscal', 'Tax Information Exchange Act'],
+  'lleis/2017-011': ['Llei del notariat', 'Notaries Act'],
+  'lleis/2017-023': ['Crèdit extraordinari per ampliar el Consell Regulador Andorrà del Joc', 'Extraordinary credit to extend the Gaming Regulatory Council'],
+  'lleis/2018-008': ['Llei dels serveis de pagament i el diner electrònic', 'Payment Services and E-Money Act'],
+  'lleis/2018-013': ['Llei del Tribunal d’Arbitratge', 'Arbitration Tribunal Act'],
+  'lleis/2018-024': ['Codi de procediment civil', 'Code of Civil Procedure'],
+  'lleis/2018-027': ['Modificació de la Llei dels serveis de pagament', 'Amendment of the Payment Services Act'],
+  'lleis/2018-029': ['Modificació de la Llei qualificada del pla de pensions', 'Amendment of the Qualified Law on the Pension Plan'],
+  'lleis/2018-030': ['Llei qualificada de seguretat pública', 'Qualified Law on Public Security'],
+  'lleis/2018-031': ['Llei de relacions laborals', 'Labour Relations Act'],
+  'lleis/2018-034': ['Llei d’òrgans, cèl·lules, teixits i sang', 'Organs, Cells, Tissues and Blood Act'],
+  'lleis/2018-035': ['Llei de solvència, liquiditat i supervisió prudencial', 'Solvency, Liquidity and Prudential Supervision Act'],
+  'lleis/2018-037': ['Llei de l’esport', 'Sport Act'],
+  'lleis/2019-012': ['Llei qualificada de reproducció humana assistida', 'Qualified Law on Assisted Human Reproduction'],
+  'lleis/2019-014': ['Llei qualificada dels drets dels infants i els adolescents', 'Qualified Law on the Rights of Children and Adolescents'],
+  'lleis/2019-017': ['Modificació de la Llei de les entitats operatives del sistema financer', 'Amendment of the Financial System Entities Act'],
+  'lleis/2020-017': ['Codi de duana (text consolidat)', 'Customs Code (consolidated text)'],
+  'lleis/2021-004': ['Jocs d’atzar (text consolidat)', 'Gambling (consolidated text)'],
+  'lleis/2021-007': ['Llei de recuperació i resolució d’entitats bancàries', 'Bank Recovery and Resolution Act'],
+  'lleis/2021-010': ['Ajuts a l’estudi (text consolidat)', 'Study grants (consolidated text)'],
+  'lleis/2021-012': ['Codi de la circulació', 'Highway Code'],
+  'lleis/2021-014': ['Notariat (text consolidat)', 'Notaries (consolidated text)'],
+  'lleis/2021-018': ['Pressupost extraordinari per la COVID-19', 'Extraordinary COVID-19 budget'],
+  'lleis/2021-020': ['Llei del Marc andorrà de qualificacions', 'Qualifications Framework Act'],
+  'lleis/2021-022': ['Codi de procediment civil (text consolidat)', 'Code of Civil Procedure (consolidated text)'],
+  'lleis/2021-026': ['Pesca i medi aquàtic (text consolidat)', 'Fishing and aquatic environment (consolidated text)'],
+  'lleis/2021-027': ['Caça (text consolidat)', 'Hunting (consolidated text)'],
+  'lleis/2021-028': ['Cos de Banders (text consolidat)', 'Banders Corps (consolidated text)'],
+  'lleis/2021-031': ['Seguretat pública (text consolidat)', 'Public security (consolidated text)'],
+  'lleis/2021-032': ['Cooperació judicial internacional en matèria penal (text consolidat)', 'International judicial cooperation in criminal matters (consolidated text)'],
+  'lleis/2022-007': ['Llei d’accés electrònic a l’Administració de justícia', 'Electronic Access to Justice Act'],
+  'lleis/2022-008': ['Llei de seguretat privada', 'Private Security Act'],
+  'lleis/2022-015': ['Arrendaments de finques urbanes (text consolidat)', 'Urban leases (consolidated text)'],
+  'lleis/2022-016': ['Rehabilitació del parc immobiliari (text consolidat)', 'Building renovation (consolidated text)'],
+  'lleis/2022-019': ['Llei de l’impost sobre les estades en allotjaments turístics', 'Tourist Stay Tax Act'],
+  'lleis/2022-024': ['Llei de la representació digital d’actius', 'Digital Asset Representation Act'],
+  'lleis/2022-030': ['Llei qualificada de la persona i de la família', 'Qualified Law on the Person and the Family'],
+  'lleis/2022-042': ['Llei de l’economia digital, l’emprenedoria i la innovació', 'Digital Economy, Entrepreneurship and Innovation Act'],
+  'lleis/2022-043': ['Partits polítics i finançament electoral (text consolidat)', 'Political parties and election funding (consolidated text)'],
+  'lleis/2022-044': ['Règim electoral i referèndum (text consolidat)', 'Elections and referendums (consolidated text)'],
+  'lleis/2023-003': ['Llei de recerca i innovació biomèdica', 'Biomedical Research and Innovation Act'],
+  'lleis/2023-007': ['Marc andorrà de qualificacions (text consolidat)', 'Qualifications framework (consolidated text)'],
+  'lleis/2023-012': ['Modificació de la Llei qualificada de la persona i de la família', 'Amendment of the Qualified Law on the Person and the Family'],
+  'lleis/2023-017': ['Fundacions (text consolidat)', 'Foundations (consolidated text)'],
+  'lleis/2023-018': ['Saig (text consolidat)', 'Court bailiffs (consolidated text)'],
+  'lleis/2023-019': ['Llei penitenciària (text consolidat)', 'Prisons law (consolidated text)'],
+  'lleis/2023-020': ['Associacions (text consolidat)', 'Associations (consolidated text)'],
+  'lleis/2023-021': ['Tribunal Constitucional (text consolidat)', 'Constitutional Court (consolidated text)'],
+  'lleis/2023-07-26-cgl_2023_07_20_10_17_14': ['Codi de l’Administració (text consolidat)', 'Administration Code (consolidated text)'],
+  'lleis/2024-003': ['Llei de l’impost sobre la inversió estrangera immobiliària', 'Foreign Property Investment Tax Act'],
+  'lleis/2024-007': ['Llei de les entitats operatives del sistema financer i l’abús de mercat', 'Financial Entities and Market Abuse Act'],
+  'lleis/2024-008': ['Modificació de la Llei qualificada del pla de pensions', 'Amendment of the Qualified Law on the Pension Plan'],
+  'lleis/2024-010': ['Llei d’auditoria de comptes', 'Audit Act'],
+  'lleis/2024-014': ['Llei dels jocs d’atzar', 'Gambling Act'],
+  'lleis/2024-017': ['Modificació de la Llei de solvència i supervisió prudencial', 'Amendment of the Solvency and Supervision Act'],
+  'lleis/2025-010': ['Codi de duana', 'Customs Code'],
+  'lleis/2025-011': ['Fons de reserva de jubilació (text consolidat)', 'Retirement reserve fund (consolidated text)'],
+  'lleis/2025-028': ['Llei del dret a l’oblit sanitari', 'Right to Be Forgotten after Illness Act'],
+  'lleis/2025-030': ['Auditoria de comptes (text consolidat)', 'Audit (consolidated text)'],
+  'lleis/2026-009': ['Llei del Registre Civil', 'Civil Register Act'],
+  'lleis/2026-014': ['Violència de gènere i domèstica (text consolidat)', 'Gender and domestic violence (consolidated text)'],
+  'lleis/2026-018': ['Codi penal', 'Criminal Code'],
+  'lleis/2026-021': ['Notariat (text consolidat)', 'Notaries (consolidated text)'],
+  'lleis/2026-022': ['Tribunal d’Arbitratge (text consolidat)', 'Arbitration Tribunal (consolidated text)'],
+};
+const titleOf = f => (TT[f] || [f])[0];
+const adOf = f => (TT[f] || [null, ''])[1] || '';
+// the law's own citation: 'Llei 9/2005' / 'Law 9/2005'; a law from before numbering began (2003) is cited by its year
+function citeOf(f) {
+  if (f === 'constitucio') return '1993';
+  const m = titleOf(f).match(/^(?:Llei\s+)?[Ll]lei\s+(?:qualificada\s+)?(\d{1,3})\s*[/-]\s*(\d{2,4})\b/);
+  if (m) { const y = +m[2] < 100 ? 2000 + +m[2] : +m[2]; return `${L('Llei', 'Law')} ${m[1]}/${y}`; }
+  return yr(adOf(f));
+}
+// a law's name in the page's language: the short name, or else the BOPA title (Catalan, the only official text)
+const nm = f => NM[f] ? LA(NM[f]) : titleOf(f);
+const nmc = f => `${nm(f)} (${citeOf(f)})`;
+// a short name inside a sentence: «la modificació de …», «el Codi penal», 'the Criminal Code'
+const inl = f => nm(f).replace(/^(Modificació|Crèdit|Suplement|Pressupost|Amendment|Extraordinary|Supplementary)(?=\s|$)/, w => w.toLowerCase());
+const the = f => { const s = inl(f); return LANG === 'ca' ? (/^(Codi|crèdit|suplement|pressupost|Registre)\b/.test(s) ? 'el ' : /^[AEIOUÀÈÉÍÒÓÚaeiouàèéíòóú]/.test(s) ? 'l’' : 'la ') + s : 'the ' + s; };
+const kNameN = (k, n) => n === 1 ? LA({ new: ['llei nova', 'new law'], amend: ['llei de modificació', 'amending law'], consol: ['text consolidat', 'consolidated text'] }[k] || [kName(k), kName(k)]) : kName(k);
+const official = f => `<div class="q">${esc(titleOf(f))}</div>`;
+
+// ------------------------------------------------------------------ the Síndics General (from the signatures) and the co-princes
+const SURN = { 'Jordi Farràs Forné': 'Farràs', 'Josep Dallerès Codina': 'Dallerès', 'Francesc Areny Casal': 'Areny', 'Joan Gabriel i Estany': 'Gabriel', 'Vicenç Mateu Zamora': 'Mateu', 'Roser Suñé Pascuet': 'Suñé', 'Carles Ensenyat Reig': 'Ensenyat' };
+const TERMS = D.c01.terms;
+const termYears = tm => `${yr(tm.from)}–${tm.id === TERMS[TERMS.length - 1].id ? '' : yr(tm.to)}`.replace(/–$/, L('–', '–'));
+const termName = (tm, short) => tm.name ? (short ? SURN[tm.name] || tm.name : tm.name) : (short ? L('abans de 1993', 'pre-1993') : L('Abans de la Constitució', 'Before the Constitution'));
+const termLabel = (tm, short) => `${termName(tm, short)} · ${yr(tm.from)}–${tm === TERMS[TERMS.length - 1] ? (short ? yr(PF.record_to).slice(2) : yr(PF.record_to)) : yr(tm.to)}`;
+const PRN = { mitterrand: 'François Mitterrand', chirac: 'Jacques Chirac', sarkozy: 'Nicolas Sarkozy', hollande: 'François Hollande', macron: 'Emmanuel Macron',
+  marti: 'Joan Martí Alanís', vives: 'Joan Enric Vives Sicília', serrano: 'Josep-Lluís Serrano Pentinat' };
+const PRS = { mitterrand: 'Mitterrand', chirac: 'Chirac', sarkozy: 'Sarkozy', hollande: 'Hollande', macron: 'Macron', marti: 'Martí Alanís', vives: 'Vives', serrano: 'Serrano' };
+const sideName = s => LA({ fr: ['President de la República Francesa', 'President of the French Republic'], ep: ['Bisbe d’Urgell', 'Bishop of Urgell'] }[s]);
+
+// ------------------------------------------------------------------ tooltip
+const tip = document.getElementById('tip');
+function showTip(ev, html) { tip.innerHTML = html; tip.style.opacity = 1; moveTip(ev); }
+function moveTip(ev) {
+  const r = tip.getBoundingClientRect(), pad = 14;
+  let x = ev.clientX + pad, y = ev.clientY + pad;
+  if (x + r.width > innerWidth - 8) x = ev.clientX - r.width - pad;
+  if (y + r.height > innerHeight - 8) y = ev.clientY - r.height - pad;
+  tip.style.left = Math.max(8, x) + 'px'; tip.style.top = Math.max(8, y) + 'px';
+}
+function hideTip() { tip.style.opacity = 0; }
+function bindTip(sel, fn) {
+  sel.on('mouseenter', (ev, d) => showTip(ev, fn(d))).on('mousemove', moveTip).on('mouseleave', hideTip)
+     .on('touchstart', (ev, d) => { const tt = ev.touches[0]; showTip({ clientX: tt.clientX, clientY: tt.clientY }, fn(d)); }, { passive: true });
+}
+const trow = (sw, k, v) => `<div class="r"><span>${sw ? `<i class="sw" style="background:${sw}"></i>` : ''}${esc(k)}</span><span>${v}</span></div>`;
+
+// ------------------------------------------------------------------ chart scaffolding
+function legend(el, items) {
+  const lg = el.append('div').attr('class', 'legend');
+  items.forEach(it => { const s = lg.append('span'); s.append('i').attr('class', it.shape || '').style('background', it.c).style('border-color', it.c); s.append('span').text(it.l); });
+  return lg;
+}
+function svgIn(el, w, h) { return el.append('div').attr('class', 'plot').append('svg').attr('viewBox', `0 0 ${w} ${h}`).attr('width', w).attr('height', h).attr('role', 'img'); }
+function table(el, head, rows) {
+  const d = el.append('details').attr('class', 'tbl');
+  d.append('summary').text(t('tbl'));
+  const tb = d.append('div').attr('class', 'scroll').append('table');
+  tb.append('thead').append('tr').selectAll('th').data(head).join('th').attr('class', (h, i) => i ? 'n' : null).text(h => h);
+  tb.append('tbody').selectAll('tr').data(rows).join('tr').selectAll('td').data(r => r).join('td').attr('class', (v, i) => i ? 'n' : null).text(v => typeof v === 'number' ? fmt(v) : v);
+  return d;
+}
+function subTable(el, heading, head, rows, numeric) {
+  const nd = el.select('details.tbl:last-of-type .scroll');
+  nd.append('h4').style('margin', '14px 0 6px').style('font', '600 13px/1.4 var(--sans)').text(heading);
+  const tb = nd.append('table');
+  tb.append('thead').append('tr').selectAll('th').data(head).join('th').attr('class', (h, i) => numeric && numeric[i] ? 'n' : null).text(x => x);
+  tb.append('tbody').selectAll('tr').data(rows).join('tr').selectAll('td').data(r => r).join('td').attr('class', (v, i) => numeric && numeric[i] ? 'n' : null).text(v => typeof v === 'number' ? fmt(v) : v);
+}
+const PH = { '<ANY>': ['<any>', '<year>'], '<NÚMERO>': ['<número>', '<number>'] };
+function note(el, src, n, extra) {
+  const p = el.append('p').attr('class', 'note');
+  const tr = s => Object.entries(PH).reduce((a, [x, y]) => a.split(x).join(LA(y)), s);
+  p.html(`<b>${t('src')}:</b> ${src.map(s => `<code>${esc(tr(s))}</code>`).join(' ')} · <b>${t('n')}:</b> ${n}${extra ? ' · ' + esc(extra) : ''}`);
+}
+function yAxis(g, y, w, ticks = 5, f = fmt) {
+  const ax = g.append('g').attr('class', 'axis grid');
+  y.ticks(ticks).forEach(v => {
+    ax.append('line').attr('x1', 0).attr('x2', w).attr('y1', y(v)).attr('y2', y(v));
+    ax.append('text').attr('x', -6).attr('y', y(v)).attr('dy', '0.32em').attr('text-anchor', 'end').text(f(v));
+  });
+}
+const W = el => Math.max(300, Math.min(1000, el.node().getBoundingClientRect().width || 900));
+const narrow = w => w < 560;
+function colPath(x, y0, w, y1, r = 4) {
+  const h = y0 - y1; if (h <= 0) return '';
+  r = Math.min(r, h, w / 2);
+  return `M${x},${y0}V${y1 + r}Q${x},${y1} ${x + r},${y1}H${x + w - r}Q${x + w},${y1} ${x + w},${y1 + r}V${y0}Z`;
+}
+function barPath(x0, y, x1, h, r = 4) {
+  const w = x1 - x0; if (w <= 0) return '';
+  r = Math.min(r, w, h / 2);
+  return `M${x0},${y}H${x1 - r}Q${x1},${y} ${x1},${y + r}V${y + h - r}Q${x1},${y + h} ${x1 - r},${y + h}H${x0}Z`;
+}
+let HATCH = 0;
+function hatch(svg) {
+  const id = 'hatch' + (++HATCH);
+  const p = svg.append('defs').append('pattern').attr('id', id).attr('patternUnits', 'userSpaceOnUse').attr('width', 6).attr('height', 6).attr('patternTransform', 'rotate(45)');
+  p.append('rect').attr('width', 6).attr('height', 6).attr('fill', css('--surface-2'));
+  p.append('line').attr('x1', 0).attr('y1', 0).attr('x2', 0).attr('y2', 6).attr('stroke', css('--muted-mark')).attr('stroke-width', 1.4);
+  return `url(#${id})`;
+}
+const inkOn = c => d3.hsl(c).l > 0.6 ? '#0b0b0b' : '#fff';
+const grad = (svg, id, color, a = .3) => { const lg = svg.append('defs').append('linearGradient').attr('id', id).attr('x1', 0).attr('x2', 0).attr('y1', 0).attr('y2', 1);
+  lg.append('stop').attr('offset', '0%').attr('stop-color', color).attr('stop-opacity', a); lg.append('stop').attr('offset', '100%').attr('stop-color', color).attr('stop-opacity', .02); return `url(#${id})`; };
+const seqRamp = () => d3.interpolateRgb(css('--seq-lo'), css('--seq-hi'));
+const h4 = (el, txt, mt = 14) => el.append('h4').style('margin', `${mt}px 0 4px`).style('font', '600 13px/1.4 var(--sans)').text(txt);
+// the widest of these strings in a chart's label style, in pixels (measured as drawn: the page draws again once the web fonts have loaded)
+const textW = (el, strs, cls = 'lbl strong') => { const sv = el.append('svg').attr('width', 0).attr('height', 0).style('position', 'absolute'), tx = sv.append('text').attr('class', cls);
+  const w = d3.max(strs, q => { tx.text(q); return tx.node().getComputedTextLength(); }) || 0; sv.remove(); return w; };
+const halo = (g, x, y, txt, anchor = 'start', cls = 'lbl strong', fill = null) => g.append('text').attr('class', cls).attr('x', x).attr('y', y).attr('text-anchor', anchor)
+  .style('fill', fill).style('paint-order', 'stroke').style('stroke', css('--surface')).style('stroke-width', 4).style('stroke-linejoin', 'round').text(txt);
+// rows of 100% bands with rounded ends and the shares inside
+function bands(el, rows, keys, colors, names, opt) {
+  const w = W(el), nw = narrow(w), rowH = opt.rowH || 34, m = { t: 4, r: nw ? (opt.rn || 58) : (opt.r || 86), b: 22, l: nw ? (opt.ln || 52) : (opt.l || 90) };
+  const h = m.t + m.b + rowH * rows.length, svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+  const iw = w - m.l - m.r, x = d3.scaleLinear().domain([0, 1]).range([0, iw]);
+  (nw ? [0, .5, 1] : [0, .25, .5, .75, 1]).forEach(v => g.append('text').attr('class', 'lbl mut').attr('x', x(v)).attr('y', rowH * rows.length + 14).attr('text-anchor', 'middle').text(pv(100 * v)));
+  const id0 = 'bd' + (++HATCH);
+  rows.forEach((r, i) => {
+    const y0 = i * rowH + 6, bh = rowH - 12, tot = sum(keys, k => r[k] || 0), id = id0 + '_' + i;
+    g.append('text').attr('class', 'lbl strong').attr('x', -10).attr('y', y0 + bh / 2 + 4).attr('text-anchor', 'end').text(opt.label(r, nw));
+    if (!tot) return;
+    g.append('clipPath').attr('id', id).append('rect').attr('x', 0).attr('y', y0).attr('width', iw).attr('height', bh).attr('rx', bh / 2);
+    const row = g.append('g').attr('clip-path', `url(#${id})`).attr('opacity', opt.partial && opt.partial(r) ? .55 : 1);
+    let acc = 0;
+    keys.forEach((k, j) => {
+      const v = r[k] || 0; if (!v) return;
+      const x0 = x(acc / tot), x1 = x((acc + v) / tot); acc += v;
+      row.append('rect').attr('x', x0).attr('width', Math.max(0, x1 - x0 - (acc < tot ? 1.5 : 0))).attr('y', y0).attr('height', bh).attr('fill', colors[j]);
+      if (x1 - x0 > (opt.minIn || 34)) row.append('text').attr('class', 'lbl').attr('x', (x0 + x1) / 2).attr('y', y0 + bh / 2 + 4).attr('text-anchor', 'middle')
+        .style('fill', inkOn(colors[j])).style('pointer-events', 'none').text(pct(v, tot));
+    });
+    g.append('text').attr('class', 'lbl strong').attr('x', iw + 10).attr('y', y0 + bh / 2 + 4).text(opt.right(r, nw));
+    bindTip(g.append('rect').attr('class', 'hit').attr('x', -m.l).attr('width', w).attr('y', i * rowH).attr('height', rowH).datum(r),
+      d => `<b>${esc(opt.label(d, false))}</b>` + keys.map((k, j) => d[k] ? trow(colors[j], names[j], `${fmt(d[k])} · ${pct(d[k], tot)}`) : '').join('') + (opt.tipExtra ? opt.tipExtra(d) : trow(null, t('total'), fmt(tot))));
+  });
+  return { svg, g, iw };
+}
+// horizontal bars split into segments, label on the left, total on the right
+function splitBars(el, rows, keys, colors, names, opt) {
+  // on narrow screens (opt.above) each label sits above its bar
+  const w = W(el), nw = narrow(w), up = nw && opt.above, rowH = up ? (opt.rowH || 26) + 13 : (opt.rowH || 26), m = { t: 2, r: nw ? (opt.rrn || opt.rr || 44) : (opt.rr || 44), b: 4, l: up ? 0 : nw ? (opt.ln || 120) : (opt.l || 230) };
+  const svg = svgIn(el, w, m.t + m.b + rowH * rows.length), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+  const tot = r => sum(keys, k => r[k] || 0);
+  const iw = w - m.l - m.r, x = d3.scaleLinear().domain([0, opt.max || d3.max(rows, tot)]).range([0, iw]);
+  rows.forEach((r, i) => {
+    const rh0 = opt.rowH || 26, cy = i * rowH + (up ? 13 : 0), bh = Math.min(15, rh0 - 9);
+    if (up) g.append('text').attr('class', 'lbl strong').attr('x', 0).attr('y', cy - 1).style('fill', opt.labelFill ? opt.labelFill(r) : null).text(opt.label(r, nw));
+    else g.append('text').attr('class', 'lbl strong').attr('x', -8).attr('y', cy + rh0 / 2 + 4).attr('text-anchor', 'end').style('fill', opt.labelFill ? opt.labelFill(r) : null).text(opt.label(r, nw));
+    let acc = 0; const segs = keys.map((k, j) => ({ k, j, v: r[k] || 0 })).filter(s => s.v);
+    segs.forEach((s, q) => {
+      const x0 = x(acc), x1 = x(acc + s.v); acc += s.v;
+      const last = q === segs.length - 1;
+      g.append('path').attr('d', last ? barPath(x0, cy + (rh0 - bh) / 2, x1, bh, 3) : `M${x0},${cy + (rh0 - bh) / 2}h${Math.max(0, x1 - x0 - 1)}v${bh}h${-Math.max(0, x1 - x0 - 1)}Z`).attr('fill', colors[s.j]);
+    });
+    g.append('text').attr('class', 'lbl').attr('x', x(tot(r)) + 6).attr('y', cy + rh0 / 2 + 4).text(opt.right ? opt.right(r, nw) : fmt(tot(r)));
+    bindTip(g.append('rect').attr('class', 'hit').attr('x', -m.l).attr('width', w).attr('y', cy - (up ? 13 : 0)).attr('height', rowH).datum(r),
+      d => `<b>${esc(opt.label(d, false))}</b>` + (opt.tipHead ? opt.tipHead(d) : '') + keys.map((k, j) => d[k] ? trow(colors[j], names[j], fmt(d[k])) : '').join('') + trow(null, t('total'), fmt(tot(d))) + (opt.tipExtra ? opt.tipExtra(d) : ''));
+  });
+  return { svg, g, x, iw };
+}
+// a label too wide for the plot, broken into two lines at the space nearest its middle (narrow screens)
+function wrap2(el, s, room, cls = 'lbl strong') {
+  if (textW(el, [s], cls) <= room) return [s];
+  const sp = [...s.matchAll(/ /g)].map(m => m.index); if (!sp.length) return [s];
+  const mid = s.length / 2, k = sp.reduce((a, b) => Math.abs(b - mid) < Math.abs(a - mid) ? b : a);
+  return [s.slice(0, k), s.slice(k + 1)];
+}
+// a list of horizontal bars, label on the left (on narrow screens above the bar, broken into two lines if needed), value on the right
+function barList(el, rows, o) {
+  const w = W(el), nw = narrow(w), labs = rows.map(r => o.label(r, nw)), rw = o.rw || 44;
+  const lw = nw ? 0 : Math.min(o.cap || 480, textW(el, labs) + 14);
+  const lines = labs.map(s => nw ? wrap2(el, s, w - 4) : [s]), rowHs = lines.map(ls => nw ? 20 + 13 * ls.length : 22), tops = rowHs.reduce((a, h) => a.concat(a[a.length - 1] + h), [0]);
+  const svg = svgIn(el, w, 4 + tops[tops.length - 1]), g = svg.append('g').attr('transform', `translate(${lw},2)`);
+  const x = d3.scaleLinear().domain([0, o.max || d3.max(rows, o.value) || 1]).range([0, Math.max(40, (o.barW ? o.barW(w - lw) : w - lw) - rw)]);
+  rows.forEach((r, i) => {
+    const cy = tops[i], v = o.value(r), by = nw ? cy + 13 * lines[i].length + 3 : cy + 5;
+    if (nw) lines[i].forEach((ln, k) => g.append('text').attr('class', 'lbl strong').attr('x', 0).attr('y', cy + 11 + 13 * k).style('fill', o.labelFill ? o.labelFill(r) : null).text(ln));
+    else g.append('text').attr('class', 'lbl strong').attr('x', -8).attr('y', cy + 15).attr('text-anchor', 'end').style('fill', o.labelFill ? o.labelFill(r) : null).text(labs[i]);
+    if (v) g.append('path').attr('d', barPath(0, by, Math.max(2, x(v)), 12, 3)).attr('fill', o.color(r));
+    g.append('text').attr('class', 'lbl').attr('x', (v ? Math.max(2, x(v)) + 6 : 0)).attr('y', by + 10).text(o.right ? o.right(r, nw) : fmt(v));
+    if (o.tip) bindTip(g.append('rect').attr('class', 'hit').attr('x', -lw).attr('width', w).attr('y', cy).attr('height', rowHs[i]).datum(r), o.tip);
+  });
+  return { svg, g, x };
+}
+// shaded period bands on a time axis (x in fractional years), with the period's name at the top
+function periodBands(g, x, ih, periods, x0, x1, opt = {}) {
+  const gg = g.append('g');
+  periods.forEach(([name, a, b], i) => {
+    const xa = x(Math.max(a, x0)), xb = x(Math.min(b, x1));
+    if (xb - xa < 1) return;
+    if (i % 2) gg.append('rect').attr('x', xa).attr('y', opt.top || 0).attr('width', xb - xa).attr('height', ih - (opt.top || 0)).attr('fill', css('--surface-2')).attr('opacity', .9);
+    const labs = [].concat(typeof name === 'function' ? name(xb - xa) : name).filter(Boolean);
+    // the first of the names that fits the band (a name wider than its band is left out)
+    for (const lab of labs) {
+      if (xb - xa <= (opt.minLabel || 26)) break;
+      const tx = gg.append('text').attr('class', 'lbl mut').attr('x', (xa + xb) / 2).attr('y', (opt.top || 0) + 12).attr('text-anchor', 'middle').text(lab);
+      if (tx.node().getComputedTextLength() <= xb - xa - 4) break;
+      tx.remove();
+    }
+  });
+  return gg;
+}
+const fy = s => { const [y, m, d] = s.split('-').map(Number); return y + (m - 1) / 12 + (d - 1) / 365; };   // a date as a fractional year
+// ------------------------------------------------------------------ more scaffolding
+// a heatmap: rows x columns of rounded cells and a total bar on the right; on narrow screens each row's label sits above it
+function heat(el, rows, cols, o) {
+  const w = W(el), nw = narrow(w), labs = rows.map(r => r.label(nw)), up = nw && !o.noUp ? 13 : 0;
+  const lw = up ? 0 : Math.min(o.cap || 300, textW(el, labs) + 12);
+  const rw = nw ? (o.rwn || 46) : (o.rw || 80);
+  const cw = Math.min(o.maxCw || 64, (w - lw - rw) / cols.length);
+  const ch = o.ch ? o.ch(nw) : 20, rowH = ch + (o.gapY == null ? 3 : o.gapY) + up, top = o.top == null ? 18 : o.top;
+  const svg = svgIn(el, w, top + rows.length * rowH + 2), g = svg.append('g').attr('transform', `translate(${lw},${top})`);
+  cols.forEach((c, j) => { const lab = c.label(nw, cw); if (lab) g.append('text').attr('class', 'lbl mut').attr('x', j * cw + cw / 2).attr('y', -6).attr('text-anchor', 'middle').style('opacity', c.partial ? .6 : null).text(lab); });
+  const maxT = o.maxTot || d3.max(rows, r => r.total) || 1, bx = cols.length * cw + 8, bwMax = Math.max(8, rw - (nw ? 28 : 40));
+  rows.forEach((r, i) => {
+    const y0 = i * rowH + up;
+    if (up) g.append('text').attr('class', 'lbl strong').attr('x', 0).attr('y', y0 - 3).text(labs[i]);
+    else g.append('text').attr('class', 'lbl strong').attr('x', -8).attr('y', y0 + ch / 2 + 4).attr('text-anchor', 'end').text(labs[i]);
+    cols.forEach((c, j) => {
+      const v = r.vals[j], fill = o.color(v, r, j);
+      const cell = g.append('rect').attr('x', j * cw + 1).attr('y', y0).attr('width', Math.max(1, cw - 2)).attr('height', ch).attr('rx', Math.min(4, cw / 4, ch / 3)).attr('fill', fill).attr('opacity', c.partial ? .6 : 1);
+      const st = o.stroke ? o.stroke(v, r, j) : null;
+      if (st) cell.attr('stroke', st).attr('stroke-width', 1.5);
+      const tx = o.text ? o.text(v, r, j) : (v ? fmt(v) : '');
+      if (tx && cw >= (o.minText || 18) && ch >= 11) g.append('text').attr('class', 'lbl').attr('x', j * cw + cw / 2).attr('y', y0 + ch / 2 + 3.5).attr('text-anchor', 'middle')
+        .style('fill', inkOn(fill)).style('font-size', ch < 15 ? '10px' : null).style('pointer-events', 'none').text(tx);
+      if (o.tip) bindTip(g.append('rect').attr('class', 'hit').attr('x', j * cw).attr('y', y0).attr('width', cw).attr('height', ch).datum([r, j]), d => o.tip(d[0], d[1]));
+    });
+    if (r.total != null) {
+      const bw = r.total ? Math.max(2, bwMax * r.total / maxT) : 0;
+      if (bw) g.append('path').attr('d', barPath(bx, y0 + ch / 2 - 5, bx + bw, 10, 3)).attr('fill', o.totColor ? o.totColor(r) : css('--muted-mark'));
+      g.append('text').attr('class', 'lbl').attr('x', bx + bw + 5).attr('y', y0 + ch / 2 + 4).text(o.totText ? o.totText(r) : fmt(r.total));
+    }
+  });
+  return { svg, g, cw, lw, rowH, ch, top };
+}
+// horizontal bars, light for the whole and solid for the part, the share on the right
+function partBars(el, rows, o) {
+  const w = W(el), nw = narrow(w), labs = rows.map(r => o.label(r, nw)), up = nw;
+  const lw = up ? 0 : Math.min(o.cap || 320, textW(el, labs) + 14), rw = nw ? (o.rwn || 96) : (o.rw || 130);
+  const rowH = up ? 34 : 25, svg = svgIn(el, w, rows.length * rowH + 4), g = svg.append('g').attr('transform', `translate(${lw},2)`);
+  const x = d3.scaleLinear().domain([0, o.max || d3.max(rows, o.all) || 1]).range([0, Math.max(40, w - lw - rw)]);
+  rows.forEach((r, i) => {
+    const cy = i * rowH + (up ? 14 : 0), by = cy + 5, fade = o.partial && o.partial(r) ? .6 : 1;
+    if (up) g.append('text').attr('class', 'lbl strong').attr('x', 0).attr('y', cy - 2).text(labs[i]);
+    else g.append('text').attr('class', 'lbl strong').attr('x', -8).attr('y', cy + 15).attr('text-anchor', 'end').text(labs[i]);
+    const a = o.all(r), p = o.part(r);
+    if (a) g.append('path').attr('d', barPath(0, by, Math.max(2, x(a)), 13, 3)).attr('fill', o.light || mix(css('--s1'), .7)).attr('opacity', fade);
+    if (p) g.append('path').attr('d', barPath(0, by, Math.max(2, x(p)), 13, 3)).attr('fill', o.solid || css('--s1')).attr('opacity', fade);
+    g.append('text').attr('class', 'lbl').attr('x', (a ? x(a) : 0) + 6).attr('y', by + 10).text(o.right(r, nw));
+    if (o.tip) bindTip(g.append('rect').attr('class', 'hit').attr('x', -lw).attr('width', w).attr('y', cy - (up ? 14 : 0)).attr('height', rowH).datum(r), o.tip);
+  });
+  return { svg, g, x };
+}
+// straight-segment lines over years; a series is drawn only where it has values (no line at zero before it exists)
+function yearLines(el, series, o) {
+  const w = W(el), nw = narrow(w), h = nw ? (o.hn || 230) : (o.h || 280), m = { t: o.t || 18, r: nw ? (o.rn || 40) : (o.r || 70), b: 22, l: nw ? (o.ln || 36) : (o.l || 46) };
+  const svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+  const iw = w - m.l - m.r, ih = h - m.t - m.b, x = d3.scaleLinear().domain([o.x0, o.x1]).range([0, iw]);
+  const y = d3.scaleLinear().domain([0, o.yMax]).range([ih, 0]);
+  if (o.nice !== false) y.nice();
+  yAxis(g, y, iw, o.yTicks || 4, o.yFmt || fmt);
+  g.append('line').attr('class', 'base').attr('x1', 0).attr('x2', iw).attr('y1', ih).attr('y2', ih);
+  (nw ? o.ticksN : o.ticks).forEach(v => g.append('text').attr('class', 'lbl').attr('x', x(v)).attr('y', ih + 15).attr('text-anchor', 'middle').text(v));
+  if (o.before) o.before(g, x, y, iw, ih, nw);
+  series.forEach((s, si) => {
+    const pts = s.pts.filter(p => p[1] != null);
+    const gap = s.maxGap == null ? 1 : s.maxGap;
+    if (s.area) {
+      const id = 'ga' + (++HATCH), fill = grad(svg, id, s.color, .28);
+      g.append('path').attr('d', d3.area().x(p => x(p[0])).y0(ih).y1(p => y(p[1]))(pts)).attr('fill', fill);
+    }
+    // runs of consecutive years; a gap breaks the line
+    let run = [];
+    const runs = [];
+    pts.forEach((p, i) => { if (i && p[0] - pts[i - 1][0] > gap) { runs.push(run); run = []; } run.push(p); });
+    if (run.length) runs.push(run);
+    runs.forEach(r => g.append('path').attr('d', d3.line().x(p => x(p[0])).y(p => y(p[1]))(r)).attr('fill', 'none').attr('stroke', s.color).attr('stroke-width', 2)
+      .attr('stroke-dasharray', s.dash || null).attr('stroke-linejoin', 'round'));
+    pts.forEach(p => g.append('circle').attr('cx', x(p[0])).attr('cy', y(p[1])).attr('r', s.r || 3).attr('fill', s.color)
+      .attr('stroke', css('--surface')).attr('stroke-width', 1.5).attr('opacity', s.fade && s.fade(p) ? .45 : 1));
+  });
+  if (o.tip) {
+    const xs = d3.range(o.x0, o.x1 + 1), cw = iw / (o.x1 - o.x0 || 1);
+    const vline = g.append('line').attr('y1', 0).attr('y2', ih).attr('stroke', css('--text-3')).attr('stroke-dasharray', '2 3').style('opacity', 0);
+    xs.forEach(v => bindTip(g.append('rect').attr('class', 'hit').attr('x', x(v) - cw / 2).attr('y', 0).attr('width', cw).attr('height', ih).datum(v)
+      .on('mouseover.v', () => vline.attr('x1', x(v)).attr('x2', x(v)).style('opacity', 1)).on('mouseout.v', () => vline.style('opacity', 0)), o.tip));
+  }
+  return { svg, g, x, y, iw, ih, m, nw };
+}
+// x labels of a year axis, every k years
+const yearTicks = (a, b, k) => d3.range(Math.ceil(a / k) * k, b + 1, k);
+
+// ------------------------------------------------------------------ the charts
+const CH = [];
+const part = (id, ca, en, dca, den) => CH.push({ part: true, id, ca, en, dca, den });
+const chart = (id, fn) => CH.push({ id, fn });
+part('p1', 'I. Les lleis del Consell General', 'I. The laws of the Consell General',
+  'Els textos que el Butlletí Oficial del Principat d’Andorra (BOPA) publica sota el tema «Lleis» des del gener del 1989, i la Constitució del 1993: quantes lleis hi ha cada any i de quin tipus, de què tracten, quines són qualificades, quins codis hi ha i com s’han allargat.',
+  'The texts the Butlletí Oficial del Principat d’Andorra (BOPA) publishes under the theme “Lleis” since January 1989, and the 1993 Constitution: how many laws there are each year and of what kind, what they are about, which are qualified laws, which codes there are and how the laws have grown longer.');
+
+// 1. the laws by year and kind
+const KK = ['new', 'amend', 'consol', 'budget', 'credit', 'doc'];
+const kName = k => LA({ new: ['lleis noves', 'new laws'], amend: ['lleis de modificació', 'amending laws'], consol: ['textos consolidats', 'consolidated texts'],
+  budget: ['lleis de pressupost', 'budget laws'], credit: ['crèdits extraordinaris i suplements de crèdit', 'extraordinary and supplementary credits'],
+  doc: ['edictes, quadres i decrets d’esmena', 'edicts, tables and correcting decrees'] }[k]);
+const kCol = k => k === 'amend' ? mix(css('--s1'), .5) : k === 'credit' ? mix(css('--s4'), .45) : css({ new: '--s1', consol: '--s7', budget: '--s4', doc: '--muted-mark' }[k]);
+chart('c01', el => {
+  const c = D.c01, Y = c.years, tot = yy => sum(KK, k => Y[yy][k]);
+  const peak = YEARS.reduce((a, yy) => tot(yy) > tot(a) ? yy : a, YEARS[0]), bk = c.by_kind, docs = c.n - c.lawlike;
+  return {
+    title: L(`${fmt(c.lawlike)} lleis des del 1989; el ${peak}, ${fmt(tot(peak))}, ${fmt(Y[peak].credit)} de les quals de crèdit`,
+      `${fmt(c.lawlike)} laws since 1989; in ${peak}, ${fmt(tot(peak))}, ${fmt(Y[peak].credit)} of them credit laws`),
+    toc: L('Les lleis per any', 'The laws by year'),
+    dek: L(`Els ${fmt(c.n)} textos que el BOPA classifica com a lleis, per l’any en què es van publicar: ${fmt(c.lawlike)} lleis i ${fmt(docs)} edictes, quadres de pressupost i decrets d’esmena que les acompanyen. De les lleis, ${fmt(bk.new)} són noves, ${fmt(bk.amend)} es titulen de modificació d’una altra llei, ${fmt(bk.budget)} són pressupostos, ${fmt(bk.credit)} aproven crèdits extraordinaris o suplements de crèdit i ${fmt(bk.consol)}, des del 2020, són textos consolidats. Les franges són els mandats del síndic o la síndica general que signa les lleis.`,
+      `The ${fmt(c.n)} texts the BOPA files as laws, by the year they were published: ${fmt(c.lawlike)} laws and ${fmt(docs)} edicts, budget tables and correcting decrees that go with them. Of the laws, ${fmt(bk.new)} are new, ${fmt(bk.amend)} are titled as amending another law, ${fmt(bk.budget)} are budgets, ${fmt(bk.credit)} approve extraordinary or supplementary credits and ${fmt(bk.consol)}, since 2020, are consolidated texts. The bands are the terms of the Síndic or Síndica General who signs the laws.`),
+    draw(el) {
+      legend(el, KK.map(k => ({ c: kCol(k), l: Cap(kName(k)) })));
+      const w = W(el), nw = narrow(w), h = nw ? 250 : 310, m = { t: 22, r: 8, b: 22, l: nw ? 28 : 34 };
+      const svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+      const iw = w - m.l - m.r, ih = h - m.t - m.b, x = d3.scaleLinear().domain([1989, LASTY + 1]).range([0, iw]), step = x(1990) - x(1989), bw = Math.max(2, step - (nw ? 1.5 : 3));
+      const y = d3.scaleLinear().domain([0, d3.max(YEARS, tot)]).nice().range([ih, 0]);
+      periodBands(g, x, ih, TERMS.map(tm => [() => [termName(tm, false), termName(tm, true)], fy(tm.from), Math.min(LASTY + 1, fy(tm.to))]), 1989, LASTY + 1, { top: -m.t + 2 });
+      yAxis(g, y, iw, 4);
+      g.append('line').attr('class', 'base').attr('x1', 0).attr('x2', iw).attr('y1', ih).attr('y2', ih);
+      YEARS.forEach(yy => {
+        const o = Y[yy], segs = KK.map(k => [k, o[k] || 0]).filter(s => s[1]), x0 = x(yy) + (step - bw) / 2;
+        let acc = 0;
+        segs.forEach(([k, v], q) => {
+          const y0 = y(acc) - (q ? 1 : 0), y1 = y(acc + v); acc += v;
+          g.append('path').attr('d', q === segs.length - 1 ? colPath(x0, y0, bw, Math.min(y1, y0 - 1), Math.min(3, bw / 2)) : `M${x0},${y0}V${y1 + 1}H${x0 + bw}V${y0}Z`)
+            .attr('fill', kCol(k)).attr('opacity', yy === LASTY ? .55 : 1);
+        });
+        bindTip(g.append('rect').attr('class', 'hit').attr('x', x(yy)).attr('width', step).attr('y', 0).attr('height', ih).datum(yy),
+          d => `<b>${d}${d === LASTY ? ' (' + t('partial') + ')' : ''}</b>` + KK.map(k => Y[d][k] ? trow(kCol(k), Cap(kName(k)), fmt(Y[d][k])) : '').join('') + trow(null, t('total'), fmt(tot(d))));
+      });
+      yearTicks(1989, LASTY, nw ? 10 : 5).forEach(v => g.append('text').attr('class', 'lbl').attr('x', x(v) + step / 2).attr('y', ih + 15).attr('text-anchor', 'middle').text(v));
+      halo(g, x(peak) - 4, y(tot(peak)) + 10, `${peak}: ${fmt(tot(peak))}`, 'end');
+      note(el, ['laws.csv', 'lleis/<ANY>-<NÚMERO>/', 'signatures.md'], `${fmt(c.n)} ${L('textos', 'texts')}`,
+        L(`l’any és el de publicació al BOPA; el ${LASTY} arriba al ${dateTxt(PF.last_pub)} (més clar). Les ${c.future.length} lleis de la branca future, que entren en vigor més tard, compten l’any en què es van publicar. El tipus surt del títol: «crèdit extraordinari» o «suplement de crèdit»; «pressupost per a l’exercici»; «text consolidat»; «modificació»; la resta són lleis noves. Abans de la Constitució les signatures no donen el nom del síndic.`,
+          `the year is that of publication in the BOPA; ${LASTY} runs to ${dateTxt(PF.last_pub)} (lighter). The ${c.future.length} laws on the future branch, which enter into force later, count in the year they were published. The kind is read from the title: “crèdit extraordinari” or “suplement de crèdit”; “pressupost per a l’exercici”; “text consolidat”; “modificació”; the rest are new laws. Before the Constitution the signatures do not give the Síndic’s name.`));
+      table(el, [t('year'), ...KK.map(k => Cap(kName(k))), t('total')], YEARS.map(yy => [String(yy), ...KK.map(k => Y[yy][k]), tot(yy)]));
+      subTable(el, L('Mandats del síndic general, segons les signatures', 'Síndic General terms, from the signatures'), [L('Síndic', 'Síndic'), L('Des de', 'From'), L('Fins a', 'To'), L('Lleis', 'Laws')],
+        TERMS.map(tm => [termName(tm, false), dateTxt(tm.from), tm === TERMS[TERMS.length - 1] ? '–' : dateTxt(tm.to), tm.n]), [0, 0, 0, 1]);
+      subTable(el, L('Edictes, quadres i decrets d’esmena (no comptats com a lleis)', 'Edicts, tables and correcting decrees (not counted as laws)'), [L('Títol al BOPA', 'Title in the BOPA'), L('Publicació', 'Published')],
+        c.docs.map(r => [r[1], dateTxt(r[2])]), [0, 0]);
+    }
+  };
+});
+
+// 2. subjects
+const SBN = { budget: ['Pressupost i crèdits', 'Budget and credits'], tax: ['Impostos, taxes i duana', 'Taxes, charges and customs'], fin: ['Banca i sistema financer', 'Banking and finance'],
+  just: ['Justícia i dret penal', 'Justice and criminal law'], inst: ['Institucions, eleccions i drets', 'Institutions, elections and rights'], fam: ['Persona i família', 'Person and family'],
+  work: ['Treball, seguretat social i funció pública', 'Labour, social security and civil service'], health: ['Salut i serveis socials', 'Health and social services'],
+  edu: ['Educació, cultura i esport', 'Education, culture and sport'], terr: ['Territori, habitatge, medi ambient i transport', 'Land, housing, environment and transport'],
+  econ: ['Economia, comerç i professions', 'Economy, trade and professions'], adm: ['Administració, comuns i seguretat', 'Administration, comuns and security'],
+  immig: ['Immigració i residència', 'Immigration and residence'], other: ['Altres', 'Other'] };
+const SBS = { budget: ['Pressupost', 'Budget'], tax: ['Impostos', 'Taxes'], fin: ['Banca i finances', 'Banking'], just: ['Justícia', 'Justice'], inst: ['Institucions', 'Institutions'],
+  fam: ['Família', 'Family'], work: ['Treball', 'Labour'], health: ['Salut', 'Health'], edu: ['Educació', 'Education'], terr: ['Territori', 'Land'], econ: ['Economia', 'Economy'],
+  adm: ['Administració', 'Administration'], immig: ['Immigració', 'Immigration'], other: ['Altres', 'Other'] };
+const perLab = (p, nw) => nw ? `${String(p[0]).slice(2)}–${String(p[1]).slice(2)}` : `${p[0]}–${String(p[1]).slice(2)}`;
+chart('c02', el => {
+  const c = D.c02, P = c.periods, j1 = P.findIndex(p => p[0] === 2009), j2 = P.findIndex(p => p[0] === 2019);
+  const b = k => c.cells.budget[k], keys = c.subjects.filter(k => k !== 'other').sort((a, b_) => c.tot[b_] - c.tot[a]).concat(['other']);
+  const top = keys.filter(k => k !== 'budget' && k !== 'other').slice(0, 3);
+  return {
+    title: L(`Pressupost i crèdits: el ${pct(b(j1), c.ptot[j1])} de les lleis del 2009–2013, el ${pct(b(j2), c.ptot[j2])} del 2019–2023`,
+      `Budget and credit laws: ${pct(b(j1), c.ptot[j1])} of the laws of 2009–2013, ${pct(b(j2), c.ptot[j2])} of 2019–2023`),
+    toc: L('De què tracten', 'What they are about'),
+    dek: L(`Les ${fmt(c.n)} lleis per la matèria que diu el seu títol, en períodes de cinc anys; el color és la part de les lleis del període, i la xifra, quantes. Les lleis de pressupost i de crèdit pesen més del 2009 al 2013, quan hi ha anys sense llei de pressupost (gràfic 17). Després, les matèries amb més lleis són ${top.map(k => LA(SBN[k]).toLowerCase() + ' (' + fmt(c.tot[k]) + ')').join('; ').replace(/; ([^;]*)$/, '; i $1')}.`,
+      `The ${fmt(c.n)} laws by the subject their title names, in five-year periods; the colour is the share of the period’s laws, and the figure how many. Budget and credit laws weigh most from 2009 to 2013, when some years have no budget law (chart 17). After them, the subjects with the most laws are ${top.map(k => LA(SBN[k]).toLowerCase() + ' (' + fmt(c.tot[k]) + ')').join('; ').replace(/; ([^;]*)$/, '; and $1')}.`),
+    draw(el) {
+      const ramp = seqRamp(), mx = d3.max(keys, k => d3.max(c.cells[k], (v, j) => v / c.ptot[j]));
+      const cols = P.map((p, j) => ({ label: nw => perLab(p, nw), partial: j === P.length - 1 }));
+      heat(el, keys.map(k => ({ key: k, label: nw => LA(nw ? SBS[k] : SBN[k]), vals: c.cells[k], total: c.tot[k] })), cols, {
+        cap: 300, maxCw: 74, ch: nw => nw ? 18 : 22, rw: 70, rwn: 44,
+        color: (v, r, j) => v ? ramp(.12 + .88 * Math.sqrt(v / c.ptot[j] / mx)) : css('--surface-2'),
+        totColor: r => r.key === 'other' ? css('--muted-mark') : css('--s1'),
+        tip: (r, j) => `<b>${esc(LA(SBN[r.key]))}</b><div class="q">${P[j][0]}–${P[j][1]}${j === P.length - 1 ? ' (' + L('fins al ', 'to ') + dateTxt(PF.last_pub) + ')' : ''}</div>` +
+          trow(null, L('Lleis', 'Laws'), fmt(r.vals[j])) + trow(null, L('Part del període', 'Share of the period'), pct(r.vals[j], c.ptot[j])) });
+      note(el, ['laws.csv (title)'], `${fmt(c.n)} ${L('lleis', 'laws')}`,
+        L(`la matèria es llegeix del títol amb les regles de visualisations/src/prep.py, en l’ordre de les files: la primera que coincideix (una llei de modificació pren la matèria de la llei que modifica, si el títol la nomena). «Altres» són ${fmt(c.tot.other)} lleis que cap regla no reconeix (la taula les llista). L’últim període arriba al ${dateTxt(PF.last_pub)} (més clar).`,
+          `the subject is read from the title with the rules in visualisations/src/prep.py, in the order of the rows: the first that matches (an amending law takes the subject of the law it amends, when the title names it). “Other” are ${fmt(c.tot.other)} laws no rule recognises (the table lists them). The last period runs to ${dateTxt(PF.last_pub)} (lighter).`));
+      table(el, [L('Matèria', 'Subject'), ...P.map(p => `${p[0]}–${p[1]}`), t('total')], keys.map(k => [LA(SBN[k]), ...c.cells[k], c.tot[k]]).concat([[t('total'), ...c.ptot, c.n]]));
+      subTable(el, L('Lleis classificades com a «Altres»', 'Laws classed as “Other”'), [L('Any', 'Year'), L('Títol al BOPA', 'Title in the BOPA')], c.other.map(r => [String(r[2]), r[1]]), [0, 0]);
+    }
+  };
+});
+
+// 3. the Constitution
+const TITN = { I: ['De la sobirania d’Andorra', 'Andorra’s sovereignty'], II: ['Dels drets i llibertats', 'Rights and freedoms'], III: ['Dels Coprínceps', 'The Co-princes'],
+  IV: ['Del Consell General', 'The Consell General'], V: ['Del Govern', 'The Government'], VI: ['De l’estructura territorial', 'Territorial structure'], VII: ['De la Justícia', 'Justice'],
+  VIII: ['Del Tribunal Constitucional', 'The Constitutional Court'], IX: ['De la reforma de la Constitució', 'Amending the Constitution'] };
+const romanOf = s => ((s || '').match(/T[íi]tol\s+([IVXL]+)/) || [])[1];
+const CBIN = [[0, 0], [1, 1], [2, 3], [4, 6], [7, 10], [11, 1e9]];
+chart('c03', el => {
+  const c = D.c03, arts = c.arts.filter(a => a.kind === 'art'), disp = c.arts.filter(a => a.kind === 'disp');
+  const top = arts.reduce((a, b) => b.cited.length > a.cited.length ? b : a, arts[0]), res = D.c04.reserve;
+  const tits = []; arts.forEach(a => { const r = romanOf(a.tit); let tt = tits.find(x => x.r === r); if (!tt) tits.push(tt = { r, arts: [] }); tt.arts.push(a); });
+  const wordsT = tt => sum(tt.arts, a => a.words), t2 = tits.find(x => x.r === 'II');
+  return {
+    title: L(`${fmt(c.laws_citing)} lleis citen articles de la Constitució; el més citat, l’article ${top.num} (${lleis(top.cited.length)})`,
+      `${fmt(c.laws_citing)} laws cite articles of the Constitution; the most cited is article ${top.num} (${lleis(top.cited.length)})`),
+    toc: L('La Constitució', 'The Constitution'),
+    dek: L(`La Constitució del Principat d’Andorra, de 28 d’abril de 1993, publicada al BOPA i en vigor el ${dateTxt(c.pub)}: un preàmbul, ${fmt(arts.length)} articles en ${tits.length} títols i ${disp.length} disposicions, ${fmt(c.words)} paraules. El títol II, dels drets i llibertats, és el més llarg: ${t2.arts.length} articles i ${fmt(wordsT(t2))} paraules. Cada quadrat és un article, més fosc com més lleis el citen pel número («l’article 57 de la Constitució»); ${fmt(c.cites)} cites en ${fmt(c.laws_citing)} de les ${fmt(c.n)} lleis. Amb vora, els ${res.length} articles que parlen de lleis qualificades. El registre en té un sol text, el del 1993, i cap llei no hi declara canvis.`,
+      `The Constitution of the Principality of Andorra, of 28 April 1993, published in the BOPA and in force on ${dateTxt(c.pub)}: a preamble, ${fmt(arts.length)} articles in ${tits.length} titles and ${disp.length} provisions, ${fmt(c.words)} words. Title II, on rights and freedoms, is the longest: ${t2.arts.length} articles and ${fmt(wordsT(t2))} words. Each square is an article, darker the more laws cite it by number (“article 57 of the Constitution”); ${fmt(c.cites)} citations in ${fmt(c.laws_citing)} of the ${fmt(c.n)} laws. Outlined, the ${res.length} articles that mention qualified laws. The record holds a single text of it, that of 1993, and no law states a change to it.`),
+    draw(el) {
+      const ramp = seqRamp(), binOf = n => CBIN.findIndex(([a, b]) => n >= a && n <= b), colOf = n => n ? ramp(.18 + .82 * binOf(n) / (CBIN.length - 1)) : css('--surface-2');
+      legend(el, CBIN.map(([a, b], i) => ({ c: i ? ramp(.18 + .82 * i / (CBIN.length - 1)) : css('--surface-2'), l: i === 0 ? L('cap llei', 'no law') : b > 1e8 ? L(`${a} lleis o més`, `${a} laws or more`) : a === b ? lleis(a) : L(`${a}–${b} lleis`, `${a}–${b} laws`) }))
+        .concat([{ c: css('--text'), l: L('parla de lleis qualificades', 'mentions qualified laws'), shape: 'outline' }]));
+      const w = W(el), nw = narrow(w), s = nw ? 15 : 17, gp = 3, rows = tits.map(tt => ({ lab: `${tt.r}. ${LA(TITN[tt.r] || [tt.r, tt.r])}`, arts: tt.arts, words: wordsT(tt) }))
+        .concat([{ lab: L('Disposicions', 'Provisions'), arts: disp, words: sum(disp, a => a.words) }]);
+      const lw = nw ? 0 : Math.min(250, textW(el, rows.map(r => r.lab)) + 14), rw = nw ? 0 : 118, area = w - lw - rw, per = Math.max(5, Math.floor((area + gp) / (s + gp)));
+      const lines = rows.map(r => Math.ceil(r.arts.length / per)), rowH = rows.map((r, i) => (nw ? 18 : 0) + lines[i] * (s + gp) + 8), tops = rowH.reduce((a, h) => a.concat(a[a.length - 1] + h), [0]);
+      const svg = svgIn(el, w, tops[tops.length - 1] + 4), g = svg.append('g').attr('transform', `translate(${lw},2)`);
+      rows.forEach((r, i) => {
+        const y0 = tops[i] + (nw ? 18 : 0);
+        if (nw) g.append('text').attr('class', 'lbl strong').attr('x', 0).attr('y', tops[i] + 11).text(`${r.lab} · ${nn(r.arts.length, ['article', 'articles'], ['article', 'articles'])}`);
+        else {
+          g.append('text').attr('class', 'lbl strong').attr('x', -10).attr('y', y0 + s / 2 + 4).attr('text-anchor', 'end').text(r.lab);
+          g.append('text').attr('class', 'lbl mut').attr('x', Math.min(per, r.arts.length) * (s + gp) + 6).attr('y', y0 + s / 2 + 4)
+            .text(`${r.arts.length} ${L('art.', 'art.')} · ${fmt(r.words)} ${L('paraules', 'words')}`);
+        }
+        r.arts.forEach((a, k) => {
+          const cx = (k % per) * (s + gp), cy = y0 + Math.floor(k / per) * (s + gp), n = a.cited.length;
+          g.append('rect').attr('x', cx).attr('y', cy).attr('width', s).attr('height', s).attr('rx', 3.5).attr('fill', colOf(n));
+          if (a.lq) g.append('rect').attr('x', cx - 1).attr('y', cy - 1).attr('width', s + 2).attr('height', s + 2).attr('rx', 4.5).attr('fill', 'none').attr('stroke', css('--text')).attr('stroke-width', 1.6);
+          bindTip(g.append('rect').attr('class', 'hit').attr('x', cx - 1).attr('y', cy - 1).attr('width', s + gp).attr('height', s + gp).datum(a), d => {
+            const name = d.num ? L(`Article ${d.num}`, `Article ${d.num}`) : d.head || d.file;
+            return `<b>${esc(name)}</b><div class="q">${d.num ? esc(`${romanOf(d.tit)}. ${LA(TITN[romanOf(d.tit)] || ['', ''])}`) : ''}</div><div class="q">${esc(d.first)}${d.first.length >= 160 ? '…' : ''}</div>` +
+              trow(null, L('Paraules', 'Words'), fmt(d.words)) + (d.num ? trow(null, L('Lleis que el citen', 'Laws citing it'), fmt(d.cited.length)) : '') +
+              (d.lq ? `<div class="q">${L('Parla de lleis qualificades', 'Mentions qualified laws')}</div>` : '') +
+              d.cited.slice(-4).reverse().map(x => trow(null, `${citeOf(x[0])}`, x[2])).join('') + (d.cited.length > 4 ? `<div class="q">${L('i ' + (d.cited.length - 4) + ' més', 'and ' + (d.cited.length - 4) + ' more')}</div>` : '');
+          });
+        });
+      });
+      note(el, ['constitucio/article-<NÚMERO>.md', 'lleis/<ANY>-<NÚMERO>/'], `${fmt(arts.length)} ${L('articles', 'articles')} · ${fmt(c.cites)} ${L('cites', 'citations')}`,
+        L('una cita és «l’article N» o «els articles N i M» seguit de «de la Constitució» en el text d’una llei; no es compten les cites sense número ni les de la Constitució en general. Les vores marquen els articles amb les paraules «llei qualificada».',
+          'a citation is “l’article N” or “els articles N i M” followed by “de la Constitució” in a law’s text; citations without a number, and mentions of the Constitution as a whole, are not counted. Outlines mark the articles that contain the words “llei qualificada”.'));
+      table(el, [L('Article', 'Article'), L('Títol', 'Title'), L('Paraules', 'Words'), L('Lleis que el citen', 'Laws citing it'), L('Llei qualificada', 'Qualified law')],
+        arts.map(a => [String(a.num), romanOf(a.tit), a.words, a.cited.length, a.lq ? L('sí', 'yes') : '']));
+    }
+  };
+});
+
+// 4. qualified laws
+const QMN = { penal: ['Penal i penitenciari', 'Criminal law and prisons'], nat: ['Nacionalitat i immigració', 'Nationality and immigration'], rights: ['Drets i llibertats', 'Rights and freedoms'],
+  elect: ['Eleccions, referèndum i partits', 'Elections, referendums and parties'], just: ['Justícia i Tribunal Constitucional', 'Justice and the Constitutional Court'],
+  fam: ['Persona i família', 'Person and family'], comuns: ['Comuns', 'The comuns'], sec: ['Policia, seguretat i emergències', 'Police, security and emergencies'],
+  pension: ['Pla de pensions de la funció pública', 'Civil service pension plan'], other: ['Altres', 'Other'] };
+chart('c04', el => {
+  const c = D.c04, Q = c.laws, by = k => Q.filter(r => r[3] === k), ms = c.matters.filter(k => by(k).length).sort((a, b) => by(b).length - by(a).length);
+  const y93 = Q.filter(r => yr(r[2]) === '1993').length, top = ms[0];
+  return {
+    title: L(`${fmt(c.n)} lleis qualificades, ${fmt(by(top).length)} de matèria penal; ${y93} el 1993, l’any de la Constitució`,
+      `${fmt(c.n)} qualified laws, ${fmt(by(top).length)} on criminal law; ${y93} in 1993, the year of the Constitution`),
+    toc: L('Les lleis qualificades', 'Qualified laws'),
+    dek: L(`La Constitució reserva algunes matèries a lleis qualificades, que necessiten el vot de la majoria absoluta dels membres del Consell General; les del règim electoral i el referèndum, de les competències comunals i de les transferències als comuns, a més, la majoria absoluta dels consellers de cada circumscripció, la parroquial i la nacional (article 57.3). Aquí, una llei és qualificada si ho diu el seu títol. La disposició transitòria primera manava aprovar d’entrada les lleis qualificades del règim electoral, dels comuns, de la Justícia i del Tribunal Constitucional; el 1993 se n’aproven ${y93}. Unes altres ${c.by_amending} lleis modifiquen una llei qualificada sense dir-ho al títol.`,
+      `The Constitution reserves some matters to qualified laws, which need the votes of an absolute majority of the members of the Consell General; those on elections and referendums, on the comuns’ powers and on transfers to the comuns also need an absolute majority of the councillors elected in each constituency, the parish and the national one (article 57.3). Here a law is qualified if its title says so. The first transitional provision required the qualified laws on elections, the comuns, Justice and the Constitutional Court to be passed first; ${y93} were passed in 1993. Another ${c.by_amending} laws amend a qualified law without saying so in their own title.`),
+    draw(el) {
+      const KQ = ['new', 'amend', 'consol'], kq = k => k === 'new' ? 'new' : k === 'consol' ? 'consol' : 'amend';
+      const cards = el.append('div').attr('class', 'ptiles').style('grid-template-columns', `repeat(${narrow(W(el)) ? 2 : 3}, minmax(0, 1fr))`);
+      ms.forEach(k => {
+        const ls = by(k), ys = ls.map(r => +yr(r[2])), d = cards.append('div').attr('class', 'ptile');
+        d.append('div').attr('class', 'pn').text(LA(QMN[k]));
+        d.append('div').attr('class', 'pv').html(`<b>${fmt(ls.length)}</b> ${L(ls.length === 1 ? 'llei' : 'lleis', ls.length === 1 ? 'law' : 'laws')}`);
+        d.append('div').attr('class', 'ps').text(`${d3.min(ys)}–${d3.max(ys)} · ${KQ.map(kk => ({ kk, n: ls.filter(r => kq(r[4]) === kk).length })).filter(o => o.n).map(o => fmt(o.n) + ' ' + kNameN(o.kk, o.n)).join(', ')}`);
+        const bar = d.append('div').attr('class', 'pbar');
+        KQ.forEach(kk => { const n = ls.filter(r => kq(r[4]) === kk).length; if (n) bar.append('i').style('flex', n).style('background', kCol(kk)); });
+        bindTip(d, () => `<b>${esc(LA(QMN[k]))}</b>` + ls.slice(-6).reverse().map(r => trow(null, `${yr(r[2])} · ${nm(r[0])}`.slice(0, 64), '')).join('') + (ls.length > 6 ? `<div class="q">${L('i ' + (ls.length - 6) + ' més (taula)', 'and ' + (ls.length - 6) + ' more (table)')}</div>` : ''));
+      });
+      legend(el, KQ.map(kk => ({ c: kCol(kk), l: Cap(kName(kk)) })));
+      h4(el, L('Les lleis qualificades en cada mandat del síndic general', 'Qualified laws in each Síndic General’s term'), 12);
+      const rows = c.terms.filter(r => r.n).map(r => Object.assign({}, r, { tm: TERMS.find(x => x.id === r.id) }));
+      partBars(el, rows, { label: (r, nw) => termLabel(r.tm, nw), all: r => r.n, part: r => r.q, right: (r, nw) => nw ? `${pct(r.q, r.n)} · ${r.q}/${r.n}` : `${pct(r.q, r.n)} · ${r.q} ${L('de', 'of')} ${r.n}`,
+        partial: r => r.tm === TERMS[TERMS.length - 1], light: mix(css('--s1'), .72), solid: css('--s1'),
+        tip: r => `<b>${esc(termLabel(r.tm, false))}</b>` + trow(css('--s1'), L('Lleis qualificades', 'Qualified laws'), fmt(r.q)) + trow(mix(css('--s1'), .72), L('Totes les lleis', 'All laws'), fmt(r.n)) });
+      legend(el, [{ c: css('--s1'), l: L('lleis qualificades', 'qualified laws') }, { c: mix(css('--s1'), .72), l: L('totes les lleis del mandat', 'all laws of the term') }]);
+      note(el, ['laws.csv (title)', 'constitucio/article-057.md'], `${fmt(c.n)} ${L('lleis qualificades de', 'qualified laws of')} ${fmt(c.all)}`,
+        L('qualificada vol dir que el títol comença per «Llei qualificada» o que diu «Llei N/AAAA, del …, qualificada de …» (també els textos consolidats qualificats). La matèria es llegeix del títol. El mandat és el del síndic que signa (gràfic 1); el darrer arriba al ' + dateTxt(PF.last_pub) + ' (més clar).',
+          'qualified means the title begins “Llei qualificada” or reads “Llei N/AAAA, del …, qualificada de …” (consolidated qualified texts too). The matter is read from the title. The term is that of the Síndic who signs (chart 1); the last one runs to ' + dateTxt(PF.last_pub) + ' (lighter).'));
+      table(el, [L('Data', 'Date'), L('Matèria', 'Matter'), L('Tipus', 'Kind'), L('Títol al BOPA', 'Title in the BOPA')], Q.slice().reverse().map(r => [dateTxt(r[2]), LA(QMN[r[3]]), kName(kq(r[4])), r[1]]));
+    }
+  };
+});
+
+// 5. the codes
+const CDN = { penal: ['Codi penal', 'Criminal Code'], ppenal: ['Codi de procediment penal', 'Code of Criminal Procedure'], admin: ['Codi de l’Administració', 'Administration Code'],
+  duana: ['Codi de duana', 'Customs Code'], circ: ['Codi de la circulació', 'Highway Code'], lab: ['Relacions laborals', 'Labour relations'], pcivil: ['Codi de procediment civil', 'Code of Civil Procedure'],
+  fam: ['Persona i família', 'Person and family'] };
+chart('c05', el => {
+  const c = D.c05, pen = c.codes.find(x => x.key === 'penal').eds, fam = c.family, pciv = c.codes.find(x => x.key === 'pcivil').eds[0];
+  const lanes = c.codes.map(x => ({ key: x.key, eds: x.eds })).concat([{ key: 'fam', eds: [{ f: fam.f, t: fam.t, ad: fam.ad, inf: fam.inf, words: fam.words, art: fam.art, kind: 'new', br: 'main', fam: true }] }]);
+  return {
+    title: L(`Tres codis penals (${pen.map(e => yr(e.ad)).join(', ').replace(/, (\d+)$/, ' i $1')}) i cap codi civil`, `Three criminal codes (${pen.map(e => yr(e.ad)).join(', ').replace(/, (\d+)$/, ' and $1')}), and no civil code`),
+    toc: L('Els codis', 'The codes'),
+    dek: L(`Les lleis que porten «Codi» al títol, cada edició des que entra en vigor fins que hi entra la següent. El Codi de procediment civil del ${yr(pciv.ad)} és la llei més llarga del registre (${fmt(pciv.words)} paraules). Cap llei no es titula Codi civil: la ${nm(fam.f)} (Llei 30/2022, ${fmt(fam.words)} paraules) reuneix les normes de la persona i de la família i deroga ${andList(fam.repeals.map(f => 'la ' + nmc(f)))}. El Codi de l’Administració del 1989 va durar ${Math.round(DAYS(c.codes.find(x => x.key === 'admin').eds[0].inf, c.codes.find(x => x.key === 'admin').eds[1].inf) / 365.25)} anys fins al seu text consolidat.`,
+      `The laws whose title says “Codi”, each edition from its entry into force until the next one’s. The ${yr(pciv.ad)} Code of Civil Procedure is the longest law in the record (${fmt(pciv.words)} words). No law is titled Civil Code: the ${nm(fam.f)} (Law 30/2022, ${fmt(fam.words)} words) gathers the rules on persons and the family and repeals ${andList(fam.repeals.map(f => 'the ' + nmc(f)))}. The 1989 Administration Code lasted ${Math.round(DAYS(c.codes.find(x => x.key === 'admin').eds[0].inf, c.codes.find(x => x.key === 'admin').eds[1].inf) / 365.25)} years until its consolidated text.`),
+    draw(el) {
+      const w = W(el), nw = narrow(w), END = fy(PF.record_to), X1 = Math.max(END, fy('2026-12-31')) + 2;
+      const labs = lanes.map(ln => LA(CDN[ln.key])), lw = nw ? 0 : textW(el, labs) + 14, up = nw ? 14 : 0, rowH = 30 + up, m = { t: 4, r: 10, b: 22 };
+      const svg = svgIn(el, w, m.t + lanes.length * rowH + m.b), g = svg.append('g').attr('transform', `translate(${lw},${m.t})`);
+      const iw = w - lw - m.r, ih = lanes.length * rowH, x = d3.scaleLinear().domain([1989, X1]).range([0, iw]), hid = hatch(svg);
+      yearTicks(1989, 2026, nw ? 10 : 5).forEach(v => { g.append('line').attr('x1', x(v)).attr('x2', x(v)).attr('y1', 0).attr('y2', ih).attr('stroke', css('--grid'));
+        g.append('text').attr('class', 'lbl').attr('x', x(v)).attr('y', ih + 15).attr('text-anchor', 'middle').text(v); });
+      g.append('line').attr('x1', x(END)).attr('x2', x(END)).attr('y1', 0).attr('y2', ih).attr('stroke', css('--text-3')).attr('stroke-dasharray', '3 3');
+      lanes.forEach((ln, i) => {
+        const y0 = i * rowH + up, bh = 18, by = y0 + 5;
+        if (nw) g.append('text').attr('class', 'lbl strong').attr('x', 0).attr('y', y0 + 1).text(labs[i]);
+        else g.append('text').attr('class', 'lbl strong').attr('x', -10).attr('y', by + bh / 2 + 4).attr('text-anchor', 'end').text(labs[i]);
+        ln.eds.forEach((e, k) => {
+          const start = fy(e.inf || e.ad), nx = ln.eds[k + 1], stop = nx ? fy(nx.inf) : (e.br === 'future' ? X1 : END), fut = e.br === 'future' || (e.inf && e.inf > PF.record_to);
+          const x0 = x(start) + (k ? 1 : 0), x1 = Math.max(x0 + 3, x(stop) - 1);
+          const fill = e.fam ? css('--s3') : e.kind === 'consol' ? css('--s7') : k % 2 ? mix(css('--s1'), .35) : css('--s1');
+          g.append('path').attr('d', barPath(x0, by, x1, bh, 4)).attr('fill', fut ? hid : fill).attr('stroke', fut ? css('--s1') : null).attr('stroke-width', fut ? 1.2 : null);
+          const lab1 = `${yr(e.ad)} · ${fmt(e.words)} ${L('paraules', 'words')}`, lab2 = yr(e.ad), room = x1 - x0 - 10;
+          const tx = textW(el, [lab1], 'lbl') <= room ? lab1 : textW(el, [lab2], 'lbl') <= room ? lab2 : '';
+          if (tx) g.append('text').attr('class', 'lbl').attr('x', x0 + 6).attr('y', by + bh / 2 + 4).style('fill', fut ? css('--text') : inkOn(fill)).style('pointer-events', 'none').text(tx);
+          else if (fut) g.append('text').attr('class', 'lbl').attr('x', x0 - 4).attr('y', by + bh / 2 + 4).attr('text-anchor', 'end').text(yr(e.ad));
+          bindTip(g.append('rect').attr('class', 'hit').attr('x', x0).attr('y', y0).attr('width', Math.max(6, x1 - x0)).attr('height', rowH - up).datum(e), d =>
+            `<b>${esc(nmc(d.f))}</b>${official(d.f)}` + trow(null, L('Aprovació', 'Approved'), dateTxt(d.ad)) + (d.inf ? trow(null, L('Entrada en vigor', 'In force'), dateTxt(d.inf)) : '') +
+            trow(null, L('Paraules', 'Words'), fmt(d.words)) + trow(null, L('Articles', 'Articles'), fmt(d.art)) +
+            (d.by ? trow(null, L('Lleis que hi declaren canvis', 'Laws stating changes to it'), `${fmt(d.by)} (${fmt(d.changes)} ${L('canvis', 'changes')})`) : '') +
+            (d.repealed_by_next ? `<div class="q">${L('L’edició següent la deroga en la seva disposició derogatòria.', 'The next edition repeals it in its derogatory provision.')}</div>` : ''));
+        });
+      });
+      legend(el, [{ c: css('--s1'), l: L('edició d’un codi', 'edition of a code') }, { c: css('--s7'), l: L('text consolidat', 'consolidated text') }, { c: css('--s3'), l: L('llei de la persona i de la família', 'person and family law') },
+        { c: css('--surface-2'), l: L('en vigor des del 13 de desembre del 2026 (branca future)', 'in force from 13 December 2026 (future branch)'), shape: 'hatch' }]);
+      note(el, ['laws.csv (title, in_force)', 'lleis/<ANY>-<NÚMERO>/disposicio-derogatoria*.md'], `${fmt(sum(lanes, ln => ln.eds.length))} ${L('lleis', 'laws')}`,
+        L(`cada barra va de l’entrada en vigor d’una edició a la de la següent; la línia de punts és el final de les dades (${dateTxt(PF.record_to)}). La llei qualificada de modificació del Codi de procediment penal del 1998 hi és com a segona edició perquè és un text sencer (273 articles), i la Llei de relacions laborals del 2018, que deroga el Codi de relacions laborals, com a successora. Si l’edició següent deroga l’anterior es llegeix de la seva disposició derogatòria (vegeu la informació en passar el ratolí). Els canvis declarats són els de data/amendments.csv.`,
+          `each bar runs from one edition’s entry into force to the next one’s; the dotted line is the end of the data (${dateTxt(PF.record_to)}). The 1998 qualified law amending the Code of Criminal Procedure is drawn as its second edition because it is a full text (273 articles), and the 2018 Labour Relations Act, which repeals the Labour Relations Code, as its successor. Whether the next edition repeals the earlier one is read from its derogatory provision (hover). Stated changes are those of data/amendments.csv.`));
+      table(el, [L('Codi', 'Code'), L('Llei', 'Law'), L('Aprovació', 'Approved'), L('En vigor', 'In force'), L('Paraules', 'Words'), L('Articles', 'Articles'), L('Lleis que hi declaren canvis', 'Laws stating changes')],
+        lanes.flatMap(ln => ln.eds.map(e => [LA(CDN[ln.key]), citeOf(e.f), dateTxt(e.ad), e.inf ? dateTxt(e.inf) : '–', e.words, e.art, e.by || 0])));
+    }
+  };
+});
+
+// 6. length
+chart('c06', el => {
+  const c = D.c06, P = c.periods, p0 = P[0], p1 = P[P.length - 1];
+  return {
+    title: L(`Les lleis noves s’allarguen: ${fmt(Math.round(p0.med))} paraules de mediana el ${p0.p[0]}–${p0.p[1]}, ${fmt(Math.round(p1.med))} des del ${p1.p[0]}`,
+      `New laws grow longer: a median of ${fmt(Math.round(p0.med))} words in ${p0.p[0]}–${p0.p[1]}, ${fmt(Math.round(p1.med))} since ${p1.p[0]}`),
+    toc: L('La llargada', 'Length'),
+    dek: L(`Les paraules de les ${fmt(c.n_new)} lleis noves (sense pressupostos, crèdits, modificacions ni textos consolidats), comptades en els articles, les disposicions i els annexos, sense el preàmbul. La mediana es multiplica per ${dec(p1.med / p0.med, 1)}, i l’exposició de motius passa de ${fmt(p0.motius)} a ${fmt(p1.motius)} paraules. Tot el registre suma ${fmt(c.total_words)} paraules; la llei més llarga és el Codi de procediment civil del 2018.`,
+      `The words of the ${fmt(c.n_new)} new laws (without budgets, credits, amendments or consolidated texts), counted in their articles, provisions and annexes, without the preamble. The median grows ${dec(p1.med / p0.med, 1)} times, and the statement of reasons goes from ${fmt(p0.motius)} to ${fmt(p1.motius)} words. The whole record adds up to ${fmt(c.total_words)} words; the longest law is the 2018 Code of Civil Procedure.`),
+    draw(el) {
+      const nw = narrow(W(el)), cards = el.append('div').attr('class', 'ptiles').style('grid-template-columns', `repeat(${nw ? 2 : 5}, minmax(0, 1fr))`);
+      P.forEach((p, i) => {
+        const d = cards.append('div').attr('class', 'ptile');
+        d.append('div').attr('class', 'pn').text(`${p.p[0]}–${p.p[1]}${i === P.length - 1 ? ' *' : ''}`);
+        d.append('div').attr('class', 'pv').html(`<b>${fmt(Math.round(p.med))}</b> ${L('paraules', 'words')}`);
+        d.append('div').attr('class', 'ps').text(L(`mediana de ${fmt(p.n)} lleis noves · exposició de motius: ${fmt(Math.round(p.motius))}`, `median of ${fmt(p.n)} new laws · statement of reasons: ${fmt(Math.round(p.motius))}`));
+      });
+      const pts = YEARS.filter(yy => c.years[yy].n >= 3).map(yy => [yy, Math.round(c.years[yy].med), c.years[yy].n]);
+      const r = yearLines(el, [{ pts, color: css('--s1'), area: true, maxGap: 3 }], { x0: 1989, x1: LASTY, yMax: d3.max(pts, p => p[1]), ticks: yearTicks(1989, LASTY, 5), ticksN: yearTicks(1989, LASTY, 10),
+        tip: yy => c.years[yy].n ? `<b>${yy}${yy === LASTY ? ' (' + t('partial') + ')' : ''}</b>` + trow(null, L('Lleis noves', 'New laws'), fmt(c.years[yy].n)) + trow(null, L('Mediana de paraules', 'Median words'), fmt(Math.round(c.years[yy].med))) + trow(null, L('La més llarga', 'Longest'), fmt(c.years[yy].max)) + (c.years[yy].n < 3 ? `<div class="q">${L('menys de tres lleis noves: fora de la línia', 'fewer than three new laws: left off the line')}</div>` : '') : `<b>${yy}</b><div class="q">${L('cap llei nova', 'no new law')}</div>` });
+      const f = pts[0], l = pts[pts.length - 1], mx = pts.reduce((a, b) => b[1] > a[1] ? b : a, pts[0]);
+      halo(r.g, r.x(f[0]) + 6, r.y(f[1]) - 8, fmt(f[1]), 'start');
+      halo(r.g, r.x(l[0]) + 7, r.y(l[1]) + 4, fmt(l[1]), 'start');
+      halo(r.g, r.x(mx[0]) - 6, r.y(mx[1]) + 4, `${mx[0]}: ${fmt(mx[1])}`, 'end');
+      h4(el, L('Les lleis més llargues del registre', 'The longest laws in the record'), 16);
+      barList(el, c.longest.slice(0, 12), { label: rr => `${yr(rr[2])} · ${nm(rr[0])}`, value: rr => rr[3], color: rr => rr[5] === 'consol' ? css('--s7') : css('--s1'), cap: 470, rw: narrow(W(el)) ? 64 : 124,
+        right: (rr, nw2) => nw2 ? fmt(rr[3]) : `${fmt(rr[3])} · ${fmt(rr[4])} art.`,
+        tip: d => `<b>${esc(nmc(d[0]))}</b>${official(d[0])}` + trow(null, L('Paraules', 'Words'), fmt(d[3])) + trow(null, L('Articles', 'Articles'), fmt(d[4])) + (d[6] === 'future' ? `<div class="q">${L('En vigor el 13 de desembre del 2026 (branca future)', 'In force on 13 December 2026 (future branch)')}</div>` : '') });
+      legend(el, [{ c: css('--s1'), l: L('llei', 'law') }, { c: css('--s7'), l: L('text consolidat', 'consolidated text') }]);
+      note(el, ['lleis/<ANY>-<NÚMERO>/article-*.md', 'disposicio-*.md', 'annex*.md', 'preamble.md'], `${fmt(c.n_new)} ${L('lleis noves', 'new laws')}`,
+        L(`una paraula és un tros de text entre espais amb alguna lletra o xifra. L’exposició de motius és el que segueix el darrer títol «Exposició de motius» o «Preàmbul» del preàmbul. La línia deixa fora els anys amb menys de tres lleis noves (la taula els dona); el ${LASTY} arriba al ${dateTxt(PF.last_pub)}.`,
+          `a word is a run of text between spaces holding a letter or digit. The statement of reasons is what follows the last “Exposició de motius” or “Preàmbul” heading of the preamble. The line leaves out years with fewer than three new laws (the table has them); ${LASTY} runs to ${dateTxt(PF.last_pub)}.`));
+      table(el, [t('year'), L('Lleis noves', 'New laws'), L('Mediana de paraules', 'Median words'), L('La més llarga', 'Longest')], YEARS.map(yy => [String(yy), c.years[yy].n, c.years[yy].med == null ? '–' : Math.round(c.years[yy].med), c.years[yy].max == null ? '–' : c.years[yy].max]));
+      subTable(el, L('Les lleis més llargues', 'The longest laws'), [L('Llei', 'Law'), L('Paraules', 'Words'), L('Articles', 'Articles')], c.longest.map(rr => [nmc(rr[0]), rr[3], rr[4]]), [0, 1, 1]);
+    }
+  };
+});
+
+part('p2', 'II. Com neix una llei: sanció, calendari, publicació i vigència', 'II. How a law is made: sanction, calendar, publication and entry into force',
+  'Cada llei porta la data en què el Consell General la va aprovar, la signatura del síndic general i, des del 1993, la dels dos coprínceps, que la sancionen i n’ordenen la publicació; després, el dia que surt al BOPA i el dia que entra en vigor. També canvia com s’escriu.',
+  'Each law carries the date the Consell General approved it, the Síndic General’s signature and, since 1993, those of the two co-princes, who sanction it and order its publication; then the day it appears in the BOPA and the day it enters into force. How laws are written changes too.');
+
+// 7. the co-princes' signatures
+const CPC = { both: () => css('--muted-mark'), fr: () => css('--s1'), ep: () => css('--s2') };
+const cpName = k => LA({ both: ['els dos coprínceps', 'both co-princes'], fr: ['només el copríncep francès', 'the French co-prince alone'], ep: ['només el copríncep episcopal', 'the episcopal co-prince alone'] }[k]);
+chart('c07', el => {
+  const c = D.c07, P = c.princes, laws = c.laws, one = laws.filter(l => l[2] !== 'both'), nfr = one.filter(l => l[2] === 'fr').length, nep = one.filter(l => l[2] === 'ep').length;
+  const frq = one.filter(l => l[2] === 'fr' && l[6] && !/^(Modificació|Amendment)/.test(nm(l[0]))).map(l => l[0]);
+  const stem = f => LANG === 'ca' ? nm(f).replace(/^Llei qualificada /, '') : nm(f).replace(/^Qualified Law on /, '').toLowerCase();
+  const epd = d3.rollups(one.filter(l => l[2] === 'ep'), v => v.length, l => l[1]).sort((a, b) => b[1] - a[1]).slice(0, 2).sort((a, b) => a[0] < b[0] ? -1 : 1);
+  const num = n => LA({ 1: ['una', 'one'], 2: ['dues', 'two'], 3: ['tres', 'three'], 4: ['quatre', 'four'], 5: ['cinc', 'five'] }[n] || [fmt(n), fmt(n)]);
+  return {
+    title: L(`${fmt(one.length)} lleis porten la signatura d’un sol copríncep: ${fmt(nfr)} només la del president francès i ${fmt(nep)} només la del bisbe d’Urgell`,
+      `${fmt(one.length)} laws carry only one co-prince’s signature: ${fmt(nfr)} the French president’s alone and ${fmt(nep)} the Bishop of Urgell’s alone`),
+    toc: L('Els coprínceps', 'The co-princes'),
+    dek: L(`Els coprínceps, el bisbe d’Urgell i el president de la República Francesa, sancionen i promulguen les lleis (article 45 de la Constitució); si circumstàncies impedeixen a un d’ells formalitzar-les dins el termini, entren en vigor amb la signatura de l’altre (article 45.3). De les ${fmt(laws.length)} lleis aprovades des del 1993, ${fmt(laws.length - one.length)} porten totes dues signatures. Només la del copríncep francès porten, entre d’altres, les lleis qualificades ${andList(frq.map(f => stem(f) + ' (' + yr(adOf(f)) + ')'))}. Només la del bisbe, ${andList(epd.map(([d, n]) => num(n) + ' lleis del ' + dateTxt(d)))}; a les signatures, el copríncep francès és Nicolas Sarkozy fins al ${dateTxt(P.sarkozy.last)} i François Hollande des del ${dateTxt(P.hollande.first)}, i Hollande fins al ${dateTxt(P.hollande.last)} i Emmanuel Macron des del ${dateTxt(P.macron.first)}.`,
+      `The co-princes, the Bishop of Urgell and the President of the French Republic, sanction and promulgate the laws (Constitution, article 45); if circumstances prevent one of them from doing so within the time limit, a law enters into force with the other’s signature (article 45.3). Of the ${fmt(laws.length)} laws approved since 1993, ${fmt(laws.length - one.length)} carry both signatures. The French co-prince’s alone is on, among others, the qualified laws on ${andList(frq.map(f => stem(f) + ' (' + yr(adOf(f)) + ')'))}. The bishop’s alone is on ${andList(epd.map(([d, n]) => num(n) + ' laws of ' + dateTxt(d)))}; in the signatures the French co-prince is Nicolas Sarkozy up to ${dateTxt(P.sarkozy.last)} and François Hollande from ${dateTxt(P.hollande.first)}, and Hollande up to ${dateTxt(P.hollande.last)} and Emmanuel Macron from ${dateTxt(P.macron.first)}.`),
+    draw(el) {
+      const w = W(el), nw = narrow(w), order = ['mitterrand', 'chirac', 'sarkozy', 'hollande', 'macron', 'marti', 'vives', 'serrano'].filter(p => P[p]);
+      const cards = el.append('div').attr('class', 'ptiles').style('grid-template-columns', `repeat(${nw ? 2 : 4}, minmax(0, 1fr))`);
+      order.forEach(p => {
+        const o = P[p], d = cards.append('div').attr('class', 'ptile'), yrs = (+yr(o.last) - +yr(o.first)) + DAYS(o.first, o.last) % 365 / 365;
+        d.append('div').attr('class', 'pn').html(`<i style="display:inline-block;width:8px;height:8px;border-radius:50%;margin-right:6px;background:${CPC[o.side]()}"></i>${esc(PRN[p])}`);
+        d.append('div').attr('class', 'pv').html(`<b>${fmt(o.n)}</b> ${L('lleis', 'laws')}`);
+        d.append('div').attr('class', 'ps').text(`${sideName(o.side)} · ${yr(o.first)}–${yr(o.last)} · ${o.alone ? L(`${fmt(o.alone)} sense l’altre copríncep`, `${fmt(o.alone)} without the other co-prince`) : L('cap sense l’altre', 'none alone')}`);
+        const bar = d.append('div').attr('class', 'pbar');
+        bar.append('i').style('flex', o.n - o.alone).style('background', CPC.both());
+        if (o.alone) bar.append('i').style('flex', o.alone).style('background', CPC[o.side]());
+        bindTip(d, () => `<b>${esc(PRN[p])}</b><div class="q">${esc(sideName(o.side))}</div>` + trow(null, L('Lleis signades', 'Laws signed'), fmt(o.n)) + trow(null, L('Primera i última', 'First and last'), `${dateShort(o.first)} – ${dateShort(o.last)}`) +
+          trow(CPC[o.side](), L('Sense l’altre copríncep', 'Without the other co-prince'), fmt(o.alone)) + trow(null, L('Lleis qualificades', 'Qualified laws'), fmt(o.q)));
+      });
+      legend(el, ['both', 'fr', 'ep'].map(k => ({ c: CPC[k](), l: Cap(cpName(k)), shape: 'dot' })));
+      // a dot per law, by year of approval, the laws with one signature at the foot of each column; the co-princes' spans below
+      const Ys = d3.range(1993, LASTY + 1), m = { t: 6, r: 6, b: 62, l: 6 }, iw = w - m.l - m.r, colW = iw / Ys.length, k = nw ? 2 : 3;
+      const r = Math.max(1.6, Math.min(3.4, (colW - 3) / (2 * k) - .5)), stp = 2 * r + 1.1;
+      const byY = d3.group(laws, l => +yr(l[1])), mxN = d3.max(Ys, yy => (byY.get(yy) || []).length), ih = Math.ceil(mxN / k) * stp + 6, h = m.t + ih + m.b;
+      const svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`), x = yy => (yy - Ys[0]) * colW;
+      const rank = { fr: 0, ep: 1, both: 2 };
+      Ys.forEach(yy => {
+        const ls = (byY.get(yy) || []).slice().sort((a, b) => rank[a[2]] - rank[b[2]] || (a[1] < b[1] ? -1 : 1));
+        ls.forEach((l, i) => {
+          const cx = x(yy) + colW / 2 + ((i % k) - (k - 1) / 2) * stp, cy = ih - Math.floor(i / k) * stp - r - 1;
+          const dot = g.append('circle').attr('cx', cx).attr('cy', cy).attr('r', r).attr('fill', CPC[l[2]]()).attr('opacity', yy === LASTY ? .6 : 1);
+          if (l[2] !== 'both') dot.attr('stroke', css('--surface')).attr('stroke-width', .8);
+        });
+        bindTip(g.append('rect').attr('class', 'hit').attr('x', x(yy)).attr('y', 0).attr('width', colW).attr('height', ih).datum(yy), d => {
+          const ls2 = byY.get(d) || [], s1 = ls2.filter(l => l[2] !== 'both');
+          return `<b>${d}${d === LASTY ? ' (' + t('partial') + ')' : ''}</b>` + ['both', 'fr', 'ep'].map(kk => { const n = ls2.filter(l => l[2] === kk).length; return n ? trow(CPC[kk](), Cap(cpName(kk)), fmt(n)) : ''; }).join('') +
+            s1.slice(0, 5).map(l => `<div class="q">${dateShort(l[1])} · ${esc(nm(l[0]))}</div>`).join('');
+        });
+      });
+      g.append('line').attr('class', 'base').attr('x1', 0).attr('x2', iw).attr('y1', ih).attr('y2', ih);
+      yearTicks(1993, LASTY, nw ? 10 : 5).forEach(v => g.append('text').attr('class', 'lbl').attr('x', x(v) + colW / 2).attr('y', ih + 14).attr('text-anchor', 'middle').text(v));
+      const spans = (side, row) => {
+        const ps = order.filter(p => P[p].side === side), yb = ih + 22 + row * 19;
+        g.append('text').attr('class', 'lbl mut').attr('x', 0).attr('y', yb - 3).text('');
+        ps.forEach((p, i) => {
+          const a = fy(P[p].first), b = i + 1 < ps.length ? fy(P[ps[i + 1]].first) : LASTY + 1, xa = Math.max(0, (a - Ys[0]) * colW), xb = Math.min(iw, (b - Ys[0]) * colW);
+          g.append('rect').attr('x', xa + .5).attr('y', yb).attr('width', Math.max(1, xb - xa - 1)).attr('height', 15).attr('rx', 4).attr('fill', mix(CPC[side](), i % 2 ? .62 : .78));
+          const lab = [PRN[p], PRS[p]].find(s => textW(el, [s], 'lbl') <= xb - xa - 8);
+          if (lab) g.append('text').attr('class', 'lbl').attr('x', (xa + xb) / 2).attr('y', yb + 11).attr('text-anchor', 'middle').style('fill', css('--text')).text(lab);
+          bindTip(g.append('rect').attr('class', 'hit').attr('x', xa).attr('y', yb).attr('width', Math.max(2, xb - xa)).attr('height', 15).datum(p), d => `<b>${esc(PRN[d])}</b><div class="q">${esc(sideName(P[d].side))}</div>` +
+            trow(null, L('Signa des de', 'Signs from'), dateShort(P[d].first)) + trow(null, L('Lleis', 'Laws'), fmt(P[d].n)));
+        });
+      };
+      spans('fr', 0); spans('ep', 1);
+      // the laws with one signature, listed
+      const mini = el.append('div').attr('class', 'mini').style('margin-top', '14px');
+      ['fr', 'ep'].forEach(side => {
+        const ls = one.filter(l => l[2] === side), b = mini.append('div');
+        b.append('h4').html(`<i style="display:inline-block;width:9px;height:9px;border-radius:50%;margin-right:6px;background:${CPC[side]()}"></i>${esc(Cap(cpName(side)))} (${ls.length})`);
+        const ul = b.append('ul').style('margin', '4px 0 0').style('padding-left', '18px').style('font-size', '12px').style('color', 'var(--text-2)').style('line-height', '1.55');
+        ls.forEach(l => ul.append('li').text(`${dateShort(l[1])} · ${nm(l[0])}${l[6] ? '' : ''}`));
+      });
+      const pre = c.pre;
+      note(el, ['lleis/<ANY>-<NÚMERO>/signatures.md', 'constitucio/article-045.md'], `${fmt(laws.length)} ${L('lleis aprovades des del 3 de maig de 1993', 'laws approved since 3 May 1993')}`,
+        L(`els noms es llegeixen del bloc de signatures; unes quantes lleis el tenen al preàmbul o a la darrera disposició, abans dels estatuts o els quadres annexos. Abans de la Constitució, les lleis les promulgaven els delegats permanents dels coprínceps (${pre.delegats || 0}) o els veguers (${pre.veguers || 0}), o porten només la signatura del síndic o del subsíndic (${pre.sindic || 0}). El ${LASTY} arriba al ${dateTxt(PF.last_pub)} (més clar).`,
+          `names are read from the signature block; a few laws keep it in the preamble or in their last provision, before annexed statutes or tables. Before the Constitution, laws were promulgated by the co-princes’ permanent delegates (${pre.delegats || 0}) or the veguers (${pre.veguers || 0}), or carry only the Síndic’s or deputy Síndic’s signature (${pre.sindic || 0}). ${LASTY} runs to ${dateTxt(PF.last_pub)} (lighter).`));
+      table(el, [L('Data', 'Date'), L('Signatura', 'Signature'), L('Llei', 'Law')], one.map(l => [dateTxt(l[1]), Cap(cpName(l[2])), `${nm(l[0])} (${citeOf(l[0])})`]));
+      subTable(el, L('Lleis per copríncep', 'Laws by co-prince'), [L('Copríncep', 'Co-prince'), L('Lleis', 'Laws'), L('Sense l’altre', 'Alone'), L('Primera', 'First'), L('Última', 'Last')],
+        order.map(p => [PRN[p], P[p].n, P[p].alone, dateTxt(P[p].first), dateTxt(P[p].last)]), [0, 1, 1, 0, 0]);
+    }
+  };
+});
+
+// 8. the calendar of approvals
+chart('c08', el => {
+  const c = D.c08, thu = c.dow[3], aug = c.month[7], b0 = c.busiest[0];
+  return {
+    title: L(`El ${pct(thu, c.n)} de les lleis s’aproven en dijous; a l’agost, ${aug}`, `${pct(thu, c.n)} of laws are approved on a Thursday; in August, ${aug}`),
+    toc: L('El calendari', 'The calendar'),
+    dek: L(`El dia en què el Consell General aprova cada llei, que és la data de la llei: ${fmt(c.n)} lleis en ${fmt(c.session_days)} dies. Desembre és el mes amb més lleis (${fmt(c.month[11])}), amb els pressupostos i els crèdits de final d’any; el dia amb més lleis, el ${dateTxt(b0[0])}, ${fmt(b0[1])}. Els textos consolidats no hi són: la majoria s’aproven quan passa un mes sense objeccions, no en una sessió.`,
+      `The day the Consell General approves each law, which is the law’s date: ${fmt(c.n)} laws on ${fmt(c.session_days)} days. December is the month with the most laws (${fmt(c.month[11])}), with the budgets and year-end credits; the day with the most, ${dateTxt(b0[0])}, ${fmt(b0[1])}. Consolidated texts are left out: most are approved when a month passes without objections, not in a session.`),
+    draw(el) {
+      const nw = narrow(W(el));
+      h4(el, L('Dia de la setmana', 'Day of the week'), 2);
+      barList(el, DOW.ca.map((dd, i) => ({ i, n: c.dow[i] })), { label: rr => Cap(DOW[LANG][rr.i]), value: rr => rr.n, max: d3.max(c.dow), color: rr => rr.i === 3 ? css('--s1') : css('--muted-mark'), cap: 120, rw: 92,
+        right: rr => `${fmt(rr.n)} · ${pct(rr.n, c.n)}`, tip: d => `<b>${esc(Cap(DOW[LANG][d.i]))}</b>` + trow(null, L('Lleis', 'Laws'), fmt(d.n)) + trow(null, t('share'), pct(d.n, c.n)) });
+      h4(el, L('Lleis aprovades cada mes', 'Laws approved each month'), 14);
+      const ramp = seqRamp(), mx = d3.max(YEARS, yy => d3.max(c.cells[yy] || [0]));
+      const cols = d3.range(12).map(j => ({ label: (nw2, cw) => cw < 26 ? MON[LANG][j].slice(0, 1).toUpperCase() : MON[LANG][j] }));
+      heat(el, YEARS.map(yy => ({ key: yy, label: () => String(yy), vals: c.cells[yy] || Array(12).fill(0), total: sum(c.cells[yy] || [0]) })), cols, {
+        noUp: true, cap: 40, maxCw: 52, ch: nw2 => nw2 ? 12 : 14, gapY: 2, rw: 70, rwn: 46, minText: 16,
+        color: v => v ? ramp(.15 + .85 * Math.sqrt(v / mx)) : css('--surface-2'), text: v => v ? fmt(v) : '',
+        totColor: () => css('--s1'),
+        tip: (rr, j) => `<b>${LANG === 'ca' ? Cap(MES[j]) + ' ' + delAny(rr.key) : MEN[j] + ' ' + rr.key}</b>` + trow(null, L('Lleis aprovades', 'Laws approved'), fmt(rr.vals[j])) + trow(null, L('Total de l’any', 'Year total'), fmt(rr.total)) });
+      note(el, ['laws.csv (title)', 'signatures.md', 'preamble.md'], `${fmt(c.n)} ${L('lleis', 'laws')}`,
+        L(`la data és la de la cita de la llei («Llei 31/2018, del 6 de desembre») o, si no en té, la de la signatura del síndic o la sessió que esmenta el preàmbul. Sense els ${fmt(sum(c.dow_consol))} textos consolidats. El ${LASTY} arriba al ${dateTxt(PF.last_pub)}.`,
+          `the date is the law’s own citation date (“Llei 31/2018, del 6 de desembre”) or, failing that, that of the Síndic’s signature or of the session the preamble names. Without the ${fmt(sum(c.dow_consol))} consolidated texts. ${LASTY} runs to ${dateTxt(PF.last_pub)}.`));
+      table(el, [t('year'), ...d3.range(12).map(j => MON[LANG][j]), t('total')], YEARS.map(yy => [String(yy), ...(c.cells[yy] || Array(12).fill(0)), sum(c.cells[yy] || [0])]));
+      subTable(el, L('Els dies amb més lleis aprovades', 'The days with the most laws approved'), [L('Dia', 'Day'), L('Lleis', 'Laws')], c.busiest.map(b => [dateTxt(b[0]), b[1]]), [0, 1]);
+    }
+  };
+});
+
+// 9. from approval to the BOPA
+const LGN = [['fins a 15 dies', 'up to 15 days'], ['16–21 dies', '16–21 days'], ['22–28 dies', '22–28 days'], ['29–35 dies', '29–35 days'], ['més de 35 dies', 'over 35 days']];
+chart('c09', el => {
+  const c = D.c09, rows = c.terms.filter(r => r.n).map(r => Object.assign({ tm: TERMS.find(x => x.id === r.id) }, r)), post = rows.filter(r => r.id !== 'pre');
+  const lo = post.reduce((a, b) => b.med < a.med ? b : a, post[0]), lg = c.long;
+  return {
+    title: L(`De l’aprovació al BOPA passen ${fmt(c.med)} dies de mediana; amb ${termName(lo.tm, false)}, ${fmt(lo.med)}`,
+      `From approval to the BOPA takes a median of ${fmt(c.med)} days; under ${termName(lo.tm, false)}, ${fmt(lo.med)}`),
+    toc: L('De l’aprovació al BOPA', 'From approval to the BOPA'),
+    dek: L(`Els dies entre la data de cada llei, la de l’aprovació pel Consell General, i la seva publicació al BOPA. Aprovada una llei, el síndic general la tramet als coprínceps, que la sancionen i n’ordenen la publicació entre els vuit i els quinze dies següents (article 63 de la Constitució); en ${fmt(c.within15)} lleis tot plegat no passa de 15 dies. Les més lentes: ${the(lg[0][0])} del 1995 (${lg[0][4]} dies) i ${the(lg[1][0])} del 2014 (${lg[1][4]}).`,
+      `The days between each law’s date, its approval by the Consell General, and its publication in the BOPA. Once a law is approved, the Síndic General sends it to the co-princes, who sanction it and order its publication between eight and fifteen days later (Constitution, article 63); for ${fmt(c.within15)} laws the whole takes no more than 15 days. The slowest: ${the(lg[0][0])} of 1995 (${lg[0][4]} days) and ${the(lg[1][0])} of 2014 (${lg[1][4]}).`),
+    draw(el) {
+      const ramp = seqRamp(), cols = LGN.map((_, i) => ramp(.18 + .82 * i / (LGN.length - 1))), keys = LGN.map((_, i) => 'b' + i);
+      const rr = rows.map(r => Object.assign(r, Object.fromEntries(keys.map((k, i) => [k, r.bins[i]]))));
+      legend(el, LGN.map((n, i) => ({ c: cols[i], l: LA(n) })));
+      const lw = textW(el, rr.map(r => termLabel(r.tm, false))) + 16, lwn = textW(el, rr.map(r => termLabel(r.tm, true))) + 12;
+      bands(el, rr, keys, cols, LGN.map(LA), { rowH: 36, l: lw, ln: lwn, r: 96, rn: 64, minIn: 30, label: (r, nw) => termLabel(r.tm, nw),
+        right: (r, nw) => nw ? `${fmt(r.med)} d` : L(`${fmt(r.med)} dies`, `${fmt(r.med)} days`), partial: r => r.tm === TERMS[TERMS.length - 1],
+        tipExtra: r => trow(null, L('Lleis', 'Laws'), fmt(r.n)) + trow(null, L('Mediana', 'Median'), L(`${fmt(r.med)} dies`, `${fmt(r.med)} days`)) });
+      note(el, ['laws.csv (title, published)', 'signatures.md'], `${fmt(sum(rows, r => r.n))} ${L('lleis', 'laws')}`,
+        L(`la data de la llei és la de la seva cita o, si no en té, la de la signatura del síndic. A la dreta, la mediana de cada mandat. Fora: ${c.neg.length} lleis del 1993 datades un dia després del butlletí que les publica. El darrer mandat arriba al ${dateTxt(PF.last_pub)} (més clar).`,
+          `the law’s date is its citation date or, failing that, the Síndic’s signature date. On the right, each term’s median. Left out: ${c.neg.length} laws of 1993 dated a day after the bulletin that publishes them. The last term runs to ${dateTxt(PF.last_pub)} (lighter).`));
+      table(el, [L('Mandat', 'Term'), ...LGN.map(LA), L('Mediana (dies)', 'Median (days)')], rows.map(r => [termLabel(r.tm, false), ...r.bins, r.med]));
+      subTable(el, L('Més de 90 dies', 'Over 90 days'), [L('Llei', 'Law'), L('Aprovada', 'Approved'), L('Publicada', 'Published'), L('Dies', 'Days')], lg.map(r => [nmc(r[0]), dateTxt(r[2]), dateTxt(r[3]), r[4]]), [0, 0, 0, 1]);
+    }
+  };
+});
+
+// 10. from the BOPA to entry into force
+const VK = ['same', 'next', 'short', 'gen', 'long', 'pre'];
+const vkName = k => LA({ same: ['el mateix dia', 'the same day'], next: ['l’endemà', 'the next day'], short: ['de 2 dies a un mes, per la llei', '2 days to a month, by the law'],
+  gen: ['15 dies, regla general (la llei no diu res)', '15 days, general rule (the law is silent)'], long: ['més d’un mes', 'over a month'], pre: ['el dia de publicació (abans del 1989)', 'publication day (before 1989’s rule)'] }[k]);
+const vkCol = k => k === 'short' ? mix(css('--s1'), .5) : css({ same: '--s2', next: '--s1', gen: '--s4', long: '--s7', pre: '--muted-mark' }[k]);
+chart('c10', el => {
+  const c = D.c10, T = c.tot, n = sum(VK, k => T[k]), lg = c.long;
+  const sh = (a, b, k) => { const ys = d3.range(a, b + 1), m = sum(ys, yy => sum(VK, kk => c.years[yy][kk])); return m ? sum(ys, yy => c.years[yy][k]) / m : 0; };
+  return {
+    title: L(`El ${pct(T.next, n)} de les lleis entren en vigor l’endemà de publicar-se, i el ${pct(T.same, n)}, el mateix dia`,
+      `${pct(T.next, n)} of laws enter into force the day after publication, and ${pct(T.same, n)} the same day`),
+    toc: L('L’entrada en vigor', 'Entry into force'),
+    dek: L(`Quan entra en vigor cada llei, comptat des del dia en què surt al BOPA, segons la seva pròpia disposició. Si la llei no en diu res, val la regla general del Codi de l’Administració del 1989 (article 9): quinze dies després de la publicació (${fmt(T.gen)} lleis). Fins al 1999 el ${pv(100 * sh(1993, 1999, 'same'))} entraven en vigor el mateix dia de publicar-se; des del 2010, el ${pv(100 * sh(2010, LASTY, 'next'))} ho fan l’endemà. En total, ${fmt(T.long)} lleis s’esperen més d’un mes; les que més, dos anys: ${the(lg[0][0])} i ${the(lg[1][0])}. El ${dateTxt(PF.record_to)}, ${D.c01.future.length} lleis publicades encara no eren en vigor.`,
+      `When each law enters into force, counted from the day it appears in the BOPA, by its own provision. If the law is silent, the general rule of the 1989 Administration Code (article 9) applies: fifteen days after publication (${fmt(T.gen)} laws). Up to 1999, ${pv(100 * sh(1993, 1999, 'same'))} entered into force on the day of publication; since 2010, ${pv(100 * sh(2010, LASTY, 'next'))} do so the next day. In all, ${fmt(T.long)} laws wait over a month; the longest, two years: ${the(lg[0][0])} and ${the(lg[1][0])}. On ${dateTxt(PF.record_to)}, ${D.c01.future.length} published laws were not yet in force.`),
+    draw(el) {
+      legend(el, VK.map(k => ({ c: vkCol(k), l: Cap(vkName(k)) })));
+      const w = W(el), nw = narrow(w), h = nw ? 220 : 270, m = { t: 8, r: 8, b: 22, l: nw ? 34 : 40 };
+      const svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+      const iw = w - m.l - m.r, ih = h - m.t - m.b, x = d3.scaleLinear().domain([1989, LASTY + 1]).range([0, iw]), step = x(1990) - x(1989), bw = Math.max(2, step - (nw ? 1.5 : 3));
+      const y = d3.scaleLinear().domain([0, 1]).range([ih, 0]);
+      yAxis(g, y, iw, 4, v => pv(100 * v));
+      YEARS.forEach(yy => {
+        const o = c.years[yy], tt = sum(VK, k => o[k]), x0 = x(yy) + (step - bw) / 2; if (!tt) return;
+        let acc = 0;
+        const segs = VK.filter(k => o[k]);
+        segs.forEach((k, q) => { const y0 = y(acc / tt) - (q ? 1 : 0), y1 = y((acc + o[k]) / tt); acc += o[k];
+          g.append('path').attr('d', q === segs.length - 1 ? colPath(x0, y0, bw, Math.min(y1, y0 - 1), Math.min(3, bw / 2)) : `M${x0},${y0}V${y1 + 1}H${x0 + bw}V${y0}Z`).attr('fill', vkCol(k)).attr('opacity', yy === LASTY ? .55 : 1); });
+        bindTip(g.append('rect').attr('class', 'hit').attr('x', x(yy)).attr('width', step).attr('y', 0).attr('height', ih).datum(yy),
+          d => `<b>${d}${d === LASTY ? ' (' + t('partial') + ')' : ''}</b>` + VK.map(k => c.years[d][k] ? trow(vkCol(k), Cap(vkName(k)), `${fmt(c.years[d][k])} · ${pct(c.years[d][k], tt)}`) : '').join('') + trow(null, t('total'), fmt(tt)));
+      });
+      g.append('line').attr('class', 'base').attr('x1', 0).attr('x2', iw).attr('y1', ih).attr('y2', ih);
+      yearTicks(1989, LASTY, nw ? 10 : 5).forEach(v => g.append('text').attr('class', 'lbl').attr('x', x(v) + step / 2).attr('y', ih + 15).attr('text-anchor', 'middle').text(v));
+      note(el, ['laws.csv (in_force, in_force_basis)', 'git log (In-force:, In-force-basis:)'], `${fmt(n)} ${L('lleis', 'laws')}`,
+        L(`cada columna és el 100 % de les lleis publicades aquell any. «Per la llei» vol dir que la llei fixa el termini; «regla general», que no en diu res. Les lleis publicades abans del Codi de l’Administració (abril del 1989) es daten pel dia de publicació. El ${LASTY} arriba al ${dateTxt(PF.last_pub)} (més clar).`,
+          `each column is 100% of the laws published that year. “By the law” means the law sets the delay; “general rule”, that it says nothing. Laws published before the Administration Code (April 1989) are dated by their publication day. ${LASTY} runs to ${dateTxt(PF.last_pub)} (lighter).`));
+      table(el, [t('year'), ...VK.map(k => Cap(vkName(k))), t('total')], YEARS.map(yy => [String(yy), ...VK.map(k => c.years[yy][k]), sum(VK, k => c.years[yy][k])]));
+      subTable(el, L('Les esperes més llargues', 'The longest waits'), [L('Llei', 'Law'), L('Publicada', 'Published'), L('En vigor', 'In force'), L('Dies', 'Days')], lg.map(r => [nmc(r[0]), dateTxt(r[2]), dateTxt(r[3]), r[4]]), [0, 0, 0, 1]);
+    }
+  };
+});
+
+// 11. the anatomy of a new law
+const DK = ['add', 'trans', 'derog', 'final'];
+const dkName = k => LA({ add: ['disposicions addicionals', 'additional provisions'], trans: ['transitòries', 'transitional'], derog: ['derogatòries', 'repealing'], final: ['finals', 'final'] }[k]);
+const dkCol = k => css({ add: '--s3', trans: '--s4', derog: '--s8', final: '--s1' }[k]);
+chart('c11', el => {
+  const c = D.c11, P = c.periods, a = P[0], b = P[P.length - 1];
+  return {
+    title: L(`Les disposicions finals d’una llei nova: de ${dec(a.final, 1)} a ${dec(b.final, 1)} de mitjana`, `Final provisions per new law: from ${dec(a.final, 1)} to ${dec(b.final, 1)} on average`),
+    toc: L('L’anatomia d’una llei', 'The anatomy of a law'),
+    dek: L(`Una llei andorrana té una exposició de motius, els articles i, al final, disposicions addicionals, transitòries, derogatòries i finals. En les lleis noves, la mediana d’articles passa de ${fmt(a.art)} a ${fmt(b.art)}, i les disposicions finals, que fixen l’entrada en vigor i sovint modifiquen altres lleis (gràfic 13), de ${dec(a.final, 1)} a ${dec(b.final, 1)} per llei. L’exposició de motius, de ${fmt(a.motius)} a ${fmt(b.motius)} paraules de mediana.`,
+      `An Andorran law has a statement of reasons, its articles and, at the end, additional, transitional, repealing and final provisions. In new laws, the median number of articles goes from ${fmt(a.art)} to ${fmt(b.art)}, and final provisions, which set the entry into force and often amend other laws (chart 13), from ${dec(a.final, 1)} to ${dec(b.final, 1)} per law. The statement of reasons, from a median of ${fmt(a.motius)} to ${fmt(b.motius)} words.`),
+    draw(el) {
+      legend(el, DK.map(k => ({ c: dkCol(k), l: Cap(dkName(k)) })));
+      const rows = P.map(p => Object.assign({ lbl: `${p.p[0]}–${p.p[1]}`, lbln: `${p.p[0]}–${String(p.p[1]).slice(2)}` }, p));
+      splitBars(el, rows, DK, DK.map(dkCol), DK.map(k => Cap(dkName(k))), { l: 110, ln: 62, rr: 60, label: (r, nw) => nw ? r.lbln : r.lbl,
+        right: r => dec(sum(DK, k => r[k]), 1), tipHead: r => `<div class="q">${L(`mitjana per llei nova, ${fmt(r.n)} lleis`, `average per new law, ${fmt(r.n)} laws`)}</div>` });
+      h4(el, L('Paraules de l’exposició de motius (mediana)', 'Words in the statement of reasons (median)'), 16);
+      barList(el, rows, { label: r => r.lbl, value: r => r.motius, color: () => css('--s7'), cap: 120, right: r => fmt(r.motius),
+        tip: d => `<b>${d.lbl}</b>` + trow(null, L('Mediana de paraules', 'Median words'), fmt(d.motius)) + trow(null, L('Amb exposició de motius', 'With a statement of reasons'), `${fmt(d.has_motius)} ${L('de', 'of')} ${fmt(d.n)}`) });
+      note(el, ['lleis/<ANY>-<NÚMERO>/disposicio-*.md', 'preamble.md'], `${fmt(sum(P, p => p.n))} ${L('lleis noves', 'new laws')}`,
+        L('cada disposició és un fitxer (disposicio-final-primera.md…); les mitjanes són el total dividit pel nombre de lleis noves del període. «Lleis noves»: sense pressupostos, crèdits, modificacions ni textos consolidats.',
+          'each provision is a file (disposicio-final-primera.md…); the averages are the total divided by the number of new laws in the period. “New laws”: without budgets, credits, amendments or consolidated texts.'));
+      table(el, [L('Període', 'Period'), L('Lleis noves', 'New laws'), L('Articles (mediana)', 'Articles (median)'), ...DK.map(k => Cap(dkName(k))), L('Exposició de motius (paraules)', 'Statement of reasons (words)')],
+        P.map(p => [`${p.p[0]}–${p.p[1]}`, p.n, p.art, dec(p.add, 2), dec(p.trans, 2), dec(p.derog, 2), dec(p.final, 2), p.motius]));
+    }
+  };
+});
+
+// 12. the wording of the entry-into-force clause
+chart('c12', el => {
+  const c = D.c12, Y = c.years, agg = (a, b, k) => sum(d3.range(a, b + 1), yy => (Y[yy] || {})[k] || 0);
+  const s1 = agg(1993, 1999, 'present') / (agg(1993, 1999, 'present') + agg(1993, 1999, 'aquesta')), s2 = agg(2020, LASTY, 'present') / (agg(2020, LASTY, 'present') + agg(2020, LASTY, 'aquesta'));
+  const f1 = agg(1993, 1999, 'pres') / (agg(1993, 1999, 'pres') + agg(1993, 1999, 'fut')), f2 = agg(2020, LASTY, 'pres') / (agg(2020, LASTY, 'pres') + agg(2020, LASTY, 'fut'));
+  return {
+    title: L(`«La present Llei» ha cedit a «Aquesta Llei»: el ${pv(100 * s1)} de les clàusules del 1993–1999, el ${pv(100 * s2)} des del 2020`,
+      `“La present Llei” has given way to “Aquesta Llei”: ${pv(100 * s1)} of the clauses in 1993–1999, ${pv(100 * s2)} since 2020`),
+    toc: L('Les paraules de la vigència', 'The words of entry into force'),
+    dek: L(`La frase amb què cada llei fixa la seva entrada en vigor, tal com la cita el seu commit: «La present Llei entrarà en vigor…» o «Aquesta Llei entra en vigor…». Hi ha dos canvis de redacció: «Aquesta Llei» desplaça «La present Llei», i el present («entra») guanya el futur («entrarà»): del ${pv(100 * f1)} el 1993–1999 al ${pv(100 * f2)} des del 2020. En el text sencer de les lleis, «La present Llei» surt ${fmt(c.text.present)} vegades i «Aquesta Llei», ${fmt(c.text.aquesta)}.`,
+      `The sentence in which each law sets its entry into force, as its commit quotes it: “La present Llei entrarà en vigor…” or “Aquesta Llei entra en vigor…” (“The present Law shall enter” / “This Law enters”). Two changes of wording: “Aquesta Llei” displaces “La present Llei”, and the present tense (“entra”) gains on the future (“entrarà”): from ${pv(100 * f1)} in 1993–1999 to ${pv(100 * f2)} since 2020. In the full text of the laws, “La present Llei” occurs ${fmt(c.text.present)} times and “Aquesta Llei” ${fmt(c.text.aquesta)}.`),
+    draw(el) {
+      const S1 = css('--s2'), S2 = css('--s1'), MIN = 4;
+      const sA = YEARS.filter(yy => (Y[yy].present + Y[yy].aquesta) >= MIN).map(yy => [yy, 100 * Y[yy].present / (Y[yy].present + Y[yy].aquesta)]);
+      const sF = YEARS.filter(yy => (Y[yy].pres + Y[yy].fut) >= MIN).map(yy => [yy, 100 * Y[yy].pres / (Y[yy].pres + Y[yy].fut)]);
+      legend(el, [{ c: S1, l: L('«La present Llei» (en lloc d’«Aquesta Llei»)', '“La present Llei” (rather than “Aquesta Llei”)'), shape: 'line' }, { c: S2, l: L('present «entra» (en lloc de «entrarà»)', 'present “entra” (rather than “entrarà”)'), shape: 'line' }]);
+      const r = yearLines(el, [{ pts: sA, color: S1, maxGap: 3 }, { pts: sF, color: S2, maxGap: 3 }], { x0: 1989, x1: LASTY, yMax: 100, nice: false, yFmt: v => pv(v), ticks: yearTicks(1989, LASTY, 5), ticksN: yearTicks(1989, LASTY, 10),
+        tip: yy => { const o = Y[yy]; return `<b>${yy}</b>` + trow(null, L('Clàusules', 'Clauses'), fmt(o.n)) + trow(S1, '«La present Llei»', fmt(o.present)) + trow(null, '«Aquesta Llei»', fmt(o.aquesta)) + trow(S2, '«entra»', fmt(o.pres)) + trow(null, '«entrarà»', fmt(o.fut)); } });
+      const lA = sA[sA.length - 1], lF = sF[sF.length - 1], dy = Math.abs(r.y(lA[1]) - r.y(lF[1])) < 14 ? 7 : 0;
+      halo(r.g, r.x(lA[0]) + 7, r.y(lA[1]) + 4 + (lA[1] < lF[1] ? dy : -dy), pv(lA[1]), 'start', 'lbl strong', S1);
+      halo(r.g, r.x(lF[0]) + 7, r.y(lF[1]) + 4 + (lF[1] <= lA[1] ? dy : -dy), pv(lF[1]), 'start', 'lbl strong', S2);
+      note(el, ['git log (In force by its own words)'], `${fmt(c.n)} ${L('clàusules', 'clauses')}`,
+        L(`només els anys amb almenys ${MIN} clàusules que diuen una de les dues formes; les ${fmt(sum(YEARS, yy => Y[yy].n))} clàusules citades són les de les lleis que fixen el seu propi dia d’entrada en vigor. El darrer any amb «La present Llei» en aquesta clàusula és el ${yr(c.last_present)}.`,
+          `only years with at least ${MIN} clauses using one of the two forms; the ${fmt(sum(YEARS, yy => Y[yy].n))} quoted clauses are those of laws that set their own day of entry into force. The last year with “La present Llei” in this clause is ${yr(c.last_present)}.`));
+      table(el, [t('year'), L('Clàusules', 'Clauses'), '«La present Llei»', '«Aquesta Llei»', '«entrarà»', '«entra»', '«l’endemà»'], YEARS.map(yy => [String(yy), Y[yy].n, Y[yy].present, Y[yy].aquesta, Y[yy].fut, Y[yy].pres, Y[yy].endema]));
+    }
+  };
+});
+
+part('p3', 'III. Com canvien les lleis', 'III. How the laws change',
+  'El repositori guarda cada llei tal com es va aprovar, perquè el BOPA no publica versions consolidades: els canvis que una llei posterior declara («Es modifica l’article 25…») són files de data/amendments.csv, extretes automàticament. Des del 2020, el Consell General aprova textos consolidats com a lleis noves.',
+  'The repository keeps each law as enacted, because the BOPA publishes no consolidated versions: the changes a later law states (“Es modifica l’article 25…”) are rows of data/amendments.csv, extracted automatically. Since 2020 the Consell General passes consolidated texts as new laws.');
+
+// 13. the changes later laws state
+chart('c13', el => {
+  const c = D.c13, Y = c.years, n = c.n, ra = sum(YEARS, yy => Y[yy].ra), fin = (c.by_file.final || 0) + (c.by_file.add || 0) + (c.by_file.trans || 0) + (c.by_file.derog || 0);
+  const peak = YEARS.reduce((a, yy) => Y[yy].rows > Y[a].rows ? yy : a, YEARS[0]);
+  const CA = css('--s1'), CO = css('--s2');
+  return {
+    title: L(`${fmt(n)} canvis declarats per lleis posteriors; el ${pct(n - ra, n)}, en lleis que no es titulen de modificació`,
+      `${fmt(n)} changes stated by later laws; ${pct(n - ra, n)} in laws not titled as amendments`),
+    toc: L('Els canvis declarats', 'Stated changes'),
+    dek: L(`Cada canvi és una frase d’una llei posterior que modifica, afegeix, deroga o renumera una part d’una altra llei, per l’any de la llei que el declara. D’aquests canvis, ${fmt(ra)} són en lleis que porten «modificació» al títol; la resta, en lleis noves, pressupostos o textos consolidats que en canvien d’altres, sobretot des de les disposicions finals i addicionals (${pct(fin, n)} de tots els canvis). L’any amb més canvis declarats és el ${peak} (${fmt(Y[peak].rows)}).`,
+      `Each change is a sentence of a later law that amends, adds, repeals or renumbers part of another law, by the year of the law that states it. Of these changes, ${fmt(ra)} are in laws whose title says “modificació”; the rest are in new laws, budgets or consolidated texts that change others, mostly from their final and additional provisions (${pct(fin, n)} of all changes). The year with the most stated changes is ${peak} (${fmt(Y[peak].rows)}).`),
+    draw(el) {
+      legend(el, [{ c: CA, l: L('en lleis titulades de modificació', 'in laws titled as amendments') }, { c: CO, l: L('en altres lleis (noves, pressupostos, textos consolidats)', 'in other laws (new laws, budgets, consolidated texts)') }]);
+      const w = W(el), nw = narrow(w), h = nw ? 230 : 280, m = { t: 14, r: 8, b: 22, l: nw ? 34 : 40 };
+      const svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+      const iw = w - m.l - m.r, ih = h - m.t - m.b, x = d3.scaleLinear().domain([1989, LASTY + 1]).range([0, iw]), step = x(1990) - x(1989), bw = Math.max(2, step - (nw ? 1.5 : 3));
+      const y = d3.scaleLinear().domain([0, d3.max(YEARS, yy => Y[yy].rows)]).nice().range([ih, 0]);
+      yAxis(g, y, iw, 4);
+      YEARS.forEach(yy => {
+        const o = Y[yy], x0 = x(yy) + (step - bw) / 2, a = o.ra, b = o.rows - o.ra;
+        if (a) g.append('path').attr('d', b ? `M${x0},${y(0)}V${y(a) + .5}H${x0 + bw}V${y(0)}Z` : colPath(x0, y(0), bw, y(a), Math.min(3, bw / 2))).attr('fill', CA).attr('opacity', yy === LASTY ? .55 : 1);
+        if (b) g.append('path').attr('d', colPath(x0, y(a) - (a ? 1 : 0), bw, y(a + b), Math.min(3, bw / 2))).attr('fill', CO).attr('opacity', yy === LASTY ? .55 : 1);
+        bindTip(g.append('rect').attr('class', 'hit').attr('x', x(yy)).attr('width', step).attr('y', 0).attr('height', ih).datum(yy), d => {
+          const q = Y[d], k = q.kinds || {};
+          return `<b>${d}${d === LASTY ? ' (' + t('partial') + ')' : ''}</b>` + trow(CA, L('En lleis de modificació', 'In amending laws'), fmt(q.ra)) + trow(CO, L('En altres lleis', 'In other laws'), fmt(q.rows - q.ra)) +
+            trow(null, L('Lleis que declaren canvis', 'Laws stating changes'), fmt(q.laws)) + trow(null, L('Modificacions · addicions · derogacions', 'Amendments · additions · repeals'), `${fmt(k.modification || 0)} · ${fmt(k.insertion || 0)} · ${fmt(k.repeal || 0)}`);
+        });
+      });
+      g.append('line').attr('class', 'base').attr('x1', 0).attr('x2', iw).attr('y1', ih).attr('y2', ih);
+      yearTicks(1989, LASTY, nw ? 10 : 5).forEach(v => g.append('text').attr('class', 'lbl').attr('x', x(v) + step / 2).attr('y', ih + 15).attr('text-anchor', 'middle').text(v));
+      halo(g, x(peak) - 4, y(Y[peak].rows) + 10, `${peak}: ${fmt(Y[peak].rows)}`, 'end');
+      note(el, ['data/amendments.csv'], `${fmt(n)} ${L('canvis', 'changes')}`,
+        L(`l’extracció és automàtica, a partir de frases com «Es modifica l’article 25 …», i no és completa ni s’ha revisat a mà: abans del 2004 en troba pocs. «Modificació» vol dir que el títol de la llei que declara el canvi ho diu. El ${LASTY} arriba al ${dateTxt(PF.last_pub)} (més clar).`,
+          `the extraction is automatic, from sentences such as “Es modifica l’article 25 …”, and is neither complete nor checked by hand: before 2004 it finds few. “Amending law” means the stating law’s title says “modificació”. ${LASTY} runs to ${dateTxt(PF.last_pub)} (lighter).`));
+      table(el, [t('year'), L('Canvis', 'Changes'), L('En lleis de modificació', 'In amending laws'), L('En altres lleis', 'In other laws'), L('Lleis que en declaren', 'Laws stating changes'), L('Modificacions', 'Amendments'), L('Addicions', 'Additions'), L('Derogacions', 'Repeals')],
+        YEARS.map(yy => { const o = Y[yy], k = o.kinds || {}; return [String(yy), o.rows, o.ra, o.rows - o.ra, o.laws, k.modification || 0, k.insertion || 0, k.repeal || 0]; }));
+    }
+  };
+});
+
+// 14. the laws changed most often
+chart('c14', el => {
+  const c = D.c14, T = c.top, a = T[0], b = T[1], tie = a[3] === b[3];
+  return {
+    title: tie ? L(`${Cap(the(a[0]))} del ${yr(a[2])} i ${the(b[0])} del ${yr(b[2])}: ${a[3]} lleis posteriors hi declaren canvis`, `${Cap(the(a[0]))} of ${yr(a[2])} and ${the(b[0])} of ${yr(b[2])}: ${a[3]} later laws state changes to each`)
+      : L(`${Cap(the(a[0]))}: ${a[3]} lleis posteriors hi declaren canvis`, `${Cap(the(a[0]))}: ${a[3]} later laws state changes to it`),
+    toc: L('Les lleis més modificades', 'The most amended laws'),
+    dek: L(`Les ${T.length} lleis a les quals més lleis posteriors declaren canvis, segons data/amendments.csv; en total, ${fmt(c.targets)} lleis reben almenys un canvi declarat. ${Cap(the(a[0]))} en rep ${fmt(a[4])}, sobretot modificacions d’articles; ${the(b[0])}, ${fmt(b[4])}. Moltes d’aquestes lleis són fiscals o financeres, i els pressupostos anuals les tornen a tocar.`,
+      `The ${T.length} laws to which the most later laws state changes, from data/amendments.csv; in all, ${fmt(c.targets)} laws receive at least one stated change. ${Cap(the(a[0]))} receives ${fmt(a[4])}, mostly amended articles; ${the(b[0])}, ${fmt(b[4])}. Many of these laws are tax or finance laws, which the annual budgets touch again.`),
+    draw(el) {
+      barList(el, T, { label: r => `${nm(r[0])} (${citeOf(r[0])})`, value: r => r[3], color: () => css('--s1'), cap: 520, rw: narrow(W(el)) ? 74 : 130,
+        right: (r, nw) => nw ? `${r[3]} · ${fmt(r[4])}` : L(`${r[3]} lleis · ${fmt(r[4])} canvis`, `${r[3]} laws · ${fmt(r[4])} changes`),
+        tip: d => { const k = d[5]; return `<b>${esc(nmc(d[0]))}</b>${official(d[0])}` + trow(null, L('Lleis que hi declaren canvis', 'Laws stating changes'), fmt(d[3])) + trow(null, L('Canvis', 'Changes'), fmt(d[4])) +
+          trow(null, L('Modificacions · addicions · derogacions', 'Amendments · additions · repeals'), `${fmt(k.modification || 0)} · ${fmt(k.insertion || 0)} · ${fmt(k.repeal || 0)}`) + trow(null, L('Anys', 'Years'), `${d[6][0]}–${d[6][d[6].length - 1]}`); } });
+      note(el, ['data/amendments.csv (amended_folder)'], `${fmt(c.resolved)} ${L('canvis amb la llei identificada', 'changes with the law identified')}`,
+        L(`la barra és el nombre de lleis diferents que declaren canvis a cada llei; a la dreta, els canvis. Quan data/amendments.csv no dona la carpeta de la llei modificada, se cerca pel nom i la data (o el número) que cita la frase; ${fmt(c.unresolved)} canvis no s’han pogut atribuir.`,
+          `the bar is the number of distinct laws stating changes to each law; on the right, the changes. When data/amendments.csv gives no folder for the amended law, it is looked up by the name and date (or number) the sentence cites; ${fmt(c.unresolved)} changes could not be attributed.`));
+      table(el, [L('Llei', 'Law'), L('Lleis que hi declaren canvis', 'Laws stating changes'), L('Canvis', 'Changes'), L('Modificacions', 'Amendments'), L('Addicions', 'Additions'), L('Derogacions', 'Repeals')],
+        T.map(r => [nmc(r[0]), r[3], r[4], r[5].modification || 0, r[5].insertion || 0, r[5].repeal || 0]));
+    }
+  };
+});
+
+// 15. how many new laws a later law changes
+chart('c15', el => {
+  const c = D.c15, Y = c.years, s = (a, b, k) => sum(d3.range(a, b + 1), yy => Y[yy][k]);
+  const n1 = s(2011, 2019, 'n'), a1 = s(2011, 2019, 'amended');
+  return {
+    title: L(`El ${pct(a1, n1)} de les lleis noves del 2011–2019 han rebut canvis declarats per una llei posterior`, `${pct(a1, n1)} of the new laws of 2011–2019 have received changes stated by a later law`),
+    toc: L('Lleis modificades després', 'Laws amended later'),
+    dek: L(`Per a cada any de publicació, les lleis noves i els textos consolidats (claret) i les que alguna llei posterior declara modificar (fosc), segons data/amendments.csv. En tot el registre, ${fmt(c.amended)} de ${fmt(c.n)} (${pct(c.amended, c.n)}). Com que el repositori les guarda tal com es van aprovar, en aquestes lleis el text del repositori ja no és tot el text vigent. Les lleis recents han tingut menys temps per ser modificades, i abans del 2004 l’extracció troba menys canvis.`,
+      `For each year of publication, the new laws and consolidated texts (light) and those a later law states it amends (dark), from data/amendments.csv. Across the record, ${fmt(c.amended)} of ${fmt(c.n)} (${pct(c.amended, c.n)}). Since the repository keeps them as enacted, for these laws the repository’s text is no longer the whole text in force. Recent laws have had less time to be amended, and before 2004 the extraction finds fewer changes.`),
+    draw(el) {
+      legend(el, [{ c: mix(css('--s1'), .72), l: L('lleis noves i textos consolidats', 'new laws and consolidated texts') }, { c: css('--s1'), l: L('amb canvis declarats per una llei posterior', 'with changes stated by a later law') }]);
+      const w = W(el), nw = narrow(w), h = nw ? 220 : 270, m = { t: 22, r: 8, b: 22, l: nw ? 28 : 34 };
+      const svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+      const iw = w - m.l - m.r, ih = h - m.t - m.b, x = d3.scaleLinear().domain([1989, LASTY + 1]).range([0, iw]), step = x(1990) - x(1989), bw = Math.max(2, step - (nw ? 1.5 : 3));
+      const y = d3.scaleLinear().domain([0, d3.max(YEARS, yy => Y[yy].n)]).nice().range([ih, 0]);
+      yAxis(g, y, iw, 4);
+      YEARS.forEach(yy => {
+        const o = Y[yy], x0 = x(yy) + (step - bw) / 2, f = yy === LASTY ? .55 : 1;
+        if (o.n) g.append('path').attr('d', colPath(x0, y(0), bw, y(o.n), Math.min(3, bw / 2))).attr('fill', mix(css('--s1'), .72)).attr('opacity', f);
+        if (o.amended) g.append('path').attr('d', colPath(x0 + bw * .18, y(0), bw * .64, y(o.amended), Math.min(3, bw / 3))).attr('fill', css('--s1')).attr('opacity', f);
+        if (o.n >= 8 && !nw && step >= 20) g.append('text').attr('class', 'lbl mut').attr('x', x0 + bw / 2).attr('y', y(o.n) - 4).attr('text-anchor', 'middle').style('font-size', '10px').text(Math.round(100 * o.amended / o.n));
+        bindTip(g.append('rect').attr('class', 'hit').attr('x', x(yy)).attr('width', step).attr('y', 0).attr('height', ih).datum(yy),
+          d => `<b>${d}</b>` + trow(mix(css('--s1'), .72), L('Lleis noves i textos consolidats', 'New laws and consolidated texts'), fmt(Y[d].n)) + trow(css('--s1'), L('Amb canvis declarats', 'With stated changes'), `${fmt(Y[d].amended)} · ${pct(Y[d].amended, Y[d].n)}`) + trow(null, L('D’elles, qualificades', 'Of them, qualified'), fmt(Y[d].q)));
+      });
+      g.append('line').attr('class', 'base').attr('x1', 0).attr('x2', iw).attr('y1', ih).attr('y2', ih);
+      if (!nw && step >= 20) g.append('text').attr('class', 'lbl mut').attr('x', iw).attr('y', -10).attr('text-anchor', 'end').style('font-size', '10px').text(L('xifres: % amb canvis (anys amb 8 lleis o més)', 'figures: % with changes (years with 8 laws or more)'));
+      yearTicks(1989, LASTY, nw ? 10 : 5).forEach(v => g.append('text').attr('class', 'lbl').attr('x', x(v) + step / 2).attr('y', ih + 15).attr('text-anchor', 'middle').text(v));
+      note(el, ['data/amendments.csv', 'laws.csv'], `${fmt(c.n)} ${L('lleis', 'laws')}`,
+        L('una llei compta com a modificada si una llei posterior hi declara almenys un canvi (gràfic 14); els canvis que no es van extreure no hi són.', 'a law counts as amended if a later law states at least one change to it (chart 14); changes that were not extracted are missing.'));
+      table(el, [t('year'), L('Lleis', 'Laws'), L('Amb canvis declarats', 'With stated changes'), t('share')], YEARS.map(yy => [String(yy), Y[yy].n, Y[yy].amended, Y[yy].n ? pct(Y[yy].amended, Y[yy].n) : '–']));
+    }
+  };
+});
+
+// 16. consolidated texts
+chart('c16', el => {
+  const nObj = D.c16.texts.filter(x => x.obj).length, T = D.c16.texts.filter(x => x.orig), span = x => (PD(x.ad) - PD(x.orig[2])) / 3.15576e10, mx = T.reduce((a, b) => span(b) > span(a) ? b : a, T[0]);
+  const subj = f => nm(f).replace(/\s*\((?:text consolidat|consolidated text)\)$/, '');
+  return {
+    title: L(`${fmt(D.c16.texts.length)} textos consolidats des del 2020; el del ${subj(mx.f)}, ${Math.round(span(mx))} anys després del text original`,
+      `${fmt(D.c16.texts.length)} consolidated texts since 2020; that of the ${subj(mx.f)}, ${Math.round(span(mx))} years after the original text`),
+    toc: L('Els textos consolidats', 'Consolidated texts'),
+    dek: L(`Des del desembre del 2020, el Consell General aprova textos consolidats: lleis noves que reuneixen una llei i les seves modificacions en un sol text; ${nObj} de les ${D.c16.texts.length} queden aprovades, diuen els seus preàmbuls, perquè en un mes cap conseller ni grup parlamentari no hi presenta objeccions (article 116.6 del Reglament del Consell General). Cada barra va de l’aprovació del text original a la del text consolidat; les marques són les lleis que hi declaren canvis entremig. El repositori guarda tots dos textos, cadascun tal com es va aprovar.`,
+      `Since December 2020 the Consell General passes consolidated texts: new laws that gather a law and its amendments in one text; ${nObj} of the ${D.c16.texts.length}, their preambles say, are approved because within a month no councillor or parliamentary group objects (article 116.6 of the Rules of the Consell General). Each bar runs from the approval of the original text to that of the consolidated text; the ticks are the laws stating changes to it in between. The repository keeps both texts, each as enacted.`),
+    draw(el) {
+      const dup = s0 => T.filter(x => subj(x.f) === s0).length > 1, w = W(el), nw = narrow(w), labs = T.map(x => subj(x.f) + (dup(subj(x.f)) ? ` (${yr(x.ad)})` : '')), up = nw ? 13 : 0, lw = nw ? 0 : Math.min(330, textW(el, labs) + 14), rw = nw ? 82 : 112, rowH = 22 + up;
+      const svg = svgIn(el, w, T.length * rowH + 24), g = svg.append('g').attr('transform', `translate(${lw},2)`);
+      const iw = w - lw - rw, x = d3.scaleLinear().domain([1989, LASTY + 1]).range([0, iw]), ih = T.length * rowH;
+      yearTicks(1989, LASTY, nw ? 10 : 5).forEach(v => { g.append('line').attr('x1', x(v)).attr('x2', x(v)).attr('y1', 0).attr('y2', ih).attr('stroke', css('--grid'));
+        g.append('text').attr('class', 'lbl').attr('x', x(v)).attr('y', ih + 14).attr('text-anchor', 'middle').text(v); });
+      T.forEach((tx, i) => {
+        const y0 = i * rowH + up, by = y0 + 5, x0 = x(fy(tx.orig[2])), x1 = x(fy(tx.ad));
+        if (nw) g.append('text').attr('class', 'lbl strong').attr('x', 0).attr('y', y0 - 1).text(labs[i]);
+        else g.append('text').attr('class', 'lbl strong').attr('x', -10).attr('y', by + 9).attr('text-anchor', 'end').text(labs[i]);
+        g.append('path').attr('d', barPath(x0, by, Math.max(x0 + 4, x1), 12, 4)).attr('fill', mix(css('--s7'), .62));
+        tx.am.forEach(a => g.append('line').attr('x1', x(fy(a[2]))).attr('x2', x(fy(a[2]))).attr('y1', by - 1).attr('y2', by + 13).attr('stroke', css('--s1')).attr('stroke-width', 1.6));
+        g.append('circle').attr('cx', x1).attr('cy', by + 6).attr('r', 4.5).attr('fill', css('--s7')).attr('stroke', css('--surface')).attr('stroke-width', 1.5);
+        g.append('text').attr('class', 'lbl').attr('x', iw + 8).attr('y', by + 10).text(nw ? L(`${Math.round(span(tx))} anys · ${tx.am.length}`, `${Math.round(span(tx))} yrs · ${tx.am.length}`) : L(`${Math.round(span(tx))} anys · ${lleis(tx.am.length)}`, `${Math.round(span(tx))} years · ${lleis(tx.am.length)}`));
+        bindTip(g.append('rect').attr('class', 'hit').attr('x', -lw).attr('width', w).attr('y', y0 - up).attr('height', rowH).datum(tx), d =>
+          `<b>${esc(nmc(d.f))}</b>${official(d.f)}` + trow(null, L('Text original', 'Original text'), `${citeOf(d.orig[0])} · ${dateShort(d.orig[2])}`) + trow(null, L('Text consolidat', 'Consolidated text'), dateShort(d.ad)) +
+          trow(css('--s1'), L('Lleis que hi declaren canvis entremig', 'Laws stating changes in between'), fmt(d.am.length)) + d.am.slice(-4).map(a => `<div class="q">${citeOf(a[0])} · ${dateShort(a[2])}</div>`).join(''));
+      });
+      legend(el, [{ c: mix(css('--s7'), .62), l: L('del text original al text consolidat', 'from the original to the consolidated text') }, { c: css('--s1'), l: L('llei que hi declara canvis', 'law stating changes to it'), shape: 'line' }, { c: css('--s7'), l: L('text consolidat', 'consolidated text'), shape: 'dot' }]);
+      note(el, ['laws.csv (title)', 'data/amendments.csv'], `${fmt(T.length)} ${L('textos consolidats', 'consolidated texts')}`,
+        L('el text original és la llei anterior amb el mateix nom (la Llei de cooperació penal internacional del 2000, que el text consolidat del 2021 diu que reuneix, ha canviat de nom). Les marques són canvis declarats a data/amendments.csv, que no és complet; un segon text consolidat (el notariat, 2026) compta també els canvis al primer.',
+          'the original text is the earlier law of the same name (the 2000 International Criminal Cooperation Act, which the 2021 consolidated text says it gathers, was renamed). Ticks are changes stated in data/amendments.csv, which is not complete; a second consolidated text (notaries, 2026) also counts the changes to the first.'));
+      table(el, [L('Text consolidat', 'Consolidated text'), L('Aprovat', 'Approved'), L('Text original', 'Original text'), L('Anys', 'Years'), L('Lleis amb canvis declarats', 'Laws with stated changes')],
+        T.map(x => [nmc(x.f), dateTxt(x.ad), `${citeOf(x.orig[0])} (${dateTxt(x.orig[2])})`, Math.round(span(x)), x.am.length]));
+    }
+  };
+});
+
+part('p4', 'IV. Diners, impostos i Europa', 'IV. Money, taxes and Europe',
+  'Els pressupostos de l’Estat i els crèdits que els completen, els impostos que les lleis creen i modifiquen, la moneda en què parlen les lleis i la Unió Europea i altres organismes que esmenten.',
+  'The State budgets and the credits that top them up, the taxes the laws create and amend, the currency the laws speak in, and the European Union and other bodies they mention.');
+
+// 17. budgets and credits
+chart('c17', el => {
+  const c = D.c17, B = c.budgets, fys = Object.keys(B).map(Number), early = fys.filter(f => B[f].days < 0), late = fys.reduce((a, b) => B[b].days > B[a].days ? b : a, fys[0]);
+  const miss = c.missing.filter(yy => yy > 1989), cr = YEARS.reduce((a, b) => c.credit[b] > c.credit[a] ? b : a, YEARS[0]), med = median(fys.map(f => B[f].days));
+  return {
+    title: L(`Només ${early.length} dels ${fys.length} pressupostos s’aproven abans de l’1 de gener; per al ${andList(miss.map(String))}, cap llei de pressupost`,
+      `Only ${early.length} of the ${fys.length} budgets are approved before 1 January; for ${andList(miss.map(String))}, no budget law`),
+    toc: L('Pressupostos i crèdits', 'Budgets and credits'),
+    dek: L(`La llei del pressupost de cada any i el dia que el Consell General l’aprova, comptat des de l’1 de gener de l’exercici: la mediana, ${fmt(med)} dies després. El més tardà, el del ${late}, aprovat el ${dateTxt(B[late].ad)}. Per al ${andList(miss.map(String))} el registre no té llei de pressupost; el ${cr} té ${fmt(c.credit[cr])} lleis de crèdit extraordinari o de suplement de crèdit, que aproven despeses no previstes (a sota).`,
+      `Each year’s budget law and the day the Consell General approves it, counted from 1 January of its year: a median of ${fmt(med)} days after. The latest, for ${late}, approved on ${dateTxt(B[late].ad)}. For ${andList(miss.map(String))} the record has no budget law; ${cr} has ${fmt(c.credit[cr])} laws of extraordinary or supplementary credit, which approve unplanned spending (below).`),
+    draw(el) {
+      const CL = css('--s4'), CE = css('--s3'), w = W(el), nw = narrow(w), h = nw ? 220 : 260, m = { t: 12, r: 8, b: 22, l: nw ? 36 : 44 };
+      legend(el, [{ c: CE, l: L('aprovat abans de l’1 de gener', 'approved before 1 January') }, { c: CL, l: L('aprovat després de l’1 de gener', 'approved after 1 January') }, { c: css('--surface-2'), l: L('cap llei de pressupost al registre', 'no budget law in the record'), shape: 'hatch' }]);
+      const svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`), hid = hatch(svg);
+      const iw = w - m.l - m.r, ih = h - m.t - m.b, x = d3.scaleLinear().domain([1989, LASTY + 1]).range([0, iw]), step = x(1990) - x(1989), bw = Math.max(2, step - (nw ? 1.5 : 3));
+      const y = d3.scaleLinear().domain([Math.min(-30, d3.min(fys, f => B[f].days)), d3.max(fys, f => B[f].days)]).nice().range([ih, 0]);
+      yAxis(g, y, iw, 5, v => v === 0 ? L('1 gen', '1 Jan') : (v > 0 ? '+' : '') + fmt(v));
+      g.append('line').attr('class', 'base').attr('x1', 0).attr('x2', iw).attr('y1', y(0)).attr('y2', y(0));
+      YEARS.forEach(yy => {
+        const b = B[yy], x0 = x(yy) + (step - bw) / 2;
+        if (b) {
+          const v = b.days, r = Math.min(3, bw / 2);
+          g.append('path').attr('d', v >= 0 ? colPath(x0, y(0), bw, y(v), r) : `M${x0},${y(0)}V${y(v) - r}Q${x0},${y(v)} ${x0 + r},${y(v)}H${x0 + bw - r}Q${x0 + bw},${y(v)} ${x0 + bw},${y(v) - r}V${y(0)}Z`).attr('fill', v < 0 ? CE : CL);
+        } else if (yy > 1989) g.append('rect').attr('x', x0).attr('y', y(0) - 26).attr('width', bw).attr('height', 26).attr('rx', Math.min(3, bw / 2)).attr('fill', hid);
+        bindTip(g.append('rect').attr('class', 'hit').attr('x', x(yy)).attr('width', step).attr('y', 0).attr('height', ih).datum(yy), d => B[d]
+          ? `<b>${L('Pressupost per al', 'Budget for')} ${d}</b><div class="q">${esc(B[d].t)}</div>` + trow(null, L('Aprovat', 'Approved'), dateTxt(B[d].ad)) + trow(null, L('Dies des de l’1 de gener', 'Days from 1 January'), (B[d].days > 0 ? '+' : '') + fmt(B[d].days)) + trow(null, L('Lleis de crèdit de l’any', 'Credit laws that year'), fmt(c.credit[d]))
+          : `<b>${d}</b><div class="q">${L('Cap llei de pressupost per a aquest any al registre', 'No budget law for this year in the record')}</div>` + trow(null, L('Lleis de crèdit de l’any', 'Credit laws that year'), fmt(c.credit[d])));
+      });
+      yearTicks(1989, LASTY, nw ? 10 : 5).forEach(v => g.append('text').attr('class', 'lbl').attr('x', x(v) + step / 2).attr('y', ih + 15).attr('text-anchor', 'middle').text(v));
+      halo(g, x(late) + step + 2, y(B[late].days) + 4, `${late}: +${fmt(B[late].days)} ${L('dies', 'days')}`, 'start');
+      h4(el, L('Lleis de crèdit extraordinari i de suplement de crèdit, per any de publicació', 'Laws of extraordinary and supplementary credit, by year of publication'), 14);
+      const h2 = nw ? 150 : 170, svg2 = svgIn(el, w, h2), g2 = svg2.append('g').attr('transform', `translate(${m.l},10)`), ih2 = h2 - 32;
+      const y2 = d3.scaleLinear().domain([0, d3.max(YEARS, yy => c.credit[yy])]).nice().range([ih2, 0]);
+      yAxis(g2, y2, iw, 3);
+      YEARS.forEach(yy => { const v = c.credit[yy], x0 = x(yy) + (step - bw) / 2;
+        if (v) g2.append('path').attr('d', colPath(x0, y2(0), bw, y2(v), Math.min(3, bw / 2))).attr('fill', mix(css('--s4'), .45)).attr('opacity', yy === LASTY ? .55 : 1);
+        bindTip(g2.append('rect').attr('class', 'hit').attr('x', x(yy)).attr('width', step).attr('y', 0).attr('height', ih2).datum(yy), d => `<b>${d}</b>` + trow(mix(css('--s4'), .45), L('Lleis de crèdit', 'Credit laws'), fmt(c.credit[d]))); });
+      g2.append('line').attr('class', 'base').attr('x1', 0).attr('x2', iw).attr('y1', ih2).attr('y2', ih2);
+      yearTicks(1989, LASTY, nw ? 10 : 5).forEach(v => g2.append('text').attr('class', 'lbl').attr('x', x(v) + step / 2).attr('y', ih2 + 15).attr('text-anchor', 'middle').text(v));
+      halo(g2, x(cr) - 4, y2(c.credit[cr]) + 10, `${cr}: ${fmt(c.credit[cr])}`, 'end');
+      note(el, ['laws.csv (title)', 'lleis/<ANY>-<NÚMERO>/'], `${fmt(fys.length)} ${L('lleis de pressupost', 'budget laws')} · ${fmt(c.n_credit)} ${L('lleis de crèdit', 'credit laws')}`,
+        L(`la llei del pressupost és la que es titula «del pressupost per a l’exercici …» (o «per al …»); el dia és la data de la llei. El 1989 el registre comença el 29 de gener. També hi ha ${c.extraordinary.length} pressupost extraordinari (2021, per la COVID-19), no comptat aquí.`,
+          `the budget law is the one titled “del pressupost per a l’exercici …” (or “per al …”); the day is the law’s date. The record begins on 29 January 1989. There is also ${c.extraordinary.length} extraordinary budget (2021, for COVID-19), not counted here.`));
+      table(el, [L('Exercici', 'Year'), L('Llei', 'Law'), L('Aprovada', 'Approved'), L('Dies des de l’1 de gener', 'Days from 1 January'), L('Lleis de crèdit', 'Credit laws')],
+        YEARS.map(yy => B[yy] ? [String(yy), citeOf(B[yy].f), dateTxt(B[yy].ad), B[yy].days, c.credit[yy]] : [String(yy), '–', '–', '–', c.credit[yy]]));
+    }
+  };
+});
+
+// 18. taxes
+const TXN = { consum: ['Taxes sobre el consum (tarifa general)', 'Consumption duties (general tariff)'], imi: ['Impost de mercaderies indirecte (IMI)', 'Indirect goods tax (IMI)'],
+  canon: ['Cànon sobre l’electricitat i el telèfon', 'Electricity and telephone levy'], vehicles: ['Taxa sobre la tinença de vehicles', 'Vehicle ownership charge'],
+  registre: ['Taxa del Registre d’Activitats Econòmiques', 'Business register charge'], bases: ['Bases de l’ordenament tributari', 'Tax code framework'],
+  sectorials: ['Impostos indirectes sobre serveis i comerç', 'Indirect taxes on services and trade'], plusv: ['Impost sobre les plusvàlues immobiliàries', 'Property capital gains tax'],
+  itp: ['Impost sobre transmissions immobiliàries', 'Property transfer tax'], especials: ['Impostos especials', 'Excise duties'], irnr: ['Impost sobre la renda dels no-residents', 'Non-resident income tax'],
+  is: ['Impost sobre societats', 'Corporate income tax'], irae: ['Impost sobre la renda d’activitats econòmiques', 'Business income tax'], igi: ['Impost general indirecte (IGI)', 'General indirect tax (IGI)'],
+  irpf: ['Impost sobre la renda de les persones físiques', 'Personal income tax (IRPF)'], turist: ['Impost sobre les estades turístiques', 'Tourist stay tax'], iei: ['Impost sobre la inversió estrangera immobiliària', 'Foreign property investment tax'] };
+const TXS = { consum: ['Taxes sobre el consum', 'Consumption duties'], imi: ['IMI', 'IMI'], canon: ['Cànon elèctric i telefònic', 'Power and phone levy'], vehicles: ['Taxa de vehicles', 'Vehicle charge'],
+  registre: ['Taxa de registre', 'Register charge'], bases: ['Bases tributàries', 'Tax framework'], sectorials: ['Indirectes sectorials', 'Sector indirect taxes'], plusv: ['Plusvàlues', 'Capital gains'],
+  itp: ['Transmissions', 'Property transfers'], especials: ['Impostos especials', 'Excise duties'], irnr: ['No-residents', 'Non-residents'], is: ['Societats', 'Corporate'], irae: ['Activitats econòmiques', 'Business income'],
+  igi: ['IGI', 'IGI'], irpf: ['IRPF', 'IRPF'], turist: ['Estades turístiques', 'Tourist stays'], iei: ['Inversió immobiliària', 'Property investment'] };
+chart('c18', el => {
+  const lc = s0 => /^[A-ZÀ-Ú][a-zà-ú]/.test(s0) ? s0[0].toLowerCase() + s0.slice(1) : s0, c = D.c18, R = c.rows, first = k => R[k].created.length ? +R[k].created[0][3] : 1985, keys = c.keys.slice().sort((a, b) => first(a) - first(b) || a.localeCompare(b));
+  const top = keys.reduce((a, b) => R[b].n > R[a].n ? b : a, keys[0]), yIS = first('is'), yIGI = first('igi'), yIRPF = first('irpf');
+  return {
+    title: L(`Impost sobre societats el ${yIS}, IGI el ${yIGI} i IRPF el ${yIRPF}; el més modificat: ${lc(LA(TXS[top]))}, per ${R[top].n} lleis`,
+      `Corporate tax in ${yIS}, IGI in ${yIGI}, personal income tax in ${yIRPF}; the most amended: ${lc(LA(TXS[top]))}, by ${R[top].n} laws`),
+    toc: L('Els impostos', 'Taxes'),
+    dek: L(`Cada fila és un impost o una taxa amb llei pròpia al registre; les caselles fosques són l’any de la llei que el regula, i les blaves, els anys de les lleis que el modifiquen pel títol o que hi declaren canvis. Fins al 2010 la majoria són impostos indirectes i taxes (l’IMI del 1991, els impostos sobre serveis del 2000 al 2004); el desembre del 2010 arriben els impostos sobre la renda dels no-residents, sobre societats i sobre les activitats econòmiques, l’IGI el ${yIGI} i l’impost sobre la renda de les persones físiques el ${yIRPF}.`,
+      `Each row is a tax or charge with its own law in the record; dark cells are the year of the law that regulates it, and blue ones the years of laws that amend it by title or state changes to it. Until 2010 most are indirect taxes and charges (the 1991 IMI, the taxes on services of 2000–2004); December 2010 brings the taxes on non-resident income, on companies and on business income, the IGI comes in ${yIGI} and personal income tax in ${yIRPF}.`),
+    draw(el) {
+      const ramp = seqRamp(), CR = css('--s2'), Ys = YEARS, mx = d3.max(keys, k => d3.max(Ys, yy => (R[k].touch[yy] || []).length));
+      const cols = Ys.map(yy => ({ label: (nw, cw) => (yy % (cw < 12 ? 10 : 5) === 0) ? String(yy) : '', partial: yy === LASTY }));
+      const crY = k => new Set(R[k].created.map(r => +r[3]));
+      heat(el, keys.map(k => ({ key: k, label: nw => LA(nw ? TXS[k] : TXN[k]), vals: Ys.map(yy => (R[k].touch[yy] || []).length), total: R[k].n })), cols, {
+        cap: 300, maxCw: 22, ch: nw => nw ? 12 : 16, gapY: 3, rw: 54, rwn: 40, minText: 99,
+        color: (v, r, j) => crY(r.key).has(Ys[j]) ? CR : v ? ramp(.25 + .75 * Math.sqrt(v / mx)) : css('--surface-2'),
+        totColor: () => css('--s1'),
+        tip: (r, j) => { const yy = Ys[j], cr = R[r.key].created.filter(x => +x[3] === yy), tl = R[r.key].touch[yy] || [];
+          return `<b>${esc(LA(TXN[r.key]))} · ${yy}</b>` + cr.map(x => `<div class="q">${L('Llei pròpia', 'Own law')}: ${esc(nm(x[0]))} (${citeOf(x[0])})</div>`).join('') +
+            trow(null, L('Lleis que el modifiquen', 'Laws amending it'), fmt(tl.length)) + tl.slice(0, 4).map(f => `<div class="q">${citeOf(f)}</div>`).join(''); } });
+      legend(el, [{ c: CR, l: L('any de la llei que el regula', 'year of the law that regulates it') }, { c: ramp(.6), l: L('lleis que el modifiquen o hi declaren canvis', 'laws amending it or stating changes to it') }]);
+      note(el, ['laws.csv (title)', 'data/amendments.csv'], `${fmt(keys.length)} ${L('impostos i taxes', 'taxes and charges')}`,
+        L('l’impost es llegeix del títol («de l’impost sobre societats»…); les columnes són l’any de la data de cada llei. Les taxes sobre el consum no tenen la llei original al registre (és del 1985). A la dreta, el nombre de lleis diferents que modifiquen cada impost. La matèria tributària de les lleis sense impost propi (pressupostos, mesures) no hi és.',
+          'the tax is read from the title (“de l’impost sobre societats”…); the columns are the year of each law’s date. The consumption duties’ original law is not in the record (it dates from 1985). On the right, the number of distinct laws that amend each tax. Tax matters of laws without a tax of their own (budgets, measures) are not included.'));
+      table(el, [L('Impost o taxa', 'Tax or charge'), L('Llei pròpia', 'Own law'), L('Lleis que el modifiquen', 'Laws amending it'), L('Anys', 'Years')],
+        keys.map(k => [LA(TXN[k]), R[k].created.map(x => `${citeOf(x[0])} (${dateTxt(x[2])})`).join('; ') || '–', R[k].n, Object.keys(R[k].touch).join(', ')]));
+    }
+  };
+});
+
+// 19. currencies
+chart('c19', el => {
+  const c = D.c19, Y = c.years, s = (a, b, k) => sum(d3.range(a, b + 1), yy => Y[yy][k]);
+  const p1 = s(1989, 2001, 'pta') / s(1989, 2001, 'n'), e1 = s(2003, LASTY, 'eur') / s(2003, LASTY, 'n'), firstE = +yr(c.first_eur);
+  const nfrf = c.frf_laws.length;
+  return {
+    title: L(`Pessetes en el ${pv(100 * p1)} de les lleis del 1989–2001, euros en el ${pv(100 * e1)} des del 2003; francs francesos, en ${nn(nfrf, ['llei', 'lleis'], ['law', 'laws'])}`,
+      `Pesetas in ${pv(100 * p1)} of the laws of 1989–2001, euros in ${pv(100 * e1)} since 2003; French francs, in ${nn(nfrf, ['law', 'laws'], ['law', 'laws'])}`),
+    toc: L('La moneda de les lleis', 'The currency of the laws'),
+    dek: L(`La part de les lleis de cada any que esmenten pessetes o euros en el text. Les lleis d’abans de l’euro fixen els imports en pessetes (${fmt(c.pta_laws)} lleis) i gairebé mai en francs francesos (${fmt(nfrf)}). L’euro apareix el ${firstE}, i la ${nm(c.euro_law[0][0]) || ''} del ${yr(c.euro_law[0][2])} prepara el canvi; des del 2002, les pessetes només surten en mencions històriques (${c.pta_after2002.length} lleis).`,
+      `The share of each year’s laws whose text mentions pesetas or euros. The laws before the euro set amounts in pesetas (${fmt(c.pta_laws)} laws) and almost never in French francs (${fmt(nfrf)}). The euro appears in ${firstE}, and the ${yr(c.euro_law[0][2])} ${nm(c.euro_law[0][0])} prepares the change; from 2002, pesetas appear only in historical mentions (${c.pta_after2002.length} laws).`),
+    draw(el) {
+      const SP = css('--s2'), SE = css('--s1');
+      legend(el, [{ c: SP, l: L('lleis que esmenten pessetes', 'laws mentioning pesetas'), shape: 'line' }, { c: SE, l: L('lleis que esmenten euros', 'laws mentioning euros'), shape: 'line' }]);
+      const lastP = d3.max(YEARS.filter(yy => yy <= 2003 && Y[yy].pta)), sp = YEARS.filter(yy => yy <= lastP + 1 && Y[yy].n).map(yy => [yy, 100 * Y[yy].pta / Y[yy].n]);
+      const se = YEARS.filter(yy => yy >= firstE && Y[yy].n).map(yy => [yy, 100 * Y[yy].eur / Y[yy].n]);
+      const later = YEARS.filter(yy => yy > lastP + 1 && Y[yy].pta).map(yy => [yy, 100 * Y[yy].pta / Y[yy].n]);
+      const r = yearLines(el, [{ pts: sp, color: SP, area: true }, { pts: se, color: SE, area: true }, { pts: later, color: SP, r: 2.6, maxGap: 0 }], { x0: 1989, x1: LASTY, yMax: 100, nice: false, yFmt: v => pv(v), ticks: yearTicks(1989, LASTY, 5), ticksN: yearTicks(1989, LASTY, 10),
+        tip: yy => `<b>${yy}</b>` + trow(null, L('Lleis', 'Laws'), fmt(Y[yy].n)) + trow(SP, L('Amb pessetes', 'With pesetas'), `${fmt(Y[yy].pta)} · ${pct(Y[yy].pta, Y[yy].n)}`) + trow(SE, L('Amb euros', 'With euros'), `${fmt(Y[yy].eur)} · ${pct(Y[yy].eur, Y[yy].n)}`) + (Y[yy].frf ? trow(null, L('Amb francs francesos', 'With French francs'), fmt(Y[yy].frf)) : '') });
+      const ex = +yr(c.euro_law[0][2]);
+      r.g.append('line').attr('x1', r.x(ex)).attr('x2', r.x(ex)).attr('y1', 0).attr('y2', r.ih).attr('stroke', css('--text-3')).attr('stroke-dasharray', '3 3');
+      halo(r.g, r.x(ex) + 6, 12, L('2000: llei de transició a l’euro', '2000: euro transition law'), 'start', 'lbl mut');
+      const le = se[se.length - 1];
+      halo(r.g, r.x(le[0]) + 7, r.y(le[1]) + 4, pv(le[1]), 'start', 'lbl strong', SE);
+      note(el, ['lleis/<ANY>-<NÚMERO>/*.md'], `${fmt(s(1989, LASTY, 'n'))} ${L('lleis', 'laws')}`,
+        L('una llei compta si qualsevol dels seus fitxers diu «pesseta(es)» o «PTA», o «euro(s)» o «€»; els francs, si diu «francs francesos» o «FF». Els punts aïllats després del 2003 són mencions històriques de pessetes.',
+          'a law counts if any of its files says “pesseta(es)” or “PTA”, or “euro(s)” or “€”; francs, if it says “francs francesos” or “FF”. Isolated dots after 2003 are historical mentions of pesetas.'));
+      table(el, [t('year'), L('Lleis', 'Laws'), L('Pessetes', 'Pesetas'), L('Euros', 'Euros'), L('Francs francesos', 'French francs')], YEARS.map(yy => [String(yy), Y[yy].n, Y[yy].pta, Y[yy].eur, Y[yy].frf]));
+    }
+  };
+});
+
+// 20. Europe and international bodies
+const BDN = { eu: ['Unió Europea o Comunitat Europea', 'European Union or Community'], acts: ['Directives o reglaments de la UE pel número', 'EU directives or regulations by number'], monetari: ['Acord monetari amb la UE', 'Monetary Agreement with the EU'],
+  coe: ['Consell d’Europa', 'Council of Europe'], onu: ['Nacions Unides', 'United Nations'], ocde: ['OCDE', 'OECD'], gafi: ['GAFI o MONEYVAL', 'FATF or MONEYVAL'] };
+chart('c20', el => {
+  const c = D.c20, P = c.periods, j = P.findIndex(p => p[0] === 2019), shr = k => c.cells[k][j] / c.ptot[j];
+  return {
+    title: L(`La Unió Europea, esmentada en el ${pv(100 * shr('eu'))} de les lleis del 2019–2023; ${fmt(c.n_dirs)} directives europees citades pel número`,
+      `The European Union is mentioned in ${pv(100 * shr('eu'))} of the laws of 2019–2023; ${fmt(c.n_dirs)} EU directives cited by number`),
+    toc: L('Europa i els organismes', 'Europe and international bodies'),
+    dek: L(`Per a cada període de cinc anys, les lleis publicades (claret) i les que esmenten cada institució (fosc), amb el percentatge a sobre. La Unió Europea passa del ${pct(c.cells.eu[0], c.ptot[0])} de les lleis del 1989–1993 al ${pv(100 * shr('eu'))} del 2019–2023. L’Acord monetari amb la UE surt per primer cop el ${yr(c.first_monetari[2])}; ${fmt(c.dirlaws.length)} lleis citen directives pel número, sobretot les del sistema financer.`,
+      `For each five-year period, the laws published (light) and those mentioning each body (dark), with the share on top. The European Union goes from ${pct(c.cells.eu[0], c.ptot[0])} of the laws of 1989–1993 to ${pv(100 * shr('eu'))} of 2019–2023. The Monetary Agreement with the EU first appears in ${yr(c.first_monetari[2])}; ${fmt(c.dirlaws.length)} laws cite directives by number, mostly those on the financial system.`),
+    draw(el) {
+      const grid = el.append('div').attr('class', 'multi');
+      const cells = c.bodies.map(k => { const cell = grid.append('div'); cell.append('h4').text(LA(BDN[k])); cell.append('p').text(L(`${fmt(c.tot[k])} lleis`, `${fmt(c.tot[k])} laws`)); return [k, cell]; });
+      legend(el, [{ c: mix(css('--s1'), .72), l: L('lleis publicades', 'laws published') }, { c: css('--s1'), l: L('lleis que l’esmenten', 'laws mentioning it') }]);
+      cells.forEach(([k, cell]) => {
+        const w = Math.max(140, cell.node().getBoundingClientRect().width || 220), h = 128, m = { t: 16, r: 2, b: 18, l: 2 };
+        const svg = cell.append('div').attr('class', 'plot').append('svg').attr('viewBox', `0 0 ${w} ${h}`).attr('width', w).attr('height', h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+        const iw = w - m.l - m.r, ih = h - m.t - m.b, step = iw / P.length, bw = Math.min(22, step * .72), y = d3.scaleLinear().domain([0, d3.max(c.ptot)]).range([ih, 0]);
+        P.forEach((p, i) => {
+          const x0 = i * step + (step - bw) / 2, n = c.ptot[i], v = c.cells[k][i], f = i === P.length - 1 ? .6 : 1;
+          g.append('path').attr('d', colPath(x0, ih, bw, y(n), 3)).attr('fill', mix(css('--s1'), .72)).attr('opacity', f);
+          if (v) g.append('path').attr('d', colPath(x0 + bw * .2, ih, bw * .6, Math.min(y(v), ih - 2), 2)).attr('fill', css('--s1')).attr('opacity', f);
+          g.append('text').attr('class', 'lbl').attr('x', x0 + bw / 2).attr('y', y(n) - 4).attr('text-anchor', 'middle').style('font-size', '10px').text(v ? Math.round(100 * v / n) + (step < 26 ? '' : LANG === 'ca' ? ' %' : '%') : '');
+          if (i % 2 === 0) g.append('text').attr('class', 'lbl mut').attr('x', x0 + bw / 2).attr('y', ih + 13).attr('text-anchor', 'middle').style('font-size', '10px').text(`’${String(p[0]).slice(2)}`);
+          bindTip(g.append('rect').attr('class', 'hit').attr('x', i * step).attr('y', 0).attr('width', step).attr('height', ih).datum(i), ii => `<b>${esc(LA(BDN[k]))}</b><div class="q">${P[ii][0]}–${P[ii][1]}</div>` +
+            trow(css('--s1'), L('Lleis que l’esmenten', 'Laws mentioning it'), `${fmt(c.cells[k][ii])} · ${pct(c.cells[k][ii], c.ptot[ii])}`) + trow(mix(css('--s1'), .72), L('Lleis publicades', 'Laws published'), fmt(c.ptot[ii])));
+        });
+        g.append('line').attr('class', 'base').attr('x1', 0).attr('x2', iw).attr('y1', ih).attr('y2', ih);
+      });
+      h4(el, L('Les lleis que citen més directives europees', 'The laws citing the most EU directives'), 16);
+      barList(el, c.dirlaws.slice(0, 8), { label: r => `${r[2]} · ${nm(r[0])}`, value: r => r[3], color: () => css('--s1'), cap: 470, rw: 96, right: r => L(`${r[3]} directives`, `${r[3]} directives`),
+        tip: d => `<b>${esc(nmc(d[0]))}</b>${official(d[0])}` + trow(null, L('Directives citades pel número', 'Directives cited by number'), fmt(d[3])) });
+      note(el, ['lleis/<ANY>-<NÚMERO>/*.md'], `${fmt(sum(c.ptot))} ${L('lleis', 'laws')}`,
+        L('una llei compta si qualsevol dels seus fitxers diu el nom (o la sigla) de la institució; les directives i els reglaments, si se citen amb el número («Directiva (UE) 2015/849»). Els períodes són de cinc anys; l’últim, 2024–2026, arriba al ' + dateTxt(PF.last_pub) + ' (més clar). Les xifres són percentatges de les lleis del període.',
+          'a law counts if any of its files gives the body’s name (or acronym); directives and regulations, if cited with their number (“Directiva (UE) 2015/849”). The periods are five years long; the last, 2024–2026, runs to ' + dateTxt(PF.last_pub) + ' (lighter). The figures are percentages of the period’s laws.'));
+      table(el, [L('Institució', 'Body'), ...P.map(p => `${p[0]}–${p[1]}`), t('total')], c.bodies.map(k => [LA(BDN[k]), ...c.cells[k], c.tot[k]]).concat([[L('Lleis publicades', 'Laws published'), ...c.ptot, sum(c.ptot)]]));
+      subTable(el, L('Lleis que citen directives europees pel número', 'Laws citing EU directives by number'), [L('Any', 'Year'), L('Llei', 'Law'), L('Directives', 'Directives')], c.dirlaws.map(r => [String(r[2]), nmc(r[0]), r[3]]), [0, 0, 1]);
+    }
+  };
+});
+// ------------------------------------------------------------------ page
+function profileTable() {
+  const P = PF, el = d3.select('#profile').html('');
+  const rows = [
+    [L('Lleis i Constitució', 'Laws and Constitution'), 'lleis/<ANY>-<NÚMERO>/ · constitucio/ · laws.csv', fmt(P.acts + 1), L(`la Constitució i ${fmt(P.acts)} textos del BOPA sota «Lleis» (${fmt(P.lawlike)} lleis i ${fmt(P.docs)} edictes i quadres), del ${dateTxt(P.first_pub)} al ${dateTxt(P.last_pub)}; un fitxer per article, disposició o annex (${fmt(P.files)} fitxers, ${fmt(P.articles)} articles)`, `the Constitution and ${fmt(P.acts)} BOPA texts under “Lleis” (${fmt(P.lawlike)} laws and ${fmt(P.docs)} edicts and tables), from ${dateTxt(P.first_pub)} to ${dateTxt(P.last_pub)}; one file per article, provision or annex (${fmt(P.files)} files, ${fmt(P.articles)} articles)`), L('cada llei tal com es va aprovar; no hi ha decrets ni reglaments del Govern, ni ordinacions dels comuns', 'each law as enacted; Government decrees and regulations and the comuns’ ordinances are not included')],
+    [L('Historial de git', 'Git history'), 'git log origin/main · origin/future', fmt(P.acts + 1), L(`un commit per llei, datat el dia que entra en vigor (In-force:, In-force-basis:, Published:, Bulletin:), amb la frase de la llei que en fixa la vigència; ${fmt(P.future)} lleis a la branca future`, `one commit per law, dated the day it enters into force (In-force:, In-force-basis:, Published:, Bulletin:), quoting the law’s sentence on its entry into force; ${fmt(P.future)} laws on the future branch`), L('la història no té modificacions aplicades: cada llei és un sol commit', 'the history applies no amendments: each law is a single commit')],
+    [L('Signatures i preàmbuls', 'Signatures and preambles'), 'signatures.md · preamble.md', fmt(P.lawlike), L(`el síndic general, els coprínceps, el lloc i el dia d’aprovació, la sessió i l’exposició de motius; ${fmt(P.signed)} lleis des de la Constitució`, `the Síndic General, the co-princes, the place and day of approval, the session and the statement of reasons; ${fmt(P.signed)} laws since the Constitution`), L('llegits del text; els quadres de pressupost que segueixen les signatures no compten', 'read from the text; budget tables after the signatures do not count')],
+    [L('Canvis declarats', 'Stated changes'), 'data/amendments.csv', fmt(P.changes), L(`els canvis que les lleis posteriors declaren, frase a frase, amb la llei modificada (identificada en ${fmt(P.changes - P.unresolved)})`, `the changes later laws state, sentence by sentence, with the amended law (identified for ${fmt(P.changes - P.unresolved)})`), L('extracció automàtica, no completa ni revisada a mà; no s’apliquen al text', 'automatic extraction, neither complete nor checked by hand; not applied to the text')],
+    [L('Correccions d’errades', 'Corrections of errata'), 'data/corrections.csv', fmt(P.corrections), L('documents de correcció publicats al BOPA, llistats', 'correction documents published in the BOPA, listed'), L('no s’apliquen; no surten als gràfics', 'not applied; not in the charts')],
+  ];
+  const tb = el.append('table');
+  tb.append('thead').append('tr').selectAll('th').data([t('ds'), t('src'), t('n'), t('cover'), t('caveat')]).join('th').text(d => d);
+  const tr = s => Object.entries(PH).reduce((a, [x, y]) => a.split(x).join(LA(y)), s);
+  tb.append('tbody').selectAll('tr').data(rows).join('tr').selectAll('td').data(r => r).join('td').html((v, i) => i === 1 ? `<code>${esc(tr(v))}</code>` : esc(v));
+}
+// a label that runs past the edge of its chart's card would be cut: report it (the charts size their columns to their labels)
+function checkLeftLabels(fig) {
+  const fr = fig.node().getBoundingClientRect();
+  fig.selectAll('svg text').each(function () {
+    const r = this.getBoundingClientRect();
+    if (r.width && (r.left < fr.left - 0.5 || r.right > fr.right + 0.5)) console.warn('label outside its chart', fig.attr('id'), this.textContent);
+  });
+}
+function render() {
+  HATCH = 0;
+  document.documentElement.lang = LANG;
+  document.title = t('title');
+  d3.selectAll('[data-i]').each(function () { this.textContent = t(this.dataset.i).replace('{laws}', fmt(PF.acts)); });
+  document.getElementById('gl-link').innerHTML = t('gl');
+  d3.selectAll('[data-lang]').attr('aria-pressed', function () { return String(this.dataset.lang === LANG); });
+  d3.selectAll('[data-theme-set]').attr('aria-pressed', function () { return String(this.dataset.themeSet === THEME); });
+  const one = D.c07.laws.filter(l => l[2] !== 'both').length;
+  const tv = [[fmt(PF.lawlike), L('lleis del Consell General, 1989–2026', 'laws of the Consell General, 1989–2026')], [fmt(PF.qualified), L('lleis qualificades', 'qualified laws')],
+    [fmt(PF.articles), L('articles (un fitxer cadascun)', 'articles (one file each)')], [dec(PF.words / 1e6, 1) + L(' milions', ' million'), L('de paraules', 'words')],
+    [fmt(PF.changes), L('canvis declarats per lleis posteriors', 'changes stated by later laws')], [fmt(one), L('lleis amb la signatura d’un sol copríncep', 'laws signed by one co-prince only')]];
+  d3.select('#tiles').html('').selectAll('div').data(tv).join('div').attr('class', 'tile').html(d => `<b>${d[0]}</b><span>${d[1]}</span>`);
+  profileTable();
+  const main = d3.select('#main').html(''), toc = d3.select('#toc').html('');
+  let sec = null, n = 0;
+  CH.forEach(c => {
+    if (c.part) {
+      sec = main.append('section').attr('class', 'part').attr('id', c.id);
+      sec.append('h2').text(L(c.ca, c.en)); sec.append('p').attr('class', 'pd').text(L(c.dca, c.den));
+      toc.append('a').attr('class', 'p').attr('href', '#' + c.id).text(L(c.ca, c.en));
+      return;
+    }
+    n++;
+    const fig = sec.append('figure').attr('class', 'chart').attr('id', c.id);
+    let spec;
+    try { spec = c.fn(fig); } catch (e) { fig.append('p').attr('class', 'note').text('Error: ' + e.message); console.error(c.id, e); return; }
+    const h3 = fig.append('h3'); h3.append('span').attr('class', 'no').text(n + '.'); h3.append('span').text(spec.title);
+    fig.append('p').attr('class', 'dek').text(spec.dek);
+    try { spec.draw(fig); } catch (e) { fig.append('p').attr('class', 'note').text('Error: ' + e.message); console.error(c.id, e); }
+    checkLeftLabels(fig);
+    fig.select('svg').attr('aria-label', spec.title);
+    toc.append('a').attr('href', '#' + c.id).text(`${n}. ${spec.toc || spec.title.split(/:\s/)[0]}`);
+  });
+  d3.select('#foot').text(t('foot').replace('{built}', dateTxt(PF.built) + (PF.head ? ', ' + PF.head.slice(0, 10) : '')).replace('{record}', dateTxt(PF.record_to)));
+}
+d3.selectAll('[data-lang]').on('click', function () { LANG = this.dataset.lang; try { localStorage.setItem('ad-viz-lang', LANG); } catch (e) {} render(); });
+d3.selectAll('[data-theme-set]').on('click', function () {
+  THEME = this.dataset.themeSet;
+  if (THEME === 'auto') document.documentElement.removeAttribute('data-theme'); else document.documentElement.setAttribute('data-theme', THEME);
+  try { localStorage.setItem('ad-viz-theme', THEME); } catch (e) {}
+  render();
+});
+if (THEME !== 'auto') document.documentElement.setAttribute('data-theme', THEME);
+try { matchMedia('(prefers-color-scheme: dark)').addEventListener('change', () => { if (THEME === 'auto') render(); }); } catch (e) {}
+let lastW = innerWidth, rt;
+addEventListener('resize', () => { if (Math.abs(innerWidth - lastW) < 40) return; clearTimeout(rt); rt = setTimeout(() => { lastW = innerWidth; const y = scrollY; render(); scrollTo(0, y); }, 200); });
+render();
+// labels are measured as they are drawn: draw again when the web fonts have loaded, so the measures are the fonts' own
+let ft;
+const redraw = () => { clearTimeout(ft); ft = setTimeout(() => { const y = scrollY; render(); scrollTo(0, y); }, 120); };
+const T0 = Date.now();
+if (document.fonts) { if (document.fonts.status !== 'loaded') document.fonts.ready.then(redraw); document.fonts.addEventListener('loadingdone', () => { if (Date.now() - T0 < 15000) redraw(); }); }
+</script>
+</body>
+</html>
+

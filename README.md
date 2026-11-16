@@ -86,7 +86,13 @@ Aquesta és una traducció de la versió anglesa ([README.en.md](README.en.md));
 
 ## Visualitzacions
 
-- [visualisations/](visualisations/): gràfics fets a partir d'aquest repositori. Encara no s'han fet.
+[visualisations/](visualisations/): El dret andorrà en 20 gràfics, dibuixats a partir d’aquest repositori.
+
+Inclou:
+
+- les lleis per any i per matèria, les lleis qualificades i els codis
+- les signatures dels coprínceps, el calendari de les sessions i l’entrada en vigor
+- els canvis que declaren les lleis posteriors, els pressupostos i els impostos
 
 ## Més informació
 

@@ -84,7 +84,13 @@ No AI model wrote or changed legal text, and none runs when the repository is bu
 
 ## Visualisations
 
-- [visualisations/](visualisations/README.en.md): charts drawn from this repository. Not drawn yet.
+[visualisations/](visualisations/): Andorran law in 20 charts, drawn from this repository.
+
+Including:
+
+- the laws by year and subject, qualified laws and the codes
+- the co-princes' signatures, the calendar of sessions and entry into force
+- the changes later laws state, budgets and taxes
 
 ## More
 
